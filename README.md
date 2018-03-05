@@ -3,7 +3,7 @@
 
 [**Краткое руководство по инвестированию**](https://github.com/lawlex/SimpleGuideToInvesting)
 
-[**Словарь финансовых терминов**](https://github.com/lawlex/SimpleGuideToInvesting/dictionary/terms.md)
+[**Словарь финансовых терминов**](https://github.com/lawlex/SimpleGuideToInvesting/blob/master/dictionary/terms.md)
 
 ---
 >[Блог на wordpress.com](https://simplyguidetoinvesting.wordpress.com)
