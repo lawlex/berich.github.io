@@ -9,9 +9,10 @@ var translate = Deck.translate;
 
 var $container = document.getElementById('container');
 /*var $topbar = document.getElementById('topbar')*/
-var $topbar = $('topbar').append('<ul class="navbar-nav"></ul>');
+var $navbar_nav = $('topbar').append('<ul class="navbar-nav"></ul>');
 
-var $sort = document.createElement('button');
+/*var $sort = document.createElement('button');*/
+var $sort = $navbar_nav.append('<li class="nav-item"><a id="btn-sort" class="nav-link" href="#">Sort</a></li>');
 var $shuffle = document.createElement('button');
 var $bysuit = document.createElement('button');
 var $fan = document.createElement('button');
@@ -25,12 +26,12 @@ $fan.textContent = 'Fan';
 $poker.textContent = 'Poker';
 $flip.textContent = 'Flip';
 
-$topbar.appendChild($flip);
-$topbar.appendChild($shuffle);
-$topbar.appendChild($bysuit);
-$topbar.appendChild($fan);
-$topbar.appendChild($poker);
-$topbar.appendChild($sort);
+$topbar.append($flip);
+$topbar.append($shuffle);
+$topbar.append($bysuit);
+$topbar.append($fan);
+$topbar.append($poker);
+$topbar.append($sort);
 
 var deck = Deck();
 
@@ -213,13 +214,13 @@ function printMessage (text) {
 
   var diffX = window.innerWidth;
 
-  animationFrames(1000, 700);
+  animationFrames(1000, 700)
     .progress(function (t) {
       t = ease.cubicInOut(t);
       $message.style[transform] = translate((diffX - diffX * t) + 'px', 0);
     })
 
-  animationFrames(6000, 700);
+  animationFrames(6000, 700)
     .start(function () {
       diffX = window.innerWidth;
     })
