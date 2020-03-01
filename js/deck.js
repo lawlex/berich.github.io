@@ -8,8 +8,8 @@ var transform = prefix('transform')
 var translate = Deck.translate
 
 var $container = document.getElementById('container')
-var $topbar = document.getElementById('topbar')
-
+/*var $topbar = document.getElementById('topbar')*/
+var $topbar = $('topbar')
 var $sort = document.createElement('button')
 var $shuffle = document.createElement('button')
 var $bysuit = document.createElement('button')
