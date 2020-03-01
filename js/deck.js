@@ -9,7 +9,7 @@ var translate = Deck.translate;
 
 var $container = document.getElementById('container');
 /*var $topbar = document.getElementById('topbar')*/
-var $topbar = $('topbar').append();
+var $topbar = $('topbar').append('<ul class="navbar-nav"></ul>');
 
 var $sort = document.createElement('button');
 var $shuffle = document.createElement('button');
