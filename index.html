@@ -5,9 +5,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <link href="/css/deck.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600|Ubuntu+Condensed" rel="stylesheet" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <script src="/lib/deck-of-cards/deck.js"></script>
+  <script src="/lib/pokersolver/pokersolver.js"></script>
   <style>
   .fakeimg {
     height: 200px;
@@ -22,7 +26,7 @@
   <p>Repo 'Holdem Restricted Area'</p>
 </div>
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+<nav id="topbar "class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
   <a class="navbar-brand" href="#">Logo</a>
   <ul class="navbar-nav">
     <li class="nav-item">
@@ -59,6 +63,8 @@
       </ul>
       <hr class="d-sm-none">
     </div>
+    <div id="container"></div>
+    <!--
     <div class="col-sm-8">
       <h2>TITLE HEADING</h2>
       <h5>Title description, Dec 7, 2017</h5>
@@ -71,13 +77,13 @@
       <div class="fakeimg">Fake Image</div>
       <p>Some text..</p>
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-    </div>
+    </div>-->
   </div>
 </div>
 
 <div class="jumbotron text-center" style="margin-bottom:0">
   <p>Footer</p>
 </div>
-
+<script src="/js/deck.js"></script>
 </body>
 </html>
