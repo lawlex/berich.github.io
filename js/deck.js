@@ -10,7 +10,7 @@ var translate = Deck.translate
 var $container = document.getElementById('container')
 var $topbar = document.getElementById('topbar')
 var $navbar = document.createElement('ul')
-$navbar.class('navbar-nav')
+$navbar.css('navbar-nav')
 $topbar.appendChild($navbar)
 var $_sort = $document.createElement('li')
 $_sort.class('nav-item')
