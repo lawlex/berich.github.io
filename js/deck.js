@@ -11,6 +11,8 @@ var $container = document.getElementById('container')
 var $topbar = document.getElementById('topbar')
 var $navbar = document.createElement('ul')
 $navbar.class('navbar-nav')
+var $_sort = $navbar.createElement('li')
+$_sort.class('nav-item')
 
 var $sort = document.createElement('button')
 var $shuffle = document.createElement('button')
