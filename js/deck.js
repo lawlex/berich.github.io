@@ -9,11 +9,6 @@ var translate = Deck.translate
 
 var $container = document.getElementById('container')
 var $topbar = document.getElementById('topbar')
-var $navbar = document.createElement('ul')
-$navbar.css('navbar-nav')
-$topbar.appendChild($navbar)
-var $_sort = $document.createElement('li')
-$_sort.class('nav-item')
 
 var $sort = document.createElement('button')
 var $shuffle = document.createElement('button')
@@ -29,12 +24,12 @@ $fan.textContent = 'Fan'
 $poker.textContent = 'Poker'
 $flip.textContent = 'Flip'
 
-$navbar.appendChild($flip)
-$navbar.appendChild($shuffle)
-$navbar.appendChild($bysuit)
-$navbar.appendChild($fan)
-$navbar.appendChild($poker)
-$navbar.appendChild($sort)
+$topbar.appendChild($flip)
+$topbar.appendChild($shuffle)
+$topbar.appendChild($bysuit)
+$topbar.appendChild($fan)
+$topbar.appendChild($poker)
+$topbar.appendChild($sort)
 
 var deck = Deck()
 
