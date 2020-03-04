@@ -22,6 +22,7 @@ body {
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
+
 #container {
   position: fixed;
   top: calc(50% + 1.5rem);
@@ -32,6 +33,7 @@ body {
   -ms-transform: translate3d(-50%, -50%, 0);
   transform: translate3d(-50%, -50%, 0);
 }
+/*
 #topbar {
   position: fixed;
   top: 0;
@@ -40,7 +42,7 @@ body {
   background-color: #334d41;
   padding: 0.25rem;
   text-align: center;
-}
+}*/
 #topbar button {
   background: none;
   border: 1px solid #fff;

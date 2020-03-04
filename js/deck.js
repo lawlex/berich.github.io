@@ -1,4 +1,4 @@
-
+$(function(){
 /* global Deck */
 
 var prefix = Deck.prefix;
@@ -8,6 +8,7 @@ var transform = prefix('transform');
 var translate = Deck.translate;
 
 var $container = document.getElementById('container');
+/*
 var $topbar = document.getElementById('topbar');
 
 var $sort = document.createElement('button');
@@ -23,7 +24,7 @@ $bysuit.textContent = 'By suit';
 $fan.textContent = 'Fan';
 $poker.textContent = 'Poker';
 $flip.textContent = 'Flip';
-/*
+
 $topbar.appendChild($flip);
 $topbar.appendChild($shuffle);
 $topbar.appendChild($bysuit);
@@ -32,7 +33,7 @@ $topbar.appendChild($poker);
 $topbar.appendChild($sort);
 */
 // navbar
-var $_topbar = $('#topbar');
+var $_topbar = $('#collapsibleNavbar');
 var $_navbar = $('<ul class="navbar-nav"></ul>');
 
 var $_lisort = $('<li class="nav-item"><button id="btn_sort" class="nav-link">Sort</button></li>');
@@ -43,21 +44,6 @@ var $_lipoker = $('<li class="nav-item"><button id="btn_poker" class="nav-link">
 var $_liflip = $('<li class="nav-item"><button id="btn_flip" class="nav-link">Flip</button></li>');
 
 $_navbar.append($_liflip, $_lishuffle, $_libysuit, $_lifan, $_lipoker, $_lisort);
-
-//var $_sort = $('btn_sort');
-//var $_shuffle = $('btn_shuffle');
-var $_bysuit = $('btn_bysuit');
-var $_fan = $('btn_fan');
-var $_poker = $('btn_poker');
-var $_flip = $('btn_flip');
-/*
-<li class="nav-item">
-
-      <a class="nav-link" href="#">Link</a>
-
-    </li>
-*/
-
 $_topbar.append($_navbar);
 // end navbar
 
@@ -116,7 +102,7 @@ deck.cards.forEach(function (card, i) {
       }
     }
   }
-})
+});
 
 function startWinning () {
   var $winningDeck = document.createElement('div');
@@ -302,3 +288,4 @@ function printMessage (text) {
       document.body.removeChild($message);
     })
 }
+});
