@@ -33,6 +33,7 @@ $(function(){
   $topbar.appendChild($sort);
   */
   // navbar
+  /*
   var $_topbar = $('#collapsibleNavbar');
   var $_navbar = $('<ul class="navbar-nav"></ul>');
 
@@ -45,9 +46,21 @@ $(function(){
   var $_liexplode = $('<li class="nav-item"><button id="btn_explode" class="nav-link">Explode</button></li>');
   var $_liholdem = $('<li class="nav-item"><button id="btn_holdem" class="nav-link">Holdem</button></li>');
 
-  $_navbar.append($_liflip, $_lishuffle, $_libysuit, $_lifan, $_lipoker, $_lisort, $_liexplode, $_liholdem);
+    $_navbar.append($_liflip, $_lishuffle, $_libysuit, $_lifan, $_lipoker, $_lisort, $_liexplode, $_liholdem);
   $_topbar.append($_navbar);
+  */
   // end navbar
+
+  var $_footerbtngroup = $('#footerbtngroup');
+  var $_btnsort = $('<button id="btnsort" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Sort</button>');
+  var $_btnshuffle = $('<button id="btnshuffle" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Shuffle</button>');
+  var $_btnbysuit = $('<button id="btnbysuit" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">By suit</button>');
+  var $_btnfan = $('<button id="btnfan" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Fan</button>');	
+  var $_btnpoker = $('<button id="btnpoker" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Poker</button>');	
+  var $_btnflip = $('<button id="btnflip" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Flip</button>');	
+  var $_btnexplode= $('<button id="btnexplode" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Explode</button>');	
+  var $_btnholdem = $('<button id="btnholdem" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Holdem</button>');	
+  $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem);
 
   var deck = Deck();
 
@@ -166,34 +179,34 @@ $(function(){
   // easter eggs end
   // new buttons
 
-  $('#btn_shuffle').click(function(){
+  $('#btnshuffle').click(function(){
     // shuffle
     deck.shuffle();
     deck.shuffle();
   });
 
-  $('#btn_sort').click(function(){
+  $('#btnsort').click(function(){
     // sort
     deck.sort();
   });
 
-  $('#btn_bysuit').click(function(){
+  $('#btnbysuit').click(function(){
     // bysuit
     deck.sort(true); // sort reversed
     deck.bysuit();
   });
 
-  $('#btn_fan').click(function(){
+  $('#btnfan').click(function(){
     // fan
     deck.fan();
   });
 
-  $('#btn_flip').click(function(){
+  $('#btnflip').click(function(){
     // flip
     deck.flip();
   });
 
-  $('#btn_poker').click(function(){
+  $('#btnpoker').click(function(){
     // poker
 
     deck.queue(function (next) {
@@ -209,7 +222,7 @@ $(function(){
     deck.poker();
   });
 
-  $('#btn_explode').click(function(){
+  $('#btnexplode').click(function(){
     // explode
     deck.cards.forEach(function (card, i) {
         card.setSide('front')
@@ -221,12 +234,12 @@ $(function(){
     		ease: 'quartOut',
 
             x: Math.random() * window.innerWidth / 2 - window.innerWidth / 4,
-            y: Math.random() * window.innerHeight / 2 - window.innerHeight / 4
+            y: Math.random() * window.innerHeight / 2 + window.innerHeight / 36
         })
     })
   });
 
-  $('#btn_holdem').click(function(){
+  $('#btnholdem').click(function(){
     // holdem
     var card_1 = deck.cards[51];
     card_1.enableFlipping();
