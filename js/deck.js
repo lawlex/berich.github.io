@@ -42,8 +42,10 @@ $(function(){
   var $_lifan = $('<li class="nav-item"><button id="btn_fan" class="nav-link">Fan</button></li>');
   var $_lipoker = $('<li class="nav-item"><button id="btn_poker" class="nav-link">Poker</button></li>');
   var $_liflip = $('<li class="nav-item"><button id="btn_flip" class="nav-link">Flip</button></li>');
+  var $_liexplode = $('<li class="nav-item"><button id="btn_explode" class="nav-link">Explode</button></li>');
+  var $_liholdem = $('<li class="nav-item"><button id="btn_holdem" class="nav-link">Holdem</button></li>');
 
-  $_navbar.append($_liflip, $_lishuffle, $_libysuit, $_lifan, $_lipoker, $_lisort);
+  $_navbar.append($_liflip, $_lishuffle, $_libysuit, $_lifan, $_lipoker, $_lisort, $_liexplode, $_liholdem);
   $_topbar.append($_navbar);
   // end navbar
 
@@ -101,8 +103,8 @@ $(function(){
           kingsClicked = [];
         }
       }
-    }
-  });
+    } // end onTouch
+  }); // end forEach
 
   function startWinning () {
     var $winningDeck = document.createElement('div');
@@ -119,7 +121,7 @@ $(function(){
     }
 
     setTimeout(startWinning, Math.round(Math.random() * 1000));
-  }
+  } // end startWinning
 
   function addWinningCard ($deck, i, side) {
     var card = Deck.Card(54 - i);
@@ -159,7 +161,7 @@ $(function(){
       .end(function () {
         card.unmount();
       })
-  }
+  } // end addWinningCard
 
   // easter eggs end
   // new buttons
@@ -169,23 +171,28 @@ $(function(){
     deck.shuffle();
     deck.shuffle();
   });
+
   $('#btn_sort').click(function(){
     // sort
     deck.sort();
   });
+
   $('#btn_bysuit').click(function(){
     // bysuit
     deck.sort(true); // sort reversed
     deck.bysuit();
   });
+
   $('#btn_fan').click(function(){
     // fan
     deck.fan();
   });
+
   $('#btn_flip').click(function(){
     // flip
     deck.flip();
   });
+
   $('#btn_poker').click(function(){
     // poker
 
@@ -200,6 +207,57 @@ $(function(){
     deck.shuffle();
     deck.shuffle();
     deck.poker();
+  });
+
+  $('#btn_explode').click(function(){
+    // explode
+    deck.cards.forEach(function (card, i) {
+        card.setSide('front')
+
+        // explode
+        card.animateTo({
+            delay: 1000 + i * 2, // wait 1 second + i * 2 ms
+            duration: 500,
+    		ease: 'quartOut',
+
+            x: Math.random() * window.innerWidth / 2 - window.innerWidth / 4,
+            y: Math.random() * window.innerHeight / 2 - window.innerHeight / 4
+        })
+    })
+  });
+
+  $('#btn_holdem').click(function(){
+    // holdem
+    var card_1 = deck.cards[51];
+    card_1.enableFlipping();
+    card_1.animateTo({
+      delay: 500,
+      duration: 500,
+    ease: 'quartOut',
+      x: -100,
+      y: -150
+    });
+    card_1.setSide('front');
+    var card_2 = deck.cards[50];
+    card_2.enableFlipping();
+    card_2.animateTo({
+      delay: 500,
+      duration: 500,
+    ease: 'quartOut',
+      x: -0,
+      y: -150
+    });
+    card_2.setSide('front');
+    var card_3 = deck.cards[49];
+    card_3.enableFlipping();
+    card_3.animateTo({
+      delay: 500,
+      duration: 500,
+    ease: 'quartOut',
+      x: 100,
+      y: -150
+    });
+    card_3.setSide('front');
   });
   // end new buttons
   // old buttons
@@ -242,7 +300,7 @@ $(function(){
   deck.sort();
 
   // secret message..
-
+/*
   var randomDelay = 10000 + 30000 * Math.random();
 
   setTimeout(function () {
@@ -263,7 +321,7 @@ $(function(){
     var $message = document.createElement('p');
     $message.classList.add('message');
     $message.textContent = text;
-
+    var $jbtron = document.getElementById('jbtron');
     document.body.appendChild($message);
 
     $message.style[transform] = translate(window.innerWidth + 'px', 0);
@@ -288,4 +346,5 @@ $(function(){
         document.body.removeChild($message);
       })
   }
+*/
 });
