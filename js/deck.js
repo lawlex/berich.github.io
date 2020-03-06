@@ -52,14 +52,14 @@ $(function(){
   // end navbar
 
   var $_footerbtngroup = $('#footerbtngroup');
-  var $_btnsort = $('<button id="btnsort" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Sort</button>');
-  var $_btnshuffle = $('<button id="btnshuffle" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Shuffle</button>');
-  var $_btnbysuit = $('<button id="btnbysuit" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">By suit</button>');
-  var $_btnfan = $('<button id="btnfan" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Fan</button>');	
-  var $_btnpoker = $('<button id="btnpoker" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Poker</button>');	
-  var $_btnflip = $('<button id="btnflip" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Flip</button>');	
-  var $_btnexplode= $('<button id="btnexplode" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Explode</button>');	
-  var $_btnholdem = $('<button id="btnholdem" type="button" class="btn btn-dark btn-sm" style="font-size:.7rem;">Holdem</button>');	
+  var $_btnsort = $('<button id="btnsort" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Sort</button>');
+  var $_btnshuffle = $('<button id="btnshuffle" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Shuffle</button>');
+  var $_btnbysuit = $('<button id="btnbysuit" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">By suit</button>');
+  var $_btnfan = $('<button id="btnfan" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Fan</button>');	
+  var $_btnpoker = $('<button id="btnpoker" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Poker</button>');	
+  var $_btnflip = $('<button id="btnflip" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Flip</button>');	
+  var $_btnexplode= $('<button id="btnexplode" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Explode</button>');	
+  var $_btnholdem = $('<button id="btnholdem" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Holdem</button>');	
   $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem);
 
   var deck = Deck();
@@ -361,3 +361,4 @@ $(function(){
   }
 */
 });
+
