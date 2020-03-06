@@ -14,28 +14,32 @@
   <script src="lib/pokersolver/pokersolver.js"></script>
   <script src="js/deck.js"></script>
   <style>
-  #container {
-    background: radial-gradient(transparent, transparent 4px, white 4px,white);
-  }
+	  #container {
+		background: radial-gradient(transparent, transparent 4px, white 4px,white);
+	  }
   </style>
 </head>
 <body>
-  <div id="jbtron" class="container-fluid p-3 bg-light text-dark sticky-top">
-    <h4>Holdem Restricted Area</h4>
-    <p>Here we will collect and test tools for poker analytics.</p>
-  </div>
-  <nav id="topbar" class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
-    <!-- Toggler/collapsibe Button -->
+  <!--<nav id="topbar" class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top mw-100 fixed-top">
+    
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <!-- Navbar links -->
+    
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
     </div>
-  </nav>
+  </nav>-->
   <div class="container" style="">
     <div id="container"></div>
   </div>
-
+  <div id="bottombar" class="container-fluid p-2 bg-transparent text-dark mw-100 fixed-bottom mx-auto">
+	  <div class="row mx-auto">
+		<div class="col">
+			<div id="footerbtngroup" class="btn-group btn-group-sm"></div>
+		</div>
+	  </div>
+	  
+  </div>
 </body>
 </html>
+
