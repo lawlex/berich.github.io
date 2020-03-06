@@ -234,7 +234,7 @@ $(function(){
     		ease: 'quartOut',
 
             x: Math.random() * window.innerWidth / 2 - window.innerWidth / 4,
-            y: Math.random() * window.innerHeight / 2 + window.innerHeight / 36
+            y: Math.random() * window.innerHeight / 2 - window.innerHeight / 24
         })
     })
   });
@@ -248,7 +248,7 @@ $(function(){
       duration: 500,
     ease: 'quartOut',
       x: -100,
-      y: -150
+      y: 150
     });
     card_1.setSide('front');
     var card_2 = deck.cards[50];
@@ -258,7 +258,7 @@ $(function(){
       duration: 500,
     ease: 'quartOut',
       x: -0,
-      y: -150
+      y: 150
     });
     card_2.setSide('front');
     var card_3 = deck.cards[49];
@@ -268,7 +268,7 @@ $(function(){
       duration: 500,
     ease: 'quartOut',
       x: 100,
-      y: -150
+      y: 150
     });
     card_3.setSide('front');
   });
