@@ -18,8 +18,43 @@
     <!-- end deck -->
     <style>
         #container {
-            background: radial-gradient(transparent, transparent 4px, white 4px, white);
+            /*background: radial-gradient(transparent, transparent 4px, white 4px, white);*/
         }
+        
+        
+        #ranksuit {
+/*background-color: #45a173;*/
+    position: relative;
+    width: 60%;
+    background: #45a173;
+    border-radius: 4px;
+    /*padding: 2em 1.5em;*/
+    color: rgba(0,0,0, .8);
+    text-shadow: 0 1px 0 #fff;
+   /* line-height: 1.5;*/
+   /* margin: 60px auto;*/
+        } 
+        
+#ranksuit::before,
+  #ranksuit::after {
+    z-index: -1;
+    position: absolute;
+    content: "";
+    bottom: 80%;
+    left: 15px;
+    width: 45%;
+    top: 20px;
+    max-width:300px;
+    background: rgba(0, 0, 0, 0.7);
+    box-shadow: 0 -15px 10px rgba(0, 0, 0, 0.7);
+    transform: rotate(-3deg);
+  }
+
+  #ranksuit::after {
+    transform: rotate(3deg);
+    right: 15px;
+    left: auto;
+  }
     </style>
 </head>
 
@@ -28,6 +63,7 @@
         <div id="container"></div>
     </div>
     <div id="bottombar" class="container-fluid p-2 bg-transparent text-dark mw-100 fixed-bottom justify-content-center">
+        <div id="ranksuit" class="container p-3 my-3 text-white display-4 font-weight-bold"></div><!-- bg-light  -->
         <div class="pagination justify-content-center" style="margin:20px 0">
             <div id="footerbtngroup" class="btn-group btn-group-sm"></div>
         </div>

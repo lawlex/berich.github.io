@@ -56,12 +56,15 @@ $(function() {
     deck.cards.forEach(function(card, i) {
         card.enableDragging();
         card.enableFlipping();
-/*
+
         card.$el.addEventListener('mousedown', onTouch);
         card.$el.addEventListener('touchstart', onTouch);
 
         function onTouch() {
             var card;
+            var colors = 'text-dark text-danger text-dark text-danger'.split(' ');
+            var colors4 = 'text-dark text-danger text-success text-primary'.split(' ');
+$('#ranksuit').text(Deck.Card(i).humanRankSuit + ' ' + Deck.Card(i).textCode).removeClass('text-dark text-danger text-success text-primary').addClass(colors[Deck.Card(i).suit]);
 
             if (i % 13 === 0) {
                 acesClicked[i] = true;
@@ -90,6 +93,7 @@ $(function() {
                         card.enableDragging();
                         card.enableFlipping();
                         deck.cards.push(card);
+
                     }
                     deck.sort(true);
                     kingsClicked = false;
@@ -159,7 +163,7 @@ $(function() {
                 card.unmount();
             })
     } // end addWinningCard
-*/
+
     // easter eggs end
     // new buttons
 
@@ -258,6 +262,10 @@ $(function() {
     });
 
     deck.mount($container);
+
+// messsages
+
+// end messsages
 
     deck.intro();
     deck.sort();
