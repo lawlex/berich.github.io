@@ -10,19 +10,20 @@ $(function() {
     var $container = document.getElementById('container');
 
     var $_footerbtngroup = $('#footerbtngroup');
-    var _btnInlineStyle = ' style="font-size:.7rem;"';
+    var _btn_Class = ' class="btn btn-dark btn-sm btn-outline-light"';
+    var _btn_InlineStyle = ' style="font-size:.7rem;"';
+
 
     // Small jQuery Heper for creation footer Button
-    function $createButton(_btnId, _btnText, _btnInlineStyle) {
-        return $('<button id="' + _btnId + '" type="button" class="btn btn-dark btn-sm btn-outline-light"' + _btnInlineStyle + '>' + _btnText + '</button>');
+    function $createButton(_btnId, _btnText, _btn_Class, _btn_InlineStyle) {
+        return $('<button id="' + _btnId + '" type="button"' + _btn_Class + _btn_InlineStyle + '>' + _btnText + '</button>');
     };
 
     // Button Sort
-    var $_btnsort = $createButton('btnsort', 'Sort', _btnInlineStyle);
-
+    var $_btnsort = $createButton('btnsort', 'Sort', _btn_Class, _btn_InlineStyle);
 
     // Button Shuffle
-    var $_btnshuffle = $('<button id="btnshuffle" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Shuffle</button>');
+    var $_btnshuffle = $createButton('btnshuffle', 'Shuffle', _btn_Class, _btn_InlineStyle);
     var $_btnbysuit = $('<button id="btnbysuit" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">By suit</button>');
     var $_btnfan = $('<button id="btnfan" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Fan</button>');
     var $_btnpoker = $('<button id="btnpoker" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Poker</button>');
