@@ -10,9 +10,9 @@ $(function() {
     var $container = document.getElementById('container');
 
     var $_footerbtngroup = $('#footerbtngroup');
+
     var _btn_Class = ' class="btn btn-dark btn-sm btn-outline-light"';
     var _btn_InlineStyle = ' style="font-size:.7rem;"';
-
 
     // Small jQuery Heper for creation footer Button
     function $createButton(_btnId, _btnText, _btn_Class, _btn_InlineStyle) {
@@ -56,7 +56,7 @@ $(function() {
     deck.cards.forEach(function(card, i) {
         card.enableDragging();
         card.enableFlipping();
-
+/*
         card.$el.addEventListener('mousedown', onTouch);
         card.$el.addEventListener('touchstart', onTouch);
 
@@ -102,7 +102,7 @@ $(function() {
             }
         } // end onTouch
     }); // end forEach
-
+*/
     function startWinning() {
         var $winningDeck = document.createElement('div');
         $winningDeck.classList.add('deck');
@@ -256,92 +256,10 @@ $(function() {
         });
         card_3.setSide('front');
     });
-    // end new buttons
-    // old buttons
-    /*
-    $shuffle.addEventListener('click', function () {
-      deck.shuffle();
-      deck.shuffle();
-    })
-    $sort.addEventListener('click', function () {
-      deck.sort();
-    })
-    $bysuit.addEventListener('click', function () {
-      deck.sort(true); // sort reversed
-      deck.bysuit();
-    })
-    $fan.addEventListener('click', function () {
-      deck.fan();
-    })
-    $flip.addEventListener('click', function () {
-      deck.flip();
-    })
-    $poker.addEventListener('click', function () {
-      deck.queue(function (next) {
-        deck.cards.forEach(function (card, i) {
-          setTimeout(function () {
-            card.setSide('back');
-          }, i * 7.5);
-        })
-        next();
-      })
-      deck.shuffle();
-      deck.shuffle();
-      deck.poker();
-    })
-    */
-    // end old buttons
+
     deck.mount($container);
 
     deck.intro();
     deck.sort();
 
-    // secret message..
-    /*
-      var randomDelay = 10000 + 30000 * Math.random();
-
-      setTimeout(function () {
-        printMessage('Psst..I want to share a secret with you...');
-      }, randomDelay);
-
-      setTimeout(function () {
-        printMessage('...try clicking all kings and nothing in between...');
-      }, randomDelay + 5000);
-
-      setTimeout(function () {
-        printMessage('...have fun ;)');
-      }, randomDelay + 10000);
-
-      function printMessage (text) {
-        var animationFrames = Deck.animationFrames;
-        var ease = Deck.ease;
-        var $message = document.createElement('p');
-        $message.classList.add('message');
-        $message.textContent = text;
-        var $jbtron = document.getElementById('jbtron');
-        document.body.appendChild($message);
-
-        $message.style[transform] = translate(window.innerWidth + 'px', 0);
-
-        var diffX = window.innerWidth;
-
-        animationFrames(1000, 700)
-          .progress(function (t) {
-            t = ease.cubicInOut(t);
-            $message.style[transform] = translate((diffX - diffX * t) + 'px', 0);
-          })
-
-        animationFrames(6000, 700)
-          .start(function () {
-            diffX = window.innerWidth;
-          })
-          .progress(function (t) {
-            t = ease.cubicInOut(t);
-            $message.style[transform] = translate((-diffX * t) + 'px', 0);
-          })
-          .end(function () {
-            document.body.removeChild($message);
-          })
-      }
-    */
-});
+  });
