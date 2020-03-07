@@ -102,7 +102,7 @@ $(function() {
             }
         } // end onTouch
     }); // end forEach
-*/
+
     function startWinning() {
         var $winningDeck = document.createElement('div');
         $winningDeck.classList.add('deck');
@@ -159,7 +159,7 @@ $(function() {
                 card.unmount();
             })
     } // end addWinningCard
-
+*/
     // easter eggs end
     // new buttons
 
