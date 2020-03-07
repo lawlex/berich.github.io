@@ -24,12 +24,25 @@ $(function() {
 
     // Button Shuffle
     var $_btnshuffle = $createButton('btnshuffle', 'Shuffle', _btn_Class, _btn_InlineStyle);
-    var $_btnbysuit = $('<button id="btnbysuit" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">By suit</button>');
-    var $_btnfan = $('<button id="btnfan" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Fan</button>');
-    var $_btnpoker = $('<button id="btnpoker" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Poker</button>');
-    var $_btnflip = $('<button id="btnflip" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Flip</button>');
-    var $_btnexplode = $('<button id="btnexplode" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Explode</button>');
-    var $_btnholdem = $('<button id="btnholdem" type="button" class="btn btn-dark btn-sm btn-outline-light" style="font-size:.7rem;">Holdem</button>');
+
+    // Button By suit
+    var $_btnbysuit = $createButton('btnbysuit', 'By suit', _btn_Class, _btn_InlineStyle);
+
+    // Button Fan
+    var $_btnfan =  $createButton('btnfan', 'Fan', _btn_Class, _btn_InlineStyle);
+    
+    // Button Poker
+    var $_btnpoker = $createButton('btnpoker', 'Poker', _btn_Class, _btn_InlineStyle);
+    
+    // Button Flip
+    var $_btnflip = $createButton('btnflip', 'Flip', _btn_Class, _btn_InlineStyle);
+    
+    // Button Explode
+    var $_btnexplode = $createButton('btnexplode', 'Explode', _btn_Class, _btn_InlineStyle);
+    
+    // Button Holdem
+    var $_btnholdem = $createButton('btnholdem', 'Holdem', _btn_Class, _btn_InlineStyle);
+    
     $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem);
 
 
