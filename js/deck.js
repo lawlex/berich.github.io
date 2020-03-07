@@ -56,7 +56,7 @@ $(function() {
     deck.cards.forEach(function(card, i) {
         card.enableDragging();
         card.enableFlipping();
-/*
+
         card.$el.addEventListener('mousedown', onTouch);
         card.$el.addEventListener('touchstart', onTouch);
 
@@ -159,7 +159,7 @@ $(function() {
                 card.unmount();
             })
     } // end addWinningCard
-*/
+
     // easter eggs end
     // new buttons
 
