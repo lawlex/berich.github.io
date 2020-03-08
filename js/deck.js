@@ -294,8 +294,8 @@ $('#ranksuit').text(Deck.Card(i).humanRankSuit + ' ' + Deck.Card(i).textCode).re
         //} else {
         //    rot = 0;
         //}
-        deck.moveto(false, 0, 150, rot);
-        deck.moveto(false, 0, 0, -rot);
+        deck.moveto(false, 0, 0, rot, -35);
+        deck.moveto(false, 0, 0, -rot, 1);
     });
 
     deck.mount($container);
