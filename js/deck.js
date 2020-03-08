@@ -14,9 +14,25 @@ $(function() {
     var _btn_Class = ' class="btn btn-dark btn-sm btn-outline-light"';
     var _btn_InlineStyle = ' style="font-size:.7rem;"';
 
-    // Small jQuery Heper for creation footer Button
+    // Small jQuery Helper for creation footer Button
     function $createButton(_btnId, _btnText, _btn_Class, _btn_InlineStyle) {
         return $('<button id="' + _btnId + '" type="button"' + _btn_Class + _btn_InlineStyle + '>' + _btnText + '</button>');
+    };
+
+    // Small jQuery Helper for creation footer Button Groups
+    function $createButtonGroup(_btnId, _btnText, _btn_Class, _btn_InlineStyle) {
+        //return $('<button id="' + _btnId + '" type="button"' + _btn_Class + _btn_InlineStyle + '>' + _btnText + '</button>');
+        return $(`
+          <div class"btn-group">
+            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+              Sony
+            </button>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#">Tablet</a>
+              <a class="dropdown-item" href="#">Smartphone</a>
+            </div
+          </div>
+        `);
     };
 
     // Button Sort
@@ -42,8 +58,13 @@ $(function() {
     
     // Button Holdem
     var $_btnholdem = $createButton('btnholdem', 'Holdem', _btn_Class, _btn_InlineStyle);
+
+    // Button Rotate
+    var $_btnrotate = $createButton('btnrotate', 'Rotate', _btn_Class, _btn_InlineStyle);
+
+    //var $_btngrp = $createButtonGroup('btntotopleft', 'Top Left', _btn_Class, _btn_InlineStyle);
     
-    $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem);
+    $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem, $_btnrotate); //, $_btngrp);
 
 
     var deck = Deck();
@@ -259,6 +280,22 @@ $('#ranksuit').text(Deck.Card(i).humanRankSuit + ' ' + Deck.Card(i).textCode).re
             y: 150
         });
         card_3.setSide('front');
+    });
+    var rot = 0;
+    $('#btnrotate').click(function() {
+        // moveto
+        //deck.moveto(false, -450, -50, 360);
+        //deck.moveto(false, -450, 350, 720);
+        //deck.moveto(false, 450, 350, 360);
+        //deck.moveto(false, 450, -50, 0);
+        //deck.moveto(false, 0, 0, 0);
+        //if (rot==0) {
+            rot = 180;
+        //} else {
+        //    rot = 0;
+        //}
+        deck.moveto(false, 0, 150, rot);
+        deck.moveto(false, 0, 0, -rot);
     });
 
     deck.mount($container);
