@@ -11,6 +11,17 @@ $(function() {
 
     var $_footerbtngroup = $('#footerbtngroup');
 
+  
+    /* holdem area */
+    var count_players = 6; // ten max
+    var hand = []; // two cards, push для добавления карты
+    var players = []; // ten max, push для добавления руки
+    var flop = []; // three cards, push для добавления карты
+    var turn; // one card, присвоение карты
+    var river; // one card, присвоение карты
+    /* end holdem area */
+
+    // Button Styles
     var _btn_Class = ' class="btn btn-dark btn-sm btn-outline-light"';
     var _btn_InlineStyle = ' style="font-size:.7rem;"';
 
@@ -59,12 +70,15 @@ $(function() {
     // Button Holdem
     var $_btnholdem = $createButton('btnholdem', 'Holdem', _btn_Class, _btn_InlineStyle);
 
+    // Button Ellipse
+    var $_btnellipse = $createButton('btnellipse', 'Ellipse', _btn_Class, _btn_InlineStyle);
+
     // Button Rotate
     var $_btnrotate = $createButton('btnrotate', 'Rotate', _btn_Class, _btn_InlineStyle);
 
     //var $_btngrp = $createButtonGroup('btntotopleft', 'Top Left', _btn_Class, _btn_InlineStyle);
     
-    $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem, $_btnrotate); //, $_btngrp);
+    $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem, $_btnellipse, $_btnrotate); //, $_btngrp);
 
 
     var deck = Deck();
@@ -85,7 +99,7 @@ $(function() {
             var card;
             var colors = 'text-dark text-danger text-dark text-danger'.split(' ');
             var colors4 = 'text-dark text-danger text-success text-primary'.split(' ');
-$('#ranksuit').text(Deck.Card(i).humanRankSuit + ' ' + Deck.Card(i).textCode).removeClass('text-dark text-danger text-success text-primary').addClass(colors[Deck.Card(i).suit]);
+            $('#ranksuit').text(Deck.Card(i).humanRankSuit + ' ' + Deck.Card(i).textCode).removeClass('text-dark text-danger text-success text-primary').addClass(colors[Deck.Card(i).suit]);
 
             if (i % 13 === 0) {
                 acesClicked[i] = true;
@@ -250,6 +264,46 @@ $('#ranksuit').text(Deck.Card(i).humanRankSuit + ' ' + Deck.Card(i).textCode).re
 
     $('#btnholdem').click(function() {
         // holdem
+        var c = 0;
+        do {
+            var _hand = [];
+            var _p = 0;
+            var _z = 1;
+            var total = deck.cards.length;
+
+            deck.cards.slice((total-2) - c*2,total - c*2).reverse().forEach(function(card, i){
+                
+                var _card = card;
+                var $el = _card.$el;
+
+                var X = (window.innerWidth/2 - 90*2) - 50 * _p;
+                var Y = - (window.innerHeight/6) + 120 * c ;
+                
+                _card.setSide('front');
+                _z += 1;
+                $el.style.zIndex = total - 1 + _z;
+                _card.animateTo({
+                    delay: 600 + (_p * 300) + 75 * c, // wait 1 second + i * 2 ms
+                    duration: 500,
+                    ease: 'quartOut',
+                    x: X,
+                    y: Y,
+                    onStart: function onStart() {
+                        //
+                    },
+                });
+
+                _p += 1;
+                _hand.push(_card);
+
+            });
+
+            c += 1;
+
+            players.push(_hand);
+          }
+        while (c < count_players);
+        /* old version
         var card_1 = deck.cards[51];
         card_1.enableFlipping();
         card_1.animateTo({
@@ -280,6 +334,42 @@ $('#ranksuit').text(Deck.Card(i).humanRankSuit + ' ' + Deck.Card(i).textCode).re
             y: 150
         });
         card_3.setSide('front');
+        */
+    });
+    $('#btnellipse').click(function() {
+        //deck.sort();
+
+        var total = deck.cards.length + 1;
+        var alpha = Math.PI * 2 / total;
+        var rot = 360 / total;
+
+
+
+        deck.cards.reverse().forEach(function (card, i) {
+            var $el = card.$el;
+
+            //card.setSide(i%2?'front':'back');
+            card.setSide('front');
+            //card.setSide('back');
+
+            var theta = alpha * i;
+            var pointx = Math.floor(Math.cos(theta)*window.innerWidth/4);
+            var pointy = Math.floor(Math.sin(theta)*window.innerHeight/4)/1.25;
+
+            // explode
+            card.animateTo({
+                delay: 400 + i * 75, // wait 1 second + i * 2 ms
+                duration: 500,
+                ease: 'quartOut',
+
+                x: pointx,//Math.random() * window.innerWidth - window.innerWidth / 2,
+                y: window.innerHeight/6+pointy,//Math.random() * window.innerHeight - window.innerHeight / 2
+                rot: rot * i-60,
+                onStart: function onStart() {
+                    $el.style.zIndex = total - 1 + i;
+                },
+            });
+        });
     });
     var rot = 0;
     $('#btnrotate').click(function() {
