@@ -25,27 +25,6 @@ $(function() {
     var _btn_Class = ' class="btn btn-dark btn-sm btn-outline-light"';
     var _btn_InlineStyle = ' style="font-size:.7rem;"';
 
-    // Small jQuery Helper for creation footer Button
-    function $createButton(_btnId, _btnText, _btn_Class, _btn_InlineStyle) {
-        return $('<button id="' + _btnId + '" type="button"' + _btn_Class + _btn_InlineStyle + '>' + _btnText + '</button>');
-    };
-
-    // Small jQuery Helper for creation footer Button Groups
-    function $createButtonGroup(_btnId, _btnText, _btn_Class, _btn_InlineStyle) {
-        //return $('<button id="' + _btnId + '" type="button"' + _btn_Class + _btn_InlineStyle + '>' + _btnText + '</button>');
-        return $(`
-          <div class"btn-group">
-            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-              Sony
-            </button>
-            <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Tablet</a>
-              <a class="dropdown-item" href="#">Smartphone</a>
-            </div
-          </div>
-        `);
-    };
-
     // Button Sort
     var $_btnsort = $createButton('btnsort', 'Sort', _btn_Class, _btn_InlineStyle);
 
@@ -78,7 +57,8 @@ $(function() {
 
     //var $_btngrp = $createButtonGroup('btntotopleft', 'Top Left', _btn_Class, _btn_InlineStyle);
     
-    $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem, $_btnellipse, $_btnrotate); //, $_btngrp);
+    //$_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem, $_btnellipse, $_btnrotate); //, $_btngrp);
+$_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnholdem, $_btnellipse); //, $_btngrp);
 
 
     var deck = Deck();
@@ -297,7 +277,7 @@ $(function() {
                 var pointx = Math.floor(Math.cos(theta)*window.innerWidth/4);
                 var pointy = Math.floor(Math.sin(theta)*window.innerHeight/4);
 
-                var X = + 25 + pointx - 50 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
+                var X = + 10 + pointx - 25 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
                 var Y = + (window.innerHeight/6) + pointy + 60; //- (window.innerHeight/6) + 120 * c ;
                 
                 _card.setSide('back');
@@ -308,7 +288,8 @@ $(function() {
                     duration: 500,
                     ease: 'quartOut',
                     x: X,
-                    y: Y,
+                    y: Y, 
+                    rot: 0,
                     onStart: function onStart() {
                         //
                     },
@@ -324,38 +305,7 @@ $(function() {
             players.push(_hand);
           }
         while (c < count_players);
-        /* old version
-        var card_1 = deck.cards[51];
-        card_1.enableFlipping();
-        card_1.animateTo({
-            delay: 500,
-            duration: 500,
-            ease: 'quartOut',
-            x: -100,
-            y: 150
-        });
-        card_1.setSide('front');
-        var card_2 = deck.cards[50];
-        card_2.enableFlipping();
-        card_2.animateTo({
-            delay: 500,
-            duration: 500,
-            ease: 'quartOut',
-            x: -0,
-            y: 150
-        });
-        card_2.setSide('front');
-        var card_3 = deck.cards[49];
-        card_3.enableFlipping();
-        card_3.animateTo({
-            delay: 500,
-            duration: 500,
-            ease: 'quartOut',
-            x: 100,
-            y: 150
-        });
-        card_3.setSide('front');
-        */
+
     });
     $('#btnellipse').click(function() {
         //deck.sort();
