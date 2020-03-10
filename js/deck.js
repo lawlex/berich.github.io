@@ -9,7 +9,7 @@ $(function() {
 
     var $container = document.getElementById('container');
 
-    var $_footerbtngroup = $('#footerbtngroup');
+
 
   
     /* holdem area */
@@ -21,44 +21,9 @@ $(function() {
     var river; // one card, присвоение карты
     /* end holdem area */
 
-    // Button Styles
-    var _btn_Class = ' class="btn btn-dark btn-sm btn-outline-light"';
-    var _btn_InlineStyle = ' style="font-size:.7rem;"';
-
-    // Button Sort
-    var $_btnsort = $createButton('btnsort', 'Sort', _btn_Class, _btn_InlineStyle);
-
-    // Button Shuffle
-    var $_btnshuffle = $createButton('btnshuffle', 'Shuffle', _btn_Class, _btn_InlineStyle);
-
-    // Button By suit
-    var $_btnbysuit = $createButton('btnbysuit', 'By suit', _btn_Class, _btn_InlineStyle);
-
-    // Button Fan
-    var $_btnfan =  $createButton('btnfan', 'Fan', _btn_Class, _btn_InlineStyle);
-    
-    // Button Poker
-    var $_btnpoker = $createButton('btnpoker', 'Poker', _btn_Class, _btn_InlineStyle);
-    
-    // Button Flip
-    var $_btnflip = $createButton('btnflip', 'Flip', _btn_Class, _btn_InlineStyle);
-    
-    // Button Explode
-    var $_btnexplode = $createButton('btnexplode', 'Explode', _btn_Class, _btn_InlineStyle);
-    
-    // Button Holdem
-    var $_btnholdem = $createButton('btnholdem', 'Holdem', _btn_Class, _btn_InlineStyle);
-
-    // Button Ellipse
-    var $_btnellipse = $createButton('btnellipse', 'Ellipse', _btn_Class, _btn_InlineStyle);
-
-    // Button Rotate
-    var $_btnrotate = $createButton('btnrotate', 'Rotate', _btn_Class, _btn_InlineStyle);
-
-    //var $_btngrp = $createButtonGroup('btntotopleft', 'Top Left', _btn_Class, _btn_InlineStyle);
-    
+    var $_footerbtngroup = $('#footerbtngroup');    
     //$_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem, $_btnellipse, $_btnrotate); //, $_btngrp);
-$_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnholdem, $_btnellipse); //, $_btngrp);
+    $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnholdem, $_btnellipse); //, $_btngrp);
 
 
     var deck = Deck();

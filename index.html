@@ -23,57 +23,31 @@
             /*background: radial-gradient(transparent, transparent 4px, white 4px, white);*/
         }
         
-        
-    .pocket {
-        position: relative;
-        width: 10rem;
-        height: 4.0rem;
-        /*background: #45a173;*/
-        background: radial-gradient(at top, #5fba8d, #45a173);
-        border-color: #367d59;
-        border-style: solid;
-        border-width: 0px 1px 1px 1px; 
-        border-radius: 4px 4px 30px 30px;
-        /*padding: 2em 1.5em;*/
-        color: rgba(0,0,0, .8);
-        text-shadow: 0 1px 0 #fff;
-        /* line-height: 1.5;*/
-        /* margin: 60px auto;*/
-    } 
-    .pocket-name {
-        color: rgba(0,0,0, .8);
-        text-shadow: 0 1px 0px #a5d9bf;
-        font-size: 1.25rem;
-        padding: 5px;
-        margin: 5px;
-    }
-        
-    .pocket::before,
-    .pocket::after {
-        z-index: -1;
-        position: absolute;
-        content: "";
-        bottom: 80%;
-        left: 10%;
-        width: 41%;
-        top: 20px;
-        max-width:300px;
-        background: rgba(0, 0, 0, 0.7);
-        box-shadow: 0 -15px 10px rgba(0, 0, 0, 0.6);
-        transform: rotate(-3deg);
-    }
+        .playersmallcard { 
+            position: absolute;
+            /*display: inline-block;*/
+            /*left: -1.9375rem;
+            top: -2.75rem;*/
+            /*width: 3.875rem;
+            height: 5.5rem;*/
+            /*background-color: #fff;*/
+            -webkit-border-radius: 2px;
+            border-radius: 2px;
+            -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+            box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+            cursor: default;
+            will-change: transform;
+        }
 
-    .pocket::after {
-        transform: rotate(3deg);
-        right: 15px;
-        left: auto;
-    }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <div id="container"></div>
+            
+        <div id="container">
+                
+        </div>
     </div>
     
     <div id="bottombar" class="container-fluid p-2 bg-transparent text-dark mw-100 fixed-bottom justify-content-center">
