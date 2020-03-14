@@ -12,10 +12,14 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     <!-- deck -->
-    <script src="lib/deck-of-cards/deck.js"></script>
-    <script src="lib/pokersolver/pokersolver.js"></script>
-    <script src="js/htmlhelpers.js"></script>
-    <script src="js/deck.js"></script>
+    <script type="text/javascript" src="lib/deck-of-cards/deck.js"></script>
+    <script type="text/javascript" src="lib/pokersolver/pokersolver.js"></script>
+    <script type="text/javascript" src="js/htmlhelpers.js"></script>
+    <script type="text/javascript" src="lib/humanreadablecard.js"></script>
+    <script type="text/javascript" src="lib/hand.js"></script>
+    <script type="text/javascript" src="lib/player.js"></script> 
+    <script type="text/javascript" src="js/deck.js"></script>
+
     
     <!-- end deck -->
     <style>
@@ -26,8 +30,8 @@
         .playersmallcard { 
             position: absolute;
             /*display: inline-block;*/
-            /*left: -1.9375rem;
-            top: -2.75rem;*/
+            /*left: -60px;
+            top: -40px;*/
             /*width: 3.875rem;
             height: 5.5rem;*/
             /*background-color: #fff;*/
@@ -37,6 +41,7 @@
             box-shadow: 0 1px 1px rgba(0,0,0,0.15);
             cursor: default;
             will-change: transform;
+            
         }
 
     </style>

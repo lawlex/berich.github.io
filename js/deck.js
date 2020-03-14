@@ -1,4 +1,5 @@
 $(function() {
+  
     /* global Deck */
 
     var prefix = Deck.prefix;
@@ -9,9 +10,6 @@ $(function() {
 
     var $container = document.getElementById('container');
 
-
-
-  
     /* holdem area */
     var count_players = 6; // ten max
     var hand = []; // two cards, push для добавления карты
@@ -28,6 +26,27 @@ $(function() {
 
     var deck = Deck();
 
+/* Player tests */
+var P = Player();
+P.setHeader('lawlex');
+P.setText('The Best');
+
+P.createSmallCard();
+P.mount($container);
+P.moveto(0,100, 45);
+P.hand.addCard(Deck.Card(0));
+P.hand.addCard(Deck.Card(1));
+
+var hcard1 = HumanReadableCard(P.hand.cards[0]);
+var hcard2 = HumanReadableCard(P.hand.cards[1]);
+
+console.log(hcard1.textCode + ' ' + hcard2.textCode);
+
+//console.log(document.getElementById('RealHero').outerHTML);
+
+/* end Player tests */
+
+
     // easter eggs start
 
     var acesClicked = [];
@@ -42,9 +61,12 @@ $(function() {
 
         function onTouch() {
             var card;
+            //console.log(Deck.Card(i).$el.outerHTML);
+            var HRCard = HumanReadableCard(Deck.Card(i));
             var colors = 'text-dark text-danger text-dark text-danger'.split(' ');
             var colors4 = 'text-dark text-danger text-success text-primary'.split(' ');
-            $('#ranksuit').text(Deck.Card(i).humanRankSuit + ' ' + Deck.Card(i).textCode).removeClass('text-dark text-danger text-success text-primary').addClass(colors[Deck.Card(i).suit]);
+            
+            $('#ranksuit').text(HRCard.humanRankSuit + ' ' + HRCard.textCode).removeClass('text-dark text-danger text-success text-primary').addClass(colors[HRCard.suit]);
 
             if (i % 13 === 0) {
                 acesClicked[i] = true;

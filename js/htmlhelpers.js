@@ -56,7 +56,8 @@
         var $_btnrotate = $createButton('btnrotate', 'Rotate', _btn_Class, _btn_InlineStyle);
 
         // Player Small Card
-        /*<div class="container playersmallcard mt-1 bg-light" style="width: 160px; padding-right: 10px; padding-left: 10px;">
+        /*
+        <div class="container playersmallcard mt-1 bg-light" style="width: 160px; padding-right: 10px; padding-left: 10px;">
                         <div class="media border p-1">
                           <img src="img/img_avatar3.png" alt="Real Hero" class="mr-1 mt-1 rounded-circle" style="width:40px;">
                           <div class="media-body mt-1">
@@ -83,4 +84,4 @@
               </div>
             </div>
           `);
-        };
+        }
