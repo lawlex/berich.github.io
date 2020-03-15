@@ -28,19 +28,20 @@ $(function() {
 
 /* Player tests */
 var P = Player();
-P.setHeader('lawlex');
-P.setText('The Best');
-
-P.createSmallCard();
 P.mount($container);
 P.moveto(0,100, 45);
+P.setHeader('lawlex');
+P.setText('The Best');
 P.hand.addCard(Deck.Card(0));
 P.hand.addCard(Deck.Card(1));
 
 var hcard1 = HumanReadableCard(P.hand.cards[0]);
 var hcard2 = HumanReadableCard(P.hand.cards[1]);
 
-console.log(hcard1.textCode + ' ' + hcard2.textCode);
+var hand1 = Hand.solve(['As', 'Ad']);
+
+
+console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
 
 //console.log(document.getElementById('RealHero').outerHTML);
 
@@ -230,7 +231,8 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode);
     });
 
     $('#btnholdem').click(function() {
-        deck.cards.reverse().forEach(function (card, i) {
+        deck.cards.forEach(function (card, i) {
+            var z = i/4;
             var $el = card.$el;
             card.setSide('back');
             card.animateTo({
@@ -238,8 +240,8 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode);
                 duration: 500,
                 ease: 'quartOut',
 
-                x: -window.innerWidth/2 + window.innerWidth / 8,
-                y: -window.innerHeight/2 + window.innerHeight / 3,
+                x: -window.innerWidth/2 + window.innerWidth / 8 - z,
+                y: -window.innerHeight/2 + window.innerHeight / 3 - z,
                 rot: 0,
             });
         });
@@ -271,7 +273,7 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode);
                 _z += 1;
                 $el.style.zIndex = total - 1 + _z;
                 _card.animateTo({
-                    delay: 1000 + (_p * 300) + 75 * c, // wait 1 second + i * 2 ms
+                    delay: 500 + (_p * 300) + 75 * c, // wait 1 second + i * 2 ms
                     duration: 500,
                     ease: 'quartOut',
                     x: X,
