@@ -32,6 +32,7 @@ P.mount($container);
 P.moveto(0,100, 45);
 P.setHeader('lawlex');
 P.setText('The Best');
+P.setWidth(140);
 P.hand.addCard(Deck.Card(0));
 P.hand.addCard(Deck.Card(1));
 
