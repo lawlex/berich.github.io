@@ -238,7 +238,7 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
         deck.shuffle();
         deck.shuffle();
         var delayInMilliseconds = 1000; //1 second
-
+        var winnerstext = '';
         setTimeout(function() {
             var hands = [];
             deck.cards.forEach(function (card, i) {
@@ -280,7 +280,7 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                     var pointx = Math.floor(Math.cos(theta)*window.innerWidth/4);
                     var pointy = Math.floor(Math.sin(theta)*window.innerHeight/4);
 
-                    X = + pointx - 25 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
+                    X = - 12.5 + pointx + 25 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
                     Y = + (window.innerHeight/6) + pointy + 60; //- (window.innerHeight/6) + 120 * c ;
                     
                     _card.setSide('back');
@@ -314,18 +314,28 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 P.setId('Player' + c);
                 P.setHeader('Player ' + c);
                 P.mount($container);
-                P.moveto(X + 12.5, Y + 80, zIndex + 1);
-                var hcard1 = HumanReadableCard(P.hand.cards[0]);
-                var hcard2 = HumanReadableCard(P.hand.cards[1]);
+                P.moveto(X - 12.5, Y + 80, zIndex + 1);
+                var hcard1 = HumanReadableCard(P.hand.cards[1]);
+                var hcard2 = HumanReadableCard(P.hand.cards[0]);
 
-                var hand1 = Hand.solve([hcard1.textCode, hcard2.textCode]);
-                hands.push(hand1);
-                P.setText(hand1.name);
+                P.solvedhand = Hand.solve([hcard1.textCode, hcard2.textCode]);
+                hands.push(P.solvedhand);
+                P.handtext = hcard1.textCode + ', ' + hcard2.textCode;
+                P.setText(P.handtext + ' - ' + P.solvedhand.name);
                 //players.push(_hand);
             }
             while (c < count_players);
             var winners = Hand.winners(hands);
-            $('#ranksuit').text(winners).removeClass('text-dark text-danger text-success text-primary');
+            hands.forEach(function(hand, i){
+                winners.forEach(function(winner, k){
+                    if (winner==hand) {
+                        winnerstext += hand.toString().replace('10', 'T').replace('10', 'T') + '  ';
+                    }
+                })
+                
+            });
+            //winnerstext = winners.toString().replace('10', 'T').replace('10', 'T');
+            $('#ranksuit').text(winnerstext).removeClass('text-dark text-danger text-success text-primary');
         }, delayInMilliseconds);
     });
     $('#btnellipse').click(function() {
