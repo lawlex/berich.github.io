@@ -27,6 +27,8 @@ $(function() {
     var deck = Deck();
 
 /* Player tests */
+
+/*
 var P = Player();
 P.mount($container);
 P.moveto(0,100, 45);
@@ -45,6 +47,7 @@ var hand1 = Hand.solve(['As', 'Ad']);
 console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
 
 //console.log(document.getElementById('RealHero').outerHTML);
+*/
 
 /* end Player tests */
 
@@ -232,70 +235,98 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
     });
 
     $('#btnholdem').click(function() {
-        deck.cards.forEach(function (card, i) {
-            var z = i/4;
-            var $el = card.$el;
-            card.setSide('back');
-            card.animateTo({
-                delay: 100 + i * 1, // wait 1 second + i * 2 ms
-                duration: 500,
-                ease: 'quartOut',
+        deck.shuffle();
+        deck.shuffle();
+        var delayInMilliseconds = 1000; //1 second
 
-                x: -window.innerWidth/2 + window.innerWidth / 8 - z,
-                y: -window.innerHeight/2 + window.innerHeight / 3 - z,
-                rot: 0,
-            });
-        });
-
-        // holdem
-        var c = 0;
-
-        do {
-            var _hand = [];
-            var _p = 0;
-            var _z = 1;
-            var total = deck.cards.length;
-            var alpha = Math.PI * 2 / count_players;
-            var theta;
-            
-            deck.cards.slice((total-2) - c*2,total - c*2).reverse().forEach(function(card, i){
-                
-                var _card = card;
-                var $el = _card.$el;
-                theta = alpha * (c+1);
-                
-                var pointx = Math.floor(Math.cos(theta)*window.innerWidth/4);
-                var pointy = Math.floor(Math.sin(theta)*window.innerHeight/4);
-
-                var X = + 10 + pointx - 25 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
-                var Y = + (window.innerHeight/6) + pointy + 60; //- (window.innerHeight/6) + 120 * c ;
-                
-                _card.setSide('back');
-                _z += 1;
-                $el.style.zIndex = total - 1 + _z;
-                _card.animateTo({
-                    delay: 500 + (_p * 300) + 75 * c, // wait 1 second + i * 2 ms
+        setTimeout(function() {
+            var hands = [];
+            deck.cards.forEach(function (card, i) {
+                var z = i/4;
+                var $el = card.$el;
+                card.setSide('back');
+                card.animateTo({
+                    delay: 100 + i * 1, // wait 1 second + i * 2 ms
                     duration: 500,
                     ease: 'quartOut',
-                    x: X,
-                    y: Y, 
+
+                    x: -window.innerWidth/2 + window.innerWidth / 8 - z,
+                    y: -window.innerHeight/2 + window.innerHeight / 3 - z,
                     rot: 0,
-                    onStart: function onStart() {
-                        //
-                    },
                 });
-
-                _p += 1;
-                _hand.push(_card);
-
             });
 
-            c += 1;
+            // holdem
+            var c = 0;
 
-            players.push(_hand);
-          }
-        while (c < count_players);
+            do {
+                var _hand = [];
+                var _p = 0;
+                var _z = 1;
+                var total = deck.cards.length;
+                var alpha = Math.PI * 2 / count_players;
+                var theta;
+                var X, Y;
+                var zIndex;
 
+                var P = Player();
+
+                deck.cards.slice((total-2) - c*2,total - c*2).reverse().forEach(function(card, i){
+                    
+                    var _card = card;
+                    var $el = _card.$el;
+                    theta = alpha * (c+1);
+                    
+                    var pointx = Math.floor(Math.cos(theta)*window.innerWidth/4);
+                    var pointy = Math.floor(Math.sin(theta)*window.innerHeight/4);
+
+                    X = + pointx - 25 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
+                    Y = + (window.innerHeight/6) + pointy + 60; //- (window.innerHeight/6) + 120 * c ;
+                    
+                    _card.setSide('back');
+                    _z += 1;
+                    zIndex = total - 1 + _z;
+                    $el.style.zIndex = zIndex;
+                    _card.animateTo({
+                        delay: 500 + (_p * 300) + 75 * c, // wait 1 second + i * 2 ms
+                        duration: 500,
+                        ease: 'quartOut',
+                        x: X,
+                        y: Y, 
+                        rot: 0,
+                        onStart: function onStart() {
+                            //
+                        },
+                        onComplete: function onComplete() {
+                            _card.setSide('front');
+                        },
+                    });
+                    
+                    _p += 1;
+                    //_hand.push(_card);
+                    P.hand.addCard(_card);
+
+                });
+
+                c += 1;
+
+                
+                P.setId('Player' + c);
+                P.setHeader('Player ' + c);
+                P.mount($container);
+                P.moveto(X + 12.5, Y + 80, zIndex + 1);
+                var hcard1 = HumanReadableCard(P.hand.cards[0]);
+                var hcard2 = HumanReadableCard(P.hand.cards[1]);
+
+                var hand1 = Hand.solve([hcard1.textCode, hcard2.textCode]);
+                hands.push(hand1);
+                P.setText(hand1.name);
+                //players.push(_hand);
+            }
+            while (c < count_players);
+            var winners = Hand.winners(hands);
+            $('#ranksuit').text(winners).removeClass('text-dark text-danger text-success text-primary');
+        }, delayInMilliseconds);
     });
     $('#btnellipse').click(function() {
         //deck.sort();
