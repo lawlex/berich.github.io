@@ -320,7 +320,7 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
 
                 P.solvedhand = Hand.solve([hcard1.textCode, hcard2.textCode]);
                 hands.push(P.solvedhand);
-                P.handtext = hcard1.textCode + ', ' + hcard2.textCode;
+                P.handtext = hcard2.textCode + ', ' + hcard1.textCode;
                 P.setText(P.handtext + ' - ' + P.solvedhand.name);
                 //players.push(_hand);
             }
@@ -329,7 +329,11 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
             hands.forEach(function(hand, i){
                 winners.forEach(function(winner, k){
                     if (winner==hand) {
-                        winnerstext += hand.toString().replace('10', 'T').replace('10', 'T') + '  ';
+                        if (winnerstext=='') {
+                            winnerstext = hand.toString().replace('10', 'T').replace('10', 'T');
+                        } else {
+                            winnerstext += '; ' + hand.toString().replace('10', 'T').replace('10', 'T');
+                        }
                     }
                 })
                 
