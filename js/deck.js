@@ -26,6 +26,15 @@ $(function() {
 
     var deck = Deck();
 
+    var table = Table();
+    
+    table.placeWidth = Deck.Card(0).$el.offsetWidth + 25 + 20;
+    table.placeHeight = Deck.Card(0).$el.offsetHeight + 25 + 20;
+    
+console.log( Deck.Card(0).$el.offsetWidth + ' - ' + Deck.Card(0).$el.offsetHeight);
+    
+   table.Calc();
+
 /* Player tests */
 
 /*
@@ -65,7 +74,10 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
         card.$el.addEventListener('touchstart', onTouch);
 
         function onTouch() {
-            var card;
+            //var card;
+                
+
+    console.log(card.$el.offsetWidth + ' x ' + card.$el.offsetHeight);
             //console.log(Deck.Card(i).$el.outerHTML);
             var HRCard = HumanReadableCard(Deck.Card(i));
             var colors = 'text-dark text-danger text-dark text-danger'.split(' ');
