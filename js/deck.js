@@ -247,6 +247,12 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
     });
 
     $('#btnholdem').click(function() {
+        var T = Table();
+        T.Calc();
+        var TT;
+        TT = T.table_6max;
+        console.log(TT.name);
+        
         deck.shuffle();
         deck.shuffle();
         var delayInMilliseconds = 1000; //1 second
@@ -263,7 +269,7 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                     ease: 'quartOut',
 
                     x: -window.innerWidth/2 + window.innerWidth / 8 - z,
-                    y: -window.innerHeight/2 + window.innerHeight / 3 - z,
+                    y: -window.innerHeight/2 + window.innerHeight / 6 - z,
                     rot: 0,
                 });
             });
@@ -282,25 +288,38 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 var zIndex;
 
                 var P = Player();
+                
+                c += 1;
+                theta = alpha * (c);
+                var _x, _y;
+                TT.places.forEach( function(row, _numrow) {
+                    row.forEach( function(col, _numcol){
+                        //console.log(col);
+                        if ( c.toString() == col ){
+                            console.log( (_numrow * 140 - 140/2) + ' - ' + (_numcol * 120 - 120/2) );
+                            _y = _numrow * 140 - TT.height*140/2+140/2;
+                            _x = _numcol * 120 - TT.width*120/2+120/2;
+                        }
+                    });
+                });
 
-                deck.cards.slice((total-2) - c*2,total - c*2).reverse().forEach(function(card, i){
+                deck.cards.slice((total-2) - (c-1)*2,total - (c-1)*2).reverse().forEach(function(card, i){
                     
                     var _card = card;
                     var $el = _card.$el;
-                    theta = alpha * (c+1);
                     
                     var pointx = Math.floor(Math.cos(theta)*window.innerWidth/4);
                     var pointy = Math.floor(Math.sin(theta)*window.innerHeight/4);
 
-                    X = - 12.5 + pointx + 25 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
-                    Y = + (window.innerHeight/6) + pointy + 60; //- (window.innerHeight/6) + 120 * c ;
+                    X = _x + -12.5 + 25 *_p ;//- 10*120/2;//- 12.5 + pointx + 25 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
+                    Y = _y ;//- 3*140/2;//- (window.innerHeight/10) + pointy + 60; //- (window.innerHeight/6) + 120 * c ;
                     
                     _card.setSide('back');
                     _z += 1;
                     zIndex = total - 1 + _z;
                     $el.style.zIndex = zIndex;
                     _card.animateTo({
-                        delay: 500 + (_p * 300) + 75 * c, // wait 1 second + i * 2 ms
+                        delay: 500 + (_p * 300) + 75 * (c-1), // wait 1 second + i * 2 ms
                         duration: 500,
                         ease: 'quartOut',
                         x: X,
@@ -320,13 +339,13 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
 
                 });
 
-                c += 1;
+                
 
                 
                 P.setId('Player' + c);
                 P.setHeader('Player ' + c);
                 P.mount($container);
-                P.moveto(X - 12.5, Y + 80, zIndex + 1);
+                P.moveto(X - 12.5, Y + 60, zIndex + 1);
                 var hcard1 = HumanReadableCard(P.hand.cards[1]);
                 var hcard2 = HumanReadableCard(P.hand.cards[0]);
 
@@ -335,6 +354,10 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 P.handtext = hcard2.textCode + ', ' + hcard1.textCode;
                 P.setText(P.handtext + ' - ' + P.solvedhand.name);
                 //players.push(_hand);
+                
+
+
+
             }
             while (c < count_players);
             var winners = Hand.winners(hands);
@@ -381,7 +404,7 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 ease: 'quartOut',
 
                 x: pointx,//Math.random() * window.innerWidth - window.innerWidth / 2,
-                y: window.innerHeight/6+pointy,//Math.random() * window.innerHeight - window.innerHeight / 2
+                y: pointy,//Math.random() * window.innerHeight - window.innerHeight / 2
                 rot: rot * i-60,
                 onStart: function onStart() {
                     $el.style.zIndex = total - 1 + i;
