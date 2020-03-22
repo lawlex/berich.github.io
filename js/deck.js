@@ -1,5 +1,5 @@
 $(function() {
-  
+    var _delay = 200;
     /* global Deck */
 
     var prefix = Deck.prefix;
@@ -11,7 +11,7 @@ $(function() {
     var $container = document.getElementById('container');
 
     /* holdem area */
-    var count_players = 8; // ten max
+    var count_players = 6; // ten max
     var hand = []; // two cards, push для добавления карты
     var players = []; // ten max, push для добавления руки
     var flop = []; // three cards, push для добавления карты
@@ -248,11 +248,14 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
 
     $('#btnholdem').click(function() {
         var players = [];
+        var P;
+        var winnerplayers = [];
+        var cnt = 0;
         var board = [];
         var T = Table();
         T.Calc();
         var TT;
-        TT = T.table_8max;
+        TT = T.table_6max;
         var _deck_x;
         var _deck_y;
         var _board_x = [];
@@ -271,8 +274,8 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
             });
         });
 
-        deck.shuffle( _deck_x, _deck_y );
-        deck.shuffle( _deck_x, _deck_y );
+        deck.shuffle( _deck_x, _deck_y + 25);
+        deck.shuffle( _deck_x, _deck_y + 25);
         var delayInMilliseconds = 1000; //1 second
         var winnerstext = '';
         var winnersname = '';
@@ -308,7 +311,7 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 var X, Y;
                 var zIndex;
 
-                var P = Player();
+                P = new Player();
                 
                 c += 1;
                 theta = alpha * (c);
@@ -340,7 +343,7 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                     zIndex = total - 1 + _z;
                     $el.style.zIndex = zIndex;
                     _card.animateTo({
-                        delay: 500 + (_p * 100) + 75 * (c-1), // wait 1 second + i * 2 ms
+                        delay: _delay + (_p * 50) + 75 * (c-1), // wait 1 second + i * 2 ms
                         duration: 500,
                         ease: 'quartOut',
                         x: X -_z/4,
@@ -361,6 +364,8 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 });
                 
                 P.setId('Player' + c);
+                console.log('ID:'+P.getId());
+                //P.$id = 'Player' + c;
                 P.setHeader('Player ' + c);
                 P.mount($container);
                 P.moveto(X - 12.5, Y + 60, zIndex + 1);
@@ -381,15 +386,15 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 var _card = card;
                 var $el = _card.$el;
 
-                X = + 15 - 70 *5 / 2 + 80 * i ;
-                Y = 80;
+                X = + 27.5 - 70 *5 / 2 + 80 * i ; //47.5+ _board_x[1]  - 70 *5 / 2 + 70 * i ;//+ 15 - 70 *5 / 2 + 80 * i ;
+                Y = _board_y[1]+25 ;//80;
                 
                 _card.setSide('back');
                 _z += 1;
                 zIndex = total - 1 + _z;
                 $el.style.zIndex = zIndex;
                 _card.animateTo({
-                    delay: 500 + (i * 100) + 75*_z, // wait 1 second + i * 2 ms
+                    delay: _delay + (i * 50) + 75*_z, // wait 1 second + i * 2 ms
                     duration: 500,
                     ease: 'quartOut',
                     x: X - (total-_z)/4,
@@ -449,6 +454,68 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 })
                 
             });
+
+            winnerplayers = []; // clear winners
+            
+            if (winners.length > 1 ){
+                console.log('WINNERS:'+winners.length);
+                winners.forEach(function(w,i){
+                    var h = '';
+                    w.cardPool.forEach(function(c, k){
+                        h += c.value+c.suit+",";
+                    });
+                    console.log('winner'+i+':'+h);
+                });
+            }
+
+            players.forEach(function(player,i){
+                var _p = player;
+                var cardpool = [];
+                cardpool.push(HumanReadableCard(_p.hand.cards[1]).textCode);
+                cardpool.push(HumanReadableCard(_p.hand.cards[0]).textCode);
+                cardpool.push(board[0].textCode);
+                cardpool.push(board[1].textCode);
+                cardpool.push(board[2].textCode);
+                cardpool.push(board[3].textCode);
+                cardpool.push(board[4].textCode);
+                console.log('player'+i+':'+cardpool[0]+','+cardpool[1]+','+cardpool[2]+','+cardpool[3]+','+cardpool[4]+','+cardpool[5]+','+cardpool[6]+',');
+                
+                winners.forEach(function(winner,k){
+                    var _w = winner;
+                    cnt = 0;
+                    _w.cardPool.forEach(function(_c,l){
+                        var _t = _c.value + _c.suit;
+                        cardpool.forEach(function(_pc,m){
+                            if (_t.replace(/[^\w\s!?]/g,'') == _pc.replace(/[^\w\s!?]/g,'')) {
+                                cnt += 1;
+                                console.log('cnt: '+cnt+' ::: ' + _t + ' = ' + _pc);
+                            } else {
+                                console.log('winner card: ' + _t + ' != ' + _pc);
+                            }
+                        });
+                    });
+                    console.log('CNT:' + cnt);
+                
+                  
+                   if (cnt == 7) {
+                      var playerId = _p.getId();
+                      var el = $('div#'+playerId).removeClass('border-dark').addClass('border-primary');
+                      var el2 = $('div#smallcardheadercontainer'+playerId).removeClass('border-dark bg-dark').addClass('border-primary bg-primary');
+                      winnerplayers.push(_p);
+                      console.log(_p.getId() + ' - winner');
+                  } else {
+                      console.log(_p.getId() + ' - looser');
+                  } 
+                  
+                });
+                
+                
+            });
+            if (cnt == 0) {
+                var _ww = winners;
+                var _pp = players;
+                console.log('ERROR');
+            }
             //winnerstext = winners.toString().replace('10', 'T').replace('10', 'T');
             $('#ranksuit').text(winnerstext).removeClass('text-dark text-danger text-success text-primary');
         }, delayInMilliseconds);
