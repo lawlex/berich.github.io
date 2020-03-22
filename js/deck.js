@@ -11,7 +11,7 @@ $(function() {
     var $container = document.getElementById('container');
 
     /* holdem area */
-    var count_players = 6; // ten max
+    var count_players = 10; // ten max
     var hand = []; // two cards, push для добавления карты
     var players = []; // ten max, push для добавления руки
     var flop = []; // three cards, push для добавления карты
@@ -23,43 +23,17 @@ $(function() {
     //$_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem, $_btnellipse, $_btnrotate); //, $_btngrp);
     $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnholdem, $_btnellipse); //, $_btngrp);
 
-
     var deck = Deck();
 
+    // Table
     var table = Table();
     
     table.placeWidth = Deck.Card(0).$el.offsetWidth + 25 + 20;
     table.placeHeight = Deck.Card(0).$el.offsetHeight + 25 + 20;
     
-console.log( Deck.Card(0).$el.offsetWidth + ' - ' + Deck.Card(0).$el.offsetHeight);
+    console.log( Deck.Card(0).$el.offsetWidth + ' - ' + Deck.Card(0).$el.offsetHeight);
     
-   table.Calc();
-
-/* Player tests */
-
-/*
-var P = Player();
-P.mount($container);
-P.moveto(0,100, 45);
-P.setHeader('lawlex');
-P.setText('The Best');
-P.setWidth(140);
-P.hand.addCard(Deck.Card(0));
-P.hand.addCard(Deck.Card(1));
-
-var hcard1 = HumanReadableCard(P.hand.cards[0]);
-var hcard2 = HumanReadableCard(P.hand.cards[1]);
-
-var hand1 = Hand.solve(['As', 'Ad']);
-
-
-console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
-
-//console.log(document.getElementById('RealHero').outerHTML);
-*/
-
-/* end Player tests */
-
+    table.Calc();
 
     // easter eggs start
 
@@ -250,12 +224,11 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
         var players = [];
         var P;
         var winnerplayers = [];
-        var cnt = 0;
+
         var board = [];
         var T = Table();
         T.Calc();
-        var TT;
-        TT = T.table_6max;
+        var TT = T.table_10max;
         var _deck_x;
         var _deck_y;
         var _board_x = [];
@@ -276,7 +249,9 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
 
         deck.shuffle( _deck_x, _deck_y + 25);
         deck.shuffle( _deck_x, _deck_y + 25);
+        
         var delayInMilliseconds = 1000; //1 second
+
         var winnerstext = '';
         var winnersname = '';
         
@@ -302,19 +277,18 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
             var c = 0;
 
             do {
-                var _hand = [];
                 var _p = 0;
                 var _z = 1;
+
                 var total = deck.cards.length;
-                var alpha = Math.PI * 2 / count_players;
-                var theta;
+
                 var X, Y;
                 var zIndex;
 
                 P = new Player();
                 
                 c += 1;
-                theta = alpha * (c);
+
                 var _x, _y;
                 TT.places.forEach( function(row, _numrow) {
                     row.forEach( function(col, _numcol){
@@ -332,9 +306,6 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                     var _card = card;
                     var $el = _card.$el;
                     
-                    //var pointx = Math.floor(Math.cos(theta)*window.innerWidth/4);
-                    //var pointy = Math.floor(Math.sin(theta)*window.innerHeight/4);
-
                     X = _x + -12.5 + 25 *_p ;//- 10*120/2;//- 12.5 + pointx + 25 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
                     Y = _y ;//- 3*140/2;//- (window.innerHeight/10) + pointy + 60; //- (window.innerHeight/6) + 120 * c ;
                     
@@ -358,15 +329,14 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                     });
                     
                     _p += 1;
-                    //_hand.push(_card);
+                    
                     P.hand.addCard(_card);
 
                 });
                 
                 P.setId('Player' + c);
-                console.log('ID:'+P.getId());
-                //P.$id = 'Player' + c;
                 P.setHeader('Player ' + c);
+
                 P.mount($container);
                 P.moveto(X - 12.5, Y + 60, zIndex + 1);
 
@@ -377,10 +347,9 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 hands.push(P.solvedhand);
                 P.handtext = hcard2.textCode + ', ' + hcard1.textCode;
                 P.setText(P.handtext + ' - ' + P.solvedhand.name);
-                //players.push(_hand);
                 players.push(P);
-            }
-            while (c < count_players);
+            } while (c < count_players);
+
             _z = 0;
             deck.cards.slice( total-count_players * 2 - 5, total - count_players * 2 ).reverse().forEach(function(card, i){
                 var _card = card;
@@ -413,121 +382,114 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 
                 //P.hand.addCard(_card);
             });
+
             hands = [];
             players.forEach( function( player, i ) {
-                var h1 = HumanReadableCard(player.hand.cards[1]);
-                var h2 = HumanReadableCard(player.hand.cards[0]);
-                var h3 = board[0];
-                var h4 = board[1];
-                var h5 = board[2];
-                var h6 = board[3];
-                var h7 = board[4];
-                var solvedhand = Hand.solve( [h1.textCode, h2.textCode, h3.textCode, h4.textCode, h5.textCode, h6.textCode, h7.textCode ]);
-                player.handtext = h1.textCode + "," + h2.textCode + "," + h3.textCode + "," + h4.textCode + "," + h5.textCode + "," + h6.textCode + "," + h7.textCode
-                player.setText( player.handtext );//+ ':' + solvedhand.name );
+                var c1 = HumanReadableCard(player.hand.cards[1]);
+                var c2 = HumanReadableCard(player.hand.cards[0]);
+                var c3 = board[0];
+                var c4 = board[1];
+                var c5 = board[2];
+                var c6 = board[3];
+                var c7 = board[4];
+                var solvedhand = Hand.solve( [c1.textCode, c2.textCode, c3.textCode, c4.textCode, c5.textCode, c6.textCode, c7.textCode ]);
+                player.handtext = c1.textCode + "," + c2.textCode + "," + c3.textCode + "," + c4.textCode + "," + c5.textCode + "," + c6.textCode + "," + c7.textCode
+                player.setText( player.handtext ); //+ ':' + solvedhand.name );
                 hands.push( solvedhand );
             });
-            /*
-            P.solvedhand = Hand.solve([hcard1.textCode, hcard2.textCode]);
-            hands.push(P.solvedhand);
-            P.handtext = hcard2.textCode + ', ' + hcard1.textCode;
-            P.setText(P.handtext + ' - ' + P.solvedhand.name);
-        */
+            
             var winners = Hand.winners(hands);
 
-            hands.forEach(function(hand, i){
-                winners.forEach(function(winner, k){
-                    if (winner==hand) {
-                        if (winnersname=='') {
-                            winnersname = hand.name;
-                        } else {
-                            winnersname += '; ' + hand.name;
-                        }
-
-                        if (winnerstext=='') {
-                            winnerstext = hand.toString().replace('10', 'T').replace('10', 'T').replace('10', 'T') + ' - ' + winnersname;
-                        } else {
-                            winnerstext += '; ' + hand.toString().replace('10', 'T').replace('10', 'T').replace('10', 'T') + ' - ' + winnersname;
-                        }
-                        
-                    }
-                })
-                
-            });
+            winnerstext = getWinnersText(hands);
 
             winnerplayers = []; // clear winners
             
-            if (winners.length > 1 ){
-                console.log('WINNERS:'+winners.length);
-                winners.forEach(function(w,i){
-                    var h = '';
-                    w.cardPool.forEach(function(c, k){
-                        h += c.value+c.suit+",";
-                    });
-                    console.log('winner'+i+':'+h);
-                });
-            }
+            var Winners = prepare_players( players, board, winners );
 
-            players.forEach(function(player,i){
-                var _p = player;
-                var cardpool = [];
-                cardpool.push(HumanReadableCard(_p.hand.cards[1]).textCode);
-                cardpool.push(HumanReadableCard(_p.hand.cards[0]).textCode);
-                cardpool.push(board[0].textCode);
-                cardpool.push(board[1].textCode);
-                cardpool.push(board[2].textCode);
-                cardpool.push(board[3].textCode);
-                cardpool.push(board[4].textCode);
-                console.log('player'+i+':'+cardpool[0]+','+cardpool[1]+','+cardpool[2]+','+cardpool[3]+','+cardpool[4]+','+cardpool[5]+','+cardpool[6]+',');
-                
-                winners.forEach(function(winner,k){
-                    var _w = winner;
-                    cnt = 0;
-                    _w.cardPool.forEach(function(_c,l){
-                        var _t = _c.value + _c.suit;
-                        cardpool.forEach(function(_pc,m){
-                            if (_t.replace(/[^\w\s!?]/g,'') == _pc.replace(/[^\w\s!?]/g,'')) {
-                                cnt += 1;
-                                console.log('cnt: '+cnt+' ::: ' + _t + ' = ' + _pc);
-                            } else {
-                                console.log('winner card: ' + _t + ' != ' + _pc);
-                            }
-                        });
-                    });
-                    console.log('CNT:' + cnt);
-                
-                  
-                   if (cnt == 7) {
-                      var playerId = _p.getId();
-                      var el = $('div#'+playerId).removeClass('border-dark').addClass('border-primary');
-                      var el2 = $('div#smallcardheadercontainer'+playerId).removeClass('border-dark bg-dark').addClass('border-primary bg-primary');
-                      winnerplayers.push(_p);
-                      console.log(_p.getId() + ' - winner');
-                  } else {
-                      console.log(_p.getId() + ' - looser');
-                  } 
-                  
-                });
-                
-                
+            // highlight winners
+            Winners.forEach( function( Winner, i ) {
+                var playerId = Winner.getId();
+                var el = $('div#'+playerId).removeClass('border-dark').addClass('border-primary');
+                var el2 = $('div#smallcardheadercontainer'+playerId).removeClass('border-dark bg-dark').addClass('border-primary bg-primary');
             });
-            if (cnt == 0) {
-                var _ww = winners;
-                var _pp = players;
-                console.log('ERROR');
-            }
-            //winnerstext = winners.toString().replace('10', 'T').replace('10', 'T');
+
             $('#ranksuit').text(winnerstext).removeClass('text-dark text-danger text-success text-primary');
         }, delayInMilliseconds);
-    });
+    }); // end btnholdem
+
+    // prepare winnerstext
+    function getWinnersText( _hands ) {
+        var _winners = Hand.winners( _hands );
+
+        var _winnerstext = '';
+        var _winnersname = '';
+
+        _hands.forEach( function( hand, i ){
+            _winners.forEach( function( winner, k ){
+                if ( winner == hand ) {
+                    if ( _winnersname == '' ) {
+                        _winnersname = hand.name;
+                    } else {
+                        _winnersname += '; ' + hand.name;
+                    }
+
+                    if ( _winnerstext == '' ) {
+                        _winnerstext = hand.toString().replace('10', 'T').replace('10', 'T').replace('10', 'T') + ' - ' + _winnersname;
+                    } else {
+                        _winnerstext += '; ' + hand.toString().replace('10', 'T').replace('10', 'T').replace('10', 'T') + ' - ' + _winnersname;
+                    }
+                }
+            })
+        });
+        return _winnerstext;
+    }
+
+    function prepare_players(_players, _board, _winners) {
+        var cnt = 0;
+        var winnerplayers = [];
+        _players.forEach(function(player,i){
+            var _p = player;
+            var cardpool = [];
+            cardpool.push(HumanReadableCard(_p.hand.cards[1]).textCode);
+            cardpool.push(HumanReadableCard(_p.hand.cards[0]).textCode);
+            cardpool.push(_board[0].textCode);
+            cardpool.push(_board[1].textCode);
+            cardpool.push(_board[2].textCode);
+            cardpool.push(_board[3].textCode);
+            cardpool.push(_board[4].textCode);
+
+            _winners.forEach( function( winner, k ) {
+                var _w = winner;
+                cnt = 0;
+                _w.cardPool.forEach(function( _c, l ){
+                    var _t = _c.value + _c.suit;
+                    cardpool.forEach(function( _pc, m ){
+                        if (_t.replace(/[^\w\s!?]/g,'') == _pc.replace(/[^\w\s!?]/g,'')) {
+                            cnt += 1;
+                        }
+                    });
+                });
+              
+                if (cnt == 7) winnerplayers.push(_p);
+              
+            });
+            
+        });
+        if (cnt == 0) {
+            var _ww = winners;
+            var _pp = players;
+            console.log('ERROR');
+        
+        }
+        return winnerplayers;
+    }
+
     $('#btnellipse').click(function() {
         //deck.sort();
 
         var total = deck.cards.length + 1;
         var alpha = Math.PI * 2 / total;
         var rot = 360 / total;
-
-
 
         deck.cards.reverse().forEach(function (card, i) {
             var $el = card.$el;
