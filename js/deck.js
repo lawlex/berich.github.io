@@ -11,7 +11,7 @@ $(function() {
     var $container = document.getElementById('container');
 
     /* holdem area */
-    var count_players = 6; // ten max
+    var count_players = 8; // ten max
     var hand = []; // two cards, push для добавления карты
     var players = []; // ten max, push для добавления руки
     var flop = []; // three cards, push для добавления карты
@@ -247,18 +247,39 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
     });
 
     $('#btnholdem').click(function() {
+        var players = [];
+        var board = [];
         var T = Table();
         T.Calc();
         var TT;
-        TT = T.table_6max;
-        console.log(TT.name);
+        TT = T.table_8max;
+        var _deck_x;
+        var _deck_y;
+        var _board_x = [];
+        var _board_y = [];
         
-        deck.shuffle();
-        deck.shuffle();
+        TT.places.forEach( function(row, _numrow) {
+            row.forEach( function(col, _numcol) {
+                if ( col == "deck" ) {
+                    _deck_x = _numcol * 120 - TT.width * 120/2 + 120/2;
+                    _deck_y = _numrow * 140 - TT.height * 140/2 + 140/2;
+                }
+                if ( col == "board" ) {
+                    _board_x.push( _numcol * 120 - TT.width * 120/2 + 120/2 );
+                    _board_y.push( _numrow * 140 - TT.height * 140/2 + 140/2 );
+                }
+            });
+        });
+
+        deck.shuffle( _deck_x, _deck_y );
+        deck.shuffle( _deck_x, _deck_y );
         var delayInMilliseconds = 1000; //1 second
         var winnerstext = '';
+        var winnersname = '';
+        
         setTimeout(function() {
             var hands = [];
+            /*
             deck.cards.forEach(function (card, i) {
                 var z = i/4;
                 var $el = card.$el;
@@ -268,12 +289,12 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                     duration: 500,
                     ease: 'quartOut',
 
-                    x: -window.innerWidth/2 + window.innerWidth / 8 - z,
-                    y: -window.innerHeight/2 + window.innerHeight / 6 - z,
+                    x: _deck_x - z,//-window.innerWidth/2 + window.innerWidth / 8 - z,
+                    y: _deck_y - z,//-window.innerHeight/2 + window.innerHeight / 6 - z,
                     rot: 0,
                 });
             });
-
+            */
             // holdem
             var c = 0;
 
@@ -303,13 +324,13 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                     });
                 });
 
-                deck.cards.slice((total-2) - (c-1)*2,total - (c-1)*2).reverse().forEach(function(card, i){
+                deck.cards.slice((total-2) - (c-1)*2,total - (c-1)*2).forEach(function(card, i){
                     
                     var _card = card;
                     var $el = _card.$el;
                     
-                    var pointx = Math.floor(Math.cos(theta)*window.innerWidth/4);
-                    var pointy = Math.floor(Math.sin(theta)*window.innerHeight/4);
+                    //var pointx = Math.floor(Math.cos(theta)*window.innerWidth/4);
+                    //var pointy = Math.floor(Math.sin(theta)*window.innerHeight/4);
 
                     X = _x + -12.5 + 25 *_p ;//- 10*120/2;//- 12.5 + pointx + 25 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
                     Y = _y ;//- 3*140/2;//- (window.innerHeight/10) + pointy + 60; //- (window.innerHeight/6) + 120 * c ;
@@ -319,11 +340,11 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                     zIndex = total - 1 + _z;
                     $el.style.zIndex = zIndex;
                     _card.animateTo({
-                        delay: 500 + (_p * 300) + 75 * (c-1), // wait 1 second + i * 2 ms
+                        delay: 500 + (_p * 100) + 75 * (c-1), // wait 1 second + i * 2 ms
                         duration: 500,
                         ease: 'quartOut',
-                        x: X,
-                        y: Y, 
+                        x: X -_z/4,
+                        y: Y -_z/4, 
                         rot: 0,
                         onStart: function onStart() {
                             //
@@ -338,14 +359,12 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                     P.hand.addCard(_card);
 
                 });
-
-                
-
                 
                 P.setId('Player' + c);
                 P.setHeader('Player ' + c);
                 P.mount($container);
                 P.moveto(X - 12.5, Y + 60, zIndex + 1);
+
                 var hcard1 = HumanReadableCard(P.hand.cards[1]);
                 var hcard2 = HumanReadableCard(P.hand.cards[0]);
 
@@ -354,21 +373,78 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                 P.handtext = hcard2.textCode + ', ' + hcard1.textCode;
                 P.setText(P.handtext + ' - ' + P.solvedhand.name);
                 //players.push(_hand);
-                
-
-
-
+                players.push(P);
             }
             while (c < count_players);
+            _z = 0;
+            deck.cards.slice( total-count_players * 2 - 5, total - count_players * 2 ).reverse().forEach(function(card, i){
+                var _card = card;
+                var $el = _card.$el;
+
+                X = + 15 - 70 *5 / 2 + 80 * i ;
+                Y = 80;
+                
+                _card.setSide('back');
+                _z += 1;
+                zIndex = total - 1 + _z;
+                $el.style.zIndex = zIndex;
+                _card.animateTo({
+                    delay: 500 + (i * 100) + 75*_z, // wait 1 second + i * 2 ms
+                    duration: 500,
+                    ease: 'quartOut',
+                    x: X - (total-_z)/4,
+                    y: Y - (total-_z)/4, 
+                    rot: 0,
+                    onStart: function onStart() {
+                        //
+                    },
+                    onComplete: function onComplete() {
+                        _card.setSide('front');
+                    },
+                });
+                
+                var hcard = HumanReadableCard( _card );
+                board.push( hcard );
+                
+                //P.hand.addCard(_card);
+            });
+            hands = [];
+            players.forEach( function( player, i ) {
+                var h1 = HumanReadableCard(player.hand.cards[1]);
+                var h2 = HumanReadableCard(player.hand.cards[0]);
+                var h3 = board[0];
+                var h4 = board[1];
+                var h5 = board[2];
+                var h6 = board[3];
+                var h7 = board[4];
+                var solvedhand = Hand.solve( [h1.textCode, h2.textCode, h3.textCode, h4.textCode, h5.textCode, h6.textCode, h7.textCode ]);
+                player.handtext = h1.textCode + "," + h2.textCode + "," + h3.textCode + "," + h4.textCode + "," + h5.textCode + "," + h6.textCode + "," + h7.textCode
+                player.setText( player.handtext );//+ ':' + solvedhand.name );
+                hands.push( solvedhand );
+            });
+            /*
+            P.solvedhand = Hand.solve([hcard1.textCode, hcard2.textCode]);
+            hands.push(P.solvedhand);
+            P.handtext = hcard2.textCode + ', ' + hcard1.textCode;
+            P.setText(P.handtext + ' - ' + P.solvedhand.name);
+        */
             var winners = Hand.winners(hands);
+
             hands.forEach(function(hand, i){
                 winners.forEach(function(winner, k){
                     if (winner==hand) {
-                        if (winnerstext=='') {
-                            winnerstext = hand.toString().replace('10', 'T').replace('10', 'T');
+                        if (winnersname=='') {
+                            winnersname = hand.name;
                         } else {
-                            winnerstext += '; ' + hand.toString().replace('10', 'T').replace('10', 'T');
+                            winnersname += '; ' + hand.name;
                         }
+
+                        if (winnerstext=='') {
+                            winnerstext = hand.toString().replace('10', 'T').replace('10', 'T').replace('1', 'A') + ' - ' + winnersname;
+                        } else {
+                            winnerstext += '; ' + hand.toString().replace('10', 'T').replace('10', 'T').replace('1', 'A') + ' - ' + winnersname;
+                        }
+                        
                     }
                 })
                 
