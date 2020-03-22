@@ -387,7 +387,7 @@ body {
 }
 @media (min-width: 640px) {
   html {
-    font-size: 125%;
+    font-size: 100%; /* original - 125% */
   }
 }
 

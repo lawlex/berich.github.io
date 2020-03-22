@@ -445,9 +445,9 @@ console.log(hcard1.textCode + ' ' + hcard2.textCode + ' - ' + hand1.name);
                         }
 
                         if (winnerstext=='') {
-                            winnerstext = hand.toString().replace('10', 'T').replace('10', 'T').replace('1', 'A') + ' - ' + winnersname;
+                            winnerstext = hand.toString().replace('10', 'T').replace('10', 'T').replace('10', 'T') + ' - ' + winnersname;
                         } else {
-                            winnerstext += '; ' + hand.toString().replace('10', 'T').replace('10', 'T').replace('1', 'A') + ' - ' + winnersname;
+                            winnerstext += '; ' + hand.toString().replace('10', 'T').replace('10', 'T').replace('10', 'T') + ' - ' + winnersname;
                         }
                         
                     }
