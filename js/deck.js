@@ -14,11 +14,22 @@ $(function() {
 
     var count_players = 6; // ten max
 
-    var hand = []; // two cards, push для добавления карты
+    var delayInMilliseconds = 1000; //1 second
+    
     var players = []; // ten max, push для добавления руки
-    var flop = []; // three cards, push для добавления карты
-    var turn; // one card, присвоение карты
-    var river; // one card, присвоение карты
+
+    var P;
+    var winnerplayers = [];
+
+    var board = [];
+    var T = Table();
+    var TT;
+    var _deck_x;
+    var _deck_y;
+    var _board_x = [];
+    var _board_y = [];
+
+
     /* end holdem area */
 
     var $_footerbtngroup = $('#footerbtngroup');    
@@ -37,11 +48,15 @@ $(function() {
     //console.log( Deck.Card(0).$el.offsetWidth + ' - ' + Deck.Card(0).$el.offsetHeight);
     
     table.Calc();
+    T = Table();
+        
+    T.Calc();
 
+    TT = T.table_6max;
     // easter eggs start
 
-    var acesClicked = [];
-    var kingsClicked = [];
+    //var acesClicked = [];
+    //var kingsClicked = [];
 
     deck.cards.forEach(function(card, i) {
         card.enableDragging();
@@ -166,21 +181,14 @@ $(function() {
 
 
     $('#btnholdem').click(function() {
-        var players = [];
-        var P;
-        var winnerplayers = [];
+        players = []; // ten max, push для добавления руки
+        winnerplayers = [];
+    
+        board = [];
+        _board_x = [];
+        _board_y = [];
 
-        var board = [];
-        var T = Table();
-        T.Calc();
-        var TT;
 
-        TT = T.table_6max;
-
-        var _deck_x;
-        var _deck_y;
-        var _board_x = [];
-        var _board_y = [];
         
         // get places
         TT.places.forEach( function(row, _numrow) {
@@ -198,20 +206,18 @@ $(function() {
 
         deckshuffle( deck, _deck_x, _deck_y + 25 );
 
-        var delayInMilliseconds = 1000; //1 second
-
         var winnerstext = '';
         var winnersname = '';
         
         // holdem
         var hands = [];
         var total = deck.cards.length;
-
-        setTimeout(function() {
         
-          var c = 0;
+        var c = 0;
 
-          // create players
+        // create players
+        setTimeout(function() {
+
           do {
             
             var X, Y;
@@ -430,6 +436,7 @@ $(function() {
           
         }, delayInMilliseconds);
         // end get winners
+
     }); // end btnholdem
 
     // deck shuffle
