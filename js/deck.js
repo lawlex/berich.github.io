@@ -11,7 +11,7 @@ $(function() {
     var $container = document.getElementById('container');
 
     /* holdem area */
-    var count_players = 10; // ten max
+    var count_players = 6; // ten max
     var hand = []; // two cards, push для добавления карты
     var players = []; // ten max, push для добавления руки
     var flop = []; // three cards, push для добавления карты
@@ -20,8 +20,9 @@ $(function() {
     /* end holdem area */
 
     var $_footerbtngroup = $('#footerbtngroup');    
-    //$_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnexplode, $_btnholdem, $_btnellipse, $_btnrotate); //, $_btngrp);
-    $_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnholdem, $_btnellipse); //, $_btngrp);
+    // add buttons
+    //$_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnholdem, $_btnellipse);
+    $_footerbtngroup.append($_btnholdem);
 
     var deck = Deck();
 
@@ -31,7 +32,7 @@ $(function() {
     table.placeWidth = Deck.Card(0).$el.offsetWidth + 25 + 20;
     table.placeHeight = Deck.Card(0).$el.offsetHeight + 25 + 20;
     
-    console.log( Deck.Card(0).$el.offsetWidth + ' - ' + Deck.Card(0).$el.offsetHeight);
+    //console.log( Deck.Card(0).$el.offsetWidth + ' - ' + Deck.Card(0).$el.offsetHeight);
     
     table.Calc();
 
@@ -50,8 +51,7 @@ $(function() {
         function onTouch() {
             //var card;
                 
-
-    console.log(card.$el.offsetWidth + ' x ' + card.$el.offsetHeight);
+            //console.log(card.$el.offsetWidth + ' x ' + card.$el.offsetHeight);
             //console.log(Deck.Card(i).$el.outerHTML);
             var HRCard = HumanReadableCard(Deck.Card(i));
             var colors = 'text-dark text-danger text-dark text-danger'.split(' ');
@@ -59,6 +59,8 @@ $(function() {
             
             $('#ranksuit').text(HRCard.humanRankSuit + ' ' + HRCard.textCode).removeClass('text-dark text-danger text-success text-primary').addClass(colors[HRCard.suit]);
 
+/* example deck libray work */
+/*
             if (i % 13 === 0) {
                 acesClicked[i] = true;
                 if (acesClicked.filter(function(ace) {
@@ -97,9 +99,10 @@ $(function() {
                     kingsClicked = [];
                 }
             }
+            */
         } // end onTouch
     }); // end forEach
-
+/*
     function startWinning() {
         var $winningDeck = document.createElement('div');
         $winningDeck.classList.add('deck');
@@ -156,69 +159,9 @@ $(function() {
                 card.unmount();
             })
     } // end addWinningCard
-
+*/
     // easter eggs end
-    // new buttons
 
-    $('#btnshuffle').click(function() {
-        // shuffle
-        deck.shuffle();
-        deck.shuffle();
-    });
-
-    $('#btnsort').click(function() {
-        // sort
-        deck.sort();
-    });
-
-    $('#btnbysuit').click(function() {
-        // bysuit
-        deck.sort(true); // sort reversed
-        deck.bysuit();
-    });
-
-    $('#btnfan').click(function() {
-        // fan
-        deck.fan();
-    });
-
-    $('#btnflip').click(function() {
-        // flip
-        deck.flip();
-    });
-
-    $('#btnpoker').click(function() {
-        // poker
-
-        deck.queue(function(next) {
-            deck.cards.forEach(function(card, i) {
-                setTimeout(function() {
-                    card.setSide('back');
-                }, i * 7.5);
-            })
-            next();
-        })
-        deck.shuffle();
-        deck.shuffle();
-        deck.poker();
-    });
-
-    $('#btnexplode').click(function() {
-        // explode
-        deck.cards.forEach(function(card, i) {
-            card.setSide('front')
-
-            // explode
-            card.animateTo({
-                delay: 1000 + i * 2, // wait 1 second + i * 2 ms
-                duration: 500,
-                ease: 'quartOut',
-
-                x: Math.random() * window.innerWidth / 2 - window.innerWidth / 4,
-                y: Math.random() * window.innerHeight / 2 - window.innerHeight / 24
-            })
-        })
-    });
 
     $('#btnholdem').click(function() {
         var players = [];
@@ -228,12 +171,14 @@ $(function() {
         var board = [];
         var T = Table();
         T.Calc();
-        var TT = T.table_10max;
+        var TT;
+        TT = T.table_6max;
         var _deck_x;
         var _deck_y;
         var _board_x = [];
         var _board_y = [];
         
+        // get places
         TT.places.forEach( function(row, _numrow) {
             row.forEach( function(col, _numcol) {
                 if ( col == "deck" ) {
@@ -247,175 +192,265 @@ $(function() {
             });
         });
 
-        deck.shuffle( _deck_x, _deck_y + 25);
-        deck.shuffle( _deck_x, _deck_y + 25);
-        
+        deckshuffle( deck, _deck_x, _deck_y + 25 );
+
         var delayInMilliseconds = 1000; //1 second
 
         var winnerstext = '';
         var winnersname = '';
         
+        // holdem
+        var hands = [];
+        var total = deck.cards.length;
+
         setTimeout(function() {
-            var hands = [];
-            /*
-            deck.cards.forEach(function (card, i) {
-                var z = i/4;
-                var $el = card.$el;
-                card.setSide('back');
-                card.animateTo({
-                    delay: 100 + i * 1, // wait 1 second + i * 2 ms
-                    duration: 500,
-                    ease: 'quartOut',
+        
+          var c = 0;
 
-                    x: _deck_x - z,//-window.innerWidth/2 + window.innerWidth / 8 - z,
-                    y: _deck_y - z,//-window.innerHeight/2 + window.innerHeight / 6 - z,
-                    rot: 0,
-                });
-            });
-            */
-            // holdem
-            var c = 0;
-
-            do {
-                var _p = 0;
-                var _z = 1;
-
-                var total = deck.cards.length;
-
-                var X, Y;
-                var zIndex;
-
-                P = new Player();
-                
-                c += 1;
-
-                var _x, _y;
-                TT.places.forEach( function(row, _numrow) {
-                    row.forEach( function(col, _numcol){
-                        //console.log(col);
-                        if ( c.toString() == col ){
-                            console.log( (_numrow * 140 - 140/2) + ' - ' + (_numcol * 120 - 120/2) );
-                            _y = _numrow * 140 - TT.height*140/2+140/2;
-                            _x = _numcol * 120 - TT.width*120/2+120/2;
-                        }
-                    });
-                });
-
-                deck.cards.slice((total-2) - (c-1)*2,total - (c-1)*2).forEach(function(card, i){
-                    
-                    var _card = card;
-                    var $el = _card.$el;
-                    
-                    X = _x + -12.5 + 25 *_p ;//- 10*120/2;//- 12.5 + pointx + 25 * _p; //(wndow.innerWidth/2 - 90*2) - 50 * _p;
-                    Y = _y ;//- 3*140/2;//- (window.innerHeight/10) + pointy + 60; //- (window.innerHeight/6) + 120 * c ;
-                    
-                    _card.setSide('back');
-                    _z += 1;
-                    zIndex = total - 1 + _z;
-                    $el.style.zIndex = zIndex;
-                    _card.animateTo({
-                        delay: _delay + (_p * 50) + 75 * (c-1), // wait 1 second + i * 2 ms
-                        duration: 500,
-                        ease: 'quartOut',
-                        x: X -_z/4,
-                        y: Y -_z/4, 
-                        rot: 0,
-                        onStart: function onStart() {
-                            //
-                        },
-                        onComplete: function onComplete() {
-                            _card.setSide('front');
-                        },
-                    });
-                    
-                    _p += 1;
-                    
-                    P.hand.addCard(_card);
-
-                });
-                
-                P.setId('Player' + c);
-                P.setHeader('Player ' + c);
-
-                P.mount($container);
-                P.moveto(X - 12.5, Y + 60, zIndex + 1);
-
-                var hcard1 = HumanReadableCard(P.hand.cards[1]);
-                var hcard2 = HumanReadableCard(P.hand.cards[0]);
-
-                P.solvedhand = Hand.solve([hcard1.textCode, hcard2.textCode]);
-                hands.push(P.solvedhand);
-                P.handtext = hcard2.textCode + ', ' + hcard1.textCode;
-                P.setText(P.handtext + ' - ' + P.solvedhand.name);
-                players.push(P);
-            } while (c < count_players);
-
-            _z = 0;
-            deck.cards.slice( total-count_players * 2 - 5, total - count_players * 2 ).reverse().forEach(function(card, i){
-                var _card = card;
-                var $el = _card.$el;
-
-                X = + 27.5 - 70 *5 / 2 + 80 * i ; //47.5+ _board_x[1]  - 70 *5 / 2 + 70 * i ;//+ 15 - 70 *5 / 2 + 80 * i ;
-                Y = _board_y[1]+25 ;//80;
-                
-                _card.setSide('back');
-                _z += 1;
-                zIndex = total - 1 + _z;
-                $el.style.zIndex = zIndex;
-                _card.animateTo({
-                    delay: _delay + (i * 50) + 75*_z, // wait 1 second + i * 2 ms
-                    duration: 500,
-                    ease: 'quartOut',
-                    x: X - (total-_z)/4,
-                    y: Y - (total-_z)/4, 
-                    rot: 0,
-                    onStart: function onStart() {
-                        //
-                    },
-                    onComplete: function onComplete() {
-                        _card.setSide('front');
-                    },
-                });
-                
-                var hcard = HumanReadableCard( _card );
-                board.push( hcard );
-                
-                //P.hand.addCard(_card);
-            });
-
-            hands = [];
-            players.forEach( function( player, i ) {
-                var c1 = HumanReadableCard(player.hand.cards[1]);
-                var c2 = HumanReadableCard(player.hand.cards[0]);
-                var c3 = board[0];
-                var c4 = board[1];
-                var c5 = board[2];
-                var c6 = board[3];
-                var c7 = board[4];
-                var solvedhand = Hand.solve( [c1.textCode, c2.textCode, c3.textCode, c4.textCode, c5.textCode, c6.textCode, c7.textCode ]);
-                player.handtext = c1.textCode + "," + c2.textCode + "," + c3.textCode + "," + c4.textCode + "," + c5.textCode + "," + c6.textCode + "," + c7.textCode
-                player.setText( player.handtext ); //+ ':' + solvedhand.name );
-                hands.push( solvedhand );
-            });
+          // create players
+          do {
             
-            var winners = Hand.winners(hands);
+            var X, Y;
+            var zIndex;
+            var _p = 0;
+            var _z = 1;
+            var _x, _y;
 
-            winnerstext = getWinnersText(hands);
-
-            winnerplayers = []; // clear winners
-            
-            var Winners = prepare_players( players, board, winners );
-
-            // highlight winners
-            Winners.forEach( function( Winner, i ) {
-                var playerId = Winner.getId();
-                var el = $('div#'+playerId).removeClass('border-dark').addClass('border-primary');
-                var el2 = $('div#smallcardheadercontainer'+playerId).removeClass('border-dark bg-dark').addClass('border-primary bg-primary');
+            P = new Player();
+                
+            c += 1;
+                
+            TT.places.forEach( function(row, _numrow) {
+              row.forEach( function(col, _numcol){
+                if ( c.toString() == col ){
+                  _y = _numrow * 140 - TT.height * 140 / 2 + 140 / 2;
+                  _x = _numcol * 120 - TT.width * 120 / 2 + 120 / 2;
+                }
+              });
             });
+                
+            var itemsfrom = total - (c - 1) * 2;
+            var itemsto = (total - 2) - (c - 1) * 2;
+                
+            deck.cards.slice(itemsto, itemsfrom).forEach( function(card, i) {
+              X = _x + -12.5 + 25 *_p ;
+              Y = _y ;
+                    
+              card.setSide('back');
+              _z += 1;
+              zIndex = total - 1 + _z;
+              card.$el.style.zIndex = zIndex;
+                    
+              // card animate to
+              cardAnimateTo(
+                card,
+                _delay + (_p * 50) + 75 * (c - 1),
+                500,'quartOut',
+                //X -_z/4,Y-_z/4,0,
+                X,Y,0,
+                'front'
+              );
+              // end card animate to
+                    
+              _p += 1;
+                    
+              P.hand.addCard(card);
 
-            $('#ranksuit').text(winnerstext).removeClass('text-dark text-danger text-success text-primary');
+            });
+                
+            P.setId('Player' + c);
+            P.setHeader('Player ' + c);
+
+            P.mount($container);
+            P.moveto(X - 12.5, Y + 60, zIndex + 1);
+
+            var hcard1 = HumanReadableCard(P.hand.cards[1]);
+            var hcard2 = HumanReadableCard(P.hand.cards[0]);
+
+            P.solvedhand = Hand.solve([hcard1.textCode, hcard2.textCode]);
+            hands.push(P.solvedhand);
+            P.handtext = hcard2.textCode + ', ' + hcard1.textCode;
+            P.setText(P.handtext + ' - ' + P.solvedhand.name);
+            players.push(P);
+          } while (c < count_players);
+          
         }, delayInMilliseconds);
+        // end create players
+        
+        // flop
+        setTimeout(function() {
+          _z = 0;
+
+          itemsfrom = total - count_players * 2;
+          itemsto =   total - count_players * 2 - 3;
+            
+          deck.cards.slice( itemsto, itemsfrom ).reverse().forEach(function(card, i){
+
+            X = _board_x[1] + 47.5 - 70 * 5 / 2 + 70 * i; 
+            Y = _board_y[1] + 25;
+                
+            card.setSide('back');
+            _z += 1;
+            zIndex = total - 1 + _z;
+            card.$el.style.zIndex = zIndex;
+                
+            // card animate to
+            cardAnimateTo(
+              card,
+              _delay + (i * 50) + 75*_z,
+              500,'quartOut',
+              X - (total-_z)/4,
+              Y - (total-_z)/4,
+              0,
+              'front'
+            );
+            // end card animate to
+                
+            var hcard = HumanReadableCard( card );
+            board.push( hcard );
+                
+            //P.hand.addCard(_card);
+          });
+
+        }, delayInMilliseconds);
+        // end flop
+        
+        // turn
+        setTimeout(function() {
+
+          itemsfrom = total - count_players * 2 - 3;
+          itemsto =   total - count_players * 2 - 4;
+            
+          deck.cards.slice( itemsto, itemsfrom ).reverse().forEach(function(card, i){
+            i = i + 3;
+            X = _board_x[1] + 47.5 - 70 * 5 / 2 + 70 * i; 
+            Y = _board_y[1] + 25 ;
+                
+            card.setSide('back');
+            _z += 1;
+            zIndex = total - 1 + _z;
+            card.$el.style.zIndex = zIndex;
+                
+            // card animate to
+            cardAnimateTo(
+              card,
+              _delay + (i * 50) + 75 * _z,
+              500,'quartOut',
+              X - (total-_z)/4,
+              Y - (total-_z)/4,
+              0,
+              'front'
+            );
+            // end card animate to
+                
+            var hcard = HumanReadableCard( card );
+            board.push( hcard );
+                
+            //P.hand.addCard(_card);
+          });
+            
+        }, delayInMilliseconds);
+        // end turn
+        
+        // river
+        setTimeout(function() {
+
+          itemsfrom = total - count_players * 2 - 4;
+          itemsto =   total - count_players * 2 - 5;
+            
+          deck.cards.slice( itemsto, itemsfrom ).reverse().forEach(function(card, i){
+            i = i + 4;
+            X = _board_x[1] + 47.5 - 70 * 5 / 2 + 70 * i; 
+            Y = _board_y[1] + 25 ;
+                
+            card.setSide('back');
+            _z += 1;
+            zIndex = total - 1 + _z;
+            card.$el.style.zIndex = zIndex;
+                
+            // card animate to
+            cardAnimateTo(
+              card,
+              _delay + (i * 50) + 75*_z,
+              500,'quartOut',
+              X - (total-_z)/4,
+              Y - (total-_z)/4,
+              0,
+              'front'
+            );
+            // end card animate to
+                
+            var hcard = HumanReadableCard( card );
+            board.push( hcard );
+                
+            //P.hand.addCard(_card);
+          });
+          
+        }, delayInMilliseconds);
+        // end river
+        
+        // get winners
+        setTimeout(function() {
+  
+          hands = [];
+          players.forEach( function( player, i ) {
+            var c1 = HumanReadableCard(player.hand.cards[1]);
+            var c2 = HumanReadableCard(player.hand.cards[0]);
+            var c3 = board[0];
+            var c4 = board[1];
+            var c5 = board[2];
+            var c6 = board[3];
+            var c7 = board[4];
+            var solvedhand = Hand.solve( [c1.textCode, c2.textCode, c3.textCode, c4.textCode, c5.textCode, c6.textCode, c7.textCode ]);
+            player.handtext = c1.textCode + "," + c2.textCode + "," + c3.textCode + "," + c4.textCode + "," + c5.textCode + "," + c6.textCode + "," + c7.textCode
+            player.setText( player.handtext ); //+ ':' + solvedhand.name );
+            hands.push( solvedhand );
+          });
+            
+          var winners = Hand.winners(hands);
+
+          winnerstext = getWinnersText(hands);
+
+          winnerplayers = []; // clear winners
+            
+          var Winners = prepare_players( players, board, winners );
+
+          // highlight winners
+          Winners.forEach( function( Winner, i ) {
+            var playerId = Winner.getId();
+            var el = $('div#'+playerId).removeClass('border-dark').addClass('border-primary');
+            var el2 = $('div#smallcardheadercontainer'+playerId).removeClass('border-dark bg-dark').addClass('border-primary bg-primary');
+          });
+
+          $('#ranksuit').text(winnerstext).removeClass('text-dark text-danger text-success text-primary');
+          
+        }, delayInMilliseconds);
+        // end get winners
     }); // end btnholdem
+
+    // deck shuffle
+    function deckshuffle(_deck, _x = 0, _y = 0) {
+      _deck.shuffle( _x, _y + 25);
+      _deck.shuffle( _x, _y + 25);
+    }
+
+    // card animate to
+    function cardAnimateTo(card,delay,duration,ease,x,y,rot,side){
+      card.animateTo({
+          delay: delay, 
+          duration: duration,
+          ease: ease,
+          x: x,
+          y: y, 
+          rot: rot,
+          onStart: function onStart() {
+              //
+          },
+          onComplete: function onComplete() {
+              card.setSide(side);
+          },
+      });
+    }
 
     // prepare winnerstext
     function getWinnersText( _hands ) {
@@ -483,6 +518,67 @@ $(function() {
         }
         return winnerplayers;
     }
+    // example buttons
+
+    $('#btnshuffle').click(function() {
+        // shuffle
+        deck.shuffle();
+        deck.shuffle();
+    });
+
+    $('#btnsort').click(function() {
+        // sort
+        deck.sort();
+    });
+
+    $('#btnbysuit').click(function() {
+        // bysuit
+        deck.sort(true); // sort reversed
+        deck.bysuit();
+    });
+
+    $('#btnfan').click(function() {
+        // fan
+        deck.fan();
+    });
+
+    $('#btnflip').click(function() {
+        // flip
+        deck.flip();
+    });
+
+    $('#btnpoker').click(function() {
+        // poker
+
+        deck.queue(function(next) {
+            deck.cards.forEach(function(card, i) {
+                setTimeout(function() {
+                    card.setSide('back');
+                }, i * 7.5);
+            })
+            next();
+        })
+        deck.shuffle();
+        deck.shuffle();
+        deck.poker();
+    });
+
+    $('#btnexplode').click(function() {
+        // explode
+        deck.cards.forEach(function(card, i) {
+            card.setSide('front')
+
+            // explode
+            card.animateTo({
+                delay: 1000 + i * 2, // wait 1 second + i * 2 ms
+                duration: 500,
+                ease: 'quartOut',
+
+                x: Math.random() * window.innerWidth / 2 - window.innerWidth / 4,
+                y: Math.random() * window.innerHeight / 2 - window.innerHeight / 24
+            })
+        })
+    });
 
     $('#btnellipse').click(function() {
         //deck.sort();
@@ -533,7 +629,7 @@ $(function() {
         deck.moveto(false, 0, 0, rot, -35);
         deck.moveto(false, 0, 0, -rot, 1);
     });
-
+// end example buttons
     deck.mount($container);
 
 // messsages
