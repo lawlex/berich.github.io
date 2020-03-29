@@ -11,7 +11,9 @@ $(function() {
     var $container = document.getElementById('container');
 
     /* holdem area */
+
     var count_players = 6; // ten max
+
     var hand = []; // two cards, push для добавления карты
     var players = []; // ten max, push для добавления руки
     var flop = []; // three cards, push для добавления карты
@@ -172,7 +174,9 @@ $(function() {
         var T = Table();
         T.Calc();
         var TT;
+
         TT = T.table_6max;
+
         var _deck_x;
         var _deck_y;
         var _board_x = [];
