@@ -529,6 +529,8 @@ $(function() {
         }
         return winnerplayers;
     }
+
+    
     // example buttons
 
     $('#btnshuffle').click(function() {
@@ -624,7 +626,10 @@ $(function() {
             });
         });
     });
+
+
     var rot = 0;
+
     $('#btnrotate').click(function() {
         // moveto
         //deck.moveto(false, -450, -50, 360);
