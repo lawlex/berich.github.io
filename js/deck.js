@@ -20,6 +20,9 @@ $(function() {
 
     var P;
     var winnerplayers = [];
+    var winnerstext = '';
+    var hands = [];
+    var total;
 
     var board = [];
     var T = Table();
@@ -35,7 +38,12 @@ $(function() {
     var $_footerbtngroup = $('#footerbtngroup');    
     // add buttons
     //$_footerbtngroup.append($_btnflip, $_btnshuffle, $_btnbysuit, $_btnfan, $_btnpoker, $_btnsort, $_btnholdem, $_btnellipse);
-    $_footerbtngroup.append($_btnholdem);
+    $_btnpreflop.addClass('d-none');
+    $_btnflop.addClass('d-none');
+    $_btnturn.addClass('d-none');
+    $_btnriver.addClass('d-none');
+    $_btnholdem.addClass('d-none');
+    $_footerbtngroup.append($_btnstartgame, $_btnpreflop, $_btnflop, $_btnturn, $_btnriver, $_btnholdem);
 
     var deck = Deck();
 
@@ -179,8 +187,15 @@ $(function() {
 */
     // easter eggs end
 
+    $('#btnstartgame').click(function(){
+        // check forEach for cleaning last results
+        players.forEach(function(player, _p){
+            player.setText('');
+        });
+        
+        $ranksuit = $('#ranksuit');
+        $ranksuit.text('');
 
-    $('#btnholdem').click(function() {
         players = []; // ten max, push для добавления руки
         winnerplayers = [];
     
@@ -204,11 +219,16 @@ $(function() {
 
         deckshuffle( deck, _deck_x, _deck_y + 25 );
 
-        var winnerstext = '';
-        
-        // holdem
-        var hands = [];
-        var total = deck.cards.length;
+        winnerstext = '';
+
+        $_btnpreflop.removeClass('d-none');
+        $_btnstartgame.addClass('d-none');
+    });
+
+    $('#btnpreflop').click(function() {
+        // preflop
+        hands = [];
+        total = deck.cards.length;
         
         var c = 0;
 
@@ -252,7 +272,7 @@ $(function() {
               cardAnimateTo(
                 card,
                 _delay + (_p * 50) + 75 * (c - 1),
-                500,'quartOut',
+                250,'quartOut',
                 //X -_z/4,Y-_z/4,0,
                 X,Y,0,
                 'front'
@@ -284,88 +304,103 @@ $(function() {
         }, delayInMilliseconds);
         // end create players
         
+        // hide/show Buttons
+        $_btnpreflop.addClass('d-none');
+        $_btnflop.removeClass('d-none');
+    });
+    $('#btnflop').click(function() {
         // flop
         setTimeout(function() {
-          _z = 0;
-
-          itemsfrom = total - count_players * 2;
-          itemsto =   total - count_players * 2 - 3;
-            
-          deck.cards.slice( itemsto, itemsfrom ).reverse().forEach(function(card, i){
-
-            X = _board_x[1] + 47.5 - 70 * 5 / 2 + 70 * i; 
-            Y = _board_y[1] + 25;
+            _z = 0;
+    
+            itemsfrom = total - count_players * 2;
+            itemsto =   total - count_players * 2 - 3;
                 
-            card.setSide('back');
-            _z += 1;
-            zIndex = total - 1 + _z;
-            card.$el.style.zIndex = zIndex;
-                
-            // card animate to
-            cardAnimateTo(
-              card,
-              _delay + (i * 50) + 75*_z,
-              500,'quartOut',
-              X - (total-_z)/4,
-              Y - (total-_z)/4,
-              0,
-              'front'
-            );
-            // end card animate to
-                
-            var hcard = HumanReadableCard( card );
-            board.push( hcard );
-                
-            //P.hand.addCard(_card);
-          });
-
-        }, delayInMilliseconds);
-        // end flop
+            deck.cards.slice( itemsto, itemsfrom ).reverse().forEach(function(card, i){
+    
+                X = _board_x[1] + 47.5 - 70 * 5 / 2 + 70 * i; 
+                Y = _board_y[1] + 25;
+                    
+                card.setSide('back');
+                _z += 1;
+                zIndex = total - 1 + _z;
+                card.$el.style.zIndex = zIndex;
+                    
+                // card animate to
+                cardAnimateTo(
+                card,
+                _delay + (i * 10) + 75 *_z,
+                250,'quartOut',
+                X - (total-_z)/4,
+                Y - (total-_z)/4,
+                0,
+                'front'
+                );
+                // end card animate to
+                    
+                var hcard = HumanReadableCard( card );
+                board.push( hcard );
+                    
+                //P.hand.addCard(_card);
+            });
+    
+            }, delayInMilliseconds);
+            // end flop
         
+            // hide/show Buttons
+        $_btnflop.addClass('d-none');
+        $_btnturn.removeClass('d-none');
+    });
+    $('#btnturn').click(function() {
         // turn
         setTimeout(function() {
 
-          itemsfrom = total - count_players * 2 - 3;
-          itemsto =   total - count_players * 2 - 4;
-            
-          deck.cards.slice( itemsto, itemsfrom ).reverse().forEach(function(card, i){
-            i = i + 3;
-            X = _board_x[1] + 47.5 - 70 * 5 / 2 + 70 * i; 
-            Y = _board_y[1] + 25 ;
+            itemsfrom = total - count_players * 2 - 3;
+            itemsto =   total - count_players * 2 - 4;
                 
-            card.setSide('back');
-            _z += 1;
-            zIndex = total - 1 + _z;
-            card.$el.style.zIndex = zIndex;
+            deck.cards.slice( itemsto, itemsfrom ).reverse().forEach(function(card, i){
+                i = i + 3;
+                X = _board_x[1] + 47.5 - 70 * 5 / 2 + 70 * i; 
+                Y = _board_y[1] + 25 ;
+                    
+                card.setSide('back');
+                _z += 1;
+                zIndex = total - 1 + _z;
+                card.$el.style.zIndex = zIndex;
+                    
+                // card animate to
+                cardAnimateTo(
+                card,
+                _delay + 1 * 10 + 75,//(i * 10) + 75,// *_z,
+                250,'quartOut',
+                X - (total-_z)/4,
+                Y - (total-_z)/4,
+                0,
+                'front'
+                );
+                // end card animate to
+                    
+                var hcard = HumanReadableCard( card );
+                board.push( hcard );
+                    
+                //P.hand.addCard(_card);
+            });
                 
-            // card animate to
-            cardAnimateTo(
-              card,
-              _delay + (i * 50) + 75 * _z,
-              500,'quartOut',
-              X - (total-_z)/4,
-              Y - (total-_z)/4,
-              0,
-              'front'
-            );
-            // end card animate to
-                
-            var hcard = HumanReadableCard( card );
-            board.push( hcard );
-                
-            //P.hand.addCard(_card);
-          });
-            
-        }, delayInMilliseconds);
-        // end turn
+            }, delayInMilliseconds);
+            // end turn
         
+        // hide/show Buttons
+        $_btnturn.addClass('d-none');
+        $_btnriver.removeClass('d-none');    
+    });
+    $('#btnriver').click(function() {
         // river
         setTimeout(function() {
 
-          itemsfrom = total - count_players * 2 - 4;
-          itemsto =   total - count_players * 2 - 5;
+            itemsfrom = total - count_players * 2 - 4;
+            itemsto =   total - count_players * 2 - 5;
             
-          deck.cards.slice( itemsto, itemsfrom ).reverse().forEach(function(card, i){
+            deck.cards.slice( itemsto, itemsfrom ).reverse().forEach(function(card, i){
             i = i + 4;
             X = _board_x[1] + 47.5 - 70 * 5 / 2 + 70 * i; 
             Y = _board_y[1] + 25 ;
@@ -377,13 +412,13 @@ $(function() {
                 
             // card animate to
             cardAnimateTo(
-              card,
-              _delay + (i * 50) + 75*_z,
-              500,'quartOut',
-              X - (total-_z)/4,
-              Y - (total-_z)/4,
-              0,
-              'front'
+                card,
+                _delay + 1 * 10 + 75,//(i * 10) + 75,// *_z,
+                250,'quartOut',
+                X - (total-_z)/4,
+                Y - (total-_z)/4,
+                0,
+                'front'
             );
             // end card animate to
                 
@@ -391,11 +426,18 @@ $(function() {
             board.push( hcard );
                 
             //P.hand.addCard(_card);
-          });
-          
+            });
+            
         }, delayInMilliseconds);
         // end river
+        // hide/show Buttons
+        $_btnriver.addClass('d-none');
+        $_btnholdem.removeClass('d-none');    
+    });
+    $('#btnholdem').click(function() {
         
+        // add function to get winners for every stage
+
         // get winners
         setTimeout(function() {
   
@@ -434,6 +476,9 @@ $(function() {
         }, delayInMilliseconds);
         // end get winners
 
+        // hide/show Buttons
+        $_btnholdem.addClass('d-none');
+        $_btnstartgame.removeClass('d-none');
     }); // end btnholdem
 
     // deck shuffle

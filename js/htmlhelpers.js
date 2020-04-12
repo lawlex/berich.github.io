@@ -45,7 +45,22 @@
         
         // Button Explode
         var $_btnexplode = $createButton('btnexplode', 'Explode', _btn_Class, _btn_InlineStyle);
+
+        // Button PreFlop
+        var $_btnpreflop = $createButton('btnpreflop', 'Pre Flop', _btn_Class, _btn_InlineStyle);
+
+        // Button Flop
+        var $_btnflop = $createButton('btnflop', 'Flop', _btn_Class, _btn_InlineStyle);
         
+        // Button Turn
+        var $_btnturn = $createButton('btnturn', 'Turn', _btn_Class, _btn_InlineStyle);
+
+        // Button River
+        var $_btnriver = $createButton('btnriver', 'River', _btn_Class, _btn_InlineStyle);
+
+        // Button Start Game
+        var $_btnstartgame = $createButton('btnstartgame', 'New Game', _btn_Class, _btn_InlineStyle);
+
         // Button Holdem
         var $_btnholdem = $createButton('btnholdem', 'Holdem', _btn_Class, _btn_InlineStyle);
     
