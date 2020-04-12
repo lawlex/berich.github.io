@@ -187,8 +187,6 @@ $(function() {
         board = [];
         _board_x = [];
         _board_y = [];
-
-
         
         // get places
         TT.places.forEach( function(row, _numrow) {
@@ -207,7 +205,6 @@ $(function() {
         deckshuffle( deck, _deck_x, _deck_y + 25 );
 
         var winnerstext = '';
-        var winnersname = '';
         
         // holdem
         var hands = [];
@@ -529,9 +526,10 @@ $(function() {
         }
         return winnerplayers;
     }
-
     
+    // ---------------
     // example buttons
+    // ---------------
 
     $('#btnshuffle').click(function() {
         // shuffle
