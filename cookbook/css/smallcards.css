@@ -104,3 +104,22 @@
 .card.playing.rank-k .card-body .card-title::before {
     content: "K";
 }
+
+@media (max-width: 600px) {
+    .card.playing.suit-hearts .card-body .card-text::before {
+        content: "♥";
+        font-size: 10px!important;
+    }
+    .card.playing.suit-diams .card-body .card-text::before {
+        content: "♦";
+        font-size: 10px!important;
+    }
+    .card.playing.suit-clubs .card-body .card-text::before {
+        content: "♣";
+        font-size: 10px!important;
+    }
+    .card.playing.suit-spades .card-body .card-text::before {
+        content: "♠";
+        font-size: 10px!important;
+    }
+}
