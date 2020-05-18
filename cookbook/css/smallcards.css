@@ -35,6 +35,7 @@
 
 .card.playing .card-body {
     padding: 0.55rem;
+    font-size: 18px;
 }
 
 .card.playing.suit-hearts .card-body .card-text::before {
@@ -51,6 +52,7 @@
 
 .card.playing.suit-spades .card-body .card-text::before {
     content: "♠";
+    font-size: 20px;
 }
 
 .card.playing.rank-a .card-body .card-title::before {
@@ -105,7 +107,7 @@
     content: "K";
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     .card.playing.suit-hearts .card-body .card-text::before {
         content: "♥";
         font-size: 10px!important;
