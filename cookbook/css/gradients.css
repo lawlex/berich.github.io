@@ -1,0 +1,325 @@
+/* http://hclwizard.org:64230/hclwizard/ */
+
+
+/* starting hands */
+
+.bg-8 {
+    background-color: #00702E;
+}
+
+.bg-7 {
+    background-color: #00803C;
+}
+
+.bg-6 {
+    background-color: #2E9048;
+}
+
+.bg-5 {
+    background-color: #499F54;
+}
+
+.bg-4 {
+    background-color: #5FAD5F;
+}
+
+.bg-3 {
+    background-color: #73BB69;
+}
+
+.bg-2 {
+    background-color: #85C772;
+}
+
+.bg-1 {
+    background-color: #96D37A;
+}
+
+
+/* green yellow 16 colors */
+
+.bg-p-ye-gr-16-1 {
+    background-color: #EFFF8C;
+}
+
+.bg-p-ye-gr-16-2 {
+    background-color: #E9FF91;
+}
+
+.bg-p-ye-gr-16-3 {
+    background-color: #E1FE92;
+}
+
+.bg-p-ye-gr-16-4 {
+    background-color: #D8FA91;
+}
+
+.bg-p-ye-gr-16-5 {
+    background-color: #CDF58F;
+}
+
+.bg-p-ye-gr-16-6 {
+    background-color: #C1EE8C;
+}
+
+.bg-p-ye-gr-16-7 {
+    background-color: #B4E687;
+}
+
+.bg-p-ye-gr-16-8 {
+    background-color: #A5DD81;
+}
+
+.bg-p-ye-gr-16-9 {
+    background-color: #96D37A;
+}
+
+.bg-p-ye-gr-16-10 {
+    background-color: #85C772;
+}
+
+.bg-p-ye-gr-16-11 {
+    background-color: #73BB69;
+}
+
+.bg-p-ye-gr-16-12 {
+    background-color: #5FAD5F;
+}
+
+.bg-p-ye-gr-16-13 {
+    background-color: #499F54;
+}
+
+.bg-p-ye-gr-16-14 {
+    background-color: #2E9048;
+}
+
+.bg-p-ye-gr-16-15 {
+    background-color: #00803C;
+}
+
+.bg-p-ye-gr-16-16 {
+    background-color: #00702E;
+}
+
+
+/*
+green-yellow 40 colors
+#00702E
+#007632
+#007C36
+#15823B
+#28883E
+#368E42
+#429446
+#4D994A
+#579F4D
+#60A451
+#69AA54
+#72AF58
+#7BB45B
+#83B85E
+#8BBD61
+#93C264
+#9AC667
+#A2CA6A
+#A9CE6D
+#B0D270
+#B7D572
+#BED975
+#C5DC77
+#CBDF7A
+#D1E27C
+#D7E57E
+#DDE780
+#E3EA82
+#E9EC84
+#EEEE86
+#F3EF88
+#F8F18A
+#FDF28B
+#FFF38C
+#FFF48E
+#FFF48F
+#FFF48F
+#FFF490
+#FFF490
+#FFF390
+*/
+
+
+/* green 40
+
+#004616
+#004D1B
+#00541F
+#085B23
+#106227
+#16692B
+#1C702F
+#227732
+#277D35
+#2D8439
+#328B3C
+#37923E
+#3C9841
+#419F44
+#48A549
+#54AA52
+#5FAF5C
+#69B465
+#73B96D
+#7CBE76
+#85C37E
+#8EC786
+#96CC8D
+#9ED095
+#A5D49C
+#ADD8A4
+#B4DCAB
+#BBE0B2
+#C2E4B9
+#C8E7BF
+#CEEAC6
+#D4EDCC
+#DAF0D2
+#DFF2D8
+#E4F5DD
+#E8F7E3
+#EDF8E8
+#F0FAEC
+#F4FAF1
+#F6FBF4
+
+*/
+
+
+/* red 40
+#6D0026
+#75002A
+#7C002D
+#850631
+#8D1034
+#951837
+#9E1F3A
+#A6253D
+#AE2B40
+#B73142
+#BE3946
+#C2434B
+#C64C51
+#CA5556
+#CE5D5C
+#D26662
+#D56D68
+#D9756E
+#DC7D75
+#DF847B
+#E28B81
+#E59387
+#E7998E
+#EAA094
+#ECA79B
+#EFAEA1
+#F1B4A7
+#F3BAAE
+#F4C1B4
+#F6C7BB
+#F8CCC1
+#F9D2C7
+#FAD7CE
+#FBDDD4
+#FCE2DA
+#FCE6DF
+#FDEBE5
+#FDEFEA
+#FDF2EF
+#FCF5F2
+*/
+
+
+/* red-green 40
+#841859
+#932665
+#A33272
+#B33D7F
+#C3488C
+#D15397
+#D964A1
+#E173AB
+#E881B5
+#EF8EBE
+#F59BC6
+#FAA8CF
+#FFB3D6
+#FFBFDE
+#FFC9E4
+#FFD3EA
+#FFDDEF
+#FFE5F3
+#FFEDF6
+#FDF3F7
+#F1F7F1
+#E7F7E7
+#DCF4DC
+#D1F0D1
+#C5EBC5
+#B9E5B9
+#ABDFAC
+#9ED79E
+#8FCF90
+#80C781
+#70BE71
+#5FB560
+#4DAB4E
+#37A039
+#18961C
+#008A01
+#007D00
+#007000
+#006300
+#005600 */
+
+
+/* blue-red 40
+#002F70
+#003A7D
+#09468C
+#1B519C
+#275DAC
+#3268BD
+#4674C6
+#5A7FCB
+#6C8BD1
+#7C96D7
+#8BA2DC
+#99ADE1
+#A7B7E6
+#B4C2EB
+#C0CCEF
+#CCD5F3
+#D7DFF5
+#E2E7F7
+#EBEEF8
+#F3F4F8
+#F8F3F3
+#FAEBEB
+#F9E2E2
+#F8D7D7
+#F5CCCC
+#F1C1C1
+#EDB4B5
+#E8A8A8
+#E29B9B
+#DC8E8E
+#D48080
+#CD7272
+#C46464
+#BB5556
+#B04848
+#9F3E3E
+#8F3434
+#7E2A2A
+#6E1F20
+#5F1415
+*/

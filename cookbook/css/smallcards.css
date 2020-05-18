@@ -1,0 +1,106 @@
+.playing {
+    display: inline-block;
+    width: 35px;
+    height: 50px;
+    line-height: 0.5;
+    text-align: center;
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+    font-weight: bold;
+}
+
+.card.playing.suit-hearts {
+    color: #dc3545!important;
+    border-color: #dc3545!important;
+    border-width: 2px;
+}
+
+.card.playing.suit-spades {
+    color: #343a40!important;
+    border-color: #343a40!important;
+    border-width: 2px;
+}
+
+.card.playing.suit-diams {
+    color: #007bff!important;
+    border-color: #007bff!important;
+    border-width: 2px;
+}
+
+.card.playing.suit-clubs {
+    color: #28a745!important;
+    border-color: #28a745!important;
+    border-width: 2px;
+}
+
+.card.playing .card-body {
+    padding: 0.55rem;
+}
+
+.card.playing.suit-hearts .card-body .card-text::before {
+    content: "♥";
+}
+
+.card.playing.suit-diams .card-body .card-text::before {
+    content: "♦";
+}
+
+.card.playing.suit-clubs .card-body .card-text::before {
+    content: "♣";
+}
+
+.card.playing.suit-spades .card-body .card-text::before {
+    content: "♠";
+}
+
+.card.playing.rank-a .card-body .card-title::before {
+    content: "A";
+}
+
+.card.playing.rank-2 .card-body .card-title::before {
+    content: "2";
+}
+
+.card.playing.rank-3 .card-body .card-title::before {
+    content: "3";
+}
+
+.card.playing.rank-4 .card-body .card-title::before {
+    content: "4";
+}
+
+.card.playing.rank-5 .card-body .card-title::before {
+    content: "5";
+}
+
+.card.playing.rank-6 .card-body .card-title::before {
+    content: "6";
+}
+
+.card.playing.rank-7 .card-body .card-title::before {
+    content: "7";
+}
+
+.card.playing.rank-8 .card-body .card-title::before {
+    content: "8";
+}
+
+.card.playing.rank-9 .card-body .card-title::before {
+    content: "9";
+}
+
+.card.playing.rank-t .card-body .card-title::before {
+    content: "T";
+}
+
+.card.playing.rank-j .card-body .card-title::before {
+    content: "J";
+}
+
+.card.playing.rank-q .card-body .card-title::before {
+    content: "Q";
+}
+
+.card.playing.rank-k .card-body .card-title::before {
+    content: "K";
+}

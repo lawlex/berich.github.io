@@ -2,153 +2,43 @@
 <html lang="en">
 
 <head>
-    <title>lawlex.github.io</title>
+    <title>Самоучитель по игре в Техасский Холдем</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <link href="css/deck.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600|Ubuntu+Condensed" rel="stylesheet" type="text/css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-    <!-- deck -->
-    <script type="text/javascript" src="lib/pokersolver/pokersolver.js"></script>
-    <script type="text/javascript" src="lib/deck-of-cards/deck.js"></script>
-    <script type="text/javascript" src="js/htmlhelpers.js"></script>
-    <script type="text/javascript" src="lib/humanreadablecard.js"></script>
-    <script type="text/javascript" src="lib/table.js"></script>
-    <!--<script type="text/javascript" src="lib/hand.js"></script>-->
-    <script type="text/javascript" src="lib/player.js"></script> 
-    <script type="text/javascript" src="js/deck.js"></script>
-
-    
-    <!-- end deck -->
+    <script src="https://kit.fontawesome.com/f4afbaa213.js" crossorigin="anonymous"></script>
     <style>
-        #container {
-            /*background: radial-gradient(transparent, transparent 4px, white 4px, white);*/
-        }
-        
-        .playersmallcard { 
-            position: absolute;
-            /*display: inline-block;*/
-            /*left: -60px;
-            top: -40px;*/
-            /*width: 3.875rem;
-            height: 5.5rem;*/
-            /*background-color: #fff;*/
-            -webkit-border-radius: 2px;
-            border-radius: 2px;
-            -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.15);
-            box-shadow: 0 1px 1px rgba(0,0,0,0.15);
-            cursor: default;
-            will-change: transform;
-            
-        }
-
-        .card-small {
-            top: -2px;
-            position: absolute;
-            /*display: -ms-flexbox;
-            display: flex;
-            -ms-flex-direction: column;
-            flex-direction: column;*/
-            min-width: 0px;
-            word-wrap: break-word;
-            background-color: #fff;
-            background-clip: border-box;
-            border: 1px solid rgba(0,0,0,.125);
-            border-radius: 3px;
-            cursor: default;
-            will-change: transform;
-            }
-
-        .card-small-body {
-            top: -2px;
-            position: relative;
-            /*display: -ms-flexbox;
-            display: flex;
-            -ms-flex-direction: column;
-            flex-direction: column;*/
-            min-width: 0px;
-            word-wrap: break-word;
-            background-color: #fff;
-            background-clip: border-box;
-            border: 1px solid rgba(0,0,0,.125);
-            border-radius: 3px;
-            cursor: default;
-            will-change: transform;
-            }
-
     </style>
 </head>
 
-<body>
-    <div class="container">
-            
-        <div id="container">
-                
-        </div>
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+    <div class="container-fluid">
+        <br>
+        <h1>Техасский Холдем</h1>
+        <p>Интерактивный самоучитель по игре в Безлимитный Техасский Холдем для столов 6-max</p>
     </div>
-    
-    <div id="bottombar" class="container-fluid p-2 bg-transparent text-dark mw-100 fixed-bottom justify-content-center">
-        <div id="ranksuit" class="container p-3 my-3 text-white display-6 font-weight-bold" style="padding-top: 0px!important; margin-top: 0px!important;"></div><!-- bg-light  -->
-        <div class="container-fluid" style="display: none!important;">
-            <div class="row">
-                <div class="col-3"></div>
-                <div class="col-6">
-                    <div class="row">
-                        <div class="col">
-                            <div class="container pocket p-3 my-3 text-white display-4 font-weight-bold" style="padding: 0px!important; margin-top: 0px!important;">
-                                <div class="pocket-name">Hero</div>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="container pocket p-3 my-3 text-white display-4 font-weight-bold" style="padding: 0px!important; margin-top: 0px!important;">
-                                <div class="pocket-name">Hero</div>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="container pocket p-3 my-3 text-white display-4 font-weight-bold" style="padding: 0px!important; margin-top: 0px!important;">
-                                <div class="pocket-name">Hero</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3"></div>
-            </div>
-            <div class="row"><div class="col"><br><br></div></div>
-            <div class="row">
-                <div class="col-3"></div>
-                <div class="col-6">
-                    <div class="row">
-                        <div class="col">
-                            <div class="container pocket p-3 my-3 text-white display-4 font-weight-bold" style="padding: 0px!important; margin-top: 0px!important;">
-                                <div class="pocket-name">Hero</div>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="container pocket p-3 my-3 text-white display-4 font-weight-bold" style="padding: 0px!important; margin-top: 0px!important;">
-                                <div class="pocket-name">Hero</div>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="container pocket p-3 my-3 text-white display-4 font-weight-bold" style="padding: 0px!important; margin-top: 0px!important;">
-                                <div class="pocket-name">Hero</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3"></div>
-            </div>
-        </div>
-    
-        <div class="pagination justify-content-center" style="margin:20px 0">
-            <div id="footerbtngroup" class="btn-group btn-group-sm"></div>
-        </div>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="#section1">Самоучитель</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#section2">Стол</a>
+            </li>
+        </ul>
+    </nav>
+    <div id="section1" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
+        <h1>Самоучитель</h1>
+		<a href="cookbook/index.htnl" class="btn btn-primary">Открыть самоучитель</a>
     </div>
-    <a href="https://github.com/lawlex/lawlex.github.io">
-        <img class="gh-ribbon" style="position: fixed; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/52760788cde945287fbb584134c4cbc2bc36f904/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f77686974655f6666666666662e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png">
-    </a>
+    <div id="section2" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
+        <h1>Стол</h1>
+		<a href="desk.htnl" class="btn btn-primary">Открыть стол</a>
+    </div>
+
 </body>
 
 </html>

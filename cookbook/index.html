@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Самоучитель по игре в Техасский Холдем</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/f4afbaa213.js" crossorigin="anonymous"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="css/gradients.css" />
+    <link rel="stylesheet" type="text/css" href="css/smallcards.css" />
+
+    <!-- https://fontawesome.com/kits/f4afbaa213/use?welcome=yes -->
+    <!-- https://online-poker-na-dengi.com/veroyatnost-vyigrysha-v-pokere-shansy-i-ix-tablicy/ -->
+    <!-- https://poker.ru/veroyatnosti-v-pokere/ -->
+    <!-- https://poker-shkola.ru/kak-igrat/matematika-pokera -->
+    <style>
+        body {
+            position: relative;
+        }
+        
+        .table {
+            min-width: 400px;
+            max-width: 400px;
+            text-align: center;
+        }
+        
+        .row {}
+        
+        .chart-col {
+            height: 30px;
+            width: 30px;
+            font-size: 12px;
+        }
+        
+        .chart-col:hover {
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+    <!--<div class="jumbotron text-center">
+        <h1 id="main_title">Техасский Холдем</h1>
+        <p>Интерактивный самоучитель по игре в Безлимитный Техасский Холдем для столов 6-max</p>
+    </div>-->
+    <div class="container-fluid">
+        <br>
+        <h1>Техасский Холдем</h1>
+        <p>Интерактивный самоучитель по игре в Безлимитный Техасский Холдем для столов 6-max</p>
+
+    </div>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="#section1">Префлоп</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#section2">Флоп</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#section3">Тёрн</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#section4">Ривер</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                Разное
+              </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#section51">Комбинации в Техасском Холдеме</a>
+                    <a class="dropdown-item" href="#section52">Link 2</a>
+                </div>
+            </li>
+        </ul>
+    </nav>
+    <div id="section1" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
+        <h1>Префлоп</h1>
+        <div class="row">
+            <div class="col-sm-6">
+                <h2>Количество игроков</h2>
+                <p>Количество игроков за столом - один из важнейших показателей для принятия решения во время игры.</p>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label class="btn btn-success">
+                      <input type="radio" name="options" id="btn2players" autocomplete="off"> 2
+                    </label>
+                    <label class="btn btn-success">
+                      <input type="radio" name="options" id="btn3players" autocomplete="off"> 3
+                    </label>
+                    <label class="btn btn-success">
+                        <input type="radio" name="options" id="btn4players" autocomplete="off"> 4
+                    </label>
+                    <label class="btn btn-success">
+                        <input type="radio" name="options" id="btn5players" autocomplete="off"> 5
+                    </label>
+                    <label class="btn btn-success">
+                        <input type="radio" name="options" id="btn6players" autocomplete="off" checked> 6
+                     </label>
+                </div>
+                <p></p>
+                <h2>Стартовые руки</h2>
+                <p>В этой таблице собраны 169 комбинаций стартовых карт.</p>
+                <!--
+    	.bg-primary - blue
+    	.bg-secondary - gray
+    	.bg-success - green
+    	.bg-danger - red
+    	.bg-warning - yellow
+    	.bg-info - cyan
+    	.bg-light - white
+    	.bg-dark - darkgray
+    	.bg-white - white
+      -->
+
+                <div class="table">
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold"> </div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">A</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">K</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">Q</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">J</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">T</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">9</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">8</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">7</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">6</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">5</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">4</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">3</div>
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">2</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">A</div>
+                        <div id="AA" class="chart-col d-flex align-items-center justify-content-center bg-8">AA</div>
+                        <div id="AKs" class="chart-col d-flex align-items-center justify-content-center bg-8">AKs</div>
+                        <div id="AQs" class="chart-col d-flex align-items-center justify-content-center bg-7">AQs</div>
+                        <div id="AJs" class="chart-col d-flex align-items-center justify-content-center bg-7">AJs</div>
+                        <div id="ATs" class="chart-col d-flex align-items-center justify-content-center bg-6">ATs</div>
+                        <div id="A9s" class="chart-col d-flex align-items-center justify-content-center bg-3">A9s</div>
+                        <div id="A8s" class="chart-col d-flex align-items-center justify-content-center bg-3">A8s</div>
+                        <div id="A7s" class="chart-col d-flex align-items-center justify-content-center bg-3">A7s</div>
+                        <div id="A6s" class="chart-col d-flex align-items-center justify-content-center bg-3">A6s</div>
+                        <div id="A5s" class="chart-col d-flex align-items-center justify-content-center bg-3">A5s</div>
+                        <div id="A4s" class="chart-col d-flex align-items-center justify-content-center bg-3">A4s</div>
+                        <div id="A3s" class="chart-col d-flex align-items-center justify-content-center bg-3">A3s</div>
+                        <div id="A2s" class="chart-col d-flex align-items-center justify-content-center bg-3">A2s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">K</div>
+                        <div id="KAo" class="chart-col d-flex align-items-center justify-content-center bg-8">AKo</div>
+                        <div id="KK" class="chart-col d-flex align-items-center justify-content-center bg-8">KK</div>
+                        <div id="KQs" class="chart-col d-flex align-items-center justify-content-center bg-7">KQs</div>
+                        <div id="KJs" class="chart-col d-flex align-items-center justify-content-center bg-6">KJs</div>
+                        <div id="KTs" class="chart-col d-flex align-items-center justify-content-center bg-2">KTs</div>
+                        <div id="K9s" class="chart-col d-flex align-items-center justify-content-center bg-3">K9s</div>
+                        <div id="K8s" class="chart-col d-flex align-items-center justify-content-center bg-3">K8s</div>
+                        <div id="K7s" class="chart-col d-flex align-items-center justify-content-center">K7s</div>
+                        <div id="K6s" class="chart-col d-flex align-items-center justify-content-center">K6s</div>
+                        <div id="K5s" class="chart-col d-flex align-items-center justify-content-center">K5s</div>
+                        <div id="K4s" class="chart-col d-flex align-items-center justify-content-center">K4s</div>
+                        <div id="K3s" class="chart-col d-flex align-items-center justify-content-center">K3s</div>
+                        <div id="K2s" class="chart-col d-flex align-items-center justify-content-center">K2s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">Q</div>
+                        <div id="AQo" class="chart-col d-flex align-items-center justify-content-center bg-7">AQo</div>
+                        <div id="KQo" class="chart-col d-flex align-items-center justify-content-center bg-7">KQo</div>
+                        <div id="QQ" class="chart-col d-flex align-items-center justify-content-center bg-8">QQ</div>
+                        <div id="QJs" class="chart-col d-flex align-items-center justify-content-center bg-6">QJs</div>
+                        <div id="QTs" class="chart-col d-flex align-items-center justify-content-center bg-2">QTs</div>
+                        <div id="Q9s" class="chart-col d-flex align-items-center justify-content-center bg-3">Q9s</div>
+                        <div id="Q8s" class="chart-col d-flex align-items-center justify-content-center bg-3">Q8s</div>
+                        <div id="Q7s" class="chart-col d-flex align-items-center justify-content-center">Q7s</div>
+                        <div id="Q6s" class="chart-col d-flex align-items-center justify-content-center">Q6s</div>
+                        <div id="Q5s" class="chart-col d-flex align-items-center justify-content-center">Q5s</div>
+                        <div id="Q4s" class="chart-col d-flex align-items-center justify-content-center">Q4s</div>
+                        <div id="Q3s" class="chart-col d-flex align-items-center justify-content-center">Q3s</div>
+                        <div id="Q2s" class="chart-col d-flex align-items-center justify-content-center">Q2s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">J</div>
+                        <div id="AJo" class="chart-col d-flex align-items-center justify-content-center bg-7">AJo</div>
+                        <div id="KJo" class="chart-col d-flex align-items-center justify-content-center bg-6">KJo</div>
+                        <div id="QJo" class="chart-col d-flex align-items-center justify-content-center bg-6">QJo</div>
+                        <div id="JJ" class="chart-col d-flex align-items-center justify-content-center bg-5">JJ</div>
+                        <div id="JTs" class="chart-col d-flex align-items-center justify-content-center bg-2">JTs</div>
+                        <div id="J9s" class="chart-col d-flex align-items-center justify-content-center bg-3">J9s</div>
+                        <div id="J8s" class="chart-col d-flex align-items-center justify-content-center bg-3">J8s</div>
+                        <div id="J7s" class="chart-col d-flex align-items-center justify-content-center">J7s</div>
+                        <div id="J6s" class="chart-col d-flex align-items-center justify-content-center">J6s</div>
+                        <div id="J5s" class="chart-col d-flex align-items-center justify-content-center">J5s</div>
+                        <div id="J4s" class="chart-col d-flex align-items-center justify-content-center">J4s</div>
+                        <div id="J3s" class="chart-col d-flex align-items-center justify-content-center">J3s</div>
+                        <div id="J2s" class="chart-col d-flex align-items-center justify-content-center">J2s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">T</div>
+                        <div id="ATo" class="chart-col d-flex align-items-center justify-content-center bg-6">ATo</div>
+                        <div id="KTo" class="chart-col d-flex align-items-center justify-content-center bg-2">KTo</div>
+                        <div id="QTo" class="chart-col d-flex align-items-center justify-content-center bg-2">QTo</div>
+                        <div id="JTo" class="chart-col d-flex align-items-center justify-content-center bg-2">JTo</div>
+                        <div id="TT" class="chart-col d-flex align-items-center justify-content-center bg-5">TT</div>
+                        <div id="T9s" class="chart-col d-flex align-items-center justify-content-center bg-1">T9s</div>
+                        <div id="T8s" class="chart-col d-flex align-items-center justify-content-center bg-1">T8s</div>
+                        <div id="T7s" class="chart-col d-flex align-items-center justify-content-center">T7s</div>
+                        <div id="T6s" class="chart-col d-flex align-items-center justify-content-center">T6s</div>
+                        <div id="T5s" class="chart-col d-flex align-items-center justify-content-center">T5s</div>
+                        <div id="T4s" class="chart-col d-flex align-items-center justify-content-center">T4s</div>
+                        <div id="T3s" class="chart-col d-flex align-items-center justify-content-center">T3s</div>
+                        <div id="T2s" class="chart-col d-flex align-items-center justify-content-center">T2s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">9</div>
+                        <div id="A9o" class="chart-col d-flex align-items-center justify-content-center">A9o</div>
+                        <div id="K9o" class="chart-col d-flex align-items-center justify-content-center">K9o</div>
+                        <div id="Q9o" class="chart-col d-flex align-items-center justify-content-center">Q9o</div>
+                        <div id="J9o" class="chart-col d-flex align-items-center justify-content-center">J9o</div>
+                        <div id="T9o" class="chart-col d-flex align-items-center justify-content-center">T9o</div>
+                        <div id="99" class="chart-col d-flex align-items-center justify-content-center bg-5">99</div>
+                        <div id="98s" class="chart-col d-flex align-items-center justify-content-center bg-1">98s</div>
+                        <div id="97s" class="chart-col d-flex align-items-center justify-content-center">97s</div>
+                        <div id="96s" class="chart-col d-flex align-items-center justify-content-center">96s</div>
+                        <div id="95s" class="chart-col d-flex align-items-center justify-content-center">95s</div>
+                        <div id="94s" class="chart-col d-flex align-items-center justify-content-center">94s</div>
+                        <div id="93s" class="chart-col d-flex align-items-center justify-content-center">93s</div>
+                        <div id="92s" class="chart-col d-flex align-items-center justify-content-center">92s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">8</div>
+                        <div id="A8o" class="chart-col d-flex align-items-center justify-content-center">A8o</div>
+                        <div id="K8o" class="chart-col d-flex align-items-center justify-content-center">K8o</div>
+                        <div id="Q8o" class="chart-col d-flex align-items-center justify-content-center">Q8o</div>
+                        <div id="J8o" class="chart-col d-flex align-items-center justify-content-center">J8o</div>
+                        <div id="T8o" class="chart-col d-flex align-items-center justify-content-center">T8o</div>
+                        <div id="98o" class="chart-col d-flex align-items-center justify-content-center">98o</div>
+                        <div id="88" class="chart-col d-flex align-items-center justify-content-center bg-5">88</div>
+                        <div id="87s" class="chart-col d-flex align-items-center justify-content-center bg-1">87s</div>
+                        <div id="86s" class="chart-col d-flex align-items-center justify-content-center">86s</div>
+                        <div id="85s" class="chart-col d-flex align-items-center justify-content-center">85s</div>
+                        <div id="84s" class="chart-col d-flex align-items-center justify-content-center">84s</div>
+                        <div id="83s" class="chart-col d-flex align-items-center justify-content-center">83s</div>
+                        <div id="82s" class="chart-col d-flex align-items-center justify-content-center">82s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">7</div>
+                        <div id="A7o" class="chart-col d-flex align-items-center justify-content-center">A7o</div>
+                        <div id="K7o" class="chart-col d-flex align-items-center justify-content-center">K7o</div>
+                        <div id="Q7o" class="chart-col d-flex align-items-center justify-content-center">Q7o</div>
+                        <div id="J7o" class="chart-col d-flex align-items-center justify-content-center">J7o</div>
+                        <div id="T7o" class="chart-col d-flex align-items-center justify-content-center">T7o</div>
+                        <div id="97o" class="chart-col d-flex align-items-center justify-content-center">97o</div>
+                        <div id="87o" class="chart-col d-flex align-items-center justify-content-center">87o</div>
+                        <div id="77" class="chart-col d-flex align-items-center justify-content-center bg-4">77</div>
+                        <div id="76s" class="chart-col d-flex align-items-center justify-content-center bg-1">76s</div>
+                        <div id="75s" class="chart-col d-flex align-items-center justify-content-center bg-1">75s</div>
+                        <div id="74s" class="chart-col d-flex align-items-center justify-content-center">74s</div>
+                        <div id="73s" class="chart-col d-flex align-items-center justify-content-center">73s</div>
+                        <div id="72s" class="chart-col d-flex align-items-center justify-content-center">72s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">6</div>
+                        <div id="A6o" class="chart-col d-flex align-items-center justify-content-center">A6o</div>
+                        <div id="K6o" class="chart-col d-flex align-items-center justify-content-center">K6o</div>
+                        <div id="Q6o" class="chart-col d-flex align-items-center justify-content-center">Q6o</div>
+                        <div id="J6o" class="chart-col d-flex align-items-center justify-content-center">J6o</div>
+                        <div id="T6o" class="chart-col d-flex align-items-center justify-content-center">T6o</div>
+                        <div id="96o" class="chart-col d-flex align-items-center justify-content-center">96o</div>
+                        <div id="86o" class="chart-col d-flex align-items-center justify-content-center">86o</div>
+                        <div id="76o" class="chart-col d-flex align-items-center justify-content-center">76o</div>
+                        <div id="66" class="chart-col d-flex align-items-center justify-content-center bg-4">66</div>
+                        <div id="65s" class="chart-col d-flex align-items-center justify-content-center bg-1">65s</div>
+                        <div id="64s" class="chart-col d-flex align-items-center justify-content-center">64s</div>
+                        <div id="63s" class="chart-col d-flex align-items-center justify-content-center">63s</div>
+                        <div id="62s" class="chart-col d-flex align-items-center justify-content-center">62s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">5</div>
+                        <div id="A5o" class="chart-col d-flex align-items-center justify-content-center">A5o</div>
+                        <div id="K5o" class="chart-col d-flex align-items-center justify-content-center">K5o</div>
+                        <div id="Q5o" class="chart-col d-flex align-items-center justify-content-center">Q5o</div>
+                        <div id="J5o" class="chart-col d-flex align-items-center justify-content-center">J5o</div>
+                        <div id="T5o" class="chart-col d-flex align-items-center justify-content-center">T5o</div>
+                        <div id="95o" class="chart-col d-flex align-items-center justify-content-center">95o</div>
+                        <div id="85o" class="chart-col d-flex align-items-center justify-content-center">85o</div>
+                        <div id="75o" class="chart-col d-flex align-items-center justify-content-center">75o</div>
+                        <div id="65o" class="chart-col d-flex align-items-center justify-content-center">65o</div>
+                        <div id="55" class="chart-col d-flex align-items-center justify-content-center bg-4">55</div>
+                        <div id="54s" class="chart-col d-flex align-items-center justify-content-center">54s</div>
+                        <div id="53s" class="chart-col d-flex align-items-center justify-content-center">53s</div>
+                        <div id="52s" class="chart-col d-flex align-items-center justify-content-center">52s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">4</div>
+                        <div id="A4o" class="chart-col d-flex align-items-center justify-content-center">A4o</div>
+                        <div id="K4o" class="chart-col d-flex align-items-center justify-content-center">K4o</div>
+                        <div id="Q4o" class="chart-col d-flex align-items-center justify-content-center">Q4o</div>
+                        <div id="J4o" class="chart-col d-flex align-items-center justify-content-center">J4o</div>
+                        <div id="T4o" class="chart-col d-flex align-items-center justify-content-center">T4o</div>
+                        <div id="94o" class="chart-col d-flex align-items-center justify-content-center">94o</div>
+                        <div id="84o" class="chart-col d-flex align-items-center justify-content-center">84o</div>
+                        <div id="74o" class="chart-col d-flex align-items-center justify-content-center">74o</div>
+                        <div id="64o" class="chart-col d-flex align-items-center justify-content-center">64o</div>
+                        <div id="54o" class="chart-col d-flex align-items-center justify-content-center">54o</div>
+                        <div id="44" class="chart-col d-flex align-items-center justify-content-center bg-4">44</div>
+                        <div id="43s" class="chart-col d-flex align-items-center justify-content-center">43s</div>
+                        <div id="42s" class="chart-col d-flex align-items-center justify-content-center">42s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">3</div>
+                        <div id="A3o" class="chart-col d-flex align-items-center justify-content-center">A3o</div>
+                        <div id="K3o" class="chart-col d-flex align-items-center justify-content-center">K3o</div>
+                        <div id="Q3o" class="chart-col d-flex align-items-center justify-content-center">Q3o</div>
+                        <div id="J3o" class="chart-col d-flex align-items-center justify-content-center">J3o</div>
+                        <div id="T3o" class="chart-col d-flex align-items-center justify-content-center">T3o</div>
+                        <div id="93o" class="chart-col d-flex align-items-center justify-content-center">93o</div>
+                        <div id="83o" class="chart-col d-flex align-items-center justify-content-center">83o</div>
+                        <div id="73o" class="chart-col d-flex align-items-center justify-content-center">73o</div>
+                        <div id="63o" class="chart-col d-flex align-items-center justify-content-center">63o</div>
+                        <div id="53o" class="chart-col d-flex align-items-center justify-content-center">53o</div>
+                        <div id="43o" class="chart-col d-flex align-items-center justify-content-center">43o</div>
+                        <div id="33" class="chart-col d-flex align-items-center justify-content-center bg-4">33</div>
+                        <div id="32s" class="chart-col d-flex align-items-center justify-content-center">32s</div>
+                    </div>
+                    <div class="row">
+                        <div class="chart-col d-flex align-items-center justify-content-center font-weight-bold">2</div>
+                        <div id="A2o" class="chart-col d-flex align-items-center justify-content-center">A2o</div>
+                        <div id="K2o" class="chart-col d-flex align-items-center justify-content-center">K2o</div>
+                        <div id="Q2o" class="chart-col d-flex align-items-center justify-content-center">Q2o</div>
+                        <div id="J2o" class="chart-col d-flex align-items-center justify-content-center">J2o</div>
+                        <div id="T2o" class="chart-col d-flex align-items-center justify-content-center">T2o</div>
+                        <div id="92o" class="chart-col d-flex align-items-center justify-content-center">92o</div>
+                        <div id="82o" class="chart-col d-flex align-items-center justify-content-center">82o</div>
+                        <div id="72o" class="chart-col d-flex align-items-center justify-content-center">72o</div>
+                        <div id="62o" class="chart-col d-flex align-items-center justify-content-center">62o</div>
+                        <div id="52o" class="chart-col d-flex align-items-center justify-content-center">52o</div>
+                        <div id="42o" class="chart-col d-flex align-items-center justify-content-center">42o</div>
+                        <div id="32o" class="chart-col d-flex align-items-center justify-content-center">32o</div>
+                        <div id="22" class="chart-col d-flex align-items-center justify-content-center bg-4">22</div>
+                    </div>
+                </div>
+                <p></p>
+                <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#chartnote">Примечание</button>
+                <div id="chartnote" class="collapse pl-3 mt-3">
+
+
+                    <div class="row pl-3">
+                        <div class="chart-col d-flex align-items-center justify-content-center bg-8"></div>
+                        <div class="d-flex align-items-center"><span class="pl-2 pr-2"></span>Премиум-руки</div>
+                    </div>
+                    <div class="row pl-3">
+                        <div class="chart-col d-flex align-items-center justify-content-center bg-7"></div>
+                        <div class="d-flex align-items-center"><span class="pl-2 pr-2"></span>Сильные бродвейные руки</div>
+                    </div>
+                    <div class="row pl-3">
+                        <div class="chart-col d-flex align-items-center justify-content-center bg-6"></div>
+                        <div class="d-flex align-items-center"><span class="pl-2 pr-2"></span>Слабые бродвейные руки</div>
+                    </div>
+                    <div class="row pl-3">
+                        <div class="chart-col d-flex align-items-center justify-content-center bg-5"></div>
+                        <div class="d-flex align-items-center"><span class="pl-2 pr-2"></span>Сильные карманные пары</div>
+                    </div>
+                    <div class="row pl-3">
+                        <div class="chart-col d-flex align-items-center justify-content-center bg-4"></div>
+                        <div class="d-flex align-items-center"><span class="pl-2 pr-2"></span>Слабые карманные пары</div>
+                    </div>
+                    <div class="row pl-3">
+                        <div class="chart-col d-flex align-items-center justify-content-center bg-3"></div>
+                        <div class="d-flex align-items-center"><span class="pl-2 pr-2"></span>Старшие одномастные карты</div>
+                    </div>
+                    <div class="row pl-3">
+                        <div class="chart-col d-flex align-items-center justify-content-center bg-2"></div>
+                        <div class="d-flex align-items-center"><span class="pl-2 pr-2"></span>Старшие коннекторы</div>
+                    </div>
+                    <div class="row pl-3">
+                        <div class="chart-col d-flex align-items-center justify-content-center bg-1"></div>
+                        <div class="d-flex align-items-center"><span class="pl-2 pr-2"></span>Одномастные коннекторы</div>
+                    </div>
+                </div>
+                <p></p>
+                <div id="clickhand" class="alert alert-success d-none">
+                    <button id="btnclickhandclose" type="button" class="close">&times;</button>
+                    <strong>Ваши руки:</strong> <span id="choosenhand"></span>
+
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <h2>Позиция</h2>
+                <p>От позиции за столом зависят дальнейшие действия со стартовыми руками.</p>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label id="btnBBlabel" class="btn btn-success active">
+                      <input type="radio" name="options" id="btnBB" autocomplete="off"> BB
+                    </label>
+                    <label id="btnSBlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnSB" autocomplete="off"> SB
+                    </label>
+                    <label id="btnBTNlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnBTN" autocomplete="off"> BTN
+                    </label>
+                    <label id="btnCOlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnCO" autocomplete="off"> CO
+                    </label>
+                    <label id="btnMPlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnMP" autocomplete="off"> MP
+                    </label>
+                    <label id="btnUTGlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnUTG" autocomplete="off"> UTG
+                    </label>
+                </div>
+                <p></p>
+                <div id="clickposition" class="alert alert-success d-none">
+                    <button id="btnclickpositionclose" type="button" class="close">&times;</button>
+                    <strong>Ваша позиция:</strong> <span id="choosenposition"></span>
+                </div>
+                <p></p>
+                <h2>Действия оппонентов</h2>
+                <p>В зависимости от позиции за столом, стартовых рук и действий оппонентов необходимо сделать одно из возможных действий: сбросить карты (фолд), ответить или уравнять ставку (колл), повысить ставку (рейз), пропустить (чек), повысить в ответ
+                    на повышение (ре-рейз, 3бет, 4бет).</p>
+                <div class="btn-group btn-group-toggle btn-group-vertical" data-toggle="buttons" style="min-width: 50%;">
+                    <label id="btnActions1label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnActions1" autocomplete="off"> Все сбросились </label>
+                    <label id="btnActions2label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnActions2" autocomplete="off"> Был лимп (лимпы) </label>
+                    <label id="btnActions3label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnActions3" autocomplete="off"> Один рейз </label>
+                    <label id="btnActions4label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnActions4" autocomplete="off"> Один рейз и колл </label>
+                    <label id="btnActions5label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnActions5" autocomplete="off"> Был ре-рейз (3бет) </label>
+                </div>
+                <p></p>
+                <h2>Ваше действие</h2>
+                <p>Если ни одна из ситуаций не походит на вашу, то вам следует немедленно сбросить карты.</p>
+                <div id="preflopdecision" class="alert alert-success d-none">
+                    <h2><strong>Ваше действие:</strong> <span id="preflopdecisiontext"></span></h2>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    <div id="section2" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
+        <h1>Флоп</h1>
+
+        <div>
+            <div class="card playing rank-a suit-hearts">
+                <div class="card-body">
+                    <div class="card-title"></div>
+                    <div class="card-text"></div>
+                </div>
+            </div>
+            <div class="card playing rank-8 suit-hearts">
+                <div class="card-body">
+                    <div class="card-title"></div>
+                    <div class="card-text"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+        </div>
+    </div>
+    <div id="section3" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
+        <h1>Тёрн</h1>
+        <div class="container">
+        </div>
+    </div>
+    <div id="section4" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
+        <h1>Ривер</h1>
+        <div class="container">
+        </div>
+    </div>
+    <div id="section5" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
+        <h1>Приложение</h1>
+        <div class="row">
+            <div class="col-sm-6">
+                <h2 id="section51">Комбинации в Техасском Холдеме</h2>
+            </div>
+            <div class="col-sm-6">
+            </div>
+        </div>
+        <script type="text/javascript" src="js/main.js"></script>
+
+</body>
+
+</html>
