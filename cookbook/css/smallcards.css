@@ -1,12 +1,30 @@
 .playing {
     display: inline-block;
-    width: 35px;
-    height: 50px;
+    width: 40px;
+    height: 55px;
     line-height: 0.5;
     text-align: center;
     margin-left: 2.5px;
     margin-right: 2.5px;
     font-weight: bold;
+    font-size: 20px;
+}
+
+.size36 {
+    font-size: 36px;
+    width: 50px;
+    height: 75px;
+}
+
+.size72 {
+    font-size: 72px;
+    width: 90px;
+    height: 130px;
+}
+
+.size72 .card-body .card-title {
+    margin-top: 0.25rem;
+    margin-bottom: 1.25rem;
 }
 
 .card.playing.suit-hearts {
@@ -35,7 +53,6 @@
 
 .card.playing .card-body {
     padding: 0.55rem;
-    font-size: 18px;
 }
 
 .card.playing.suit-hearts .card-body .card-text::before {
@@ -52,7 +69,6 @@
 
 .card.playing.suit-spades .card-body .card-text::before {
     content: "♠";
-    font-size: 20px;
 }
 
 .card.playing.rank-a .card-body .card-title::before {
@@ -110,18 +126,18 @@
 @media (max-width: 400px) {
     .card.playing.suit-hearts .card-body .card-text::before {
         content: "♥";
-        font-size: 10px!important;
+        font-size: 8px!important;
     }
     .card.playing.suit-diams .card-body .card-text::before {
         content: "♦";
-        font-size: 10px!important;
+        font-size: 8px!important;
     }
     .card.playing.suit-clubs .card-body .card-text::before {
         content: "♣";
-        font-size: 10px!important;
+        font-size: 8px!important;
     }
     .card.playing.suit-spades .card-body .card-text::before {
         content: "♠";
-        font-size: 10px!important;
+        font-size: 8px!important;
     }
 }

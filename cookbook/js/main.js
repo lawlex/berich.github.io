@@ -6,27 +6,28 @@ $(document).ready(function() {
     var currentaction = 1; // 1 - Все сбросились
     var countplayers = 6; // 6 игроков для столов 6-max
     var players = [
-      '2',
-      '3',
-      '4',
-      '5',
-      '6'
+        '2',
+        '3',
+        '4',
+        '5',
+        '6'
     ];
     var positions = [
-      'BB',
-      'SB',
-      'BTN',
-      'CO',
-      'MP',
-      'UTG'
+        'BB',
+        'SB',
+        'BTN',
+        'CO',
+        'MP',
+        'UTG'
     ];
-    var actions = [
-      'Все сбросились',
-      'Был лимп (лимпы)',
-      'Один рейз',
-      'Один рейз и колл',
-      'Был ре-рейз (3бет)'
+    var preflopactions = [
+        'Все сбросились',
+        'Был лимп (лимпы)',
+        'Один рейз',
+        'Один рейз и колл',
+        'Был ре-рейз (3бет)'
     ];
+
     function getTypeTitle(index) {
         var types = [
             'Мусорные карты',
@@ -42,7 +43,7 @@ $(document).ready(function() {
         return types[index];
     }
 
-    
+
     var types = [
         'Мусорные карты',
         'Одномастные коннекторы',
@@ -227,212 +228,654 @@ $(document).ready(function() {
     };
 
     var heroesaction = {
-      "BB": {
-        "c8":{"a1":"Рейз","a2":"Рейз","a3":"Ре-рейз (3бет) и олл-ин на префлопе","a4":"Ре-рейз (3бет) и олл-ин на префлопе","a5":"Ре-рейз (3бет) и олл-ин на префлопе"},
-        "c7":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c6":{"a1":"Рейз","a2":"Рейз","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c5":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c4":{"a1":"Рейз","a2":"Чек","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c3":{"a1":"Рейз","a2":"Чек","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c2":{"a1":"Рейз","a2":"Чек","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c1":{"a1":"Рейз","a2":"Чек","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c0":{"a1":"Фолд","a2":"Фолд","a3":"Фолд","a4":"Фолд","a5":"Фолд"}
-      },
-      "SB": {
-        "c8":{"a1":"Рейз","a2":"Рейз","a3":"Ре-рейз (3бет) и олл-ин на префлопе","a4":"Ре-рейз (3бет) и олл-ин на префлопе","a5":"Ре-рейз (3бет) и олл-ин на префлопе"},
-        "c7":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c6":{"a1":"Рейз","a2":"Рейз","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c5":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c4":{"a1":"Рейз","a2":"Колл","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c3":{"a1":"Рейз","a2":"Колл","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c2":{"a1":"Рейз","a2":"Колл","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c1":{"a1":"Рейз","a2":"Колл","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c0":{"a1":"Фолд","a2":"Фолд","a3":"Фолд","a4":"Фолд","a5":"Фолд"}},
-      "BTN": {
-        "c8":{"a1":"Рейз","a2":"Рейз","a3":"Ре-рейз (3бет) и олл-ин на префлопе","a4":"Ре-рейз (3бет) и олл-ин на префлопе","a5":"Ре-рейз (3бет) и олл-ин на префлопе"},
-        "c7":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c6":{"a1":"Рейз","a2":"Рейз","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c5":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c4":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c3":{"a1":"Рейз","a2":"Рейз","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c2":{"a1":"Рейз","a2":"Рейз","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c1":{"a1":"Рейз","a2":"Рейз","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c0":{"a1":"Фолд","a2":"Фолд","a3":"Фолд","a4":"Фолд","a5":"Фолд"}
-      },
-      "CO": {
-        "c8":{"a1":"Рейз","a2":"Рейз","a3":"Ре-рейз (3бет) и олл-ин на префлопе","a4":"Ре-рейз (3бет) и олл-ин на префлопе","a5":"Ре-рейз (3бет) и олл-ин на префлопе"},
-        "c7":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c6":{"a1":"Рейз","a2":"Рейз","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c5":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c4":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"Колл","a5":"Фолд"},
-        "c3":{"a1":"Фолд","a2":"Рейз","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c2":{"a1":"Рейз","a2":"Рейз","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c1":{"a1":"Фолд","a2":"Рейз","a3":"Фолд","a4":"Фолд","a5":"Фолд"},
-        "c0":{"a1":"Фолд","a2":"Фолд","a3":"Фолд","a4":"Фолд","a5":"Фолд"}
-      },
-      "MP": {
-        "c8":{"a1":"Рейз","a2":"Рейз","a3":"Ре-рейз (3бет) и олл-ин на префлопе","a4":"","a5":""},
-        "c7":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"","a5":""},
-        "c6":{"a1":"Фолд","a2":"Рейз","a3":"Фолд","a4":"","a5":""},
-        "c5":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"","a5":""},
-        "c4":{"a1":"Рейз","a2":"Рейз","a3":"Колл","a4":"","a5":""},
-        "c3":{"a1":"Фолд","a2":"Фолд","a3":"Фолд","a4":"","a5":""},
-        "c2":{"a1":"Фолд","a2":"Рейз","a3":"Фолд","a4":"","a5":""},
-        "c1":{"a1":"Фолд","a2":"Фолд","a3":"Фолд","a4":"","a5":""},
-        "c0":{"a1":"Фолд","a2":"Фолд","a3":"Фолд","a4":"Фолд","a5":"Фолд"}
-      },
-      "UTG": {
-        "c8":{"a1":"Рейз","a2":"","a3":"","a4":"","a5":""},
-        "c7":{"a1":"Рейз","a2":"","a3":"","a4":"","a5":""},
-        "c6":{"a1":"Фолд","a2":"","a3":"","a4":"","a5":""},
-        "c5":{"a1":"Рейз","a2":"","a3":"","a4":"","a5":""},
-        "c4":{"a1":"Рейз","a2":"","a3":"","a4":"","a5":""},
-        "c3":{"a1":"Фолд","a2":"","a3":"","a4":"","a5":""},
-        "c2":{"a1":"Фолд","a2":"","a3":"","a4":"","a5":""},
-        "c1":{"a1":"Фолд","a2":"","a3":"","a4":"","a5":""},
-        "c0":{"a1":"Фолд","a2":"Фолд","a3":"Фолд","a4":"Фолд","a5":"Фолд"}
-      }
+        "BB": {
+            "c8": { "a1": "Рейз", "a2": "Рейз", "a3": "Ре-рейз (3бет) и олл-ин на префлопе", "a4": "Ре-рейз (3бет) и олл-ин на префлопе", "a5": "Ре-рейз (3бет) и олл-ин на префлопе" },
+            "c7": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c6": { "a1": "Рейз", "a2": "Рейз", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c5": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c4": { "a1": "Рейз", "a2": "Чек", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c3": { "a1": "Рейз", "a2": "Чек", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c2": { "a1": "Рейз", "a2": "Чек", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c1": { "a1": "Рейз", "a2": "Чек", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c0": { "a1": "Фолд", "a2": "Фолд", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" }
+        },
+        "SB": {
+            "c8": { "a1": "Рейз", "a2": "Рейз", "a3": "Ре-рейз (3бет) и олл-ин на префлопе", "a4": "Ре-рейз (3бет) и олл-ин на префлопе", "a5": "Ре-рейз (3бет) и олл-ин на префлопе" },
+            "c7": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c6": { "a1": "Рейз", "a2": "Рейз", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c5": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c4": { "a1": "Рейз", "a2": "Колл", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c3": { "a1": "Рейз", "a2": "Колл", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c2": { "a1": "Рейз", "a2": "Колл", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c1": { "a1": "Рейз", "a2": "Колл", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c0": { "a1": "Фолд", "a2": "Фолд", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" }
+        },
+        "BTN": {
+            "c8": { "a1": "Рейз", "a2": "Рейз", "a3": "Ре-рейз (3бет) и олл-ин на префлопе", "a4": "Ре-рейз (3бет) и олл-ин на префлопе", "a5": "Ре-рейз (3бет) и олл-ин на префлопе" },
+            "c7": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c6": { "a1": "Рейз", "a2": "Рейз", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c5": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c4": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c3": { "a1": "Рейз", "a2": "Рейз", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c2": { "a1": "Рейз", "a2": "Рейз", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c1": { "a1": "Рейз", "a2": "Рейз", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c0": { "a1": "Фолд", "a2": "Фолд", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" }
+        },
+        "CO": {
+            "c8": { "a1": "Рейз", "a2": "Рейз", "a3": "Ре-рейз (3бет) и олл-ин на префлопе", "a4": "Ре-рейз (3бет) и олл-ин на префлопе", "a5": "Ре-рейз (3бет) и олл-ин на префлопе" },
+            "c7": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c6": { "a1": "Рейз", "a2": "Рейз", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c5": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c4": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "Колл", "a5": "Фолд" },
+            "c3": { "a1": "Фолд", "a2": "Рейз", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c2": { "a1": "Рейз", "a2": "Рейз", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c1": { "a1": "Фолд", "a2": "Рейз", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" },
+            "c0": { "a1": "Фолд", "a2": "Фолд", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" }
+        },
+        "MP": {
+            "c8": { "a1": "Рейз", "a2": "Рейз", "a3": "Ре-рейз (3бет) и олл-ин на префлопе", "a4": "", "a5": "" },
+            "c7": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "", "a5": "" },
+            "c6": { "a1": "Фолд", "a2": "Рейз", "a3": "Фолд", "a4": "", "a5": "" },
+            "c5": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "", "a5": "" },
+            "c4": { "a1": "Рейз", "a2": "Рейз", "a3": "Колл", "a4": "", "a5": "" },
+            "c3": { "a1": "Фолд", "a2": "Фолд", "a3": "Фолд", "a4": "", "a5": "" },
+            "c2": { "a1": "Фолд", "a2": "Рейз", "a3": "Фолд", "a4": "", "a5": "" },
+            "c1": { "a1": "Фолд", "a2": "Фолд", "a3": "Фолд", "a4": "", "a5": "" },
+            "c0": { "a1": "Фолд", "a2": "Фолд", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" }
+        },
+        "UTG": {
+            "c8": { "a1": "Рейз", "a2": "", "a3": "", "a4": "", "a5": "" },
+            "c7": { "a1": "Рейз", "a2": "", "a3": "", "a4": "", "a5": "" },
+            "c6": { "a1": "Фолд", "a2": "", "a3": "", "a4": "", "a5": "" },
+            "c5": { "a1": "Рейз", "a2": "", "a3": "", "a4": "", "a5": "" },
+            "c4": { "a1": "Рейз", "a2": "", "a3": "", "a4": "", "a5": "" },
+            "c3": { "a1": "Фолд", "a2": "", "a3": "", "a4": "", "a5": "" },
+            "c2": { "a1": "Фолд", "a2": "", "a3": "", "a4": "", "a5": "" },
+            "c1": { "a1": "Фолд", "a2": "", "a3": "", "a4": "", "a5": "" },
+            "c0": { "a1": "Фолд", "a2": "Фолд", "a3": "Фолд", "a4": "Фолд", "a5": "Фолд" }
+        }
     };
 
-    $.each(players, function(index, value) {
-      console.log('index: ' + index + ', value: ' + value);
-      $('#btn'+value+'players').click(
-        function() {
-          countplayers = index + 2;
-          //console.log(countplayers);
-          $.each(positions, function(n, value) {
-            if(n+1>countplayers){
-              $('#btn' + positions[n] + 'label').addClass('disabled');
-              //$('#btn'+positions[n]).attr('disabled','');
-            } else {
-              $('#btn' + positions[n] + 'label').removeClass('disabled');
+    /* FLOP vars */
+    var flopcurrentagressiontype = 1;
+    var flopcurrentbanktype = 1;
+    var flopcurrenttype = 1;
+    var flopcurrentposact = 1;
+    var flopcurrentcombination = 0;
 
-            }
+    var flopagressiontypes = [
+        'С инициативой',
+        'Без инициативы',
+        'Лимп-пот'
+    ];
+    var flopbanktypes = [
+        'Один-на-один',
+        'Мультивэй'
+    ];
+    var floptypes = [
+        'Хороший флоп',
+        'Плохой флоп'
+    ];
+    var flopposact = [
+        'Ставок не было / Без позиции', // в таблице поменять местами ставок не было и в ответ на рейз
+        'В ответ на рейз / В позиции'
+    ];
+    var flopcombinations = [
+        'Воздух',
+        'Слабые дро',
+        'Средние дро',
+        'Сильные дро',
+        'Третья пара и хуже',
+        'Вторая пара и хуже',
+        'Топ пара со слабым кикером',
+        'Топ пара с хорошим кикером',
+        'Топ пара с топ кикером',
+        'Оверпара',
+        'Младшие две пары',
+        'Две пары',
+        'Сет и лучше'
+    ];
 
-            var p = currentposition+1;
-            console.log(p);
-            if ( p == countplayers ) {
-              $('#btnActions' + 2 + 'label').addClass('disabled');
-              $('#btnActions' + 3 + 'label').addClass('disabled');
-              $('#btnActions' + 4 + 'label').addClass('disabled');
-              $('#btnActions' + 5 + 'label').addClass('disabled');
-            } else {
-              $('#btnActions' + 1 + 'label').removeClass('disabled');
-              $('#btnActions' + 2 + 'label').removeClass('disabled');
-              $('#btnActions' + 3 + 'label').removeClass('disabled');
-              $('#btnActions' + 4 + 'label').removeClass('disabled');
-              $('#btnActions' + 5 + 'label').removeClass('disabled');
+    var flopheroesaction = {
+        // С инициативой
+        "AgrType1": {
+            // Один-на-один
+            "BankType1": {
+                // Хороший флоп
+                "FlopType1": {
+                    // В ответ на рейз
+                    "FlopPosAct1": [
+                        'Фолд', // Воздух
+                        'Фолд', // Слабые дро
+                        'Фолд', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        'Фолд', // Третья пара и хуже
+                        'Фолд', // Вторая пара и хуже
+                        'Фолд', // ТПСК
+                        'Фолд / рейз', // ТПХК
+                        'Фолд / рейз', // ТПТК
+                        'Рейз (олл-ин)', // Оверпара
+                        'Рейз (олл-ин)', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ],
+                    // Ставок не было
+                    "FlopPosAct2": [
+                        'Контбет', // Воздух
+                        'Контбет', // Слабые дро
+                        'Контбет', // Средние дро
+                        'Контбет', // Сильные дро
+                        'Контбет', // Третья пара и хуже
+                        'Контбет', // Вторая пара и хуже
+                        'Контбет', // ТПСК
+                        'Контбет', // ТПХК
+                        'Контбет', // ТПТК
+                        'Контбет', // Оверпара
+                        'Контбет', // Младшие две пары
+                        'Контбет', // Две пары
+                        'Контбет', // Сет и лучше
+                    ]
+                },
+                // Плохой флоп
+                "FlopType2": {
+                    // В ответ на рейз
+                    "FlopPosAct1": [
+                        '???', // Воздух
+                        '???', // Слабые дро
+                        'Фолд', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        'Фолд', // Третья пара и хуже
+                        '???', // Вторая пара и хуже
+                        'Фолд', // ТПСК
+                        'Фолд', // ТПХК
+                        'Фолд', // ТПТК
+                        'Фолд', // Оверпара
+                        'Фолд', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ],
+                    // Ставок не было
+                    "FlopPosAct2": [
+                        'Фолд', // Воздух
+                        'Фолд', // Слабые дро
+                        'Контбет', // Средние дро
+                        'Контбет', // Сильные дро
+                        'Фолд', // Третья пара и хуже
+                        'Фолд', // Вторая пара и хуже
+                        'Контбет', // ТПСК
+                        'Контбет', // ТПХК
+                        'Контбет', // ТПТК
+                        'Контбет', // Оверпара
+                        'Контбет', // Младшие две пары
+                        'Контбет', // Две пары
+                        'Контбет', // Сет и лучше
+                    ]
+                }
+            },
+            // Мультивэй
+            "BankType2": {
+                // Хороший флоп
+                "FlopType1": {
+                    // В ответ на рейз
+                    "FlopPosAct1": [
+                        'Фолд', // Воздух
+                        'Фолд', // Слабые дро
+                        'Фолд', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        'Фолд', // Третья пара и хуже
+                        'Фолд', // Вторая пара и хуже
+                        'Фолд', // ТПСК
+                        'Фолд / рейз', // ТПХК
+                        'Фолд / рейз', // ТПТК
+                        'Фолд', // Оверпара
+                        'Фолд', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ],
+                    // Ставок не было
+                    "FlopPosAct2": [
+                        'Контбет', // Воздух
+                        'Контбет', // Слабые дро
+                        'Контбет', // Средние дро
+                        'Контбет', // Сильные дро
+                        'Контбет', // Третья пара и хуже
+                        'Контбет', // Вторая пара и хуже
+                        'Контбет', // ТПСК
+                        'Контбет', // ТПХК
+                        'Контбет', // ТПТК
+                        'Контбет', // Оверпара
+                        'Контбет', // Младшие две пары
+                        'Контбет', // Две пары
+                        'Контбет', // Сет и лучше
+                    ]
+                },
+                // Плохой флоп
+                "FlopType2": {
+                    // В ответ на рейз
+                    "FlopPosAct1": [
+                        '???', // Воздух
+                        '???', // Слабые дро
+                        '???', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        '???', // Третья пара и хуже
+                        '???', // Вторая пара и хуже
+                        '???', // ТПСК
+                        'Фолд', // ТПХК
+                        'Фолд', // ТПТК
+                        'Фолд', // Оверпара
+                        'Фолд', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ],
+                    // Ставок не было
+                    "FlopPosAct2": [
+                        'Фолд (чек)', // Воздух
+                        'Фолд (чек)', // Слабые дро
+                        'Фолд (чек)', // Средние дро
+                        'Контбет', // Сильные дро
+                        'Фолд (чек)', // Третья пара и хуже
+                        'Фолд (чек)', // Вторая пара и хуже
+                        'Фолд (чек)', // ТПСК
+                        'Контбет', // ТПХК
+                        'Контбет', // ТПТК
+                        'Контбет', // Оверпара
+                        'Контбет', // Младшие две пары
+                        'Контбет', // Две пары
+                        'Контбет', // Сет и лучше
+                    ]
+                }
             }
-            
-            if ( p + 1 == countplayers ) {
-              $('#btnActions' + 1 + 'label').removeClass('disabled');
-              $('#btnActions' + 2 + 'label').removeClass('disabled');
-              $('#btnActions' + 3 + 'label').removeClass('disabled');
-              $('#btnActions' + 4 + 'label').addClass('disabled');
-              $('#btnActions' + 5 + 'label').addClass('disabled');
-            } else if (p > countplayers) {
-              console.log(p + ' - ' + countplayers);
-              $('#clickposition').addClass('d-none');
-              $('#preflopdecision').addClass('d-none');
-              $('#btnActions' + 1 + 'label').addClass('disabled');
-              $('#btnActions' + 2 + 'label').addClass('disabled');
-              $('#btnActions' + 3 + 'label').addClass('disabled');
-              $('#btnActions' + 4 + 'label').addClass('disabled');
-              $('#btnActions' + 5 + 'label').addClass('disabled');
+        },
+        // Без инициативы
+        "AgrType2": {
+            // Один-на-один
+            "BankType1": {
+                // Хороший флоп
+                "FlopType1": {
+                    // В позиции
+                    "FlopPosAct1": [
+                        'Фолд (чек)', // Воздух
+                        'Рейз / фолд', // Слабые дро
+                        'Рейз / фолд', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        'Фолд (чек)', // Третья пара и хуже
+                        'Колл', // Вторая пара и хуже
+                        'Колл', // ТПСК
+                        'Колл', // ТПХК
+                        'Колл', // ТПТК
+                        'Колл', // Оверпара
+                        'Рейз (олл-ин)', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ],
+                    // Без позиции
+                    "FlopPosAct2": [
+                        'Фолд', // Воздух
+                        'Рейз / фолд', // Слабые дро
+                        'Рейз / колл', // Средние дро
+                        'Рейз / олл-ин', // Сильные дро
+                        'Фолд', // Третья пара и хуже
+                        'Колл', // Вторая пара и хуже
+                        'Колл', // ТПСК
+                        'Колл', // ТПХК
+                        'Колл', // ТПТК
+                        'Колл', // Оверпара
+                        'Рейз (олл-ин)', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ]
+                },
+                // Плохой флоп
+                "FlopType2": {
+                    // В позиции
+                    "FlopPosAct1": [
+                        'Фолд (чек)', // Воздух
+                        'Фолд (чек)', // Слабые дро
+                        'Колл', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        'Фолд (чек)', // Третья пара и хуже
+                        'Фолд (чек)', // Вторая пара и хуже
+                        'Фолд (чек)', // ТПСК
+                        'Колл', // ТПХК
+                        'Колл', // ТПТК
+                        'Колл', // Оверпара
+                        'Колл', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ],
+                    // Без позиции
+                    "FlopPosAct2": [
+                        'Фолд', // Воздух
+                        'Фолд', // Слабые дро
+                        'Фолд', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        'Фолд', // Третья пара и хуже
+                        'Фолд', // Вторая пара и хуже
+                        'Фолд', // ТПСК
+                        'Колл', // ТПХК
+                        'Колл', // ТПТК
+                        'Колл', // Оверпара
+                        'Колл', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ]
+                }
+            },
+            // Мультивэй
+            "BankType2": {
+                // Хороший флоп
+                "FlopType1": {
+                    // В позиции
+                    "FlopPosAct1": [
+                        'Фолд (чек)', // Воздух
+                        'Фолд (чек)', // Слабые дро
+                        'Колл', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        'Фолд (чек)', // Третья пара и хуже
+                        'Фолд (чек)', // Вторая пара и хуже
+                        'Фолд (чек)', // ТПСК
+                        'Колл', // ТПХК
+                        'Колл', // ТПТК
+                        'Колл', // Оверпара
+                        'Колл', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ],
+                    // Без позиции
+                    "FlopPosAct2": [
+                        'Фолд', // Воздух
+                        'Фолд', // Слабые дро
+                        'Колл', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        'Фолд', // Третья пара и хуже
+                        'Фолд', // Вторая пара и хуже
+                        'Фолд', // ТПСК
+                        'Колл', // ТПХК
+                        'Колл', // ТПТК
+                        'Колл', // Оверпара
+                        'Колл', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ]
+                },
+                // Плохой флоп
+                "FlopType2": {
+                    // В позиции
+                    "FlopPosAct1": [
+                        'Фолд (чек)', // Воздух
+                        'Фолд (чек)', // Слабые дро
+                        'Фолд (чек)', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        'Фолд (чек)', // Третья пара и хуже
+                        'Фолд (чек)', // Вторая пара и хуже
+                        'Фолд (чек)', // ТПСК
+                        'Фолд (чек)', // ТПХК
+                        'Колл', // ТПТК
+                        'Колл', // Оверпара
+                        'Колл', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ],
+                    // Без позиции
+                    "FlopPosAct2": [
+                        'Фолд', // Воздух
+                        'Фолд', // Слабые дро
+                        'Фолд', // Средние дро
+                        'Рейз (олл-ин)', // Сильные дро
+                        'Фолд', // Третья пара и хуже
+                        'Фолд', // Вторая пара и хуже
+                        'Фолд', // ТПСК
+                        'Фолд', // ТПХК
+                        'Колл', // ТПТК
+                        'Колл', // Оверпара
+                        'Колл', // Младшие две пары
+                        'Рейз (олл-ин)', // Две пары
+                        'Рейз (олл-ин)', // Сет и лучше
+                    ]
+                }
             }
-          });      
+        },
+        // Лимп-пот
+        "AgrType3": {
+
         }
-      );
+    };
+
+    /* preflop */
+    $.each(players, function(index, value) {
+        //console.log('index: ' + index + ', value: ' + value);
+        $('#btn' + value + 'players').click(
+            function() {
+                countplayers = index + 2;
+                //console.log(countplayers);
+                $.each(positions, function(n, value) {
+                    if (n + 1 > countplayers) {
+                        $('#btn' + positions[n] + 'label').addClass('disabled');
+                        //$('#btn'+positions[n]).attr('disabled','');
+                    } else {
+                        $('#btn' + positions[n] + 'label').removeClass('disabled');
+
+                    }
+
+                    var p = currentposition + 1;
+                    //console.log(p);
+                    if (p == countplayers) {
+                        $('#btnActions' + 2 + 'label').addClass('disabled');
+                        $('#btnActions' + 3 + 'label').addClass('disabled');
+                        $('#btnActions' + 4 + 'label').addClass('disabled');
+                        $('#btnActions' + 5 + 'label').addClass('disabled');
+                    } else {
+                        $('#btnActions' + 1 + 'label').removeClass('disabled');
+                        $('#btnActions' + 2 + 'label').removeClass('disabled');
+                        $('#btnActions' + 3 + 'label').removeClass('disabled');
+                        $('#btnActions' + 4 + 'label').removeClass('disabled');
+                        $('#btnActions' + 5 + 'label').removeClass('disabled');
+                    }
+
+                    if (p + 1 == countplayers) {
+                        $('#btnActions' + 1 + 'label').removeClass('disabled');
+                        $('#btnActions' + 2 + 'label').removeClass('disabled');
+                        $('#btnActions' + 3 + 'label').removeClass('disabled');
+                        $('#btnActions' + 4 + 'label').addClass('disabled');
+                        $('#btnActions' + 5 + 'label').addClass('disabled');
+                    } else if (p > countplayers) {
+                        console.log(p + ' - ' + countplayers);
+                        $('#clickposition').addClass('d-none');
+                        $('#preflopdecision').addClass('d-none');
+                        $('#btnActions' + 1 + 'label').addClass('disabled');
+                        $('#btnActions' + 2 + 'label').addClass('disabled');
+                        $('#btnActions' + 3 + 'label').addClass('disabled');
+                        $('#btnActions' + 4 + 'label').addClass('disabled');
+                        $('#btnActions' + 5 + 'label').addClass('disabled');
+                    }
+                });
+            }
+        );
     });
 
     $.each(types, function(index, value) {
-        console.log('index: ' + index + ', value: ' + value);
+        //console.log('index: ' + index + ', value: ' + value);
     });
 
 
     $.each(positions, function(index, value) {
-      $('#btnclickpositionclose').click(function(){$('#clickposition').addClass('d-none');});
-      $('#btn' + value).click(function(){
-        console.log('index: ' + index + ', countplayers: ' + countplayers);
-        var p = index + 1;
-        if ( p == countplayers ) {
-          $('#btnActions' + 1 + 'label').removeClass('disabled');
-          $('#btnActions' + 2 + 'label').addClass('disabled');
-          $('#btnActions' + 3 + 'label').addClass('disabled');
-          $('#btnActions' + 4 + 'label').addClass('disabled');
-          $('#btnActions' + 5 + 'label').addClass('disabled');
-        } else {
-          $('#btnActions' + 1 + 'label').removeClass('disabled');
-          $('#btnActions' + 2 + 'label').removeClass('disabled');
-          $('#btnActions' + 3 + 'label').removeClass('disabled');
-          $('#btnActions' + 4 + 'label').removeClass('disabled');
-          $('#btnActions' + 5 + 'label').removeClass('disabled');
-        }
-        
-        if ( p + 1 == countplayers ) {
-          $('#btnActions' + 1 + 'label').removeClass('disabled');
-          $('#btnActions' + 2 + 'label').removeClass('disabled');
-          $('#btnActions' + 3 + 'label').removeClass('disabled');
-          $('#btnActions' + 4 + 'label').addClass('disabled');
-          $('#btnActions' + 5 + 'label').addClass('disabled');
-        } else {
+        $('#btnclickpositionclose').click(function() { $('#clickposition').addClass('d-none'); });
+        $('#btn' + value).click(function() {
+            //console.log('index: ' + index + ', countplayers: ' + countplayers);
+            var p = index + 1;
+            if (p == countplayers) {
+                $('#btnActions' + 1 + 'label').removeClass('disabled');
+                $('#btnActions' + 2 + 'label').addClass('disabled');
+                $('#btnActions' + 3 + 'label').addClass('disabled');
+                $('#btnActions' + 4 + 'label').addClass('disabled');
+                $('#btnActions' + 5 + 'label').addClass('disabled');
+            } else {
+                $('#btnActions' + 1 + 'label').removeClass('disabled');
+                $('#btnActions' + 2 + 'label').removeClass('disabled');
+                $('#btnActions' + 3 + 'label').removeClass('disabled');
+                $('#btnActions' + 4 + 'label').removeClass('disabled');
+                $('#btnActions' + 5 + 'label').removeClass('disabled');
+            }
 
-        }
+            if (p + 1 == countplayers) {
+                $('#btnActions' + 1 + 'label').removeClass('disabled');
+                $('#btnActions' + 2 + 'label').removeClass('disabled');
+                $('#btnActions' + 3 + 'label').removeClass('disabled');
+                $('#btnActions' + 4 + 'label').addClass('disabled');
+                $('#btnActions' + 5 + 'label').addClass('disabled');
+            } else {
+
+            }
 
 
 
-        currentposition = index;
-        $('#clickposition').removeClass('d-none');
-          $('#choosenposition').text(value);
+            currentposition = index;
+            $('#clickposition').removeClass('d-none');
+            $('#choosenposition').text(value);
 
-          var p = heroesaction[positions[currentposition]];
-        
-          var c = p["c" + currenttypehand];
-          var a = c["a" + currentaction];
-          console.log(currentposition + ' - ' + currenttypehand + ' - ' + currentaction + ' - ' + a);
-          $('#preflopdecision').removeClass('alert-success d-none').addClass('alert-info display-4');
-          $('#preflopdecisiontext').text(a);
-      });
+            var p = heroesaction[positions[currentposition]];
+
+            var c = p["c" + currenttypehand];
+            var a = c["a" + currentaction];
+            //console.log(currentposition + ' - ' + currenttypehand + ' - ' + currentaction + ' - ' + a);
+            $('#preflopdecision').removeClass('alert-success d-none').addClass('alert-info display-4');
+            $('#preflopdecisiontext').text(a);
+        });
 
 
     })
     $.each(hands, function(key, value) {
         $('#' + key).attr('title', getTypeTitle(value));
         $('#' + key).tooltip();
-        $('#btnclickhandclose').click(function(){$('#clickhand').addClass('d-none');});
-        $('#' + key).click(function(){
-          $('#clickhand').removeClass('d-none');
-          currenttypehand = value;
-          $('#choosenhand').text(key + ' - ' + getTypeTitle(value));
-          var p = heroesaction[positions[currentposition]];
-        
-          var c = p["c" + currenttypehand];
-          var a = c["a" + currentaction];
-          console.log(currentposition + ' - ' + currenttypehand + ' - ' + currentaction + ' - ' + a);
-          $('#preflopdecision').removeClass('alert-success d-none').addClass('alert-info display-4');
-          $('#preflopdecisiontext').text(a);          
+        $('#btnclickhandclose').click(function() { $('#clickhand').addClass('d-none'); });
+        $('#' + key).click(function() {
+            $('#clickhand').removeClass('d-none');
+            currenttypehand = value;
+            $('#choosenhand').text(key + ' - ' + getTypeTitle(value));
+            var p = heroesaction[positions[currentposition]];
+
+            var c = p["c" + currenttypehand];
+            var a = c["a" + currentaction];
+            //console.log(currentposition + ' - ' + currenttypehand + ' - ' + currentaction + ' - ' + a);
+            $('#preflopdecision').removeClass('alert-success d-none').addClass('alert-info display-4');
+            $('#preflopdecisiontext').text(a);
         });
         console.log('key: ' + key + ', value: ' + getTypeTitle(value));
 
 
     });
 
-    $.each(actions, function(index, value){
-      console.log('index: ' + index + ', value: ' + value);
-      currentaction = index + 1;
-      $('#btnActions' + currentaction).click(function(){
+    $.each(preflopactions, function(index, value) {
+        //console.log('index: ' + index + ', value: ' + value);
         currentaction = index + 1;
-        var p = heroesaction[positions[currentposition]];
-        
-        var c = p["c" + currenttypehand];
-        var a = c["a" + currentaction];
-        console.log(currentposition + ' - ' + currenttypehand + ' - ' + currentaction + ' - ' + a);
-        $('#preflopdecision').removeClass('alert-success d-none').addClass('alert-info');
-        $('#preflopdecisiontext').text(a);
-      });
+        $('#btnActions' + currentaction).click(function() {
+            currentaction = index + 1;
+            var p = heroesaction[positions[currentposition]];
+
+            var c = p["c" + currenttypehand];
+            var a = c["a" + currentaction];
+            //console.log(currentposition + ' - ' + currenttypehand + ' - ' + currentaction + ' - ' + a);
+            $('#preflopdecision').removeClass('alert-success d-none').addClass('alert-info');
+            $('#preflopdecisiontext').text(a);
+        });
     });
 
+    /* flop */
+    $.each(flopagressiontypes, function(index, value) {
+        var _type = index + 1;
+        $('#btnFlopAgressionType' + _type).click(function() {
+            flopcurrentagressiontype = _type;
+            if (_type == 1) {
+                $('#FlopPosActTitle').text('Действия оппонентов');
+                $('#btnFlopPosAct1text').text('В ответ на рейз');
+                $('#btnFlopPosAct2text').text('Ставок не было');
+            } else if (_type == 2) {
+                $('#FlopPosActTitle').text('Позиция');
+                $('#btnFlopPosAct1text').text('В позиции');
+                $('#btnFlopPosAct2text').text('Без позиции'); // не забыть в решение добавить (чек, а затем...)
+            }
 
+            var at = flopheroesaction['AgrType' + flopcurrentagressiontype];
+            var bt = at['BankType' + flopcurrentbanktype];
+            var ft = bt['FlopType' + flopcurrenttype];
+            var fpa = ft['FlopPosAct' + flopcurrentposact];
+            var c = fpa[flopcurrentcombination - 1];
+            console.log(c);
+            $('#flopdecision').removeClass('alert-success d-none').addClass('alert-info display-4');
+            $('#flopdecisiontext').text(c);
+        });
+
+    });
+    $.each(flopbanktypes, function(index, value) {
+        var _type = index + 1;
+        $('#btnFlopBankType' + _type).click(function() {
+            flopcurrentbanktype = _type;
+
+            var at = flopheroesaction['AgrType' + flopcurrentagressiontype];
+            var bt = at['BankType' + flopcurrentbanktype];
+            var ft = bt['FlopType' + flopcurrenttype];
+            var fpa = ft['FlopPosAct' + flopcurrentposact];
+            var c = fpa[flopcurrentcombination - 1];
+            console.log(c);
+            $('#flopdecision').removeClass('alert-success d-none').addClass('alert-info display-4');
+            $('#flopdecisiontext').text(c);
+        });
+    });
+    $.each(floptypes, function(index, value) {
+        var _type = index + 1;
+        $('#btnFlopType' + _type).click(function() {
+            flopcurrenttype = _type;
+
+            var at = flopheroesaction['AgrType' + flopcurrentagressiontype];
+            var bt = at['BankType' + flopcurrentbanktype];
+            var ft = bt['FlopType' + flopcurrenttype];
+            var fpa = ft['FlopPosAct' + flopcurrentposact];
+            var c = fpa[flopcurrentcombination - 1];
+            console.log(c);
+            $('#flopdecision').removeClass('alert-success d-none').addClass('alert-info display-4');
+            $('#flopdecisiontext').text(c);
+        });
+    });
+    $.each(flopposact, function(index, value) {
+        var _type = index + 1;
+        $('#btnFlopPosAct' + _type).click(function() {
+            flopcurrentposact = _type;
+
+            var at = flopheroesaction['AgrType' + flopcurrentagressiontype];
+            var bt = at['BankType' + flopcurrentbanktype];
+            var ft = bt['FlopType' + flopcurrenttype];
+            var fpa = ft['FlopPosAct' + flopcurrentposact];
+            var c = fpa[flopcurrentcombination - 1];
+            console.log(c);
+            $('#flopdecision').removeClass('alert-success d-none').addClass('alert-info display-4');
+            $('#flopdecisiontext').text(c);
+        });
+    });
+    $.each(flopcombinations, function(index, value) {
+        var _type = index + 1;
+        $('#btnCombinations' + _type).click(function() {
+            flopcurrentcombination = _type;
+
+            var at = flopheroesaction['AgrType' + flopcurrentagressiontype];
+            var bt = at['BankType' + flopcurrentbanktype];
+            var ft = bt['FlopType' + flopcurrenttype];
+            var fpa = ft['FlopPosAct' + flopcurrentposact];
+            var c = fpa[flopcurrentcombination - 1];
+            console.log(c);
+            $('#flopdecision').removeClass('alert-success d-none').addClass('alert-info display-4');
+            $('#flopdecisiontext').text(c);
+        });
+    })
+
+    /*
+    "BankType2": {
+                    // Хороший флоп
+                    "FlopType1": {
+                        // В позиции
+                        "FlopPosAct1": [
+                            'Фолд (чек)', // Воздух
+                
+    */
 });
 /*
   
@@ -467,5 +910,7 @@ $('<a>',{
       text: 'text',
       css:{fonweight: 'bold'}
     })),
-}).appendTo('#wrapper');
+})
+.appendTo('#wrapper'); *
+/.appendTo('#wrapper');
 */

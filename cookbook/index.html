@@ -448,7 +448,97 @@
     </div>
     <div id="section2" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
         <h1>Флоп</h1>
+        <div class="row">
+            <div class="col-sm-6">
+                <h2>Инициатива на префлопе</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label id="btnFlopAgressionType1" class="btn btn-success active">
+                      <input type="radio" name="options" id="btnFlopAgressionType1" autocomplete="off" checked> С инициативой
+                    </label>
+                    <label id="btnFlopAgressionType2" class="btn btn-success">
+                      <input type="radio" name="options" id="btnAgressionType2" autocomplete="off"> Без инициативы
+                    </label>
+                    <label id="btnFlopAgressionType3" class="btn btn-success disabled">
+                      <input type="radio" name="options" id="btnAgressionType3" autocomplete="off"> Лимп-пот
+                    </label>
+                </div>
+                <p></p>
+                <h2>Количество игроков на флопе</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label id="btnFlopBankType1" class="btn btn-success active">
+                      <input type="radio" name="options" id="btnFlopBankType1" autocomplete="off" checked> Один-на-один
+                    </label>
+                    <label id="btnFlopBankType2" class="btn btn-success">
+                      <input type="radio" name="options" id="btnFlopBankType2" autocomplete="off"> Мультивэй
+                    </label>
+                </div>
+                <p></p>
+                <h2>Качество флопа</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label id="btnFlopType1label" class="btn btn-success active">
+                      <input type="radio" name="options" id="btnFlopType1" autocomplete="off" checked> Хороший флоп
+                    </label>
+                    <label id="btnFlopType2label" class="btn btn-success">
+                      <input type="radio" name="options" id="btnFlopType2" autocomplete="off"> Плохой флод
+                    </label>
+                </div>
+                <p></p>
+                <h2 id="FlopPosActTitle">Действия оппонентов</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label id="btnFlopPosAct1label" class="btn btn-success active">
+                      <input type="radio" name="options" id="btnFlopPosAct1" autocomplete="off" checked><span id="btnFlopPosAct1text"> В ответ на рейз </span>
+                    </label>
+                    <label id="btnFlopPosAct2label" class="btn btn-success">
+                      <input type="radio" name="options" id="btnFlopPosAct2" autocomplete="off"><span id="btnFlopPosAct2text"> Ставок не было </span>
+                    </label>
+                </div>
+                <p></p>
+            </div>
+            <div class="col-sm-6">
+                <h2>Комбинации</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle btn-group-vertical" data-toggle="buttons" style="min-width: 50%;">
+                    <label id="btnCombinations1label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations1" autocomplete="off"> Воздух </label>
+                    <label id="btnCombinations2label" type="button" class="btn btn-success btn-block">
+                            <input type="radio" name="options" id="btnCombinations2" autocomplete="off"> Слабые дро </label>
+                    <label id="btnCombinations3label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations3" autocomplete="off"> Средние дро </label>
+                    <label id="btnCombinations4label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations4" autocomplete="off"> Сильные дро </label>
+                    <label id="btnCombinations5label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations5" autocomplete="off"> Третья пара и хуже </label>
+                    <label id="btnCombinations6label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations6" autocomplete="off"> Вторая пара и хуже </label>
+                    <label id="btnCombinations7label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations7" autocomplete="off"> Топ пара со слабым кикером </label>
+                    <label id="btnCombinations8label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations8" autocomplete="off"> Топ пара с хорошим кикером </label>
+                    <label id="btnCombinations9label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations9" autocomplete="off"> Топ пара с топ кикером </label>
+                    <label id="btnCombinations10label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations10" autocomplete="off"> Оверпара </label>
+                    <label id="btnCombinations11label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations11" autocomplete="off"> Младшие две пары </label>
+                    <label id="btnCombinations12label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations12" autocomplete="off"> Две пары </label>
+                    <label id="btnCombinations13label" type="button" class="btn btn-success btn-block">
+                        <input type="radio" name="options" id="btnCombinations13" autocomplete="off"> Сет и лучше </label>
+                </div>
+                <p></p>
+                <div id="flopdecision" class="alert alert-success d-none">
+                    <h2><strong>Ваше действие:</strong> <span id="flopdecisiontext"></span></h2>
+                </div>
+            </div>
+            <p></p>
+        </div>
 
+
+        <p></p>
         <div>
             <div class="card playing rank-a suit-hearts">
                 <div class="card-body">
@@ -462,6 +552,24 @@
                     <div class="card-text"></div>
                 </div>
             </div>
+            <div class="card playing rank-a suit-diams">
+                <div class="card-body">
+                    <div class="card-title"></div>
+                    <div class="card-text"></div>
+                </div>
+            </div>
+            <div class="card playing rank-a suit-clubs">
+                <div class="card-body">
+                    <div class="card-title"></div>
+                    <div class="card-text"></div>
+                </div>
+            </div>
+            <div class="card playing rank-a suit-spades">
+                <div class="card-body">
+                    <div class="card-title"></div>
+                    <div class="card-text"></div>
+                </div>
+            </div>
         </div>
 
         <div class="container">
@@ -469,12 +577,221 @@
     </div>
     <div id="section3" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
         <h1>Тёрн</h1>
-        <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <h2>Инициатива</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label id="btnTurnAgressorlabel" class="btn btn-success active">
+                      <input type="radio" name="options" id="btnTurnAgressor" autocomplete="off" checked> С инициативой
+                    </label>
+                    <label id="btnTurnCallerlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnTurnCaller" autocomplete="off"> Без инициативы
+                    </label>
+                    <label id="btnTurnLimpPotlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnTurnLimpPot" autocomplete="off"> Лимп-пот
+                    </label>
+                </div>
+                <h2>Позиция</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label id="btnTurnInlabel" class="btn btn-success active">
+                      <input type="radio" name="options" id="btnTurnIn" autocomplete="off" checked> В позиции
+                    </label>
+                    <label id="btnTurnOutlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnTurnOut" autocomplete="off"> Без позиции
+                    </label>
+                </div>
+                <p></p>
+                <h2>Новая карта</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle btn-group-vertical" data-toggle="buttons" style="min-width: 50%;">
+                    <label id="btnTurnChanges1label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnChanges1" autocomplete="off"> Пришла третья карта к флэшу 
+                    </label>
+                    <label id="btnTurnChanges2label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnChanges2" autocomplete="off"> Пришла четвертая карта к флэшу 
+                    </label>
+                    <label id="btnTurnChanges3label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnChanges3" autocomplete="off"> Пришла четвертая карта к стриту 
+                    </label>
+                    <label id="btnTurnChanges4label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnChanges4" autocomplete="off"> Дополнительные ауты 
+                    </label>
+                    <label id="btnTurnChanges5label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnChanges5" autocomplete="off"> Нейтральная карта 
+                    </label>
+                    <label id="btnTurnChanges6label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnChanges6" autocomplete="off"> Диапазон оппонента усилился 
+                    </label>
+                    <label id="btnTurnChanges7label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnChanges7" autocomplete="off"> Спарилась старшая карта
+                    </label>
+                    <label id="btnTurnChanges8label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnChanges8" autocomplete="off"> "Страшная карта"
+                    </label>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <h2>Комбинации</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle btn-group-vertical" data-toggle="buttons" style="min-width: 50%;">
+                    <label id="btnTurnCombinations1label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations1" autocomplete="off"> Воздух 
+                    </label>
+                    <label id="btnTurnCombinations2label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations2" autocomplete="off"> Стрит-дро 
+                    </label>
+                    <label id="btnTurnCombinations3label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations3" autocomplete="off"> Флэш-дро 
+                    </label>
+                    <label id="btnTurnCombinations4label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations4" autocomplete="off"> Пара + Стрит-дро 
+                    </label>
+                    <label id="btnTurnCombinations5label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations5" autocomplete="off"> Пара + Флэш-дро 
+                    </label>
+                    <label id="btnTurnCombinations6label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations6" autocomplete="off"> Сильные дро 
+                    </label>
+                    <label id="btnTurnCombinations7label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations7" autocomplete="off"> Вторая пара и хуже 
+                    </label>
+                    <label id="btnTurnCombinations8label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations8" autocomplete="off"> Топ пара со слабым кикером 
+                    </label>
+                    <label id="btnTurnCombinations9label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations9" autocomplete="off"> Топ пара с хорошим кикером 
+                    </label>
+                    <label id="btnTurnCombinations10label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations10" autocomplete="off"> Топ пара с топ кикером 
+                    </label>
+                    <label id="btnTurnCombinations11label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations11" autocomplete="off"> Оверпара 
+                    </label>
+                    <label id="btnTurnCombinations12label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations12" autocomplete="off"> Младшие две пары 
+                    </label>
+                    <label id="btnTurnCombinations13label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations13" autocomplete="off"> Две пары 
+                    </label>
+                    <label id="btnTurnCombinations14label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations14" autocomplete="off"> Сет 
+                    </label>
+                    <label id="btnTurnCombinations15label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations15" autocomplete="off"> Стрит 
+                    </label>
+                    <label id="btnTurnCombinations16label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations16" autocomplete="off"> Слабый флэш 
+                    </label>
+                    <label id="btnTurnCombinations17label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnTurnCombinations17" autocomplete="off"> Сильный флэш и лучше
+                    </label>
+                </div>
+            </div>
         </div>
     </div>
     <div id="section4" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
         <h1>Ривер</h1>
-        <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <h2>Инициатива</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label id="btnRiverAgressorlabel" class="btn btn-success active">
+                      <input type="radio" name="options" id="btnRiverAgressor" autocomplete="off" checked> С инициативой
+                    </label>
+                    <label id="btnRiverCallerlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnRiverCaller" autocomplete="off"> Без инициативы
+                    </label>
+                    <label id="btnRiverLimpPotlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnRiverLimpPot" autocomplete="off"> Лимп-пот
+                    </label>
+                </div>
+                <h2>Позиция</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label id="btnRiverInlabel" class="btn btn-success active">
+                      <input type="radio" name="options" id="btnRiverIn" autocomplete="off" checked> В позиции
+                    </label>
+                    <label id="btnRiverOutlabel" class="btn btn-success">
+                      <input type="radio" name="options" id="btnRiverOut" autocomplete="off"> Без позиции
+                    </label>
+                </div>
+                <p></p>
+                <h2>Новая карта</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle btn-group-vertical" data-toggle="buttons" style="min-width: 50%;">
+                    <label id="btnRiverChanges1label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverChanges1" autocomplete="off"> Три карты к флэшу 
+                    </label>
+                    <label id="btnRiverChanges2label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverChanges2" autocomplete="off"> Четыре карты к флэшу 
+                    </label>
+                    <label id="btnRiverChanges3label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverChanges3" autocomplete="off"> Четыре карты к стриту
+                    </label>
+                    <label id="btnRiverChanges4label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverChanges4" autocomplete="off"> Спарилась старшая карта на флопе
+                    </label>
+                    <label id="btnRiverChanges5label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverChanges5" autocomplete="off"> Туз или король на ривере
+                    </label>
+                    <label id="btnRiverChanges6label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverChanges6" autocomplete="off"> Нейтральная карта
+                    </label>
+                    <label id="btnRiverChanges7label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverChanges7" autocomplete="off"> Диапазон оппонента усилился
+                    </label>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <h2>Комбинации</h2>
+                <p></p>
+                <div class="btn-group btn-group-toggle btn-group-vertical" data-toggle="buttons" style="min-width: 50%;">
+                    <label id="btnRiverCombinations1label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations1" autocomplete="off"> Воздух 
+                    </label>
+                    <label id="btnRiverCombinations2label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations2" autocomplete="off"> Дро 
+                    </label>
+                    <label id="btnRiverCombinations3label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations3" autocomplete="off"> Вторая пара и хуже 
+                    </label>
+                    <label id="btnRiverCombinations4label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations4" autocomplete="off"> Топ пара со слабым кикером 
+                    </label>
+                    <label id="btnRiverCombinations5label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations5" autocomplete="off"> Топ пара с хорошим кикером 
+                    </label>
+                    <label id="btnRiverCombinations6label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations6" autocomplete="off"> Топ пара с топ кикером 
+                    </label>
+                    <label id="btnRiverCombinations7label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations7" autocomplete="off"> Оверпара 
+                    </label>
+                    <label id="btnRiverCombinations8label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations8" autocomplete="off"> Младшие две пары 
+                    </label>
+                    <label id="btnRiverCombinations9label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations9" autocomplete="off"> Две пары 
+                    </label>
+                    <label id="btnRiverCombinations10label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations10" autocomplete="off"> Сет 
+                    </label>
+                    <label id="btnRiverCombinations11label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations11" autocomplete="off"> Стрит 
+                    </label>
+                    <label id="btnRiverCombinations12label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations13" autocomplete="off"> Слабый флэш 
+                    </label>
+                    <label id="btnRiverCombinations13label" type="button" class="btn btn-success btn-block disabled">
+                        <input type="radio" name="options" id="btnRiverCombinations13" autocomplete="off"> Сильный флэш и лучше
+                    </label>
+                </div>
+                <p></p>
+
+            </div>
         </div>
     </div>
     <div id="section5" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
