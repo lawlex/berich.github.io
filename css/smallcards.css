@@ -27,6 +27,18 @@
     margin-bottom: 1.25rem;
 }
 
+.card.playing.back {
+    background-color: #17a2b8!important;
+    border-color: #343a40!important;
+    border-width: 2px;
+}
+
+.card.playing.emptyplace {
+    background-color: #ced4da!important;
+    border-color: #a3a3a3!important;
+    border-width: 2px;
+}
+
 .card.playing.suit-hearts {
     color: #dc3545!important;
     border-color: #dc3545!important;

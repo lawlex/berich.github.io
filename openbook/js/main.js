@@ -17,14 +17,14 @@ $(document).ready(function() {
     var suitcolors = ['danger', 'success', 'primary', 'dark']
     $('<div/>', {
         id: 'deckbtngroup',
-        'class': 'btn-group',
+        'class': 'btn-group-vertical',
     }).appendTo('#deckwrapper');
     $.each(suits, function(i, suit) {
         $('<div/>', {
             id: 'decksuit' + suit,
-            'class': 'btn-group-vertical',
+            'class': 'btn-group',
             css: { fontSize: '16px', margin: '1px', },
-        }).appendTo('#deckwrapper');
+        }).appendTo('#deckbtngroup');
         $.each(nomsreverse, function(k, nom) {
             $('<button/>', {
                 type: 'button',

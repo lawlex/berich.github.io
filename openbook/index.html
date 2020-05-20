@@ -25,7 +25,7 @@
         }
         
         .checkedbtn {
-            opacity: 0.6;
+            opacity: 0.45;
             /*border-width: 2px;*/
         }
     </style>
@@ -47,9 +47,88 @@
     </nav>
     <div id="section1" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
         <h1>Префлоп</h1>
-        <div id="deckwrapper">
+
+
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <div class="input-group-text">
+                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                        <label class="btn btn-secondary">
+                        <input type="checkbox" name="options" id="btnusehand" autocomplete="off" checked> Рука: </label>
+                    </div>
+                </div>
+
+                <div class="input-group-text">
+                    <div class="card playing rank-a suit-hearts">
+                        <div class="card-body">
+                            <div class="card-title"></div>
+                            <div class="card-text"></div>
+                        </div>
+                    </div>
+                    <div class="card playing rank-a suit-spades">
+                        <div class="card-body">
+                            <div class="card-title"></div>
+                            <div class="card-text"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="input-group-text">
+                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                        <label class="btn btn-secondary">
+                        <input type="checkbox" name="options" id="btnuseboard" autocomplete="off" checked> Доска: </label>
+                    </div>
+                </div>
+
+                <div class="input-group-text">
+                    <div class="card playing rank-a suit-diams">
+                        <div class="card-body">
+                            <div class="card-title"></div>
+                            <div class="card-text"></div>
+                        </div>
+                    </div>
+                    <div class="card playing rank-a suit-clubs">
+                        <div class="card-body">
+                            <div class="card-title"></div>
+                            <div class="card-text"></div>
+                        </div>
+                    </div>
+                    <div class="card playing rank-2 suit-hearts">
+                        <div class="card-body">
+                            <div class="card-title"></div>
+                            <div class="card-text"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="input-group-text">
+                    <div class="card playing rank-k suit-clubs">
+                        <div class="card-body">
+                            <div class="card-title"></div>
+                            <div class="card-text"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="input-group-text">
+                    <div class="card playing emptyplace">
+                        <div class="card-body">
+                            <div class="card-title"></div>
+                            <div class="card-text"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         </div>
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <div class="input-group-text">
+                    <div id="deckwrapper">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
     </div>
     <script type="text/javascript" src="js/main.js"></script>
 
