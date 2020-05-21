@@ -2,47 +2,14 @@ $(document).ready(function() {
     /* this script works */
     /* you can type your code here */
 
-    /*
-
-        <div class="btn-group-vertical">
-            <button type="button" class="btn btn-primary deck-btn d-flex align-items-center justify-content-center font-weight-bold">Ah</button>
-            <button type="button" class="btn btn-primary deck-btn d-flex align-items-center justify-content-center font-weight-bold">Kh</button>
-            <button type="button" class="btn btn-primary deck-btn d-flex align-items-center justify-content-center font-weight-bold">Qh</button>
-        </div>
-
-    */
     var noms = ['2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A'];
     var nomsreverse = noms.reverse();
     var suits = ['h', 'c', 'd', 's'];
     var suitcolors = ['danger', 'success', 'primary', 'dark'];
-    $('<div/>', {
-        'class': 'input-group mb-3',
-        append: $('<div/>', {
-            id: 'tablecontainer',
-            'class': 'input-group-prepend',
-        }),
-    }).appendTo('#tablewrapper');
-    // hand
-    $('<div>', {
-        'class': 'input-group-text',
-        append: $('<div/>', {
-            'class': 'btn-group btn-group-toggle',
-            append: $('<label/>', {
-                'class': 'btn btn-secondary',
-                text: ' Рука: ',
-                append: $('<input/>', {
-                    id: 'btnusehand',
-                    type: 'checkbox',
-                    name: 'options'
-                }).attr({ 'autocomplte': 'off', 'checked': '' }),
-            }),
-        }).attr('data-toggle', 'buttons'),
-    }).appendTo('#tablecontainer');
-    var handhtml = $('<div/>', {
-        class: 'input-group-text',
-    }).appendTo('#tablecontainer');
 
-    // add playing card's html colde
+    /* common functions */
+
+    // add playing card's html code
     function addplayingcard(_parent, _id, _nom, _suit, _class = 'card playing') {
         var _noms = {
             'E': { 'id': 100, 'cls': 'emptyplace' },
@@ -81,40 +48,95 @@ $(document).ready(function() {
                 })),
             }));
     };
+
+    // create board
+    function createboard(_wrapper_id, _container_id, _label = ' Доска: ') {
+        $('#' + _wrapper_id).append($('<div/>', {
+            'class': 'input-group mb-3',
+            append: $('<div/>', {
+                id: _container_id,
+                'class': 'input-group-prepend',
+            }),
+        }));
+        // board
+        $('<div>', {
+            'class': 'input-group-text',
+            append: $('<div/>', {
+                'class': 'btn-group btn-group-toggle',
+                append: $('<label/>', {
+                    'class': 'btn btn-secondary',
+                    text: ' Доска: ',
+                    append: $('<input/>', {
+                        id: 'btnuseboard',
+                        type: 'checkbox',
+                        name: 'options'
+                    }).attr({ 'autocomplte': 'off', 'checked': '' }),
+                }),
+            }).attr('data-toggle', 'buttons'),
+        }).appendTo('#' + _container_id);
+
+        var _htmlboard = {};
+
+        _htmlboard.flophtml = $('<div/>', {
+            class: 'input-group-text',
+        }).appendTo('#boardcontainer');
+        _htmlboard.turnhtml = $('<div/>', {
+            class: 'input-group-text',
+        }).appendTo('#boardcontainer');
+        _htmlboard.riverhtml = $('<div/>', {
+            class: 'input-group-text',
+        }).appendTo('#boardcontainer');
+        return _htmlboard;
+    };
+
+    // create hand
+    function createhand(_wrapper_id, _container_id, _label) {
+        $('#' + _wrapper_id).append($('<div/>', {
+            'class': 'input-group mb-3',
+            append: $('<div/>', {
+                id: _container_id,
+                'class': 'input-group-prepend',
+            }),
+        }));
+        $('<div>', {
+            'class': 'input-group-text',
+            append: $('<div/>', {
+                'class': 'btn-group btn-group-toggle',
+                append: $('<label/>', {
+                    'class': 'btn btn-secondary',
+                    text: _label,
+                    append: $('<input/>', {
+                        id: 'btnusehand',
+                        type: 'checkbox',
+                        name: 'options'
+                    }).attr({ 'autocomplete': 'off', 'checked': '' }),
+                }),
+            }).attr('data-toggle', 'buttons'),
+        }).appendTo('#' + _container_id);
+        return $('<div/>', {
+            class: 'input-group-text',
+        }).appendTo('#' + handcontainer_id);
+    };
+
+    var handwrapper_id = 'handwrapper';
+    var handcontainer_id = 'handcontainer';
+    var handhtml = createhand(handwrapper_id, handcontainer_id, ' Рука: ');
+
     var handcard1 = addplayingcard(handhtml, 'handcard1', 'A', 'h');
     var handcard1 = addplayingcard(handhtml, 'handcard2', 'A', 's');
 
-    // board
-    $('<div>', {
-        'class': 'input-group-text',
-        append: $('<div/>', {
-            'class': 'btn-group btn-group-toggle',
-            append: $('<label/>', {
-                'class': 'btn btn-secondary',
-                text: ' Доска: ',
-                append: $('<input/>', {
-                    id: 'btnuseboard',
-                    type: 'checkbox',
-                    name: 'options'
-                }).attr({ 'autocomplte': 'off', 'checked': '' }),
-            }),
-        }).attr('data-toggle', 'buttons'),
-    }).appendTo('#tablecontainer');
-    var flophtml = $('<div/>', {
-        class: 'input-group-text',
-    }).appendTo('#tablecontainer');
+    var boardwrapper_id = 'boardwrapper';
+    var boardcontainer_id = 'boardcontainer';
+    var boardhtml = createboard(boardwrapper_id, boardcontainer_id);
+
+    var flophtml = boardhtml.flophtml;
+    var turnhtml = boardhtml.turnhtml;
+    var riverhtml = boardhtml.riverhtml;
+
     var flopcard1 = addplayingcard(flophtml, 'flopcard1', 'A', 'd');
     var flopcard2 = addplayingcard(flophtml, 'flopcard2', 'A', 'c');
     var flopcard3 = addplayingcard(flophtml, 'flopcard3', '2', 'h');
-
-    var turnhtml = $('<div/>', {
-        class: 'input-group-text',
-    }).appendTo('#tablecontainer');
     var turncard = addplayingcard(turnhtml, 'flopcard1', 'K', 'c');
-
-    var riverhtml = $('<div/>', {
-        class: 'input-group-text',
-    }).appendTo('#tablecontainer');
     var rivercard = addplayingcard(riverhtml, 'flopcard1', 'E', 'E');
 
     // deck
@@ -131,6 +153,7 @@ $(document).ready(function() {
             }),
         }),
     }).appendTo('#deckwrapper');
+
     $.each(suits, function(i, suit) {
         $('<div/>', {
             id: 'decksuit' + suit,
