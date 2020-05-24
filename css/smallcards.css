@@ -63,6 +63,34 @@
     border-width: 2px;
 }
 
+.card.playing.fullcolor.suit-hearts {
+    background-color: #dc3545!important;
+    color: white!important;
+    border-color: #343a40!important;
+    border-width: 2px;
+}
+
+.card.playing.fullcolor.suit-spades {
+    background-color: #343a40!important;
+    color: white!important;
+    border-color: #343a40!important;
+    border-width: 2px;
+}
+
+.card.playing.fullcolor.suit-diams {
+    background-color: #007bff!important;
+    color: white!important;
+    border-color: #343a40!important;
+    border-width: 2px;
+}
+
+.card.playing.fullcolor.suit-clubs {
+    background-color: #28a745!important;
+    color: white!important;
+    border-color: #343a40!important;
+    border-width: 2px;
+}
+
 .card.playing .card-body {
     padding: 0.55rem;
 }

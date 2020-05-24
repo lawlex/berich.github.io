@@ -1,0 +1,68 @@
+# combinations list
+
+- straight flush or better
+- four of kind, pocket pair, pair on board
+- four of kind, one card, trips on board
+- four of kind, on board
+- full house, pocket pair, trips on board
+- full house, pocket pair, no trips on board
+- full house, two cards, pair on board
+- full house, one card, trips on board
+- full house, one card, two pair on board
+- full house, on board
+- flush, two cards, nut
+- flush, two cards, no nut
+- flush, one card, nut
+- flush, one card, no nut
+- flush, on board
+- straight, two cards, nut
+- straight, two cards, no nut
+- straight, one card, nut
+- straight, one card, no nut
+- straight, on board
+- three of a kind, set
+- three of a kind, trips
+- three of a kind, trips on board
+- two pair, two different cards
+- two pair, over pocket pair, pair on board
+- two pair, second pocket pair, pair on board
+- two pair, third pocket pair or worse, pair on board
+- two pair, pair on board, top sidecard paired
+- two pair, pair on board, middle sidecard paired
+- two pair, pair on board, bottom sidecard paired
+- two pair, on board
+- one pair, over pocket pair
+- one pair, top pair
+- one pair, second pocket pair
+- one pair, middle pair, second or worse
+- one pair, low pocket pair, third or worse
+- one pair, low pair, third or worse
+- ace high
+- king high
+- two overcards
+- one overcard
+- nothing
+- OESD/DBB
+- GSSD
+- 0-gap-BDSD (2 OESD, 2 GSSD)
+- 1-gap-BDSD (1 OESD, 2 GSSD)
+- 2-gap-BDSD (0 OESD, 2 GSSD)
+- double-2-gap-BDSD (0 OESD, 4 GSSD)
+- two card flush draw, nut
+- two card flush draw, no nut
+- one card flush draw, nut
+- one card flush draw, no nut
+- backdoor flush draw
+- monster draw
+- monster draw + any pocket pair
+- monster draw + any pair
+- OESD/DBB + any pocket pair
+- OESD/DBB + any pair
+- any FD + any pocket pair
+- any FD + top pair
+- any FD + any pair
+- any pocket pair
+- any pair
+- loose flop peel (BDSD + BDFD + Overcards)
+- any backdoor straight draw
+- one overcard + BDFD
