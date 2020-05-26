@@ -1,0 +1,4839 @@
+﻿PokerStars Hand #213778881666:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:38:35 MSK [2020/05/12 22:38:35 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2 in chips) 
+Seat 2: Sisi Capwell ($2.27 in chips) 
+Seat 3: adolfcord ($1.40 in chips) 
+Seat 4: bred517 ($0.52 in chips) 
+Seat 5: Lavokid ($1.04 in chips) 
+Seat 6: xinnkeeper123 ($1.46 in chips) 
+xinnkeeper123: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Js]
+Sisi Capwell: folds 
+adolfcord: folds 
+bred517: folds 
+Lavokid: raises $0.04 to $0.06
+xinnkeeper123: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [6c Kd 7c]
+xinnkeeper123: checks 
+Lavokid: bets $0.07
+xinnkeeper123: folds 
+Uncalled bet ($0.07) returned to Lavokid
+Lavokid collected $0.14 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6c Kd 7c]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 4: bred517 folded before Flop (didn't bet)
+Seat 5: Lavokid (button) collected ($0.14)
+Seat 6: xinnkeeper123 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213778896525:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:39:04 MSK [2020/05/12 22:39:04 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.98 in chips) 
+Seat 2: Sisi Capwell ($2.27 in chips) 
+Seat 3: adolfcord ($1.40 in chips) 
+Seat 4: bred517 ($0.52 in chips) 
+Seat 5: Lavokid ($1.12 in chips) 
+Seat 6: xinnkeeper123 ($1.40 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 7c]
+adolfcord: folds 
+bred517: calls $0.02
+Lavokid: folds 
+xinnkeeper123: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: checks 
+*** FLOP *** [7d Qd 4h]
+Sisi Capwell: checks 
+bred517: bets $0.02
+xinnkeeper123: folds 
+Sisi Capwell: folds 
+Uncalled bet ($0.02) returned to bred517
+bred517 collected $0.07 from pot
+bred517: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7d Qd 4h]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) folded on the Flop
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 4: bred517 collected ($0.07)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (button) folded on the Flop
+
+
+
+PokerStars Hand #213778908919:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:39:28 MSK [2020/05/12 22:39:28 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.97 in chips) 
+Seat 2: Sisi Capwell ($2.25 in chips) 
+Seat 3: adolfcord ($1.40 in chips) 
+Seat 4: bred517 ($0.57 in chips) 
+Seat 5: Lavokid ($1.12 in chips) 
+Seat 6: xinnkeeper123 ($1.38 in chips) 
+Sisi Capwell: posts small blind $0.01
+adolfcord: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Kd]
+bred517: calls $0.02
+Lavokid: folds 
+xinnkeeper123: folds 
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+adolfcord: folds 
+bred517: calls $0.03
+*** FLOP *** [5h 9h Ks]
+bred517: bets $0.06
+lawlex_2: calls $0.06
+*** TURN *** [5h 9h Ks] [4c]
+bred517: bets $0.08
+lawlex_2: calls $0.08
+*** RIVER *** [5h 9h Ks 4c] [3c]
+bred517: bets $0.08
+lawlex_2: calls $0.08
+*** SHOW DOWN ***
+bred517: shows [9d 7s] (a pair of Nines)
+lawlex_2: shows [Qh Kd] (a pair of Kings)
+lawlex_2 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [5h 9h Ks 4c 3c]
+Seat 1: lawlex_2 (button) showed [Qh Kd] and won ($0.55) with a pair of Kings
+Seat 2: Sisi Capwell (small blind) folded before Flop
+Seat 3: adolfcord (big blind) folded before Flop
+Seat 4: bred517 showed [9d 7s] and lost with a pair of Nines
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213778934384:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:40:17 MSK [2020/05/12 22:40:17 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.25 in chips) 
+Seat 2: Sisi Capwell ($2.24 in chips) 
+Seat 3: adolfcord ($1.38 in chips) 
+Seat 4: bred517 ($0.30 in chips) 
+Seat 5: Lavokid ($1.12 in chips) 
+Seat 6: xinnkeeper123 ($1.38 in chips) 
+adolfcord: posts small blind $0.01
+bred517: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 4d]
+Lavokid: calls $0.02
+xinnkeeper123: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: calls $0.02
+adolfcord: folds 
+bred517: checks 
+*** FLOP *** [6h 5h 8h]
+bred517: bets $0.04
+Lavokid: folds 
+xinnkeeper123: folds 
+Sisi Capwell: folds 
+Uncalled bet ($0.04) returned to bred517
+bred517 collected $0.09 from pot
+bred517: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6h 5h 8h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (button) folded on the Flop
+Seat 3: adolfcord (small blind) folded before Flop
+Seat 4: bred517 (big blind) collected ($0.09)
+Seat 5: Lavokid folded on the Flop
+Seat 6: xinnkeeper123 folded on the Flop
+
+
+
+PokerStars Hand #213778950436:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:40:48 MSK [2020/05/12 22:40:48 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.25 in chips) 
+Seat 2: Sisi Capwell ($2.22 in chips) 
+Seat 3: adolfcord ($1.37 in chips) 
+Seat 4: bred517 ($0.37 in chips) 
+Seat 5: Lavokid ($1.10 in chips) 
+Seat 6: xinnkeeper123 ($1.36 in chips) 
+bred517: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 7d]
+lawlex_2 is disconnected 
+xinnkeeper123: folds 
+lawlex_2 is connected 
+lawlex_2: folds 
+Sisi Capwell: folds 
+adolfcord: folds 
+bred517: calls $0.01
+Lavokid: checks 
+*** FLOP *** [7h 5h 4c]
+bred517: bets $0.04
+Lavokid: calls $0.04
+*** TURN *** [7h 5h 4c] [Kc]
+bred517: bets $0.06
+Lavokid: calls $0.06
+*** RIVER *** [7h 5h 4c Kc] [9s]
+bred517: bets $0.12
+Lavokid: folds 
+Uncalled bet ($0.12) returned to bred517
+bred517 collected $0.23 from pot
+bred517: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7h 5h 4c Kc 9s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: adolfcord (button) folded before Flop (didn't bet)
+Seat 4: bred517 (small blind) collected ($0.23)
+Seat 5: Lavokid (big blind) folded on the River
+Seat 6: xinnkeeper123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213778982844:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:41:51 MSK [2020/05/12 22:41:51 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.25 in chips) 
+Seat 2: Sisi Capwell ($2.22 in chips) 
+Seat 3: adolfcord ($1.37 in chips) 
+Seat 4: bred517 ($0.48 in chips) 
+Seat 5: Lavokid ($0.98 in chips) 
+Seat 6: xinnkeeper123 ($1.36 in chips) 
+Lavokid: posts small blind $0.01
+xinnkeeper123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 2c]
+lawlex_2: folds 
+Sisi Capwell: folds 
+adolfcord: folds 
+bred517: calls $0.02
+Lavokid: folds 
+xinnkeeper123: checks 
+*** FLOP *** [Ac 4s 2s]
+xinnkeeper123: checks 
+bred517: bets $0.02
+xinnkeeper123: folds 
+Uncalled bet ($0.02) returned to bred517
+bred517 collected $0.05 from pot
+bred517: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac 4s 2s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 4: bred517 (button) collected ($0.05)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: xinnkeeper123 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213778996129:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:42:18 MSK [2020/05/12 22:42:18 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.25 in chips) 
+Seat 2: Sisi Capwell ($2.22 in chips) 
+Seat 3: adolfcord ($1.37 in chips) 
+Seat 4: bred517 ($0.51 in chips) 
+Seat 5: Lavokid ($0.97 in chips) 
+Seat 6: xinnkeeper123 ($1.34 in chips) 
+xinnkeeper123: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Ks]
+Sisi Capwell: raises $0.03 to $0.05
+adolfcord: folds 
+bred517: folds 
+Lavokid: folds 
+xinnkeeper123: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to Sisi Capwell
+Sisi Capwell collected $0.05 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Sisi Capwell collected ($0.05)
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 4: bred517 folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213779007748:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:42:35 MSK [2020/05/12 22:42:35 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.23 in chips) 
+Seat 2: Sisi Capwell ($2.25 in chips) 
+Seat 3: adolfcord ($1.37 in chips) 
+Seat 4: bred517 ($0.51 in chips) 
+Seat 5: Lavokid ($0.97 in chips) 
+Seat 6: xinnkeeper123 ($1.33 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Kh]
+adolfcord: folds 
+bred517: folds 
+Lavokid: calls $0.02
+xinnkeeper123: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: checks 
+*** FLOP *** [6s 3s 5s]
+Sisi Capwell: checks 
+Lavokid: bets $0.06
+xinnkeeper123: calls $0.06
+Sisi Capwell: folds 
+*** TURN *** [6s 3s 5s] [2s]
+Lavokid: checks 
+xinnkeeper123: bets $0.18
+Lavokid: calls $0.18
+*** RIVER *** [6s 3s 5s 2s] [8d]
+Lavokid: bets $0.10
+xinnkeeper123: calls $0.10
+*** SHOW DOWN ***
+Lavokid: shows [8h Ks] (a flush, King high)
+xinnkeeper123: mucks hand 
+Lavokid collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [6s 3s 5s 2s 8d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) folded on the Flop
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 4: bred517 folded before Flop (didn't bet)
+Seat 5: Lavokid showed [8h Ks] and won ($0.72) with a flush, King high
+Seat 6: xinnkeeper123 (button) mucked [Js Qs]
+
+
+
+PokerStars Hand #213779039332:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:43:38 MSK [2020/05/12 22:43:38 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.22 in chips) 
+Seat 2: Sisi Capwell ($2.23 in chips) 
+Seat 3: adolfcord ($1.37 in chips) 
+Seat 4: bred517 ($0.51 in chips) 
+Seat 5: Lavokid ($1.33 in chips) 
+Seat 6: xinnkeeper123 ($0.97 in chips) 
+Sisi Capwell: posts small blind $0.01
+adolfcord: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 4c]
+bred517: calls $0.02
+Lavokid: folds 
+xinnkeeper123: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+adolfcord: calls $0.03
+bred517: calls $0.03
+xinnkeeper123: calls $0.03
+*** FLOP *** [3h Tc Qc]
+adolfcord: checks 
+bred517: bets $0.02
+xinnkeeper123: folds 
+lawlex_2: folds 
+adolfcord: calls $0.02
+*** TURN *** [3h Tc Qc] [6c]
+adolfcord: checks 
+bred517: bets $0.08
+adolfcord: folds 
+Uncalled bet ($0.08) returned to bred517
+bred517 collected $0.24 from pot
+bred517: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3h Tc Qc 6c]
+Seat 1: lawlex_2 (button) folded on the Flop
+Seat 2: Sisi Capwell (small blind) folded before Flop
+Seat 3: adolfcord (big blind) folded on the Turn
+Seat 4: bred517 collected ($0.24)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 folded on the Flop
+
+
+
+PokerStars Hand #213779086517:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:44:59 MSK [2020/05/12 22:44:59 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.17 in chips) 
+Seat 2: Sisi Capwell ($2.22 in chips) 
+Seat 3: adolfcord ($1.30 in chips) 
+Seat 4: bred517 ($0.68 in chips) 
+Seat 5: Lavokid ($1.33 in chips) 
+Seat 6: xinnkeeper123 ($0.92 in chips) 
+adolfcord: posts small blind $0.01
+bred517: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 3d]
+Lavokid: folds 
+xinnkeeper123: folds 
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+adolfcord: calls $0.04
+bred517: calls $0.03
+*** FLOP *** [Jh Kd 2d]
+adolfcord: checks 
+bred517: bets $0.08
+lawlex_2: folds 
+adolfcord: calls $0.08
+*** TURN *** [Jh Kd 2d] [3c]
+adolfcord: checks 
+bred517: bets $0.14
+adolfcord: calls $0.14
+*** RIVER *** [Jh Kd 2d 3c] [7c]
+adolfcord: checks 
+bred517: bets $0.12
+adolfcord: folds 
+Uncalled bet ($0.12) returned to bred517
+bred517 collected $0.57 from pot
+bred517: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [Jh Kd 2d 3c 7c]
+Seat 1: lawlex_2 folded on the Flop
+Seat 2: Sisi Capwell (button) folded before Flop (didn't bet)
+Seat 3: adolfcord (small blind) folded on the River
+Seat 4: bred517 (big blind) collected ($0.57)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779115371:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:45:56 MSK [2020/05/12 22:45:56 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.12 in chips) 
+Seat 2: Sisi Capwell ($2.22 in chips) 
+Seat 3: adolfcord ($1.03 in chips) 
+Seat 4: bred517 ($0.98 in chips) 
+Seat 5: Lavokid ($1.33 in chips) 
+Seat 6: xinnkeeper123 ($0.92 in chips) 
+bred517: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Kc]
+xinnkeeper123: folds 
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+adolfcord: calls $0.05
+bred517: calls $0.04
+Lavokid: folds 
+*** FLOP *** [8c Ks Ah]
+bred517: bets $0.04
+lawlex_2: raises $0.16 to $0.20
+adolfcord: folds 
+bred517: calls $0.16
+*** TURN *** [8c Ks Ah] [Th]
+bred517: bets $0.73 and is all-in
+lawlex_2: calls $0.73
+*** RIVER *** [8c Ks Ah Th] [Ad]
+*** SHOW DOWN ***
+bred517: shows [Qc Jc] (a straight, Ten to Ace)
+lawlex_2: shows [As Kc] (a full house, Aces full of Kings)
+lawlex_2 collected $1.96 from pot
+*** SUMMARY ***
+Total pot $2.03 | Rake $0.07 
+Board [8c Ks Ah Th Ad]
+Seat 1: lawlex_2 showed [As Kc] and won ($1.96) with a full house, Aces full of Kings
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: adolfcord (button) folded on the Flop
+Seat 4: bred517 (small blind) showed [Qc Jc] and lost with a straight, Ten to Ace
+Seat 5: Lavokid (big blind) folded before Flop
+Seat 6: xinnkeeper123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779144845:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:46:55 MSK [2020/05/12 22:46:55 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($3.10 in chips) 
+Seat 2: Sisi Capwell ($2.22 in chips) 
+Seat 3: adolfcord ($0.98 in chips) 
+Seat 5: Lavokid ($1.31 in chips) 
+Seat 6: xinnkeeper123 ($0.92 in chips) 
+xinnkeeper123: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 8c]
+Sisi Capwell: folds 
+adolfcord: folds 
+Lavokid: raises $0.02 to $0.04
+xinnkeeper123: calls $0.03
+lawlex_2: folds 
+*** FLOP *** [Tc 8h 5s]
+xinnkeeper123: checks 
+Lavokid: checks 
+*** TURN *** [Tc 8h 5s] [Kc]
+xinnkeeper123: bets $0.10
+Lavokid: calls $0.10
+*** RIVER *** [Tc 8h 5s Kc] [6s]
+xinnkeeper123: bets $0.28
+Lavokid: folds 
+Uncalled bet ($0.28) returned to xinnkeeper123
+xinnkeeper123 collected $0.29 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Tc 8h 5s Kc 6s]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded on the River
+Seat 6: xinnkeeper123 (small blind) collected ($0.29)
+
+
+
+PokerStars Hand #213779172865:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:47:32 MSK [2020/05/12 22:47:32 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($3.08 in chips) 
+Seat 2: Sisi Capwell ($2.22 in chips) 
+Seat 3: adolfcord ($0.98 in chips) 
+Seat 5: Lavokid ($1.17 in chips) 
+Seat 6: xinnkeeper123 ($1.07 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 3c]
+adolfcord: folds 
+Lavokid: folds 
+xinnkeeper123: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: checks 
+*** FLOP *** [Ac 9h As]
+Sisi Capwell: checks 
+xinnkeeper123: bets $0.02
+Sisi Capwell: folds 
+Uncalled bet ($0.02) returned to xinnkeeper123
+xinnkeeper123 collected $0.05 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac 9h As]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) folded on the Flop
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213779191710:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:48:10 MSK [2020/05/12 22:48:10 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($3.07 in chips) 
+Seat 2: Sisi Capwell ($2.20 in chips) 
+Seat 3: adolfcord ($0.98 in chips) 
+Seat 5: Lavokid ($1.17 in chips) 
+Seat 6: xinnkeeper123 ($1.10 in chips) 
+Sisi Capwell: posts small blind $0.01
+adolfcord: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Jc]
+Lavokid: folds 
+xinnkeeper123: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+adolfcord: folds 
+xinnkeeper123: calls $0.03
+*** FLOP *** [7h 9s Ts]
+xinnkeeper123: bets $0.12
+lawlex_2: folds 
+Uncalled bet ($0.12) returned to xinnkeeper123
+xinnkeeper123 collected $0.13 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7h 9s Ts]
+Seat 1: lawlex_2 (button) folded on the Flop
+Seat 2: Sisi Capwell (small blind) folded before Flop
+Seat 3: adolfcord (big blind) folded before Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 collected ($0.13)
+
+
+
+PokerStars Hand #213779206655:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:48:40 MSK [2020/05/12 22:48:40 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($3.02 in chips) 
+Seat 2: Sisi Capwell ($2.19 in chips) 
+Seat 3: adolfcord ($0.96 in chips) 
+Seat 5: Lavokid ($1.17 in chips) 
+Seat 6: xinnkeeper123 ($1.18 in chips) 
+adolfcord: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 7s]
+xinnkeeper123: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: folds 
+adolfcord: folds 
+Lavokid: checks 
+*** FLOP *** [Kc 3c Ac]
+Lavokid: bets $0.03
+xinnkeeper123: calls $0.03
+*** TURN *** [Kc 3c Ac] [2c]
+Lavokid: checks 
+xinnkeeper123: bets $0.10
+Lavokid: folds 
+Uncalled bet ($0.10) returned to xinnkeeper123
+xinnkeeper123 collected $0.11 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kc 3c Ac 2c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (button) folded before Flop (didn't bet)
+Seat 3: adolfcord (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded on the Turn
+Seat 6: xinnkeeper123 collected ($0.11)
+
+
+
+PokerStars Hand #213779222304:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:49:12 MSK [2020/05/12 22:49:12 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($3.02 in chips) 
+Seat 2: Sisi Capwell ($2.19 in chips) 
+Seat 3: adolfcord ($0.95 in chips) 
+Seat 5: Lavokid ($1.12 in chips) 
+Seat 6: xinnkeeper123 ($1.24 in chips) 
+Lavokid: posts small blind $0.01
+xinnkeeper123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 2c]
+lawlex_2: folds 
+Sisi Capwell: raises $0.04 to $0.06
+adolfcord: folds 
+Lavokid: folds 
+xinnkeeper123: folds 
+Uncalled bet ($0.04) returned to Sisi Capwell
+Sisi Capwell collected $0.05 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell collected ($0.05)
+Seat 3: adolfcord (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: xinnkeeper123 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213779234843:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:49:37 MSK [2020/05/12 22:49:37 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($3.02 in chips) 
+Seat 2: Sisi Capwell ($2.22 in chips) 
+Seat 3: adolfcord ($0.95 in chips) 
+Seat 5: Lavokid ($1.11 in chips) 
+Seat 6: xinnkeeper123 ($1.22 in chips) 
+xinnkeeper123: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Qd]
+Sisi Capwell: folds 
+adolfcord: calls $0.02
+Lavokid: raises $0.07 to $0.09
+xinnkeeper123: folds 
+lawlex_2: calls $0.07
+adolfcord: folds 
+*** FLOP *** [6h Qh 6d]
+lawlex_2: bets $0.13
+Lavokid: calls $0.13
+*** TURN *** [6h Qh 6d] [Js]
+lawlex_2: bets $0.30
+Lavokid: calls $0.30
+*** RIVER *** [6h Qh 6d Js] [7h]
+lawlex_2: checks 
+Lavokid: bets $0.40
+lawlex_2: calls $0.40
+*** SHOW DOWN ***
+Lavokid: shows [Jh Ah] (a flush, Ace high)
+lawlex_2: mucks hand 
+Lavokid collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.07 
+Board [6h Qh 6d Js 7h]
+Seat 1: lawlex_2 (big blind) mucked [As Qd]
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: adolfcord folded before Flop
+Seat 5: Lavokid (button) showed [Jh Ah] and won ($1.80) with a flush, Ace high
+Seat 6: xinnkeeper123 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213779272086:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:50:41 MSK [2020/05/12 22:50:41 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.10 in chips) 
+Seat 2: Sisi Capwell ($2.22 in chips) 
+Seat 3: adolfcord ($0.93 in chips) 
+Seat 5: Lavokid ($1.99 in chips) 
+Seat 6: xinnkeeper123 ($1.21 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Kh]
+adolfcord: folds 
+Lavokid: folds 
+xinnkeeper123: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Sisi Capwell
+Sisi Capwell collected $0.02 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) collected ($0.02)
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779278899:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:50:55 MSK [2020/05/12 22:50:55 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.09 in chips) 
+Seat 2: Sisi Capwell ($2.23 in chips) 
+Seat 3: adolfcord ($0.93 in chips) 
+Seat 5: Lavokid ($1.99 in chips) 
+Seat 6: xinnkeeper123 ($1.21 in chips) 
+Sisi Capwell: posts small blind $0.01
+adolfcord: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 6h]
+Lavokid: folds 
+xinnkeeper123: folds 
+lawlex_2: folds 
+Sisi Capwell: raises $0.04 to $0.06
+adolfcord: raises $0.04 to $0.10
+Sisi Capwell: calls $0.04
+*** FLOP *** [7s 7d Tc]
+Sisi Capwell: bets $0.06
+adolfcord: calls $0.06
+*** TURN *** [7s 7d Tc] [Ks]
+Sisi Capwell: bets $0.10
+adolfcord: calls $0.10
+*** RIVER *** [7s 7d Tc Ks] [Td]
+Sisi Capwell: checks 
+adolfcord: checks 
+*** SHOW DOWN ***
+Sisi Capwell: shows [8c Kh] (two pair, Kings and Tens)
+adolfcord: shows [Ac As] (two pair, Aces and Tens)
+adolfcord collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [7s 7d Tc Ks Td]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (small blind) showed [8c Kh] and lost with two pair, Kings and Tens
+Seat 3: adolfcord (big blind) showed [Ac As] and won ($0.50) with two pair, Aces and Tens
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779314328:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:52:07 MSK [2020/05/12 22:52:07 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.09 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: adolfcord ($1.17 in chips) 
+Seat 5: Lavokid ($1.99 in chips) 
+Seat 6: xinnkeeper123 ($1.21 in chips) 
+adolfcord: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Tc]
+xinnkeeper123: folds 
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+adolfcord: folds 
+Lavokid: calls $0.03
+*** FLOP *** [Ad Qd 8d]
+Lavokid: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to Lavokid
+Lavokid collected $0.11 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ad Qd 8d]
+Seat 1: lawlex_2 folded on the Flop
+Seat 2: Sisi Capwell (button) folded before Flop (didn't bet)
+Seat 3: adolfcord (small blind) folded before Flop
+Seat 5: Lavokid (big blind) collected ($0.11)
+Seat 6: xinnkeeper123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779339191:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:52:57 MSK [2020/05/12 22:52:57 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.04 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: adolfcord ($1.16 in chips) 
+Seat 5: Lavokid ($2.05 in chips) 
+Seat 6: xinnkeeper123 ($1.21 in chips) 
+Lavokid: posts small blind $0.01
+xinnkeeper123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Tc]
+lawlex_2: folds 
+Sisi Capwell: folds 
+adolfcord: calls $0.02
+Lavokid: raises $0.04 to $0.06
+xinnkeeper123: folds 
+adolfcord: folds 
+Uncalled bet ($0.04) returned to Lavokid
+Lavokid collected $0.06 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: adolfcord (button) folded before Flop
+Seat 5: Lavokid (small blind) collected ($0.06)
+Seat 6: xinnkeeper123 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213779351456:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:53:22 MSK [2020/05/12 22:53:22 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.04 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: adolfcord ($1.14 in chips) 
+Seat 5: Lavokid ($2.09 in chips) 
+Seat 6: xinnkeeper123 ($1.19 in chips) 
+xinnkeeper123: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 6h]
+Sisi Capwell: folds 
+adolfcord: folds 
+Lavokid: folds 
+xinnkeeper123: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (big blind) collected ($0.02)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213779354901:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:53:29 MSK [2020/05/12 22:53:29 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.05 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: adolfcord ($1.14 in chips) 
+Seat 5: Lavokid ($2.09 in chips) 
+Seat 6: xinnkeeper123 ($1.18 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Jc]
+adolfcord: folds 
+Lavokid: folds 
+xinnkeeper123: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Sisi Capwell
+Sisi Capwell collected $0.02 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) collected ($0.02)
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779359092:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:53:38 MSK [2020/05/12 22:53:38 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.04 in chips) 
+Seat 2: Sisi Capwell ($2.01 in chips) 
+Seat 3: adolfcord ($1.14 in chips) 
+Seat 5: Lavokid ($2.09 in chips) 
+Seat 6: xinnkeeper123 ($1.18 in chips) 
+Sisi Capwell: posts small blind $0.01
+adolfcord: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Qs]
+Lavokid: raises $0.02 to $0.04
+xinnkeeper123: calls $0.04
+lawlex_2: folds 
+Sisi Capwell: folds 
+adolfcord: folds 
+*** FLOP *** [Qh 5c Ts]
+Lavokid: checks 
+xinnkeeper123: bets $0.02
+Lavokid: calls $0.02
+*** TURN *** [Qh 5c Ts] [Kh]
+Lavokid: checks 
+xinnkeeper123: bets $0.06
+Lavokid: calls $0.06
+*** RIVER *** [Qh 5c Ts Kh] [8s]
+Lavokid: bets $0.08
+xinnkeeper123: raises $0.42 to $0.50
+Lavokid: folds 
+Uncalled bet ($0.42) returned to xinnkeeper123
+xinnkeeper123 collected $0.41 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Qh 5c Ts Kh 8s]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (small blind) folded before Flop
+Seat 3: adolfcord (big blind) folded before Flop
+Seat 5: Lavokid folded on the River
+Seat 6: xinnkeeper123 collected ($0.41)
+
+
+
+PokerStars Hand #213779402481:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:55:07 MSK [2020/05/12 22:55:07 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.04 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: adolfcord ($1.12 in chips) 
+Seat 5: Lavokid ($1.89 in chips) 
+Seat 6: xinnkeeper123 ($1.39 in chips) 
+adolfcord: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 4c]
+xinnkeeper123: folds 
+lawlex_2: folds 
+Sisi Capwell: folds 
+adolfcord: calls $0.01
+Lavokid: checks 
+*** FLOP *** [Kc 3h 8h]
+adolfcord: checks 
+Lavokid: checks 
+*** TURN *** [Kc 3h 8h] [2h]
+adolfcord: checks 
+Lavokid: checks 
+*** RIVER *** [Kc 3h 8h 2h] [5s]
+adolfcord: checks 
+Lavokid: checks 
+*** SHOW DOWN ***
+adolfcord: shows [Tc Jh] (high card King)
+Lavokid: shows [3s 4d] (a pair of Threes)
+Lavokid collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Kc 3h 8h 2h 5s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (button) folded before Flop (didn't bet)
+Seat 3: adolfcord (small blind) showed [Tc Jh] and lost with high card King
+Seat 5: Lavokid (big blind) showed [3s 4d] and won ($0.04) with a pair of Threes
+Seat 6: xinnkeeper123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779415674:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:55:42 MSK [2020/05/12 22:55:42 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.04 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: adolfcord ($1.10 in chips) 
+Seat 5: Lavokid ($1.91 in chips) 
+Seat 6: xinnkeeper123 ($1.39 in chips) 
+Lavokid: posts small blind $0.01
+xinnkeeper123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 9c]
+lawlex_2: folds 
+Sisi Capwell: folds 
+adolfcord: folds 
+Lavokid: calls $0.01
+xinnkeeper123: checks 
+*** FLOP *** [Qd Js Ad]
+Lavokid: bets $0.02
+xinnkeeper123: calls $0.02
+*** TURN *** [Qd Js Ad] [As]
+Lavokid: checks 
+xinnkeeper123: bets $0.08
+Lavokid: folds 
+Uncalled bet ($0.08) returned to xinnkeeper123
+xinnkeeper123 collected $0.08 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qd Js Ad As]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: adolfcord (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded on the Turn
+Seat 6: xinnkeeper123 (big blind) collected ($0.08)
+
+
+
+PokerStars Hand #213779441460:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:56:30 MSK [2020/05/12 22:56:30 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.04 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: adolfcord ($1.10 in chips) 
+Seat 5: Lavokid ($1.87 in chips) 
+Seat 6: xinnkeeper123 ($1.43 in chips) 
+xinnkeeper123: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 8c]
+Sisi Capwell: raises $0.03 to $0.05
+adolfcord: calls $0.05
+Lavokid: folds 
+xinnkeeper123: calls $0.04
+lawlex_2: folds 
+*** FLOP *** [2d 6s Qh]
+xinnkeeper123: checks 
+Sisi Capwell: bets $0.09
+adolfcord: calls $0.09
+xinnkeeper123: folds 
+*** TURN *** [2d 6s Qh] [4s]
+Sisi Capwell: checks 
+adolfcord: checks 
+*** RIVER *** [2d 6s Qh 4s] [Qd]
+Sisi Capwell: checks 
+adolfcord: checks 
+*** SHOW DOWN ***
+Sisi Capwell: shows [Ks Ah] (a pair of Queens)
+adolfcord: mucks hand 
+Sisi Capwell collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [2d 6s Qh 4s Qd]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Sisi Capwell showed [Ks Ah] and won ($0.34) with a pair of Queens
+Seat 3: adolfcord mucked [Ac Jd]
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213779456608:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:57:08 MSK [2020/05/12 22:57:08 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.02 in chips) 
+Seat 2: Sisi Capwell ($2.20 in chips) 
+Seat 3: adolfcord ($0.96 in chips) 
+Seat 5: Lavokid ($1.87 in chips) 
+Seat 6: xinnkeeper123 ($1.38 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 2h]
+adolfcord: folds 
+Lavokid: folds 
+xinnkeeper123: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: raises $0.06 to $0.08
+adolfcord leaves the table
+xinnkeeper123: calls $0.06
+*** FLOP *** [3d 6h Tc]
+Sisi Capwell: checks 
+xinnkeeper123: checks 
+*** TURN *** [3d 6h Tc] [2s]
+Sisi Capwell: checks 
+xinnkeeper123: bets $0.08
+Sisi Capwell: folds 
+Uncalled bet ($0.08) returned to xinnkeeper123
+xinnkeeper123 collected $0.16 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3d 6h Tc 2s]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) folded on the Turn
+Seat 3: adolfcord folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (button) collected ($0.16)
+
+
+
+PokerStars Hand #213779467329:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:57:36 MSK [2020/05/12 22:57:36 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.01 in chips) 
+Seat 2: Sisi Capwell ($2.12 in chips) 
+Seat 5: Lavokid ($1.87 in chips) 
+Seat 6: xinnkeeper123 ($1.46 in chips) 
+Sisi Capwell: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 8c]
+xinnkeeper123: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+Lavokid: calls $0.03
+xinnkeeper123: calls $0.03
+*** FLOP *** [7d 4c Ks]
+Lavokid: checks 
+xinnkeeper123: bets $0.14
+lawlex_2: folds 
+Lavokid: folds 
+Uncalled bet ($0.14) returned to xinnkeeper123
+xinnkeeper123 collected $0.15 from pot
+bred517 was removed from the table for failing to post
+bred517 leaves the table
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7d 4c Ks]
+Seat 1: lawlex_2 (button) folded on the Flop
+Seat 2: Sisi Capwell (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded on the Flop
+Seat 6: xinnkeeper123 collected ($0.15)
+
+
+
+PokerStars Hand #213779478076:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:58:03 MSK [2020/05/12 22:58:03 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.96 in chips) 
+Seat 2: Sisi Capwell ($2.11 in chips) 
+Seat 5: Lavokid ($1.82 in chips) 
+Seat 6: xinnkeeper123 ($1.56 in chips) 
+Lavokid: posts small blind $0.01
+xinnkeeper123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh As]
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+Lavokid: folds 
+xinnkeeper123: calls $0.03
+*** FLOP *** [Jc 9d Kh]
+xinnkeeper123: bets $0.10
+lawlex_2: calls $0.10
+*** TURN *** [Jc 9d Kh] [3d]
+xinnkeeper123: bets $0.30
+Hasebsc joins the table at seat #3 
+lawlex_2: folds 
+Uncalled bet ($0.30) returned to xinnkeeper123
+xinnkeeper123 collected $0.30 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Jc 9d Kh 3d]
+Seat 1: lawlex_2 folded on the Turn
+Seat 2: Sisi Capwell (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: xinnkeeper123 (big blind) collected ($0.30)
+
+
+
+PokerStars Hand #213779490009:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:58:34 MSK [2020/05/12 22:58:34 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.81 in chips) 
+Seat 2: Sisi Capwell ($2.11 in chips) 
+Seat 5: Lavokid ($1.81 in chips) 
+Seat 6: xinnkeeper123 ($1.71 in chips) 
+xinnkeeper123: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Hasebsc: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Ts]
+Sisi Capwell: folds 
+Lavokid: calls $0.02
+xinnkeeper123: folds 
+lawlex_2: checks 
+*** FLOP *** [5s 8h 2d]
+lawlex_2: checks 
+Lavokid: bets $0.04
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Lavokid
+Lavokid collected $0.05 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5s 8h 2d]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 5: Lavokid (button) collected ($0.05)
+Seat 6: xinnkeeper123 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213779496438:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:58:51 MSK [2020/05/12 22:58:51 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.79 in chips) 
+Seat 2: Sisi Capwell ($2.11 in chips) 
+Seat 5: Lavokid ($1.84 in chips) 
+Seat 6: xinnkeeper123 ($1.70 in chips) 
+lawlex_2: posts small blind $0.01
+llohlanda joins the table at seat #4 
+Sisi Capwell: posts big blind $0.02
+Hasebsc: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 3s]
+Lavokid: raises $0.04 to $0.06
+xinnkeeper123: folds 
+lawlex_2: folds 
+Sisi Capwell: folds 
+Uncalled bet ($0.04) returned to Lavokid
+Lavokid collected $0.05 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) folded before Flop
+Seat 5: Lavokid collected ($0.05)
+Seat 6: xinnkeeper123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779500682:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:59:01 MSK [2020/05/12 22:59:01 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.78 in chips) 
+Seat 2: Sisi Capwell ($2.09 in chips) 
+Seat 3: Hasebsc ($2 in chips) 
+Seat 5: Lavokid ($1.87 in chips) 
+Seat 6: xinnkeeper123 ($1.70 in chips) 
+Sisi Capwell: posts small blind $0.01
+Hasebsc: posts big blind $0.02
+llohlanda: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 3s]
+Lavokid: folds 
+xinnkeeper123: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: folds 
+Hasebsc: raises $0.08 to $0.10
+xinnkeeper123: calls $0.08
+*** FLOP *** [8d Ad 3d]
+Hasebsc: bets $0.08
+xinnkeeper123: folds 
+Uncalled bet ($0.08) returned to Hasebsc
+Hasebsc collected $0.20 from pot
+Hasebsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8d Ad 3d]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (small blind) folded before Flop
+Seat 3: Hasebsc (big blind) collected ($0.20)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 folded on the Flop
+
+
+
+PokerStars Hand #213779510018:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 5:59:26 MSK [2020/05/12 22:59:26 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.78 in chips) 
+Seat 2: Sisi Capwell ($2.08 in chips) 
+Seat 3: Hasebsc ($2.10 in chips) 
+Seat 4: llohlanda ($2 in chips) 
+Seat 5: Lavokid ($1.87 in chips) 
+Seat 6: xinnkeeper123 ($1.60 in chips) 
+Hasebsc: posts small blind $0.01
+llohlanda: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 4h]
+Lavokid: calls $0.02
+xinnkeeper123: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: calls $0.02
+Hasebsc: raises $0.08 to $0.10
+llohlanda: folds 
+Lavokid: folds 
+xinnkeeper123: calls $0.08
+Sisi Capwell: folds 
+*** FLOP *** [Js 7d Qd]
+Hasebsc: bets $0.08
+xinnkeeper123: folds 
+Uncalled bet ($0.08) returned to Hasebsc
+Hasebsc collected $0.25 from pot
+Hasebsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Js 7d Qd]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (button) folded before Flop
+Seat 3: Hasebsc (small blind) collected ($0.25)
+Seat 4: llohlanda (big blind) folded before Flop
+Seat 5: Lavokid folded before Flop
+Seat 6: xinnkeeper123 folded on the Flop
+
+
+
+PokerStars Hand #213779533785:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:00:24 MSK [2020/05/12 23:00:24 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.78 in chips) 
+Seat 2: Sisi Capwell ($2.06 in chips) 
+Seat 3: Hasebsc ($2.25 in chips) 
+Seat 4: llohlanda ($1.98 in chips) 
+Seat 5: Lavokid ($1.85 in chips) 
+Seat 6: xinnkeeper123 ($1.50 in chips) 
+llohlanda: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Ah]
+xinnkeeper123: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: calls $0.05
+Hasebsc: calls $0.05
+llohlanda: folds 
+Lavokid: folds 
+xinnkeeper123: calls $0.03
+*** FLOP *** [2h 3h Jc]
+xinnkeeper123: bets $0.06
+lawlex_2: calls $0.06
+Sisi Capwell: calls $0.06
+Hasebsc: folds 
+*** TURN *** [2h 3h Jc] [Ks]
+xinnkeeper123: bets $0.40
+lawlex_2: calls $0.40
+Sisi Capwell: folds 
+*** RIVER *** [2h 3h Jc Ks] [7d]
+xinnkeeper123: bets $0.99 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.99) returned to xinnkeeper123
+xinnkeeper123 collected $1.17 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.04 
+Board [2h 3h Jc Ks 7d]
+Seat 1: lawlex_2 folded on the River
+Seat 2: Sisi Capwell folded on the Turn
+Seat 3: Hasebsc (button) folded on the Flop
+Seat 4: llohlanda (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded before Flop
+Seat 6: xinnkeeper123 collected ($1.17)
+
+
+
+PokerStars Hand #213779562929:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:01:27 MSK [2020/05/12 23:01:27 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.27 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.20 in chips) 
+Seat 4: llohlanda ($1.97 in chips) 
+Seat 5: Lavokid ($1.83 in chips) 
+Seat 6: xinnkeeper123 ($2.16 in chips) 
+Lavokid: posts small blind $0.01
+xinnkeeper123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 9c]
+lawlex_2: folds 
+Sisi Capwell: folds 
+Hasebsc: raises $0.04 to $0.06
+llohlanda: folds 
+Lavokid: folds 
+xinnkeeper123: folds 
+Uncalled bet ($0.04) returned to Hasebsc
+Hasebsc collected $0.05 from pot
+Hasebsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: Hasebsc collected ($0.05)
+Seat 4: llohlanda (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: xinnkeeper123 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213779576756:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:01:57 MSK [2020/05/12 23:01:57 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.27 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.23 in chips) 
+Seat 4: llohlanda ($1.97 in chips) 
+Seat 5: Lavokid ($1.82 in chips) 
+Seat 6: xinnkeeper123 ($2.14 in chips) 
+xinnkeeper123: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 7h]
+Sisi Capwell: folds 
+Hasebsc: folds 
+llohlanda: folds 
+Lavokid: folds 
+xinnkeeper123: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+xinnkeeper123: calls $0.03
+*** FLOP *** [3d Kd 4h]
+xinnkeeper123: bets $0.10
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to xinnkeeper123
+xinnkeeper123 collected $0.10 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3d Kd 4h]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: Hasebsc folded before Flop (didn't bet)
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (small blind) collected ($0.10)
+
+
+
+PokerStars Hand #213779588756:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:02:22 MSK [2020/05/12 23:02:22 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.22 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.23 in chips) 
+Seat 4: llohlanda ($1.97 in chips) 
+Seat 5: Lavokid ($1.82 in chips) 
+Seat 6: xinnkeeper123 ($2.19 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Th]
+Hasebsc: folds 
+llohlanda: folds 
+Lavokid: calls $0.02
+xinnkeeper123: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+Lavokid: raises $1.77 to $1.82 and is all-in
+xinnkeeper123: folds 
+lawlex_2: calls $1.17 and is all-in
+Uncalled bet ($0.60) returned to Lavokid
+*** FLOP *** [Qd Js 6d]
+*** TURN *** [Qd Js 6d] [Jd]
+*** RIVER *** [Qd Js 6d Jd] [5d]
+*** SHOW DOWN ***
+lawlex_2: shows [Ts Th] (two pair, Jacks and Tens)
+Lavokid: shows [Td Tc] (a flush, Queen high)
+Lavokid collected $2.39 from pot
+*** SUMMARY ***
+Total pot $2.48 | Rake $0.09 
+Board [Qd Js 6d Jd 5d]
+Seat 1: lawlex_2 (small blind) showed [Ts Th] and lost with two pair, Jacks and Tens
+Seat 2: Sisi Capwell (big blind) folded before Flop
+Seat 3: Hasebsc folded before Flop (didn't bet)
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid showed [Td Tc] and won ($2.39) with a flush, Queen high
+Seat 6: xinnkeeper123 (button) folded before Flop
+
+
+
+PokerStars Hand #213779612615:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:03:12 MSK [2020/05/12 23:03:12 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.25 in chips) 
+Seat 4: llohlanda ($1.95 in chips) 
+Seat 5: Lavokid ($2.99 in chips) 
+Seat 6: xinnkeeper123 ($2.17 in chips) 
+llohlanda: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Th]
+xinnkeeper123: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: folds 
+Hasebsc: folds 
+llohlanda: folds 
+Lavokid: checks 
+*** FLOP *** [Ac 6h Kc]
+Lavokid: checks 
+xinnkeeper123: bets $0.04
+Lavokid: folds 
+Uncalled bet ($0.04) returned to xinnkeeper123
+xinnkeeper123 collected $0.05 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac 6h Kc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: Hasebsc (button) folded before Flop (didn't bet)
+Seat 4: llohlanda (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded on the Flop
+Seat 6: xinnkeeper123 collected ($0.05)
+
+
+
+PokerStars Hand #213779626830:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:03:42 MSK [2020/05/12 23:03:42 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.25 in chips) 
+Seat 4: llohlanda ($1.94 in chips) 
+Seat 5: Lavokid ($2.97 in chips) 
+Seat 6: xinnkeeper123 ($2.20 in chips) 
+Lavokid: posts small blind $0.01
+xinnkeeper123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 5d]
+lawlex_2: folds 
+Sisi Capwell: folds 
+Hasebsc: folds 
+llohlanda: folds 
+Lavokid: raises $0.08 to $0.10
+xinnkeeper123: folds 
+Uncalled bet ($0.08) returned to Lavokid
+Lavokid collected $0.04 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: Hasebsc folded before Flop (didn't bet)
+Seat 4: llohlanda (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) collected ($0.04)
+Seat 6: xinnkeeper123 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213779634183:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:03:58 MSK [2020/05/12 23:03:58 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.25 in chips) 
+Seat 4: llohlanda ($1.94 in chips) 
+Seat 5: Lavokid ($2.99 in chips) 
+Seat 6: xinnkeeper123 ($2.18 in chips) 
+xinnkeeper123: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 5s]
+Sisi Capwell: folds 
+Hasebsc: folds 
+llohlanda: calls $0.02
+Lavokid: folds 
+xinnkeeper123: folds 
+lawlex_2: checks 
+*** FLOP *** [3c 7c Ac]
+lawlex_2: bets $0.03
+llohlanda: calls $0.03
+*** TURN *** [3c 7c Ac] [2d]
+lawlex_2: bets $0.07
+llohlanda: calls $0.07
+*** RIVER *** [3c 7c Ac 2d] [As]
+lawlex_2: checks 
+llohlanda: bets $0.24
+lawlex_2: folds 
+Uncalled bet ($0.24) returned to llohlanda
+llohlanda collected $0.24 from pot
+llohlanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3c 7c Ac 2d As]
+Seat 1: lawlex_2 (big blind) folded on the River
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: Hasebsc folded before Flop (didn't bet)
+Seat 4: llohlanda collected ($0.24)
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213779647473:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:04:26 MSK [2020/05/12 23:04:26 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.88 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.25 in chips) 
+Seat 4: llohlanda ($2.06 in chips) 
+Seat 5: Lavokid ($2.99 in chips) 
+Seat 6: xinnkeeper123 ($2.17 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Kd]
+Hasebsc: folds 
+llohlanda: raises $0.02 to $0.04
+Lavokid: folds 
+xinnkeeper123: calls $0.04
+lawlex_2: folds 
+Sisi Capwell: calls $0.02
+*** FLOP *** [Ah Qs 7c]
+Sisi Capwell: checks 
+llohlanda: bets $0.07
+xinnkeeper123: calls $0.07
+Sisi Capwell: folds 
+*** TURN *** [Ah Qs 7c] [5c]
+llohlanda: checks 
+xinnkeeper123: bets $0.12
+llohlanda: calls $0.12
+*** RIVER *** [Ah Qs 7c 5c] [3d]
+llohlanda: checks 
+xinnkeeper123: bets $0.48
+llohlanda: folds 
+Uncalled bet ($0.48) returned to xinnkeeper123
+xinnkeeper123 collected $0.49 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Ah Qs 7c 5c 3d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) folded on the Flop
+Seat 3: Hasebsc folded before Flop (didn't bet)
+Seat 4: llohlanda folded on the River
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (button) collected ($0.49)
+
+
+
+PokerStars Hand #213779684775:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:05:25 MSK [2020/05/12 23:05:25 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.87 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.25 in chips) 
+Seat 4: llohlanda ($1.83 in chips) 
+Seat 5: Lavokid ($2.99 in chips) 
+Seat 6: xinnkeeper123 ($2.43 in chips) 
+Sisi Capwell: posts small blind $0.01
+Hasebsc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Kh]
+llohlanda: raises $0.05 to $0.07
+Lavokid: folds 
+xinnkeeper123: calls $0.07
+lawlex_2: folds 
+Sisi Capwell: folds 
+Hasebsc: folds 
+*** FLOP *** [3d 8h As]
+llohlanda: bets $0.08
+xinnkeeper123: calls $0.08
+*** TURN *** [3d 8h As] [8s]
+llohlanda: bets $0.16
+xinnkeeper123: calls $0.16
+*** RIVER *** [3d 8h As 8s] [4c]
+llohlanda: checks 
+xinnkeeper123: bets $0.62
+llohlanda: folds 
+Uncalled bet ($0.62) returned to xinnkeeper123
+xinnkeeper123 collected $0.63 from pot
+xinnkeeper123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [3d 8h As 8s 4c]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (small blind) folded before Flop
+Seat 3: Hasebsc (big blind) folded before Flop
+Seat 4: llohlanda folded on the River
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 collected ($0.63)
+
+
+
+PokerStars Hand #213779705609:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:06:09 MSK [2020/05/12 23:06:09 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.87 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.23 in chips) 
+Seat 4: llohlanda ($1.52 in chips) 
+Seat 5: Lavokid ($2.99 in chips) 
+Seat 6: xinnkeeper123 ($2.75 in chips) 
+Hasebsc: posts small blind $0.01
+llohlanda: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 4d]
+Lavokid: folds 
+xinnkeeper123: folds 
+lawlex_2: folds 
+Sisi Capwell: raises $0.04 to $0.06
+Hasebsc: folds 
+llohlanda: folds 
+Uncalled bet ($0.04) returned to Sisi Capwell
+Sisi Capwell collected $0.05 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (button) collected ($0.05)
+Seat 3: Hasebsc (small blind) folded before Flop
+Seat 4: llohlanda (big blind) folded before Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779711045:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:06:21 MSK [2020/05/12 23:06:21 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.87 in chips) 
+Seat 2: Sisi Capwell ($2.03 in chips) 
+Seat 3: Hasebsc ($2.22 in chips) 
+Seat 4: llohlanda ($1.50 in chips) 
+Seat 5: Lavokid ($2.99 in chips) 
+Seat 6: xinnkeeper123 ($2.75 in chips) 
+llohlanda: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Qc]
+xinnkeeper123: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: folds 
+Hasebsc: folds 
+llohlanda: folds 
+Lavokid: checks 
+*** FLOP *** [Ah 7c 7s]
+Lavokid: checks 
+xinnkeeper123: bets $0.04
+Lavokid: calls $0.04
+*** TURN *** [Ah 7c 7s] [Tc]
+Lavokid: bets $0.04
+xinnkeeper123: calls $0.04
+*** RIVER *** [Ah 7c 7s Tc] [3d]
+Lavokid: bets $0.26
+xinnkeeper123: calls $0.26
+*** SHOW DOWN ***
+Lavokid: shows [Kc 7d] (three of a kind, Sevens)
+xinnkeeper123: mucks hand 
+Lavokid collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Ah 7c 7s Tc 3d]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: Hasebsc (button) folded before Flop (didn't bet)
+Seat 4: llohlanda (small blind) folded before Flop
+Seat 5: Lavokid (big blind) showed [Kc 7d] and won ($0.70) with three of a kind, Sevens
+Seat 6: xinnkeeper123 mucked [Jh Ts]
+
+
+
+PokerStars Hand #213779731915:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:07:05 MSK [2020/05/12 23:07:05 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.87 in chips) 
+Seat 2: Sisi Capwell ($2.03 in chips) 
+Seat 3: Hasebsc ($2.22 in chips) 
+Seat 4: llohlanda ($1.49 in chips) 
+Seat 5: Lavokid ($3.33 in chips) 
+Seat 6: xinnkeeper123 ($2.39 in chips) 
+Lavokid: posts small blind $0.01
+xinnkeeper123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 6c]
+lawlex_2: folds 
+Sisi Capwell: raises $0.03 to $0.05
+Hasebsc: raises $0.13 to $0.18
+llohlanda: folds 
+Lavokid: folds 
+xinnkeeper123: folds 
+Sisi Capwell: folds 
+Uncalled bet ($0.13) returned to Hasebsc
+Hasebsc collected $0.13 from pot
+Hasebsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop
+Seat 3: Hasebsc collected ($0.13)
+Seat 4: llohlanda (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: xinnkeeper123 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213779744096:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:07:27 MSK [2020/05/12 23:07:27 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.87 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.30 in chips) 
+Seat 4: llohlanda ($1.49 in chips) 
+Seat 5: Lavokid ($3.32 in chips) 
+Seat 6: xinnkeeper123 ($2.37 in chips) 
+xinnkeeper123: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Ac]
+Sisi Capwell: folds 
+Hasebsc: folds 
+llohlanda: raises $0.04 to $0.06
+Lavokid: folds 
+xinnkeeper123: calls $0.05
+lawlex_2: calls $0.04
+*** FLOP *** [Kc 3s Tc]
+xinnkeeper123: bets $0.08
+lawlex_2: calls $0.08
+llohlanda: folds 
+*** TURN *** [Kc 3s Tc] [Ks]
+xinnkeeper123: bets $0.16
+lawlex_2: calls $0.16
+*** RIVER *** [Kc 3s Tc Ks] [2s]
+xinnkeeper123: bets $0.64
+lawlex_2: calls $0.64
+*** SHOW DOWN ***
+xinnkeeper123: shows [Js As] (a flush, Ace high)
+lawlex_2: mucks hand 
+xinnkeeper123 collected $1.87 from pot
+*** SUMMARY ***
+Total pot $1.94 | Rake $0.07 
+Board [Kc 3s Tc Ks 2s]
+Seat 1: lawlex_2 (big blind) mucked [Kd Ac]
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: Hasebsc folded before Flop (didn't bet)
+Seat 4: llohlanda folded on the Flop
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: xinnkeeper123 (small blind) showed [Js As] and won ($1.87) with a flush, Ace high
+
+
+
+PokerStars Hand #213779764083:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:08:09 MSK [2020/05/12 23:08:09 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.93 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2.30 in chips) 
+Seat 4: llohlanda ($1.43 in chips) 
+Seat 5: Lavokid ($3.32 in chips) 
+Seat 6: xinnkeeper123 ($3.30 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 2h]
+Hasebsc: raises $0.04 to $0.06
+llohlanda: folds 
+Lavokid: calls $0.06
+xinnkeeper123: folds 
+lawlex_2: folds 
+Sisi Capwell: folds 
+*** FLOP *** [9c Jh 5s]
+Hasebsc: bets $0.06
+Lavokid: raises $0.08 to $0.14
+xinnkeeper123 leaves the table
+Hasebsc: calls $0.08
+*** TURN *** [9c Jh 5s] [Js]
+Hasebsc: checks 
+Lavokid: checks 
+*** RIVER *** [9c Jh 5s Js] [6s]
+Hasebsc: checks 
+Lavokid: bets $0.16
+smanei joins the table at seat #6 
+Hasebsc: calls $0.16
+*** SHOW DOWN ***
+Lavokid: shows [Jc Ah] (three of a kind, Jacks)
+Hasebsc: mucks hand 
+Lavokid collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [9c Jh 5s Js 6s]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) folded before Flop
+Seat 3: Hasebsc mucked [As Kh]
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid showed [Jc Ah] and won ($0.72) with three of a kind, Jacks
+Seat 6: xinnkeeper123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779805120:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:09:37 MSK [2020/05/12 23:09:37 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.92 in chips) 
+Seat 2: Sisi Capwell ($2 in chips) 
+Seat 3: Hasebsc ($2 in chips) 
+Seat 4: llohlanda ($1.43 in chips) 
+Seat 5: Lavokid ($3.68 in chips) 
+Sisi Capwell: posts small blind $0.01
+Hasebsc: posts big blind $0.02
+smanei: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js As]
+llohlanda: folds 
+Lavokid: folds 
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: raises $0.10 to $0.15
+Hasebsc: folds 
+lawlex_2: calls $0.10
+*** FLOP *** [6h Kd 8d]
+Sisi Capwell: bets $0.17
+lawlex_2: folds 
+Uncalled bet ($0.17) returned to Sisi Capwell
+Sisi Capwell collected $0.31 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [6h Kd 8d]
+Seat 1: lawlex_2 (button) folded on the Flop
+Seat 2: Sisi Capwell (small blind) collected ($0.31)
+Seat 3: Hasebsc (big blind) folded before Flop
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779815181:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:09:59 MSK [2020/05/12 23:09:59 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.77 in chips) 
+Seat 2: Sisi Capwell ($2.16 in chips) 
+Seat 3: Hasebsc ($2 in chips) 
+Seat 4: llohlanda ($1.43 in chips) 
+Seat 5: Lavokid ($3.68 in chips) 
+Hasebsc: posts small blind $0.01
+llohlanda: posts big blind $0.02
+smanei: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc As]
+Lavokid: folds 
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+Hasebsc: folds 
+llohlanda: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: Sisi Capwell (button) folded before Flop (didn't bet)
+Seat 3: Hasebsc (small blind) folded before Flop
+Seat 4: llohlanda (big blind) folded before Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779821882:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:10:13 MSK [2020/05/12 23:10:13 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.80 in chips) 
+Seat 2: Sisi Capwell ($2.16 in chips) 
+Seat 3: Hasebsc ($2 in chips) 
+Seat 4: llohlanda ($1.41 in chips) 
+Seat 5: Lavokid ($3.68 in chips) 
+llohlanda: posts small blind $0.01
+Lavokid: posts big blind $0.02
+smanei: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Ks]
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+Hasebsc: folds 
+llohlanda: folds 
+Lavokid: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: Hasebsc (button) folded before Flop (didn't bet)
+Seat 4: llohlanda (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded before Flop
+
+
+
+PokerStars Hand #213779827824:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:10:26 MSK [2020/05/12 23:10:26 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.83 in chips) 
+Seat 2: Sisi Capwell ($2.16 in chips) 
+Seat 3: Hasebsc ($2 in chips) 
+Seat 4: llohlanda ($1.40 in chips) 
+Seat 5: Lavokid ($3.66 in chips) 
+Seat 6: smanei ($1.60 in chips) 
+Lavokid: posts small blind $0.01
+smanei: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 8h]
+lawlex_2: folds 
+Sisi Capwell: folds 
+Hasebsc: raises $0.04 to $0.06
+llohlanda: folds 
+Lavokid: folds 
+smanei: folds 
+Uncalled bet ($0.04) returned to Hasebsc
+Hasebsc collected $0.05 from pot
+Hasebsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: Hasebsc collected ($0.05)
+Seat 4: llohlanda (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: smanei (big blind) folded before Flop
+
+
+
+PokerStars Hand #213779839158:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:10:50 MSK [2020/05/12 23:10:50 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($0.83 in chips) 
+Seat 2: Sisi Capwell ($2.16 in chips) 
+Seat 3: Hasebsc ($2.03 in chips) 
+Seat 4: llohlanda ($1.40 in chips) 
+Seat 5: Lavokid ($3.65 in chips) 
+Seat 6: smanei ($1.58 in chips) 
+smanei: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 9c]
+Sisi Capwell: folds 
+Hasebsc: folds 
+llohlanda: raises $0.04 to $0.06
+Hasebsc leaves the table
+Lavokid: folds 
+smanei: calls $0.05
+lawlex_2: calls $0.04
+*** FLOP *** [4h 3c Jd]
+smanei: checks 
+lawlex_2: bets $0.11
+llohlanda: calls $0.11
+smanei: folds 
+*** TURN *** [4h 3c Jd] [8d]
+lawlex_2: bets $0.26
+llohlanda: calls $0.26
+*** RIVER *** [4h 3c Jd 8d] [5c]
+lawlex_2: bets $0.40 and is all-in
+llohlanda: folds 
+Uncalled bet ($0.40) returned to lawlex_2
+lawlex_2 collected $0.89 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [4h 3c Jd 8d 5c]
+Seat 1: lawlex_2 (big blind) collected ($0.89)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: Hasebsc folded before Flop (didn't bet)
+Seat 4: llohlanda folded on the River
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: smanei (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213779866162:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:11:43 MSK [2020/05/12 23:11:43 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.29 in chips) 
+Seat 2: Sisi Capwell ($2.16 in chips) 
+Seat 4: llohlanda ($0.97 in chips) 
+Seat 5: Lavokid ($3.65 in chips) 
+Seat 6: smanei ($1.52 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 7s]
+llohlanda: folds 
+Lavokid: folds 
+smanei: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: checks 
+*** FLOP *** [As Ac 4d]
+Sisi Capwell: checks 
+smanei: bets $0.06
+Sisi Capwell: folds 
+Uncalled bet ($0.06) returned to smanei
+smanei collected $0.05 from pot
+smanei: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As Ac 4d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) folded on the Flop
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei (button) collected ($0.05)
+
+
+
+PokerStars Hand #213779877325:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:12:07 MSK [2020/05/12 23:12:07 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.28 in chips) 
+Seat 2: Sisi Capwell ($2.14 in chips) 
+Seat 4: llohlanda ($0.97 in chips) 
+Seat 5: Lavokid ($3.65 in chips) 
+Seat 6: smanei ($1.55 in chips) 
+Sisi Capwell: posts small blind $0.01
+llohlanda: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 5c]
+Lavokid: folds 
+GoodmanAR joins the table at seat #3 
+smanei: folds 
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+llohlanda: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) collected ($0.05)
+Seat 2: Sisi Capwell (small blind) folded before Flop
+Seat 4: llohlanda (big blind) folded before Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779882752:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:12:19 MSK [2020/05/12 23:12:19 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.31 in chips) 
+Seat 2: Sisi Capwell ($2.13 in chips) 
+Seat 4: llohlanda ($0.95 in chips) 
+Seat 5: Lavokid ($3.65 in chips) 
+Seat 6: smanei ($1.55 in chips) 
+llohlanda: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 3h]
+smanei: folds 
+lawlex_2: folds 
+Sisi Capwell: folds 
+llohlanda: folds 
+Uncalled bet ($0.01) returned to Lavokid
+Lavokid collected $0.02 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (button) folded before Flop (didn't bet)
+Seat 4: llohlanda (small blind) folded before Flop
+Seat 5: Lavokid (big blind) collected ($0.02)
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779887795:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:12:30 MSK [2020/05/12 23:12:30 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.31 in chips) 
+Seat 2: Sisi Capwell ($2.13 in chips) 
+Seat 4: llohlanda ($0.94 in chips) 
+Seat 5: Lavokid ($3.66 in chips) 
+Seat 6: smanei ($1.55 in chips) 
+Lavokid: posts small blind $0.01
+smanei: posts big blind $0.02
+GoodmanAR: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Kd]
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+llohlanda: raises $0.03 to $0.08
+Lavokid: folds 
+smanei: folds 
+lawlex_2: calls $0.03
+*** FLOP *** [5h 3s Js]
+lawlex_2: checks 
+llohlanda: bets $0.09
+lawlex_2: folds 
+Uncalled bet ($0.09) returned to llohlanda
+llohlanda collected $0.18 from pot
+llohlanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h 3s Js]
+Seat 1: lawlex_2 folded on the Flop
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 4: llohlanda (button) collected ($0.18)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: smanei (big blind) folded before Flop
+
+
+
+PokerStars Hand #213779898435:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:12:53 MSK [2020/05/12 23:12:53 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.23 in chips) 
+Seat 2: Sisi Capwell ($2.13 in chips) 
+Seat 4: llohlanda ($1.04 in chips) 
+Seat 5: Lavokid ($3.65 in chips) 
+Seat 6: smanei ($1.53 in chips) 
+smanei: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+GoodmanAR: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Kd]
+Sisi Capwell: folds 
+llohlanda: folds 
+Lavokid: calls $0.02
+smanei: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [9d Jd Qs]
+smanei: checks 
+lawlex_2: checks 
+Lavokid: checks 
+*** TURN *** [9d Jd Qs] [Qc]
+smanei: bets $0.06
+lawlex_2: folds 
+Lavokid: folds 
+Uncalled bet ($0.06) returned to smanei
+smanei collected $0.06 from pot
+smanei: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9d Jd Qs Qc]
+Seat 1: lawlex_2 (big blind) folded on the Turn
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded on the Turn
+Seat 6: smanei (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #213779914268:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:13:27 MSK [2020/05/12 23:13:27 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.21 in chips) 
+Seat 2: Sisi Capwell ($2.13 in chips) 
+Seat 4: llohlanda ($1.04 in chips) 
+Seat 5: Lavokid ($3.63 in chips) 
+Seat 6: smanei ($1.57 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+GoodmanAR: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Qc]
+llohlanda: raises $0.02 to $0.04
+Lavokid: folds 
+smanei: calls $0.04
+lawlex_2: calls $0.03
+Sisi Capwell: folds 
+*** FLOP *** [4h Ac Ad]
+lawlex_2: checks 
+llohlanda: checks 
+smanei: checks 
+*** TURN *** [4h Ac Ad] [9h]
+lawlex_2: bets $0.09
+llohlanda: folds 
+smanei: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4h Ac Ad 9h]
+Seat 1: lawlex_2 (small blind) collected ($0.14)
+Seat 2: Sisi Capwell (big blind) folded before Flop
+Seat 4: llohlanda folded on the Turn
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei (button) folded on the Turn
+
+
+
+PokerStars Hand #213779940642:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:14:24 MSK [2020/05/12 23:14:24 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.31 in chips) 
+Seat 2: Sisi Capwell ($2.11 in chips) 
+Seat 3: GoodmanAR ($2 in chips) 
+Seat 4: llohlanda ($1 in chips) 
+Seat 5: Lavokid ($3.63 in chips) 
+Seat 6: smanei ($1.53 in chips) 
+Sisi Capwell: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Tc]
+llohlanda: folds 
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+Sisi Capwell: raises $0.04 to $0.06
+GoodmanAR: folds 
+Uncalled bet ($0.04) returned to Sisi Capwell
+Sisi Capwell collected $0.04 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (small blind) collected ($0.04)
+Seat 3: GoodmanAR (big blind) folded before Flop
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779947929:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:14:40 MSK [2020/05/12 23:14:40 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.31 in chips) 
+Seat 2: Sisi Capwell ($2.13 in chips) 
+Seat 3: GoodmanAR ($1.98 in chips) 
+Seat 4: llohlanda ($1 in chips) 
+Seat 5: Lavokid ($3.63 in chips) 
+Seat 6: smanei ($1.53 in chips) 
+GoodmanAR: posts small blind $0.01
+llohlanda: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 5d]
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+Sisi Capwell: raises $0.04 to $0.06
+GoodmanAR: folds 
+llohlanda: raises $0.04 to $0.10
+Sisi Capwell: calls $0.04
+*** FLOP *** [8d 6h 4c]
+llohlanda: checks 
+Sisi Capwell: checks 
+*** TURN *** [8d 6h 4c] [3c]
+llohlanda: bets $0.10
+Sisi Capwell: folds 
+Uncalled bet ($0.10) returned to llohlanda
+llohlanda collected $0.20 from pot
+llohlanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8d 6h 4c 3c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (button) folded on the Turn
+Seat 3: GoodmanAR (small blind) folded before Flop
+Seat 4: llohlanda (big blind) collected ($0.20)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779961060:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:15:08 MSK [2020/05/12 23:15:08 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.31 in chips) 
+Seat 2: Sisi Capwell ($2.03 in chips) 
+Seat 3: GoodmanAR ($1.97 in chips) 
+Seat 4: llohlanda ($1.10 in chips) 
+Seat 5: Lavokid ($3.63 in chips) 
+Seat 6: smanei ($1.53 in chips) 
+llohlanda: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Ad]
+smanei: folds 
+lawlex_2: calls $0.02
+Sisi Capwell: folds 
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: checks 
+*** FLOP *** [Td Js Ks]
+Lavokid: checks 
+lawlex_2: bets $0.03
+Lavokid: calls $0.03
+*** TURN *** [Td Js Ks] [9h]
+Lavokid: bets $0.06
+lawlex_2: calls $0.06
+*** RIVER *** [Td Js Ks 9h] [6c]
+Lavokid: bets $0.11
+lawlex_2: calls $0.11
+*** SHOW DOWN ***
+Lavokid: shows [9d Jc] (two pair, Jacks and Nines)
+lawlex_2: mucks hand 
+Lavokid collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Td Js Ks 9h 6c]
+Seat 1: lawlex_2 mucked [Ah Ad]
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 4: llohlanda (small blind) folded before Flop
+Seat 5: Lavokid (big blind) showed [9d Jc] and won ($0.43) with two pair, Jacks and Nines
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213779988178:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:15:51 MSK [2020/05/12 23:15:51 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.09 in chips) 
+Seat 2: Sisi Capwell ($2.03 in chips) 
+Seat 3: GoodmanAR ($1.97 in chips) 
+Seat 4: llohlanda ($1.09 in chips) 
+Seat 5: Lavokid ($3.84 in chips) 
+Seat 6: smanei ($1.53 in chips) 
+Lavokid: posts small blind $0.01
+smanei: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Qh]
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: folds 
+smanei: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: llohlanda (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: smanei (big blind) folded before Flop
+
+
+
+PokerStars Hand #213779998960:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:16:12 MSK [2020/05/12 23:16:12 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.12 in chips) 
+Seat 2: Sisi Capwell ($2.03 in chips) 
+Seat 3: GoodmanAR ($1.97 in chips) 
+Seat 4: llohlanda ($1.09 in chips) 
+Seat 5: Lavokid ($3.83 in chips) 
+Seat 6: smanei ($1.51 in chips) 
+smanei: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 8s]
+Sisi Capwell: raises $0.03 to $0.05
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to Sisi Capwell
+Sisi Capwell collected $0.05 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Sisi Capwell collected ($0.05)
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: smanei (small blind) folded before Flop
+
+
+
+PokerStars Hand #213780006776:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:16:28 MSK [2020/05/12 23:16:28 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.10 in chips) 
+Seat 2: Sisi Capwell ($2.06 in chips) 
+Seat 3: GoodmanAR ($1.97 in chips) 
+Seat 4: llohlanda ($1.09 in chips) 
+Seat 5: Lavokid ($3.83 in chips) 
+Seat 6: smanei ($1.50 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Jc]
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: folds 
+smanei: folds 
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: calls $0.03
+*** FLOP *** [Kh Kc 8h]
+lawlex_2: bets $0.07
+Sisi Capwell: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.10 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Kh Kc 8h]
+Seat 1: lawlex_2 (small blind) collected ($0.10)
+Seat 2: Sisi Capwell (big blind) folded on the Flop
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780023925:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:17:05 MSK [2020/05/12 23:17:05 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.15 in chips) 
+Seat 2: Sisi Capwell ($2.01 in chips) 
+Seat 3: GoodmanAR ($1.97 in chips) 
+Seat 4: llohlanda ($1.09 in chips) 
+Seat 5: Lavokid ($3.83 in chips) 
+Seat 6: smanei ($1.50 in chips) 
+Sisi Capwell: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 3h]
+llohlanda: folds 
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+Sisi Capwell: raises $0.04 to $0.06
+GoodmanAR: folds 
+Uncalled bet ($0.04) returned to Sisi Capwell
+Sisi Capwell collected $0.04 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (small blind) collected ($0.04)
+Seat 3: GoodmanAR (big blind) folded before Flop
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780030308:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:17:19 MSK [2020/05/12 23:17:19 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.15 in chips) 
+Seat 2: Sisi Capwell ($2.03 in chips) 
+Seat 3: GoodmanAR ($1.95 in chips) 
+Seat 4: llohlanda ($1.09 in chips) 
+Seat 5: Lavokid ($3.83 in chips) 
+Seat 6: smanei ($1.50 in chips) 
+GoodmanAR: posts small blind $0.01
+llohlanda: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Qs]
+Lavokid: folds 
+smanei: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: raises $0.06 to $0.08
+GoodmanAR: folds 
+llohlanda: folds 
+smanei: folds 
+Uncalled bet ($0.06) returned to Sisi Capwell
+Sisi Capwell collected $0.07 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (button) collected ($0.07)
+Seat 3: GoodmanAR (small blind) folded before Flop
+Seat 4: llohlanda (big blind) folded before Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei folded before Flop
+
+
+
+PokerStars Hand #213780043135:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:17:46 MSK [2020/05/12 23:17:46 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.15 in chips) 
+Seat 2: Sisi Capwell ($2.08 in chips) 
+Seat 3: GoodmanAR ($1.94 in chips) 
+Seat 4: llohlanda ($1.07 in chips) 
+Seat 5: Lavokid ($3.83 in chips) 
+Seat 6: smanei ($1.48 in chips) 
+llohlanda: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Tc]
+smanei: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Sisi Capwell: folds 
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: calls $0.03
+smanei: calls $0.03
+*** FLOP *** [6s Ks 9d]
+Lavokid: checks 
+smanei: checks 
+lawlex_2: checks 
+*** TURN *** [6s Ks 9d] [2s]
+Lavokid: checks 
+smanei: checks 
+lawlex_2: bets $0.10
+Lavokid: folds 
+smanei: folds 
+Uncalled bet ($0.10) returned to lawlex_2
+lawlex_2 collected $0.15 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6s Ks 9d 2s]
+Seat 1: lawlex_2 collected ($0.15)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 4: llohlanda (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded on the Turn
+Seat 6: smanei folded on the Turn
+
+
+
+PokerStars Hand #213780065014:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:18:33 MSK [2020/05/12 23:18:33 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.25 in chips) 
+Seat 2: Sisi Capwell ($2.08 in chips) 
+Seat 3: GoodmanAR ($1.94 in chips) 
+Seat 4: llohlanda ($1.06 in chips) 
+Seat 5: Lavokid ($3.78 in chips) 
+Seat 6: smanei ($1.43 in chips) 
+Lavokid: posts small blind $0.01
+smanei: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Jh]
+lawlex_2: folds 
+Sisi Capwell: folds 
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: raises $0.04 to $0.06
+smanei: folds 
+Uncalled bet ($0.04) returned to Lavokid
+Lavokid collected $0.04 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: llohlanda (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) collected ($0.04)
+Seat 6: smanei (big blind) folded before Flop
+
+
+
+PokerStars Hand #213780075944:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:18:49 MSK [2020/05/12 23:18:49 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.25 in chips) 
+Seat 2: Sisi Capwell ($2.08 in chips) 
+Seat 3: GoodmanAR ($1.94 in chips) 
+Seat 4: llohlanda ($1.06 in chips) 
+Seat 5: Lavokid ($3.80 in chips) 
+Seat 6: smanei ($1.41 in chips) 
+smanei: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 4h]
+Sisi Capwell: folds 
+GoodmanAR: raises $0.04 to $0.06
+llohlanda: raises $0.04 to $0.10
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+GoodmanAR: calls $0.04
+*** FLOP *** [4s 8s Qd]
+GoodmanAR: checks 
+llohlanda: bets $0.11
+GoodmanAR: calls $0.11
+*** TURN *** [4s 8s Qd] [9s]
+GoodmanAR: checks 
+llohlanda: bets $0.85 and is all-in
+GoodmanAR: calls $0.85
+*** RIVER *** [4s 8s Qd 9s] [5h]
+*** SHOW DOWN ***
+GoodmanAR: shows [Kh Qs] (a pair of Queens)
+llohlanda: shows [Qh Qc] (three of a kind, Queens)
+llohlanda collected $2.07 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.08 
+Board [4s 8s Qd 9s 5h]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: GoodmanAR showed [Kh Qs] and lost with a pair of Queens
+Seat 4: llohlanda showed [Qh Qc] and won ($2.07) with three of a kind, Queens
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: smanei (small blind) folded before Flop
+
+
+
+PokerStars Hand #213780111246:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:20:04 MSK [2020/05/12 23:20:04 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.23 in chips) 
+Seat 2: Sisi Capwell ($2.08 in chips) 
+Seat 3: GoodmanAR ($2 in chips) 
+Seat 4: llohlanda ($2.07 in chips) 
+Seat 5: Lavokid ($3.80 in chips) 
+Seat 6: smanei ($1.40 in chips) 
+lawlex_2: posts small blind $0.01
+Sisi Capwell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 4h]
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Sisi Capwell
+Sisi Capwell collected $0.02 from pot
+Sisi Capwell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Sisi Capwell (big blind) collected ($0.02)
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780116062:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:20:15 MSK [2020/05/12 23:20:15 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.22 in chips) 
+Seat 2: Sisi Capwell ($2.09 in chips) 
+Seat 3: GoodmanAR ($2 in chips) 
+Seat 4: llohlanda ($2.07 in chips) 
+Seat 5: Lavokid ($3.80 in chips) 
+Seat 6: smanei ($1.40 in chips) 
+Sisi Capwell: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 6d]
+llohlanda: folds 
+Lavokid: folds 
+smanei: calls $0.02
+lawlex_2: folds 
+Sisi Capwell: folds 
+GoodmanAR: checks 
+*** FLOP *** [8h 5c 6c]
+GoodmanAR: checks 
+smanei: bets $0.06
+GoodmanAR: folds 
+Uncalled bet ($0.06) returned to smanei
+smanei collected $0.05 from pot
+smanei: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h 5c 6c]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Sisi Capwell (small blind) folded before Flop
+Seat 3: GoodmanAR (big blind) folded on the Flop
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei collected ($0.05)
+
+
+
+PokerStars Hand #213780139287:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:21:05 MSK [2020/05/12 23:21:05 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.22 in chips) 
+Seat 3: GoodmanAR ($1.98 in chips) 
+Seat 4: llohlanda ($2.07 in chips) 
+Seat 5: Lavokid ($3.80 in chips) 
+Seat 6: smanei ($1.43 in chips) 
+llohlanda: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 9h]
+smanei: folds 
+lawlex_2: folds 
+GoodmanAR: folds 
+llohlanda: raises $0.04 to $0.06
+Lavokid: folds 
+Uncalled bet ($0.04) returned to llohlanda
+llohlanda collected $0.04 from pot
+llohlanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 3: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 4: llohlanda (small blind) collected ($0.04)
+Seat 5: Lavokid (big blind) folded before Flop
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780145355:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:21:18 MSK [2020/05/12 23:21:18 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.22 in chips) 
+Seat 2: Sisi Capwell ($2.08 in chips) 
+Seat 3: GoodmanAR ($1.98 in chips) 
+Seat 4: llohlanda ($2.09 in chips) 
+Seat 5: Lavokid ($3.78 in chips) 
+Seat 6: smanei ($1.43 in chips) 
+Lavokid: posts small blind $0.01
+smanei: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Qh]
+lawlex_2: folds 
+Sisi Capwell: folds 
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: folds 
+Uncalled bet ($0.01) returned to smanei
+smanei collected $0.02 from pot
+smanei: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: llohlanda (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: smanei (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213780155973:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:21:42 MSK [2020/05/12 23:21:42 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.22 in chips) 
+Seat 2: Sisi Capwell ($2.08 in chips) 
+Seat 3: GoodmanAR ($1.98 in chips) 
+Seat 4: llohlanda ($2.09 in chips) 
+Seat 5: Lavokid ($3.77 in chips) 
+Seat 6: smanei ($1.44 in chips) 
+smanei: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 2s]
+Sisi Capwell: folds 
+Sisi Capwell leaves the table
+GoodmanAR: folds 
+Steel_Wh33le joins the table at seat #2 
+llohlanda: calls $0.02
+Lavokid: calls $0.02
+smanei: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [2c Ah 7s]
+smanei: checks 
+lawlex_2: checks 
+llohlanda: bets $0.04
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to llohlanda
+llohlanda collected $0.08 from pot
+llohlanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2c Ah 7s]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: Sisi Capwell folded before Flop (didn't bet)
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: llohlanda collected ($0.08)
+Seat 5: Lavokid (button) folded on the Flop
+Seat 6: smanei (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213780174184:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:22:22 MSK [2020/05/12 23:22:22 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.20 in chips) 
+Seat 2: Steel_Wh33le ($2 in chips) 
+Seat 3: GoodmanAR ($1.98 in chips) 
+Seat 4: llohlanda ($2.15 in chips) 
+Seat 5: Lavokid ($3.75 in chips) 
+Seat 6: smanei ($1.42 in chips) 
+lawlex_2: posts small blind $0.01
+Steel_Wh33le: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac As]
+GoodmanAR: raises $0.04 to $0.06
+llohlanda: folds 
+Lavokid: folds 
+smanei: folds 
+lawlex_2: calls $0.05
+Steel_Wh33le: calls $0.04
+*** FLOP *** [6h 4s 5d]
+lawlex_2: bets $0.11
+Steel_Wh33le: folds 
+GoodmanAR: calls $0.11
+*** TURN *** [6h 4s 5d] [3c]
+lawlex_2: bets $0.26
+GoodmanAR: calls $0.26
+*** RIVER *** [6h 4s 5d 3c] [Qh]
+lawlex_2: checks 
+GoodmanAR: bets $0.46
+lawlex_2: calls $0.46
+*** SHOW DOWN ***
+GoodmanAR: shows [7d 7s] (a straight, Three to Seven)
+lawlex_2: mucks hand 
+GoodmanAR collected $1.78 from pot
+*** SUMMARY ***
+Total pot $1.84 | Rake $0.06 
+Board [6h 4s 5d 3c Qh]
+Seat 1: lawlex_2 (small blind) mucked [Ac As]
+Seat 2: Steel_Wh33le (big blind) folded on the Flop
+Seat 3: GoodmanAR showed [7d 7s] and won ($1.78) with a straight, Three to Seven
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780212205:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:23:45 MSK [2020/05/12 23:23:45 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.31 in chips) 
+Seat 2: Steel_Wh33le ($1.94 in chips) 
+Seat 3: GoodmanAR ($2.87 in chips) 
+Seat 4: llohlanda ($2.15 in chips) 
+Seat 5: Lavokid ($3.75 in chips) 
+Seat 6: smanei ($1.42 in chips) 
+Steel_Wh33le: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 2d]
+llohlanda: folds 
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+Steel_Wh33le: raises $0.04 to $0.06
+GoodmanAR: folds 
+Uncalled bet ($0.04) returned to Steel_Wh33le
+Steel_Wh33le collected $0.04 from pot
+Steel_Wh33le: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Steel_Wh33le (small blind) collected ($0.04)
+Seat 3: GoodmanAR (big blind) folded before Flop
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780221738:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:24:01 MSK [2020/05/12 23:24:01 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.31 in chips) 
+Seat 2: Steel_Wh33le ($1.96 in chips) 
+Seat 3: GoodmanAR ($2.85 in chips) 
+Seat 4: llohlanda ($2.15 in chips) 
+Seat 5: Lavokid ($3.75 in chips) 
+Seat 6: smanei ($1.42 in chips) 
+GoodmanAR: posts small blind $0.01
+llohlanda: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 4h]
+Lavokid: raises $0.08 to $0.10
+smanei: folds 
+lawlex_2: folds 
+Steel_Wh33le: folds 
+GoodmanAR: folds 
+llohlanda: folds 
+Uncalled bet ($0.08) returned to Lavokid
+Lavokid collected $0.05 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Steel_Wh33le (button) folded before Flop (didn't bet)
+Seat 3: GoodmanAR (small blind) folded before Flop
+Seat 4: llohlanda (big blind) folded before Flop
+Seat 5: Lavokid collected ($0.05)
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780229293:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:24:17 MSK [2020/05/12 23:24:17 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.31 in chips) 
+Seat 2: Steel_Wh33le ($1.96 in chips) 
+Seat 3: GoodmanAR ($2.84 in chips) 
+Seat 4: llohlanda ($2.13 in chips) 
+Seat 5: Lavokid ($3.78 in chips) 
+Seat 6: smanei ($1.42 in chips) 
+llohlanda: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 3h]
+smanei: folds 
+lawlex_2: folds 
+Steel_Wh33le: raises $0.05 to $0.07
+GoodmanAR: raises $0.15 to $0.22
+llohlanda: folds 
+Lavokid: folds 
+Steel_Wh33le: calls $0.15
+*** FLOP *** [Th 8s 3c]
+Steel_Wh33le: checks 
+GoodmanAR: bets $0.18
+Steel_Wh33le: folds 
+Uncalled bet ($0.18) returned to GoodmanAR
+GoodmanAR collected $0.45 from pot
+GoodmanAR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Th 8s 3c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Steel_Wh33le folded on the Flop
+Seat 3: GoodmanAR (button) collected ($0.45)
+Seat 4: llohlanda (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded before Flop
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780251157:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:25:05 MSK [2020/05/12 23:25:05 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.31 in chips) 
+Seat 2: Steel_Wh33le ($1.74 in chips) 
+Seat 3: GoodmanAR ($3.07 in chips) 
+Seat 4: llohlanda ($2.12 in chips) 
+Seat 5: Lavokid ($3.76 in chips) 
+Seat 6: smanei ($1.42 in chips) 
+Lavokid: posts small blind $0.01
+smanei: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Jc]
+lawlex_2: folds 
+Steel_Wh33le: calls $0.02
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: folds 
+smanei: checks 
+*** FLOP *** [4c Ah 8d]
+smanei: checks 
+Steel_Wh33le: checks 
+*** TURN *** [4c Ah 8d] [5d]
+smanei: bets $0.02
+Steel_Wh33le: calls $0.02
+*** RIVER *** [4c Ah 8d 5d] [Kh]
+smanei: bets $0.08
+Steel_Wh33le: folds 
+Uncalled bet ($0.08) returned to smanei
+smanei collected $0.09 from pot
+smanei: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4c Ah 8d 5d Kh]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Steel_Wh33le folded on the River
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: llohlanda (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: smanei (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #213780269825:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:25:47 MSK [2020/05/12 23:25:47 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($0.31 in chips) 
+Seat 2: Steel_Wh33le ($1.70 in chips) 
+Seat 3: GoodmanAR ($3.07 in chips) 
+Seat 4: llohlanda ($2.12 in chips) 
+Seat 5: Lavokid ($3.75 in chips) 
+Seat 6: smanei ($1.47 in chips) 
+smanei: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Td]
+Steel_Wh33le: calls $0.02
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: raises $0.04 to $0.06
+smanei: folds 
+lawlex_2: folds 
+Steel_Wh33le: calls $0.04
+*** FLOP *** [3s 2s 9d]
+Steel_Wh33le: checks 
+Lavokid: bets $0.14
+Steel_Wh33le: folds 
+Uncalled bet ($0.14) returned to Lavokid
+Lavokid collected $0.14 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3s 2s 9d]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Steel_Wh33le folded on the Flop
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid (button) collected ($0.14)
+Seat 6: smanei (small blind) folded before Flop
+
+
+
+PokerStars Hand #213780285714:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:26:21 MSK [2020/05/12 23:26:21 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.29 in chips) 
+Seat 2: Steel_Wh33le ($1.64 in chips) 
+Seat 3: GoodmanAR ($3.07 in chips) 
+Seat 4: llohlanda ($2.12 in chips) 
+Seat 5: Lavokid ($3.83 in chips) 
+Seat 6: smanei ($1.46 in chips) 
+lawlex_2: posts small blind $0.01
+Steel_Wh33le: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 9d]
+GoodmanAR: raises $0.04 to $0.06
+llohlanda: folds 
+Lavokid: folds 
+smanei: calls $0.06
+lawlex_2: folds 
+Steel_Wh33le: calls $0.04
+*** FLOP *** [2c Jh 4s]
+Steel_Wh33le: checks 
+GoodmanAR: checks 
+smanei: checks 
+*** TURN *** [2c Jh 4s] [Qh]
+Steel_Wh33le: checks 
+GoodmanAR: bets $0.08
+smanei: folds 
+Steel_Wh33le: folds 
+Uncalled bet ($0.08) returned to GoodmanAR
+GoodmanAR collected $0.18 from pot
+GoodmanAR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [2c Jh 4s Qh]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Steel_Wh33le (big blind) folded on the Turn
+Seat 3: GoodmanAR collected ($0.18)
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei (button) folded on the Turn
+
+
+
+PokerStars Hand #213780324409:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:27:17 MSK [2020/05/12 23:27:17 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.28 in chips) 
+Seat 2: Steel_Wh33le ($1.58 in chips) 
+Seat 3: GoodmanAR ($3.19 in chips) 
+Seat 4: llohlanda ($2.12 in chips) 
+Seat 5: Lavokid ($3.83 in chips) 
+Seat 6: smanei ($1.40 in chips) 
+Steel_Wh33le: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Kd]
+llohlanda: folds 
+Lavokid: folds 
+smanei: calls $0.02
+lawlex_2: folds 
+Steel_Wh33le: calls $0.01
+GoodmanAR: checks 
+*** FLOP *** [5d 3d Jd]
+Steel_Wh33le: checks 
+GoodmanAR: checks 
+smanei: checks 
+*** TURN *** [5d 3d Jd] [Td]
+Steel_Wh33le: checks 
+GoodmanAR: checks 
+smanei: checks 
+*** RIVER *** [5d 3d Jd Td] [Kc]
+Steel_Wh33le: checks 
+GoodmanAR: checks 
+smanei: bets $0.02
+Steel_Wh33le: folds 
+GoodmanAR: calls $0.02
+*** SHOW DOWN ***
+smanei: shows [2d 2s] (a flush, Jack high)
+GoodmanAR: mucks hand 
+smanei collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5d 3d Jd Td Kc]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Steel_Wh33le (small blind) folded on the River
+Seat 3: GoodmanAR (big blind) mucked [9c Qs]
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei showed [2d 2s] and won ($0.10) with a flush, Jack high
+
+
+
+PokerStars Hand #213780344647:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:28:01 MSK [2020/05/12 23:28:01 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.28 in chips) 
+Seat 2: Steel_Wh33le ($1.56 in chips) 
+Seat 3: GoodmanAR ($3.15 in chips) 
+Seat 4: llohlanda ($2.12 in chips) 
+Seat 5: Lavokid ($3.83 in chips) 
+Seat 6: smanei ($1.46 in chips) 
+GoodmanAR: posts small blind $0.01
+llohlanda: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 9s]
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+Steel_Wh33le: calls $0.02
+GoodmanAR: folds 
+llohlanda: checks 
+*** FLOP *** [6d Ks 9h]
+llohlanda: checks 
+Steel_Wh33le: bets $0.02
+llohlanda: folds 
+Uncalled bet ($0.02) returned to Steel_Wh33le
+Steel_Wh33le collected $0.05 from pot
+Steel_Wh33le: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6d Ks 9h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Steel_Wh33le (button) collected ($0.05)
+Seat 3: GoodmanAR (small blind) folded before Flop
+Seat 4: llohlanda (big blind) folded on the Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780353513:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:28:22 MSK [2020/05/12 23:28:22 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.28 in chips) 
+Seat 2: Steel_Wh33le ($1.59 in chips) 
+Seat 3: GoodmanAR ($3.14 in chips) 
+Seat 4: llohlanda ($2.10 in chips) 
+Seat 5: Lavokid ($3.83 in chips) 
+Seat 6: smanei ($1.46 in chips) 
+llohlanda: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Kc]
+smanei: folds 
+lawlex_2: raises $0.03 to $0.05
+Steel_Wh33le: calls $0.05
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: calls $0.03
+*** FLOP *** [As Qd Jh]
+Lavokid: checks 
+lawlex_2: bets $0.10
+Steel_Wh33le: folds 
+Lavokid: raises $0.18 to $0.28
+lawlex_2: calls $0.13 and is all-in
+Uncalled bet ($0.05) returned to Lavokid
+*** TURN *** [As Qd Jh] [9s]
+*** RIVER *** [As Qd Jh 9s] [Ac]
+*** SHOW DOWN ***
+Lavokid: shows [Qs Qh] (a full house, Queens full of Aces)
+lawlex_2: shows [Ah Kc] (three of a kind, Aces)
+Lavokid collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [As Qd Jh 9s Ac]
+Seat 1: lawlex_2 showed [Ah Kc] and lost with three of a kind, Aces
+Seat 2: Steel_Wh33le folded on the Flop
+Seat 3: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 4: llohlanda (small blind) folded before Flop
+Seat 5: Lavokid (big blind) showed [Qs Qh] and won ($0.60) with a full house, Queens full of Aces
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780395043:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:29:55 MSK [2020/05/12 23:29:55 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2 in chips) 
+Seat 2: Steel_Wh33le ($3.05 in chips) 
+Seat 3: GoodmanAR ($3.14 in chips) 
+Seat 4: llohlanda ($0.55 in chips) 
+Seat 5: Lavokid ($4.09 in chips) 
+Seat 6: smanei ($1.44 in chips) 
+smanei: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Kd]
+Steel_Wh33le: calls $0.02
+GoodmanAR: folds 
+llohlanda: folds 
+Lavokid: calls $0.02
+Lavokid said, ":O"
+smanei: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+Steel_Wh33le: calls $0.03
+Lavokid said, "full of bad beats this table"
+Lavokid: calls $0.03
+smanei: folds 
+*** FLOP *** [8d Jh 2c]
+llohlanda leaves the table
+lawlex_2: bets $0.11
+Steel_Wh33le: calls $0.11
+Lavokid: folds 
+*** TURN *** [8d Jh 2c] [3d]
+lawlex_2: bets $0.25
+Steel_Wh33le: folds 
+Uncalled bet ($0.25) returned to lawlex_2
+lawlex_2 collected $0.38 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [8d Jh 2c 3d]
+Seat 1: lawlex_2 (big blind) collected ($0.38)
+Seat 2: Steel_Wh33le folded on the Turn
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: llohlanda folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded on the Flop
+Seat 6: smanei (small blind) folded before Flop
+
+
+
+PokerStars Hand #213780420418:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:30:53 MSK [2020/05/12 23:30:53 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.22 in chips) 
+Seat 2: Steel_Wh33le ($2.89 in chips) 
+Seat 3: GoodmanAR ($3.14 in chips) 
+Seat 5: Lavokid ($4.04 in chips) 
+Seat 6: smanei ($1.42 in chips) 
+lawlex_2: posts small blind $0.01
+Steel_Wh33le: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 9s]
+GoodmanAR: folds 
+Lavokid: raises $0.08 to $0.10
+smanei: folds 
+lawlex_2: folds 
+Steel_Wh33le: folds 
+Uncalled bet ($0.08) returned to Lavokid
+Lavokid collected $0.05 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Steel_Wh33le (big blind) folded before Flop
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 5: Lavokid collected ($0.05)
+Seat 6: smanei (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780426284:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:31:07 MSK [2020/05/12 23:31:07 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.21 in chips) 
+Seat 2: Steel_Wh33le ($2.87 in chips) 
+Seat 3: GoodmanAR ($3.14 in chips) 
+Seat 5: Lavokid ($4.07 in chips) 
+Seat 6: smanei ($1.42 in chips) 
+Steel_Wh33le: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 5d]
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+lamparita20 joins the table at seat #4 
+Steel_Wh33le: raises $0.04 to $0.06
+GoodmanAR: calls $0.04
+*** FLOP *** [8d 2d As]
+Steel_Wh33le: bets $0.06
+GoodmanAR: calls $0.06
+*** TURN *** [8d 2d As] [3c]
+Steel_Wh33le: bets $0.08
+GoodmanAR: calls $0.08
+*** RIVER *** [8d 2d As 3c] [7s]
+Steel_Wh33le: bets $0.20
+GoodmanAR: calls $0.20
+*** SHOW DOWN ***
+Steel_Wh33le: shows [Tc Qc] (high card Ace)
+GoodmanAR: shows [Jh Ah] (a pair of Aces)
+GoodmanAR collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [8d 2d As 3c 7s]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Steel_Wh33le (small blind) showed [Tc Qc] and lost with high card Ace
+Seat 3: GoodmanAR (big blind) showed [Jh Ah] and won ($0.77) with a pair of Aces
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780449635:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:32:00 MSK [2020/05/12 23:32:00 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.21 in chips) 
+Seat 2: Steel_Wh33le ($2.47 in chips) 
+Seat 3: GoodmanAR ($3.51 in chips) 
+Seat 4: lamparita20 ($2 in chips) 
+Seat 5: Lavokid ($4.07 in chips) 
+Seat 6: smanei ($1.42 in chips) 
+GoodmanAR: posts small blind $0.01
+lamparita20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Jd]
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+Steel_Wh33le: calls $0.02
+GoodmanAR: folds 
+lamparita20: checks 
+*** FLOP *** [4d Jc 5c]
+lamparita20: checks 
+Steel_Wh33le: checks 
+*** TURN *** [4d Jc 5c] [2d]
+lamparita20: checks 
+Steel_Wh33le: checks 
+*** RIVER *** [4d Jc 5c 2d] [Kd]
+lamparita20: checks 
+Steel_Wh33le: bets $0.04
+lamparita20: folds 
+Uncalled bet ($0.04) returned to Steel_Wh33le
+Steel_Wh33le collected $0.05 from pot
+Steel_Wh33le: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4d Jc 5c 2d Kd]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Steel_Wh33le (button) collected ($0.05)
+Seat 3: GoodmanAR (small blind) folded before Flop
+Seat 4: lamparita20 (big blind) folded on the River
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780478964:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:33:07 MSK [2020/05/12 23:33:07 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.21 in chips) 
+Seat 2: Steel_Wh33le ($2.50 in chips) 
+Seat 3: GoodmanAR ($3.50 in chips) 
+Seat 4: lamparita20 ($1.98 in chips) 
+Seat 5: Lavokid ($4.07 in chips) 
+Seat 6: smanei ($1.42 in chips) 
+lamparita20: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 7d]
+smanei: folds 
+lawlex_2: raises $0.03 to $0.05
+Steel_Wh33le: calls $0.05
+GoodmanAR: folds 
+lamparita20: folds 
+Lavokid: folds 
+*** FLOP *** [Ah 3s Js]
+lawlex_2: checks 
+Steel_Wh33le: checks 
+*** TURN *** [Ah 3s Js] [Qc]
+lawlex_2: checks 
+Steel_Wh33le: checks 
+*** RIVER *** [Ah 3s Js Qc] [Jh]
+lawlex_2: checks 
+Steel_Wh33le: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [9d 7d] (a pair of Jacks)
+Steel_Wh33le: shows [Ts 8d] (a pair of Jacks - Ace+Queen+Ten kicker)
+Steel_Wh33le collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ah 3s Js Qc Jh]
+Seat 1: lawlex_2 showed [9d 7d] and lost with a pair of Jacks
+Seat 2: Steel_Wh33le showed [Ts 8d] and won ($0.13) with a pair of Jacks
+Seat 3: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 4: lamparita20 (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded before Flop
+Seat 6: smanei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780498578:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:33:51 MSK [2020/05/12 23:33:51 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.16 in chips) 
+Seat 2: Steel_Wh33le ($2.58 in chips) 
+Seat 3: GoodmanAR ($3.50 in chips) 
+Seat 4: lamparita20 ($1.97 in chips) 
+Seat 5: Lavokid ($4.05 in chips) 
+Seat 6: smanei ($1.42 in chips) 
+Lavokid: posts small blind $0.01
+smanei: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Ks]
+lawlex_2: folds 
+Steel_Wh33le: folds 
+GoodmanAR: folds 
+lamparita20: calls $0.02
+Lavokid: folds 
+smanei: checks 
+*** FLOP *** [Js 2s 8s]
+smanei: checks 
+lamparita20: bets $0.06
+smanei: folds 
+Uncalled bet ($0.06) returned to lamparita20
+lamparita20 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js 2s 8s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Steel_Wh33le folded before Flop (didn't bet)
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: lamparita20 (button) collected ($0.05)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: smanei (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213780513401:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:34:25 MSK [2020/05/12 23:34:25 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.16 in chips) 
+Seat 2: Steel_Wh33le ($2.58 in chips) 
+Seat 3: GoodmanAR ($3.50 in chips) 
+Seat 4: lamparita20 ($2 in chips) 
+Seat 5: Lavokid ($4.04 in chips) 
+Seat 6: smanei ($1.40 in chips) 
+smanei: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Th]
+Steel_Wh33le: calls $0.02
+GoodmanAR: folds 
+lamparita20: folds 
+Lavokid: calls $0.02
+smanei: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+Steel_Wh33le: calls $0.03
+Lavokid: calls $0.03
+smanei: folds 
+*** FLOP *** [6d 5h Qs]
+lawlex_2: bets $0.11
+Steel_Wh33le: folds 
+Lavokid: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.16 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6d 5h Qs]
+Seat 1: lawlex_2 (big blind) collected ($0.16)
+Seat 2: Steel_Wh33le folded on the Flop
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded on the Flop
+Seat 6: smanei (small blind) folded before Flop
+
+
+
+PokerStars Hand #213780531066:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:35:06 MSK [2020/05/12 23:35:06 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.27 in chips) 
+Seat 2: Steel_Wh33le ($2.53 in chips) 
+Seat 3: GoodmanAR ($3.50 in chips) 
+Seat 4: lamparita20 ($2 in chips) 
+Seat 5: Lavokid ($3.99 in chips) 
+Seat 6: smanei ($1.38 in chips) 
+lawlex_2: posts small blind $0.01
+Steel_Wh33le: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 8s]
+GoodmanAR: folds 
+lamparita20: raises $0.06 to $0.08
+Lavokid: folds 
+smanei: folds 
+lawlex_2: folds 
+smanei leaves the table
+Steel_Wh33le: calls $0.06
+*** FLOP *** [4d 5c Ah]
+Steel_Wh33le: checks 
+lamparita20: bets $0.12
+Steel_Wh33le: calls $0.12
+*** TURN *** [4d 5c Ah] [Th]
+Steel_Wh33le: checks 
+lamparita20: checks 
+*** RIVER *** [4d 5c Ah Th] [4s]
+Steel_Wh33le: checks 
+lamparita20: checks 
+*** SHOW DOWN ***
+Steel_Wh33le: shows [7h 3d] (a pair of Fours)
+lamparita20: shows [Kc Jc] (a pair of Fours - Ace+King kicker)
+lamparita20 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [4d 5c Ah Th 4s]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Steel_Wh33le (big blind) showed [7h 3d] and lost with a pair of Fours
+Seat 3: GoodmanAR folded before Flop (didn't bet)
+Seat 4: lamparita20 showed [Kc Jc] and won ($0.40) with a pair of Fours
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: smanei (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780561545:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:35:58 MSK [2020/05/12 23:35:58 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.26 in chips) 
+Seat 2: Steel_Wh33le ($2.33 in chips) 
+Seat 3: GoodmanAR ($3.50 in chips) 
+Seat 4: lamparita20 ($2.20 in chips) 
+Seat 5: Lavokid ($3.99 in chips) 
+Steel_Wh33le: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 7d]
+lamparita20: folds 
+Lavokid: calls $0.02
+lawlex_2: folds 
+Steel_Wh33le: calls $0.01
+GoodmanAR: raises $0.10 to $0.12
+Lavokid: folds 
+Steel_Wh33le: raises $0.10 to $0.22
+GoodmanAR: calls $0.10
+*** FLOP *** [9d 5d Jh]
+gavin1228 joins the table at seat #6 
+Steel_Wh33le: bets $0.02
+GoodmanAR: calls $0.02
+*** TURN *** [9d 5d Jh] [3d]
+Steel_Wh33le: bets $0.24
+GoodmanAR: folds 
+Uncalled bet ($0.24) returned to Steel_Wh33le
+Steel_Wh33le collected $0.48 from pot
+Steel_Wh33le: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [9d 5d Jh 3d]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Steel_Wh33le (small blind) collected ($0.48)
+Seat 3: GoodmanAR (big blind) folded on the Turn
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop
+
+
+
+PokerStars Hand #213780593355:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:37:12 MSK [2020/05/12 23:37:12 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.26 in chips) 
+Seat 4: lamparita20 ($2.20 in chips) 
+Seat 5: Lavokid ($3.97 in chips) 
+Seat 6: gavin1228 ($2 in chips) 
+GoodmanAR leaves the table
+Lavokid: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 8c]
+lawlex_2: folds 
+lamparita20: raises $0.04 to $0.06
+Lavokid: folds 
+gavin1228: raises $0.12 to $0.18
+lamparita20: calls $0.12
+*** FLOP *** [2d Ad Ts]
+gavin1228: bets $0.24
+lamparita20: folds 
+Uncalled bet ($0.24) returned to gavin1228
+gavin1228 collected $0.36 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [2d Ad Ts]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 4: lamparita20 (button) folded on the Flop
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) collected ($0.36)
+
+
+
+PokerStars Hand #213780608150:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:37:46 MSK [2020/05/12 23:37:46 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.26 in chips) 
+Seat 4: lamparita20 ($2.02 in chips) 
+Seat 5: Lavokid ($3.96 in chips) 
+Seat 6: gavin1228 ($2.18 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 6d]
+lamparita20: calls $0.02
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+lamparita20: calls $0.03
+*** FLOP *** [4d 9s 2d]
+lawlex_2: bets $0.07
+ChicSwilly joins the table at seat #3 
+lamparita20: calls $0.07
+*** TURN *** [4d 9s 2d] [7d]
+lawlex_2: bets $0.16
+lamparita20: calls $0.16
+*** RIVER *** [4d 9s 2d 7d] [Ac]
+lawlex_2: checks 
+lamparita20: bets $0.38
+lawlex_2: calls $0.38
+*** SHOW DOWN ***
+lamparita20: shows [Jd 3d] (a flush, Jack high)
+lawlex_2: mucks hand 
+lamparita20 collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.33 | Rake $0.05 
+Board [4d 9s 2d 7d Ac]
+Seat 1: lawlex_2 (big blind) mucked [As 6d]
+Seat 4: lamparita20 showed [Jd 3d] and won ($1.28) with a flush, Jack high
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213780628414:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:38:33 MSK [2020/05/12 23:38:33 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.60 in chips) 
+Seat 3: ChicSwilly ($1.60 in chips) 
+Seat 4: lamparita20 ($2.64 in chips) 
+Seat 5: Lavokid ($3.96 in chips) 
+Seat 6: gavin1228 ($2.17 in chips) 
+lawlex_2: posts small blind $0.01
+ChicSwilly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 5d]
+lamparita20: calls $0.02
+Lavokid: calls $0.02
+gavin1228: folds 
+lawlex_2: folds 
+ChicSwilly: folds 
+*** FLOP *** [Ac 6d 4h]
+ChicSwilly leaves the table
+lamparita20: bets $0.04
+Lavokid: calls $0.04
+*** TURN *** [Ac 6d 4h] [Qd]
+lamparita20: bets $0.06
+Lavokid: calls $0.06
+*** RIVER *** [Ac 6d 4h Qd] [8c]
+lamparita20: bets $0.10
+Lavokid: raises $0.14 to $0.24
+lamparita20: folds 
+Uncalled bet ($0.14) returned to Lavokid
+Lavokid collected $0.45 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Ac 6d 4h Qd 8c]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 3: ChicSwilly (big blind) folded before Flop
+Seat 4: lamparita20 folded on the River
+Seat 5: Lavokid collected ($0.45)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780655782:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:39:37 MSK [2020/05/12 23:39:37 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.59 in chips) 
+Seat 4: lamparita20 ($2.42 in chips) 
+Seat 5: Lavokid ($4.19 in chips) 
+Seat 6: gavin1228 ($2.17 in chips) 
+lamparita20: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 5h]
+gavin1228: folds 
+lawlex_2: folds 
+quitancito joins the table at seat #3 
+lamparita20: calls $0.01
+Lavokid: checks 
+*** FLOP *** [8h Ad Jd]
+lamparita20: checks 
+Lavokid: checks 
+*** TURN *** [8h Ad Jd] [3h]
+lamparita20: checks 
+Lavokid: checks 
+*** RIVER *** [8h Ad Jd 3h] [7h]
+lamparita20: checks 
+Lavokid: checks 
+*** SHOW DOWN ***
+lamparita20: shows [Ks 3s] (a pair of Threes)
+Lavokid: mucks hand 
+lamparita20 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8h Ad Jd 3h 7h]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: lamparita20 (small blind) showed [Ks 3s] and won ($0.04) with a pair of Threes
+Seat 5: Lavokid (big blind) mucked [4c 9h]
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780674138:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:40:19 MSK [2020/05/12 23:40:19 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.59 in chips) 
+Seat 4: lamparita20 ($2.44 in chips) 
+Seat 5: Lavokid ($4.17 in chips) 
+Seat 6: gavin1228 ($2.17 in chips) 
+Lavokid: posts small blind $0.01
+gavin1228: posts big blind $0.02
+quitancito: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 7h]
+lawlex_2: folds 
+lamparita20: folds 
+Lavokid: raises $0.02 to $0.04
+gavin1228: calls $0.02
+*** FLOP *** [Qh Qc 5h]
+Lavokid: bets $0.04
+gavin1228: folds 
+Uncalled bet ($0.04) returned to Lavokid
+Lavokid collected $0.08 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qh Qc 5h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 4: lamparita20 (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) collected ($0.08)
+Seat 6: gavin1228 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213780682633:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:40:39 MSK [2020/05/12 23:40:39 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.59 in chips) 
+Seat 4: lamparita20 ($2.44 in chips) 
+Seat 5: Lavokid ($4.21 in chips) 
+Seat 6: gavin1228 ($2.13 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+quitancito: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 4h]
+lamparita20: raises $0.04 to $0.06
+Lavokid: folds 
+gavin1228: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [4d Kh 3s]
+gavin1228: checks 
+lamparita20: checks 
+*** TURN *** [4d Kh 3s] [Ks]
+gavin1228: bets $0.10
+lamparita20: folds 
+Uncalled bet ($0.10) returned to gavin1228
+gavin1228 collected $0.14 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4d Kh 3s Ks]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 4: lamparita20 folded on the Turn
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #213780695301:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:41:09 MSK [2020/05/12 23:41:09 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.57 in chips) 
+Seat 3: quitancito ($2 in chips) 
+Seat 4: lamparita20 ($2.38 in chips) 
+Seat 5: Lavokid ($4.21 in chips) 
+Seat 6: gavin1228 ($2.21 in chips) 
+lawlex_2: posts small blind $0.01
+quitancito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 8h]
+lamparita20: folds 
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: calls $0.01
+quitancito: checks 
+*** FLOP *** [7s Qs 5h]
+lawlex_2: bets $0.03
+quitancito: calls $0.03
+*** TURN *** [7s Qs 5h] [As]
+lawlex_2: checks 
+quitancito: checks 
+*** RIVER *** [7s Qs 5h As] [Ad]
+lawlex_2: checks 
+quitancito: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to quitancito
+quitancito collected $0.10 from pot
+quitancito: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7s Qs 5h As Ad]
+Seat 1: lawlex_2 (small blind) folded on the River
+Seat 3: quitancito (big blind) collected ($0.10)
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780712539:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:41:50 MSK [2020/05/12 23:41:50 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.52 in chips) 
+Seat 3: quitancito ($2.05 in chips) 
+Seat 4: lamparita20 ($2.38 in chips) 
+Seat 5: Lavokid ($4.21 in chips) 
+Seat 6: gavin1228 ($2.21 in chips) 
+quitancito: posts small blind $0.01
+lamparita20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Tc]
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+quitancito: calls $0.04
+lamparita20: calls $0.03
+*** FLOP *** [As 2d 8h]
+quitancito: checks 
+lamparita20: checks 
+lawlex_2: bets $0.09
+quitancito: folds 
+lamparita20: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [As 2d 8h]
+Seat 1: lawlex_2 (button) collected ($0.14)
+Seat 3: quitancito (small blind) folded on the Flop
+Seat 4: lamparita20 (big blind) folded on the Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780726762:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:42:23 MSK [2020/05/12 23:42:23 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.61 in chips) 
+Seat 3: quitancito ($2 in chips) 
+Seat 4: lamparita20 ($2.33 in chips) 
+Seat 5: Lavokid ($4.21 in chips) 
+Seat 6: gavin1228 ($2.21 in chips) 
+lamparita20: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 4h]
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+quitancito: folds 
+lamparita20: folds 
+Lavokid: calls $0.03
+*** FLOP *** [Qh 6d Kd]
+Lavokid: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to Lavokid
+Lavokid collected $0.11 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qh 6d Kd]
+Seat 1: lawlex_2 folded on the Flop
+Seat 3: quitancito (button) folded before Flop (didn't bet)
+Seat 4: lamparita20 (small blind) folded before Flop
+Seat 5: Lavokid (big blind) collected ($0.11)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780741764:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:42:58 MSK [2020/05/12 23:42:58 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.56 in chips) 
+Seat 3: quitancito ($2 in chips) 
+Seat 4: lamparita20 ($2.32 in chips) 
+Seat 5: Lavokid ($4.27 in chips) 
+Seat 6: gavin1228 ($2.21 in chips) 
+Lavokid: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 8d]
+lawlex_2: folds 
+quitancito: folds 
+lamparita20: raises $0.04 to $0.06
+Lavokid: folds 
+gavin1228: folds 
+Uncalled bet ($0.04) returned to lamparita20
+lamparita20 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 3: quitancito folded before Flop (didn't bet)
+Seat 4: lamparita20 (button) collected ($0.05)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213780757553:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:43:19 MSK [2020/05/12 23:43:19 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.56 in chips) 
+Seat 3: quitancito ($2 in chips) 
+Seat 4: lamparita20 ($2.35 in chips) 
+Seat 5: Lavokid ($4.26 in chips) 
+Seat 6: gavin1228 ($2.19 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 6c]
+quitancito: folds 
+lamparita20: raises $0.06 to $0.08
+Lavokid: folds 
+gavin1228: calls $0.07
+lawlex_2: folds 
+*** FLOP *** [2s 3d Ts]
+gavin1228: bets $0.10
+lamparita20: calls $0.10
+*** TURN *** [2s 3d Ts] [Jh]
+gavin1228: checks 
+lamparita20: bets $0.22
+gavin1228: calls $0.22
+*** RIVER *** [2s 3d Ts Jh] [Ac]
+gavin1228: bets $1.79 and is all-in
+lamparita20: calls $1.79
+*** SHOW DOWN ***
+gavin1228: shows [Td Ad] (two pair, Aces and Tens)
+lamparita20: shows [Th Tc] (three of a kind, Tens)
+lamparita20 collected $4.25 from pot
+*** SUMMARY ***
+Total pot $4.40 | Rake $0.15 
+Board [2s 3d Ts Jh Ac]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 3: quitancito folded before Flop (didn't bet)
+Seat 4: lamparita20 showed [Th Tc] and won ($4.25) with three of a kind, Tens
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) showed [Td Ad] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #213780778759:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:44:10 MSK [2020/05/12 23:44:10 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 3: quitancito ($2 in chips) 
+Seat 4: lamparita20 ($4.41 in chips) 
+Seat 5: Lavokid ($4.26 in chips) 
+Seat 6: gavin1228 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+quitancito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 6d]
+lamparita20: raises $0.04 to $0.06
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: folds 
+quitancito: calls $0.04
+*** FLOP *** [3d 6c 9d]
+quitancito: checks 
+lamparita20: bets $0.08
+quitancito: folds 
+Uncalled bet ($0.08) returned to lamparita20
+lamparita20 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3d 6c 9d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 3: quitancito (big blind) folded on the Flop
+Seat 4: lamparita20 collected ($0.13)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780795431:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:44:49 MSK [2020/05/12 23:44:49 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.53 in chips) 
+Seat 3: quitancito ($1.94 in chips) 
+Seat 4: lamparita20 ($4.48 in chips) 
+Seat 5: Lavokid ($4.26 in chips) 
+Seat 6: gavin1228 ($2 in chips) 
+quitancito: posts small blind $0.01
+lamparita20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 8s]
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+quitancito: folds 
+lamparita20: calls $0.03
+*** FLOP *** [7s 9s 6d]
+lamparita20: checks 
+lawlex_2: bets $0.07
+lamparita20: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7s 9s 6d]
+Seat 1: lawlex_2 (button) collected ($0.11)
+Seat 3: quitancito (small blind) folded before Flop
+Seat 4: lamparita20 (big blind) folded on the Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780805934:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:45:14 MSK [2020/05/12 23:45:14 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.59 in chips) 
+Seat 3: quitancito ($1.93 in chips) 
+Seat 4: lamparita20 ($4.43 in chips) 
+Seat 5: Lavokid ($4.26 in chips) 
+Seat 6: gavin1228 ($2 in chips) 
+lamparita20: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 3s]
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+quitancito: raises $0.03 to $0.08
+lamparita20: folds 
+Lavokid: folds 
+lawlex_2: calls $0.03
+*** FLOP *** [2s 5d 6c]
+lawlex_2: checks 
+quitancito: bets $0.09
+lawlex_2: calls $0.09
+*** TURN *** [2s 5d 6c] [4h]
+lawlex_2: checks 
+quitancito: bets $0.18
+lawlex_2: raises $0.48 to $0.66
+quitancito: folds 
+Uncalled bet ($0.48) returned to lawlex_2
+lawlex_2 collected $0.70 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [2s 5d 6c 4h]
+Seat 1: lawlex_2 collected ($0.70)
+Seat 3: quitancito (button) folded on the Turn
+Seat 4: lamparita20 (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded before Flop
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780837018:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:46:10 MSK [2020/05/12 23:46:10 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.94 in chips) 
+Seat 3: quitancito ($1.58 in chips) 
+Seat 4: lamparita20 ($4.42 in chips) 
+Seat 5: Lavokid ($4.24 in chips) 
+Seat 6: gavin1228 ($2 in chips) 
+Lavokid: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 9c]
+lawlex_2: folds 
+quitancito: folds 
+lamparita20: folds 
+Lavokid: calls $0.01
+gavin1228: checks 
+*** FLOP *** [Ts Tc 2h]
+Lavokid: checks 
+gavin1228: checks 
+*** TURN *** [Ts Tc 2h] [As]
+Lavokid: checks 
+gavin1228: bets $0.02
+Lavokid: folds 
+Uncalled bet ($0.02) returned to gavin1228
+gavin1228 collected $0.04 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ts Tc 2h As]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 3: quitancito folded before Flop (didn't bet)
+Seat 4: lamparita20 (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded on the Turn
+Seat 6: gavin1228 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #213780849141:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:46:39 MSK [2020/05/12 23:46:39 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.94 in chips) 
+Seat 3: quitancito ($1.58 in chips) 
+Seat 4: lamparita20 ($4.42 in chips) 
+Seat 5: Lavokid ($4.22 in chips) 
+Seat 6: gavin1228 ($2.02 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Qc]
+quitancito: folds 
+lamparita20: folds 
+Lavokid: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to gavin1228
+gavin1228 collected $0.04 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 3: quitancito folded before Flop (didn't bet)
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213780857626:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:46:59 MSK [2020/05/12 23:46:59 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.92 in chips) 
+Seat 3: quitancito ($1.58 in chips) 
+Seat 4: lamparita20 ($4.42 in chips) 
+Seat 5: Lavokid ($4.22 in chips) 
+Seat 6: gavin1228 ($2.04 in chips) 
+lawlex_2: posts small blind $0.01
+quitancito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 8c]
+lamparita20: folds 
+Lavokid: raises $0.02 to $0.04
+gavin1228: folds 
+lawlex_2: folds 
+quitancito: folds 
+Uncalled bet ($0.02) returned to Lavokid
+Lavokid collected $0.05 from pot
+Steel_Wh33le was removed from the table for failing to post
+Steel_Wh33le leaves the table
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 3: quitancito (big blind) folded before Flop
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid collected ($0.05)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780862803:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:47:12 MSK [2020/05/12 23:47:12 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.91 in chips) 
+Seat 3: quitancito ($1.56 in chips) 
+Seat 4: lamparita20 ($4.42 in chips) 
+Seat 5: Lavokid ($4.25 in chips) 
+Seat 6: gavin1228 ($2.04 in chips) 
+quitancito: posts small blind $0.01
+lamparita20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 7d]
+Lavokid: folds 
+gavin1228: folds 
+LemonyA joins the table at seat #2 
+lawlex_2: folds 
+quitancito: calls $0.01
+lamparita20: raises $0.04 to $0.06
+quitancito: calls $0.04
+*** FLOP *** [4h Qs 3c]
+quitancito: checks 
+lamparita20: checks 
+*** TURN *** [4h Qs 3c] [Kh]
+quitancito: checks 
+lamparita20: checks 
+*** RIVER *** [4h Qs 3c Kh] [Ah]
+quitancito: bets $0.06
+lamparita20: calls $0.06
+*** SHOW DOWN ***
+quitancito: shows [8h 5c] (high card Ace)
+lamparita20: shows [As 9d] (a pair of Aces)
+lamparita20 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4h Qs 3c Kh Ah]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: quitancito (small blind) showed [8h 5c] and lost with high card Ace
+Seat 4: lamparita20 (big blind) showed [As 9d] and won ($0.23) with a pair of Aces
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780887447:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:48:11 MSK [2020/05/12 23:48:11 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.91 in chips) 
+Seat 3: quitancito ($1.44 in chips) 
+Seat 4: lamparita20 ($4.53 in chips) 
+Seat 5: Lavokid ($4.25 in chips) 
+Seat 6: gavin1228 ($2.04 in chips) 
+lamparita20: posts small blind $0.01
+Lavokid: posts big blind $0.02
+LemonyA: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Qc]
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+quitancito: folds 
+LemonyA leaves the table
+lamparita20: folds 
+Lavokid: calls $0.04
+*** FLOP *** [6c 9h Qs]
+Lavokid: bets $0.10
+gavin1228: raises $0.20 to $0.30
+Lavokid: folds 
+Uncalled bet ($0.20) returned to gavin1228
+gavin1228 collected $0.32 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6c 9h Qs]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 3: quitancito (button) folded before Flop (didn't bet)
+Seat 4: lamparita20 (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded on the Flop
+Seat 6: gavin1228 collected ($0.32)
+
+
+
+PokerStars Hand #213780902955:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:48:48 MSK [2020/05/12 23:48:48 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.91 in chips) 
+Seat 3: quitancito ($1.44 in chips) 
+Seat 4: lamparita20 ($4.52 in chips) 
+Seat 5: Lavokid ($4.09 in chips) 
+Seat 6: gavin1228 ($2.20 in chips) 
+Lavokid: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 4c]
+Lyonhearth joins the table at seat #2 
+lawlex_2: folds 
+quitancito: folds 
+lamparita20: calls $0.02
+Lavokid: folds 
+gavin1228: checks 
+*** FLOP *** [Td 7d Ts]
+gavin1228: checks 
+lamparita20: checks 
+*** TURN *** [Td 7d Ts] [3c]
+gavin1228: checks 
+lamparita20: checks 
+*** RIVER *** [Td 7d Ts 3c] [2d]
+gavin1228: checks 
+lamparita20: checks 
+*** SHOW DOWN ***
+gavin1228: shows [5s 6d] (a pair of Tens)
+lamparita20: shows [Js 4s] (a pair of Tens - Jack kicker)
+lamparita20 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Td 7d Ts 3c 2d]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 3: quitancito folded before Flop (didn't bet)
+Seat 4: lamparita20 (button) showed [Js 4s] and won ($0.05) with a pair of Tens
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) showed [5s 6d] and lost with a pair of Tens
+
+
+
+PokerStars Hand #213780916708:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:49:21 MSK [2020/05/12 23:49:21 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.91 in chips) 
+Seat 3: quitancito ($1.44 in chips) 
+Seat 4: lamparita20 ($4.55 in chips) 
+Seat 5: Lavokid ($4.08 in chips) 
+Seat 6: gavin1228 ($2.18 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Lyonhearth: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Js]
+quitancito: folds 
+lamparita20: calls $0.02
+Lavokid: calls $0.02
+gavin1228: folds 
+lawlex_2: checks 
+*** FLOP *** [Kc 6c Ac]
+lawlex_2: checks 
+lamparita20: bets $0.06
+Lavokid: calls $0.06
+lawlex_2: folds 
+*** TURN *** [Kc 6c Ac] [Th]
+lamparita20: bets $0.12
+Lavokid: calls $0.12
+*** RIVER *** [Kc 6c Ac Th] [Qc]
+lamparita20: bets $0.22
+Lavokid: raises $0.70 to $0.92
+lamparita20: calls $0.70
+*** SHOW DOWN ***
+Lavokid: shows [Jc Ts] (a flush, Ace high)
+lamparita20: mucks hand 
+Lavokid collected $2.19 from pot
+*** SUMMARY ***
+Total pot $2.27 | Rake $0.08 
+Board [Kc 6c Ac Th Qc]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 3: quitancito folded before Flop (didn't bet)
+Seat 4: lamparita20 mucked [2c 8c]
+Seat 5: Lavokid (button) showed [Jc Ts] and won ($2.19) with a flush, Ace high
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213780944541:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:50:29 MSK [2020/05/12 23:50:29 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.89 in chips) 
+Seat 2: Lyonhearth ($2 in chips) 
+Seat 3: quitancito ($1.44 in chips) 
+Seat 4: lamparita20 ($3.43 in chips) 
+Seat 5: Lavokid ($5.15 in chips) 
+Seat 6: gavin1228 ($2.17 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 6h]
+quitancito: folds 
+lamparita20: raises $0.04 to $0.06
+Lavokid: folds 
+gavin1228: calls $0.06
+lawlex_2: folds 
+Lyonhearth: calls $0.04
+*** FLOP *** [Js 3c As]
+Lyonhearth: checks 
+lamparita20: bets $0.12
+gavin1228: calls $0.12
+Lyonhearth: folds 
+*** TURN *** [Js 3c As] [Qs]
+lamparita20: bets $0.22
+gavin1228: folds 
+Uncalled bet ($0.22) returned to lamparita20
+lamparita20 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Js 3c As Qs]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded on the Flop
+Seat 3: quitancito folded before Flop (didn't bet)
+Seat 4: lamparita20 collected ($0.41)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded on the Turn
+
+
+
+PokerStars Hand #213780964909:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:51:19 MSK [2020/05/12 23:51:19 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.88 in chips) 
+Seat 2: Lyonhearth ($1.94 in chips) 
+Seat 3: quitancito ($1.44 in chips) 
+Seat 4: lamparita20 ($3.66 in chips) 
+Seat 5: Lavokid ($5.15 in chips) 
+Seat 6: gavin1228 ($2 in chips) 
+Lyonhearth: posts small blind $0.01
+quitancito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 2h]
+lamparita20: folds 
+Lavokid: raises $0.04 to $0.06
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+quitancito: folds 
+Uncalled bet ($0.04) returned to Lavokid
+Lavokid collected $0.05 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: quitancito (big blind) folded before Flop
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid collected ($0.05)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780976428:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:51:47 MSK [2020/05/12 23:51:47 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.88 in chips) 
+Seat 2: Lyonhearth ($1.93 in chips) 
+Seat 3: quitancito ($1.42 in chips) 
+Seat 4: lamparita20 ($3.66 in chips) 
+Seat 5: Lavokid ($5.18 in chips) 
+Seat 6: gavin1228 ($2 in chips) 
+quitancito: posts small blind $0.01
+lamparita20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Ah]
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+quitancito: raises $0.03 to $0.08
+lamparita20: folds 
+lawlex_2: calls $0.03
+*** FLOP *** [Qd Kh Js]
+quitancito: bets $0.02
+lawlex_2: raises $0.14 to $0.16
+quitancito: calls $0.14
+*** TURN *** [Qd Kh Js] [5s]
+quitancito: checks 
+lawlex_2: bets $0.32
+quitancito: raises $0.86 to $1.18 and is all-in
+lawlex_2: calls $0.86
+*** RIVER *** [Qd Kh Js 5s] [Th]
+*** SHOW DOWN ***
+quitancito: shows [Ac Qh] (a straight, Ten to Ace)
+lawlex_2: shows [Kc Ah] (a straight, Ten to Ace)
+lawlex_2 collected $1.38 from pot
+quitancito cashed out the hand for $0.26
+*** SUMMARY ***
+Total pot $2.86 | Rake $0.10 
+Board [Qd Kh Js 5s Th]
+Seat 1: lawlex_2 showed [Kc Ah] and won ($1.38) with a straight, Ten to Ace
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: quitancito (small blind) showed [Ac Qh] and won ($1.38) with a straight, Ten to Ace (pot not awarded as player cashed out)
+Seat 4: lamparita20 (big blind) folded before Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213780999252:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:52:43 MSK [2020/05/12 23:52:43 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.84 in chips) 
+Seat 2: Lyonhearth ($1.93 in chips) 
+Seat 3: quitancito ($0.26 in chips) 
+Seat 4: lamparita20 ($3.64 in chips) 
+Seat 5: Lavokid ($5.18 in chips) 
+Seat 6: gavin1228 ($2 in chips) 
+lamparita20: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Ah]
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+quitancito: folds 
+lamparita20: folds 
+Lavokid: calls $0.03
+*** FLOP *** [7h Jd 9c]
+Lavokid: checks 
+lawlex_2: checks 
+*** TURN *** [7h Jd 9c] [8d]
+Lavokid: bets $0.06
+lawlex_2: calls $0.06
+*** RIVER *** [7h Jd 9c 8d] [3h]
+Lavokid: bets $0.07
+lawlex_2: folds 
+Uncalled bet ($0.07) returned to Lavokid
+Lavokid collected $0.22 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [7h Jd 9c 8d 3h]
+Seat 1: lawlex_2 folded on the River
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: quitancito (button) folded before Flop (didn't bet)
+Seat 4: lamparita20 (small blind) folded before Flop
+Seat 5: Lavokid (big blind) collected ($0.22)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781016755:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:53:26 MSK [2020/05/12 23:53:26 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.73 in chips) 
+Seat 2: Lyonhearth ($1.93 in chips) 
+Seat 3: quitancito ($0.26 in chips) 
+Seat 4: lamparita20 ($3.63 in chips) 
+Seat 5: Lavokid ($5.29 in chips) 
+Seat 6: gavin1228 ($2 in chips) 
+Lavokid: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Ad]
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+quitancito: raises $0.21 to $0.26 and is all-in
+lamparita20: folds 
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: calls $0.21
+*** FLOP *** [6c 3d 3s]
+*** TURN *** [6c 3d 3s] [5c]
+*** RIVER *** [6c 3d 3s 5c] [Qh]
+*** SHOW DOWN ***
+lawlex_2: shows [9s Ad] (a pair of Threes)
+quitancito: shows [As 9h] (a pair of Threes)
+lawlex_2 collected $0.27 from pot
+quitancito collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [6c 3d 3s 5c Qh]
+Seat 1: lawlex_2 showed [9s Ad] and won ($0.27) with a pair of Threes
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: quitancito showed [As 9h] and won ($0.26) with a pair of Threes
+Seat 4: lamparita20 (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213781030144:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:53:59 MSK [2020/05/12 23:53:59 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.74 in chips) 
+Seat 2: Lyonhearth ($1.93 in chips) 
+Seat 3: quitancito ($0.26 in chips) 
+Seat 4: lamparita20 ($3.63 in chips) 
+Seat 5: Lavokid ($5.28 in chips) 
+Seat 6: gavin1228 ($2 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 6h]
+Lyonhearth: folds 
+quitancito: folds 
+lamparita20: folds 
+Lavokid: calls $0.02
+gavin1228: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Ad 9s 2d]
+gavin1228: checks 
+lawlex_2: checks 
+Lavokid: bets $0.02
+gavin1228: raises $0.02 to $0.04
+lawlex_2: folds 
+Lavokid: calls $0.02
+*** TURN *** [Ad 9s 2d] [2s]
+gavin1228: bets $0.10
+Lavokid: folds 
+Uncalled bet ($0.10) returned to gavin1228
+gavin1228 collected $0.14 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ad 9s 2d 2s]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: quitancito folded before Flop (didn't bet)
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded on the Turn
+Seat 6: gavin1228 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #213781048074:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:54:43 MSK [2020/05/12 23:54:43 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.72 in chips) 
+Seat 2: Lyonhearth ($1.93 in chips) 
+Seat 3: quitancito ($0.26 in chips) 
+Seat 4: lamparita20 ($3.63 in chips) 
+Seat 5: Lavokid ($5.22 in chips) 
+Seat 6: gavin1228 ($2.08 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 5s]
+quitancito: calls $0.02
+lamparita20: folds 
+Lavokid: raises $0.04 to $0.06
+gavin1228: calls $0.06
+lawlex_2: folds 
+Lyonhearth: calls $0.04
+quitancito: calls $0.04
+*** FLOP *** [2c 3d 7c]
+Lyonhearth: checks 
+quitancito: checks 
+Lavokid: checks 
+gavin1228: bets $0.20
+Lyonhearth: folds 
+quitancito: folds 
+Lavokid: folds 
+Uncalled bet ($0.20) returned to gavin1228
+gavin1228 collected $0.24 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2c 3d 7c]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded on the Flop
+Seat 3: quitancito folded on the Flop
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid folded on the Flop
+Seat 6: gavin1228 (button) collected ($0.24)
+
+
+
+PokerStars Hand #213781070465:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:55:47 MSK [2020/05/12 23:55:47 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.71 in chips) 
+Seat 2: Lyonhearth ($1.87 in chips) 
+Seat 3: quitancito ($0.20 in chips) 
+Seat 4: lamparita20 ($3.63 in chips) 
+Seat 5: Lavokid ($5.16 in chips) 
+Seat 6: gavin1228 ($2.26 in chips) 
+Lyonhearth: posts small blind $0.01
+quitancito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Tc]
+lamparita20: folds 
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.01) returned to quitancito
+quitancito collected $0.02 from pot
+quitancito: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: quitancito (big blind) collected ($0.02)
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781074234:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:55:59 MSK [2020/05/12 23:55:59 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.71 in chips) 
+Seat 2: Lyonhearth ($1.86 in chips) 
+Seat 3: quitancito ($0.21 in chips) 
+Seat 4: lamparita20 ($3.63 in chips) 
+Seat 5: Lavokid ($5.16 in chips) 
+Seat 6: gavin1228 ($2.26 in chips) 
+quitancito: posts small blind $0.01
+lamparita20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 9d]
+Lavokid: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+quitancito: raises $0.04 to $0.10
+lamparita20: folds 
+gavin1228: calls $0.04
+*** FLOP *** [2h Js Ks]
+quitancito: checks 
+gavin1228: bets $0.12
+quitancito: calls $0.11 and is all-in
+Uncalled bet ($0.01) returned to gavin1228
+*** TURN *** [2h Js Ks] [5s]
+*** RIVER *** [2h Js Ks 5s] [Td]
+*** SHOW DOWN ***
+quitancito: shows [Ah 2s] (a pair of Deuces)
+gavin1228: shows [Qc Jh] (a pair of Jacks)
+gavin1228 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [2h Js Ks 5s Td]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: quitancito (small blind) showed [Ah 2s] and lost with a pair of Deuces
+Seat 4: lamparita20 (big blind) folded before Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 showed [Qc Jh] and won ($0.42) with a pair of Jacks
+
+
+
+PokerStars Hand #213781085318:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:56:33 MSK [2020/05/12 23:56:33 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.71 in chips) 
+Seat 2: Lyonhearth ($1.86 in chips) 
+Seat 4: lamparita20 ($3.61 in chips) 
+Seat 5: Lavokid ($5.16 in chips) 
+Seat 6: gavin1228 ($2.47 in chips) 
+Lavokid: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Jh]
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+lamparita20: folds 
+Lavokid: calls $0.04
+gavin1228: calls $0.03
+*** FLOP *** [Ah Kh Ac]
+Lavokid: checks 
+gavin1228: checks 
+lawlex_2: checks 
+*** TURN *** [Ah Kh Ac] [9c]
+Lavokid: bets $0.04
+gavin1228: calls $0.04
+lawlex_2: calls $0.04
+*** RIVER *** [Ah Kh Ac 9c] [4d]
+Lavokid: bets $0.08
+gavin1228: folds 
+lawlex_2: calls $0.08
+*** SHOW DOWN ***
+Lavokid: shows [Tc Ts] (two pair, Aces and Tens)
+lawlex_2: shows [Jd Jh] (two pair, Aces and Jacks)
+lawlex_2 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Ah Kh Ac 9c 4d]
+Seat 1: lawlex_2 showed [Jd Jh] and won ($0.41) with two pair, Aces and Jacks
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lamparita20 (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) showed [Tc Ts] and lost with two pair, Aces and Tens
+Seat 6: gavin1228 (big blind) folded on the River
+
+
+
+PokerStars Hand #213781102221:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:57:25 MSK [2020/05/12 23:57:25 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.95 in chips) 
+Seat 2: Lyonhearth ($1.86 in chips) 
+Seat 3: quitancito ($1.14 in chips) 
+Seat 4: lamparita20 ($3.61 in chips) 
+Seat 5: Lavokid ($4.99 in chips) 
+gavin1228 has timed out
+gavin1228: is sitting out 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Ts]
+quitancito: folds 
+lamparita20: calls $0.02
+Lavokid: folds 
+lawlex_2: raises $0.03 to $0.05
+gavin1228 is disconnected 
+Lyonhearth: calls $0.03
+lamparita20: calls $0.03
+*** FLOP *** [3h 8d Ad]
+lawlex_2: bets $0.09
+Lyonhearth: calls $0.09
+lamparita20: calls $0.09
+*** TURN *** [3h 8d Ad] [4c]
+lawlex_2: bets $0.27
+Lyonhearth: folds 
+lamparita20: calls $0.27
+*** RIVER *** [3h 8d Ad 4c] [Td]
+lawlex_2: bets $0.61
+lamparita20: folds 
+Uncalled bet ($0.61) returned to lawlex_2
+lawlex_2 collected $0.93 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.03 
+Board [3h 8d Ad 4c Td]
+Seat 1: lawlex_2 (small blind) collected ($0.93)
+Seat 2: Lyonhearth (big blind) folded on the Turn
+Seat 3: quitancito folded before Flop (didn't bet)
+Seat 4: lamparita20 folded on the River
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781134921:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:58:40 MSK [2020/05/12 23:58:40 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.47 in chips) 
+Seat 2: Lyonhearth ($1.72 in chips) 
+Seat 3: quitancito ($1.14 in chips) 
+Seat 4: lamparita20 ($3.20 in chips) 
+Seat 5: Lavokid ($4.99 in chips) 
+Seat 6: gavin1228 ($2.38 in chips) 
+Lyonhearth: posts small blind $0.01
+quitancito: posts big blind $0.02
+gavin1228: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 2h]
+lamparita20: folds 
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.01) returned to quitancito
+quitancito collected $0.03 from pot
+quitancito: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.03 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: quitancito (big blind) collected ($0.03)
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781139386:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:58:54 MSK [2020/05/12 23:58:54 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.47 in chips) 
+Seat 2: Lyonhearth ($1.71 in chips) 
+Seat 3: quitancito ($1.16 in chips) 
+Seat 4: lamparita20 ($3.20 in chips) 
+Seat 5: Lavokid ($4.99 in chips) 
+Seat 6: gavin1228 ($2.37 in chips) 
+quitancito: posts small blind $0.01
+lamparita20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Kc]
+Lavokid: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+quitancito: raises $0.04 to $0.10
+lamparita20: folds 
+gavin1228: raises $0.26 to $0.36
+quitancito: calls $0.26
+*** FLOP *** [6c Td 2c]
+quitancito: checks 
+gavin1228: bets $0.80
+quitancito: calls $0.80 and is all-in
+*** TURN *** [6c Td 2c] [Qc]
+*** RIVER *** [6c Td 2c Qc] [6s]
+*** SHOW DOWN ***
+quitancito: shows [7s Kd] (a pair of Sixes)
+gavin1228: shows [Ac Kh] (a pair of Sixes - Ace kicker)
+gavin1228 collected $2.26 from pot
+*** SUMMARY ***
+Total pot $2.34 | Rake $0.08 
+Board [6c Td 2c Qc 6s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: quitancito (small blind) showed [7s Kd] and lost with a pair of Sixes
+Seat 4: lamparita20 (big blind) folded before Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 showed [Ac Kh] and won ($2.26) with a pair of Sixes
+
+
+
+PokerStars Hand #213781158495:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 6:59:54 MSK [2020/05/12 23:59:54 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.47 in chips) 
+Seat 2: Lyonhearth ($1.71 in chips) 
+Seat 4: lamparita20 ($3.18 in chips) 
+Seat 5: Lavokid ($4.99 in chips) 
+Seat 6: gavin1228 ($3.47 in chips) 
+Lavokid: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Jc]
+quitancito leaves the table
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+lamparita20: folds 
+Lavokid: calls $0.04
+gavin1228: calls $0.03
+*** FLOP *** [4c 2d 8h]
+Lavokid: checks 
+gavin1228: checks 
+lawlex_2: bets $0.09
+Lavokid: folds 
+gavin1228: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4c 2d 8h]
+Seat 1: lawlex_2 collected ($0.14)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lamparita20 (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) folded on the Flop
+Seat 6: gavin1228 (big blind) folded on the Flop
+
+
+

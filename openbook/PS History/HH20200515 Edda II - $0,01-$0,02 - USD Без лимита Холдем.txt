@@ -1,0 +1,3155 @@
+﻿PokerStars Hand #213889953831:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:10:40 MSK [2020/05/15 0:10:40 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.34 in chips) 
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: Makci17 ($2.91 in chips) 
+Seat 4: Quatrehuith ($2 in chips) 
+Seat 5: Pacha1969 ($1.14 in chips) 
+Seat 6: .BlufferOsmar. ($3.11 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 5h]
+Makci17: folds 
+Quatrehuith: folds 
+Pacha1969: calls $0.02
+.BlufferOsmar. said, "88"
+.BlufferOsmar. has timed out
+.BlufferOsmar.: folds 
+Brunitoo7: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Ad Ts 6h]
+Quatrehuith said, "nh"
+Quatrehuith said, "nh"
+Brunitoo7: checks 
+lawlex_2: bets $0.04
+Pacha1969: calls $0.04
+Brunitoo7: folds 
+*** TURN *** [Ad Ts 6h] [2s]
+lawlex_2: bets $0.09
+.BlufferOsmar. said, "you qq"
+Pacha1969: calls $0.09
+*** RIVER *** [Ad Ts 6h 2s] [Ah]
+.BlufferOsmar. said, "or akÂ¡?"
+lawlex_2: bets $0.20
+Pacha1969: folds 
+Uncalled bet ($0.20) returned to lawlex_2
+lawlex_2 collected $0.31 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Ad Ts 6h 2s Ah]
+Seat 1: Brunitoo7 (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) collected ($0.31)
+Seat 3: Makci17 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Pacha1969 folded on the River
+Seat 6: .BlufferOsmar. (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213889987691:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:12:01 MSK [2020/05/15 0:12:01 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.32 in chips) 
+Seat 2: lawlex_2 ($2.16 in chips) 
+Seat 3: Makci17 ($2.91 in chips) 
+Seat 4: Quatrehuith ($2 in chips) 
+Seat 5: Pacha1969 ($0.99 in chips) 
+Seat 6: .BlufferOsmar. ($3.11 in chips) 
+lawlex_2: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 8c]
+Quatrehuith said, "AA"
+Quatrehuith: raises $0.04 to $0.06
+Pacha1969: calls $0.06
+Quatrehuith said, "hahhaa"
+.BlufferOsmar.: folds 
+Brunitoo7: calls $0.06
+lawlex_2: folds 
+Makci17: calls $0.04
+*** FLOP *** [6c 3d 8d]
+Makci17: checks 
+Quatrehuith: checks 
+Pacha1969: bets $0.12
+.BlufferOsmar. said, "why you fold with 70c behind???"
+Brunitoo7: folds 
+Makci17: folds 
+Quatrehuith: folds 
+Uncalled bet ($0.12) returned to Pacha1969
+.BlufferOsmar. said, "sooo tight"
+Pacha1969 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c 3d 8d]
+Seat 1: Brunitoo7 (button) folded on the Flop
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: Makci17 (big blind) folded on the Flop
+Seat 4: Quatrehuith folded on the Flop
+Seat 5: Pacha1969 collected ($0.24)
+Seat 6: .BlufferOsmar. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890009856:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:12:55 MSK [2020/05/15 0:12:55 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.26 in chips) 
+Seat 2: lawlex_2 ($2.15 in chips) 
+Seat 3: Makci17 ($2.85 in chips) 
+Seat 4: Quatrehuith ($2 in chips) 
+Seat 5: Pacha1969 ($1.17 in chips) 
+Seat 6: .BlufferOsmar. ($3.11 in chips) 
+Makci17: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 8h]
+Pacha1969: calls $0.02
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+Quatrehuith said, "cuz u had a T"
+lawlex_2: folds 
+Makci17: raises $0.06 to $0.08
+Quatrehuith: raises $0.16 to $0.24
+.BlufferOsmar. said, "noo"
+Pacha1969: folds 
+Makci17: calls $0.16
+*** FLOP *** [Th Jc Qd]
+Makci17: checks 
+Quatrehuith: checks 
+*** TURN *** [Th Jc Qd] [7c]
+Makci17: bets $0.20
+Quatrehuith: calls $0.20
+*** RIVER *** [Th Jc Qd 7c] [6h]
+.BlufferOsmar. said, "88"
+Makci17: bets $0.29
+Quatrehuith: raises $0.79 to $1.08
+Makci17: calls $0.79
+*** SHOW DOWN ***
+Quatrehuith: shows [Kc Ad] (a straight, Ten to Ace)
+Makci17: mucks hand 
+Quatrehuith collected $2.95 from pot
+*** SUMMARY ***
+Total pot $3.06 | Rake $0.11 
+Board [Th Jc Qd 7c 6h]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: Makci17 (small blind) mucked [Qc Qs]
+Seat 4: Quatrehuith (big blind) showed [Kc Ad] and won ($2.95) with a straight, Ten to Ace
+Seat 5: Pacha1969 folded before Flop
+Seat 6: .BlufferOsmar. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890039521:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:14:06 MSK [2020/05/15 0:14:06 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.26 in chips) 
+Seat 2: lawlex_2 ($2.15 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($3.43 in chips) 
+Seat 5: Pacha1969 ($1.15 in chips) 
+Seat 6: .BlufferOsmar. ($3.11 in chips) 
+Quatrehuith: posts small blind $0.01
+Pacha1969: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 6s]
+.BlufferOsmar.: raises $0.04 to $0.06
+Brunitoo7: raises $0.12 to $0.18
+lawlex_2: folds 
+Makci17: folds 
+Quatrehuith: folds 
+Pacha1969: folds 
+.BlufferOsmar.: folds 
+Uncalled bet ($0.12) returned to Brunitoo7
+Brunitoo7 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Brunitoo7 collected ($0.15)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Makci17 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 5: Pacha1969 (big blind) folded before Flop
+Seat 6: .BlufferOsmar. folded before Flop
+
+
+
+PokerStars Hand #213890052051:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:14:36 MSK [2020/05/15 0:14:36 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.35 in chips) 
+Seat 2: lawlex_2 ($2.15 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($3.42 in chips) 
+Seat 5: Pacha1969 ($1.13 in chips) 
+Seat 6: .BlufferOsmar. ($3.05 in chips) 
+Pacha1969: posts small blind $0.01
+.BlufferOsmar.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Kh]
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+Makci17: folds 
+Quatrehuith: folds 
+Pacha1969: calls $0.04
+.BlufferOsmar.: folds 
+*** FLOP *** [Js 6h Ts]
+Pacha1969: checks 
+lawlex_2: bets $0.08
+Pacha1969: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Js 6h Ts]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 collected ($0.12)
+Seat 3: Makci17 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 5: Pacha1969 (small blind) folded on the Flop
+Seat 6: .BlufferOsmar. (big blind) folded before Flop
+
+
+
+PokerStars Hand #213890065683:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:15:09 MSK [2020/05/15 0:15:09 ET]
+Table 'Edda II' 6-max Seat #5 is the button
+Seat 1: Brunitoo7 ($2.35 in chips) 
+Seat 2: lawlex_2 ($2.22 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($3.42 in chips) 
+Seat 5: Pacha1969 ($1.08 in chips) 
+Seat 6: .BlufferOsmar. ($3.03 in chips) 
+.BlufferOsmar.: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 3d]
+lawlex_2: folds 
+Makci17: raises $0.04 to $0.06
+Quatrehuith: calls $0.06
+Pacha1969: folds 
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+*** FLOP *** [6s 8s 4c]
+Makci17: bets $0.07
+Quatrehuith: calls $0.07
+*** TURN *** [6s 8s 4c] [7s]
+Makci17: checks 
+Quatrehuith: bets $0.14
+Makci17: folds 
+Uncalled bet ($0.14) returned to Quatrehuith
+Quatrehuith collected $0.28 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [6s 8s 4c 7s]
+Seat 1: Brunitoo7 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Makci17 folded on the Turn
+Seat 4: Quatrehuith collected ($0.28)
+Seat 5: Pacha1969 (button) folded before Flop (didn't bet)
+Seat 6: .BlufferOsmar. (small blind) folded before Flop
+
+
+
+PokerStars Hand #213890094027:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:16:18 MSK [2020/05/15 0:16:18 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.33 in chips) 
+Seat 2: lawlex_2 ($2.22 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($3.57 in chips) 
+Seat 5: Pacha1969 ($1.08 in chips) 
+Seat 6: .BlufferOsmar. ($3.02 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 6h]
+Makci17: folds 
+Quatrehuith: folds 
+Pacha1969: calls $0.02
+.BlufferOsmar.: folds 
+Brunitoo7: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Ks 7d 2d]
+Brunitoo7: checks 
+lawlex_2: checks 
+Pacha1969: bets $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Pacha1969
+Pacha1969 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ks 7d 2d]
+Seat 1: Brunitoo7 (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: Makci17 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Pacha1969 collected ($0.06)
+Seat 6: .BlufferOsmar. (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890113263:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:17:05 MSK [2020/05/15 0:17:05 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.31 in chips) 
+Seat 2: lawlex_2 ($2.20 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($3.57 in chips) 
+Seat 5: Pacha1969 ($1.12 in chips) 
+Seat 6: .BlufferOsmar. ($3.02 in chips) 
+lawlex_2: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Ad]
+Quatrehuith: folds 
+Pacha1969: calls $0.02
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+Makci17: raises $0.15 to $0.20
+Pacha1969: folds 
+lawlex_2: folds 
+Uncalled bet ($0.15) returned to Makci17
+Makci17 collected $0.12 from pot
+Makci17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: Makci17 (big blind) collected ($0.12)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Pacha1969 folded before Flop
+Seat 6: .BlufferOsmar. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890126418:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:17:37 MSK [2020/05/15 0:17:37 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.31 in chips) 
+Seat 2: lawlex_2 ($2.15 in chips) 
+Seat 3: Makci17 ($2.07 in chips) 
+Seat 4: Quatrehuith ($3.57 in chips) 
+Seat 5: Pacha1969 ($1.10 in chips) 
+Seat 6: .BlufferOsmar. ($3.02 in chips) 
+Makci17: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 6h]
+Pacha1969: calls $0.02
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+lawlex_2: folds 
+Makci17: raises $0.08 to $0.10
+Quatrehuith: folds 
+Pacha1969: calls $0.08
+*** FLOP *** [3h Jc 2h]
+Makci17: checks 
+Pacha1969: checks 
+*** TURN *** [3h Jc 2h] [Js]
+Makci17: checks 
+Pacha1969: checks 
+*** RIVER *** [3h Jc 2h Js] [5s]
+Makci17: checks 
+Pacha1969: checks 
+*** SHOW DOWN ***
+Makci17: shows [Ad Th] (a pair of Jacks)
+Pacha1969: shows [Kh 5h] (two pair, Jacks and Fives)
+Pacha1969 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [3h Jc 2h Js 5s]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: Makci17 (small blind) showed [Ad Th] and lost with a pair of Jacks
+Seat 4: Quatrehuith (big blind) folded before Flop
+Seat 5: Pacha1969 showed [Kh 5h] and won ($0.21) with two pair, Jacks and Fives
+Seat 6: .BlufferOsmar. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890144752:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:18:21 MSK [2020/05/15 0:18:21 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.31 in chips) 
+Seat 2: lawlex_2 ($2.15 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($3.55 in chips) 
+Seat 5: Pacha1969 ($1.21 in chips) 
+Seat 6: .BlufferOsmar. ($3.02 in chips) 
+Quatrehuith: posts small blind $0.01
+Pacha1969: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Kh]
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+lawlex_2: folds 
+Makci17: folds 
+Quatrehuith: folds 
+Uncalled bet ($0.01) returned to Pacha1969
+Pacha1969 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Makci17 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 5: Pacha1969 (big blind) collected ($0.02)
+Seat 6: .BlufferOsmar. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890152236:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:18:40 MSK [2020/05/15 0:18:40 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.31 in chips) 
+Seat 2: lawlex_2 ($2.15 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($3.54 in chips) 
+Seat 5: Pacha1969 ($1.22 in chips) 
+Seat 6: .BlufferOsmar. ($3.02 in chips) 
+Pacha1969: posts small blind $0.01
+.BlufferOsmar.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Jh]
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+Makci17: folds 
+Quatrehuith: raises $0.13 to $0.18
+Pacha1969: calls $0.17
+.BlufferOsmar.: folds 
+lawlex_2: folds 
+*** FLOP *** [9s 3h 7s]
+Pacha1969: checks 
+Quatrehuith: bets $0.10
+Pacha1969: calls $0.10
+*** TURN *** [9s 3h 7s] [Qc]
+Pacha1969: bets $0.94 and is all-in
+Quatrehuith: calls $0.94
+*** RIVER *** [9s 3h 7s Qc] [Kh]
+*** SHOW DOWN ***
+Pacha1969: shows [Kc Tc] (a pair of Kings)
+Quatrehuith: shows [9d 9c] (three of a kind, Nines)
+Quatrehuith collected $2.42 from pot
+*** SUMMARY ***
+Total pot $2.51 | Rake $0.09 
+Board [9s 3h 7s Qc Kh]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop
+Seat 3: Makci17 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) showed [9d 9c] and won ($2.42) with three of a kind, Nines
+Seat 5: Pacha1969 (small blind) showed [Kc Tc] and lost with a pair of Kings
+Seat 6: .BlufferOsmar. (big blind) folded before Flop
+
+
+
+PokerStars Hand #213890178872:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:19:45 MSK [2020/05/15 0:19:45 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.31 in chips) 
+Seat 2: lawlex_2 ($2.10 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($4.74 in chips) 
+Seat 6: .BlufferOsmar. ($3 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Jd]
+Makci17: folds 
+Quatrehuith: folds 
+.BlufferOsmar.: raises $0.04 to $0.06
+Brunitoo7: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to .BlufferOsmar.
+.BlufferOsmar. collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: Makci17 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 6: .BlufferOsmar. (button) collected ($0.05)
+
+
+
+PokerStars Hand #213890185154:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:20:00 MSK [2020/05/15 0:20:00 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.30 in chips) 
+Seat 2: lawlex_2 ($2.08 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($4.74 in chips) 
+Seat 6: .BlufferOsmar. ($3.03 in chips) 
+lawlex_2: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 4h]
+Quatrehuith: folds 
+.BlufferOsmar.: raises $0.04 to $0.06
+Brunitoo7: folds 
+lawlex_2: folds 
+Makci17: folds 
+Uncalled bet ($0.04) returned to .BlufferOsmar.
+.BlufferOsmar. collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: Makci17 (big blind) folded before Flop
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 6: .BlufferOsmar. collected ($0.05)
+
+
+
+PokerStars Hand #213890191397:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:20:16 MSK [2020/05/15 0:20:16 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.30 in chips) 
+Seat 2: lawlex_2 ($2.07 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($4.74 in chips) 
+Seat 6: .BlufferOsmar. ($3.06 in chips) 
+Makci17: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 2h]
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+lawlex_2: folds 
+Makci17: folds 
+Uncalled bet ($0.01) returned to Quatrehuith
+Quatrehuith collected $0.02 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: Makci17 (small blind) folded before Flop
+Seat 4: Quatrehuith (big blind) collected ($0.02)
+Seat 6: .BlufferOsmar. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890196796:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:20:29 MSK [2020/05/15 0:20:29 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.30 in chips) 
+Seat 2: lawlex_2 ($2.07 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($4.75 in chips) 
+Seat 6: .BlufferOsmar. ($3.06 in chips) 
+Quatrehuith: posts small blind $0.01
+.BlufferOsmar.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 2c]
+Brunitoo7: folds 
+lawlex_2: folds 
+Makci17: raises $0.03 to $0.05
+Quatrehuith: folds 
+.BlufferOsmar.: folds 
+Uncalled bet ($0.03) returned to Makci17
+Makci17 collected $0.05 from pot
+Makci17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Makci17 (button) collected ($0.05)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 6: .BlufferOsmar. (big blind) folded before Flop
+
+
+
+PokerStars Hand #213890202690:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:20:43 MSK [2020/05/15 0:20:43 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.30 in chips) 
+Seat 2: lawlex_2 ($2.07 in chips) 
+Seat 3: Makci17 ($2.03 in chips) 
+Seat 4: Quatrehuith ($4.74 in chips) 
+Seat 6: .BlufferOsmar. ($3.04 in chips) 
+.BlufferOsmar.: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Kc]
+lawlex_2: raises $0.03 to $0.05
+Makci17: folds 
+Quatrehuith: folds 
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (big blind) folded before Flop
+Seat 2: lawlex_2 collected ($0.05)
+Seat 3: Makci17 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 6: .BlufferOsmar. (small blind) folded before Flop
+
+
+
+PokerStars Hand #213890208085:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:20:57 MSK [2020/05/15 0:20:57 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.28 in chips) 
+Seat 2: lawlex_2 ($2.10 in chips) 
+Seat 3: Makci17 ($2.03 in chips) 
+Seat 4: Quatrehuith ($4.74 in chips) 
+Seat 6: .BlufferOsmar. ($3.03 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Jc]
+Makci17: folds 
+Quatrehuith: raises $0.04 to $0.06
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [2h Qd 7d]
+lawlex_2: checks 
+Quatrehuith: bets $0.07
+lawlex_2: folds 
+Uncalled bet ($0.07) returned to Quatrehuith
+Quatrehuith collected $0.13 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2h Qd 7d]
+Seat 1: Brunitoo7 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: Makci17 folded before Flop (didn't bet)
+Seat 4: Quatrehuith collected ($0.13)
+Seat 6: .BlufferOsmar. (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890223446:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:21:23 MSK [2020/05/15 0:21:23 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.04 in chips) 
+Seat 3: Makci17 ($2.03 in chips) 
+Seat 4: Quatrehuith ($4.81 in chips) 
+Seat 6: .BlufferOsmar. ($3.03 in chips) 
+lawlex_2: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 6d]
+Quatrehuith: raises $0.04 to $0.06
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+lawlex_2: folds 
+Makci17: folds 
+Uncalled bet ($0.04) returned to Quatrehuith
+Quatrehuith collected $0.05 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: Makci17 (big blind) folded before Flop
+Seat 4: Quatrehuith collected ($0.05)
+Seat 6: .BlufferOsmar. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890228553:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:21:35 MSK [2020/05/15 0:21:35 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.03 in chips) 
+Seat 3: Makci17 ($2.01 in chips) 
+Seat 4: Quatrehuith ($4.84 in chips) 
+Seat 6: .BlufferOsmar. ($3.03 in chips) 
+Makci17: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 5c]
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+Makci17: folds 
+Quatrehuith: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) collected ($0.05)
+Seat 3: Makci17 (small blind) folded before Flop
+Seat 4: Quatrehuith (big blind) folded before Flop
+Seat 6: .BlufferOsmar. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890235613:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:21:52 MSK [2020/05/15 0:21:52 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.06 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($4.82 in chips) 
+Seat 6: .BlufferOsmar. ($3.03 in chips) 
+Quatrehuith: posts small blind $0.01
+.BlufferOsmar.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 6h]
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+Makci17: folds 
+Quatrehuith: folds 
+Pacha1969 is disconnected 
+.BlufferOsmar.: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 collected ($0.05)
+Seat 3: Makci17 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 6: .BlufferOsmar. (big blind) folded before Flop
+
+
+
+PokerStars Hand #213890246513:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:22:19 MSK [2020/05/15 0:22:19 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.09 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($4.81 in chips) 
+Seat 6: .BlufferOsmar. ($3.01 in chips) 
+.BlufferOsmar.: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Qc]
+lawlex_2: raises $0.03 to $0.05
+Makci17: folds 
+Quatrehuith: calls $0.05
+.BlufferOsmar.: folds 
+Brunitoo7: folds 
+*** FLOP *** [3h 5s Qd]
+lawlex_2: bets $0.09
+Quatrehuith: calls $0.09
+*** TURN *** [3h 5s Qd] [Qs]
+lawlex_2: bets $0.20
+Quatrehuith: folds 
+Uncalled bet ($0.20) returned to lawlex_2
+lawlex_2 collected $0.30 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [3h 5s Qd Qs]
+Seat 1: Brunitoo7 (big blind) folded before Flop
+Seat 2: lawlex_2 collected ($0.30)
+Seat 3: Makci17 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) folded on the Turn
+Seat 6: .BlufferOsmar. (small blind) folded before Flop
+
+
+
+PokerStars Hand #213890274814:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:23:21 MSK [2020/05/15 0:23:21 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.25 in chips) 
+Seat 2: lawlex_2 ($2.25 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($4.67 in chips) 
+Seat 6: .BlufferOsmar. ($3 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 3c]
+Makci17: folds 
+Quatrehuith: folds 
+.BlufferOsmar. has timed out
+.BlufferOsmar.: folds 
+Brunitoo7: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [9s Kh 9d]
+Brunitoo7: checks 
+lawlex_2: checks 
+*** TURN *** [9s Kh 9d] [Kd]
+Brunitoo7: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to Brunitoo7
+Brunitoo7 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9s Kh 9d Kd]
+Seat 1: Brunitoo7 (small blind) collected ($0.04)
+Seat 2: lawlex_2 (big blind) folded on the Turn
+Seat 3: Makci17 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 6: .BlufferOsmar. (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890291087:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:24:01 MSK [2020/05/15 0:24:01 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.23 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($4.67 in chips) 
+lawlex_2: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 4s]
+Quatrehuith: folds 
+Brunitoo7: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Makci17
+Makci17 collected $0.02 from pot
+Makci17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: Makci17 (big blind) collected ($0.02)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890296447:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:24:14 MSK [2020/05/15 0:24:14 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.22 in chips) 
+Seat 3: Makci17 ($2.01 in chips) 
+Seat 4: Quatrehuith ($4.67 in chips) 
+Makci17: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Kc]
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+Makci17: calls $0.04
+Quatrehuith: calls $0.03
+*** FLOP *** [Qd 6h 6d]
+Makci17: checks 
+Quatrehuith: checks 
+lawlex_2: bets $0.09
+Makci17: calls $0.09
+Quatrehuith: folds 
+*** TURN *** [Qd 6h 6d] [7s]
+Makci17: checks 
+lawlex_2: bets $0.21
+Makci17: calls $0.21
+*** RIVER *** [Qd 6h 6d 7s] [9d]
+Makci17: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Makci17: shows [9s Qs] (two pair, Queens and Nines)
+lawlex_2: shows [Ks Kc] (two pair, Kings and Sixes)
+lawlex_2 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Qd 6h 6d 7s 9d]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) showed [Ks Kc] and won ($0.72) with two pair, Kings and Sixes
+Seat 3: Makci17 (small blind) showed [9s Qs] and lost with two pair, Queens and Nines
+Seat 4: Quatrehuith (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213890321513:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:25:16 MSK [2020/05/15 0:25:16 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.59 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($4.62 in chips) 
+Seat 6: .BlufferOsmar. ($3 in chips) 
+Quatrehuith: posts small blind $0.01
+.BlufferOsmar.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 9h]
+Brunitoo7: folds 
+lawlex_2: folds 
+Makci17: folds 
+Quatrehuith: folds 
+Uncalled bet ($0.01) returned to .BlufferOsmar.
+.BlufferOsmar. collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Makci17 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 6: .BlufferOsmar. (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213890326690:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:25:29 MSK [2020/05/15 0:25:29 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.59 in chips) 
+Seat 3: Makci17 ($2 in chips) 
+Seat 4: Quatrehuith ($4.61 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 2h]
+Makci17: folds 
+.BlufferOsmar. leaves the table
+Quatrehuith: folds 
+8imanaliev joins the table at seat #6 
+Brunitoo7: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Brunitoo7
+Brunitoo7 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Brunitoo7 (small blind) collected ($0.04)
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: Makci17 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890333151:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:25:45 MSK [2020/05/15 0:25:45 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.29 in chips) 
+Seat 2: lawlex_2 ($2.57 in chips) 
+Seat 4: Quatrehuith ($4.61 in chips) 
+lawlex_2: posts small blind $0.01
+Makci17: is sitting out 
+Quatrehuith: posts big blind $0.02
+8imanaliev: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 9c]
+Brunitoo7: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Quatrehuith
+Quatrehuith collected $0.02 from pot
+Quatrehuith: doesn't show hand 
+Makci17 leaves the table
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 4: Quatrehuith (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213890335730:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:25:51 MSK [2020/05/15 0:25:51 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.29 in chips) 
+Seat 2: lawlex_2 ($2.56 in chips) 
+Seat 4: Quatrehuith ($4.62 in chips) 
+Seat 6: 8imanaliev ($0.80 in chips) 
+Quatrehuith: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 9d]
+Brunitoo7: folds 
+lawlex_2: folds 
+Quatrehuith: folds 
+Uncalled bet ($0.01) returned to 8imanaliev
+8imanaliev collected $0.02 from pot
+Pacha1969 was removed from the table for failing to post
+Pacha1969 leaves the table
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 6: 8imanaliev (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213890339166:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:26:00 MSK [2020/05/15 0:26:00 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.29 in chips) 
+Seat 2: lawlex_2 ($2.56 in chips) 
+Seat 6: 8imanaliev ($0.81 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 5c]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to 8imanaliev
+8imanaliev collected $0.05 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 6: 8imanaliev (button) collected ($0.05)
+
+
+
+PokerStars Hand #213890345591:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:26:16 MSK [2020/05/15 0:26:16 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.28 in chips) 
+Seat 2: lawlex_2 ($2.54 in chips) 
+Seat 6: 8imanaliev ($0.84 in chips) 
+lawlex_2: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 8h]
+Brunitoo7: raises $0.04 to $0.06
+lawlex_2: folds 
+8imanaliev: calls $0.04
+*** FLOP *** [6s 2h 4s]
+apj2010 joins the table at seat #5 
+8imanaliev: checks 
+D.MOSS29 joins the table at seat #3 
+Brunitoo7: bets $0.19
+8imanaliev: folds 
+Uncalled bet ($0.19) returned to Brunitoo7
+Brunitoo7 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6s 2h 4s]
+Seat 1: Brunitoo7 (button) collected ($0.13)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 6: 8imanaliev (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213890355961:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:26:42 MSK [2020/05/15 0:26:42 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.35 in chips) 
+Seat 2: lawlex_2 ($2.53 in chips) 
+Seat 6: 8imanaliev ($0.78 in chips) 
+8imanaliev: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 2c]
+lawlex_2: folds 
+8imanaliev: calls $0.01
+Brunitoo7: raises $0.04 to $0.06
+8imanaliev: calls $0.04
+*** FLOP *** [2d 7h 4h]
+8imanaliev: bets $0.06
+Brunitoo7: folds 
+Uncalled bet ($0.06) returned to 8imanaliev
+8imanaliev collected $0.12 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2d 7h 4h]
+Seat 1: Brunitoo7 (big blind) folded on the Flop
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: 8imanaliev (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #213890364402:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:27:03 MSK [2020/05/15 0:27:03 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.29 in chips) 
+Seat 2: lawlex_2 ($2.53 in chips) 
+Seat 3: D.MOSS29 ($0.80 in chips) 
+Seat 6: 8imanaliev ($0.84 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+D.MOSS29: posts big blind $0.02
+Quatrehuith: sits out 
+apj2010: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 3d]
+D.MOSS29: checks 
+8imanaliev: calls $0.02
+Brunitoo7: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [8d Qc Kh]
+Brunitoo7: checks 
+lawlex_2: checks 
+D.MOSS29: bets $0.02
+8imanaliev: raises $0.04 to $0.06
+Brunitoo7: folds 
+lawlex_2: folds 
+D.MOSS29: folds 
+Uncalled bet ($0.04) returned to 8imanaliev
+8imanaliev collected $0.12 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8d Qc Kh]
+Seat 1: Brunitoo7 (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: D.MOSS29 folded on the Flop
+Seat 6: 8imanaliev (button) collected ($0.12)
+
+
+
+PokerStars Hand #213890389741:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:27:51 MSK [2020/05/15 0:27:51 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.51 in chips) 
+Seat 3: D.MOSS29 ($0.76 in chips) 
+Seat 6: 8imanaliev ($0.92 in chips) 
+lawlex_2: posts small blind $0.01
+D.MOSS29: posts big blind $0.02
+Quatrehuith: sits out 
+apj2010: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 5s]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: calls $0.03
+D.MOSS29: folds 
+*** FLOP *** [2d Qh 7d]
+lawlex_2: checks 
+8imanaliev: checks 
+*** TURN *** [2d Qh 7d] [2s]
+lawlex_2: bets $0.07
+8imanaliev: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.10 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [2d Qh 7d 2s]
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) collected ($0.10)
+Seat 3: D.MOSS29 (big blind) folded before Flop
+Seat 6: 8imanaliev folded on the Turn
+
+
+
+PokerStars Hand #213890406721:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:28:33 MSK [2020/05/15 0:28:33 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.57 in chips) 
+Seat 3: D.MOSS29 ($0.74 in chips) 
+Seat 4: Quatrehuith ($4.61 in chips) 
+Seat 6: 8imanaliev ($0.88 in chips) 
+D.MOSS29: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+apj2010: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Jh]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: raises $0.10 to $0.14
+lawlex_2: folds 
+D.MOSS29: folds 
+Quatrehuith: folds 
+8imanaliev: folds 
+Uncalled bet ($0.10) returned to Brunitoo7
+Brunitoo7 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Brunitoo7 collected ($0.11)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: D.MOSS29 (small blind) folded before Flop
+Seat 4: Quatrehuith (big blind) folded before Flop
+Seat 6: 8imanaliev folded before Flop
+
+
+
+PokerStars Hand #213890415778:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:28:56 MSK [2020/05/15 0:28:56 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.34 in chips) 
+Seat 2: lawlex_2 ($2.57 in chips) 
+Seat 3: D.MOSS29 ($0.73 in chips) 
+Seat 4: Quatrehuith ($4.59 in chips) 
+Seat 5: apj2010 ($1.60 in chips) 
+Seat 6: 8imanaliev ($0.84 in chips) 
+Quatrehuith: posts small blind $0.01
+apj2010: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Jd]
+8imanaliev: calls $0.02
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+D.MOSS29: folds 
+Quatrehuith: folds 
+apj2010: folds 
+8imanaliev: calls $0.03
+*** FLOP *** [7s Kc Ac]
+8imanaliev: checks 
+lawlex_2: bets $0.09
+8imanaliev: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7s Kc Ac]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 collected ($0.13)
+Seat 3: D.MOSS29 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 5: apj2010 (big blind) folded before Flop
+Seat 6: 8imanaliev folded on the Flop
+
+
+
+PokerStars Hand #213890433792:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:29:41 MSK [2020/05/15 0:29:41 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.34 in chips) 
+Seat 2: lawlex_2 ($2.65 in chips) 
+Seat 3: D.MOSS29 ($0.73 in chips) 
+Seat 4: Quatrehuith ($4.58 in chips) 
+Seat 5: apj2010 ($1.58 in chips) 
+Seat 6: 8imanaliev ($0.79 in chips) 
+apj2010: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 7c]
+Brunitoo7: raises $0.04 to $0.06
+lawlex_2: folds 
+D.MOSS29: folds 
+Quatrehuith: folds 
+apj2010: folds 
+8imanaliev: calls $0.04
+*** FLOP *** [3d Tc Jd]
+8imanaliev: bets $0.04
+Brunitoo7: raises $0.13 to $0.17
+8imanaliev: calls $0.13
+*** TURN *** [3d Tc Jd] [Ks]
+8imanaliev: checks 
+Brunitoo7: bets $0.56
+8imanaliev: calls $0.56 and is all-in
+*** RIVER *** [3d Tc Jd Ks] [2d]
+*** SHOW DOWN ***
+8imanaliev: shows [Kd Jc] (two pair, Kings and Jacks)
+Brunitoo7: shows [Jh Kh] (two pair, Kings and Jacks)
+8imanaliev collected $0.77 from pot
+Brunitoo7 collected $0.76 from pot
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.06 
+Board [3d Tc Jd Ks 2d]
+Seat 1: Brunitoo7 showed [Jh Kh] and won ($0.76) with two pair, Kings and Jacks
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: D.MOSS29 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 5: apj2010 (small blind) folded before Flop
+Seat 6: 8imanaliev (big blind) showed [Kd Jc] and won ($0.77) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #213890459946:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:30:47 MSK [2020/05/15 0:30:47 ET]
+Table 'Edda II' 6-max Seat #5 is the button
+Seat 1: Brunitoo7 ($2.31 in chips) 
+Seat 2: lawlex_2 ($2.65 in chips) 
+Seat 3: D.MOSS29 ($0.73 in chips) 
+Seat 4: Quatrehuith ($4.58 in chips) 
+Seat 5: apj2010 ($1.57 in chips) 
+Seat 6: 8imanaliev ($0.77 in chips) 
+8imanaliev: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 5s]
+lawlex_2: folds 
+D.MOSS29: raises $0.02 to $0.04
+Quatrehuith: calls $0.04
+apj2010: calls $0.04
+8imanaliev: folds 
+Brunitoo7: calls $0.02
+*** FLOP *** [5h 8c 9s]
+Brunitoo7: checks 
+D.MOSS29: bets $0.10
+Quatrehuith: calls $0.10
+apj2010: calls $0.10
+Brunitoo7: folds 
+*** TURN *** [5h 8c 9s] [Ad]
+D.MOSS29: checks 
+Quatrehuith: bets $0.23
+apj2010: raises $0.45 to $0.68
+D.MOSS29: folds 
+Quatrehuith: calls $0.45
+*** RIVER *** [5h 8c 9s Ad] [2s]
+Quatrehuith: checks 
+apj2010: checks 
+*** SHOW DOWN ***
+Quatrehuith: shows [Tc Js] (high card Ace)
+apj2010: shows [Ac 8s] (two pair, Aces and Eights)
+apj2010 collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.83 | Rake $0.06 
+Board [5h 8c 9s Ad 2s]
+Seat 1: Brunitoo7 (big blind) folded on the Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: D.MOSS29 folded on the Turn
+Seat 4: Quatrehuith showed [Tc Js] and lost with high card Ace
+Seat 5: apj2010 (button) showed [Ac 8s] and won ($1.77) with two pair, Aces and Eights
+Seat 6: 8imanaliev (small blind) folded before Flop
+
+
+
+PokerStars Hand #213890503467:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:32:37 MSK [2020/05/15 0:32:37 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.65 in chips) 
+Seat 3: D.MOSS29 ($0.59 in chips) 
+Seat 4: Quatrehuith ($3.76 in chips) 
+Seat 5: apj2010 ($2.52 in chips) 
+Seat 6: 8imanaliev ($0.76 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 3h]
+D.MOSS29: folds 
+Quatrehuith: folds 
+apj2010: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to 8imanaliev
+8imanaliev collected $0.05 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: D.MOSS29 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: apj2010 folded before Flop (didn't bet)
+Seat 6: 8imanaliev (button) collected ($0.05)
+
+
+
+PokerStars Hand #213890511004:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:32:56 MSK [2020/05/15 0:32:56 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.26 in chips) 
+Seat 2: lawlex_2 ($2.63 in chips) 
+Seat 3: D.MOSS29 ($0.59 in chips) 
+Seat 4: Quatrehuith ($3.76 in chips) 
+Seat 5: apj2010 ($2.52 in chips) 
+Seat 6: 8imanaliev ($0.79 in chips) 
+lawlex_2: posts small blind $0.01
+D.MOSS29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 7h]
+Quatrehuith: folds 
+apj2010: calls $0.02
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+D.MOSS29: folds 
+apj2010: calls $0.02
+*** FLOP *** [3c Ts 7c]
+apj2010: checks 
+8imanaliev: checks 
+*** TURN *** [3c Ts 7c] [5d]
+apj2010: checks 
+8imanaliev: checks 
+*** RIVER *** [3c Ts 7c 5d] [5s]
+apj2010: checks 
+8imanaliev: checks 
+*** SHOW DOWN ***
+apj2010: shows [As Ks] (a pair of Fives)
+8imanaliev: shows [2s 2c] (two pair, Fives and Deuces)
+8imanaliev collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3c Ts 7c 5d 5s]
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: D.MOSS29 (big blind) folded before Flop
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: apj2010 showed [As Ks] and lost with a pair of Fives
+Seat 6: 8imanaliev showed [2s 2c] and won ($0.11) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #213890521836:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:33:23 MSK [2020/05/15 0:33:23 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.26 in chips) 
+Seat 2: lawlex_2 ($2.62 in chips) 
+Seat 3: D.MOSS29 ($0.57 in chips) 
+Seat 4: Quatrehuith ($3.76 in chips) 
+Seat 5: apj2010 ($2.48 in chips) 
+Seat 6: 8imanaliev ($0.86 in chips) 
+D.MOSS29: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 4c]
+apj2010: calls $0.02
+8imanaliev: folds 
+Brunitoo7: folds 
+lawlex_2: folds 
+D.MOSS29: calls $0.01
+Quatrehuith: checks 
+*** FLOP *** [Js 7s 3s]
+D.MOSS29: bets $0.02
+Quatrehuith: folds 
+apj2010: calls $0.02
+*** TURN *** [Js 7s 3s] [Ks]
+D.MOSS29: bets $0.10
+apj2010: calls $0.10
+*** RIVER *** [Js 7s 3s Ks] [Qc]
+D.MOSS29: checks 
+apj2010: bets $0.14
+D.MOSS29: raises $0.29 to $0.43 and is all-in
+apj2010: calls $0.29
+*** SHOW DOWN ***
+D.MOSS29: shows [Kd 5c] (a pair of Kings)
+apj2010: shows [Qs Ah] (a flush, King high)
+apj2010 collected $1.12 from pot
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.04 
+Board [Js 7s 3s Ks Qc]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: D.MOSS29 (small blind) showed [Kd 5c] and lost with a pair of Kings
+Seat 4: Quatrehuith (big blind) folded on the Flop
+Seat 5: apj2010 showed [Qs Ah] and won ($1.12) with a flush, King high
+Seat 6: 8imanaliev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890551199:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:34:37 MSK [2020/05/15 0:34:37 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.26 in chips) 
+Seat 2: lawlex_2 ($2.62 in chips) 
+Seat 4: Quatrehuith ($3.74 in chips) 
+Seat 5: apj2010 ($3.03 in chips) 
+Seat 6: 8imanaliev ($0.86 in chips) 
+apj2010: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Qd]
+Brunitoo7: folds 
+D.MOSS29 leaves the table
+lawlex_2: raises $0.03 to $0.05
+Quatrehuith: folds 
+apj2010: folds 
+8imanaliev: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+D.MOSS29 joins the table at seat #3 
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 collected ($0.05)
+Seat 4: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 5: apj2010 (small blind) folded before Flop
+Seat 6: 8imanaliev (big blind) folded before Flop
+
+
+
+PokerStars Hand #213890557811:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:34:54 MSK [2020/05/15 0:34:54 ET]
+Table 'Edda II' 6-max Seat #5 is the button
+Seat 1: Brunitoo7 ($2.26 in chips) 
+Seat 2: lawlex_2 ($2.65 in chips) 
+Seat 4: Quatrehuith ($3.74 in chips) 
+Seat 5: apj2010 ($3.02 in chips) 
+Seat 6: 8imanaliev ($0.84 in chips) 
+8imanaliev: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+D.MOSS29: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Tc]
+lawlex_2: folds 
+Quatrehuith: folds 
+D.MOSS29 leaves the table
+apj2010: calls $0.02
+8imanaliev: calls $0.01
+boxlax51 joins the table at seat #3 
+Brunitoo7: checks 
+*** FLOP *** [Jc 3c 8h]
+8imanaliev: bets $0.02
+Brunitoo7: calls $0.02
+apj2010: folds 
+*** TURN *** [Jc 3c 8h] [Ad]
+8imanaliev: bets $0.02
+Brunitoo7: raises $0.06 to $0.08
+8imanaliev: folds 
+Uncalled bet ($0.06) returned to Brunitoo7
+Brunitoo7 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jc 3c 8h Ad]
+Seat 1: Brunitoo7 (big blind) collected ($0.14)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: apj2010 (button) folded on the Flop
+Seat 6: 8imanaliev (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213890573365:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:35:33 MSK [2020/05/15 0:35:33 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.34 in chips) 
+Seat 2: lawlex_2 ($2.65 in chips) 
+Seat 4: Quatrehuith ($3.74 in chips) 
+Seat 5: apj2010 ($3 in chips) 
+Seat 6: 8imanaliev ($0.78 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+boxlax51: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 6h]
+Quatrehuith: folds 
+apj2010: folds 
+8imanaliev: raises $0.02 to $0.04
+boxlax51 said, "I have run into much idiocy on this site tonight"
+Brunitoo7: folds 
+lawlex_2: calls $0.02
+*** FLOP *** [7d Kc 7c]
+lawlex_2: bets $0.06
+8imanaliev: folds 
+Uncalled bet ($0.06) returned to lawlex_2
+lawlex_2 collected $0.09 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7d Kc 7c]
+Seat 1: Brunitoo7 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.09)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: apj2010 folded before Flop (didn't bet)
+Seat 6: 8imanaliev (button) folded on the Flop
+
+
+
+PokerStars Hand #213890583592:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:35:58 MSK [2020/05/15 0:35:58 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.33 in chips) 
+Seat 2: lawlex_2 ($2.70 in chips) 
+Seat 3: boxlax51 ($1.60 in chips) 
+Seat 4: Quatrehuith ($3.74 in chips) 
+Seat 5: apj2010 ($3 in chips) 
+Seat 6: 8imanaliev ($0.74 in chips) 
+lawlex_2: posts small blind $0.01
+boxlax51: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 2s]
+Quatrehuith: folds 
+apj2010: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: calls $0.02
+*** FLOP *** [5h Ah Ts]
+boxlax51: bets $0.10
+8imanaliev: calls $0.10
+*** TURN *** [5h Ah Ts] [9c]
+boxlax51: checks 
+8imanaliev: checks 
+*** RIVER *** [5h Ah Ts 9c] [2c]
+boxlax51: bets $0.10
+8imanaliev: calls $0.10
+*** SHOW DOWN ***
+boxlax51: shows [Ks Tc] (a pair of Tens)
+8imanaliev: mucks hand 
+boxlax51 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [5h Ah Ts 9c 2c]
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: boxlax51 (big blind) showed [Ks Tc] and won ($0.47) with a pair of Tens
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: apj2010 folded before Flop (didn't bet)
+Seat 6: 8imanaliev mucked [Qh Th]
+
+
+
+PokerStars Hand #213890604852:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:36:51 MSK [2020/05/15 0:36:51 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.33 in chips) 
+Seat 2: lawlex_2 ($2.69 in chips) 
+Seat 3: boxlax51 ($1.83 in chips) 
+Seat 4: Quatrehuith ($3.74 in chips) 
+Seat 5: apj2010 ($3 in chips) 
+Seat 6: 8imanaliev ($0.50 in chips) 
+boxlax51: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 7c]
+apj2010: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: calls $0.02
+*** FLOP *** [2h Qd 4h]
+Quatrehuith: checks 
+8imanaliev: checks 
+*** TURN *** [2h Qd 4h] [8d]
+Quatrehuith: bets $0.04
+8imanaliev: raises $0.06 to $0.10
+Quatrehuith: calls $0.06
+*** RIVER *** [2h Qd 4h 8d] [2c]
+Quatrehuith: checks 
+8imanaliev: checks 
+*** SHOW DOWN ***
+Quatrehuith: shows [3c 4c] (two pair, Fours and Deuces)
+8imanaliev: shows [9c Qh] (two pair, Queens and Deuces)
+8imanaliev collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [2h Qd 4h 8d 2c]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: boxlax51 (small blind) folded before Flop
+Seat 4: Quatrehuith (big blind) showed [3c 4c] and lost with two pair, Fours and Deuces
+Seat 5: apj2010 folded before Flop (didn't bet)
+Seat 6: 8imanaliev showed [9c Qh] and won ($0.28) with two pair, Queens and Deuces
+
+
+
+PokerStars Hand #213890626546:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:37:47 MSK [2020/05/15 0:37:47 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.33 in chips) 
+Seat 2: lawlex_2 ($2.69 in chips) 
+Seat 3: boxlax51 ($1.82 in chips) 
+Seat 4: Quatrehuith ($3.60 in chips) 
+Seat 5: apj2010 ($3 in chips) 
+Seat 6: 8imanaliev ($0.64 in chips) 
+Quatrehuith: posts small blind $0.01
+apj2010: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Kh]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: calls $0.04
+Quatrehuith: folds 
+apj2010: folds 
+*** FLOP *** [Qs 5d Js]
+8imanaliev: checks 
+boxlax51: bets $0.11
+8imanaliev: folds 
+Uncalled bet ($0.11) returned to boxlax51
+boxlax51 collected $0.11 from pot
+boxlax51: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qs 5d Js]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 (button) collected ($0.11)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 5: apj2010 (big blind) folded before Flop
+Seat 6: 8imanaliev folded on the Flop
+
+
+
+PokerStars Hand #213890647148:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:38:12 MSK [2020/05/15 0:38:12 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.33 in chips) 
+Seat 2: lawlex_2 ($2.69 in chips) 
+Seat 3: boxlax51 ($1.89 in chips) 
+Seat 4: Quatrehuith ($3.59 in chips) 
+Seat 5: apj2010 ($2.98 in chips) 
+Seat 6: 8imanaliev ($0.60 in chips) 
+apj2010: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 8s]
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+boxlax51: folds 
+Quatrehuith: folds 
+apj2010: folds 
+8imanaliev: calls $0.03
+*** FLOP *** [Kh Td 2d]
+8imanaliev: bets $0.04
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to 8imanaliev
+8imanaliev collected $0.11 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kh Td 2d]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 5: apj2010 (small blind) folded before Flop
+Seat 6: 8imanaliev (big blind) collected ($0.11)
+
+
+
+PokerStars Hand #213890658295:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:38:41 MSK [2020/05/15 0:38:41 ET]
+Table 'Edda II' 6-max Seat #5 is the button
+Seat 1: Brunitoo7 ($2.33 in chips) 
+Seat 2: lawlex_2 ($2.64 in chips) 
+Seat 3: boxlax51 ($1.89 in chips) 
+Seat 4: Quatrehuith ($3.59 in chips) 
+Seat 5: apj2010 ($2.97 in chips) 
+Seat 6: 8imanaliev ($0.66 in chips) 
+8imanaliev: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 9s]
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: folds 
+apj2010: folds 
+8imanaliev: calls $0.01
+Brunitoo7: checks 
+*** FLOP *** [5d 6d 7c]
+8imanaliev: bets $0.02
+Brunitoo7: folds 
+Uncalled bet ($0.02) returned to 8imanaliev
+8imanaliev collected $0.04 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5d 6d 7c]
+Seat 1: Brunitoo7 (big blind) folded on the Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: apj2010 (button) folded before Flop (didn't bet)
+Seat 6: 8imanaliev (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213890670456:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:39:12 MSK [2020/05/15 0:39:12 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.31 in chips) 
+Seat 2: lawlex_2 ($2.64 in chips) 
+Seat 3: boxlax51 ($1.89 in chips) 
+Seat 4: Quatrehuith ($3.59 in chips) 
+Seat 5: apj2010 ($2.97 in chips) 
+Seat 6: 8imanaliev ($0.68 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 7d]
+boxlax51: folds 
+Quatrehuith: folds 
+apj2010: folds 
+8imanaliev has timed out
+8imanaliev: folds 
+Brunitoo7: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brunitoo7 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.02)
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: apj2010 folded before Flop (didn't bet)
+Seat 6: 8imanaliev (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890682585:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:39:44 MSK [2020/05/15 0:39:44 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.30 in chips) 
+Seat 2: lawlex_2 ($2.65 in chips) 
+Seat 3: boxlax51 ($1.89 in chips) 
+Seat 4: Quatrehuith ($3.59 in chips) 
+Seat 5: apj2010 ($2.97 in chips) 
+Seat 6: 8imanaliev ($0.68 in chips) 
+lawlex_2: posts small blind $0.01
+boxlax51: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Kd]
+Quatrehuith: folds 
+apj2010: calls $0.02
+8imanaliev: folds 
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+boxlax51: folds 
+apj2010: calls $0.03
+*** FLOP *** [9h Qs Th]
+lawlex_2: bets $0.08
+apj2010: calls $0.08
+*** TURN *** [9h Qs Th] [Qc]
+lawlex_2: bets $0.18
+apj2010: folds 
+Uncalled bet ($0.18) returned to lawlex_2
+lawlex_2 collected $0.27 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [9h Qs Th Qc]
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) collected ($0.27)
+Seat 3: boxlax51 (big blind) folded before Flop
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: apj2010 folded on the Turn
+Seat 6: 8imanaliev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890703500:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:40:38 MSK [2020/05/15 0:40:38 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.30 in chips) 
+Seat 2: lawlex_2 ($2.79 in chips) 
+Seat 3: boxlax51 ($1.87 in chips) 
+Seat 4: Quatrehuith ($3.59 in chips) 
+Seat 5: apj2010 ($2.84 in chips) 
+Seat 6: 8imanaliev ($0.68 in chips) 
+boxlax51: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Ac]
+apj2010: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7 has timed out
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: folds 
+Uncalled bet ($0.02) returned to 8imanaliev
+8imanaliev collected $0.05 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: boxlax51 (small blind) folded before Flop
+Seat 4: Quatrehuith (big blind) folded before Flop
+Seat 5: apj2010 folded before Flop (didn't bet)
+Seat 6: 8imanaliev collected ($0.05)
+
+
+
+PokerStars Hand #213890713001:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:41:02 MSK [2020/05/15 0:41:02 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.30 in chips) 
+Seat 2: lawlex_2 ($2.79 in chips) 
+Seat 3: boxlax51 ($1.86 in chips) 
+Seat 4: Quatrehuith ($3.57 in chips) 
+Seat 5: apj2010 ($2.84 in chips) 
+Seat 6: 8imanaliev ($0.71 in chips) 
+Quatrehuith: posts small blind $0.01
+apj2010: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 5d]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7 has timed out
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: folds 
+apj2010: folds 
+Uncalled bet ($0.02) returned to 8imanaliev
+apj2010 leaves the table
+8imanaliev collected $0.05 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 5: apj2010 (big blind) folded before Flop
+Seat 6: 8imanaliev collected ($0.05)
+
+
+
+PokerStars Hand #213890725714:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:41:35 MSK [2020/05/15 0:41:35 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.30 in chips) 
+Seat 2: lawlex_2 ($2.79 in chips) 
+Seat 3: boxlax51 ($1.86 in chips) 
+Seat 4: Quatrehuith ($3.56 in chips) 
+Seat 6: 8imanaliev ($0.74 in chips) 
+8imanaliev: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 5s]
+lawlex_2: folds 
+boxlax51: calls $0.02
+Quatrehuith: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+boxlax51: calls $0.02
+*** FLOP *** [Qc 3d Kh]
+Jero0987 joins the table at seat #5 
+8imanaliev: bets $0.04
+boxlax51: calls $0.04
+*** TURN *** [Qc 3d Kh] [3s]
+8imanaliev: checks 
+boxlax51: checks 
+*** RIVER *** [Qc 3d Kh 3s] [Ah]
+8imanaliev: bets $0.02
+boxlax51: folds 
+Uncalled bet ($0.02) returned to 8imanaliev
+8imanaliev collected $0.17 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Qc 3d Kh 3s Ah]
+Seat 1: Brunitoo7 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 folded on the River
+Seat 4: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 6: 8imanaliev (small blind) collected ($0.17)
+
+
+
+PokerStars Hand #213890742156:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:42:17 MSK [2020/05/15 0:42:17 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.28 in chips) 
+Seat 2: lawlex_2 ($2.79 in chips) 
+Seat 3: boxlax51 ($1.78 in chips) 
+Seat 4: Quatrehuith ($3.56 in chips) 
+Seat 6: 8imanaliev ($0.83 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Jero0987: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 3s]
+boxlax51: folds 
+Quatrehuith: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to 8imanaliev
+8imanaliev collected $0.05 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 6: 8imanaliev (button) collected ($0.05)
+
+
+
+PokerStars Hand #213890751059:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:42:40 MSK [2020/05/15 0:42:40 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.77 in chips) 
+Seat 3: boxlax51 ($1.78 in chips) 
+Seat 4: Quatrehuith ($3.56 in chips) 
+Seat 6: 8imanaliev ($0.86 in chips) 
+lawlex_2: posts small blind $0.01
+boxlax51: posts big blind $0.02
+Jero0987: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 6s]
+Quatrehuith: folds 
+8imanaliev has timed out
+8imanaliev: folds 
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+boxlax51: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) collected ($0.04)
+Seat 3: boxlax51 (big blind) folded before Flop
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 6: 8imanaliev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890761646:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:43:08 MSK [2020/05/15 0:43:08 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.79 in chips) 
+Seat 3: boxlax51 ($1.76 in chips) 
+Seat 4: Quatrehuith ($3.56 in chips) 
+Seat 6: 8imanaliev ($0.86 in chips) 
+boxlax51: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+Jero0987: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad As]
+8imanaliev: folds 
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+boxlax51: folds 
+Quatrehuith: calls $0.03
+*** FLOP *** [Qs 4c Th]
+Quatrehuith: checks 
+lawlex_2: bets $0.07
+Quatrehuith: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qs 4c Th]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) collected ($0.11)
+Seat 3: boxlax51 (small blind) folded before Flop
+Seat 4: Quatrehuith (big blind) folded on the Flop
+Seat 6: 8imanaliev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890773282:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:43:38 MSK [2020/05/15 0:43:38 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.85 in chips) 
+Seat 3: boxlax51 ($1.75 in chips) 
+Seat 4: Quatrehuith ($3.51 in chips) 
+Seat 5: Jero0987 ($2 in chips) 
+Seat 6: 8imanaliev ($0.86 in chips) 
+Quatrehuith: posts small blind $0.01
+Jero0987: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac As]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: raises $0.08 to $0.12
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+8imanaliev: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 collected ($0.11)
+Seat 3: boxlax51 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 5: Jero0987 (big blind) folded before Flop
+Seat 6: 8imanaliev folded before Flop
+
+
+
+PokerStars Hand #213890791032:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:44:24 MSK [2020/05/15 0:44:24 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.92 in chips) 
+Seat 3: boxlax51 ($1.75 in chips) 
+Seat 4: Quatrehuith ($3.50 in chips) 
+Seat 5: Jero0987 ($1.98 in chips) 
+Seat 6: 8imanaliev ($0.82 in chips) 
+Jero0987: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 6h]
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+Uncalled bet ($0.01) returned to 8imanaliev
+8imanaliev collected $0.02 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 5: Jero0987 (small blind) folded before Flop
+Seat 6: 8imanaliev (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213890795367:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:44:35 MSK [2020/05/15 0:44:35 ET]
+Table 'Edda II' 6-max Seat #5 is the button
+Seat 1: Brunitoo7 ($2.27 in chips) 
+Seat 2: lawlex_2 ($2.92 in chips) 
+Seat 3: boxlax51 ($1.75 in chips) 
+Seat 4: Quatrehuith ($3.50 in chips) 
+Seat 5: Jero0987 ($1.97 in chips) 
+Seat 6: 8imanaliev ($0.83 in chips) 
+8imanaliev: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 9h]
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: raises $0.04 to $0.06
+Jero0987: folds 
+8imanaliev: folds 
+Brunitoo7: raises $0.12 to $0.18
+Quatrehuith: calls $0.12
+*** FLOP *** [Ad 2d 8c]
+Brunitoo7: checks 
+Quatrehuith: bets $0.14
+Brunitoo7: calls $0.14
+*** TURN *** [Ad 2d 8c] [Ts]
+Brunitoo7: checks 
+Quatrehuith: checks 
+*** RIVER *** [Ad 2d 8c Ts] [Qd]
+Brunitoo7: checks 
+Quatrehuith: checks 
+*** SHOW DOWN ***
+Brunitoo7: shows [Kh Ks] (a pair of Kings)
+Quatrehuith: shows [Ac Js] (a pair of Aces)
+Quatrehuith collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [Ad 2d 8c Ts Qd]
+Seat 1: Brunitoo7 (big blind) showed [Kh Ks] and lost with a pair of Kings
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith showed [Ac Js] and won ($0.63) with a pair of Aces
+Seat 5: Jero0987 (button) folded before Flop (didn't bet)
+Seat 6: 8imanaliev (small blind) folded before Flop
+
+
+
+PokerStars Hand #213890827984:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:46:00 MSK [2020/05/15 0:46:00 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2 in chips) 
+Seat 2: lawlex_2 ($2.92 in chips) 
+Seat 3: boxlax51 ($1.75 in chips) 
+Seat 4: Quatrehuith ($3.81 in chips) 
+Seat 5: Jero0987 ($1.97 in chips) 
+Seat 6: 8imanaliev ($0.82 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 8d]
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to 8imanaliev
+8imanaliev collected $0.05 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev (button) collected ($0.05)
+
+
+
+PokerStars Hand #213890836651:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:46:22 MSK [2020/05/15 0:46:22 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2 in chips) 
+Seat 2: lawlex_2 ($2.90 in chips) 
+Seat 3: boxlax51 ($1.75 in chips) 
+Seat 4: Quatrehuith ($3.81 in chips) 
+Seat 5: Jero0987 ($1.97 in chips) 
+Seat 6: 8imanaliev ($0.85 in chips) 
+lawlex_2: posts small blind $0.01
+boxlax51: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 9d]
+Quatrehuith: raises $0.04 to $0.06
+Jero0987: folds 
+8imanaliev: folds 
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Uncalled bet ($0.04) returned to Quatrehuith
+Quatrehuith collected $0.05 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: boxlax51 (big blind) folded before Flop
+Seat 4: Quatrehuith collected ($0.05)
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890844140:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:46:42 MSK [2020/05/15 0:46:42 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2 in chips) 
+Seat 2: lawlex_2 ($2.89 in chips) 
+Seat 3: boxlax51 ($1.73 in chips) 
+Seat 4: Quatrehuith ($3.84 in chips) 
+Seat 5: Jero0987 ($1.97 in chips) 
+Seat 6: 8imanaliev ($0.85 in chips) 
+boxlax51: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Tc]
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: calls $0.04
+boxlax51: calls $0.03
+Quatrehuith: folds 
+*** FLOP *** [7c Kh Ac]
+boxlax51: checks 
+8imanaliev: checks 
+lawlex_2: bets $0.09
+boxlax51: folds 
+8imanaliev: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7c Kh Ac]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) collected ($0.14)
+Seat 3: boxlax51 (small blind) folded on the Flop
+Seat 4: Quatrehuith (big blind) folded before Flop
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev folded on the Flop
+
+
+
+PokerStars Hand #213890854862:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:47:10 MSK [2020/05/15 0:47:10 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2 in chips) 
+Seat 2: lawlex_2 ($2.99 in chips) 
+Seat 3: boxlax51 ($1.69 in chips) 
+Seat 4: Quatrehuith ($3.82 in chips) 
+Seat 5: Jero0987 ($1.97 in chips) 
+Seat 6: 8imanaliev ($0.81 in chips) 
+Quatrehuith: posts small blind $0.01
+Jero0987: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 8s]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: calls $0.03
+Jero0987: folds 
+*** FLOP *** [9c 6d Ad]
+Quatrehuith: checks 
+8imanaliev: checks 
+*** TURN *** [9c 6d Ad] [5d]
+Quatrehuith: bets $0.06
+8imanaliev: folds 
+Uncalled bet ($0.06) returned to Quatrehuith
+Quatrehuith collected $0.10 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9c 6d Ad 5d]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) collected ($0.10)
+Seat 5: Jero0987 (big blind) folded before Flop
+Seat 6: 8imanaliev folded on the Turn
+
+
+
+PokerStars Hand #213890867504:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:47:43 MSK [2020/05/15 0:47:43 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2 in chips) 
+Seat 2: lawlex_2 ($2.99 in chips) 
+Seat 3: boxlax51 ($1.69 in chips) 
+Seat 4: Quatrehuith ($3.88 in chips) 
+Seat 5: Jero0987 ($1.95 in chips) 
+Seat 6: 8imanaliev ($0.77 in chips) 
+Jero0987: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 8c]
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: raises $0.04 to $0.06
+Jero0987: folds 
+8imanaliev: calls $0.04
+*** FLOP *** [6s Qc As]
+8imanaliev: checks 
+Quatrehuith: bets $0.07
+8imanaliev: folds 
+Uncalled bet ($0.07) returned to Quatrehuith
+Quatrehuith collected $0.13 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6s Qc As]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) collected ($0.13)
+Seat 5: Jero0987 (small blind) folded before Flop
+Seat 6: 8imanaliev (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213890882106:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:48:20 MSK [2020/05/15 0:48:20 ET]
+Table 'Edda II' 6-max Seat #5 is the button
+Seat 1: Brunitoo7 ($2 in chips) 
+Seat 2: lawlex_2 ($2.99 in chips) 
+Seat 3: boxlax51 ($1.69 in chips) 
+Seat 4: Quatrehuith ($3.95 in chips) 
+Seat 5: Jero0987 ($1.94 in chips) 
+Seat 6: 8imanaliev ($0.71 in chips) 
+8imanaliev: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 2h]
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+8imanaliev: calls $0.01
+Brunitoo7: checks 
+*** FLOP *** [Ah Th 5c]
+8imanaliev: checks 
+Brunitoo7: checks 
+*** TURN *** [Ah Th 5c] [Ac]
+8imanaliev: bets $0.02
+Brunitoo7: calls $0.02
+*** RIVER *** [Ah Th 5c Ac] [As]
+8imanaliev: bets $0.02
+Brunitoo7: calls $0.02
+*** SHOW DOWN ***
+8imanaliev: shows [9d 2d] (three of a kind, Aces)
+Brunitoo7: shows [5d 2s] (a full house, Aces full of Fives)
+Brunitoo7 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ah Th 5c Ac As]
+Seat 1: Brunitoo7 (big blind) showed [5d 2s] and won ($0.12) with a full house, Aces full of Fives
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 (button) folded before Flop (didn't bet)
+Seat 6: 8imanaliev (small blind) showed [9d 2d] and lost with three of a kind, Aces
+
+
+
+PokerStars Hand #213890894687:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:48:53 MSK [2020/05/15 0:48:53 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.06 in chips) 
+Seat 2: lawlex_2 ($2.99 in chips) 
+Seat 3: boxlax51 ($1.69 in chips) 
+Seat 4: Quatrehuith ($3.95 in chips) 
+Seat 5: Jero0987 ($1.94 in chips) 
+Seat 6: 8imanaliev ($0.65 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 4s]
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to 8imanaliev
+8imanaliev collected $0.05 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev (button) collected ($0.05)
+
+
+
+PokerStars Hand #213890903408:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:49:11 MSK [2020/05/15 0:49:11 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.05 in chips) 
+Seat 2: lawlex_2 ($2.97 in chips) 
+Seat 3: boxlax51 ($1.69 in chips) 
+Seat 4: Quatrehuith ($3.95 in chips) 
+Seat 5: Jero0987 ($1.94 in chips) 
+Seat 6: 8imanaliev ($0.68 in chips) 
+lawlex_2: posts small blind $0.01
+boxlax51: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 2h]
+Quatrehuith: raises $0.04 to $0.06
+Jero0987: folds 
+8imanaliev: folds 
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Uncalled bet ($0.04) returned to Quatrehuith
+Quatrehuith collected $0.05 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: boxlax51 (big blind) folded before Flop
+Seat 4: Quatrehuith collected ($0.05)
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213890909738:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:49:28 MSK [2020/05/15 0:49:28 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.05 in chips) 
+Seat 2: lawlex_2 ($2.96 in chips) 
+Seat 3: boxlax51 ($1.67 in chips) 
+Seat 4: Quatrehuith ($3.98 in chips) 
+Seat 5: Jero0987 ($1.94 in chips) 
+Seat 6: 8imanaliev ($0.68 in chips) 
+boxlax51: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Td]
+Jero0987 has timed out
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: raises $0.10 to $0.14
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: folds 
+8imanaliev: calls $0.10
+*** FLOP *** [Js 5s 9s]
+8imanaliev: checks 
+Brunitoo7: checks 
+*** TURN *** [Js 5s 9s] [8d]
+8imanaliev: checks 
+Brunitoo7: checks 
+*** RIVER *** [Js 5s 9s 8d] [7d]
+8imanaliev: checks 
+Brunitoo7: checks 
+*** SHOW DOWN ***
+8imanaliev: shows [Kd 9h] (a pair of Nines)
+Brunitoo7: mucks hand 
+8imanaliev collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Js 5s 9s 8d 7d]
+Seat 1: Brunitoo7 mucked [Ac Qs]
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: boxlax51 (small blind) folded before Flop
+Seat 4: Quatrehuith (big blind) folded before Flop
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev showed [Kd 9h] and won ($0.30) with a pair of Nines
+
+
+
+PokerStars Hand #213890940694:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:50:49 MSK [2020/05/15 0:50:49 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2 in chips) 
+Seat 2: lawlex_2 ($2.96 in chips) 
+Seat 3: boxlax51 ($1.66 in chips) 
+Seat 4: Quatrehuith ($3.96 in chips) 
+Seat 5: Jero0987 ($1.94 in chips) 
+Seat 6: 8imanaliev ($0.84 in chips) 
+Quatrehuith: posts small blind $0.01
+Jero0987: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 2c]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: calls $0.04
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+*** FLOP *** [9d Ac 7c]
+8imanaliev: checks 
+Brunitoo7: bets $0.05
+8imanaliev: folds 
+Uncalled bet ($0.05) returned to Brunitoo7
+Brunitoo7 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9d Ac 7c]
+Seat 1: Brunitoo7 collected ($0.11)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 5: Jero0987 (big blind) folded before Flop
+Seat 6: 8imanaliev folded on the Flop
+
+
+
+PokerStars Hand #213890951313:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:51:17 MSK [2020/05/15 0:51:17 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.07 in chips) 
+Seat 2: lawlex_2 ($2.96 in chips) 
+Seat 3: boxlax51 ($1.66 in chips) 
+Seat 4: Quatrehuith ($3.95 in chips) 
+Seat 5: Jero0987 ($1.92 in chips) 
+Seat 6: 8imanaliev ($0.80 in chips) 
+Jero0987: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 6d]
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: calls $0.02
+Quatrehuith: raises $0.06 to $0.08
+Jero0987: folds 
+8imanaliev: calls $0.06
+boxlax51: calls $0.06
+*** FLOP *** [Ah 9h Ac]
+8imanaliev: checks 
+boxlax51: checks 
+Quatrehuith: bets $0.08
+8imanaliev: calls $0.08
+boxlax51: folds 
+*** TURN *** [Ah 9h Ac] [Qc]
+8imanaliev: checks 
+Quatrehuith: checks 
+*** RIVER *** [Ah 9h Ac Qc] [3d]
+8imanaliev: bets $0.16
+Quatrehuith: calls $0.16
+*** SHOW DOWN ***
+8imanaliev: shows [Ad 2c] (three of a kind, Aces)
+Quatrehuith: mucks hand 
+8imanaliev collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Ah 9h Ac Qc 3d]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 folded on the Flop
+Seat 4: Quatrehuith (button) mucked [Kd Tc]
+Seat 5: Jero0987 (small blind) folded before Flop
+Seat 6: 8imanaliev (big blind) showed [Ad 2c] and won ($0.70) with three of a kind, Aces
+
+
+
+PokerStars Hand #213890975235:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:52:20 MSK [2020/05/15 0:52:20 ET]
+Table 'Edda II' 6-max Seat #5 is the button
+Seat 1: Brunitoo7 ($2.07 in chips) 
+Seat 2: lawlex_2 ($2.96 in chips) 
+Seat 3: boxlax51 ($1.58 in chips) 
+Seat 4: Quatrehuith ($3.63 in chips) 
+Seat 5: Jero0987 ($1.91 in chips) 
+Seat 6: 8imanaliev ($1.18 in chips) 
+8imanaliev: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 4c]
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: raises $0.08 to $0.12
+8imanaliev: folds 
+Uncalled bet ($0.08) returned to Brunitoo7
+Brunitoo7 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Brunitoo7 (big blind) collected ($0.08)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 (button) folded before Flop (didn't bet)
+Seat 6: 8imanaliev (small blind) folded before Flop
+
+
+
+PokerStars Hand #213890985549:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:52:47 MSK [2020/05/15 0:52:47 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.11 in chips) 
+Seat 2: lawlex_2 ($2.96 in chips) 
+Seat 3: boxlax51 ($1.58 in chips) 
+Seat 4: Quatrehuith ($3.63 in chips) 
+Seat 5: Jero0987 ($1.91 in chips) 
+Seat 6: 8imanaliev ($1.14 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Jh]
+boxlax51: calls $0.02
+Quatrehuith: folds 
+Jero0987 has timed out
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: raises $0.10 to $0.14
+lawlex_2: folds 
+boxlax51: calls $0.12
+8imanaliev: calls $0.10
+*** FLOP *** [Td 8h 4d]
+Brunitoo7: checks 
+boxlax51: checks 
+8imanaliev: bets $0.14
+Brunitoo7: raises $0.14 to $0.28
+boxlax51: folds 
+8imanaliev: folds 
+Uncalled bet ($0.14) returned to Brunitoo7
+Brunitoo7 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [Td 8h 4d]
+Seat 1: Brunitoo7 (small blind) collected ($0.69)
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: boxlax51 folded on the Flop
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev (button) folded on the Flop
+
+
+
+PokerStars Hand #213891022006:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:54:09 MSK [2020/05/15 0:54:09 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.52 in chips) 
+Seat 2: lawlex_2 ($2.94 in chips) 
+Seat 3: boxlax51 ($1.44 in chips) 
+Seat 4: Quatrehuith ($3.63 in chips) 
+Seat 5: Jero0987 ($1.91 in chips) 
+Seat 6: 8imanaliev ($0.86 in chips) 
+lawlex_2: posts small blind $0.01
+boxlax51: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 6d]
+Quatrehuith: folds 
+Jero0987: raises $0.04 to $0.06
+8imanaliev: calls $0.06
+Brunitoo7: calls $0.06
+lawlex_2: folds 
+boxlax51: folds 
+*** FLOP *** [8s 5c Js]
+Jero0987: bets $0.13
+8imanaliev: calls $0.13
+Brunitoo7: folds 
+*** TURN *** [8s 5c Js] [As]
+Jero0987: bets $0.22
+8imanaliev: folds 
+Uncalled bet ($0.22) returned to Jero0987
+Jero0987 collected $0.45 from pot
+Jero0987: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [8s 5c Js As]
+Seat 1: Brunitoo7 (button) folded on the Flop
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: boxlax51 (big blind) folded before Flop
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 collected ($0.45)
+Seat 6: 8imanaliev folded on the Turn
+
+
+
+PokerStars Hand #213891050045:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:55:26 MSK [2020/05/15 0:55:26 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.46 in chips) 
+Seat 2: lawlex_2 ($2.93 in chips) 
+Seat 3: boxlax51 ($1.42 in chips) 
+Seat 4: Quatrehuith ($3.63 in chips) 
+Seat 5: Jero0987 ($2.17 in chips) 
+Seat 6: 8imanaliev ($0.67 in chips) 
+boxlax51: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Ks]
+Jero0987: raises $0.04 to $0.06
+8imanaliev: folds 
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: calls $0.05
+Quatrehuith: folds 
+*** FLOP *** [5s 6s Ad]
+boxlax51: checks 
+Jero0987: bets $0.09
+boxlax51: folds 
+Uncalled bet ($0.09) returned to Jero0987
+Jero0987 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5s 6s Ad]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: boxlax51 (small blind) folded on the Flop
+Seat 4: Quatrehuith (big blind) folded before Flop
+Seat 5: Jero0987 collected ($0.14)
+Seat 6: 8imanaliev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213891062148:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:56:05 MSK [2020/05/15 0:56:05 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.46 in chips) 
+Seat 2: lawlex_2 ($2.93 in chips) 
+Seat 3: boxlax51 ($1.36 in chips) 
+Seat 4: Quatrehuith ($3.61 in chips) 
+Seat 5: Jero0987 ($2.25 in chips) 
+Seat 6: 8imanaliev ($0.67 in chips) 
+Quatrehuith: posts small blind $0.01
+Jero0987: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 8h]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: calls $0.04
+Quatrehuith: folds 
+Jero0987: folds 
+*** FLOP *** [8c As Qc]
+8imanaliev: bets $0.04
+boxlax51: calls $0.04
+*** TURN *** [8c As Qc] [7d]
+8imanaliev: bets $0.08
+boxlax51: calls $0.08
+*** RIVER *** [8c As Qc 7d] [Jd]
+8imanaliev: checks 
+boxlax51: checks 
+*** SHOW DOWN ***
+8imanaliev: shows [2s Ah] (a pair of Aces)
+boxlax51: mucks hand 
+8imanaliev collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [8c As Qc 7d Jd]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 (button) mucked [5c Jc]
+Seat 4: Quatrehuith (small blind) folded before Flop
+Seat 5: Jero0987 (big blind) folded before Flop
+Seat 6: 8imanaliev showed [2s Ah] and won ($0.34) with a pair of Aces
+
+
+
+PokerStars Hand #213891081180:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:56:49 MSK [2020/05/15 0:56:49 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.46 in chips) 
+Seat 2: lawlex_2 ($2.93 in chips) 
+Seat 3: boxlax51 ($1.20 in chips) 
+Seat 4: Quatrehuith ($3.60 in chips) 
+Seat 5: Jero0987 ($2.23 in chips) 
+Seat 6: 8imanaliev ($0.85 in chips) 
+Jero0987: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc Kd]
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+8imanaliev: calls $0.03
+*** FLOP *** [4h Qd 3s]
+8imanaliev: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to 8imanaliev
+8imanaliev collected $0.11 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4h Qd 3s]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 5: Jero0987 (small blind) folded before Flop
+Seat 6: 8imanaliev (big blind) collected ($0.11)
+
+
+
+PokerStars Hand #213891093961:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:57:30 MSK [2020/05/15 0:57:30 ET]
+Table 'Edda II' 6-max Seat #5 is the button
+Seat 1: Brunitoo7 ($2.46 in chips) 
+Seat 2: lawlex_2 ($2.88 in chips) 
+Seat 3: boxlax51 ($1.20 in chips) 
+Seat 4: Quatrehuith ($3.60 in chips) 
+Seat 5: Jero0987 ($2.22 in chips) 
+Seat 6: 8imanaliev ($0.91 in chips) 
+8imanaliev: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Kh]
+lawlex_2: raises $0.03 to $0.05
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+8imanaliev: raises $0.05 to $0.10
+Brunitoo7: folds 
+lawlex_2: raises $0.22 to $0.32
+8imanaliev: raises $0.59 to $0.91 and is all-in
+lawlex_2: calls $0.59
+*** FLOP *** [9c Ad 6h]
+*** TURN *** [9c Ad 6h] [9s]
+*** RIVER *** [9c Ad 6h 9s] [Jh]
+*** SHOW DOWN ***
+8imanaliev: shows [Ac Qd] (two pair, Aces and Nines)
+lawlex_2: shows [Kc Kh] (two pair, Kings and Nines)
+8imanaliev collected $1.78 from pot
+*** SUMMARY ***
+Total pot $1.84 | Rake $0.06 
+Board [9c Ad 6h 9s Jh]
+Seat 1: Brunitoo7 (big blind) folded before Flop
+Seat 2: lawlex_2 showed [Kc Kh] and lost with two pair, Kings and Nines
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 (button) folded before Flop (didn't bet)
+Seat 6: 8imanaliev (small blind) showed [Ac Qd] and won ($1.78) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #213891107469:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:58:14 MSK [2020/05/15 0:58:14 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.44 in chips) 
+Seat 2: lawlex_2 ($1.97 in chips) 
+Seat 3: boxlax51 ($1.20 in chips) 
+Seat 4: Quatrehuith ($3.60 in chips) 
+Seat 5: Jero0987 ($2.22 in chips) 
+Seat 6: 8imanaliev ($1.78 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Ks]
+boxlax51: folds 
+Quatrehuith: raises $0.04 to $0.06
+Jero0987: folds 
+8imanaliev: folds 
+8imanaliev said, ":)"
+Brunitoo7: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Quatrehuith
+Quatrehuith collected $0.05 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith collected ($0.05)
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213891113903:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:58:35 MSK [2020/05/15 0:58:35 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.43 in chips) 
+Seat 2: lawlex_2 ($1.95 in chips) 
+Seat 3: boxlax51 ($1.20 in chips) 
+Seat 4: Quatrehuith ($3.63 in chips) 
+Seat 5: Jero0987 ($2.22 in chips) 
+Seat 6: 8imanaliev ($1.78 in chips) 
+lawlex_2: posts small blind $0.01
+boxlax51: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 9d]
+Quatrehuith: folds 
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: calls $0.02
+*** FLOP *** [Kd 5c Kh]
+boxlax51: checks 
+8imanaliev: checks 
+*** TURN *** [Kd 5c Kh] [Jd]
+boxlax51: checks 
+8imanaliev: bets $0.04
+boxlax51: folds 
+Uncalled bet ($0.04) returned to 8imanaliev
+8imanaliev collected $0.09 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kd 5c Kh Jd]
+Seat 1: Brunitoo7 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: boxlax51 (big blind) folded on the Turn
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev collected ($0.09)
+
+
+
+PokerStars Hand #213891122768:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:59:04 MSK [2020/05/15 0:59:04 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.43 in chips) 
+Seat 2: lawlex_2 ($1.94 in chips) 
+Seat 3: boxlax51 ($1.16 in chips) 
+Seat 4: Quatrehuith ($3.63 in chips) 
+Seat 5: Jero0987 ($2.22 in chips) 
+Seat 6: 8imanaliev ($1.83 in chips) 
+boxlax51: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Qc]
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: folds 
+Uncalled bet ($0.02) returned to 8imanaliev
+8imanaliev collected $0.05 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: boxlax51 (small blind) folded before Flop
+Seat 4: Quatrehuith (big blind) folded before Flop
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev collected ($0.05)
+
+
+
+PokerStars Hand #213891130601:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:59:29 MSK [2020/05/15 0:59:29 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.43 in chips) 
+Seat 2: lawlex_2 ($1.94 in chips) 
+Seat 3: boxlax51 ($1.15 in chips) 
+Seat 4: Quatrehuith ($3.61 in chips) 
+Seat 5: Jero0987 ($2.22 in chips) 
+Seat 6: 8imanaliev ($1.86 in chips) 
+Quatrehuith: posts small blind $0.01
+Jero0987: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 8h]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: raises $0.10 to $0.14
+Jero0987: folds 
+8imanaliev: folds 
+Uncalled bet ($0.10) returned to Quatrehuith
+Quatrehuith collected $0.10 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) collected ($0.10)
+Seat 5: Jero0987 (big blind) folded before Flop
+Seat 6: 8imanaliev folded before Flop
+
+
+
+PokerStars Hand #213891136144:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 7:59:47 MSK [2020/05/15 0:59:47 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.43 in chips) 
+Seat 2: lawlex_2 ($1.94 in chips) 
+Seat 3: boxlax51 ($1.15 in chips) 
+Seat 4: Quatrehuith ($3.67 in chips) 
+Seat 5: Jero0987 ($2.20 in chips) 
+Seat 6: 8imanaliev ($1.82 in chips) 
+Jero0987: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Qd]
+Brunitoo7: folds 
+lawlex_2: raises $0.03 to $0.05
+boxlax51: folds 
+Quatrehuith: calls $0.05
+Jero0987: folds 
+8imanaliev: calls $0.03
+*** FLOP *** [4c 9c 4s]
+8imanaliev: checks 
+lawlex_2: bets $0.10
+Quatrehuith: calls $0.10
+8imanaliev: folds 
+*** TURN *** [4c 9c 4s] [Js]
+lawlex_2: bets $0.23
+Quatrehuith: raises $0.43 to $0.66
+lawlex_2: folds 
+Uncalled bet ($0.43) returned to Quatrehuith
+Quatrehuith collected $0.79 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [4c 9c 4s Js]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Turn
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith (button) collected ($0.79)
+Seat 5: Jero0987 (small blind) folded before Flop
+Seat 6: 8imanaliev (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213891154460:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 8:00:42 MSK [2020/05/15 1:00:42 ET]
+Table 'Edda II' 6-max Seat #5 is the button
+Seat 1: Brunitoo7 ($2.43 in chips) 
+Seat 2: lawlex_2 ($1.56 in chips) 
+Seat 3: boxlax51 ($1.15 in chips) 
+Seat 4: Quatrehuith ($4.08 in chips) 
+Seat 5: Jero0987 ($2.19 in chips) 
+Seat 6: 8imanaliev ($1.77 in chips) 
+8imanaliev: posts small blind $0.01
+Brunitoo7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 6d]
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: calls $0.02
+*** FLOP *** [Ts 8h Jh]
+8imanaliev: checks 
+Brunitoo7: bets $0.08
+8imanaliev: folds 
+Uncalled bet ($0.08) returned to Brunitoo7
+Brunitoo7 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ts 8h Jh]
+Seat 1: Brunitoo7 (big blind) collected ($0.08)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 (button) folded before Flop (didn't bet)
+Seat 6: 8imanaliev (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213891166230:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 8:01:15 MSK [2020/05/15 1:01:15 ET]
+Table 'Edda II' 6-max Seat #6 is the button
+Seat 1: Brunitoo7 ($2.47 in chips) 
+Seat 2: lawlex_2 ($1.56 in chips) 
+Seat 3: boxlax51 ($1.15 in chips) 
+Seat 4: Quatrehuith ($4.08 in chips) 
+Seat 5: Jero0987 ($2.19 in chips) 
+Seat 6: 8imanaliev ($1.73 in chips) 
+Brunitoo7: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 5h]
+boxlax51: folds 
+Quatrehuith: folds 
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: calls $0.03
+lawlex_2: folds 
+*** FLOP *** [Ad 3h Qs]
+Brunitoo7: checks 
+8imanaliev: checks 
+*** TURN *** [Ad 3h Qs] [Kd]
+Brunitoo7: bets $0.10
+8imanaliev: folds 
+Uncalled bet ($0.10) returned to Brunitoo7
+Brunitoo7 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Ad 3h Qs Kd]
+Seat 1: Brunitoo7 (small blind) collected ($0.10)
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: boxlax51 folded before Flop (didn't bet)
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev (button) folded on the Turn
+
+
+
+PokerStars Hand #213891181658:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 8:01:57 MSK [2020/05/15 1:01:57 ET]
+Table 'Edda II' 6-max Seat #1 is the button
+Seat 1: Brunitoo7 ($2.53 in chips) 
+Seat 2: lawlex_2 ($1.54 in chips) 
+Seat 3: boxlax51 ($1.15 in chips) 
+Seat 4: Quatrehuith ($4.08 in chips) 
+Seat 5: Jero0987 ($2.19 in chips) 
+Seat 6: 8imanaliev ($1.69 in chips) 
+lawlex_2: posts small blind $0.01
+boxlax51: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 9h]
+Quatrehuith: folds 
+Jero0987 has timed out
+Jero0987: folds 
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: calls $0.04
+lawlex_2: folds 
+boxlax51: calls $0.02
+*** FLOP *** [8d 9d Ad]
+boxlax51: checks 
+8imanaliev: bets $0.06
+Brunitoo7: folds 
+boxlax51: folds 
+Uncalled bet ($0.06) returned to 8imanaliev
+8imanaliev collected $0.13 from pot
+8imanaliev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8d 9d Ad]
+Seat 1: Brunitoo7 (button) folded on the Flop
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: boxlax51 (big blind) folded on the Flop
+Seat 4: Quatrehuith folded before Flop (didn't bet)
+Seat 5: Jero0987 folded before Flop (didn't bet)
+Seat 6: 8imanaliev collected ($0.13)
+
+
+
+PokerStars Hand #213891195450:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 8:02:35 MSK [2020/05/15 1:02:35 ET]
+Table 'Edda II' 6-max Seat #2 is the button
+Seat 1: Brunitoo7 ($2.49 in chips) 
+Seat 2: lawlex_2 ($1.53 in chips) 
+Seat 3: boxlax51 ($1.11 in chips) 
+Seat 4: Quatrehuith ($4.08 in chips) 
+Seat 5: Jero0987 ($2.19 in chips) 
+Seat 6: 8imanaliev ($1.78 in chips) 
+boxlax51: posts small blind $0.01
+Quatrehuith: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 3d]
+Jero0987: raises $0.04 to $0.06
+8imanaliev: calls $0.06
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: calls $0.05
+Quatrehuith: folds 
+*** FLOP *** [6c 7c 5d]
+boxlax51: bets $0.10
+Jero0987: folds 
+8imanaliev: folds 
+Uncalled bet ($0.10) returned to boxlax51
+boxlax51 collected $0.19 from pot
+boxlax51: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6c 7c 5d]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: boxlax51 (small blind) collected ($0.19)
+Seat 4: Quatrehuith (big blind) folded before Flop
+Seat 5: Jero0987 folded on the Flop
+Seat 6: 8imanaliev folded on the Flop
+
+
+
+PokerStars Hand #213891214111:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 8:03:25 MSK [2020/05/15 1:03:25 ET]
+Table 'Edda II' 6-max Seat #3 is the button
+Seat 1: Brunitoo7 ($2.49 in chips) 
+Seat 2: lawlex_2 ($1.53 in chips) 
+Seat 3: boxlax51 ($1.24 in chips) 
+Seat 4: Quatrehuith ($4.06 in chips) 
+Seat 5: Jero0987 ($2.13 in chips) 
+Seat 6: 8imanaliev ($1.72 in chips) 
+Quatrehuith: posts small blind $0.01
+Jero0987: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Jc]
+8imanaliev: raises $0.02 to $0.04
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: folds 
+Quatrehuith: raises $0.14 to $0.18
+Jero0987: folds 
+8imanaliev: folds 
+Uncalled bet ($0.14) returned to Quatrehuith
+Quatrehuith collected $0.10 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 (button) folded before Flop (didn't bet)
+Seat 4: Quatrehuith (small blind) collected ($0.10)
+Seat 5: Jero0987 (big blind) folded before Flop
+Seat 6: 8imanaliev folded before Flop
+
+
+
+PokerStars Hand #213891221484:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 8:03:45 MSK [2020/05/15 1:03:45 ET]
+Table 'Edda II' 6-max Seat #4 is the button
+Seat 1: Brunitoo7 ($2.49 in chips) 
+Seat 2: lawlex_2 ($1.53 in chips) 
+Seat 3: boxlax51 ($1.24 in chips) 
+Seat 4: Quatrehuith ($4.12 in chips) 
+Seat 5: Jero0987 ($2.11 in chips) 
+Seat 6: 8imanaliev ($1.68 in chips) 
+Jero0987: posts small blind $0.01
+8imanaliev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 4h]
+Brunitoo7: folds 
+lawlex_2: folds 
+boxlax51: calls $0.02
+Quatrehuith: folds 
+Jero0987: raises $0.08 to $0.10
+8imanaliev: folds 
+boxlax51: calls $0.08
+*** FLOP *** [6d Kh Ad]
+Jero0987: bets $0.07
+boxlax51: raises $0.07 to $0.14
+Jero0987: folds 
+Uncalled bet ($0.07) returned to boxlax51
+boxlax51 collected $0.35 from pot
+boxlax51: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [6d Kh Ad]
+Seat 1: Brunitoo7 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: boxlax51 collected ($0.35)
+Seat 4: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 5: Jero0987 (small blind) folded on the Flop
+Seat 6: 8imanaliev (big blind) folded before Flop
+
+
+

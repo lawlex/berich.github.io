@@ -1,0 +1,4539 @@
+﻿PokerStars Hand #213781168916:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:00:23 MSK [2020/05/13 0:00:23 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.56 in chips) 
+Seat 2: Lyonhearth ($1.71 in chips) 
+Seat 4: lamparita20 ($3.18 in chips) 
+Seat 5: Lavokid ($4.94 in chips) 
+Seat 6: gavin1228 ($3.42 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Tc]
+Lyonhearth: folds 
+lamparita20: folds 
+autohouse27 joins the table at seat #3 
+Lavokid: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to gavin1228
+gavin1228 collected $0.04 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213781176885:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:00:42 MSK [2020/05/13 0:00:42 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.54 in chips) 
+Seat 2: Lyonhearth ($1.71 in chips) 
+Seat 3: autohouse27 ($0.80 in chips) 
+Seat 4: lamparita20 ($3.18 in chips) 
+Seat 5: Lavokid ($4.94 in chips) 
+Seat 6: gavin1228 ($3.44 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+autohouse27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Ks]
+autohouse27: checks 
+lamparita20: folds 
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+autohouse27: calls $0.03
+*** FLOP *** [8h Ac Ah]
+lawlex_2: bets $0.08
+autohouse27: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8h Ac Ah]
+Seat 1: lawlex_2 (small blind) collected ($0.12)
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 3: autohouse27 folded on the Flop
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781189110:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:01:14 MSK [2020/05/13 0:01:14 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.61 in chips) 
+Seat 2: Lyonhearth ($1.69 in chips) 
+Seat 3: autohouse27 ($0.75 in chips) 
+Seat 4: lamparita20 ($3.18 in chips) 
+Seat 5: Lavokid ($4.94 in chips) 
+Seat 6: gavin1228 ($3.44 in chips) 
+Lyonhearth: posts small blind $0.01
+autohouse27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 3h]
+lamparita20: raises $0.04 to $0.06
+Lavokid: raises $0.10 to $0.16
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+autohouse27: calls $0.14
+lamparita20: calls $0.10
+*** FLOP *** [4s 7h Ac]
+autohouse27: checks 
+lamparita20: checks 
+Lavokid: bets $0.47
+autohouse27: folds 
+lamparita20: folds 
+Uncalled bet ($0.47) returned to Lavokid
+Lavokid collected $0.47 from pot
+Lavokid: doesn't show hand 
+autohouse27 leaves the table
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [4s 7h Ac]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: autohouse27 (big blind) folded on the Flop
+Seat 4: lamparita20 folded on the Flop
+Seat 5: Lavokid collected ($0.47)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781204726:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:01:54 MSK [2020/05/13 0:01:54 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.61 in chips) 
+Seat 2: Lyonhearth ($1.68 in chips) 
+Seat 4: lamparita20 ($3.02 in chips) 
+Seat 5: Lavokid ($5.25 in chips) 
+Seat 6: gavin1228 ($3.44 in chips) 
+lamparita20: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 2d]
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+lamparita20: calls $0.04
+Lavokid: calls $0.03
+*** FLOP *** [Kd 7d 3d]
+lamparita20: checks 
+Lavokid: checks 
+lawlex_2: bets $0.09
+lamparita20: calls $0.09
+Lavokid: folds 
+*** TURN *** [Kd 7d 3d] [Jh]
+lamparita20: bets $0.18
+lawlex_2: folds 
+Uncalled bet ($0.18) returned to lamparita20
+lamparita20 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Kd 7d 3d Jh]
+Seat 1: lawlex_2 folded on the Turn
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lamparita20 (small blind) collected ($0.32)
+Seat 5: Lavokid (big blind) folded on the Flop
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781228048:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:02:37 MSK [2020/05/13 0:02:37 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.47 in chips) 
+Seat 2: Lyonhearth ($1.68 in chips) 
+Seat 4: lamparita20 ($3.20 in chips) 
+Seat 5: Lavokid ($5.20 in chips) 
+Seat 6: gavin1228 ($3.44 in chips) 
+Lavokid: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Kd]
+lawlex_2: folds 
+Lyonhearth: folds 
+lamparita20: folds 
+Lavokid: calls $0.01
+gavin1228: checks 
+*** FLOP *** [6s Jh Qs]
+Lavokid: checks 
+gavin1228: checks 
+*** TURN *** [6s Jh Qs] [2c]
+Lavokid: bets $0.02
+gavin1228: folds 
+Uncalled bet ($0.02) returned to Lavokid
+Lavokid collected $0.04 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6s Jh Qs 2c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lamparita20 (button) folded before Flop (didn't bet)
+Seat 5: Lavokid (small blind) collected ($0.04)
+Seat 6: gavin1228 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213781239857:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:03:07 MSK [2020/05/13 0:03:07 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.47 in chips) 
+Seat 2: Lyonhearth ($1.68 in chips) 
+Seat 4: lamparita20 ($3.20 in chips) 
+Seat 5: Lavokid ($5.22 in chips) 
+Seat 6: gavin1228 ($3.42 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 6c]
+Lyonhearth: raises $0.04 to $0.06
+lamparita20: calls $0.06
+Lavokid: folds 
+gavin1228: folds 
+corazoncelta joins the table at seat #3 
+lawlex_2: folds 
+*** FLOP *** [Qh 2s Jc]
+Lyonhearth: bets $0.04
+lamparita20: folds 
+Uncalled bet ($0.04) returned to Lyonhearth
+Lyonhearth collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh 2s Jc]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Lyonhearth collected ($0.14)
+Seat 4: lamparita20 folded on the Flop
+Seat 5: Lavokid (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213781251593:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:03:36 MSK [2020/05/13 0:03:36 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.45 in chips) 
+Seat 2: Lyonhearth ($1.76 in chips) 
+Seat 4: lamparita20 ($3.14 in chips) 
+Seat 5: Lavokid ($5.22 in chips) 
+Seat 6: gavin1228 ($3.41 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+corazoncelta: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Ad]
+lamparita20: folds 
+Lavokid: raises $0.04 to $0.06
+gavin1228: calls $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+*** FLOP *** [5c 7s 5s]
+Lavokid: bets $0.07
+gavin1228: calls $0.07
+*** TURN *** [5c 7s 5s] [Jh]
+Lavokid: bets $0.14
+gavin1228: calls $0.14
+*** RIVER *** [5c 7s 5s Jh] [Kh]
+Lavokid: bets $0.20
+gavin1228: folds 
+Uncalled bet ($0.20) returned to Lavokid
+Lavokid collected $0.55 from pot
+Lavokid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [5c 7s 5s Jh Kh]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 4: lamparita20 folded before Flop (didn't bet)
+Seat 5: Lavokid collected ($0.55)
+Seat 6: gavin1228 (button) folded on the River
+
+
+
+PokerStars Hand #213781269307:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:04:21 MSK [2020/05/13 0:04:21 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.44 in chips) 
+Seat 2: Lyonhearth ($1.74 in chips) 
+Seat 3: corazoncelta ($2 in chips) 
+Seat 4: lamparita20 ($3.14 in chips) 
+Seat 5: Lavokid ($5.50 in chips) 
+Seat 6: gavin1228 ($3.14 in chips) 
+Lyonhearth: posts small blind $0.01
+corazoncelta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 3s]
+lamparita20: raises $0.06 to $0.08
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: folds 
+Uncalled bet ($0.06) returned to lamparita20
+lamparita20 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: corazoncelta (big blind) folded before Flop
+Seat 4: lamparita20 collected ($0.05)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781277505:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:04:42 MSK [2020/05/13 0:04:42 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.44 in chips) 
+Seat 2: Lyonhearth ($1.73 in chips) 
+Seat 3: corazoncelta ($1.98 in chips) 
+Seat 4: lamparita20 ($3.17 in chips) 
+Seat 5: Lavokid ($5.50 in chips) 
+Seat 6: gavin1228 ($3.14 in chips) 
+corazoncelta: posts small blind $0.01
+lamparita20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 9c]
+Lavokid: raises $0.02 to $0.04
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: folds 
+lamparita20: calls $0.02
+*** FLOP *** [6d 7s 4c]
+lamparita20: checks 
+Lavokid: checks 
+*** TURN *** [6d 7s 4c] [8d]
+lamparita20: checks 
+Lavokid: bets $0.04
+lamparita20: calls $0.04
+*** RIVER *** [6d 7s 4c 8d] [As]
+lamparita20: checks 
+Lavokid: bets $0.08
+lamparita20: calls $0.08
+*** SHOW DOWN ***
+Lavokid: shows [Ad Ah] (three of a kind, Aces)
+lamparita20: mucks hand 
+Lavokid collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6d 7s 4c 8d As]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: corazoncelta (small blind) folded before Flop
+Seat 4: lamparita20 (big blind) mucked [Td 6h]
+Seat 5: Lavokid showed [Ad Ah] and won ($0.32) with three of a kind, Aces
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781299730:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:05:38 MSK [2020/05/13 0:05:38 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.44 in chips) 
+Seat 2: Lyonhearth ($1.73 in chips) 
+Seat 3: corazoncelta ($1.97 in chips) 
+Seat 4: lamparita20 ($3.01 in chips) 
+Seat 5: Lavokid ($5.66 in chips) 
+Seat 6: gavin1228 ($3.14 in chips) 
+lamparita20: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 7d]
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: folds 
+lamparita20: folds 
+Lavokid: calls $0.04
+*** FLOP *** [Jc 8d 4c]
+Lavokid: checks 
+lamparita20 leaves the table
+gavin1228: bets $0.10
+Lavokid: calls $0.10
+*** TURN *** [Jc 8d 4c] [4h]
+Lavokid: checks 
+gavin1228: bets $0.24
+Lavokid: calls $0.24
+*** RIVER *** [Jc 8d 4c 4h] [2h]
+Lavokid: bets $0.39
+gavin1228: raises $0.67 to $1.06
+colorado1112 joins the table at seat #4 
+Lavokid: folds 
+Uncalled bet ($0.67) returned to gavin1228
+gavin1228 collected $1.53 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.06 
+Board [Jc 8d 4c 4h 2h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta (button) folded before Flop (didn't bet)
+Seat 4: lamparita20 (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded on the River
+Seat 6: gavin1228 collected ($1.53)
+
+
+
+PokerStars Hand #213781321363:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:06:34 MSK [2020/05/13 0:06:34 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.44 in chips) 
+Seat 2: Lyonhearth ($1.73 in chips) 
+Seat 3: corazoncelta ($1.97 in chips) 
+Seat 5: Lavokid ($4.87 in chips) 
+Seat 6: gavin1228 ($3.88 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+colorado1112: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 5h]
+Lyonhearth: folds 
+corazoncelta: folds 
+Lavokid: raises $0.04 to $0.06
+gavin1228: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [7h 2h 2s]
+lawlex_2: checks 
+Lavokid: checks 
+*** TURN *** [7h 2h 2s] [7d]
+lawlex_2: checks 
+Lavokid: bets $0.04
+lawlex_2: calls $0.04
+*** RIVER *** [7h 2h 2s 7d] [3d]
+lawlex_2: checks 
+Lavokid: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [5d 5h] (two pair, Sevens and Fives)
+Lavokid: mucks hand 
+lawlex_2 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [7h 2h 2s 7d 3d]
+Seat 1: lawlex_2 (big blind) showed [5d 5h] and won ($0.20) with two pair, Sevens and Fives
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta folded before Flop (didn't bet)
+Seat 5: Lavokid (button) mucked [Ah Jd]
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213781339461:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:07:20 MSK [2020/05/13 0:07:20 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.54 in chips) 
+Seat 2: Lyonhearth ($1.73 in chips) 
+Seat 3: corazoncelta ($1.97 in chips) 
+Seat 5: Lavokid ($4.77 in chips) 
+Seat 6: gavin1228 ($3.87 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+colorado1112: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 5c]
+corazoncelta: folds 
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (small blind) collected ($0.04)
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 3: corazoncelta folded before Flop (didn't bet)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781345914:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:07:36 MSK [2020/05/13 0:07:36 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.56 in chips) 
+Seat 2: Lyonhearth ($1.71 in chips) 
+Seat 3: corazoncelta ($1.97 in chips) 
+Seat 5: Lavokid ($4.77 in chips) 
+Seat 6: gavin1228 ($3.87 in chips) 
+Lyonhearth: posts small blind $0.01
+corazoncelta: posts big blind $0.02
+colorado1112: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 5d]
+Lavokid: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.01) returned to corazoncelta
+corazoncelta collected $0.02 from pot
+corazoncelta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: corazoncelta (big blind) collected ($0.02)
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781350596:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:07:48 MSK [2020/05/13 0:07:48 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.56 in chips) 
+Seat 2: Lyonhearth ($1.70 in chips) 
+Seat 3: corazoncelta ($1.98 in chips) 
+Seat 4: colorado1112 ($2 in chips) 
+Seat 5: Lavokid ($4.77 in chips) 
+Seat 6: gavin1228 ($3.87 in chips) 
+corazoncelta: posts small blind $0.01
+colorado1112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Th]
+Lavokid: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: calls $0.04
+*** FLOP *** [Kh 3d Qd]
+colorado1112: checks 
+gavin1228: bets $0.10
+colorado1112: folds 
+Uncalled bet ($0.10) returned to gavin1228
+gavin1228 collected $0.13 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kh 3d Qd]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: corazoncelta (small blind) folded before Flop
+Seat 4: colorado1112 (big blind) folded on the Flop
+Seat 5: Lavokid folded before Flop (didn't bet)
+Seat 6: gavin1228 collected ($0.13)
+
+
+
+PokerStars Hand #213781364166:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:08:23 MSK [2020/05/13 0:08:23 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.56 in chips) 
+Seat 2: Lyonhearth ($1.70 in chips) 
+Seat 3: corazoncelta ($1.97 in chips) 
+Seat 4: colorado1112 ($1.94 in chips) 
+Seat 5: Lavokid ($4.77 in chips) 
+Seat 6: gavin1228 ($3.94 in chips) 
+colorado1112: posts small blind $0.01
+Lavokid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 6d]
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: folds 
+Lavokid: folds 
+Uncalled bet ($0.04) returned to gavin1228
+gavin1228 collected $0.05 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta (button) folded before Flop (didn't bet)
+Seat 4: colorado1112 (small blind) folded before Flop
+Seat 5: Lavokid (big blind) folded before Flop
+Seat 6: gavin1228 collected ($0.05)
+
+
+
+PokerStars Hand #213781368044:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:08:33 MSK [2020/05/13 0:08:33 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.56 in chips) 
+Seat 2: Lyonhearth ($1.70 in chips) 
+Seat 3: corazoncelta ($1.97 in chips) 
+Seat 4: colorado1112 ($1.93 in chips) 
+Seat 5: Lavokid ($4.75 in chips) 
+Seat 6: gavin1228 ($3.97 in chips) 
+Lavokid: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 5d]
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: calls $0.02
+colorado1112: calls $0.02
+Lavokid: raises $0.04 to $0.06
+gavin1228: folds 
+corazoncelta: calls $0.04
+colorado1112: raises $0.42 to $0.48
+Lavokid: folds 
+corazoncelta: folds 
+Uncalled bet ($0.42) returned to colorado1112
+Lavokid leaves the table
+colorado1112 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta folded before Flop
+Seat 4: colorado1112 (button) collected ($0.20)
+Seat 5: Lavokid (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213781381015:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:09:07 MSK [2020/05/13 0:09:07 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.56 in chips) 
+Seat 2: Lyonhearth ($1.70 in chips) 
+Seat 3: corazoncelta ($1.91 in chips) 
+Seat 4: colorado1112 ($2.07 in chips) 
+Seat 6: gavin1228 ($3.95 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd As]
+corazoncelta: folds 
+colorado1112: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: calls $0.03
+*** FLOP *** [7c 2d 5d]
+lawlex_2: bets $0.07
+Lyonhearth: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.10 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7c 2d 5d]
+Seat 1: lawlex_2 (small blind) collected ($0.10)
+Seat 2: Lyonhearth (big blind) folded on the Flop
+Seat 3: corazoncelta folded before Flop (didn't bet)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781389601:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:09:29 MSK [2020/05/13 0:09:29 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.61 in chips) 
+Seat 2: Lyonhearth ($1.65 in chips) 
+Seat 3: corazoncelta ($1.91 in chips) 
+Seat 4: colorado1112 ($2.07 in chips) 
+Seat 6: gavin1228 ($3.95 in chips) 
+Lyonhearth: posts small blind $0.01
+corazoncelta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Ad]
+colorado1112: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+corazoncelta: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) collected ($0.05)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: corazoncelta (big blind) folded before Flop
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781397478:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:09:50 MSK [2020/05/13 0:09:50 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.64 in chips) 
+Seat 2: Lyonhearth ($1.64 in chips) 
+Seat 3: corazoncelta ($1.89 in chips) 
+Seat 4: colorado1112 ($2.07 in chips) 
+Seat 6: gavin1228 ($3.95 in chips) 
+corazoncelta: posts small blind $0.01
+colorado1112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 3d]
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: folds 
+Uncalled bet ($0.04) returned to gavin1228
+gavin1228 collected $0.05 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: corazoncelta (small blind) folded before Flop
+Seat 4: colorado1112 (big blind) folded before Flop
+Seat 6: gavin1228 collected ($0.05)
+
+
+
+PokerStars Hand #213781402168:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:10:01 MSK [2020/05/13 0:10:01 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.64 in chips) 
+Seat 2: Lyonhearth ($1.64 in chips) 
+Seat 3: corazoncelta ($1.88 in chips) 
+Seat 4: colorado1112 ($2.05 in chips) 
+Seat 6: gavin1228 ($3.98 in chips) 
+colorado1112: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh As]
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: folds 
+gavin1228: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta (button) folded before Flop (didn't bet)
+Seat 4: colorado1112 (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213781405928:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:10:11 MSK [2020/05/13 0:10:11 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.67 in chips) 
+Seat 2: Lyonhearth ($1.64 in chips) 
+Seat 3: corazoncelta ($1.88 in chips) 
+Seat 4: colorado1112 ($2.04 in chips) 
+Seat 6: gavin1228 ($3.96 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 5s]
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: folds 
+iF0LDEM joins the table at seat #5 
+gavin1228 is disconnected 
+gavin1228 is connected 
+gavin1228: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (big blind) collected ($0.02)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta folded before Flop (didn't bet)
+Seat 4: colorado1112 (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213781421478:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:10:52 MSK [2020/05/13 0:10:52 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.68 in chips) 
+Seat 2: Lyonhearth ($1.64 in chips) 
+Seat 3: corazoncelta ($1.88 in chips) 
+Seat 4: colorado1112 ($2.04 in chips) 
+Seat 5: iF0LDEM ($2 in chips) 
+Seat 6: gavin1228 ($3.95 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+iF0LDEM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Kc]
+corazoncelta: folds 
+colorado1112: calls $0.02
+iF0LDEM: checks 
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: checks 
+*** FLOP *** [Kd 3c 4s]
+Lyonhearth: checks 
+colorado1112: bets $0.04
+iF0LDEM: folds 
+Lyonhearth: calls $0.04
+*** TURN *** [Kd 3c 4s] [9c]
+Lyonhearth: checks 
+colorado1112: bets $0.06
+Lyonhearth: folds 
+Uncalled bet ($0.06) returned to colorado1112
+colorado1112 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kd 3c 4s 9c]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded on the Turn
+Seat 3: corazoncelta folded before Flop (didn't bet)
+Seat 4: colorado1112 collected ($0.14)
+Seat 5: iF0LDEM folded on the Flop (didn't bet)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781445694:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:11:39 MSK [2020/05/13 0:11:39 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.67 in chips) 
+Seat 2: Lyonhearth ($1.58 in chips) 
+Seat 3: corazoncelta ($1.88 in chips) 
+Seat 4: colorado1112 ($2.12 in chips) 
+Seat 5: iF0LDEM ($1.98 in chips) 
+Seat 6: gavin1228 ($3.95 in chips) 
+Lyonhearth: posts small blind $0.01
+corazoncelta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 7h]
+colorado1112: folds 
+iF0LDEM: calls $0.02
+gavin1228: raises $0.10 to $0.12
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: folds 
+iF0LDEM: folds 
+Uncalled bet ($0.10) returned to gavin1228
+gavin1228 collected $0.07 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: corazoncelta (big blind) folded before Flop
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: iF0LDEM folded before Flop
+Seat 6: gavin1228 collected ($0.07)
+
+
+
+PokerStars Hand #213781452372:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:11:57 MSK [2020/05/13 0:11:57 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.67 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: corazoncelta ($1.86 in chips) 
+Seat 4: colorado1112 ($2.12 in chips) 
+Seat 5: iF0LDEM ($1.96 in chips) 
+Seat 6: gavin1228 ($4 in chips) 
+corazoncelta: posts small blind $0.01
+colorado1112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Ts]
+iF0LDEM: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: calls $0.03
+*** FLOP *** [Ad Kh 7d]
+colorado1112: checks 
+lawlex_2: bets $0.07
+colorado1112: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ad Kh 7d]
+Seat 1: lawlex_2 collected ($0.11)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: corazoncelta (small blind) folded before Flop
+Seat 4: colorado1112 (big blind) folded on the Flop
+Seat 5: iF0LDEM folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781465334:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:12:30 MSK [2020/05/13 0:12:30 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.73 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: corazoncelta ($1.85 in chips) 
+Seat 4: colorado1112 ($2.07 in chips) 
+Seat 5: iF0LDEM ($1.96 in chips) 
+Seat 6: gavin1228 ($4 in chips) 
+colorado1112: posts small blind $0.01
+iF0LDEM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Tc]
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: folds 
+iF0LDEM: calls $0.04
+*** FLOP *** [6d Kc 3c]
+iF0LDEM: checks 
+gavin1228: bets $0.10
+iF0LDEM: folds 
+Uncalled bet ($0.10) returned to gavin1228
+gavin1228 collected $0.13 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6d Kc 3c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta (button) folded before Flop (didn't bet)
+Seat 4: colorado1112 (small blind) folded before Flop
+Seat 5: iF0LDEM (big blind) folded on the Flop
+Seat 6: gavin1228 collected ($0.13)
+
+
+
+PokerStars Hand #213781481275:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:13:12 MSK [2020/05/13 0:13:12 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.73 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: corazoncelta ($1.85 in chips) 
+Seat 4: colorado1112 ($2.06 in chips) 
+Seat 5: iF0LDEM ($1.90 in chips) 
+Seat 6: gavin1228 ($4.07 in chips) 
+iF0LDEM: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Kc]
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: folds 
+iF0LDEM: calls $0.01
+gavin1228: checks 
+*** FLOP *** [7d Ks Jc]
+iF0LDEM: checks 
+gavin1228: bets $0.02
+iF0LDEM: calls $0.02
+*** TURN *** [7d Ks Jc] [8d]
+iF0LDEM: checks 
+gavin1228: checks 
+*** RIVER *** [7d Ks Jc 8d] [8s]
+iF0LDEM: checks 
+gavin1228: checks 
+*** SHOW DOWN ***
+iF0LDEM: shows [Qd Kd] (two pair, Kings and Eights)
+gavin1228: mucks hand 
+iF0LDEM collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7d Ks Jc 8d 8s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta folded before Flop (didn't bet)
+Seat 4: colorado1112 (button) folded before Flop (didn't bet)
+Seat 5: iF0LDEM (small blind) showed [Qd Kd] and won ($0.08) with two pair, Kings and Eights
+Seat 6: gavin1228 (big blind) mucked [Jd 5h]
+
+
+
+PokerStars Hand #213781497953:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:13:55 MSK [2020/05/13 0:13:55 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.73 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: corazoncelta ($1.85 in chips) 
+Seat 4: colorado1112 ($2.06 in chips) 
+Seat 5: iF0LDEM ($1.94 in chips) 
+Seat 6: gavin1228 ($4.03 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Kh]
+Lyonhearth: folds 
+corazoncelta: calls $0.02
+colorado1112: calls $0.02
+iF0LDEM: folds 
+gavin1228: folds 
+lawlex_2: checks 
+*** FLOP *** [6s 7c 5c]
+lawlex_2: bets $0.05
+corazoncelta: folds 
+colorado1112: calls $0.05
+*** TURN *** [6s 7c 5c] [7s]
+lawlex_2: bets $0.11
+colorado1112: calls $0.11
+*** RIVER *** [6s 7c 5c 7s] [Kd]
+lawlex_2: bets $0.25
+colorado1112: folds 
+Uncalled bet ($0.25) returned to lawlex_2
+lawlex_2 collected $0.38 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [6s 7c 5c 7s Kd]
+Seat 1: lawlex_2 (big blind) collected ($0.38)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta folded on the Flop
+Seat 4: colorado1112 folded on the River
+Seat 5: iF0LDEM (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213781511709:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:14:31 MSK [2020/05/13 0:14:31 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.93 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: corazoncelta ($1.83 in chips) 
+Seat 4: colorado1112 ($1.88 in chips) 
+Seat 5: iF0LDEM ($1.94 in chips) 
+Seat 6: gavin1228 ($4.02 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Kd]
+corazoncelta: folds 
+colorado1112: calls $0.02
+iF0LDEM: calls $0.02
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: checks 
+*** FLOP *** [8s 4d 5h]
+Lyonhearth: checks 
+colorado1112: bets $0.06
+iF0LDEM: raises $0.06 to $0.12
+Lyonhearth: folds 
+colorado1112: folds 
+Uncalled bet ($0.06) returned to iF0LDEM
+iF0LDEM collected $0.18 from pot
+iF0LDEM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8s 4d 5h]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded on the Flop
+Seat 3: corazoncelta folded before Flop (didn't bet)
+Seat 4: colorado1112 folded on the Flop
+Seat 5: iF0LDEM collected ($0.18)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781524789:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:15:06 MSK [2020/05/13 0:15:06 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.92 in chips) 
+Seat 2: Lyonhearth ($1.55 in chips) 
+Seat 3: corazoncelta ($1.83 in chips) 
+Seat 4: colorado1112 ($1.80 in chips) 
+Seat 5: iF0LDEM ($2.04 in chips) 
+Seat 6: gavin1228 ($4.02 in chips) 
+Lyonhearth: posts small blind $0.01
+corazoncelta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Js]
+colorado1112: calls $0.02
+iF0LDEM: calls $0.02
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: checks 
+*** FLOP *** [Td 6d Ts]
+corazoncelta: checks 
+colorado1112: checks 
+iF0LDEM: checks 
+*** TURN *** [Td 6d Ts] [Jd]
+corazoncelta: checks 
+colorado1112: bets $0.02
+iF0LDEM: calls $0.02
+corazoncelta: folds 
+*** RIVER *** [Td 6d Ts Jd] [As]
+colorado1112: bets $0.02
+iF0LDEM: calls $0.02
+*** SHOW DOWN ***
+colorado1112: shows [7s 7c] (two pair, Tens and Sevens)
+iF0LDEM: mucks hand 
+colorado1112 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Td 6d Ts Jd As]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: corazoncelta (big blind) folded on the Turn
+Seat 4: colorado1112 showed [7s 7c] and won ($0.14) with two pair, Tens and Sevens
+Seat 5: iF0LDEM mucked [6c Qs]
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781547576:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:16:07 MSK [2020/05/13 0:16:07 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.92 in chips) 
+Seat 2: Lyonhearth ($1.54 in chips) 
+Seat 3: corazoncelta ($1.81 in chips) 
+Seat 4: colorado1112 ($1.88 in chips) 
+Seat 5: iF0LDEM ($1.98 in chips) 
+Seat 6: gavin1228 ($4.02 in chips) 
+corazoncelta: posts small blind $0.01
+colorado1112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Qd]
+iF0LDEM: calls $0.02
+gavin1228: raises $0.06 to $0.08
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: folds 
+iF0LDEM: calls $0.06
+*** FLOP *** [4h 5d Ac]
+iF0LDEM: checks 
+gavin1228: bets $0.12
+iF0LDEM: raises $0.12 to $0.24
+gavin1228: calls $0.12
+*** TURN *** [4h 5d Ac] [Ks]
+iF0LDEM: bets $0.32
+gavin1228: calls $0.32
+*** RIVER *** [4h 5d Ac Ks] [Kc]
+iF0LDEM: bets $0.62
+gavin1228: calls $0.62
+*** SHOW DOWN ***
+iF0LDEM: shows [6d As] (two pair, Aces and Kings)
+gavin1228: shows [Ad 8d] (two pair, Aces and Kings - Eight kicker)
+gavin1228 collected $2.46 from pot
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.09 
+Board [4h 5d Ac Ks Kc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: corazoncelta (small blind) folded before Flop
+Seat 4: colorado1112 (big blind) folded before Flop
+Seat 5: iF0LDEM showed [6d As] and lost with two pair, Aces and Kings
+Seat 6: gavin1228 showed [Ad 8d] and won ($2.46) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #213781574518:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:17:18 MSK [2020/05/13 0:17:18 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.92 in chips) 
+Seat 2: Lyonhearth ($1.54 in chips) 
+Seat 3: corazoncelta ($1.80 in chips) 
+Seat 4: colorado1112 ($1.86 in chips) 
+Seat 5: iF0LDEM ($0.72 in chips) 
+Seat 6: gavin1228 ($5.22 in chips) 
+colorado1112: posts small blind $0.01
+iF0LDEM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 5c]
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: calls $0.04
+iF0LDEM: calls $0.03
+*** FLOP *** [Td 4s 6d]
+colorado1112: checks 
+iF0LDEM: bets $0.14
+lawlex_2: folds 
+colorado1112: folds 
+Uncalled bet ($0.14) returned to iF0LDEM
+iF0LDEM collected $0.14 from pot
+iF0LDEM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Td 4s 6d]
+Seat 1: lawlex_2 folded on the Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta (button) folded before Flop (didn't bet)
+Seat 4: colorado1112 (small blind) folded on the Flop
+Seat 5: iF0LDEM (big blind) collected ($0.14)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781585331:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:17:47 MSK [2020/05/13 0:17:47 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.87 in chips) 
+Seat 2: Lyonhearth ($1.54 in chips) 
+Seat 3: corazoncelta ($1.80 in chips) 
+Seat 4: colorado1112 ($1.81 in chips) 
+Seat 5: iF0LDEM ($0.81 in chips) 
+Seat 6: gavin1228 ($5.22 in chips) 
+iF0LDEM: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 2h]
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: folds 
+iF0LDEM: calls $0.04
+gavin1228: calls $0.03
+*** FLOP *** [5s Qc As]
+iF0LDEM: bets $0.02
+gavin1228: folds 
+lawlex_2: raises $0.12 to $0.14
+iF0LDEM: folds 
+Uncalled bet ($0.12) returned to lawlex_2
+lawlex_2 collected $0.18 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5s Qc As]
+Seat 1: lawlex_2 collected ($0.18)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta folded before Flop (didn't bet)
+Seat 4: colorado1112 (button) folded before Flop (didn't bet)
+Seat 5: iF0LDEM (small blind) folded on the Flop
+Seat 6: gavin1228 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213781594235:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:18:10 MSK [2020/05/13 0:18:10 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.98 in chips) 
+Seat 2: Lyonhearth ($1.54 in chips) 
+Seat 3: corazoncelta ($1.80 in chips) 
+Seat 4: colorado1112 ($1.81 in chips) 
+Seat 5: iF0LDEM ($0.74 in chips) 
+Seat 6: gavin1228 ($5.17 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 4h]
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: calls $0.02
+iF0LDEM: calls $0.02
+gavin1228: folds 
+lawlex_2: checks 
+*** FLOP *** [Jc Kh As]
+lawlex_2: bets $0.05
+colorado1112: calls $0.05
+iF0LDEM: calls $0.05
+*** TURN *** [Jc Kh As] [Ts]
+lawlex_2: bets $0.14
+colorado1112: folds 
+iF0LDEM: raises $0.53 to $0.67 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.53) returned to iF0LDEM
+iF0LDEM collected $0.48 from pot
+iF0LDEM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Jc Kh As Ts]
+Seat 1: lawlex_2 (big blind) folded on the Turn
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta folded before Flop (didn't bet)
+Seat 4: colorado1112 folded on the Turn
+Seat 5: iF0LDEM (button) collected ($0.48)
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213781609390:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:18:51 MSK [2020/05/13 0:18:51 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.77 in chips) 
+Seat 2: Lyonhearth ($1.54 in chips) 
+Seat 3: corazoncelta ($1.80 in chips) 
+Seat 4: colorado1112 ($1.74 in chips) 
+Seat 5: iF0LDEM ($1.01 in chips) 
+Seat 6: gavin1228 ($5.16 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Qh]
+corazoncelta: calls $0.02
+colorado1112: folds 
+iF0LDEM: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: calls $0.03
+corazoncelta: calls $0.03
+*** FLOP *** [5h 6h Jc]
+lawlex_2: bets $0.09
+Lyonhearth: folds 
+corazoncelta: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5h 6h Jc]
+Seat 1: lawlex_2 (small blind) collected ($0.14)
+Seat 2: Lyonhearth (big blind) folded on the Flop
+Seat 3: corazoncelta folded on the Flop
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: iF0LDEM folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781628359:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:19:42 MSK [2020/05/13 0:19:42 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.86 in chips) 
+Seat 2: Lyonhearth ($1.49 in chips) 
+Seat 3: corazoncelta ($1.75 in chips) 
+Seat 4: colorado1112 ($1.74 in chips) 
+Seat 5: iF0LDEM ($1.01 in chips) 
+Seat 6: gavin1228 ($5.16 in chips) 
+Lyonhearth: posts small blind $0.01
+corazoncelta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Js]
+colorado1112: folds 
+iF0LDEM: folds 
+gavin1228: folds 
+lawlex_2: calls $0.02
+Lyonhearth: folds 
+corazoncelta: raises $0.08 to $0.10
+lawlex_2: calls $0.08
+*** FLOP *** [As 7s 9s]
+corazoncelta: bets $0.10
+lawlex_2: calls $0.10
+*** TURN *** [As 7s 9s] [7c]
+corazoncelta: bets $0.10
+lawlex_2: calls $0.10
+*** RIVER *** [As 7s 9s 7c] [Kc]
+corazoncelta: checks 
+lawlex_2: bets $0.39
+corazoncelta: calls $0.39
+*** SHOW DOWN ***
+lawlex_2: shows [Jd Js] (two pair, Jacks and Sevens)
+corazoncelta: shows [Qs Ad] (two pair, Aces and Sevens)
+corazoncelta collected $1.34 from pot
+*** SUMMARY ***
+Total pot $1.39 | Rake $0.05 
+Board [As 7s 9s 7c Kc]
+Seat 1: lawlex_2 (button) showed [Jd Js] and lost with two pair, Jacks and Sevens
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: corazoncelta (big blind) showed [Qs Ad] and won ($1.34) with two pair, Aces and Sevens
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: iF0LDEM folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781651318:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:20:34 MSK [2020/05/13 0:20:34 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.17 in chips) 
+Seat 2: Lyonhearth ($1.48 in chips) 
+Seat 3: corazoncelta ($2.40 in chips) 
+Seat 4: colorado1112 ($1.74 in chips) 
+Seat 5: iF0LDEM ($1.01 in chips) 
+Seat 6: gavin1228 ($5.16 in chips) 
+corazoncelta: posts small blind $0.01
+colorado1112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 8d]
+iF0LDEM: calls $0.02
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: calls $0.01
+colorado1112: checks 
+*** FLOP *** [9h Tc Jh]
+corazoncelta: checks 
+colorado1112: checks 
+iF0LDEM: checks 
+*** TURN *** [9h Tc Jh] [4c]
+corazoncelta: checks 
+colorado1112: checks 
+iF0LDEM: checks 
+*** RIVER *** [9h Tc Jh 4c] [Kc]
+corazoncelta: checks 
+colorado1112: checks 
+iF0LDEM: bets $0.02
+corazoncelta: folds 
+colorado1112: folds 
+Uncalled bet ($0.02) returned to iF0LDEM
+iF0LDEM collected $0.06 from pot
+iF0LDEM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9h Tc Jh 4c Kc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: corazoncelta (small blind) folded on the River
+Seat 4: colorado1112 (big blind) folded on the River
+Seat 5: iF0LDEM collected ($0.06)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781664779:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:21:10 MSK [2020/05/13 0:21:10 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.17 in chips) 
+Seat 2: Lyonhearth ($1.48 in chips) 
+Seat 3: corazoncelta ($2.38 in chips) 
+Seat 4: colorado1112 ($1.72 in chips) 
+Seat 5: iF0LDEM ($1.05 in chips) 
+Seat 6: gavin1228 ($5.16 in chips) 
+colorado1112: posts small blind $0.01
+iF0LDEM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 6c]
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: raises $0.08 to $0.10
+colorado1112: folds 
+iF0LDEM: folds 
+Uncalled bet ($0.08) returned to corazoncelta
+corazoncelta collected $0.05 from pot
+corazoncelta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta (button) collected ($0.05)
+Seat 4: colorado1112 (small blind) folded before Flop
+Seat 5: iF0LDEM (big blind) folded before Flop
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781672369:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:21:25 MSK [2020/05/13 0:21:25 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.17 in chips) 
+Seat 2: Lyonhearth ($1.48 in chips) 
+Seat 3: corazoncelta ($2.41 in chips) 
+Seat 4: colorado1112 ($1.71 in chips) 
+Seat 5: iF0LDEM ($1.03 in chips) 
+Seat 6: gavin1228 ($5.16 in chips) 
+iF0LDEM: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 6d]
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: calls $0.02
+colorado1112: calls $0.02
+iF0LDEM: calls $0.01
+gavin1228: checks 
+*** FLOP *** [Tc Ad Kd]
+iF0LDEM: bets $0.02
+gavin1228: folds 
+corazoncelta: calls $0.02
+colorado1112: calls $0.02
+*** TURN *** [Tc Ad Kd] [7d]
+iF0LDEM: checks 
+corazoncelta: bets $0.08
+colorado1112: calls $0.08
+iF0LDEM: folds 
+*** RIVER *** [Tc Ad Kd 7d] [9h]
+corazoncelta: bets $0.10
+colorado1112: calls $0.10
+*** SHOW DOWN ***
+corazoncelta: shows [Ac 7c] (two pair, Aces and Sevens)
+colorado1112: shows [Kh 8s] (a pair of Kings)
+corazoncelta collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Tc Ad Kd 7d 9h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta showed [Ac 7c] and won ($0.48) with two pair, Aces and Sevens
+Seat 4: colorado1112 (button) showed [Kh 8s] and lost with a pair of Kings
+Seat 5: iF0LDEM (small blind) folded on the Turn
+Seat 6: gavin1228 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213781688229:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:22:08 MSK [2020/05/13 0:22:08 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.17 in chips) 
+Seat 2: Lyonhearth ($1.48 in chips) 
+Seat 3: corazoncelta ($2.67 in chips) 
+Seat 4: colorado1112 ($1.49 in chips) 
+Seat 5: iF0LDEM ($0.99 in chips) 
+Seat 6: gavin1228 ($5.14 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 8d]
+Lyonhearth: folds 
+corazoncelta: folds 
+colorado1112: folds 
+iF0LDEM: calls $0.02
+gavin1228: folds 
+lawlex_2: checks 
+*** FLOP *** [Qs 5d Qd]
+lawlex_2: checks 
+iF0LDEM: checks 
+*** TURN *** [Qs 5d Qd] [4c]
+lawlex_2: checks 
+iF0LDEM: checks 
+*** RIVER *** [Qs 5d Qd 4c] [Ah]
+lawlex_2: checks 
+iF0LDEM: bets $0.04
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to iF0LDEM
+iF0LDEM collected $0.05 from pot
+iF0LDEM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qs 5d Qd 4c Ah]
+Seat 1: lawlex_2 (big blind) folded on the River
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: corazoncelta folded before Flop (didn't bet)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: iF0LDEM (button) collected ($0.05)
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213781701839:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:22:44 MSK [2020/05/13 0:22:44 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.15 in chips) 
+Seat 2: Lyonhearth ($1.48 in chips) 
+Seat 3: corazoncelta ($2.67 in chips) 
+Seat 4: colorado1112 ($1.49 in chips) 
+Seat 5: iF0LDEM ($1.02 in chips) 
+Seat 6: gavin1228 ($5.13 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 6s]
+corazoncelta: calls $0.02
+colorado1112: folds 
+iF0LDEM: calls $0.02
+gavin1228: raises $0.10 to $0.12
+lawlex_2: folds 
+Lyonhearth: folds 
+corazoncelta: calls $0.10
+iF0LDEM: folds 
+*** FLOP *** [2c 3c Tc]
+corazoncelta: bets $0.20
+gavin1228: raises $0.50 to $0.70
+corazoncelta: calls $0.50
+*** TURN *** [2c 3c Tc] [4c]
+corazoncelta: checks 
+gavin1228: bets $1.86
+corazoncelta: calls $1.85 and is all-in
+Uncalled bet ($0.01) returned to gavin1228
+*** RIVER *** [2c 3c Tc 4c] [6c]
+*** SHOW DOWN ***
+corazoncelta: shows [Kc 7c] (a flush, King high)
+gavin1228: shows [Ac Ks] (a flush, Ace high)
+gavin1228 collected $5.20 from pot
+*** SUMMARY ***
+Total pot $5.39 | Rake $0.19 
+Board [2c 3c Tc 4c 6c]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 3: corazoncelta showed [Kc 7c] and lost with a flush, King high
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: iF0LDEM folded before Flop
+Seat 6: gavin1228 (button) showed [Ac Ks] and won ($5.20) with a flush, Ace high
+
+
+
+PokerStars Hand #213781722691:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:23:40 MSK [2020/05/13 0:23:40 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.14 in chips) 
+Seat 2: Lyonhearth ($1.46 in chips) 
+Seat 4: colorado1112 ($1.49 in chips) 
+Seat 5: iF0LDEM ($1 in chips) 
+Seat 6: gavin1228 ($7.66 in chips) 
+Lyonhearth: posts small blind $0.01
+colorado1112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Jh]
+corazoncelta leaves the table
+iF0LDEM has timed out
+iF0LDEM: folds 
+gavin1228: folds 
+lawlex_2: calls $0.02
+Lyonhearth: raises $0.08 to $0.10
+colorado1112: folds 
+lawlex_2: calls $0.08
+*** FLOP *** [Kd 9h 7d]
+Lyonhearth: bets $0.06
+lawlex_2: calls $0.06
+*** TURN *** [Kd 9h 7d] [6s]
+Lyonhearth: bets $0.18
+Strikeone288 joins the table at seat #3 
+lawlex_2: calls $0.18
+*** RIVER *** [Kd 9h 7d 6s] [3s]
+Lyonhearth: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Lyonhearth: shows [Kc Ts] (a pair of Kings)
+lawlex_2: mucks hand 
+Lyonhearth collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [Kd 9h 7d 6s 3s]
+Seat 1: lawlex_2 (button) mucked [Js Jh]
+Seat 2: Lyonhearth (small blind) showed [Kc Ts] and won ($0.68) with a pair of Kings
+Seat 4: colorado1112 (big blind) folded before Flop
+Seat 5: iF0LDEM folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781742470:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:24:34 MSK [2020/05/13 0:24:34 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.80 in chips) 
+Seat 2: Lyonhearth ($1.80 in chips) 
+Seat 4: colorado1112 ($1.47 in chips) 
+Seat 5: iF0LDEM ($1 in chips) 
+Seat 6: gavin1228 ($7.66 in chips) 
+colorado1112: posts small blind $0.01
+iF0LDEM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Ad]
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+colorado1112: folds 
+iF0LDEM: calls $0.03
+*** FLOP *** [5d Jd 6d]
+iF0LDEM: checks 
+lawlex_2: bets $0.07
+iF0LDEM: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5d Jd 6d]
+Seat 1: lawlex_2 collected ($0.11)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: colorado1112 (small blind) folded before Flop
+Seat 5: iF0LDEM (big blind) folded on the Flop
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781762111:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:25:11 MSK [2020/05/13 0:25:11 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.86 in chips) 
+Seat 2: Lyonhearth ($1.80 in chips) 
+Seat 4: colorado1112 ($1.46 in chips) 
+Seat 5: iF0LDEM ($0.95 in chips) 
+Seat 6: gavin1228 ($7.66 in chips) 
+iF0LDEM: posts small blind $0.01
+gavin1228: posts big blind $0.02
+Strikeone288: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 8s]
+lawlex_2: folds 
+Lyonhearth: folds 
+colorado1112: calls $0.02
+iF0LDEM: raises $0.02 to $0.04
+gavin1228: calls $0.02
+colorado1112: calls $0.02
+*** FLOP *** [7h Kc 6d]
+iF0LDEM: bets $0.12
+gavin1228: calls $0.12
+colorado1112: folds 
+*** TURN *** [7h Kc 6d] [7c]
+iF0LDEM: checks 
+gavin1228: checks 
+*** RIVER *** [7h Kc 6d 7c] [3s]
+iF0LDEM: bets $0.18
+gavin1228: folds 
+Uncalled bet ($0.18) returned to iF0LDEM
+iF0LDEM collected $0.35 from pot
+iF0LDEM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [7h Kc 6d 7c 3s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 4: colorado1112 (button) folded on the Flop
+Seat 5: iF0LDEM (small blind) collected ($0.35)
+Seat 6: gavin1228 (big blind) folded on the River
+
+
+
+PokerStars Hand #213781778358:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:25:56 MSK [2020/05/13 0:25:56 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.86 in chips) 
+Seat 2: Lyonhearth ($1.80 in chips) 
+Seat 4: colorado1112 ($1.42 in chips) 
+Seat 5: iF0LDEM ($1.14 in chips) 
+Seat 6: gavin1228 ($7.50 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Strikeone288: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 7h]
+Lyonhearth: folds 
+colorado1112: folds 
+iF0LDEM: calls $0.02
+gavin1228: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+iF0LDEM: calls $0.03
+gavin1228: calls $0.03
+*** FLOP *** [2s 5d 6d]
+gavin1228: bets $0.10
+lawlex_2: folds 
+iF0LDEM: folds 
+Uncalled bet ($0.10) returned to gavin1228
+gavin1228 collected $0.14 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2s 5d 6d]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: iF0LDEM (button) folded on the Flop
+Seat 6: gavin1228 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #213781791491:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:26:31 MSK [2020/05/13 0:26:31 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.81 in chips) 
+Seat 2: Lyonhearth ($1.80 in chips) 
+Seat 4: colorado1112 ($1.42 in chips) 
+Seat 5: iF0LDEM ($1.09 in chips) 
+Seat 6: gavin1228 ($7.59 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+Strikeone288: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 4s]
+colorado1112: calls $0.02
+iF0LDEM: calls $0.02
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: checks 
+*** FLOP *** [4h 6h 2d]
+Lyonhearth: checks 
+colorado1112: checks 
+iF0LDEM: bets $0.04
+Lyonhearth: folds 
+colorado1112: calls $0.04
+*** TURN *** [4h 6h 2d] [Qh]
+colorado1112: checks 
+iF0LDEM: bets $0.14
+colorado1112: raises $0.64 to $0.78
+iF0LDEM: raises $0.25 to $1.03 and is all-in
+colorado1112: calls $0.25
+*** RIVER *** [4h 6h 2d Qh] [2h]
+*** SHOW DOWN ***
+colorado1112: shows [Qd Ah] (a flush, Ace high)
+iF0LDEM: shows [Js Qs] (two pair, Queens and Deuces)
+colorado1112 collected $2.13 from pot
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.08 
+Board [4h 6h 2d Qh 2h]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded on the Flop
+Seat 4: colorado1112 showed [Qd Ah] and won ($2.13) with a flush, Ace high
+Seat 5: iF0LDEM showed [Js Qs] and lost with two pair, Queens and Deuces
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781810617:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:27:24 MSK [2020/05/13 0:27:24 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.80 in chips) 
+Seat 2: Lyonhearth ($1.78 in chips) 
+Seat 3: Strikeone288 ($2 in chips) 
+Seat 4: colorado1112 ($2.46 in chips) 
+Seat 6: gavin1228 ($7.59 in chips) 
+Lyonhearth: posts small blind $0.01
+Strikeone288: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 3d]
+colorado1112: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+iF0LDEM leaves the table
+Lyonhearth: folds 
+Strikeone288: calls $0.04
+*** FLOP *** [Qh 6d 7d]
+Strikeone288: checks 
+gavin1228: bets $0.10
+modefokerr joins the table at seat #5 
+Strikeone288: folds 
+Uncalled bet ($0.10) returned to gavin1228
+gavin1228 collected $0.13 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qh 6d 7d]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: Strikeone288 (big blind) folded on the Flop
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 6: gavin1228 collected ($0.13)
+
+
+
+PokerStars Hand #213781820321:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:27:50 MSK [2020/05/13 0:27:50 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.80 in chips) 
+Seat 2: Lyonhearth ($1.77 in chips) 
+Seat 3: Strikeone288 ($1.94 in chips) 
+Seat 4: colorado1112 ($2.46 in chips) 
+Seat 6: gavin1228 ($7.66 in chips) 
+Strikeone288: posts small blind $0.01
+colorado1112: posts big blind $0.02
+modefokerr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 7s]
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+Uncalled bet ($0.01) returned to colorado1112
+colorado1112 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Strikeone288 (small blind) folded before Flop
+Seat 4: colorado1112 (big blind) collected ($0.02)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781828204:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:28:11 MSK [2020/05/13 0:28:11 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.80 in chips) 
+Seat 2: Lyonhearth ($1.77 in chips) 
+Seat 3: Strikeone288 ($1.93 in chips) 
+Seat 4: colorado1112 ($2.47 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($7.66 in chips) 
+colorado1112: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Th]
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+Uncalled bet ($0.04) returned to gavin1228
+gavin1228 collected $0.05 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 (button) folded before Flop (didn't bet)
+Seat 4: colorado1112 (small blind) folded before Flop
+Seat 5: modefokerr (big blind) folded before Flop
+Seat 6: gavin1228 collected ($0.05)
+
+
+
+PokerStars Hand #213781834671:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:28:29 MSK [2020/05/13 0:28:29 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.80 in chips) 
+Seat 2: Lyonhearth ($1.77 in chips) 
+Seat 3: Strikeone288 ($1.93 in chips) 
+Seat 4: colorado1112 ($2.46 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($7.69 in chips) 
+modefokerr: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 6c]
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: calls $0.03
+*** FLOP *** [2d 4s 5c]
+gavin1228: checks 
+lawlex_2: bets $0.07
+gavin1228: calls $0.07
+*** TURN *** [2d 4s 5c] [5h]
+gavin1228: bets $0.14
+lawlex_2: folds 
+Uncalled bet ($0.14) returned to gavin1228
+gavin1228 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2d 4s 5c 5h]
+Seat 1: lawlex_2 folded on the Turn
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 (button) folded before Flop (didn't bet)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #213781847112:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:29:03 MSK [2020/05/13 0:29:03 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.68 in chips) 
+Seat 2: Lyonhearth ($1.77 in chips) 
+Seat 3: Strikeone288 ($1.93 in chips) 
+Seat 4: colorado1112 ($2.46 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($7.81 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 4h]
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: raises $0.04 to $0.06
+gavin1228: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to modefokerr
+modefokerr collected $0.05 from pot
+modefokerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr (button) collected ($0.05)
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213781853762:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:29:21 MSK [2020/05/13 0:29:21 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.66 in chips) 
+Seat 2: Lyonhearth ($1.77 in chips) 
+Seat 3: Strikeone288 ($1.93 in chips) 
+Seat 4: colorado1112 ($2.46 in chips) 
+Seat 5: modefokerr ($2.03 in chips) 
+Seat 6: gavin1228 ($7.80 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Js]
+Strikeone288: raises $0.04 to $0.06
+colorado1112: calls $0.06
+modefokerr: folds 
+gavin1228: calls $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+*** FLOP *** [Qc 8s Tc]
+Strikeone288: bets $0.10
+colorado1112: calls $0.10
+gavin1228: folds 
+*** TURN *** [Qc 8s Tc] [9s]
+Strikeone288: checks 
+colorado1112: bets $0.16
+Strikeone288: calls $0.16
+*** RIVER *** [Qc 8s Tc 9s] [7d]
+Strikeone288: checks 
+colorado1112: bets $0.52
+Strikeone288: folds 
+Uncalled bet ($0.52) returned to colorado1112
+colorado1112 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Qc 8s Tc 9s 7d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 3: Strikeone288 folded on the River
+Seat 4: colorado1112 collected ($0.70)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded on the Flop
+
+
+
+PokerStars Hand #213781877340:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:30:25 MSK [2020/05/13 0:30:25 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.65 in chips) 
+Seat 2: Lyonhearth ($1.75 in chips) 
+Seat 3: Strikeone288 ($1.61 in chips) 
+Seat 4: colorado1112 ($2.84 in chips) 
+Seat 5: modefokerr ($2.03 in chips) 
+Seat 6: gavin1228 ($7.74 in chips) 
+Lyonhearth: posts small blind $0.01
+Strikeone288: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 5d]
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.01) returned to Strikeone288
+Strikeone288 collected $0.02 from pot
+Strikeone288: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: Strikeone288 (big blind) collected ($0.02)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781881911:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:30:37 MSK [2020/05/13 0:30:37 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.65 in chips) 
+Seat 2: Lyonhearth ($1.74 in chips) 
+Seat 3: Strikeone288 ($2 in chips) 
+Seat 4: colorado1112 ($2.84 in chips) 
+Seat 5: modefokerr ($2.03 in chips) 
+Seat 6: gavin1228 ($7.74 in chips) 
+Strikeone288: posts small blind $0.01
+colorado1112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Qd]
+modefokerr: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: raises $0.03 to $0.05
+Strikeone288: folds 
+colorado1112: calls $0.03
+*** FLOP *** [8d Ac Kh]
+colorado1112: checks 
+Lyonhearth: bets $0.04
+colorado1112: calls $0.04
+*** TURN *** [8d Ac Kh] [2h]
+colorado1112: checks 
+Lyonhearth: bets $0.10
+colorado1112: folds 
+Uncalled bet ($0.10) returned to Lyonhearth
+Lyonhearth collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8d Ac Kh 2h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) collected ($0.18)
+Seat 3: Strikeone288 (small blind) folded before Flop
+Seat 4: colorado1112 (big blind) folded on the Turn
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781899644:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:31:25 MSK [2020/05/13 0:31:25 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.65 in chips) 
+Seat 2: Lyonhearth ($1.83 in chips) 
+Seat 3: Strikeone288 ($1.99 in chips) 
+Seat 4: colorado1112 ($2.75 in chips) 
+Seat 5: modefokerr ($2.03 in chips) 
+Seat 6: gavin1228 ($7.74 in chips) 
+colorado1112: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 4c]
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: calls $0.05
+modefokerr: calls $0.04
+*** FLOP *** [8s 3d Jc]
+colorado1112: checks 
+modefokerr: checks 
+gavin1228: bets $0.12
+colorado1112: folds 
+modefokerr: calls $0.12
+*** TURN *** [8s 3d Jc] [2s]
+modefokerr: checks 
+gavin1228: checks 
+*** RIVER *** [8s 3d Jc 2s] [9c]
+modefokerr: checks 
+gavin1228: checks 
+*** SHOW DOWN ***
+modefokerr: shows [Th Tc] (a pair of Tens)
+gavin1228: shows [Jh Ts] (a pair of Jacks)
+gavin1228 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [8s 3d Jc 2s 9c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 (button) folded before Flop (didn't bet)
+Seat 4: colorado1112 (small blind) folded on the Flop
+Seat 5: modefokerr (big blind) showed [Th Tc] and lost with a pair of Tens
+Seat 6: gavin1228 showed [Jh Ts] and won ($0.41) with a pair of Jacks
+
+
+
+PokerStars Hand #213781921864:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:32:21 MSK [2020/05/13 0:32:21 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.65 in chips) 
+Seat 2: Lyonhearth ($1.83 in chips) 
+Seat 3: Strikeone288 ($1.99 in chips) 
+Seat 4: colorado1112 ($2.69 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($7.97 in chips) 
+modefokerr: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Ah]
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 (button) folded before Flop (didn't bet)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213781927228:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:32:35 MSK [2020/05/13 0:32:35 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.68 in chips) 
+Seat 2: Lyonhearth ($1.83 in chips) 
+Seat 3: Strikeone288 ($1.99 in chips) 
+Seat 4: colorado1112 ($2.69 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($7.95 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 8h]
+Lyonhearth: folds 
+Strikeone288: raises $0.04 to $0.06
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: raises $0.12 to $0.18
+lawlex_2: folds 
+Strikeone288: folds 
+Uncalled bet ($0.12) returned to gavin1228
+gavin1228 collected $0.14 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 folded before Flop
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #213781938789:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:33:07 MSK [2020/05/13 0:33:07 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.66 in chips) 
+Seat 2: Lyonhearth ($1.83 in chips) 
+Seat 3: Strikeone288 ($1.93 in chips) 
+Seat 4: colorado1112 ($2.69 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.03 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Qd]
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.04) returned to gavin1228
+gavin1228 collected $0.05 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213781944988:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:33:24 MSK [2020/05/13 0:33:24 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.65 in chips) 
+Seat 2: Lyonhearth ($1.81 in chips) 
+Seat 3: Strikeone288 ($1.93 in chips) 
+Seat 4: colorado1112 ($2.69 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.06 in chips) 
+Lyonhearth: posts small blind $0.01
+Strikeone288: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Kd]
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2 has timed out
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+Uncalled bet ($0.04) returned to gavin1228
+gavin1228 collected $0.05 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: Strikeone288 (big blind) folded before Flop
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 collected ($0.05)
+
+
+
+PokerStars Hand #213781968417:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:34:29 MSK [2020/05/13 0:34:29 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.65 in chips) 
+Seat 2: Lyonhearth ($1.80 in chips) 
+Seat 3: Strikeone288 ($1.90 in chips) 
+Seat 4: colorado1112 ($2.76 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.09 in chips) 
+colorado1112: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Qd]
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: raises $0.04 to $0.06
+Strikeone288: raises $0.12 to $0.18
+colorado1112: folds 
+modefokerr: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.12) returned to Strikeone288
+Strikeone288 collected $0.15 from pot
+Strikeone288: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop
+Seat 3: Strikeone288 (button) collected ($0.15)
+Seat 4: colorado1112 (small blind) folded before Flop
+Seat 5: modefokerr (big blind) folded before Flop
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213781976448:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:34:51 MSK [2020/05/13 0:34:51 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.65 in chips) 
+Seat 2: Lyonhearth ($1.74 in chips) 
+Seat 3: Strikeone288 ($1.99 in chips) 
+Seat 4: colorado1112 ($2.75 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.09 in chips) 
+modefokerr: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 4s]
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288 has timed out
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: raises $0.04 to $0.06
+gavin1228: calls $0.04
+*** FLOP *** [9h Ac Ts]
+modefokerr: bets $0.07
+gavin1228: calls $0.07
+*** TURN *** [9h Ac Ts] [6d]
+modefokerr: checks 
+gavin1228: checks 
+*** RIVER *** [9h Ac Ts 6d] [Th]
+modefokerr: checks 
+gavin1228: bets $0.18
+modefokerr: folds 
+Uncalled bet ($0.18) returned to gavin1228
+gavin1228 collected $0.25 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [9h Ac Ts 6d Th]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 (button) folded before Flop (didn't bet)
+Seat 5: modefokerr (small blind) folded on the River
+Seat 6: gavin1228 (big blind) collected ($0.25)
+
+
+
+PokerStars Hand #213781996709:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:35:47 MSK [2020/05/13 0:35:47 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.65 in chips) 
+Seat 2: Lyonhearth ($1.74 in chips) 
+Seat 3: Strikeone288 ($1.99 in chips) 
+Seat 4: colorado1112 ($2.75 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.21 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Jd]
+Lyonhearth: folds 
+Strikeone288: raises $0.04 to $0.06
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Strikeone288
+Strikeone288 collected $0.05 from pot
+Strikeone288: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 collected ($0.05)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213782002373:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:36:02 MSK [2020/05/13 0:36:02 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.63 in chips) 
+Seat 2: Lyonhearth ($1.74 in chips) 
+Seat 3: Strikeone288 ($2.02 in chips) 
+Seat 4: colorado1112 ($2.75 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.20 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Ts]
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Lyonhearth
+Lyonhearth collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) collected ($0.02)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782005981:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:36:12 MSK [2020/05/13 0:36:12 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.62 in chips) 
+Seat 2: Lyonhearth ($1.75 in chips) 
+Seat 3: Strikeone288 ($2.02 in chips) 
+Seat 4: colorado1112 ($2.75 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.20 in chips) 
+Lyonhearth: posts small blind $0.01
+Strikeone288: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 5s]
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: raises $0.04 to $0.06
+Strikeone288: calls $0.04
+*** FLOP *** [As Tc Kc]
+Lyonhearth: checks 
+Strikeone288: checks 
+*** TURN *** [As Tc Kc] [Jc]
+Lyonhearth: bets $0.04
+Strikeone288: folds 
+Uncalled bet ($0.04) returned to Lyonhearth
+Lyonhearth collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [As Tc Kc Jc]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) collected ($0.12)
+Seat 3: Strikeone288 (big blind) folded on the Turn
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782027764:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:36:58 MSK [2020/05/13 0:36:58 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.62 in chips) 
+Seat 2: Lyonhearth ($1.81 in chips) 
+Seat 3: Strikeone288 ($1.96 in chips) 
+Seat 4: colorado1112 ($2.75 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.20 in chips) 
+Strikeone288: posts small blind $0.01
+colorado1112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 2h]
+modefokerr: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: folds 
+Uncalled bet ($0.04) returned to gavin1228
+gavin1228 collected $0.05 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Strikeone288 (small blind) folded before Flop
+Seat 4: colorado1112 (big blind) folded before Flop
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 collected ($0.05)
+
+
+
+PokerStars Hand #213782032084:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:37:10 MSK [2020/05/13 0:37:10 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.62 in chips) 
+Seat 2: Lyonhearth ($1.81 in chips) 
+Seat 3: Strikeone288 ($1.95 in chips) 
+Seat 4: colorado1112 ($2.73 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.23 in chips) 
+colorado1112: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 3h]
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: calls $0.04
+modefokerr: folds 
+*** FLOP *** [5s Ac Tc]
+colorado1112: checks 
+lawlex_2: checks 
+*** TURN *** [5s Ac Tc] [Jc]
+colorado1112: checks 
+lawlex_2: checks 
+*** RIVER *** [5s Ac Tc Jc] [3d]
+colorado1112: bets $0.10
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to colorado1112
+colorado1112 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5s Ac Tc Jc 3d]
+Seat 1: lawlex_2 folded on the River
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 (button) folded before Flop (didn't bet)
+Seat 4: colorado1112 (small blind) collected ($0.12)
+Seat 5: modefokerr (big blind) folded before Flop
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782042058:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:37:38 MSK [2020/05/13 0:37:38 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.57 in chips) 
+Seat 2: Lyonhearth ($1.81 in chips) 
+Seat 3: Strikeone288 ($1.95 in chips) 
+Seat 4: colorado1112 ($2.80 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.23 in chips) 
+modefokerr: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Qc]
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: raises $0.04 to $0.06
+colorado1112: calls $0.06
+modefokerr: folds 
+gavin1228: raises $0.28 to $0.34
+Strikeone288: folds 
+colorado1112: folds 
+Uncalled bet ($0.28) returned to gavin1228
+gavin1228 collected $0.19 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 folded before Flop
+Seat 4: colorado1112 (button) folded before Flop
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #213782062465:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:38:10 MSK [2020/05/13 0:38:10 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.57 in chips) 
+Seat 2: Lyonhearth ($1.81 in chips) 
+Seat 3: Strikeone288 ($1.89 in chips) 
+Seat 4: colorado1112 ($2.74 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.36 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Td]
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to gavin1228
+gavin1228 collected $0.04 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213782069950:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:38:31 MSK [2020/05/13 0:38:31 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.55 in chips) 
+Seat 2: Lyonhearth ($1.81 in chips) 
+Seat 3: Strikeone288 ($1.89 in chips) 
+Seat 4: colorado1112 ($2.74 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.38 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 8d]
+Strikeone288: folds 
+colorado1112: raises $0.02 to $0.04
+modefokerr: folds 
+gavin1228: raises $0.10 to $0.14
+lawlex_2: folds 
+Lyonhearth: folds 
+colorado1112: calls $0.10
+*** FLOP *** [Ks 5d 9d]
+colorado1112: checks 
+gavin1228: bets $0.20
+colorado1112: folds 
+Uncalled bet ($0.20) returned to gavin1228
+gavin1228 collected $0.30 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Ks 5d 9d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 folded on the Flop
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) collected ($0.30)
+
+
+
+PokerStars Hand #213782082842:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:39:07 MSK [2020/05/13 0:39:07 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($1.79 in chips) 
+Seat 3: Strikeone288 ($1.89 in chips) 
+Seat 4: colorado1112 ($2.60 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.54 in chips) 
+Lyonhearth: posts small blind $0.01
+Strikeone288: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 4s]
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: raises $0.14 to $0.20
+Strikeone288: folds 
+gavin1228: calls $0.14
+*** FLOP *** [3h Th 6d]
+Lyonhearth: bets $0.12
+gavin1228: calls $0.12
+*** TURN *** [3h Th 6d] [Ts]
+Lyonhearth: bets $0.37
+gavin1228: folds 
+Uncalled bet ($0.37) returned to Lyonhearth
+Lyonhearth collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [3h Th 6d Ts]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) collected ($0.64)
+Seat 3: Strikeone288 (big blind) folded before Flop
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 folded on the Turn
+
+
+
+PokerStars Hand #213782098812:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:39:52 MSK [2020/05/13 0:39:52 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($2.11 in chips) 
+Seat 3: Strikeone288 ($1.87 in chips) 
+Seat 4: colorado1112 ($2.60 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.22 in chips) 
+Strikeone288: posts small blind $0.01
+colorado1112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Jc]
+modefokerr: folds 
+gavin1228: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Strikeone288 (small blind) folded before Flop
+Seat 4: colorado1112 (big blind) folded before Flop
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782103369:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:40:05 MSK [2020/05/13 0:40:05 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.57 in chips) 
+Seat 2: Lyonhearth ($2.11 in chips) 
+Seat 3: Strikeone288 ($1.86 in chips) 
+Seat 4: colorado1112 ($2.58 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.22 in chips) 
+colorado1112: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 2c]
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: calls $0.01
+modefokerr: checks 
+*** FLOP *** [6s 5s Kh]
+colorado1112: checks 
+modefokerr: checks 
+*** TURN *** [6s 5s Kh] [7h]
+colorado1112: bets $0.04
+modefokerr: folds 
+Uncalled bet ($0.04) returned to colorado1112
+colorado1112 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6s 5s Kh 7h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 (button) folded before Flop (didn't bet)
+Seat 4: colorado1112 (small blind) collected ($0.04)
+Seat 5: modefokerr (big blind) folded on the Turn
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782111394:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:40:28 MSK [2020/05/13 0:40:28 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.57 in chips) 
+Seat 2: Lyonhearth ($2.11 in chips) 
+Seat 3: Strikeone288 ($1.86 in chips) 
+Seat 4: colorado1112 ($2.60 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.22 in chips) 
+modefokerr: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Qh]
+lawlex_2: folds 
+Lyonhearth: raises $0.04 to $0.06
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: folds 
+Uncalled bet ($0.04) returned to Lyonhearth
+Lyonhearth collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth collected ($0.05)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 (button) folded before Flop (didn't bet)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213782118434:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:40:47 MSK [2020/05/13 0:40:47 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.57 in chips) 
+Seat 2: Lyonhearth ($2.14 in chips) 
+Seat 3: Strikeone288 ($1.86 in chips) 
+Seat 4: colorado1112 ($2.60 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.20 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 3d]
+Lyonhearth: raises $0.04 to $0.06
+Strikeone288 has timed out
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Lyonhearth
+Lyonhearth collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Lyonhearth collected ($0.05)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213782127396:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:41:12 MSK [2020/05/13 0:41:12 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.55 in chips) 
+Seat 2: Lyonhearth ($2.17 in chips) 
+Seat 4: colorado1112 ($2.60 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.19 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 2h]
+colorado1112: folds 
+modefokerr: raises $0.04 to $0.06
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.04) returned to modefokerr
+modefokerr collected $0.05 from pot
+modefokerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr collected ($0.05)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782131273:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:41:23 MSK [2020/05/13 0:41:23 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($2.15 in chips) 
+Seat 3: Strikeone288 ($1.86 in chips) 
+Seat 4: colorado1112 ($2.60 in chips) 
+Seat 5: modefokerr ($2.03 in chips) 
+Seat 6: gavin1228 ($8.19 in chips) 
+Lyonhearth: posts small blind $0.01
+Strikeone288: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 8h]
+colorado1112: folds 
+modefokerr: raises $0.04 to $0.06
+gavin1228: calls $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+*** FLOP *** [Jc 5s Qh]
+modefokerr: checks 
+gavin1228: bets $0.10
+modefokerr: folds 
+Uncalled bet ($0.10) returned to gavin1228
+gavin1228 collected $0.14 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jc 5s Qh]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: Strikeone288 (big blind) folded before Flop
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr folded on the Flop
+Seat 6: gavin1228 collected ($0.14)
+
+
+
+PokerStars Hand #213782139924:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:41:47 MSK [2020/05/13 0:41:47 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($2.14 in chips) 
+Seat 3: Strikeone288 ($1.98 in chips) 
+Seat 4: colorado1112 ($2.60 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.27 in chips) 
+Strikeone288: posts small blind $0.01
+colorado1112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Th]
+modefokerr: raises $0.04 to $0.06
+gavin1228: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: folds 
+Uncalled bet ($0.04) returned to modefokerr
+modefokerr collected $0.05 from pot
+modefokerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Strikeone288 (small blind) folded before Flop
+Seat 4: colorado1112 (big blind) folded before Flop
+Seat 5: modefokerr collected ($0.05)
+Seat 6: gavin1228 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782144649:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:42:01 MSK [2020/05/13 0:42:01 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($2.14 in chips) 
+Seat 3: Strikeone288 ($1.97 in chips) 
+Seat 4: colorado1112 ($2.58 in chips) 
+Seat 5: modefokerr ($2.03 in chips) 
+Seat 6: gavin1228 ($8.27 in chips) 
+colorado1112: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 9c]
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: raises $0.10 to $0.16
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: raises $0.20 to $0.36
+Lyonhearth: folds 
+Uncalled bet ($0.20) returned to gavin1228
+gavin1228 collected $0.35 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop
+Seat 3: Strikeone288 (button) folded before Flop (didn't bet)
+Seat 4: colorado1112 (small blind) folded before Flop
+Seat 5: modefokerr (big blind) folded before Flop
+Seat 6: gavin1228 collected ($0.35)
+
+
+
+PokerStars Hand #213782156967:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:42:35 MSK [2020/05/13 0:42:35 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($1.98 in chips) 
+Seat 3: Strikeone288 ($1.97 in chips) 
+Seat 4: colorado1112 ($2.57 in chips) 
+Seat 5: modefokerr ($2.01 in chips) 
+Seat 6: gavin1228 ($8.46 in chips) 
+modefokerr: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 5c]
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+Uncalled bet ($0.01) returned to gavin1228
+gavin1228 collected $0.02 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 (button) folded before Flop (didn't bet)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213782160078:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:42:44 MSK [2020/05/13 0:42:44 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($1.98 in chips) 
+Seat 3: Strikeone288 ($1.97 in chips) 
+Seat 4: colorado1112 ($2.57 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.47 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 2c]
+Lyonhearth: folds 
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (big blind) collected ($0.02)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213782163939:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:42:55 MSK [2020/05/13 0:42:55 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.55 in chips) 
+Seat 2: Lyonhearth ($1.98 in chips) 
+Seat 3: Strikeone288 ($1.97 in chips) 
+Seat 4: colorado1112 ($2.57 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.46 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Jd]
+Strikeone288: folds 
+colorado1112: folds 
+modefokerr: folds 
+gavin1228: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Lyonhearth
+Lyonhearth collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) collected ($0.02)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782168824:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:43:09 MSK [2020/05/13 0:43:09 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($1.99 in chips) 
+Seat 3: Strikeone288 ($1.97 in chips) 
+Seat 4: colorado1112 ($2.57 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($8.46 in chips) 
+Lyonhearth: posts small blind $0.01
+Strikeone288: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 7c]
+colorado1112: folds 
+colorado1112 leaves the table
+modefokerr: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: raises $0.16 to $0.22
+Strikeone288: folds 
+gavin1228: calls $0.16
+*** FLOP *** [4c Qh 7h]
+Lyonhearth: bets $0.13
+gavin1228: calls $0.13
+*** TURN *** [4c Qh 7h] [Qc]
+Lyonhearth: bets $0.40
+gavin1228: raises $0.40 to $0.80
+Lyonhearth: folds 
+Uncalled bet ($0.40) returned to gavin1228
+gavin1228 collected $1.47 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.52 | Rake $0.05 
+Board [4c Qh 7h Qc]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded on the Turn
+Seat 3: Strikeone288 (big blind) folded before Flop
+Seat 4: colorado1112 folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 collected ($1.47)
+
+
+
+PokerStars Hand #213782187028:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:44:00 MSK [2020/05/13 0:44:00 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($1.24 in chips) 
+Seat 3: Strikeone288 ($1.95 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($9.18 in chips) 
+Strikeone288: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 3s]
+gavin1228: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: calls $0.05
+modefokerr: folds 
+*** FLOP *** [7h 7s Jd]
+Strikeone288: checks 
+gavin1228: checks 
+*** TURN *** [7h 7s Jd] [4c]
+Strikeone288: bets $0.08
+gavin1228: calls $0.08
+*** RIVER *** [7h 7s Jd 4c] [Jh]
+Strikeone288: checks 
+gavin1228: checks 
+*** SHOW DOWN ***
+Strikeone288: shows [Tc Jc] (a full house, Jacks full of Sevens)
+gavin1228: mucks hand 
+Strikeone288 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7h 7s Jd 4c Jh]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Strikeone288 (small blind) showed [Tc Jc] and won ($0.29) with a full house, Jacks full of Sevens
+Seat 5: modefokerr (big blind) folded before Flop
+Seat 6: gavin1228 mucked [5c Ac]
+
+
+
+PokerStars Hand #213782199755:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:44:36 MSK [2020/05/13 0:44:36 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($1.24 in chips) 
+Seat 3: Strikeone288 ($2.10 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($9.04 in chips) 
+modefokerr: posts small blind $0.01
+gavin1228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 8s]
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+modefokerr: folds 
+Uncalled bet ($0.01) returned to gavin1228
+gavin1228 collected $0.02 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 (button) folded before Flop (didn't bet)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: gavin1228 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213782203143:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:44:45 MSK [2020/05/13 0:44:45 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($1.24 in chips) 
+Seat 3: Strikeone288 ($2.10 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($9.05 in chips) 
+gavin1228: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Jc]
+Lyonhearth: folds 
+Strikeone288: folds 
+SwtBlnd joins the table at seat #4 
+modefokerr: folds 
+gavin1228: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [4h Ac 8h]
+gavin1228: checks 
+lawlex_2: checks 
+*** TURN *** [4h Ac 8h] [3s]
+gavin1228: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to gavin1228
+gavin1228 collected $0.04 from pot
+gavin1228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4h Ac 8h 3s]
+Seat 1: lawlex_2 (big blind) folded on the Turn
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 5: modefokerr (button) folded before Flop (didn't bet)
+Seat 6: gavin1228 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213782210363:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:45:06 MSK [2020/05/13 0:45:06 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.52 in chips) 
+Seat 2: Lyonhearth ($1.24 in chips) 
+Seat 3: Strikeone288 ($2.10 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: gavin1228 ($9.07 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+SwtBlnd: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 6h]
+Strikeone288: folds 
+modefokerr: folds 
+gavin1228: raises $0.04 to $0.06
+lawlex_2: calls $0.05
+Lyonhearth: calls $0.04
+*** FLOP *** [Td 7c 2h]
+lawlex_2: checks 
+Lyonhearth: checks 
+gavin1228: checks 
+*** TURN *** [Td 7c 2h] [8s]
+lawlex_2: checks 
+Lyonhearth: checks 
+gavin1228: checks 
+*** RIVER *** [Td 7c 2h 8s] [Kc]
+lawlex_2: checks 
+Lyonhearth: bets $0.20
+gavin1228: folds 
+lawlex_2: folds 
+Uncalled bet ($0.20) returned to Lyonhearth
+gavin1228 leaves the table
+Lyonhearth collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Td 7c 2h 8s Kc]
+Seat 1: lawlex_2 (small blind) folded on the River
+Seat 2: Lyonhearth (big blind) collected ($0.17)
+Seat 3: Strikeone288 folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: gavin1228 (button) folded on the River
+
+
+
+PokerStars Hand #213782235128:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:46:17 MSK [2020/05/13 0:46:17 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.46 in chips) 
+Seat 2: Lyonhearth ($1.35 in chips) 
+Seat 3: Strikeone288 ($2.10 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Lyonhearth: posts small blind $0.01
+Strikeone288: posts big blind $0.02
+SwtBlnd: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Ac]
+modefokerr: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Strikeone288: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) collected ($0.05)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: Strikeone288 (big blind) folded before Flop
+Seat 5: modefokerr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782239283:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:46:29 MSK [2020/05/13 0:46:29 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.49 in chips) 
+Seat 2: Lyonhearth ($1.34 in chips) 
+Seat 3: Strikeone288 ($2.08 in chips) 
+Seat 4: SwtBlnd ($2 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Strikeone288: posts small blind $0.01
+SwtBlnd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Jd]
+modefokerr: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: calls $0.05
+Strikeone288: folds 
+SwtBlnd: folds 
+*** FLOP *** [9c 5s 4h]
+lawlex_2: bets $0.09
+Lyonhearth: calls $0.09
+*** TURN *** [9c 5s 4h] [4s]
+lawlex_2: checks 
+Lyonhearth: checks 
+*** RIVER *** [9c 5s 4h 4s] [7h]
+lawlex_2: checks 
+Lyonhearth: bets $0.45
+lawlex_2: folds 
+Uncalled bet ($0.45) returned to Lyonhearth
+Lyonhearth collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9c 5s 4h 4s 7h]
+Seat 1: lawlex_2 folded on the River
+Seat 2: Lyonhearth (button) collected ($0.30)
+Seat 3: Strikeone288 (small blind) folded before Flop
+Seat 4: SwtBlnd (big blind) folded before Flop
+Seat 5: modefokerr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782253075:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:47:09 MSK [2020/05/13 0:47:09 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.35 in chips) 
+Seat 2: Lyonhearth ($1.50 in chips) 
+Seat 3: Strikeone288 ($2.07 in chips) 
+Seat 4: SwtBlnd ($1.98 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+SwtBlnd: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 2h]
+lawlex_2: folds 
+Lyonhearth: folds 
+Strikeone288: folds 
+Strikeone288 leaves the table
+santiagovega541 joins the table at seat #6 
+SwtBlnd: raises $0.02 to $0.04
+modefokerr: folds 
+Uncalled bet ($0.02) returned to SwtBlnd
+SwtBlnd collected $0.04 from pot
+SwtBlnd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Strikeone288 (button) folded before Flop (didn't bet)
+Seat 4: SwtBlnd (small blind) collected ($0.04)
+Seat 5: modefokerr (big blind) folded before Flop
+
+
+
+PokerStars Hand #213782257971:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:47:23 MSK [2020/05/13 0:47:23 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.35 in chips) 
+Seat 2: Lyonhearth ($1.50 in chips) 
+Seat 4: SwtBlnd ($2 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+modefokerr: posts small blind $0.01
+santiagovega541: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 2d]
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron joins the table at seat #3 
+SwtBlnd: raises $0.03 to $0.05
+modefokerr: folds 
+santiagovega541: folds 
+Uncalled bet ($0.03) returned to SwtBlnd
+SwtBlnd collected $0.05 from pot
+SwtBlnd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 4: SwtBlnd (button) collected ($0.05)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: santiagovega541 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213782264460:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:47:42 MSK [2020/05/13 0:47:42 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.35 in chips) 
+Seat 2: Lyonhearth ($1.50 in chips) 
+Seat 4: SwtBlnd ($2.03 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: santiagovega541 ($1.98 in chips) 
+santiagovega541: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Gevron: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Qc]
+Lyonhearth: folds 
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (big blind) collected ($0.02)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr (button) folded before Flop (didn't bet)
+Seat 6: santiagovega541 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213782274243:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:48:00 MSK [2020/05/13 0:48:00 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.36 in chips) 
+Seat 2: Lyonhearth ($1.50 in chips) 
+Seat 4: SwtBlnd ($2.03 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: santiagovega541 ($1.97 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+Gevron: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 2d]
+SwtBlnd: folds 
+modefokerr: raises $0.04 to $0.06
+santiagovega541: folds 
+lawlex_2: calls $0.05
+Lyonhearth: folds 
+*** FLOP *** [Th Js 7c]
+lawlex_2: checks 
+modefokerr: bets $0.08
+lawlex_2: folds 
+Uncalled bet ($0.08) returned to modefokerr
+modefokerr collected $0.14 from pot
+modefokerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Th Js 7c]
+Seat 1: lawlex_2 (small blind) folded on the Flop
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr collected ($0.14)
+Seat 6: santiagovega541 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782282760:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:48:24 MSK [2020/05/13 0:48:24 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.30 in chips) 
+Seat 2: Lyonhearth ($1.48 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.03 in chips) 
+Seat 5: modefokerr ($2.08 in chips) 
+Seat 6: santiagovega541 ($1.97 in chips) 
+Lyonhearth: posts small blind $0.01
+Gevron: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 8h]
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.01) returned to Gevron
+Gevron collected $0.02 from pot
+Gevron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: Gevron (big blind) collected ($0.02)
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782286740:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:48:36 MSK [2020/05/13 0:48:36 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.30 in chips) 
+Seat 2: Lyonhearth ($1.47 in chips) 
+Seat 3: Gevron ($2.01 in chips) 
+Seat 4: SwtBlnd ($2.03 in chips) 
+Seat 5: modefokerr ($2.08 in chips) 
+Seat 6: santiagovega541 ($1.97 in chips) 
+Gevron: posts small blind $0.01
+SwtBlnd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 9s]
+modefokerr: folds 
+santiagovega541: raises $0.04 to $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: folds 
+Uncalled bet ($0.04) returned to santiagovega541
+santiagovega541 collected $0.05 from pot
+santiagovega541: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Gevron (small blind) folded before Flop
+Seat 4: SwtBlnd (big blind) folded before Flop
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 collected ($0.05)
+
+
+
+PokerStars Hand #213782294451:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:48:58 MSK [2020/05/13 0:48:58 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.30 in chips) 
+Seat 2: Lyonhearth ($1.47 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.01 in chips) 
+Seat 5: modefokerr ($2.08 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+SwtBlnd: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 9c]
+santiagovega541: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron: raises $0.02 to $0.04
+SwtBlnd: raises $0.14 to $0.18
+modefokerr: folds 
+Gevron: folds 
+Uncalled bet ($0.14) returned to SwtBlnd
+SwtBlnd collected $0.10 from pot
+SwtBlnd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron (button) folded before Flop
+Seat 4: SwtBlnd (small blind) collected ($0.10)
+Seat 5: modefokerr (big blind) folded before Flop
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782303156:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:49:23 MSK [2020/05/13 0:49:23 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.30 in chips) 
+Seat 2: Lyonhearth ($1.47 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.07 in chips) 
+Seat 5: modefokerr ($2.06 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+modefokerr: posts small blind $0.01
+santiagovega541: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc Ks]
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd (button) folded before Flop (didn't bet)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: santiagovega541 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213782310240:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:49:44 MSK [2020/05/13 0:49:44 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.33 in chips) 
+Seat 2: Lyonhearth ($1.47 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.07 in chips) 
+Seat 5: modefokerr ($2.05 in chips) 
+Seat 6: santiagovega541 ($1.98 in chips) 
+santiagovega541: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 4s]
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: raises $0.03 to $0.05
+modefokerr: calls $0.05
+santiagovega541: folds 
+lawlex_2: folds 
+*** FLOP *** [Kd Th 6s]
+SwtBlnd: bets $0.08
+modefokerr: folds 
+Uncalled bet ($0.08) returned to SwtBlnd
+SwtBlnd collected $0.13 from pot
+SwtBlnd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kd Th 6s]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd collected ($0.13)
+Seat 5: modefokerr (button) folded on the Flop
+Seat 6: santiagovega541 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213782329462:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:50:40 MSK [2020/05/13 0:50:40 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.31 in chips) 
+Seat 2: Lyonhearth ($1.47 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.15 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: santiagovega541 ($1.97 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Tc]
+Gevron: raises $0.03 to $0.05
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: calls $0.05
+lawlex_2: calls $0.04
+Lyonhearth: folds 
+*** FLOP *** [Jc Qs 4s]
+lawlex_2: checks 
+Gevron: bets $0.05
+santiagovega541: raises $0.15 to $0.20
+lawlex_2: folds 
+Gevron: folds 
+Uncalled bet ($0.15) returned to santiagovega541
+santiagovega541 collected $0.26 from pot
+santiagovega541: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Jc Qs 4s]
+Seat 1: lawlex_2 (small blind) folded on the Flop
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 3: Gevron folded on the Flop
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 (button) collected ($0.26)
+
+
+
+PokerStars Hand #213782343956:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:51:22 MSK [2020/05/13 0:51:22 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.26 in chips) 
+Seat 2: Lyonhearth ($1.45 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.15 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: santiagovega541 ($2.13 in chips) 
+Lyonhearth: posts small blind $0.01
+Gevron: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Jh]
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: folds 
+Lyonhearth: raises $0.04 to $0.06
+Gevron: calls $0.04
+*** FLOP *** [2d 4d 6s]
+Lyonhearth: bets $0.04
+Gevron: folds 
+Uncalled bet ($0.04) returned to Lyonhearth
+Lyonhearth collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2d 4d 6s]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) collected ($0.12)
+Seat 3: Gevron (big blind) folded on the Flop
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782353399:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:51:49 MSK [2020/05/13 0:51:49 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.26 in chips) 
+Seat 2: Lyonhearth ($1.51 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.15 in chips) 
+Seat 5: modefokerr ($2 in chips) 
+Seat 6: santiagovega541 ($2.13 in chips) 
+Gevron: posts small blind $0.01
+SwtBlnd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 7s]
+modefokerr: raises $0.04 to $0.06
+santiagovega541: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: folds 
+Uncalled bet ($0.04) returned to modefokerr
+modefokerr collected $0.05 from pot
+modefokerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Gevron (small blind) folded before Flop
+Seat 4: SwtBlnd (big blind) folded before Flop
+Seat 5: modefokerr collected ($0.05)
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782360342:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:52:10 MSK [2020/05/13 0:52:10 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.26 in chips) 
+Seat 2: Lyonhearth ($1.51 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.13 in chips) 
+Seat 5: modefokerr ($2.03 in chips) 
+Seat 6: santiagovega541 ($2.13 in chips) 
+SwtBlnd: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Qc]
+santiagovega541: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: folds 
+Uncalled bet ($0.01) returned to modefokerr
+modefokerr collected $0.02 from pot
+modefokerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron (button) folded before Flop (didn't bet)
+Seat 4: SwtBlnd (small blind) folded before Flop
+Seat 5: modefokerr (big blind) collected ($0.02)
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782368617:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:52:34 MSK [2020/05/13 0:52:34 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.26 in chips) 
+Seat 2: Lyonhearth ($1.51 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.12 in chips) 
+Seat 5: modefokerr ($2.04 in chips) 
+Seat 6: santiagovega541 ($2.13 in chips) 
+modefokerr: posts small blind $0.01
+santiagovega541: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 5d]
+lawlex_2: folds 
+Lyonhearth: raises $0.04 to $0.06
+Gevron: folds 
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: calls $0.04
+*** FLOP *** [Qd 9h 9c]
+santiagovega541: checks 
+Lyonhearth: checks 
+*** TURN *** [Qd 9h 9c] [4c]
+santiagovega541: bets $0.06
+Lyonhearth: calls $0.06
+*** RIVER *** [Qd 9h 9c 4c] [Kd]
+santiagovega541: checks 
+Lyonhearth: bets $0.24
+santiagovega541: folds 
+Uncalled bet ($0.24) returned to Lyonhearth
+Lyonhearth collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qd 9h 9c 4c Kd]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth collected ($0.24)
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd (button) folded before Flop (didn't bet)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: santiagovega541 (big blind) folded on the River
+
+
+
+PokerStars Hand #213782390416:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:53:37 MSK [2020/05/13 0:53:37 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.26 in chips) 
+Seat 2: Lyonhearth ($1.63 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.12 in chips) 
+Seat 5: modefokerr ($2.03 in chips) 
+Seat 6: santiagovega541 ($2.01 in chips) 
+santiagovega541: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 2s]
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: raises $0.03 to $0.05
+modefokerr: calls $0.05
+santiagovega541: calls $0.04
+lawlex_2: folds 
+*** FLOP *** [Tc 4d 5c]
+santiagovega541: checks 
+SwtBlnd: checks 
+modefokerr: bets $0.10
+santiagovega541: folds 
+SwtBlnd: folds 
+Uncalled bet ($0.10) returned to modefokerr
+modefokerr collected $0.16 from pot
+modefokerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Tc 4d 5c]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd folded on the Flop
+Seat 5: modefokerr (button) collected ($0.16)
+Seat 6: santiagovega541 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213782403298:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:54:15 MSK [2020/05/13 0:54:15 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.24 in chips) 
+Seat 2: Lyonhearth ($1.63 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.07 in chips) 
+Seat 5: modefokerr ($2.14 in chips) 
+Seat 6: santiagovega541 ($1.96 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Ks]
+Gevron: folds 
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: calls $0.03
+*** FLOP *** [2s 3s 6d]
+lawlex_2: bets $0.07
+Lyonhearth: calls $0.07
+*** TURN *** [2s 3s 6d] [4s]
+lawlex_2: bets $0.23
+Lyonhearth: folds 
+Uncalled bet ($0.23) returned to lawlex_2
+lawlex_2 collected $0.23 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [2s 3s 6d 4s]
+Seat 1: lawlex_2 (small blind) collected ($0.23)
+Seat 2: Lyonhearth (big blind) folded on the Turn
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782420918:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:55:07 MSK [2020/05/13 0:55:07 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.35 in chips) 
+Seat 2: Lyonhearth ($1.51 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.07 in chips) 
+Seat 5: modefokerr ($2.14 in chips) 
+Seat 6: santiagovega541 ($1.96 in chips) 
+Lyonhearth: posts small blind $0.01
+Gevron: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Tc]
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: calls $0.02
+Lyonhearth: raises $0.10 to $0.12
+Gevron: folds 
+lawlex_2: calls $0.10
+*** FLOP *** [8c Ac 3h]
+Lyonhearth: checks 
+lawlex_2: bets $0.17
+Lyonhearth: folds 
+Uncalled bet ($0.17) returned to lawlex_2
+lawlex_2 collected $0.25 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [8c Ac 3h]
+Seat 1: lawlex_2 (button) collected ($0.25)
+Seat 2: Lyonhearth (small blind) folded on the Flop
+Seat 3: Gevron (big blind) folded before Flop
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782434271:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:55:54 MSK [2020/05/13 0:55:54 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.48 in chips) 
+Seat 2: Lyonhearth ($1.39 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.07 in chips) 
+Seat 5: modefokerr ($2.14 in chips) 
+Seat 6: santiagovega541 ($1.96 in chips) 
+Gevron: posts small blind $0.01
+SwtBlnd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 4s]
+modefokerr: raises $0.04 to $0.06
+santiagovega541: calls $0.06
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron: calls $0.05
+SwtBlnd: folds 
+*** FLOP *** [Tc 8d Kh]
+Gevron: checks 
+modefokerr: bets $0.10
+santiagovega541: calls $0.10
+Gevron: folds 
+*** TURN *** [Tc 8d Kh] [Jd]
+modefokerr: checks 
+santiagovega541: checks 
+*** RIVER *** [Tc 8d Kh Jd] [4d]
+modefokerr: checks 
+santiagovega541: checks 
+*** SHOW DOWN ***
+modefokerr: shows [8s 8h] (three of a kind, Eights)
+santiagovega541: mucks hand 
+modefokerr collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Tc 8d Kh Jd 4d]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Gevron (small blind) folded on the Flop
+Seat 4: SwtBlnd (big blind) folded before Flop
+Seat 5: modefokerr showed [8s 8h] and won ($0.39) with three of a kind, Eights
+Seat 6: santiagovega541 mucked [Ac Jh]
+
+
+
+PokerStars Hand #213782464395:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:57:16 MSK [2020/05/13 0:57:16 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.48 in chips) 
+Seat 2: Lyonhearth ($1.39 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.05 in chips) 
+Seat 5: modefokerr ($2.37 in chips) 
+Seat 6: santiagovega541 ($1.80 in chips) 
+SwtBlnd: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Qd]
+santiagovega541: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: calls $0.04
+modefokerr: calls $0.03
+*** FLOP *** [9s 2s 3d]
+SwtBlnd: checks 
+modefokerr: checks 
+lawlex_2: bets $0.09
+SwtBlnd: raises $0.20 to $0.29
+modefokerr: folds 
+lawlex_2: folds 
+Uncalled bet ($0.20) returned to SwtBlnd
+SwtBlnd collected $0.32 from pot
+SwtBlnd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [9s 2s 3d]
+Seat 1: lawlex_2 folded on the Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron (button) folded before Flop (didn't bet)
+Seat 4: SwtBlnd (small blind) collected ($0.32)
+Seat 5: modefokerr (big blind) folded on the Flop
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782475581:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:57:55 MSK [2020/05/13 0:57:55 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.34 in chips) 
+Seat 2: Lyonhearth ($1.39 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.23 in chips) 
+Seat 5: modefokerr ($2.32 in chips) 
+Seat 6: santiagovega541 ($1.80 in chips) 
+modefokerr: posts small blind $0.01
+santiagovega541: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 8s]
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: raises $0.13 to $0.18
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: folds 
+Uncalled bet ($0.13) returned to SwtBlnd
+SwtBlnd collected $0.13 from pot
+SwtBlnd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: lawlex_2 folded before Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd (button) collected ($0.13)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: santiagovega541 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213782483924:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:58:24 MSK [2020/05/13 0:58:24 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.29 in chips) 
+Seat 2: Lyonhearth ($1.39 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.31 in chips) 
+Seat 5: modefokerr ($2.31 in chips) 
+Seat 6: santiagovega541 ($1.78 in chips) 
+santiagovega541: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Ac]
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: raises $0.03 to $0.05
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: calls $0.03
+*** FLOP *** [Tc 2c Ks]
+lawlex_2: checks 
+SwtBlnd: bets $0.06
+lawlex_2: calls $0.06
+*** TURN *** [Tc 2c Ks] [Jh]
+lawlex_2: checks 
+SwtBlnd: bets $0.09
+lawlex_2: calls $0.09
+*** RIVER *** [Tc 2c Ks Jh] [7s]
+lawlex_2: checks 
+SwtBlnd: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Ah Ac] (a pair of Aces)
+SwtBlnd: mucks hand 
+lawlex_2 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Tc 2c Ks Jh 7s]
+Seat 1: lawlex_2 (big blind) showed [Ah Ac] and won ($0.40) with a pair of Aces
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd mucked [Qd Qs]
+Seat 5: modefokerr (button) folded before Flop (didn't bet)
+Seat 6: santiagovega541 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213782498358:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:59:15 MSK [2020/05/13 0:59:15 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.49 in chips) 
+Seat 2: Lyonhearth ($1.39 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.11 in chips) 
+Seat 5: modefokerr ($2.31 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Kc]
+Gevron: folds 
+SwtBlnd: folds 
+modefokerr has timed out
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Lyonhearth
+Lyonhearth collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) collected ($0.02)
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782505123:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 7:59:39 MSK [2020/05/13 0:59:39 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.48 in chips) 
+Seat 2: Lyonhearth ($1.40 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.11 in chips) 
+Seat 5: modefokerr ($2.31 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+Lyonhearth: posts small blind $0.01
+Gevron: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 5h]
+SwtBlnd: raises $0.04 to $0.06
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron: folds 
+Uncalled bet ($0.04) returned to SwtBlnd
+SwtBlnd collected $0.05 from pot
+SwtBlnd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) folded before Flop
+Seat 3: Gevron (big blind) folded before Flop
+Seat 4: SwtBlnd collected ($0.05)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782512854:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:00:06 MSK [2020/05/13 1:00:06 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.48 in chips) 
+Seat 2: Lyonhearth ($1.39 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.14 in chips) 
+Seat 5: modefokerr ($2.31 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+Gevron: posts small blind $0.01
+SwtBlnd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 3h]
+modefokerr: folds 
+santiagovega541: calls $0.02
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: checks 
+*** FLOP *** [3c 7h Kd]
+SwtBlnd: checks 
+santiagovega541: checks 
+*** TURN *** [3c 7h Kd] [Js]
+SwtBlnd: checks 
+santiagovega541: checks 
+*** RIVER *** [3c 7h Kd Js] [2c]
+SwtBlnd: checks 
+santiagovega541: checks 
+*** SHOW DOWN ***
+SwtBlnd: shows [6d 8c] (high card King)
+santiagovega541: shows [5h 5d] (a pair of Fives)
+santiagovega541 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3c 7h Kd Js 2c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Gevron (small blind) folded before Flop
+Seat 4: SwtBlnd (big blind) showed [6d 8c] and lost with high card King
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 showed [5h 5d] and won ($0.05) with a pair of Fives
+
+
+
+PokerStars Hand #213782527500:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:00:51 MSK [2020/05/13 1:00:51 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.48 in chips) 
+Seat 2: Lyonhearth ($1.39 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.12 in chips) 
+Seat 5: modefokerr ($2.31 in chips) 
+Seat 6: santiagovega541 ($2.03 in chips) 
+SwtBlnd: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 9s]
+santiagovega541: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Gevron: calls $0.05
+SwtBlnd: folds 
+modefokerr: folds 
+*** FLOP *** [4c Jd 6d]
+lawlex_2: checks 
+Gevron: checks 
+*** TURN *** [4c Jd 6d] [Tc]
+lawlex_2: bets $0.09
+Gevron: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c Jd 6d Tc]
+Seat 1: lawlex_2 collected ($0.13)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron (button) folded on the Turn
+Seat 4: SwtBlnd (small blind) folded before Flop
+Seat 5: modefokerr (big blind) folded before Flop
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782542630:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:01:37 MSK [2020/05/13 1:01:37 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.56 in chips) 
+Seat 2: Lyonhearth ($1.39 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.11 in chips) 
+Seat 5: modefokerr ($2.29 in chips) 
+Seat 6: santiagovega541 ($2.03 in chips) 
+modefokerr: posts small blind $0.01
+santiagovega541: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s As]
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: raises $0.12 to $0.17
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: folds 
+Uncalled bet ($0.12) returned to SwtBlnd
+SwtBlnd collected $0.13 from pot
+SwtBlnd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: lawlex_2 folded before Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd (button) collected ($0.13)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: santiagovega541 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213782548243:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:01:54 MSK [2020/05/13 1:01:54 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.51 in chips) 
+Seat 2: Lyonhearth ($1.39 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.19 in chips) 
+Seat 5: modefokerr ($2.28 in chips) 
+Seat 6: santiagovega541 ($2.01 in chips) 
+santiagovega541: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 2s]
+Lyonhearth: folds 
+Gevron: raises $0.03 to $0.05
+SwtBlnd: folds 
+modefokerr: raises $0.13 to $0.18
+santiagovega541: folds 
+lawlex_2: folds 
+Gevron: folds 
+Uncalled bet ($0.13) returned to modefokerr
+modefokerr collected $0.13 from pot
+modefokerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron folded before Flop
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr (button) collected ($0.13)
+Seat 6: santiagovega541 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213782565702:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:02:47 MSK [2020/05/13 1:02:47 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.49 in chips) 
+Seat 2: Lyonhearth ($1.39 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.19 in chips) 
+Seat 5: modefokerr ($2.36 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 3h]
+Gevron: raises $0.03 to $0.05
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: calls $0.04
+Lyonhearth: folds 
+*** FLOP *** [Ts 8c 9c]
+lawlex_2: checks 
+Gevron: bets $0.10
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to Gevron
+Gevron collected $0.12 from pot
+Gevron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ts 8c 9c]
+Seat 1: lawlex_2 (small blind) folded on the Flop
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 3: Gevron collected ($0.12)
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782574667:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:03:14 MSK [2020/05/13 1:03:14 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.44 in chips) 
+Seat 2: Lyonhearth ($1.37 in chips) 
+Seat 3: Gevron ($2.07 in chips) 
+Seat 4: SwtBlnd ($2.19 in chips) 
+Seat 5: modefokerr ($2.36 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+Lyonhearth: posts small blind $0.01
+Gevron: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 9s]
+SwtBlnd: raises $0.04 to $0.06
+modefokerr: calls $0.06
+santiagovega541: folds 
+lawlex_2: calls $0.06
+Lyonhearth: raises $0.28 to $0.34
+Gevron: folds 
+SwtBlnd: folds 
+modefokerr: folds 
+lawlex_2: folds 
+Uncalled bet ($0.28) returned to Lyonhearth
+Lyonhearth collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop
+Seat 2: Lyonhearth (small blind) collected ($0.26)
+Seat 3: Gevron (big blind) folded before Flop
+Seat 4: SwtBlnd folded before Flop
+Seat 5: modefokerr folded before Flop
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782591896:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:04:06 MSK [2020/05/13 1:04:06 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.38 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: Gevron ($2.05 in chips) 
+Seat 4: SwtBlnd ($2.13 in chips) 
+Seat 5: modefokerr ($2.30 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+Gevron: posts small blind $0.01
+SwtBlnd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Kc]
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Gevron (small blind) folded before Flop
+Seat 4: SwtBlnd (big blind) folded before Flop
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782599078:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:04:28 MSK [2020/05/13 1:04:28 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.41 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: Gevron ($2.04 in chips) 
+Seat 4: SwtBlnd ($2.11 in chips) 
+Seat 5: modefokerr ($2.30 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+SwtBlnd: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 7s]
+santiagovega541: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron: raises $0.02 to $0.04
+SwtBlnd: folds 
+modefokerr: folds 
+Uncalled bet ($0.02) returned to Gevron
+Gevron collected $0.05 from pot
+Gevron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron (button) collected ($0.05)
+Seat 4: SwtBlnd (small blind) folded before Flop
+Seat 5: modefokerr (big blind) folded before Flop
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782607188:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:04:52 MSK [2020/05/13 1:04:52 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.41 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: Gevron ($2.07 in chips) 
+Seat 4: SwtBlnd ($2.10 in chips) 
+Seat 5: modefokerr ($2.28 in chips) 
+Seat 6: santiagovega541 ($2 in chips) 
+modefokerr: posts small blind $0.01
+santiagovega541: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 8s]
+lawlex_2 has timed out
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron: raises $0.03 to $0.05
+SwtBlnd: folds 
+modefokerr: raises $0.12 to $0.17
+santiagovega541: folds 
+Gevron: folds 
+Uncalled bet ($0.12) returned to modefokerr
+modefokerr collected $0.12 from pot
+modefokerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron folded before Flop
+Seat 4: SwtBlnd (button) folded before Flop (didn't bet)
+Seat 5: modefokerr (small blind) collected ($0.12)
+Seat 6: santiagovega541 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213782616024:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:05:18 MSK [2020/05/13 1:05:18 ET]
+Table 'Datura' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.41 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: Gevron ($2.02 in chips) 
+Seat 4: SwtBlnd ($2.10 in chips) 
+Seat 5: modefokerr ($2.35 in chips) 
+Seat 6: santiagovega541 ($1.98 in chips) 
+santiagovega541: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Ah]
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd has timed out
+SwtBlnd: folds 
+modefokerr: raises $0.04 to $0.06
+santiagovega541: calls $0.05
+lawlex_2: calls $0.04
+*** FLOP *** [As Qh Kc]
+santiagovega541: checks 
+lawlex_2: bets $0.11
+modefokerr: folds 
+santiagovega541: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.17 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [As Qh Kc]
+Seat 1: lawlex_2 (big blind) collected ($0.17)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr (button) folded on the Flop
+Seat 6: santiagovega541 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213782633922:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:06:12 MSK [2020/05/13 1:06:12 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.52 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: Gevron ($2.02 in chips) 
+Seat 4: SwtBlnd ($2.10 in chips) 
+Seat 5: modefokerr ($2.29 in chips) 
+Seat 6: santiagovega541 ($1.92 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 2h]
+Gevron: folds 
+SwtBlnd: folds 
+modefokerr: raises $0.04 to $0.06
+santiagovega541: folds 
+lawlex_2: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.04) returned to modefokerr
+modefokerr collected $0.05 from pot
+modefokerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr collected ($0.05)
+Seat 6: santiagovega541 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782643400:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:06:40 MSK [2020/05/13 1:06:40 ET]
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.51 in chips) 
+Seat 2: Lyonhearth ($1.55 in chips) 
+Seat 3: Gevron ($2.02 in chips) 
+Seat 4: SwtBlnd ($2.10 in chips) 
+Seat 5: modefokerr ($2.32 in chips) 
+Seat 6: santiagovega541 ($1.92 in chips) 
+Lyonhearth: posts small blind $0.01
+Gevron: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Qd]
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: folds 
+Lyonhearth: raises $0.04 to $0.06
+Gevron: folds 
+Uncalled bet ($0.04) returned to Lyonhearth
+Lyonhearth collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: Lyonhearth (small blind) collected ($0.04)
+Seat 3: Gevron (big blind) folded before Flop
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782648995:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:06:58 MSK [2020/05/13 1:06:58 ET]
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.51 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.10 in chips) 
+Seat 5: modefokerr ($2.32 in chips) 
+Seat 6: santiagovega541 ($1.92 in chips) 
+Gevron: posts small blind $0.01
+SwtBlnd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Ad]
+modefokerr: folds 
+santiagovega541: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Gevron: folds 
+SwtBlnd: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 3: Gevron (small blind) folded before Flop
+Seat 4: SwtBlnd (big blind) folded before Flop
+Seat 5: modefokerr folded before Flop (didn't bet)
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782657129:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:07:22 MSK [2020/05/13 1:07:22 ET]
+Table 'Datura' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($1.57 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.08 in chips) 
+Seat 5: modefokerr ($2.32 in chips) 
+Seat 6: santiagovega541 ($1.92 in chips) 
+SwtBlnd: posts small blind $0.01
+modefokerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Qc]
+santiagovega541: folds 
+lawlex_2: folds 
+Lyonhearth: raises $0.04 to $0.06
+Gevron: folds 
+SwtBlnd: folds 
+modefokerr: folds 
+Uncalled bet ($0.04) returned to Lyonhearth
+Lyonhearth collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth collected ($0.05)
+Seat 3: Gevron (button) folded before Flop (didn't bet)
+Seat 4: SwtBlnd (small blind) folded before Flop
+Seat 5: modefokerr (big blind) folded before Flop
+Seat 6: santiagovega541 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213782664338:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:07:44 MSK [2020/05/13 1:07:44 ET]
+Table 'Datura' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($1.60 in chips) 
+Seat 3: Gevron ($2 in chips) 
+Seat 4: SwtBlnd ($2.07 in chips) 
+Seat 5: modefokerr ($2.30 in chips) 
+Seat 6: santiagovega541 ($1.92 in chips) 
+modefokerr: posts small blind $0.01
+santiagovega541: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Qh]
+lawlex_2: folds 
+Lyonhearth: folds 
+Gevron: raises $0.03 to $0.05
+SwtBlnd: folds 
+modefokerr: folds 
+santiagovega541: folds 
+Uncalled bet ($0.03) returned to Gevron
+Gevron collected $0.05 from pot
+Gevron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: Lyonhearth folded before Flop (didn't bet)
+Seat 3: Gevron collected ($0.05)
+Seat 4: SwtBlnd (button) folded before Flop (didn't bet)
+Seat 5: modefokerr (small blind) folded before Flop
+Seat 6: santiagovega541 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213782673232:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 8:08:11 MSK [2020/05/13 1:08:11 ET]
+Table 'Datura' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.54 in chips) 
+Seat 2: Lyonhearth ($1.60 in chips) 
+Seat 3: Gevron ($2.03 in chips) 
+Seat 4: SwtBlnd ($2.07 in chips) 
+Seat 6: santiagovega541 ($1.90 in chips) 
+lawlex_2: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Ah]
+Gevron: folds 
+SwtBlnd: folds 
+santiagovega541: folds 
+lawlex_2: raises $0.03 to $0.05
+Lyonhearth: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (small blind) collected ($0.04)
+Seat 2: Lyonhearth (big blind) folded before Flop
+Seat 3: Gevron folded before Flop (didn't bet)
+Seat 4: SwtBlnd folded before Flop (didn't bet)
+Seat 6: santiagovega541 (button) folded before Flop (didn't bet)
+
+
+

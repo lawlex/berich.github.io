@@ -1,0 +1,3563 @@
+﻿PokerStars Hand #213477587644:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:00:38 MSK [2020/05/08 0:00:38 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($2.06 in chips) 
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: annashunt ($2.02 in chips) 
+Seat 4: 40belowtrooper ($1.86 in chips) 
+Seat 5: Scout0916 ($2.05 in chips) 
+Seat 6: realtony01800 ($0.99 in chips) 
+realtony01800: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 3c]
+lawlex_2: checks 
+annashunt: calls $0.02
+40belowtrooper: raises $0.04 to $0.06
+Scout0916: folds 
+realtony01800: folds 
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: calls $0.04
+*** FLOP *** [8s Kh 3s]
+annashunt: checks 
+40belowtrooper: bets $0.08
+annashunt: folds 
+Uncalled bet ($0.08) returned to 40belowtrooper
+40belowtrooper collected $0.16 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8s Kh 3s]
+Seat 1: FeodorA94 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt folded on the Flop
+Seat 4: 40belowtrooper collected ($0.16)
+Seat 5: Scout0916 (button) folded before Flop (didn't bet)
+Seat 6: realtony01800 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213477604383:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:01:13 MSK [2020/05/08 0:01:13 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($2.04 in chips) 
+Seat 2: lawlex_2 ($1.98 in chips) 
+Seat 3: annashunt ($1.96 in chips) 
+Seat 4: 40belowtrooper ($1.96 in chips) 
+Seat 5: Scout0916 ($2.05 in chips) 
+Seat 6: realtony01800 ($0.98 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 9h]
+annashunt: calls $0.02
+40belowtrooper: folds 
+Scout0916: folds 
+realtony01800: calls $0.02
+FeodorA94: folds 
+lawlex_2: checks 
+*** FLOP *** [2h 7d Ad]
+lawlex_2: checks 
+annashunt: checks 
+realtony01800: checks 
+*** TURN *** [2h 7d Ad] [2s]
+lawlex_2: checks 
+annashunt: checks 
+realtony01800: checks 
+*** RIVER *** [2h 7d Ad 2s] [Jd]
+lawlex_2: checks 
+annashunt: bets $0.06
+realtony01800: folds 
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to annashunt
+annashunt collected $0.07 from pot
+annashunt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2h 7d Ad 2s Jd]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the River
+Seat 3: annashunt collected ($0.07)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: realtony01800 (button) folded on the River
+
+
+
+PokerStars Hand #213477634016:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:02:02 MSK [2020/05/08 0:02:02 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($2.03 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: annashunt ($2.01 in chips) 
+Seat 4: 40belowtrooper ($1.96 in chips) 
+Seat 5: Scout0916 ($2.05 in chips) 
+Seat 6: realtony01800 ($0.96 in chips) 
+lawlex_2: posts small blind $0.01
+annashunt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 9s]
+40belowtrooper: folds 
+Scout0916: folds 
+realtony01800: folds 
+FeodorA94: raises $0.04 to $0.06
+lawlex_2: folds 
+annashunt: folds 
+Uncalled bet ($0.04) returned to FeodorA94
+FeodorA94 collected $0.05 from pot
+FeodorA94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FeodorA94 (button) collected ($0.05)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: annashunt (big blind) folded before Flop
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: realtony01800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213477639723:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:02:13 MSK [2020/05/08 0:02:13 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($2.06 in chips) 
+Seat 2: lawlex_2 ($1.95 in chips) 
+Seat 3: annashunt ($1.99 in chips) 
+Seat 4: 40belowtrooper ($1.96 in chips) 
+Seat 5: Scout0916 ($2.05 in chips) 
+Seat 6: realtony01800 ($0.96 in chips) 
+annashunt: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 6c]
+Scout0916: folds 
+realtony01800: folds 
+FeodorA94: raises $0.02 to $0.04
+lawlex_2: calls $0.04
+annashunt: folds 
+40belowtrooper: folds 
+*** FLOP *** [5h 4d Ac]
+FeodorA94: bets $0.06
+lawlex_2: raises $0.15 to $0.21
+FeodorA94: calls $0.15
+*** TURN *** [5h 4d Ac] [8h]
+FeodorA94: checks 
+lawlex_2: checks 
+*** RIVER *** [5h 4d Ac 8h] [Tc]
+FeodorA94: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+FeodorA94: shows [6h Ad] (a pair of Aces)
+lawlex_2: mucks hand 
+FeodorA94 collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [5h 4d Ac 8h Tc]
+Seat 1: FeodorA94 showed [6h Ad] and won ($0.51) with a pair of Aces
+Seat 2: lawlex_2 (button) mucked [5c 6c]
+Seat 3: annashunt (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) folded before Flop
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: realtony01800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213477656041:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:02:46 MSK [2020/05/08 0:02:46 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($2.32 in chips) 
+Seat 2: lawlex_2 ($1.70 in chips) 
+Seat 3: annashunt ($1.98 in chips) 
+Seat 4: 40belowtrooper ($1.94 in chips) 
+Seat 5: Scout0916 ($2.05 in chips) 
+Seat 6: realtony01800 ($0.96 in chips) 
+40belowtrooper: posts small blind $0.01
+Scout0916: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 3s]
+realtony01800: folds 
+FeodorA94: raises $0.02 to $0.04
+lawlex_2: folds 
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: folds 
+Uncalled bet ($0.02) returned to FeodorA94
+FeodorA94 collected $0.05 from pot
+FeodorA94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FeodorA94 collected ($0.05)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt (button) folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (small blind) folded before Flop
+Seat 5: Scout0916 (big blind) folded before Flop
+Seat 6: realtony01800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213477661332:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:02:57 MSK [2020/05/08 0:02:57 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($2.35 in chips) 
+Seat 2: lawlex_2 ($1.70 in chips) 
+Seat 3: annashunt ($1.98 in chips) 
+Seat 4: 40belowtrooper ($1.93 in chips) 
+Seat 5: Scout0916 ($2.03 in chips) 
+Seat 6: realtony01800 ($0.96 in chips) 
+Scout0916: posts small blind $0.01
+realtony01800: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 7d]
+FeodorA94 said, "otdavaite dengo"
+FeodorA94 said, "mne ne zhalgo"
+FeodorA94: folds 
+lawlex_2: raises $0.04 to $0.06
+annashunt: folds 
+40belowtrooper: calls $0.06
+Scout0916: folds 
+realtony01800: folds 
+*** FLOP *** [Jd 2d 2h]
+lawlex_2: bets $0.09
+40belowtrooper: calls $0.09
+*** TURN *** [Jd 2d 2h] [5c]
+lawlex_2: bets $0.21
+40belowtrooper: calls $0.21
+*** RIVER *** [Jd 2d 2h 5c] [Ah]
+lawlex_2: checks 
+40belowtrooper: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [7h 7d] (two pair, Sevens and Deuces)
+40belowtrooper: shows [8s Js] (two pair, Jacks and Deuces)
+40belowtrooper collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Jd 2d 2h 5c Ah]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 showed [7h 7d] and lost with two pair, Sevens and Deuces
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) showed [8s Js] and won ($0.72) with two pair, Jacks and Deuces
+Seat 5: Scout0916 (small blind) folded before Flop
+Seat 6: realtony01800 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213477684141:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:03:43 MSK [2020/05/08 0:03:43 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($2.35 in chips) 
+Seat 2: lawlex_2 ($1.34 in chips) 
+Seat 3: annashunt ($1.98 in chips) 
+Seat 4: 40belowtrooper ($2.29 in chips) 
+Seat 5: Scout0916 ($2.02 in chips) 
+Seat 6: realtony01800 ($0.94 in chips) 
+realtony01800: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 6c]
+lawlex_2: folds 
+annashunt: calls $0.02
+40belowtrooper: folds 
+Scout0916: folds 
+realtony01800: raises $0.12 to $0.14
+FeodorA94: folds 
+annashunt: calls $0.12
+*** FLOP *** [5s Ts Jc]
+realtony01800: bets $0.30
+annashunt: folds 
+Uncalled bet ($0.30) returned to realtony01800
+realtony01800 collected $0.29 from pot
+realtony01800: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [5s Ts Jc]
+Seat 1: FeodorA94 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt folded on the Flop
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 (button) folded before Flop (didn't bet)
+Seat 6: realtony01800 (small blind) collected ($0.29)
+
+
+
+PokerStars Hand #213477702478:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:04:19 MSK [2020/05/08 0:04:19 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($2.33 in chips) 
+Seat 2: lawlex_2 ($1.34 in chips) 
+Seat 3: annashunt ($1.84 in chips) 
+Seat 4: 40belowtrooper ($2.29 in chips) 
+Seat 5: Scout0916 ($2.02 in chips) 
+Seat 6: realtony01800 ($1.09 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Jc]
+annashunt: folds 
+40belowtrooper: calls $0.02
+Scout0916: folds 
+realtony01800: folds 
+FeodorA94: folds 
+lawlex_2: raises $0.04 to $0.06
+40belowtrooper: calls $0.04
+*** FLOP *** [6h 4h 9d]
+lawlex_2: checks 
+40belowtrooper: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to 40belowtrooper
+40belowtrooper collected $0.13 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6h 4h 9d]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper collected ($0.13)
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: realtony01800 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213477715052:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:04:44 MSK [2020/05/08 0:04:44 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($2.32 in chips) 
+Seat 2: lawlex_2 ($1.28 in chips) 
+Seat 3: annashunt ($1.84 in chips) 
+Seat 4: 40belowtrooper ($2.36 in chips) 
+Seat 5: Scout0916 ($2.02 in chips) 
+Seat 6: realtony01800 ($1.09 in chips) 
+lawlex_2: posts small blind $0.01
+annashunt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 2c]
+40belowtrooper: raises $0.04 to $0.06
+Scout0916: folds 
+realtony01800: calls $0.06
+FeodorA94: calls $0.06
+lawlex_2: folds 
+annashunt: folds 
+*** FLOP *** [8d 2d 6h]
+40belowtrooper: bets $0.10
+realtony01800: folds 
+FeodorA94: folds 
+Uncalled bet ($0.10) returned to 40belowtrooper
+40belowtrooper collected $0.20 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8d 2d 6h]
+Seat 1: FeodorA94 (button) folded on the Flop
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: annashunt (big blind) folded before Flop
+Seat 4: 40belowtrooper collected ($0.20)
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: realtony01800 folded on the Flop
+
+
+
+PokerStars Hand #213477726070:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:05:06 MSK [2020/05/08 0:05:06 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($2.26 in chips) 
+Seat 2: lawlex_2 ($1.27 in chips) 
+Seat 3: annashunt ($1.82 in chips) 
+Seat 4: 40belowtrooper ($2.50 in chips) 
+Seat 5: Scout0916 ($2.02 in chips) 
+Seat 6: realtony01800 ($1.03 in chips) 
+annashunt: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 3d]
+Scout0916: folds 
+realtony01800: folds 
+FeodorA94: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+annashunt: calls $0.01
+40belowtrooper: checks 
+*** FLOP *** [Jh 3h 4c]
+annashunt: checks 
+40belowtrooper: checks 
+*** TURN *** [Jh 3h 4c] [4h]
+annashunt: checks 
+40belowtrooper: checks 
+*** RIVER *** [Jh 3h 4c 4h] [Kc]
+annashunt: bets $0.02
+40belowtrooper: folds 
+Uncalled bet ($0.02) returned to annashunt
+annashunt collected $0.04 from pot
+annashunt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jh 3h 4c 4h Kc]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: annashunt (small blind) collected ($0.04)
+Seat 4: 40belowtrooper (big blind) folded on the River
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: realtony01800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213477745903:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:05:46 MSK [2020/05/08 0:05:46 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($2.26 in chips) 
+Seat 2: lawlex_2 ($1.27 in chips) 
+Seat 3: annashunt ($1.84 in chips) 
+Seat 4: 40belowtrooper ($2.48 in chips) 
+Seat 5: Scout0916 ($2.02 in chips) 
+Seat 6: realtony01800 ($1.03 in chips) 
+40belowtrooper: posts small blind $0.01
+Scout0916: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Ad]
+realtony01800: folds 
+FeodorA94: raises $0.02 to $0.04
+lawlex_2: calls $0.04
+annashunt: folds 
+40belowtrooper: calls $0.03
+Scout0916: folds 
+*** FLOP *** [Kh 6c Qc]
+40belowtrooper: checks 
+FeodorA94: bets $0.07
+lawlex_2: calls $0.07
+40belowtrooper: calls $0.07
+*** TURN *** [Kh 6c Qc] [Qs]
+40belowtrooper: checks 
+FeodorA94: checks 
+lawlex_2: checks 
+*** RIVER *** [Kh 6c Qc Qs] [7c]
+40belowtrooper: bets $0.16
+FeodorA94: calls $0.16
+lawlex_2: folds 
+*** SHOW DOWN ***
+40belowtrooper: shows [Jc Qh] (three of a kind, Queens)
+FeodorA94: mucks hand 
+40belowtrooper collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [Kh 6c Qc Qs 7c]
+Seat 1: FeodorA94 mucked [7s Ks]
+Seat 2: lawlex_2 folded on the River
+Seat 3: annashunt (button) folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (small blind) showed [Jc Qh] and won ($0.65) with three of a kind, Queens
+Seat 5: Scout0916 (big blind) folded before Flop
+Seat 6: realtony01800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213477768899:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:06:32 MSK [2020/05/08 0:06:32 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($1.99 in chips) 
+Seat 2: lawlex_2 ($1.16 in chips) 
+Seat 3: annashunt ($1.84 in chips) 
+Seat 4: 40belowtrooper ($2.86 in chips) 
+Seat 5: Scout0916 ($2 in chips) 
+Seat 6: realtony01800 ($1.03 in chips) 
+Scout0916: posts small blind $0.01
+realtony01800: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 3c]
+FeodorA94: raises $0.04 to $0.06
+lawlex_2: calls $0.06
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: folds 
+realtony01800: calls $0.04
+*** FLOP *** [Td Qc Ad]
+realtony01800: checks 
+FeodorA94: checks 
+lawlex_2: bets $0.12
+realtony01800: folds 
+FeodorA94: folds 
+Uncalled bet ($0.12) returned to lawlex_2
+lawlex_2 collected $0.18 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Td Qc Ad]
+Seat 1: FeodorA94 folded on the Flop
+Seat 2: lawlex_2 collected ($0.18)
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Scout0916 (small blind) folded before Flop
+Seat 6: realtony01800 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213477786840:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:07:09 MSK [2020/05/08 0:07:09 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($1.93 in chips) 
+Seat 2: lawlex_2 ($1.28 in chips) 
+Seat 3: annashunt ($1.84 in chips) 
+Seat 4: 40belowtrooper ($2.86 in chips) 
+Seat 5: Scout0916 ($1.99 in chips) 
+Seat 6: realtony01800 ($0.97 in chips) 
+realtony01800: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Ac]
+lawlex_2: raises $0.04 to $0.06
+annashunt has timed out
+annashunt: folds 
+40belowtrooper: calls $0.06
+Scout0916: folds 
+realtony01800: folds 
+FeodorA94: folds 
+*** FLOP *** [3c 3h 3s]
+realtony01800 leaves the table
+lawlex_2: bets $0.09
+40belowtrooper: calls $0.09
+*** TURN *** [3c 3h 3s] [Kc]
+lawlex_2: bets $0.02
+40belowtrooper: calls $0.02
+*** RIVER *** [3c 3h 3s Kc] [9s]
+0432363 joins the table at seat #6 
+lawlex_2: bets $0.02
+40belowtrooper: calls $0.02
+*** SHOW DOWN ***
+lawlex_2: shows [4h Ac] (three of a kind, Threes)
+40belowtrooper: shows [Ad 9h] (a full house, Threes full of Nines)
+40belowtrooper collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [3c 3h 3s Kc 9s]
+Seat 1: FeodorA94 (big blind) folded before Flop
+Seat 2: lawlex_2 showed [4h Ac] and lost with three of a kind, Threes
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper showed [Ad 9h] and won ($0.40) with a full house, Threes full of Nines
+Seat 5: Scout0916 (button) folded before Flop (didn't bet)
+Seat 6: realtony01800 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213477817386:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:07:54 MSK [2020/05/08 0:07:54 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($1.91 in chips) 
+Seat 2: lawlex_2 ($1.09 in chips) 
+Seat 4: 40belowtrooper ($3.07 in chips) 
+Seat 5: Scout0916 ($1.99 in chips) 
+lawlex_2: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+0432363: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Jd]
+Scout0916: raises $0.03 to $0.05
+FeodorA94: folds 
+lawlex_2: folds 
+40belowtrooper: calls $0.03
+*** FLOP *** [6s 5h Tc]
+40belowtrooper: checks 
+Scout0916: bets $0.04
+40belowtrooper: folds 
+Uncalled bet ($0.04) returned to Scout0916
+Scout0916 collected $0.11 from pot
+Scout0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6s 5h Tc]
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) folded on the Flop
+Seat 5: Scout0916 collected ($0.11)
+
+
+
+PokerStars Hand #213477828184:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:08:16 MSK [2020/05/08 0:08:16 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($1.91 in chips) 
+Seat 2: lawlex_2 ($1.08 in chips) 
+Seat 4: 40belowtrooper ($3.02 in chips) 
+Seat 5: Scout0916 ($2.05 in chips) 
+Seat 6: 0432363 ($2 in chips) 
+40belowtrooper: posts small blind $0.01
+Scout0916: posts big blind $0.02
+0432363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 7s]
+0432363: checks 
+FeodorA94: folds 
+lawlex_2: folds 
+40belowtrooper: raises $0.04 to $0.06
+Scout0916: folds 
+0432363: calls $0.04
+*** FLOP *** [Kh Jc Ad]
+40belowtrooper: bets $0.06
+0432363: raises $0.06 to $0.12
+40belowtrooper: calls $0.06
+*** TURN *** [Kh Jc Ad] [Jh]
+40belowtrooper: checks 
+0432363: checks 
+*** RIVER *** [Kh Jc Ad Jh] [9h]
+40belowtrooper: checks 
+0432363: checks 
+*** SHOW DOWN ***
+40belowtrooper: shows [Ts Kd] (two pair, Kings and Jacks)
+0432363: shows [9s Kc] (two pair, Kings and Jacks)
+40belowtrooper collected $0.19 from pot
+0432363 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Kh Jc Ad Jh 9h]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (small blind) showed [Ts Kd] and won ($0.19) with two pair, Kings and Jacks
+Seat 5: Scout0916 (big blind) folded before Flop
+Seat 6: 0432363 showed [9s Kc] and won ($0.18) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #213477855637:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:08:55 MSK [2020/05/08 0:08:55 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($1.91 in chips) 
+Seat 2: lawlex_2 ($1.08 in chips) 
+Seat 4: 40belowtrooper ($3.03 in chips) 
+Seat 5: Scout0916 ($2.03 in chips) 
+Seat 6: 0432363 ($2 in chips) 
+Scout0916: posts small blind $0.01
+0432363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 4h]
+FeodorA94: folds 
+lawlex_2: raises $0.04 to $0.06
+40belowtrooper: folds 
+Scout0916: folds 
+0432363: raises $0.04 to $0.10
+lawlex_2: calls $0.04
+*** FLOP *** [Tc Kd 3c]
+0432363: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to 0432363
+0432363 collected $0.20 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Tc Kd 3c]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Flop
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Scout0916 (small blind) folded before Flop
+Seat 6: 0432363 (big blind) collected ($0.20)
+
+
+
+PokerStars Hand #213477867292:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:09:19 MSK [2020/05/08 0:09:19 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($1.91 in chips) 
+Seat 2: lawlex_2 ($0.98 in chips) 
+Seat 3: annashunt ($1.84 in chips) 
+Seat 4: 40belowtrooper ($3.03 in chips) 
+Seat 5: Scout0916 ($2.02 in chips) 
+Seat 6: 0432363 ($2.10 in chips) 
+0432363: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+annashunt: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Kc]
+lawlex_2: raises $0.04 to $0.06
+annashunt: calls $0.04
+40belowtrooper: folds 
+Scout0916: folds 
+0432363: calls $0.05
+FeodorA94: folds 
+*** FLOP *** [Ah 9s 3d]
+0432363: bets $0.02
+lawlex_2: folds 
+annashunt: raises $0.02 to $0.04
+0432363: raises $0.20 to $0.24
+annashunt: calls $0.20
+*** TURN *** [Ah 9s 3d] [8c]
+0432363: bets $0.02
+annashunt: calls $0.02
+*** RIVER *** [Ah 9s 3d 8c] [7d]
+0432363: bets $0.02
+annashunt: calls $0.02
+*** SHOW DOWN ***
+0432363: shows [Ts As] (a pair of Aces)
+annashunt: mucks hand 
+0432363 collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Ah 9s 3d 8c 7d]
+Seat 1: FeodorA94 (big blind) folded before Flop
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: annashunt mucked [Ad 5s]
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 (button) folded before Flop (didn't bet)
+Seat 6: 0432363 (small blind) showed [Ts As] and won ($0.74) with a pair of Aces
+
+
+
+PokerStars Hand #213477885098:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:09:55 MSK [2020/05/08 0:09:55 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($1.89 in chips) 
+Seat 2: lawlex_2 ($0.92 in chips) 
+Seat 3: annashunt ($1.49 in chips) 
+Seat 4: 40belowtrooper ($3.03 in chips) 
+Seat 5: Scout0916 ($2.02 in chips) 
+Seat 6: 0432363 ($2.50 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 6s]
+annashunt: folds 
+40belowtrooper: raises $0.04 to $0.06
+Scout0916: folds 
+0432363: calls $0.06
+FeodorA94: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [6d 4h Jd]
+lawlex_2: checks 
+40belowtrooper: checks 
+0432363: bets $0.02
+lawlex_2: calls $0.02
+40belowtrooper: calls $0.02
+*** TURN *** [6d 4h Jd] [7h]
+lawlex_2: checks 
+40belowtrooper: checks 
+0432363: bets $0.18
+lawlex_2: folds 
+40belowtrooper: folds 
+Uncalled bet ($0.18) returned to 0432363
+0432363 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6d 4h Jd 7h]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the Turn
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded on the Turn
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 (button) collected ($0.24)
+
+
+
+PokerStars Hand #213477901138:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:10:28 MSK [2020/05/08 0:10:28 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($1.88 in chips) 
+Seat 2: lawlex_2 ($0.84 in chips) 
+Seat 3: annashunt ($1.49 in chips) 
+Seat 4: 40belowtrooper ($2.95 in chips) 
+Seat 5: Scout0916 ($2.02 in chips) 
+Seat 6: 0432363 ($2.66 in chips) 
+lawlex_2: posts small blind $0.01
+annashunt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 5h]
+40belowtrooper: folds 
+Scout0916: raises $0.03 to $0.05
+0432363: calls $0.05
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: calls $0.03
+*** FLOP *** [6h Ac Jc]
+annashunt: bets $0.02
+Scout0916: folds 
+0432363: folds 
+Uncalled bet ($0.02) returned to annashunt
+annashunt collected $0.15 from pot
+annashunt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6h Ac Jc]
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: annashunt (big blind) collected ($0.15)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 folded on the Flop
+Seat 6: 0432363 folded on the Flop
+
+
+
+PokerStars Hand #213477914383:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:10:55 MSK [2020/05/08 0:10:55 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($1.88 in chips) 
+Seat 2: lawlex_2 ($0.83 in chips) 
+Seat 3: annashunt ($1.59 in chips) 
+Seat 4: 40belowtrooper ($2.95 in chips) 
+Seat 5: Scout0916 ($1.97 in chips) 
+Seat 6: 0432363 ($2.61 in chips) 
+annashunt: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 2d]
+Scout0916: folds 
+0432363: calls $0.02
+FeodorA94: raises $0.04 to $0.06
+lawlex_2: folds 
+annashunt: calls $0.05
+40belowtrooper: folds 
+0432363: folds 
+*** FLOP *** [9d 3h 4h]
+annashunt: bets $0.14
+FeodorA94: folds 
+Uncalled bet ($0.14) returned to annashunt
+annashunt collected $0.15 from pot
+annashunt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [9d 3h 4h]
+Seat 1: FeodorA94 folded on the Flop
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: annashunt (small blind) collected ($0.15)
+Seat 4: 40belowtrooper (big blind) folded before Flop
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 folded before Flop
+
+
+
+PokerStars Hand #213477930524:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:11:27 MSK [2020/05/08 0:11:27 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($1.82 in chips) 
+Seat 2: lawlex_2 ($0.83 in chips) 
+Seat 3: annashunt ($1.68 in chips) 
+Seat 4: 40belowtrooper ($2.93 in chips) 
+Seat 5: Scout0916 ($1.97 in chips) 
+Seat 6: 0432363 ($2.59 in chips) 
+40belowtrooper: posts small blind $0.01
+Scout0916: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 4d]
+0432363: calls $0.02
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: calls $0.02
+40belowtrooper: calls $0.01
+Scout0916: checks 
+*** FLOP *** [8s Kc 3c]
+40belowtrooper: checks 
+Scout0916: checks 
+0432363: checks 
+annashunt: checks 
+*** TURN *** [8s Kc 3c] [Jc]
+40belowtrooper: checks 
+Scout0916: checks 
+0432363: checks 
+annashunt: checks 
+*** RIVER *** [8s Kc 3c Jc] [Qc]
+40belowtrooper: bets $0.04
+Scout0916: folds 
+0432363: folds 
+annashunt: folds 
+Uncalled bet ($0.04) returned to 40belowtrooper
+40belowtrooper collected $0.08 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [8s Kc 3c Jc Qc]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt (button) folded on the River
+Seat 4: 40belowtrooper (small blind) collected ($0.08)
+Seat 5: Scout0916 (big blind) folded on the River
+Seat 6: 0432363 folded on the River
+
+
+
+PokerStars Hand #213477954442:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:12:16 MSK [2020/05/08 0:12:16 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($1.82 in chips) 
+Seat 2: lawlex_2 ($0.83 in chips) 
+Seat 3: annashunt ($1.66 in chips) 
+Seat 4: 40belowtrooper ($2.99 in chips) 
+Seat 5: Scout0916 ($1.95 in chips) 
+Seat 6: 0432363 ($2.57 in chips) 
+Scout0916: posts small blind $0.01
+0432363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Ad]
+FeodorA94: raises $0.02 to $0.04
+lawlex_2: raises $0.02 to $0.06
+annashunt: calls $0.06
+40belowtrooper: folds 
+Scout0916: folds 
+0432363: calls $0.04
+FeodorA94: calls $0.02
+*** FLOP *** [Qd Ac 9s]
+0432363: bets $0.02
+FeodorA94: calls $0.02
+lawlex_2: raises $0.20 to $0.22
+annashunt: calls $0.22
+0432363: calls $0.20
+FeodorA94: folds 
+*** TURN *** [Qd Ac 9s] [Kd]
+0432363: checks 
+lawlex_2: bets $0.55 and is all-in
+annashunt: calls $0.55
+0432363: folds 
+*** RIVER *** [Qd Ac 9s Kd] [6d]
+*** SHOW DOWN ***
+lawlex_2: shows [Td Ad] (a flush, Ace high)
+annashunt: shows [6c Ah] (two pair, Aces and Sixes)
+lawlex_2 collected $1.96 from pot
+annashunt cashed out the hand for $0.28
+*** SUMMARY ***
+Total pot $2.03 | Rake $0.07 
+Board [Qd Ac 9s Kd 6d]
+Seat 1: FeodorA94 folded on the Flop
+Seat 2: lawlex_2 showed [Td Ad] and won ($1.96) with a flush, Ace high
+Seat 3: annashunt showed [6c Ah] and lost with two pair, Aces and Sixes (cashed out).
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Scout0916 (small blind) folded before Flop
+Seat 6: 0432363 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213477987730:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:13:25 MSK [2020/05/08 0:13:25 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($1.74 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: annashunt ($1.11 in chips) 
+Seat 4: 40belowtrooper ($2.99 in chips) 
+Seat 5: Scout0916 ($1.94 in chips) 
+Seat 6: 0432363 ($2.29 in chips) 
+0432363: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 3s]
+lawlex_2: folds 
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: raises $0.03 to $0.05
+0432363: folds 
+FeodorA94: folds 
+Uncalled bet ($0.03) returned to Scout0916
+Scout0916 collected $0.05 from pot
+Scout0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FeodorA94 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 (button) collected ($0.05)
+Seat 6: 0432363 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213477995087:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:13:40 MSK [2020/05/08 0:13:40 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($1.72 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: annashunt ($1.11 in chips) 
+Seat 4: 40belowtrooper ($2.99 in chips) 
+Seat 5: Scout0916 ($1.97 in chips) 
+Seat 6: 0432363 ($2.28 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 6s]
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: folds 
+0432363: folds 
+FeodorA94: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.02)
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478001846:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:13:54 MSK [2020/05/08 0:13:54 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($1.71 in chips) 
+Seat 2: lawlex_2 ($1.97 in chips) 
+Seat 3: annashunt ($1.11 in chips) 
+Seat 4: 40belowtrooper ($2.99 in chips) 
+Seat 5: Scout0916 ($1.97 in chips) 
+Seat 6: 0432363 ($2.28 in chips) 
+lawlex_2: posts small blind $0.01
+annashunt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 5s]
+40belowtrooper: folds 
+Scout0916: folds 
+0432363: calls $0.02
+FeodorA94: folds 
+lawlex_2: calls $0.01
+annashunt: checks 
+*** FLOP *** [Ks 2c 7d]
+lawlex_2: bets $0.04
+annashunt: folds 
+0432363: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.06 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ks 2c 7d]
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) collected ($0.06)
+Seat 3: annashunt (big blind) folded on the Flop
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 folded on the Flop
+
+
+
+PokerStars Hand #213478015138:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:14:22 MSK [2020/05/08 0:14:22 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($1.71 in chips) 
+Seat 2: lawlex_2 ($2.01 in chips) 
+Seat 3: annashunt ($1.09 in chips) 
+Seat 4: 40belowtrooper ($2.99 in chips) 
+Seat 5: Scout0916 ($1.97 in chips) 
+Seat 6: 0432363 ($2.26 in chips) 
+annashunt: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 8d]
+Scout0916: folds 
+0432363: calls $0.02
+FeodorA94: raises $0.04 to $0.06
+lawlex_2: calls $0.06
+annashunt: calls $0.05
+40belowtrooper: calls $0.04
+0432363: calls $0.04
+*** FLOP *** [9s 6d 6c]
+annashunt: checks 
+40belowtrooper: checks 
+0432363: bets $0.02
+FeodorA94: raises $0.10 to $0.12
+lawlex_2: calls $0.12
+annashunt: folds 
+40belowtrooper: folds 
+0432363: folds 
+*** TURN *** [9s 6d 6c] [9c]
+FeodorA94: checks 
+lawlex_2: bets $0.36
+FeodorA94: folds 
+Uncalled bet ($0.36) returned to lawlex_2
+lawlex_2 collected $0.54 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [9s 6d 6c 9c]
+Seat 1: FeodorA94 folded on the Turn
+Seat 2: lawlex_2 (button) collected ($0.54)
+Seat 3: annashunt (small blind) folded on the Flop
+Seat 4: 40belowtrooper (big blind) folded on the Flop
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 folded on the Flop
+
+
+
+PokerStars Hand #213478036246:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:15:05 MSK [2020/05/08 0:15:05 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($1.53 in chips) 
+Seat 2: lawlex_2 ($2.37 in chips) 
+Seat 3: annashunt ($1.03 in chips) 
+Seat 4: 40belowtrooper ($2.93 in chips) 
+Seat 5: Scout0916 ($1.97 in chips) 
+Seat 6: 0432363 ($2.18 in chips) 
+40belowtrooper: posts small blind $0.01
+Scout0916: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 3d]
+0432363: calls $0.02
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: calls $0.02
+40belowtrooper: calls $0.01
+Scout0916: checks 
+*** FLOP *** [6h 7d 6c]
+40belowtrooper: checks 
+Scout0916: checks 
+0432363: bets $0.16
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: folds 
+Uncalled bet ($0.16) returned to 0432363
+0432363 collected $0.08 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [6h 7d 6c]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt (button) folded on the Flop
+Seat 4: 40belowtrooper (small blind) folded on the Flop
+Seat 5: Scout0916 (big blind) folded on the Flop
+Seat 6: 0432363 collected ($0.08)
+
+
+
+PokerStars Hand #213478055026:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:15:45 MSK [2020/05/08 0:15:45 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($1.53 in chips) 
+Seat 2: lawlex_2 ($2.37 in chips) 
+Seat 3: annashunt ($1.01 in chips) 
+Seat 4: 40belowtrooper ($2.91 in chips) 
+Seat 5: Scout0916 ($1.95 in chips) 
+Seat 6: 0432363 ($2.24 in chips) 
+Scout0916: posts small blind $0.01
+0432363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 2s]
+FeodorA94: raises $0.04 to $0.06
+lawlex_2: folds 
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: folds 
+0432363: calls $0.04
+*** FLOP *** [2c Ah Ad]
+0432363: checks 
+FeodorA94: checks 
+*** TURN *** [2c Ah Ad] [5c]
+0432363: checks 
+FeodorA94: checks 
+*** RIVER *** [2c Ah Ad 5c] [Jc]
+0432363: checks 
+FeodorA94: checks 
+*** SHOW DOWN ***
+0432363: shows [9c Qd] (a pair of Aces)
+FeodorA94: shows [8h Js] (two pair, Aces and Jacks)
+FeodorA94 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2c Ah Ad 5c Jc]
+Seat 1: FeodorA94 showed [8h Js] and won ($0.13) with two pair, Aces and Jacks
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Scout0916 (small blind) folded before Flop
+Seat 6: 0432363 (big blind) showed [9c Qd] and lost with a pair of Aces
+
+
+
+PokerStars Hand #213478079028:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:16:36 MSK [2020/05/08 0:16:36 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($1.60 in chips) 
+Seat 2: lawlex_2 ($2.37 in chips) 
+Seat 3: annashunt ($1.01 in chips) 
+Seat 4: 40belowtrooper ($2.91 in chips) 
+Seat 5: Scout0916 ($1.94 in chips) 
+Seat 6: 0432363 ($2.18 in chips) 
+0432363: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Jd]
+lawlex_2: folds 
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: folds 
+0432363: calls $0.01
+FeodorA94: checks 
+*** FLOP *** [6c 6s 3d]
+0432363: checks 
+FeodorA94: checks 
+*** TURN *** [6c 6s 3d] [9c]
+0432363: checks 
+FeodorA94: checks 
+*** RIVER *** [6c 6s 3d 9c] [Jc]
+0432363: bets $0.02
+FeodorA94: folds 
+Uncalled bet ($0.02) returned to 0432363
+0432363 collected $0.04 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6c 6s 3d 9c Jc]
+Seat 1: FeodorA94 (big blind) folded on the River
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 (button) folded before Flop (didn't bet)
+Seat 6: 0432363 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213478091331:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:17:01 MSK [2020/05/08 0:17:01 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($1.58 in chips) 
+Seat 2: lawlex_2 ($2.37 in chips) 
+Seat 3: annashunt ($1.01 in chips) 
+Seat 4: 40belowtrooper ($2.91 in chips) 
+Seat 5: Scout0916 ($1.94 in chips) 
+Seat 6: 0432363 ($2.20 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 5d]
+annashunt: folds 
+40belowtrooper: calls $0.02
+Scout0916: folds 
+0432363: calls $0.02
+FeodorA94: folds 
+lawlex_2: raises $0.04 to $0.06
+40belowtrooper: calls $0.04
+0432363: calls $0.04
+*** FLOP *** [8d Kh 2h]
+lawlex_2: bets $0.12
+40belowtrooper: folds 
+0432363: folds 
+Uncalled bet ($0.12) returned to lawlex_2
+lawlex_2 collected $0.18 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8d Kh 2h]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.18)
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded on the Flop
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 (button) folded on the Flop
+
+
+
+PokerStars Hand #213478106550:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:17:34 MSK [2020/05/08 0:17:34 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($1.57 in chips) 
+Seat 2: lawlex_2 ($2.49 in chips) 
+Seat 3: annashunt ($1.01 in chips) 
+Seat 4: 40belowtrooper ($2.85 in chips) 
+Seat 5: Scout0916 ($1.94 in chips) 
+Seat 6: 0432363 ($2.14 in chips) 
+lawlex_2: posts small blind $0.01
+annashunt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 2c]
+40belowtrooper: raises $0.04 to $0.06
+Scout0916: calls $0.06
+0432363: calls $0.06
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: calls $0.04
+*** FLOP *** [6h 2d 3s]
+annashunt: checks 
+40belowtrooper: bets $0.12
+Scout0916: calls $0.12
+0432363: calls $0.12
+annashunt: folds 
+*** TURN *** [6h 2d 3s] [Ks]
+40belowtrooper: checks 
+Scout0916: checks 
+0432363: checks 
+*** RIVER *** [6h 2d 3s Ks] [5c]
+40belowtrooper: checks 
+Scout0916: bets $0.89
+0432363: calls $0.89
+40belowtrooper: folds 
+*** SHOW DOWN ***
+Scout0916: shows [Ah 8h] (high card Ace)
+0432363: shows [5d Kh] (two pair, Kings and Fives)
+0432363 collected $2.31 from pot
+*** SUMMARY ***
+Total pot $2.39 | Rake $0.08 
+Board [6h 2d 3s Ks 5c]
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: annashunt (big blind) folded on the Flop
+Seat 4: 40belowtrooper folded on the River
+Seat 5: Scout0916 showed [Ah 8h] and lost with high card Ace
+Seat 6: 0432363 showed [5d Kh] and won ($2.31) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #213478135597:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:18:35 MSK [2020/05/08 0:18:35 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($1.57 in chips) 
+Seat 2: lawlex_2 ($2.48 in chips) 
+Seat 3: annashunt ($0.95 in chips) 
+Seat 4: 40belowtrooper ($2.67 in chips) 
+Seat 5: Scout0916 ($2 in chips) 
+Seat 6: 0432363 ($3.38 in chips) 
+annashunt: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Kh]
+Scout0916: folds 
+0432363: calls $0.02
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: calls $0.01
+40belowtrooper: checks 
+*** FLOP *** [Qd Qc 9c]
+annashunt: bets $0.04
+40belowtrooper: calls $0.04
+0432363: raises $0.04 to $0.08
+annashunt: folds 
+40belowtrooper: calls $0.04
+*** TURN *** [Qd Qc 9c] [8s]
+40belowtrooper: checks 
+0432363: bets $0.68
+40belowtrooper: folds 
+Uncalled bet ($0.68) returned to 0432363
+0432363 collected $0.25 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Qd Qc 9c 8s]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: annashunt (small blind) folded on the Flop
+Seat 4: 40belowtrooper (big blind) folded on the Turn
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 collected ($0.25)
+
+
+
+PokerStars Hand #213478156471:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:19:19 MSK [2020/05/08 0:19:19 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($1.57 in chips) 
+Seat 2: lawlex_2 ($2.48 in chips) 
+Seat 3: annashunt ($0.89 in chips) 
+Seat 4: 40belowtrooper ($2.57 in chips) 
+Seat 5: Scout0916 ($2 in chips) 
+Seat 6: 0432363 ($3.53 in chips) 
+40belowtrooper: posts small blind $0.01
+Scout0916: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Ad]
+0432363: calls $0.02
+FeodorA94: folds 
+lawlex_2: raises $0.04 to $0.06
+annashunt: folds 
+40belowtrooper: calls $0.05
+Scout0916: calls $0.04
+0432363: calls $0.04
+*** FLOP *** [5s Td 5c]
+40belowtrooper: checks 
+Scout0916: checks 
+0432363: checks 
+lawlex_2: bets $0.15
+40belowtrooper: calls $0.15
+Scout0916: folds 
+0432363: folds 
+*** TURN *** [5s Td 5c] [Th]
+40belowtrooper: checks 
+lawlex_2: checks 
+*** RIVER *** [5s Td 5c Th] [8c]
+40belowtrooper: bets $0.26
+lawlex_2: folds 
+Uncalled bet ($0.26) returned to 40belowtrooper
+40belowtrooper collected $0.52 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [5s Td 5c Th 8c]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the River
+Seat 3: annashunt (button) folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (small blind) collected ($0.52)
+Seat 5: Scout0916 (big blind) folded on the Flop
+Seat 6: 0432363 folded on the Flop
+
+
+
+PokerStars Hand #213478180207:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:20:10 MSK [2020/05/08 0:20:10 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($1.57 in chips) 
+Seat 2: lawlex_2 ($2.27 in chips) 
+Seat 3: annashunt ($0.89 in chips) 
+Seat 4: 40belowtrooper ($2.88 in chips) 
+Seat 5: Scout0916 ($1.94 in chips) 
+Seat 6: 0432363 ($3.47 in chips) 
+Scout0916: posts small blind $0.01
+0432363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Kh]
+FeodorA94: folds 
+lawlex_2: raises $0.04 to $0.06
+annashunt has timed out
+annashunt: folds 
+40belowtrooper: calls $0.06
+Scout0916: folds 
+0432363: calls $0.04
+*** FLOP *** [8s 5h Jc]
+0432363: checks 
+lawlex_2: bets $0.12
+40belowtrooper: calls $0.12
+0432363: folds 
+*** TURN *** [8s 5h Jc] [2c]
+lawlex_2: checks 
+40belowtrooper: bets $0.20
+lawlex_2: folds 
+Uncalled bet ($0.20) returned to 40belowtrooper
+40belowtrooper collected $0.41 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [8s 5h Jc 2c]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Turn
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) collected ($0.41)
+Seat 5: Scout0916 (small blind) folded before Flop
+Seat 6: 0432363 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213478202424:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:20:57 MSK [2020/05/08 0:20:57 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($1.57 in chips) 
+Seat 2: lawlex_2 ($2.09 in chips) 
+Seat 3: annashunt ($0.89 in chips) 
+Seat 4: 40belowtrooper ($3.11 in chips) 
+Seat 5: Scout0916 ($1.93 in chips) 
+Seat 6: 0432363 ($3.41 in chips) 
+0432363: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 8h]
+lawlex_2: folds 
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: raises $0.03 to $0.05
+0432363: calls $0.04
+FeodorA94: folds 
+*** FLOP *** [7d 6c 7c]
+0432363: bets $0.08
+Scout0916: folds 
+Uncalled bet ($0.08) returned to 0432363
+0432363 collected $0.12 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7d 6c 7c]
+Seat 1: FeodorA94 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 (button) folded on the Flop
+Seat 6: 0432363 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #213478218310:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:21:21 MSK [2020/05/08 0:21:21 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($1.55 in chips) 
+Seat 2: lawlex_2 ($2.09 in chips) 
+Seat 3: annashunt ($0.89 in chips) 
+Seat 4: 40belowtrooper ($3.11 in chips) 
+Seat 5: Scout0916 ($2 in chips) 
+Seat 6: 0432363 ($3.48 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 4s]
+annashunt: calls $0.02
+40belowtrooper: folds 
+Scout0916: calls $0.02
+0432363: calls $0.02
+FeodorA94: folds 
+lawlex_2: checks 
+*** FLOP *** [3h 6h 3s]
+lawlex_2: checks 
+annashunt: checks 
+Scout0916: checks 
+0432363: checks 
+*** TURN *** [3h 6h 3s] [4h]
+lawlex_2: checks 
+annashunt: checks 
+Scout0916: checks 
+0432363: checks 
+*** RIVER *** [3h 6h 3s 4h] [Qh]
+lawlex_2: checks 
+annashunt: checks 
+Scout0916: checks 
+0432363: bets $0.12
+lawlex_2: folds 
+annashunt: folds 
+Scout0916: folds 
+Uncalled bet ($0.12) returned to 0432363
+0432363 collected $0.09 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3h 6h 3s 4h Qh]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the River
+Seat 3: annashunt folded on the River
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 folded on the River
+Seat 6: 0432363 (button) collected ($0.09)
+
+
+
+PokerStars Hand #213478242778:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:22:13 MSK [2020/05/08 0:22:13 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($1.54 in chips) 
+Seat 2: lawlex_2 ($2.07 in chips) 
+Seat 3: annashunt ($0.87 in chips) 
+Seat 4: 40belowtrooper ($3.11 in chips) 
+Seat 5: Scout0916 ($1.98 in chips) 
+Seat 6: 0432363 ($3.55 in chips) 
+lawlex_2: posts small blind $0.01
+annashunt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 4h]
+40belowtrooper: raises $0.04 to $0.06
+Scout0916: folds 
+0432363: calls $0.06
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: calls $0.04
+*** FLOP *** [Jh Qs 4s]
+annashunt: checks 
+40belowtrooper: checks 
+0432363: checks 
+*** TURN *** [Jh Qs 4s] [9c]
+annashunt: checks 
+40belowtrooper: checks 
+0432363: checks 
+*** RIVER *** [Jh Qs 4s 9c] [3d]
+annashunt: checks 
+40belowtrooper: checks 
+0432363: bets $0.12
+annashunt: folds 
+40belowtrooper: folds 
+Uncalled bet ($0.12) returned to 0432363
+0432363 collected $0.18 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Jh Qs 4s 9c 3d]
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: annashunt (big blind) folded on the River
+Seat 4: 40belowtrooper folded on the River
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 collected ($0.18)
+
+
+
+PokerStars Hand #213478261852:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:22:54 MSK [2020/05/08 0:22:54 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($1.54 in chips) 
+Seat 2: lawlex_2 ($2.06 in chips) 
+Seat 3: annashunt ($0.81 in chips) 
+Seat 4: 40belowtrooper ($3.05 in chips) 
+Seat 5: Scout0916 ($1.98 in chips) 
+Seat 6: 0432363 ($3.67 in chips) 
+annashunt: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 6h]
+Scout0916: folds 
+0432363: calls $0.02
+FeodorA94: raises $0.04 to $0.06
+lawlex_2: calls $0.06
+annashunt: folds 
+40belowtrooper: folds 
+0432363: calls $0.04
+*** FLOP *** [Qc Js Qs]
+0432363: checks 
+FeodorA94: bets $0.10
+lawlex_2: folds 
+0432363: folds 
+Uncalled bet ($0.10) returned to FeodorA94
+FeodorA94 collected $0.20 from pot
+FeodorA94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Qc Js Qs]
+Seat 1: FeodorA94 collected ($0.20)
+Seat 2: lawlex_2 (button) folded on the Flop
+Seat 3: annashunt (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) folded before Flop
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 folded on the Flop
+
+
+
+PokerStars Hand #213478279627:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:23:32 MSK [2020/05/08 0:23:32 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($1.68 in chips) 
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: annashunt ($0.80 in chips) 
+Seat 4: 40belowtrooper ($3.03 in chips) 
+Seat 5: Scout0916 ($1.98 in chips) 
+Seat 6: 0432363 ($3.61 in chips) 
+40belowtrooper: posts small blind $0.01
+Scout0916: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c As]
+0432363: calls $0.02
+FeodorA94: raises $0.04 to $0.06
+lawlex_2: folds 
+annashunt: calls $0.06
+40belowtrooper: folds 
+Scout0916: folds 
+0432363: calls $0.04
+*** FLOP *** [Td 9d 2d]
+0432363: bets $0.02
+FeodorA94: folds 
+annashunt: calls $0.02
+*** TURN *** [Td 9d 2d] [Qd]
+0432363: bets $0.02
+annashunt: raises $0.02 to $0.04
+0432363: raises $3.49 to $3.53 and is all-in
+annashunt: folds 
+Uncalled bet ($3.49) returned to 0432363
+0432363 collected $0.32 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Td 9d 2d Qd]
+Seat 1: FeodorA94 folded on the Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt (button) folded on the Turn
+Seat 4: 40belowtrooper (small blind) folded before Flop
+Seat 5: Scout0916 (big blind) folded before Flop
+Seat 6: 0432363 collected ($0.32)
+
+
+
+PokerStars Hand #213478301884:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:24:20 MSK [2020/05/08 0:24:20 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($1.62 in chips) 
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: annashunt ($0.68 in chips) 
+Seat 4: 40belowtrooper ($3.02 in chips) 
+Seat 5: Scout0916 ($1.96 in chips) 
+Seat 6: 0432363 ($3.81 in chips) 
+Scout0916: posts small blind $0.01
+0432363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 5s]
+FeodorA94: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: folds 
+Uncalled bet ($0.01) returned to 0432363
+0432363 collected $0.02 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Scout0916 (small blind) folded before Flop
+Seat 6: 0432363 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213478312014:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:24:41 MSK [2020/05/08 0:24:41 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($1.62 in chips) 
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: annashunt ($0.68 in chips) 
+Seat 4: 40belowtrooper ($3.02 in chips) 
+Seat 5: Scout0916 ($1.95 in chips) 
+Seat 6: 0432363 ($3.82 in chips) 
+0432363: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 7d]
+lawlex_2: raises $0.04 to $0.06
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: folds 
+0432363: calls $0.05
+FeodorA94: folds 
+*** FLOP *** [Kh 2c Qs]
+0432363: checks 
+lawlex_2: bets $0.09
+0432363: calls $0.09
+*** TURN *** [Kh 2c Qs] [5c]
+0432363: checks 
+lawlex_2: bets $0.21
+0432363: calls $0.21
+*** RIVER *** [Kh 2c Qs 5c] [7h]
+0432363: bets $0.10
+lawlex_2: raises $0.61 to $0.71
+0432363: folds 
+Uncalled bet ($0.61) returned to lawlex_2
+lawlex_2 collected $0.91 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [Kh 2c Qs 5c 7h]
+Seat 1: FeodorA94 (big blind) folded before Flop
+Seat 2: lawlex_2 collected ($0.91)
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 (button) folded before Flop (didn't bet)
+Seat 6: 0432363 (small blind) folded on the River
+
+
+
+PokerStars Hand #213478338774:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:25:38 MSK [2020/05/08 0:25:38 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($1.60 in chips) 
+Seat 2: lawlex_2 ($2.45 in chips) 
+Seat 3: annashunt ($0.68 in chips) 
+Seat 4: 40belowtrooper ($3.02 in chips) 
+Seat 5: Scout0916 ($1.95 in chips) 
+Seat 6: 0432363 ($3.36 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Jh]
+annashunt: folds 
+40belowtrooper: folds 
+Scout0916: raises $0.03 to $0.05
+0432363: calls $0.05
+FeodorA94: folds 
+lawlex_2: folds 
+*** FLOP *** [3s 6c Qs]
+Scout0916: checks 
+0432363: checks 
+*** TURN *** [3s 6c Qs] [Ah]
+Scout0916: bets $0.20
+0432363: folds 
+Uncalled bet ($0.20) returned to Scout0916
+Scout0916 collected $0.13 from pot
+Scout0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3s 6c Qs Ah]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 collected ($0.13)
+Seat 6: 0432363 (button) folded on the Turn
+
+
+
+PokerStars Hand #213478352336:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:26:07 MSK [2020/05/08 0:26:07 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($1.59 in chips) 
+Seat 2: lawlex_2 ($2.43 in chips) 
+Seat 3: annashunt ($0.68 in chips) 
+Seat 4: 40belowtrooper ($3.02 in chips) 
+Seat 5: Scout0916 ($2.03 in chips) 
+Seat 6: 0432363 ($3.31 in chips) 
+lawlex_2: posts small blind $0.01
+annashunt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 3s]
+40belowtrooper: folds 
+Scout0916: folds 
+0432363: folds 
+FeodorA94 has timed out
+FeodorA94: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to annashunt
+annashunt collected $0.02 from pot
+annashunt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: annashunt (big blind) collected ($0.02)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478365985:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:26:37 MSK [2020/05/08 0:26:37 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($1.59 in chips) 
+Seat 2: lawlex_2 ($2.42 in chips) 
+Seat 3: annashunt ($0.69 in chips) 
+Seat 4: 40belowtrooper ($3.02 in chips) 
+Seat 5: Scout0916 ($2.03 in chips) 
+Seat 6: 0432363 ($3.31 in chips) 
+annashunt: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Tc]
+Scout0916: folds 
+0432363: calls $0.02
+Scout0916 leaves the table
+FeodorA94: raises $0.04 to $0.06
+lawlex_2: folds 
+annashunt: folds 
+40belowtrooper: calls $0.04
+0432363: calls $0.04
+*** FLOP *** [9h 6s 7s]
+Makci17 joins the table at seat #5 
+40belowtrooper: checks 
+0432363: bets $0.02
+FeodorA94: calls $0.02
+40belowtrooper: calls $0.02
+*** TURN *** [9h 6s 7s] [9d]
+40belowtrooper: checks 
+0432363: bets $0.02
+FeodorA94: calls $0.02
+40belowtrooper: calls $0.02
+*** RIVER *** [9h 6s 7s 9d] [4c]
+40belowtrooper: checks 
+0432363: bets $0.12
+FeodorA94: folds 
+40belowtrooper: folds 
+Uncalled bet ($0.12) returned to 0432363
+0432363 collected $0.30 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9h 6s 7s 9d 4c]
+Seat 1: FeodorA94 folded on the River
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: annashunt (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) folded on the River
+Seat 5: Scout0916 folded before Flop (didn't bet)
+Seat 6: 0432363 collected ($0.30)
+
+
+
+PokerStars Hand #213478385133:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:27:18 MSK [2020/05/08 0:27:18 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($1.49 in chips) 
+Seat 2: lawlex_2 ($2.42 in chips) 
+Seat 3: annashunt ($0.68 in chips) 
+Seat 4: 40belowtrooper ($2.92 in chips) 
+Seat 5: Makci17 ($2 in chips) 
+Seat 6: 0432363 ($3.51 in chips) 
+40belowtrooper: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Js]
+0432363: calls $0.02
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: folds 
+40belowtrooper: calls $0.01
+Makci17: checks 
+*** FLOP *** [5c 2c 6d]
+40belowtrooper: checks 
+Makci17: checks 
+0432363: checks 
+*** TURN *** [5c 2c 6d] [2d]
+40belowtrooper: checks 
+Makci17: checks 
+0432363: bets $0.08
+40belowtrooper: folds 
+Makci17: folds 
+Uncalled bet ($0.08) returned to 0432363
+0432363 collected $0.06 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5c 2c 6d 2d]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt (button) folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (small blind) folded on the Turn
+Seat 5: Makci17 (big blind) folded on the Turn
+Seat 6: 0432363 collected ($0.06)
+
+
+
+PokerStars Hand #213478420272:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:27:57 MSK [2020/05/08 0:27:57 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($1.49 in chips) 
+Seat 2: lawlex_2 ($2.42 in chips) 
+Seat 3: annashunt ($0.68 in chips) 
+Seat 4: 40belowtrooper ($2.90 in chips) 
+Seat 5: Makci17 ($2 in chips) 
+Seat 6: 0432363 ($3.55 in chips) 
+Makci17: posts small blind $0.01
+0432363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 8c]
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: calls $0.02
+40belowtrooper: folds 
+Makci17: folds 
+0432363: checks 
+*** FLOP *** [8d Tc Ks]
+0432363: checks 
+annashunt: checks 
+*** TURN *** [8d Tc Ks] [3d]
+0432363: checks 
+annashunt: checks 
+*** RIVER *** [8d Tc Ks 3d] [Td]
+0432363: bets $0.10
+annashunt: folds 
+Uncalled bet ($0.10) returned to 0432363
+0432363 collected $0.05 from pot
+0432363: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d Tc Ks 3d Td]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt folded on the River
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Makci17 (small blind) folded before Flop
+Seat 6: 0432363 (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #213478440276:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:28:40 MSK [2020/05/08 0:28:40 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($1.49 in chips) 
+Seat 2: lawlex_2 ($2.42 in chips) 
+Seat 3: annashunt ($0.66 in chips) 
+Seat 4: 40belowtrooper ($2.90 in chips) 
+Seat 5: Makci17 ($2 in chips) 
+Seat 6: 0432363 ($3.58 in chips) 
+0432363: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 9c]
+lawlex_2: folds 
+annashunt: calls $0.02
+40belowtrooper: folds 
+Makci17: raises $0.06 to $0.08
+0432363: calls $0.07
+FeodorA94: folds 
+annashunt: folds 
+*** FLOP *** [9s Ah Js]
+0432363: checks 
+Makci17: bets $0.06
+0432363: calls $0.06
+*** TURN *** [9s Ah Js] [Ts]
+0432363: checks 
+Makci17: bets $0.10
+0432363: calls $0.10
+*** RIVER *** [9s Ah Js Ts] [Th]
+0432363: checks 
+Makci17: bets $0.21
+0432363: calls $0.21
+*** SHOW DOWN ***
+Makci17: shows [Qd Kh] (a straight, Ten to Ace)
+0432363: mucks hand 
+Makci17 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [9s Ah Js Ts Th]
+Seat 1: FeodorA94 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt folded before Flop
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 (button) showed [Qd Kh] and won ($0.91) with a straight, Ten to Ace
+Seat 6: 0432363 (small blind) mucked [8c As]
+
+
+
+PokerStars Hand #213478461785:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:29:27 MSK [2020/05/08 0:29:27 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($1.47 in chips) 
+Seat 2: lawlex_2 ($2.42 in chips) 
+Seat 3: annashunt ($0.64 in chips) 
+Seat 4: 40belowtrooper ($2.90 in chips) 
+Seat 5: Makci17 ($2.46 in chips) 
+Seat 6: 0432363 ($3.13 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Ks]
+annashunt: calls $0.02
+40belowtrooper: folds 
+Makci17: raises $0.04 to $0.06
+0432363: folds 
+FeodorA94: folds 
+0432363 leaves the table
+lawlex_2: raises $0.15 to $0.21
+annashunt: folds 
+Makci17: calls $0.15
+*** FLOP *** [4d 7h 4c]
+lawlex_2: checks 
+Makci17: checks 
+*** TURN *** [4d 7h 4c] [7s]
+lawlex_2: checks 
+Makci17: bets $0.22
+lawlex_2: calls $0.22
+*** RIVER *** [4d 7h 4c 7s] [2d]
+lawlex_2: checks 
+Makci17: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Qs Ks] (two pair, Sevens and Fours)
+Makci17: shows [Th Ts] (two pair, Tens and Sevens)
+Makci17 collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [4d 7h 4c 7s 2d]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) showed [Qs Ks] and lost with two pair, Sevens and Fours
+Seat 3: annashunt folded before Flop
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 showed [Th Ts] and won ($0.86) with two pair, Tens and Sevens
+Seat 6: 0432363 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478483746:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:30:14 MSK [2020/05/08 0:30:14 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($1.46 in chips) 
+Seat 2: lawlex_2 ($1.99 in chips) 
+Seat 3: annashunt ($0.62 in chips) 
+Seat 4: 40belowtrooper ($2.90 in chips) 
+Seat 5: Makci17 ($2.89 in chips) 
+lawlex_2: posts small blind $0.01
+annashunt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 9h]
+40belowtrooper: folds 
+Makci17: folds 
+FeodorA94: folds 
+lawlex_2: calls $0.01
+annashunt: checks 
+*** FLOP *** [7h Jc 2h]
+lawlex_2: bets $0.03
+annashunt: calls $0.03
+*** TURN *** [7h Jc 2h] [5c]
+lawlex_2: checks 
+annashunt: bets $0.02
+lawlex_2: calls $0.02
+*** RIVER *** [7h Jc 2h 5c] [9c]
+lawlex_2: bets $0.09
+annashunt: raises $0.09 to $0.18
+lawlex_2: calls $0.09
+*** SHOW DOWN ***
+annashunt: shows [8c Ac] (a flush, Ace high)
+lawlex_2: mucks hand 
+annashunt collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [7h Jc 2h 5c 9c]
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) mucked [Qc 9h]
+Seat 3: annashunt (big blind) showed [8c Ac] and won ($0.48) with a flush, Ace high
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478500044:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:30:50 MSK [2020/05/08 0:30:50 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($1.46 in chips) 
+Seat 2: lawlex_2 ($1.74 in chips) 
+Seat 3: annashunt ($0.85 in chips) 
+Seat 4: 40belowtrooper ($2.90 in chips) 
+Seat 5: Makci17 ($2.89 in chips) 
+annashunt: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 8c]
+Makci17: folds 
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: folds 
+Uncalled bet ($0.01) returned to 40belowtrooper
+40belowtrooper collected $0.02 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: annashunt (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) collected ($0.02)
+Seat 5: Makci17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478504058:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:30:59 MSK [2020/05/08 0:30:59 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($1.46 in chips) 
+Seat 2: lawlex_2 ($1.74 in chips) 
+Seat 3: annashunt ($0.84 in chips) 
+Seat 4: 40belowtrooper ($2.91 in chips) 
+Seat 5: Makci17 ($2.89 in chips) 
+40belowtrooper: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 9d]
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: folds 
+40belowtrooper: calls $0.01
+Rasshausinn joins the table at seat #6 
+Makci17: checks 
+*** FLOP *** [4c 4s Th]
+40belowtrooper: checks 
+Makci17: checks 
+*** TURN *** [4c 4s Th] [6c]
+40belowtrooper: bets $0.04
+Makci17: folds 
+Uncalled bet ($0.04) returned to 40belowtrooper
+40belowtrooper collected $0.04 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4c 4s Th 6c]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt (button) folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (small blind) collected ($0.04)
+Seat 5: Makci17 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213478515478:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:31:24 MSK [2020/05/08 0:31:24 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($1.46 in chips) 
+Seat 2: lawlex_2 ($1.74 in chips) 
+Seat 3: annashunt ($0.84 in chips) 
+Seat 4: 40belowtrooper ($2.93 in chips) 
+Seat 5: Makci17 ($2.87 in chips) 
+Seat 6: Rasshausinn ($2 in chips) 
+Makci17: posts small blind $0.01
+Rasshausinn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 3d]
+FeodorA94: folds 
+lawlex_2: raises $0.04 to $0.06
+annashunt: folds 
+40belowtrooper: calls $0.06
+Makci17: folds 
+Rasshausinn: calls $0.04
+*** FLOP *** [5c 8d Jc]
+Rasshausinn: checks 
+lawlex_2: bets $0.12
+Rasshausinn said, "hey anna"
+40belowtrooper: folds 
+Rasshausinn: calls $0.12
+*** TURN *** [5c 8d Jc] [9s]
+Rasshausinn: bets $0.10
+lawlex_2: calls $0.10
+*** RIVER *** [5c 8d Jc 9s] [5s]
+Rasshausinn: bets $0.18
+lawlex_2: calls $0.18
+*** SHOW DOWN ***
+Rasshausinn: shows [5h 9d] (a full house, Fives full of Nines)
+lawlex_2: mucks hand 
+Rasshausinn collected $0.96 from pot
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.03 
+Board [5c 8d Jc 9s 5s]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 mucked [3h 3d]
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) folded on the Flop
+Seat 5: Makci17 (small blind) folded before Flop
+Seat 6: Rasshausinn (big blind) showed [5h 9d] and won ($0.96) with a full house, Fives full of Nines
+
+
+
+PokerStars Hand #213478536746:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:32:10 MSK [2020/05/08 0:32:10 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($1.46 in chips) 
+Seat 2: lawlex_2 ($1.28 in chips) 
+Seat 3: annashunt ($0.84 in chips) 
+Seat 4: 40belowtrooper ($2.87 in chips) 
+Seat 5: Makci17 ($2.86 in chips) 
+Seat 6: Rasshausinn ($2.50 in chips) 
+Rasshausinn: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Kc]
+lawlex_2: folds 
+annashunt: folds 
+40belowtrooper: raises $0.04 to $0.06
+Makci17: folds 
+Rasshausinn: calls $0.05
+FeodorA94: calls $0.04
+*** FLOP *** [9h 6d 6h]
+Rasshausinn: checks 
+FeodorA94: bets $0.06
+40belowtrooper: folds 
+Rasshausinn: calls $0.06
+*** TURN *** [9h 6d 6h] [4d]
+Rasshausinn: checks 
+FeodorA94: checks 
+*** RIVER *** [9h 6d 6h 4d] [Qc]
+Rasshausinn: checks 
+FeodorA94: bets $0.15
+Rasshausinn: folds 
+Uncalled bet ($0.15) returned to FeodorA94
+FeodorA94 collected $0.29 from pot
+FeodorA94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [9h 6d 6h 4d Qc]
+Seat 1: FeodorA94 (big blind) collected ($0.29)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: annashunt folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded on the Flop
+Seat 5: Makci17 (button) folded before Flop (didn't bet)
+Seat 6: Rasshausinn (small blind) folded on the River
+
+
+
+PokerStars Hand #213478556279:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:32:53 MSK [2020/05/08 0:32:53 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($1.63 in chips) 
+Seat 2: lawlex_2 ($1.28 in chips) 
+Seat 3: annashunt ($0.84 in chips) 
+Seat 4: 40belowtrooper ($2.81 in chips) 
+Seat 5: Makci17 ($2.86 in chips) 
+Seat 6: Rasshausinn ($2.38 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Kc]
+annashunt: calls $0.02
+40belowtrooper: folds 
+Makci17: folds 
+Rasshausinn: calls $0.02
+FeodorA94: folds 
+lawlex_2: checks 
+*** FLOP *** [6d Qh 7h]
+lawlex_2: checks 
+annashunt: checks 
+Rasshausinn: checks 
+*** TURN *** [6d Qh 7h] [9s]
+lawlex_2: checks 
+Rasshausinn said, "anna how old are u"
+annashunt: checks 
+Rasshausinn: checks 
+*** RIVER *** [6d Qh 7h 9s] [4d]
+lawlex_2: checks 
+annashunt: checks 
+Rasshausinn: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [3c Kc] (high card King)
+annashunt: shows [2d Ac] (high card Ace)
+Rasshausinn: mucks hand 
+annashunt collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [6d Qh 7h 9s 4d]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) showed [3c Kc] and lost with high card King
+Seat 3: annashunt showed [2d Ac] and won ($0.07) with high card Ace
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Rasshausinn (button) mucked [Ks 2s]
+
+
+
+PokerStars Hand #213478573534:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:33:31 MSK [2020/05/08 0:33:31 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($1.62 in chips) 
+Seat 2: lawlex_2 ($1.26 in chips) 
+Seat 3: annashunt ($0.89 in chips) 
+Seat 4: 40belowtrooper ($2.81 in chips) 
+Seat 5: Makci17 ($2.86 in chips) 
+Seat 6: Rasshausinn ($2.36 in chips) 
+lawlex_2: posts small blind $0.01
+annashunt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 6s]
+40belowtrooper: raises $0.04 to $0.06
+Makci17: folds 
+Rasshausinn: calls $0.06
+FeodorA94: folds 
+lawlex_2: folds 
+annashunt: calls $0.04
+*** FLOP *** [4h 9s 7c]
+annashunt: checks 
+40belowtrooper: bets $0.08
+Rasshausinn: folds 
+annashunt: folds 
+Uncalled bet ($0.08) returned to 40belowtrooper
+40belowtrooper collected $0.18 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4h 9s 7c]
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: annashunt (big blind) folded on the Flop
+Seat 4: 40belowtrooper collected ($0.18)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Rasshausinn folded on the Flop
+
+
+
+PokerStars Hand #213478585218:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:33:56 MSK [2020/05/08 0:33:56 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($1.62 in chips) 
+Seat 2: lawlex_2 ($1.25 in chips) 
+Seat 3: annashunt ($0.83 in chips) 
+Seat 4: 40belowtrooper ($2.93 in chips) 
+Seat 5: Makci17 ($2.86 in chips) 
+Seat 6: Rasshausinn ($2.30 in chips) 
+annashunt: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 7c]
+Makci17: raises $0.04 to $0.06
+Rasshausinn: calls $0.06
+FeodorA94: folds 
+lawlex_2: calls $0.06
+annashunt: folds 
+40belowtrooper: calls $0.04
+*** FLOP *** [Kh 3h 2h]
+annashunt leaves the table
+40belowtrooper: checks 
+Makci17: checks 
+44lexandria joins the table at seat #3 
+Rasshausinn: bets $0.08
+lawlex_2: folds 
+40belowtrooper: folds 
+Makci17: folds 
+Uncalled bet ($0.08) returned to Rasshausinn
+Rasshausinn collected $0.24 from pot
+Rasshausinn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kh 3h 2h]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded on the Flop
+Seat 3: annashunt (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) folded on the Flop
+Seat 5: Makci17 folded on the Flop
+Seat 6: Rasshausinn collected ($0.24)
+
+
+
+PokerStars Hand #213478598309:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:34:25 MSK [2020/05/08 0:34:25 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($1.62 in chips) 
+Seat 2: lawlex_2 ($1.19 in chips) 
+Seat 4: 40belowtrooper ($2.87 in chips) 
+Seat 5: Makci17 ($2.80 in chips) 
+Seat 6: Rasshausinn ($2.48 in chips) 
+Makci17: posts small blind $0.01
+Rasshausinn: posts big blind $0.02
+44lexandria: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 2s]
+FeodorA94: folds 
+lawlex_2: folds 
+40belowtrooper: folds 
+Makci17: folds 
+Uncalled bet ($0.01) returned to Rasshausinn
+Rasshausinn collected $0.02 from pot
+Rasshausinn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Makci17 (small blind) folded before Flop
+Seat 6: Rasshausinn (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213478603895:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:34:37 MSK [2020/05/08 0:34:37 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($1.62 in chips) 
+Seat 2: lawlex_2 ($1.19 in chips) 
+Seat 4: 40belowtrooper ($2.87 in chips) 
+Seat 5: Makci17 ($2.79 in chips) 
+Seat 6: Rasshausinn ($2.49 in chips) 
+Rasshausinn: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+44lexandria: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 4d]
+lawlex_2: folds 
+40belowtrooper: raises $0.04 to $0.06
+Makci17: folds 
+Rasshausinn: calls $0.05
+FeodorA94: calls $0.04
+*** FLOP *** [Jd 7c Ts]
+Rasshausinn: checks 
+FeodorA94: checks 
+40belowtrooper: bets $0.08
+Rasshausinn: calls $0.08
+FeodorA94: folds 
+*** TURN *** [Jd 7c Ts] [9h]
+Rasshausinn: checks 
+40belowtrooper: bets $0.16
+Rasshausinn: folds 
+Uncalled bet ($0.16) returned to 40belowtrooper
+40belowtrooper collected $0.33 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Jd 7c Ts 9h]
+Seat 1: FeodorA94 (big blind) folded on the Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 4: 40belowtrooper collected ($0.33)
+Seat 5: Makci17 (button) folded before Flop (didn't bet)
+Seat 6: Rasshausinn (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213478618731:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:35:10 MSK [2020/05/08 0:35:10 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($1.56 in chips) 
+Seat 2: lawlex_2 ($1.19 in chips) 
+Seat 4: 40belowtrooper ($3.06 in chips) 
+Seat 5: Makci17 ($2.79 in chips) 
+Seat 6: Rasshausinn ($2.35 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+44lexandria: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Jd]
+40belowtrooper: raises $0.04 to $0.06
+Makci17: folds 
+Rasshausinn: calls $0.06
+FeodorA94: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [3d Ac 7s]
+FeodorA94: checks 
+40belowtrooper: bets $0.10
+Rasshausinn: calls $0.10
+FeodorA94: folds 
+*** TURN *** [3d Ac 7s] [3c]
+40belowtrooper: bets $0.20
+Rasshausinn: calls $0.20
+*** RIVER *** [3d Ac 7s 3c] [4h]
+40belowtrooper: bets $0.20
+Rasshausinn: raises $0.20 to $0.40
+40belowtrooper: folds 
+Uncalled bet ($0.20) returned to Rasshausinn
+Rasshausinn collected $1.16 from pot
+Rasshausinn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.04 
+Board [3d Ac 7s 3c 4h]
+Seat 1: FeodorA94 (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 4: 40belowtrooper folded on the River
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Rasshausinn (button) collected ($1.16)
+
+
+
+PokerStars Hand #213478641834:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:36:01 MSK [2020/05/08 0:36:01 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($1.50 in chips) 
+Seat 2: lawlex_2 ($1.17 in chips) 
+Seat 3: 44lexandria ($0.80 in chips) 
+Seat 4: 40belowtrooper ($2.50 in chips) 
+Seat 5: Makci17 ($2.79 in chips) 
+Seat 6: Rasshausinn ($2.95 in chips) 
+lawlex_2: posts small blind $0.01
+44lexandria: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Qc]
+40belowtrooper: folds 
+Makci17: folds 
+Rasshausinn: calls $0.02
+FeodorA94: calls $0.02
+lawlex_2: calls $0.01
+44lexandria: checks 
+*** FLOP *** [2c 7h 4c]
+lawlex_2: checks 
+44lexandria: checks 
+Rasshausinn: checks 
+FeodorA94: checks 
+*** TURN *** [2c 7h 4c] [6h]
+lawlex_2: checks 
+44lexandria: checks 
+Rasshausinn: checks 
+FeodorA94: checks 
+*** RIVER *** [2c 7h 4c 6h] [Td]
+lawlex_2: checks 
+44lexandria: checks 
+Rasshausinn: checks 
+FeodorA94: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Ts Qc] (a pair of Tens)
+44lexandria: mucks hand 
+Rasshausinn: mucks hand 
+FeodorA94: mucks hand 
+lawlex_2 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2c 7h 4c 6h Td]
+Seat 1: FeodorA94 (button) mucked [8d Th]
+Seat 2: lawlex_2 (small blind) showed [Ts Qc] and won ($0.08) with a pair of Tens
+Seat 3: 44lexandria (big blind) mucked [8s Ah]
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Rasshausinn mucked [Ks 9s]
+
+
+
+PokerStars Hand #213478663551:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:36:49 MSK [2020/05/08 0:36:49 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($1.48 in chips) 
+Seat 2: lawlex_2 ($1.23 in chips) 
+Seat 3: 44lexandria ($0.78 in chips) 
+Seat 4: 40belowtrooper ($2.50 in chips) 
+Seat 5: Makci17 ($2.79 in chips) 
+Seat 6: Rasshausinn ($2.93 in chips) 
+44lexandria: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 3s]
+Makci17: folds 
+Rasshausinn: folds 
+Rasshausinn leaves the table
+FeodorA94: folds 
+lawlex_2: folds 
+44lexandria: folds 
+Uncalled bet ($0.01) returned to 40belowtrooper
+40belowtrooper collected $0.02 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: 44lexandria (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) collected ($0.02)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Rasshausinn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478667159:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:36:57 MSK [2020/05/08 0:36:57 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($1.48 in chips) 
+Seat 2: lawlex_2 ($1.23 in chips) 
+Seat 3: 44lexandria ($0.77 in chips) 
+Seat 4: 40belowtrooper ($2.51 in chips) 
+Seat 5: Makci17 ($2.79 in chips) 
+40belowtrooper: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 4d]
+FeodorA94: folds 
+Tietie me joins the table at seat #6 
+lawlex_2: folds 
+44lexandria: folds 
+40belowtrooper: raises $0.04 to $0.06
+Makci17: calls $0.04
+*** FLOP *** [Js 7d 6d]
+40belowtrooper: bets $0.06
+Makci17: calls $0.06
+*** TURN *** [Js 7d 6d] [6c]
+40belowtrooper: checks 
+Makci17: checks 
+*** RIVER *** [Js 7d 6d 6c] [Qs]
+40belowtrooper: bets $0.12
+Makci17: calls $0.12
+*** SHOW DOWN ***
+40belowtrooper: shows [7s 8s] (two pair, Sevens and Sixes)
+Makci17: shows [9d Qh] (two pair, Queens and Sixes)
+Makci17 collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Js 7d 6d 6c Qs]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria (button) folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (small blind) showed [7s 8s] and lost with two pair, Sevens and Sixes
+Seat 5: Makci17 (big blind) showed [9d Qh] and won ($0.46) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #213478683727:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:37:33 MSK [2020/05/08 0:37:33 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($1.48 in chips) 
+Seat 2: lawlex_2 ($1.23 in chips) 
+Seat 3: 44lexandria ($0.77 in chips) 
+Seat 4: 40belowtrooper ($2.27 in chips) 
+Seat 5: Makci17 ($3.01 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+Makci17: posts small blind $0.01
+Tietie me: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 2c]
+FeodorA94: raises $0.04 to $0.06
+lawlex_2: folds 
+44lexandria: folds 
+40belowtrooper: folds 
+Makci17: folds 
+Tietie me: folds 
+Uncalled bet ($0.04) returned to FeodorA94
+FeodorA94 collected $0.05 from pot
+FeodorA94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FeodorA94 collected ($0.05)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Makci17 (small blind) folded before Flop
+Seat 6: Tietie me (big blind) folded before Flop
+
+
+
+PokerStars Hand #213478692416:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:37:52 MSK [2020/05/08 0:37:52 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($1.51 in chips) 
+Seat 2: lawlex_2 ($1.23 in chips) 
+Seat 3: 44lexandria ($0.77 in chips) 
+Seat 4: 40belowtrooper ($2.27 in chips) 
+Seat 5: Makci17 ($3 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+Tietie me: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 2s]
+lawlex_2: folds 
+44lexandria: folds 
+40belowtrooper: folds 
+Makci17: raises $0.03 to $0.05
+Tietie me: folds 
+FeodorA94: raises $0.11 to $0.16
+Makci17: calls $0.11
+*** FLOP *** [6d Tc Td]
+FeodorA94: bets $0.16
+Makci17: calls $0.16
+*** TURN *** [6d Tc Td] [8d]
+FeodorA94: checks 
+Makci17: bets $0.33
+FeodorA94: calls $0.33
+*** RIVER *** [6d Tc Td 8d] [Qh]
+FeodorA94: checks 
+Makci17: checks 
+*** SHOW DOWN ***
+FeodorA94: shows [Ks Kh] (two pair, Kings and Tens)
+Makci17: mucks hand 
+FeodorA94 collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [6d Tc Td 8d Qh]
+Seat 1: FeodorA94 (big blind) showed [Ks Kh] and won ($1.26) with two pair, Kings and Tens
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 (button) mucked [6h 7h]
+Seat 6: Tietie me (small blind) folded before Flop
+
+
+
+PokerStars Hand #213478710374:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:38:32 MSK [2020/05/08 0:38:32 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($2.12 in chips) 
+Seat 2: lawlex_2 ($1.23 in chips) 
+Seat 3: 44lexandria ($0.77 in chips) 
+Seat 4: 40belowtrooper ($2.27 in chips) 
+Seat 5: Makci17 ($2.35 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Ad]
+44lexandria: raises $0.04 to $0.06
+40belowtrooper: folds 
+Makci17: folds 
+Tietie me: folds 
+FeodorA94: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [Ts Qc 6h]
+lawlex_2: checks 
+44lexandria: bets $0.06
+lawlex_2: calls $0.06
+*** TURN *** [Ts Qc 6h] [8s]
+lawlex_2: checks 
+44lexandria: bets $0.12
+lawlex_2: folds 
+Uncalled bet ($0.12) returned to 44lexandria
+44lexandria collected $0.24 from pot
+44lexandria: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ts Qc 6h 8s]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the Turn
+Seat 3: 44lexandria collected ($0.24)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478726031:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:39:07 MSK [2020/05/08 0:39:07 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($2.11 in chips) 
+Seat 2: lawlex_2 ($1.11 in chips) 
+Seat 3: 44lexandria ($0.89 in chips) 
+Seat 4: 40belowtrooper ($2.27 in chips) 
+Seat 5: Makci17 ($2.35 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+lawlex_2: posts small blind $0.01
+44lexandria: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 6c]
+40belowtrooper: folds 
+Makci17: folds 
+Tietie me has timed out
+Tietie me: folds 
+FeodorA94: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to 44lexandria
+44lexandria collected $0.02 from pot
+44lexandria: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: 44lexandria (big blind) collected ($0.02)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478735448:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:39:27 MSK [2020/05/08 0:39:27 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($2.11 in chips) 
+Seat 2: lawlex_2 ($1.10 in chips) 
+Seat 3: 44lexandria ($0.90 in chips) 
+Seat 4: 40belowtrooper ($2.27 in chips) 
+Seat 5: Makci17 ($2.35 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+44lexandria: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 4h]
+Makci17: folds 
+Tietie me has timed out
+Tietie me: folds 
+FeodorA94: raises $0.04 to $0.06
+lawlex_2: folds 
+44lexandria: folds 
+40belowtrooper: calls $0.04
+*** FLOP *** [7s 2s Kc]
+40belowtrooper: checks 
+FeodorA94: checks 
+*** TURN *** [7s 2s Kc] [2d]
+40belowtrooper: bets $0.12
+FeodorA94: folds 
+Uncalled bet ($0.12) returned to 40belowtrooper
+40belowtrooper collected $0.13 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7s 2s Kc 2d]
+Seat 1: FeodorA94 folded on the Turn
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: 44lexandria (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) collected ($0.13)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478753951:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:40:08 MSK [2020/05/08 0:40:08 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1.10 in chips) 
+Seat 3: 44lexandria ($0.89 in chips) 
+Seat 4: 40belowtrooper ($2.34 in chips) 
+Seat 5: Makci17 ($2.35 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+40belowtrooper: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 3c]
+Tietie me has timed out
+Tietie me: folds 
+FeodorA94: raises $0.02 to $0.04
+lawlex_2: folds 
+44lexandria: folds 
+40belowtrooper: folds 
+Makci17: folds 
+Uncalled bet ($0.02) returned to FeodorA94
+FeodorA94 collected $0.05 from pot
+FeodorA94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FeodorA94 collected ($0.05)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria (button) folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (small blind) folded before Flop
+Seat 5: Makci17 (big blind) folded before Flop
+Seat 6: Tietie me folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478766987:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:40:37 MSK [2020/05/08 0:40:37 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($2.08 in chips) 
+Seat 2: lawlex_2 ($1.10 in chips) 
+Seat 3: 44lexandria ($0.89 in chips) 
+Seat 4: 40belowtrooper ($2.33 in chips) 
+Seat 5: Makci17 ($2.33 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+Makci17: posts small blind $0.01
+Tietie me: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Ad]
+FeodorA94: folds 
+lawlex_2: raises $0.04 to $0.06
+44lexandria: folds 
+40belowtrooper: folds 
+Makci17: folds 
+Tietie me: calls $0.04
+*** FLOP *** [5c 3h 5h]
+Tietie me: bets $0.07
+lawlex_2: folds 
+Uncalled bet ($0.07) returned to Tietie me
+Tietie me collected $0.13 from pot
+Tietie me: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5c 3h 5h]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: 44lexandria folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Makci17 (small blind) folded before Flop
+Seat 6: Tietie me (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #213478778646:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:41:03 MSK [2020/05/08 0:41:03 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($2.08 in chips) 
+Seat 2: lawlex_2 ($1.04 in chips) 
+Seat 3: 44lexandria ($0.89 in chips) 
+Seat 4: 40belowtrooper ($2.33 in chips) 
+Seat 5: Makci17 ($2.32 in chips) 
+Seat 6: Tietie me ($2.07 in chips) 
+Tietie me: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 6s]
+lawlex_2: folds 
+44lexandria: raises $0.04 to $0.06
+40belowtrooper: folds 
+Makci17: folds 
+Tietie me: calls $0.05
+FeodorA94: folds 
+*** FLOP *** [8c 8h 3c]
+Tietie me: checks 
+44lexandria: bets $0.06
+Tietie me: folds 
+Uncalled bet ($0.06) returned to 44lexandria
+44lexandria collected $0.14 from pot
+44lexandria: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8c 8h 3c]
+Seat 1: FeodorA94 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria collected ($0.14)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 (button) folded before Flop (didn't bet)
+Seat 6: Tietie me (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213478800134:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:41:51 MSK [2020/05/08 0:41:51 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($2.06 in chips) 
+Seat 2: lawlex_2 ($1.04 in chips) 
+Seat 3: 44lexandria ($0.97 in chips) 
+Seat 4: 40belowtrooper ($2.33 in chips) 
+Seat 5: Makci17 ($2.32 in chips) 
+Seat 6: Tietie me ($2.01 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 7c]
+44lexandria: calls $0.02
+40belowtrooper: calls $0.02
+Makci17: raises $0.06 to $0.08
+Tietie me: calls $0.08
+FeodorA94: folds 
+lawlex_2: folds 
+44lexandria: calls $0.06
+40belowtrooper: calls $0.06
+*** FLOP *** [9c Qh Tc]
+44lexandria: bets $0.34
+40belowtrooper: calls $0.34
+Makci17: folds 
+Tietie me: folds 
+*** TURN *** [9c Qh Tc] [5d]
+44lexandria: bets $0.50
+40belowtrooper: folds 
+Uncalled bet ($0.50) returned to 44lexandria
+44lexandria collected $0.99 from pot
+44lexandria: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [9c Qh Tc 5d]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: 44lexandria collected ($0.99)
+Seat 4: 40belowtrooper folded on the Turn
+Seat 5: Makci17 folded on the Flop
+Seat 6: Tietie me (button) folded on the Flop
+
+
+
+PokerStars Hand #213478832265:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:43:03 MSK [2020/05/08 0:43:03 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1.02 in chips) 
+Seat 3: 44lexandria ($1.54 in chips) 
+Seat 4: 40belowtrooper ($1.91 in chips) 
+Seat 5: Makci17 ($2.24 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+lawlex_2: posts small blind $0.01
+44lexandria: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 5s]
+40belowtrooper: folds 
+Makci17: folds 
+Tietie me: folds 
+FeodorA94: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to 44lexandria
+44lexandria collected $0.02 from pot
+44lexandria: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: 44lexandria (big blind) collected ($0.02)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478847113:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:43:21 MSK [2020/05/08 0:43:21 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1.01 in chips) 
+Seat 3: 44lexandria ($1.55 in chips) 
+Seat 4: 40belowtrooper ($1.91 in chips) 
+Seat 5: Makci17 ($2.24 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+44lexandria: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Jc]
+Makci17: folds 
+Tietie me: folds 
+FeodorA94: folds 
+lawlex_2: calls $0.02
+44lexandria: folds 
+40belowtrooper: raises $0.04 to $0.06
+lawlex_2: calls $0.04
+*** FLOP *** [4s Ts Ks]
+40belowtrooper: checks 
+lawlex_2: bets $0.13
+40belowtrooper: folds 
+Uncalled bet ($0.13) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4s Ts Ks]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) collected ($0.13)
+Seat 3: 44lexandria (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) folded on the Flop
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478861508:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:43:54 MSK [2020/05/08 0:43:54 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1.08 in chips) 
+Seat 3: 44lexandria ($1.54 in chips) 
+Seat 4: 40belowtrooper ($1.85 in chips) 
+Seat 5: Makci17 ($2.24 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+40belowtrooper: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 4c]
+Tietie me: folds 
+FeodorA94: folds 
+lawlex_2: folds 
+44lexandria: folds 
+40belowtrooper: folds 
+Uncalled bet ($0.01) returned to Makci17
+Makci17 collected $0.02 from pot
+Makci17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria (button) folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (small blind) folded before Flop
+Seat 5: Makci17 (big blind) collected ($0.02)
+Seat 6: Tietie me folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478866290:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:44:04 MSK [2020/05/08 0:44:04 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1.08 in chips) 
+Seat 3: 44lexandria ($1.54 in chips) 
+Seat 4: 40belowtrooper ($1.84 in chips) 
+Seat 5: Makci17 ($2.25 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+Makci17: posts small blind $0.01
+Tietie me: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 3c]
+FeodorA94: folds 
+lawlex_2: folds 
+44lexandria: raises $0.04 to $0.06
+40belowtrooper: folds 
+Makci17: raises $0.14 to $0.20
+Tietie me: folds 
+44lexandria: calls $0.14
+*** FLOP *** [7h Js 8s]
+Makci17: bets $0.14
+44lexandria: folds 
+Uncalled bet ($0.14) returned to Makci17
+Makci17 collected $0.41 from pot
+Makci17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [7h Js 8s]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria folded on the Flop
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Makci17 (small blind) collected ($0.41)
+Seat 6: Tietie me (big blind) folded before Flop
+
+
+
+PokerStars Hand #213478883658:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:44:43 MSK [2020/05/08 0:44:43 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1.08 in chips) 
+Seat 3: 44lexandria ($1.34 in chips) 
+Seat 4: 40belowtrooper ($1.84 in chips) 
+Seat 5: Makci17 ($2.46 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+Tietie me: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 8h]
+lawlex_2: folds 
+44lexandria: folds 
+40belowtrooper: folds 
+Makci17: folds 
+Tietie me: folds 
+Uncalled bet ($0.01) returned to FeodorA94
+FeodorA94 collected $0.02 from pot
+FeodorA94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 (big blind) collected ($0.02)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 (button) folded before Flop (didn't bet)
+Seat 6: Tietie me (small blind) folded before Flop
+
+
+
+PokerStars Hand #213478891989:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:45:02 MSK [2020/05/08 0:45:02 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($2.06 in chips) 
+Seat 2: lawlex_2 ($1.08 in chips) 
+Seat 3: 44lexandria ($1.34 in chips) 
+Seat 4: 40belowtrooper ($1.84 in chips) 
+Seat 5: Makci17 ($2.46 in chips) 
+Seat 6: Tietie me ($2 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Ah]
+44lexandria: folds 
+40belowtrooper: folds 
+Makci17: folds 
+Tietie me: raises $0.02 to $0.04
+FeodorA94: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to Tietie me
+Tietie me collected $0.05 from pot
+Tietie me: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: 44lexandria folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me (button) collected ($0.05)
+
+
+
+PokerStars Hand #213478900696:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:45:22 MSK [2020/05/08 0:45:22 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1.06 in chips) 
+Seat 3: 44lexandria ($1.34 in chips) 
+Seat 4: 40belowtrooper ($1.84 in chips) 
+Seat 5: Makci17 ($2.46 in chips) 
+Seat 6: Tietie me ($2.03 in chips) 
+lawlex_2: posts small blind $0.01
+44lexandria: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 7d]
+40belowtrooper: folds 
+Makci17 has timed out
+Makci17: folds 
+Tietie me: raises $0.04 to $0.06
+FeodorA94: folds 
+lawlex_2: calls $0.05
+44lexandria: folds 
+*** FLOP *** [5c Ac As]
+lawlex_2: checks 
+Tietie me: checks 
+*** TURN *** [5c Ac As] [2s]
+lawlex_2: checks 
+Tietie me: checks 
+*** RIVER *** [5c Ac As 2s] [8d]
+lawlex_2: checks 
+Tietie me: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [9d 7d] (a pair of Aces)
+Tietie me: shows [Kc Ts] (a pair of Aces - King kicker)
+Tietie me collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5c Ac As 2s 8d]
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) showed [9d 7d] and lost with a pair of Aces
+Seat 3: 44lexandria (big blind) folded before Flop
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me showed [Kc Ts] and won ($0.14) with a pair of Aces
+
+
+
+PokerStars Hand #213478949721:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:47:13 MSK [2020/05/08 0:47:13 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1 in chips) 
+Seat 3: 44lexandria ($1.32 in chips) 
+Seat 4: 40belowtrooper ($1.84 in chips) 
+Seat 5: Makci17 ($2.46 in chips) 
+Seat 6: Tietie me ($2.11 in chips) 
+44lexandria: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 8d]
+Makci17: folds 
+Tietie me: folds 
+FeodorA94: folds 
+lawlex_2: folds 
+44lexandria: folds 
+Uncalled bet ($0.01) returned to 40belowtrooper
+40belowtrooper collected $0.02 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: 44lexandria (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) collected ($0.02)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213478956504:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:47:29 MSK [2020/05/08 0:47:29 ET]
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1 in chips) 
+Seat 3: 44lexandria ($1.31 in chips) 
+Seat 4: 40belowtrooper ($1.85 in chips) 
+Seat 5: Makci17 ($2.46 in chips) 
+Seat 6: Tietie me ($2.11 in chips) 
+40belowtrooper: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Jh]
+Tietie me: raises $0.04 to $0.06
+FeodorA94: folds 
+lawlex_2: folds 
+44lexandria: folds 
+40belowtrooper: folds 
+Makci17: folds 
+Uncalled bet ($0.04) returned to Tietie me
+Tietie me collected $0.05 from pot
+Tietie me: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria (button) folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (small blind) folded before Flop
+Seat 5: Makci17 (big blind) folded before Flop
+Seat 6: Tietie me collected ($0.05)
+
+
+
+PokerStars Hand #213478963683:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:47:45 MSK [2020/05/08 0:47:45 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1 in chips) 
+Seat 3: 44lexandria ($1.31 in chips) 
+Seat 4: 40belowtrooper ($1.84 in chips) 
+Seat 5: Makci17 ($2.44 in chips) 
+Seat 6: Tietie me ($2.14 in chips) 
+Makci17: posts small blind $0.01
+Tietie me: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 3d]
+FeodorA94: folds 
+lawlex_2: folds 
+44lexandria: folds 
+40belowtrooper: folds 
+Makci17: raises $0.04 to $0.06
+Tietie me: calls $0.04
+*** FLOP *** [Jd 8c Ks]
+Makci17: bets $0.05
+Tietie me: calls $0.05
+*** TURN *** [Jd 8c Ks] [2d]
+Makci17: checks 
+Tietie me: bets $0.06
+Makci17: folds 
+Uncalled bet ($0.06) returned to Tietie me
+Tietie me collected $0.21 from pot
+Tietie me: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Jd 8c Ks 2d]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Makci17 (small blind) folded on the Turn
+Seat 6: Tietie me (big blind) collected ($0.21)
+
+
+
+PokerStars Hand #213478978626:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:48:19 MSK [2020/05/08 0:48:19 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($1 in chips) 
+Seat 3: 44lexandria ($1.31 in chips) 
+Seat 4: 40belowtrooper ($1.84 in chips) 
+Seat 5: Makci17 ($2.33 in chips) 
+Seat 6: Tietie me ($2.24 in chips) 
+Tietie me: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 9h]
+lawlex_2: folds 
+44lexandria: folds 
+40belowtrooper: folds 
+Makci17: folds 
+Tietie me: folds 
+Uncalled bet ($0.01) returned to FeodorA94
+FeodorA94 collected $0.02 from pot
+FeodorA94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 (big blind) collected ($0.02)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: 44lexandria folded before Flop (didn't bet)
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 (button) folded before Flop (didn't bet)
+Seat 6: Tietie me (small blind) folded before Flop
+
+
+
+PokerStars Hand #213478985723:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:48:35 MSK [2020/05/08 0:48:35 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($2.06 in chips) 
+Seat 2: lawlex_2 ($1 in chips) 
+Seat 3: 44lexandria ($1.31 in chips) 
+Seat 4: 40belowtrooper ($1.84 in chips) 
+Seat 5: Makci17 ($2.33 in chips) 
+Seat 6: Tietie me ($2.23 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 3d]
+44lexandria: raises $0.04 to $0.06
+40belowtrooper: calls $0.06
+Makci17: folds 
+Tietie me: calls $0.06
+FeodorA94: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [Js 7d 9c]
+lawlex_2: checks 
+44lexandria: bets $0.24
+40belowtrooper: calls $0.24
+Tietie me: folds 
+lawlex_2: folds 
+*** TURN *** [Js 7d 9c] [6c]
+44lexandria: bets $0.34
+40belowtrooper: raises $0.34 to $0.68
+44lexandria: raises $0.33 to $1.01 and is all-in
+40belowtrooper: calls $0.33
+*** RIVER *** [Js 7d 9c 6c] [8h]
+*** SHOW DOWN ***
+44lexandria: shows [Ac Qc] (high card Ace)
+40belowtrooper: shows [Ah 7c] (a pair of Sevens)
+40belowtrooper collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [Js 7d 9c 6c 8h]
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: 44lexandria showed [Ac Qc] and lost with high card Ace
+Seat 4: 40belowtrooper showed [Ah 7c] and won ($2.65) with a pair of Sevens
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me (button) folded on the Flop
+
+
+
+PokerStars Hand #213479013339:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:49:38 MSK [2020/05/08 0:49:38 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($0.94 in chips) 
+Seat 4: 40belowtrooper ($3.18 in chips) 
+Seat 5: Makci17 ($2.33 in chips) 
+Seat 6: Tietie me ($2.17 in chips) 
+lawlex_2: posts small blind $0.01
+44lexandria leaves the table
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 7d]
+Makci17: folds 
+Tietie me: raises $0.04 to $0.06
+FeodorA94: folds 
+lawlex_2: folds 
+40belowtrooper: calls $0.04
+*** FLOP *** [Kd Jc 3s]
+40belowtrooper: checks 
+Tietie me: checks 
+*** TURN *** [Kd Jc 3s] [Qs]
+40belowtrooper: checks 
+petrotis joins the table at seat #3 
+Tietie me: checks 
+*** RIVER *** [Kd Jc 3s Qs] [9s]
+petrotis leaves the table
+40belowtrooper: bets $0.06
+Tietie me: folds 
+Uncalled bet ($0.06) returned to 40belowtrooper
+40belowtrooper collected $0.13 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kd Jc 3s Qs 9s]
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 4: 40belowtrooper (big blind) collected ($0.13)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me folded on the River
+
+
+
+PokerStars Hand #213479038538:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:50:36 MSK [2020/05/08 0:50:36 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($0.93 in chips) 
+Seat 4: 40belowtrooper ($3.25 in chips) 
+Seat 5: Makci17 ($2.33 in chips) 
+Seat 6: Tietie me ($2.11 in chips) 
+40belowtrooper: posts small blind $0.01
+Makci17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Qh]
+Tietie me: folds 
+FeodorA94: folds 
+lawlex_2: raises $0.04 to $0.06
+40belowtrooper: folds 
+Makci17: calls $0.04
+*** FLOP *** [9s 5s Tc]
+Makci17: checks 
+lawlex_2: bets $0.09
+Makci17: calls $0.09
+*** TURN *** [9s 5s Tc] [2s]
+Makci17: checks 
+lawlex_2: checks 
+*** RIVER *** [9s 5s Tc 2s] [4d]
+Makci17: bets $0.10
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to Makci17
+Makci17 collected $0.30 from pot
+Makci17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9s 5s Tc 2s 4d]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded on the River
+Seat 4: 40belowtrooper (small blind) folded before Flop
+Seat 5: Makci17 (big blind) collected ($0.30)
+Seat 6: Tietie me folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213479061069:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:51:28 MSK [2020/05/08 0:51:28 ET]
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($0.78 in chips) 
+Seat 4: 40belowtrooper ($3.24 in chips) 
+Seat 5: Makci17 ($2.48 in chips) 
+Seat 6: Tietie me ($2.11 in chips) 
+Makci17: posts small blind $0.01
+Tietie me: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Ah]
+FeodorA94: folds 
+lawlex_2: folds 
+40belowtrooper: folds 
+Makci17: folds 
+Uncalled bet ($0.01) returned to Tietie me
+Tietie me collected $0.02 from pot
+Tietie me: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 4: 40belowtrooper (button) folded before Flop (didn't bet)
+Seat 5: Makci17 (small blind) folded before Flop
+Seat 6: Tietie me (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213479066286:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:51:40 MSK [2020/05/08 0:51:40 ET]
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: FeodorA94 ($2.05 in chips) 
+Seat 2: lawlex_2 ($0.78 in chips) 
+Seat 4: 40belowtrooper ($3.24 in chips) 
+Seat 5: Makci17 ($2.47 in chips) 
+Seat 6: Tietie me ($2.12 in chips) 
+Tietie me: posts small blind $0.01
+FeodorA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 5h]
+lawlex_2: folds 
+40belowtrooper: raises $0.04 to $0.06
+Makci17: folds 
+bilcker joins the table at seat #3 
+Tietie me: calls $0.05
+FeodorA94: folds 
+*** FLOP *** [Qd Ks Jc]
+Tietie me: checks 
+40belowtrooper: bets $0.06
+Tietie me: folds 
+Uncalled bet ($0.06) returned to 40belowtrooper
+40belowtrooper collected $0.14 from pot
+40belowtrooper: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qd Ks Jc]
+Seat 1: FeodorA94 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 4: 40belowtrooper collected ($0.14)
+Seat 5: Makci17 (button) folded before Flop (didn't bet)
+Seat 6: Tietie me (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213479088776:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:52:22 MSK [2020/05/08 0:52:22 ET]
+Table 'Hollandia' 6-max Seat #6 is the button
+Seat 1: FeodorA94 ($2.03 in chips) 
+Seat 2: lawlex_2 ($0.78 in chips) 
+Seat 4: 40belowtrooper ($3.32 in chips) 
+Seat 5: Makci17 ($2.47 in chips) 
+Seat 6: Tietie me ($2.06 in chips) 
+FeodorA94: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+bilcker: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Th]
+40belowtrooper: folds 
+Makci17: folds 
+Tietie me: raises $0.04 to $0.06
+FeodorA94: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Tietie me
+Tietie me collected $0.05 from pot
+Tietie me: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FeodorA94 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 4: 40belowtrooper folded before Flop (didn't bet)
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me (button) collected ($0.05)
+
+
+
+PokerStars Hand #213479095813:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:52:38 MSK [2020/05/08 0:52:38 ET]
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: FeodorA94 ($2.02 in chips) 
+Seat 2: lawlex_2 ($0.76 in chips) 
+Seat 3: bilcker ($0.80 in chips) 
+Seat 4: 40belowtrooper ($3.32 in chips) 
+Seat 5: Makci17 ($2.47 in chips) 
+Seat 6: Tietie me ($2.09 in chips) 
+lawlex_2: posts small blind $0.01
+bilcker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 2c]
+40belowtrooper: raises $0.04 to $0.06
+Makci17: folds 
+Tietie me: raises $0.15 to $0.21
+FeodorA94: folds 
+lawlex_2: folds 
+bilcker: folds 
+40belowtrooper: folds 
+Uncalled bet ($0.15) returned to Tietie me
+Tietie me collected $0.15 from pot
+Tietie me: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: FeodorA94 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: bilcker (big blind) folded before Flop
+Seat 4: 40belowtrooper folded before Flop
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me collected ($0.15)
+
+
+
+PokerStars Hand #213479110713:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 7:53:13 MSK [2020/05/08 0:53:13 ET]
+Table 'Hollandia' 6-max Seat #2 is the button
+Seat 1: FeodorA94 ($2.02 in chips) 
+Seat 2: lawlex_2 ($0.75 in chips) 
+Seat 3: bilcker ($0.78 in chips) 
+Seat 4: 40belowtrooper ($3.26 in chips) 
+Seat 5: Makci17 ($2.47 in chips) 
+Seat 6: Tietie me ($2.18 in chips) 
+bilcker: posts small blind $0.01
+40belowtrooper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 9c]
+Makci17: folds 
+Tietie me: folds 
+FeodorA94: folds 
+lawlex_2: calls $0.02
+bilcker: calls $0.01
+40belowtrooper: checks 
+*** FLOP *** [9s Ts 8d]
+bilcker: bets $0.06
+40belowtrooper: folds 
+lawlex_2: raises $0.12 to $0.18
+bilcker: raises $0.12 to $0.30
+lawlex_2: raises $0.43 to $0.73 and is all-in
+bilcker: calls $0.43
+*** TURN *** [9s Ts 8d] [3h]
+*** RIVER *** [9s Ts 8d 3h] [Js]
+*** SHOW DOWN ***
+bilcker: shows [7s 6s] (a flush, Jack high)
+lawlex_2: shows [Th 9c] (two pair, Tens and Nines)
+bilcker collected $1.47 from pot
+*** SUMMARY ***
+Total pot $1.52 | Rake $0.05 
+Board [9s Ts 8d 3h Js]
+Seat 1: FeodorA94 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) showed [Th 9c] and lost with two pair, Tens and Nines
+Seat 3: bilcker (small blind) showed [7s 6s] and won ($1.47) with a flush, Jack high
+Seat 4: 40belowtrooper (big blind) folded on the Flop
+Seat 5: Makci17 folded before Flop (didn't bet)
+Seat 6: Tietie me folded before Flop (didn't bet)
+
+
+

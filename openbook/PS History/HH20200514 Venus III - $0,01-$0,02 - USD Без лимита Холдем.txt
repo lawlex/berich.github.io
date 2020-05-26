@@ -1,0 +1,325 @@
+﻿PokerStars Hand #213851040315:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 17:29:47 MSK [2020/05/14 10:29:47 ET]
+Table 'Venus III' 6-max Seat #3 is the button
+Seat 1: Dorsu ($9.38 in chips) 
+Seat 2: dmitrry ($1.21 in chips) 
+Seat 3: LeonLeonzio ($2.89 in chips) 
+Seat 4: johnbelll ($2 in chips) 
+Seat 5: lawlex_2 ($2 in chips) 
+Seat 6: piraniafree ($2.03 in chips) 
+johnbelll: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 9c]
+piraniafree: folds 
+Dorsu: folds 
+dmitrry: folds 
+LeonLeonzio: raises $0.04 to $0.06
+johnbelll: raises $0.14 to $0.20
+lawlex_2: folds 
+LeonLeonzio: calls $0.14
+*** FLOP *** [Ks Ah Tc]
+johnbelll: checks 
+LeonLeonzio: bets $0.21
+johnbelll: folds 
+Uncalled bet ($0.21) returned to LeonLeonzio
+LeonLeonzio collected $0.41 from pot
+LeonLeonzio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Ks Ah Tc]
+Seat 1: Dorsu folded before Flop (didn't bet)
+Seat 2: dmitrry folded before Flop (didn't bet)
+Seat 3: LeonLeonzio (button) collected ($0.41)
+Seat 4: johnbelll (small blind) folded on the Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: piraniafree folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213851062021:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 17:30:19 MSK [2020/05/14 10:30:19 ET]
+Table 'Venus III' 6-max Seat #4 is the button
+Seat 1: Dorsu ($9.38 in chips) 
+Seat 2: dmitrry ($1.21 in chips) 
+Seat 3: LeonLeonzio ($3.10 in chips) 
+Seat 4: johnbelll ($2 in chips) 
+Seat 5: lawlex_2 ($1.98 in chips) 
+Seat 6: piraniafree ($2.03 in chips) 
+lawlex_2: posts small blind $0.01
+piraniafree: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Js]
+Dorsu: raises $0.04 to $0.06
+dmitrry: folds 
+LeonLeonzio: folds 
+johnbelll: folds 
+lawlex_2: calls $0.05
+piraniafree: folds 
+*** FLOP *** [4d 4c 8h]
+lawlex_2: checks 
+Dorsu: bets $0.08
+lawlex_2: folds 
+Uncalled bet ($0.08) returned to Dorsu
+Dorsu collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4d 4c 8h]
+Seat 1: Dorsu collected ($0.14)
+Seat 2: dmitrry folded before Flop (didn't bet)
+Seat 3: LeonLeonzio folded before Flop (didn't bet)
+Seat 4: johnbelll (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded on the Flop
+Seat 6: piraniafree (big blind) folded before Flop
+
+
+
+PokerStars Hand #213851082798:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 17:30:51 MSK [2020/05/14 10:30:51 ET]
+Table 'Venus III' 6-max Seat #5 is the button
+Seat 1: Dorsu ($9.46 in chips) 
+Seat 2: dmitrry ($1.21 in chips) 
+Seat 3: LeonLeonzio ($3.10 in chips) 
+Seat 4: johnbelll ($2 in chips) 
+Seat 5: lawlex_2 ($1.92 in chips) 
+Seat 6: piraniafree ($2.01 in chips) 
+piraniafree: posts small blind $0.01
+Dorsu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 3s]
+dmitrry: folds 
+LeonLeonzio: folds 
+johnbelll: raises $0.03 to $0.05
+lawlex_2: folds 
+piraniafree: folds 
+Dorsu: folds 
+Uncalled bet ($0.03) returned to johnbelll
+johnbelll collected $0.05 from pot
+johnbelll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorsu (big blind) folded before Flop
+Seat 2: dmitrry folded before Flop (didn't bet)
+Seat 3: LeonLeonzio folded before Flop (didn't bet)
+Seat 4: johnbelll collected ($0.05)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: piraniafree (small blind) folded before Flop
+
+
+
+PokerStars Hand #213851094209:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 17:31:08 MSK [2020/05/14 10:31:08 ET]
+Table 'Venus III' 6-max Seat #6 is the button
+Seat 1: Dorsu ($9.44 in chips) 
+Seat 2: dmitrry ($1.21 in chips) 
+Seat 3: LeonLeonzio ($3.10 in chips) 
+Seat 4: johnbelll ($2.03 in chips) 
+Seat 5: lawlex_2 ($1.92 in chips) 
+Seat 6: piraniafree ($2 in chips) 
+Dorsu: posts small blind $0.01
+dmitrry: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 2h]
+LeonLeonzio: folds 
+johnbelll: folds 
+lawlex_2: folds 
+piraniafree: raises $0.04 to $0.06
+Dorsu: raises $0.14 to $0.20
+dmitrry: folds 
+piraniafree: folds 
+Uncalled bet ($0.14) returned to Dorsu
+Dorsu collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Dorsu (small blind) collected ($0.14)
+Seat 2: dmitrry (big blind) folded before Flop
+Seat 3: LeonLeonzio folded before Flop (didn't bet)
+Seat 4: johnbelll folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: piraniafree (button) folded before Flop
+
+
+
+PokerStars Hand #213851111656:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 17:31:35 MSK [2020/05/14 10:31:35 ET]
+Table 'Venus III' 6-max Seat #1 is the button
+Seat 1: Dorsu ($9.52 in chips) 
+Seat 2: dmitrry ($1.19 in chips) 
+Seat 3: LeonLeonzio ($3.10 in chips) 
+Seat 4: johnbelll ($2.03 in chips) 
+Seat 5: lawlex_2 ($1.92 in chips) 
+Seat 6: piraniafree ($2 in chips) 
+dmitrry: posts small blind $0.01
+LeonLeonzio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 9c]
+johnbelll: folds 
+lawlex_2: folds 
+piraniafree: raises $0.03 to $0.05
+Dorsu: raises $0.15 to $0.20
+dmitrry: folds 
+LeonLeonzio: calls $0.18
+piraniafree: folds 
+*** FLOP *** [2s Qd Ah]
+LeonLeonzio: bets $0.44
+Dorsu: folds 
+Uncalled bet ($0.44) returned to LeonLeonzio
+LeonLeonzio collected $0.44 from pot
+LeonLeonzio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [2s Qd Ah]
+Seat 1: Dorsu (button) folded on the Flop
+Seat 2: dmitrry (small blind) folded before Flop
+Seat 3: LeonLeonzio (big blind) collected ($0.44)
+Seat 4: johnbelll folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: piraniafree folded before Flop
+
+
+
+PokerStars Hand #213851131220:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 17:32:04 MSK [2020/05/14 10:32:04 ET]
+Table 'Venus III' 6-max Seat #2 is the button
+Seat 1: Dorsu ($9.32 in chips) 
+Seat 2: dmitrry ($1.18 in chips) 
+Seat 3: LeonLeonzio ($3.34 in chips) 
+Seat 4: johnbelll ($2.03 in chips) 
+Seat 5: lawlex_2 ($1.92 in chips) 
+Seat 6: piraniafree ($2 in chips) 
+LeonLeonzio: posts small blind $0.01
+johnbelll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 3d]
+lawlex_2: raises $0.03 to $0.05
+piraniafree: folds 
+Dorsu: folds 
+Dorsu leaves the table
+dmitrry: folds 
+LeonLeonzio: folds 
+johnbelll: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorsu folded before Flop (didn't bet)
+Seat 2: dmitrry (button) folded before Flop (didn't bet)
+Seat 3: LeonLeonzio (small blind) folded before Flop
+Seat 4: johnbelll (big blind) folded before Flop
+Seat 5: lawlex_2 collected ($0.05)
+Seat 6: piraniafree folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213851139492:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 17:32:17 MSK [2020/05/14 10:32:17 ET]
+Table 'Venus III' 6-max Seat #3 is the button
+Seat 2: dmitrry ($1.18 in chips) 
+Seat 3: LeonLeonzio ($3.33 in chips) 
+Seat 4: johnbelll ($2.01 in chips) 
+Seat 5: lawlex_2 ($1.95 in chips) 
+Seat 6: piraniafree ($2 in chips) 
+johnbelll: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 8d]
+piraniafree: folds 
+dmitrry: folds 
+LeonLeonzio: folds 
+johnbelll: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [As 9h 8c]
+johnbelll: checks 
+lawlex_2: bets $0.03
+morfar604 joins the table at seat #1 
+johnbelll: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [As 9h 8c]
+Seat 2: dmitrry folded before Flop (didn't bet)
+Seat 3: LeonLeonzio (button) folded before Flop (didn't bet)
+Seat 4: johnbelll (small blind) folded on the Flop
+Seat 5: lawlex_2 (big blind) collected ($0.04)
+Seat 6: piraniafree folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213851160316:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 17:32:49 MSK [2020/05/14 10:32:49 ET]
+Table 'Venus III' 6-max Seat #4 is the button
+Seat 2: dmitrry ($1.18 in chips) 
+Seat 3: LeonLeonzio ($3.33 in chips) 
+Seat 4: johnbelll ($2 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: piraniafree ($2 in chips) 
+lawlex_2: posts small blind $0.01
+piraniafree: posts big blind $0.02
+morfar604: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 7s]
+dmitrry: folds 
+LeonLeonzio: folds 
+johnbelll: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to piraniafree
+piraniafree collected $0.02 from pot
+piraniafree: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: dmitrry folded before Flop (didn't bet)
+Seat 3: LeonLeonzio folded before Flop (didn't bet)
+Seat 4: johnbelll (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: piraniafree (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213851174087:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 17:33:09 MSK [2020/05/14 10:33:09 ET]
+Table 'Venus III' 6-max Seat #5 is the button
+Seat 1: morfar604 ($2 in chips) 
+Seat 2: dmitrry ($1.18 in chips) 
+Seat 3: LeonLeonzio ($3.33 in chips) 
+Seat 4: johnbelll ($2 in chips) 
+Seat 5: lawlex_2 ($1.96 in chips) 
+Seat 6: piraniafree ($2.01 in chips) 
+piraniafree: posts small blind $0.01
+morfar604: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 4d]
+dmitrry: folds 
+LeonLeonzio: folds 
+johnbelll: raises $0.03 to $0.05
+lawlex_2: calls $0.05
+piraniafree: folds 
+morfar604: calls $0.03
+*** FLOP *** [4s 6h Tc]
+morfar604: checks 
+johnbelll: bets $0.08
+lawlex_2 is disconnected 
+lawlex_2 is connected 
+lawlex_2: calls $0.08
+morfar604: calls $0.08
+*** TURN *** [4s 6h Tc] [3s]
+morfar604: checks 
+LeonLeonzio leaves the table
+johnbelll: checks 
+lawlex_2: checks 
+*** RIVER *** [4s 6h Tc 3s] [5c]
+morfar604: checks 
+johnbelll: bets $1.87 and is all-in
+Kirill19949 joins the table at seat #3 
+lawlex_2: calls $1.83 and is all-in
+morfar604: calls $1.87 and is all-in
+*** SHOW DOWN ***
+johnbelll: shows [7h 8h] (a straight, Four to Eight)
+morfar604: shows [Ad Ah] (a pair of Aces)
+johnbelll collected $0.08 from side pot
+lawlex_2: shows [4h 4d] (three of a kind, Fours)
+johnbelll collected $5.68 from main pot
+*** SUMMARY ***
+Total pot $5.97 Main pot $5.68. Side pot $0.08. | Rake $0.21 
+Board [4s 6h Tc 3s 5c]
+Seat 1: morfar604 (big blind) showed [Ad Ah] and lost with a pair of Aces
+Seat 2: dmitrry folded before Flop (didn't bet)
+Seat 3: LeonLeonzio folded before Flop (didn't bet)
+Seat 4: johnbelll showed [7h 8h] and won ($5.76) with a straight, Four to Eight
+Seat 5: lawlex_2 (button) showed [4h 4d] and lost with three of a kind, Fours
+Seat 6: piraniafree (small blind) folded before Flop
+
+
+

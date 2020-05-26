@@ -1,0 +1,3934 @@
+﻿PokerStars Hand #213050756635:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 10:58:07 MSK [2020/05/01 3:58:07 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: potomov.viktor ($1.59 in chips) 
+Seat 2: luiz2587 ($2.21 in chips) 
+Seat 3: edisonvn92 ($2.56 in chips) 
+Seat 4: jabodc ($2 in chips) 
+Seat 5: lawlex_2 ($2 in chips) 
+Seat 6: Ph@ntomkpz ($2.54 in chips) 
+potomov.viktor: posts small blind $0.01
+luiz2587: posts big blind $0.02
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 7d]
+edisonvn92: raises $0.02 to $0.04
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+potomov.viktor: folds 
+luiz2587: folds 
+Uncalled bet ($0.02) returned to edisonvn92
+edisonvn92 collected $0.07 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: potomov.viktor (small blind) folded before Flop
+Seat 2: luiz2587 (big blind) folded before Flop
+Seat 3: edisonvn92 collected ($0.07)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213050763117:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 10:58:24 MSK [2020/05/01 3:58:24 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: potomov.viktor ($1.58 in chips) 
+Seat 2: luiz2587 ($2.19 in chips) 
+Seat 3: edisonvn92 ($2.61 in chips) 
+Seat 4: jabodc ($2 in chips) 
+Seat 5: lawlex_2 ($1.98 in chips) 
+Seat 6: Ph@ntomkpz ($2.54 in chips) 
+luiz2587: posts small blind $0.01
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 5d]
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+potomov.viktor has timed out
+potomov.viktor: folds 
+luiz2587: raises $0.04 to $0.06
+edisonvn92: calls $0.04
+*** FLOP *** [4d 7c 2s]
+luiz2587: bets $0.04
+edisonvn92: raises $0.06 to $0.10
+luiz2587: calls $0.06
+*** TURN *** [4d 7c 2s] [Kd]
+luiz2587: checks 
+edisonvn92: checks 
+*** RIVER *** [4d 7c 2s Kd] [9c]
+luiz2587: checks 
+edisonvn92: bets $0.10
+luiz2587: folds 
+Uncalled bet ($0.10) returned to edisonvn92
+edisonvn92 collected $0.31 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [4d 7c 2s Kd 9c]
+Seat 1: potomov.viktor (button) folded before Flop (didn't bet)
+Seat 2: luiz2587 (small blind) folded on the River
+Seat 3: edisonvn92 (big blind) collected ($0.31)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213050793131:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 10:59:41 MSK [2020/05/01 3:59:41 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 1: potomov.viktor ($1.58 in chips) 
+Seat 2: luiz2587 ($2.03 in chips) 
+Seat 3: edisonvn92 ($2.76 in chips) 
+Seat 4: jabodc ($2 in chips) 
+Seat 5: lawlex_2 ($1.98 in chips) 
+Seat 6: Ph@ntomkpz ($2.54 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 8c]
+lawlex_2: folds 
+Ph@ntomkpz: raises $0.04 to $0.06
+potomov.viktor: folds 
+luiz2587: folds 
+edisonvn92: folds 
+jabodc: calls $0.04
+*** FLOP *** [9h 7c Tc]
+jabodc: checks 
+Ph@ntomkpz: bets $0.10
+jabodc: raises $0.22 to $0.32
+Ph@ntomkpz: calls $0.22
+*** TURN *** [9h 7c Tc] [Jd]
+jabodc: checks 
+Ph@ntomkpz: checks 
+*** RIVER *** [9h 7c Tc Jd] [3h]
+jabodc: checks 
+Ph@ntomkpz: checks 
+*** SHOW DOWN ***
+jabodc: shows [Th Td] (three of a kind, Tens)
+Ph@ntomkpz: shows [7d 7s] (three of a kind, Sevens)
+jabodc collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [9h 7c Tc Jd 3h]
+Seat 1: potomov.viktor folded before Flop (didn't bet)
+Seat 2: luiz2587 (button) folded before Flop (didn't bet)
+Seat 3: edisonvn92 (small blind) folded before Flop
+Seat 4: jabodc (big blind) showed [Th Td] and won ($0.74) with three of a kind, Tens
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz showed [7d 7s] and lost with three of a kind, Sevens
+
+
+
+PokerStars Hand #213050818736:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:00:32 MSK [2020/05/01 4:00:32 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: potomov.viktor ($1.58 in chips) 
+Seat 2: luiz2587 ($2.03 in chips) 
+Seat 3: edisonvn92 ($2.75 in chips) 
+Seat 4: jabodc ($2.36 in chips) 
+Seat 5: lawlex_2 ($1.98 in chips) 
+Seat 6: Ph@ntomkpz ($2.16 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 6c]
+Ph@ntomkpz: folds 
+potomov.viktor: folds 
+luiz2587: raises $0.04 to $0.06
+edisonvn92: raises $0.14 to $0.20
+jabodc: folds 
+lawlex_2: folds 
+luiz2587: folds 
+Uncalled bet ($0.14) returned to edisonvn92
+edisonvn92 collected $0.15 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: potomov.viktor folded before Flop (didn't bet)
+Seat 2: luiz2587 folded before Flop
+Seat 3: edisonvn92 (button) collected ($0.15)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213050828361:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:00:55 MSK [2020/05/01 4:00:55 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: potomov.viktor ($1.58 in chips) 
+Seat 2: luiz2587 ($1.97 in chips) 
+Seat 3: edisonvn92 ($2.84 in chips) 
+Seat 4: jabodc ($2.35 in chips) 
+Seat 5: lawlex_2 ($1.96 in chips) 
+Seat 6: Ph@ntomkpz ($2.16 in chips) 
+lawlex_2: posts small blind $0.01
+Ph@ntomkpz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 8s]
+potomov.viktor has timed out
+potomov.viktor: folds 
+luiz2587: folds 
+edisonvn92: raises $0.08 to $0.10
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+Uncalled bet ($0.08) returned to edisonvn92
+edisonvn92 collected $0.05 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: potomov.viktor folded before Flop (didn't bet)
+Seat 2: luiz2587 folded before Flop (didn't bet)
+Seat 3: edisonvn92 collected ($0.05)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Ph@ntomkpz (big blind) folded before Flop
+
+
+
+PokerStars Hand #213050841899:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:01:26 MSK [2020/05/01 4:01:26 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: potomov.viktor ($1.58 in chips) 
+Seat 2: luiz2587 ($1.97 in chips) 
+Seat 3: edisonvn92 ($2.87 in chips) 
+Seat 4: jabodc ($2.35 in chips) 
+Seat 5: lawlex_2 ($1.95 in chips) 
+Seat 6: Ph@ntomkpz ($2.14 in chips) 
+Ph@ntomkpz: posts small blind $0.01
+potomov.viktor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 9s]
+luiz2587: folds 
+edisonvn92: raises $0.04 to $0.06
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+potomov.viktor: folds 
+Uncalled bet ($0.04) returned to edisonvn92
+edisonvn92 collected $0.05 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: potomov.viktor (big blind) folded before Flop
+Seat 2: luiz2587 folded before Flop (didn't bet)
+Seat 3: edisonvn92 collected ($0.05)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (small blind) folded before Flop
+
+
+
+PokerStars Hand #213050850279:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:01:46 MSK [2020/05/01 4:01:46 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: potomov.viktor ($1.56 in chips) 
+Seat 3: edisonvn92 ($2.90 in chips) 
+Seat 4: jabodc ($2.35 in chips) 
+Seat 5: lawlex_2 ($1.95 in chips) 
+Seat 6: Ph@ntomkpz ($2.13 in chips) 
+potomov.viktor: posts small blind $0.01
+luiz2587: is sitting out 
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Jc]
+jabodc: folds 
+lawlex_2: folds 
+luiz2587 leaves the table
+Ph@ntomkpz: raises $0.03 to $0.05
+potomov.viktor: calls $0.04
+edisonvn92: raises $0.11 to $0.16
+Ph@ntomkpz: folds 
+neo-9703 joins the table at seat #2 
+potomov.viktor: folds 
+Uncalled bet ($0.11) returned to edisonvn92
+edisonvn92 collected $0.15 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: potomov.viktor (small blind) folded before Flop
+Seat 3: edisonvn92 (big blind) collected ($0.15)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (button) folded before Flop
+
+
+
+PokerStars Hand #213050860521:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:02:10 MSK [2020/05/01 4:02:10 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: potomov.viktor ($1.51 in chips) 
+Seat 3: edisonvn92 ($3 in chips) 
+Seat 4: jabodc ($2.35 in chips) 
+Seat 5: lawlex_2 ($1.95 in chips) 
+Seat 6: Ph@ntomkpz ($2.08 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 9h]
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+potomov.viktor: folds 
+edisonvn92: raises $0.02 to $0.04
+jabodc: folds 
+Uncalled bet ($0.02) returned to edisonvn92
+edisonvn92 collected $0.04 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: potomov.viktor (button) folded before Flop (didn't bet)
+Seat 3: edisonvn92 (small blind) collected ($0.04)
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213050866787:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:02:24 MSK [2020/05/01 4:02:24 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: potomov.viktor ($1.51 in chips) 
+Seat 2: neo-9703 ($0.80 in chips) 
+Seat 3: edisonvn92 ($3.02 in chips) 
+Seat 4: jabodc ($2.33 in chips) 
+Seat 5: lawlex_2 ($1.95 in chips) 
+Seat 6: Ph@ntomkpz ($2.08 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+neo-9703: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Qs]
+Ph@ntomkpz: raises $0.06 to $0.08
+potomov.viktor: folds 
+neo-9703: folds 
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to Ph@ntomkpz
+Ph@ntomkpz collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: potomov.viktor folded before Flop (didn't bet)
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Ph@ntomkpz collected ($0.07)
+
+
+
+PokerStars Hand #213050874559:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:02:41 MSK [2020/05/01 4:02:41 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: potomov.viktor ($1.51 in chips) 
+Seat 2: neo-9703 ($0.78 in chips) 
+Seat 3: edisonvn92 ($3.02 in chips) 
+Seat 4: jabodc ($2.32 in chips) 
+Seat 5: lawlex_2 ($1.93 in chips) 
+Seat 6: Ph@ntomkpz ($2.13 in chips) 
+lawlex_2: posts small blind $0.01
+Ph@ntomkpz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Ah]
+potomov.viktor: folds 
+neo-9703: calls $0.02
+edisonvn92: raises $0.04 to $0.06
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+neo-9703: calls $0.04
+*** FLOP *** [2s 5c 9h]
+neo-9703: checks 
+edisonvn92: bets $0.06
+neo-9703: folds 
+Uncalled bet ($0.06) returned to edisonvn92
+edisonvn92 collected $0.14 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2s 5c 9h]
+Seat 1: potomov.viktor folded before Flop (didn't bet)
+Seat 2: neo-9703 folded on the Flop
+Seat 3: edisonvn92 collected ($0.14)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Ph@ntomkpz (big blind) folded before Flop
+
+
+
+PokerStars Hand #213050891427:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:03:20 MSK [2020/05/01 4:03:20 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: potomov.viktor ($1.51 in chips) 
+Seat 2: neo-9703 ($0.72 in chips) 
+Seat 3: edisonvn92 ($3.10 in chips) 
+Seat 4: jabodc ($2.32 in chips) 
+Seat 5: lawlex_2 ($1.92 in chips) 
+Seat 6: Ph@ntomkpz ($2.11 in chips) 
+Ph@ntomkpz: posts small blind $0.01
+potomov.viktor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 2s]
+neo-9703: folds 
+edisonvn92: raises $0.02 to $0.04
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+potomov.viktor: folds 
+Uncalled bet ($0.02) returned to edisonvn92
+edisonvn92 collected $0.05 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: potomov.viktor (big blind) folded before Flop
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 collected ($0.05)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (small blind) folded before Flop
+
+
+
+PokerStars Hand #213050899669:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:03:38 MSK [2020/05/01 4:03:38 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: potomov.viktor ($1.49 in chips) 
+Seat 2: neo-9703 ($0.72 in chips) 
+Seat 3: edisonvn92 ($3.13 in chips) 
+Seat 4: jabodc ($2.32 in chips) 
+Seat 5: lawlex_2 ($1.92 in chips) 
+Seat 6: Ph@ntomkpz ($2.10 in chips) 
+potomov.viktor: posts small blind $0.01
+neo-9703: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 4h]
+edisonvn92: raises $0.02 to $0.04
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+potomov.viktor: folds 
+neo-9703: calls $0.02
+*** FLOP *** [3s Qd 8c]
+neo-9703: bets $0.02
+edisonvn92: folds 
+Uncalled bet ($0.02) returned to neo-9703
+neo-9703 collected $0.09 from pot
+neo-9703: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3s Qd 8c]
+Seat 1: potomov.viktor (small blind) folded before Flop
+Seat 2: neo-9703 (big blind) collected ($0.09)
+Seat 3: edisonvn92 folded on the Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213050910649:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:04:03 MSK [2020/05/01 4:04:03 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: potomov.viktor ($1.48 in chips) 
+Seat 2: neo-9703 ($0.77 in chips) 
+Seat 3: edisonvn92 ($3.09 in chips) 
+Seat 4: jabodc ($2.32 in chips) 
+Seat 5: lawlex_2 ($1.92 in chips) 
+Seat 6: Ph@ntomkpz ($2.10 in chips) 
+neo-9703: posts small blind $0.01
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Ks]
+jabodc: folds 
+lawlex_2: raises $0.04 to $0.06
+Ph@ntomkpz: folds 
+potomov.viktor: calls $0.06
+neo-9703: folds 
+edisonvn92: calls $0.04
+*** FLOP *** [Th 8d 9h]
+edisonvn92: checks 
+lawlex_2: bets $0.12
+potomov.viktor: raises $0.20 to $0.32
+edisonvn92: folds 
+lawlex_2: folds 
+Uncalled bet ($0.20) returned to potomov.viktor
+potomov.viktor collected $0.41 from pot
+potomov.viktor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Th 8d 9h]
+Seat 1: potomov.viktor (button) collected ($0.41)
+Seat 2: neo-9703 (small blind) folded before Flop
+Seat 3: edisonvn92 (big blind) folded on the Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded on the Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213050928333:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:04:42 MSK [2020/05/01 4:04:42 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 1: potomov.viktor ($1.71 in chips) 
+Seat 2: neo-9703 ($0.76 in chips) 
+Seat 3: edisonvn92 ($3.03 in chips) 
+Seat 4: jabodc ($2.32 in chips) 
+Seat 5: lawlex_2 ($1.74 in chips) 
+Seat 6: Ph@ntomkpz ($2.10 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Qd]
+lawlex_2: raises $0.04 to $0.06
+Ph@ntomkpz: folds 
+potomov.viktor: folds 
+neo-9703: folds 
+edisonvn92: calls $0.05
+jabodc: folds 
+*** FLOP *** [7c Ad 6s]
+edisonvn92: checks 
+lawlex_2: checks 
+*** TURN *** [7c Ad 6s] [6d]
+edisonvn92: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to edisonvn92
+edisonvn92 collected $0.14 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7c Ad 6s 6d]
+Seat 1: potomov.viktor folded before Flop (didn't bet)
+Seat 2: neo-9703 (button) folded before Flop (didn't bet)
+Seat 3: edisonvn92 (small blind) collected ($0.14)
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 folded on the Turn
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213050947853:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:05:26 MSK [2020/05/01 4:05:26 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: potomov.viktor ($1.71 in chips) 
+Seat 2: neo-9703 ($0.76 in chips) 
+Seat 3: edisonvn92 ($3.11 in chips) 
+Seat 4: jabodc ($2.30 in chips) 
+Seat 5: lawlex_2 ($1.68 in chips) 
+Seat 6: Ph@ntomkpz ($2.10 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 2h]
+Ph@ntomkpz: folds 
+potomov.viktor: raises $0.04 to $0.06
+neo-9703: calls $0.06
+edisonvn92: calls $0.06
+jabodc: folds 
+lawlex_2: folds 
+*** FLOP *** [8s Qh Jc]
+potomov.viktor: bets $0.20
+neo-9703: folds 
+edisonvn92: calls $0.20
+*** TURN *** [8s Qh Jc] [Ad]
+potomov.viktor: bets $0.30
+edisonvn92: raises $0.30 to $0.60
+potomov.viktor: calls $0.30
+*** RIVER *** [8s Qh Jc Ad] [3d]
+potomov.viktor: checks 
+edisonvn92: checks 
+*** SHOW DOWN ***
+potomov.viktor: shows [9d Jd] (a pair of Jacks)
+edisonvn92: shows [9h Qs] (a pair of Queens)
+edisonvn92 collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.81 | Rake $0.06 
+Board [8s Qh Jc Ad 3d]
+Seat 1: potomov.viktor showed [9d Jd] and lost with a pair of Jacks
+Seat 2: neo-9703 folded on the Flop
+Seat 3: edisonvn92 (button) showed [9h Qs] and won ($1.75) with a pair of Queens
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213050983318:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:06:45 MSK [2020/05/01 4:06:45 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: potomov.viktor ($0.85 in chips) 
+Seat 2: neo-9703 ($0.70 in chips) 
+Seat 3: edisonvn92 ($4 in chips) 
+Seat 4: jabodc ($2.29 in chips) 
+Seat 5: lawlex_2 ($1.66 in chips) 
+Seat 6: Ph@ntomkpz ($2.10 in chips) 
+lawlex_2: posts small blind $0.01
+Ph@ntomkpz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Jd]
+potomov.viktor: folds 
+neo-9703: raises $0.02 to $0.04
+edisonvn92: calls $0.04
+jabodc: folds 
+lawlex_2: calls $0.03
+Ph@ntomkpz: folds 
+*** FLOP *** [9h 5d Ks]
+lawlex_2: checks 
+neo-9703: checks 
+edisonvn92: bets $0.07
+lawlex_2: calls $0.07
+neo-9703: calls $0.07
+*** TURN *** [9h 5d Ks] [6d]
+lawlex_2: checks 
+neo-9703: checks 
+edisonvn92: checks 
+*** RIVER *** [9h 5d Ks 6d] [Jh]
+lawlex_2: bets $0.34
+neo-9703: folds 
+edisonvn92: folds 
+Uncalled bet ($0.34) returned to lawlex_2
+lawlex_2 collected $0.34 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9h 5d Ks 6d Jh]
+Seat 1: potomov.viktor folded before Flop (didn't bet)
+Seat 2: neo-9703 folded on the River
+Seat 3: edisonvn92 folded on the River
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) collected ($0.34)
+Seat 6: Ph@ntomkpz (big blind) folded before Flop
+
+
+
+PokerStars Hand #213051010469:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:07:46 MSK [2020/05/01 4:07:46 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: potomov.viktor ($0.85 in chips) 
+Seat 2: neo-9703 ($0.59 in chips) 
+Seat 3: edisonvn92 ($3.89 in chips) 
+Seat 4: jabodc ($2.29 in chips) 
+Seat 5: lawlex_2 ($1.89 in chips) 
+Seat 6: Ph@ntomkpz ($2.08 in chips) 
+Ph@ntomkpz: posts small blind $0.01
+potomov.viktor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 3h]
+neo-9703: raises $0.57 to $0.59 and is all-in
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+potomov.viktor: folds 
+Uncalled bet ($0.57) returned to neo-9703
+neo-9703 collected $0.05 from pot
+neo-9703: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: potomov.viktor (big blind) folded before Flop
+Seat 2: neo-9703 collected ($0.05)
+Seat 3: edisonvn92 folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051019466:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:08:06 MSK [2020/05/01 4:08:06 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: potomov.viktor ($0.83 in chips) 
+Seat 2: neo-9703 ($0.62 in chips) 
+Seat 3: edisonvn92 ($3.89 in chips) 
+Seat 4: jabodc ($2.29 in chips) 
+Seat 5: lawlex_2 ($1.89 in chips) 
+Seat 6: Ph@ntomkpz ($2.07 in chips) 
+potomov.viktor: posts small blind $0.01
+neo-9703: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 3s]
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: raises $0.03 to $0.05
+potomov.viktor: folds 
+neo-9703: folds 
+Uncalled bet ($0.03) returned to Ph@ntomkpz
+Ph@ntomkpz collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: potomov.viktor (small blind) folded before Flop
+Seat 2: neo-9703 (big blind) folded before Flop
+Seat 3: edisonvn92 folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (button) collected ($0.05)
+
+
+
+PokerStars Hand #213051032689:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:08:35 MSK [2020/05/01 4:08:35 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: potomov.viktor ($0.82 in chips) 
+Seat 2: neo-9703 ($0.60 in chips) 
+Seat 3: edisonvn92 ($3.89 in chips) 
+Seat 4: jabodc ($2.29 in chips) 
+Seat 5: lawlex_2 ($1.89 in chips) 
+Seat 6: Ph@ntomkpz ($2.10 in chips) 
+neo-9703: posts small blind $0.01
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd As]
+jabodc: folds 
+lawlex_2: raises $0.04 to $0.06
+Ph@ntomkpz: folds 
+potomov.viktor: raises $0.04 to $0.10
+neo-9703: folds 
+edisonvn92: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [3c Qs 6c]
+lawlex_2: checks 
+potomov.viktor: bets $0.22
+lawlex_2: folds 
+Uncalled bet ($0.22) returned to potomov.viktor
+potomov.viktor collected $0.22 from pot
+potomov.viktor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3c Qs 6c]
+Seat 1: potomov.viktor (button) collected ($0.22)
+Seat 2: neo-9703 (small blind) folded before Flop
+Seat 3: edisonvn92 (big blind) folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded on the Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051053538:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:09:22 MSK [2020/05/01 4:09:22 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 1: potomov.viktor ($0.94 in chips) 
+Seat 2: neo-9703 ($0.59 in chips) 
+Seat 3: edisonvn92 ($3.87 in chips) 
+Seat 4: jabodc ($2.29 in chips) 
+Seat 5: lawlex_2 ($1.79 in chips) 
+Seat 6: Ph@ntomkpz ($2.10 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Td]
+lawlex_2: calls $0.02
+Ph@ntomkpz: folds 
+potomov.viktor: calls $0.02
+neo-9703: raises $0.57 to $0.59 and is all-in
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: folds 
+potomov.viktor: folds 
+Uncalled bet ($0.57) returned to neo-9703
+neo-9703 collected $0.09 from pot
+neo-9703: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: potomov.viktor folded before Flop
+Seat 2: neo-9703 (button) collected ($0.09)
+Seat 3: edisonvn92 (small blind) folded before Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051061006:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:09:38 MSK [2020/05/01 4:09:38 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: potomov.viktor ($0.92 in chips) 
+Seat 2: neo-9703 ($0.66 in chips) 
+Seat 3: edisonvn92 ($3.86 in chips) 
+Seat 4: jabodc ($2.27 in chips) 
+Seat 5: lawlex_2 ($1.77 in chips) 
+Seat 6: Ph@ntomkpz ($2.10 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Ac]
+Ph@ntomkpz: folds 
+potomov.viktor: calls $0.02
+neo-9703: folds 
+edisonvn92: raises $0.06 to $0.08
+jabodc: folds 
+lawlex_2: folds 
+potomov.viktor: folds 
+Uncalled bet ($0.06) returned to edisonvn92
+edisonvn92 collected $0.07 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: potomov.viktor folded before Flop
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 (button) collected ($0.07)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051071858:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:10:03 MSK [2020/05/01 4:10:03 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: potomov.viktor ($0.90 in chips) 
+Seat 2: neo-9703 ($0.66 in chips) 
+Seat 3: edisonvn92 ($3.91 in chips) 
+Seat 4: jabodc ($2.26 in chips) 
+Seat 5: lawlex_2 ($1.75 in chips) 
+Seat 6: Ph@ntomkpz ($2.10 in chips) 
+lawlex_2: posts small blind $0.01
+Ph@ntomkpz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 4h]
+potomov.viktor: raises $0.04 to $0.06
+neo-9703 has timed out
+neo-9703: folds 
+edisonvn92: calls $0.06
+jabodc: folds 
+lawlex_2: folds 
+neo-9703 is disconnected 
+Ph@ntomkpz: folds 
+*** FLOP *** [4d 4s Th]
+potomov.viktor: bets $0.06
+edisonvn92: raises $0.12 to $0.18
+potomov.viktor: folds 
+Uncalled bet ($0.12) returned to edisonvn92
+edisonvn92 collected $0.26 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [4d 4s Th]
+Seat 1: potomov.viktor folded on the Flop
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 collected ($0.26)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Ph@ntomkpz (big blind) folded before Flop
+
+
+
+PokerStars Hand #213051100244:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:11:06 MSK [2020/05/01 4:11:06 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: potomov.viktor ($0.78 in chips) 
+Seat 2: neo-9703 ($0.66 in chips) 
+Seat 3: edisonvn92 ($4.05 in chips) 
+Seat 4: jabodc ($2.26 in chips) 
+Seat 5: lawlex_2 ($1.74 in chips) 
+Seat 6: Ph@ntomkpz ($2.08 in chips) 
+Ph@ntomkpz: posts small blind $0.01
+potomov.viktor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Jd]
+neo-9703: folds 
+edisonvn92: raises $0.04 to $0.06
+jabodc: folds 
+lawlex_2: calls $0.06
+Ph@ntomkpz: folds 
+potomov.viktor: calls $0.04
+*** FLOP *** [Js 7c 2s]
+potomov.viktor: checks 
+edisonvn92: checks 
+lawlex_2: bets $0.12
+potomov.viktor: folds 
+edisonvn92: calls $0.12
+*** TURN *** [Js 7c 2s] [7s]
+edisonvn92: checks 
+lawlex_2: bets $0.27
+edisonvn92: raises $0.33 to $0.60
+lawlex_2: calls $0.33
+*** RIVER *** [Js 7c 2s 7s] [Qh]
+edisonvn92: bets $0.60
+lawlex_2: calls $0.60
+*** SHOW DOWN ***
+edisonvn92: shows [6s Ks] (a flush, King high)
+lawlex_2: mucks hand 
+edisonvn92 collected $2.73 from pot
+*** SUMMARY ***
+Total pot $2.83 | Rake $0.10 
+Board [Js 7c 2s 7s Qh]
+Seat 1: potomov.viktor (big blind) folded on the Flop
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 showed [6s Ks] and won ($2.73) with a flush, King high
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) mucked [Kc Jd]
+Seat 6: Ph@ntomkpz (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051138754:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:12:31 MSK [2020/05/01 4:12:31 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: potomov.viktor ($0.72 in chips) 
+Seat 2: neo-9703 ($0.66 in chips) 
+Seat 3: edisonvn92 ($5.40 in chips) 
+Seat 4: jabodc ($2.26 in chips) 
+Seat 5: lawlex_2 ($0.36 in chips) 
+Seat 6: Ph@ntomkpz ($2.07 in chips) 
+potomov.viktor: posts small blind $0.01
+neo-9703: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 5d]
+edisonvn92: raises $0.04 to $0.06
+jabodc: folds 
+lawlex_2: calls $0.06
+Ph@ntomkpz: folds 
+potomov.viktor: calls $0.05
+neo-9703: calls $0.04
+*** FLOP *** [8h 3h 7h]
+potomov.viktor: bets $0.12
+neo-9703: folds 
+edisonvn92: folds 
+lawlex_2: raises $0.18 to $0.30 and is all-in
+potomov.viktor: calls $0.18
+*** TURN *** [8h 3h 7h] [6h]
+*** RIVER *** [8h 3h 7h 6h] [Ac]
+*** SHOW DOWN ***
+potomov.viktor: shows [2h 2c] (a flush, Eight high)
+lawlex_2: shows [Kh 5d] (a flush, King high)
+lawlex_2 collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [8h 3h 7h 6h Ac]
+Seat 1: potomov.viktor (small blind) showed [2h 2c] and lost with a flush, Eight high
+Seat 2: neo-9703 (big blind) folded on the Flop
+Seat 3: edisonvn92 folded on the Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 showed [Kh 5d] and won ($0.81) with a flush, King high
+Seat 6: Ph@ntomkpz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051159504:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:13:17 MSK [2020/05/01 4:13:17 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: potomov.viktor ($0.36 in chips) 
+Seat 2: neo-9703 ($0.60 in chips) 
+Seat 3: edisonvn92 ($5.34 in chips) 
+Seat 4: jabodc ($2.26 in chips) 
+Seat 5: lawlex_2 ($0.81 in chips) 
+Seat 6: Ph@ntomkpz ($2.07 in chips) 
+neo-9703: posts small blind $0.01
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Jd]
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: raises $0.03 to $0.05
+potomov.viktor: folds 
+neo-9703: folds 
+edisonvn92: raises $0.15 to $0.20
+Ph@ntomkpz: folds 
+Uncalled bet ($0.15) returned to edisonvn92
+edisonvn92 collected $0.11 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: potomov.viktor (button) folded before Flop (didn't bet)
+Seat 2: neo-9703 (small blind) folded before Flop
+Seat 3: edisonvn92 (big blind) collected ($0.11)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz folded before Flop
+
+
+
+PokerStars Hand #213051171558:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:13:43 MSK [2020/05/01 4:13:43 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 1: potomov.viktor ($0.36 in chips) 
+Seat 2: neo-9703 ($0.59 in chips) 
+Seat 3: edisonvn92 ($5.40 in chips) 
+Seat 4: jabodc ($2.26 in chips) 
+Seat 5: lawlex_2 ($0.81 in chips) 
+Seat 6: Ph@ntomkpz ($2.02 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Kc]
+lawlex_2: calls $0.02
+Ph@ntomkpz: folds 
+potomov.viktor: raises $0.04 to $0.06
+neo-9703: folds 
+edisonvn92: calls $0.05
+jabodc: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [2d Jc Kh]
+edisonvn92: checks 
+lawlex_2: bets $0.13
+potomov.viktor is disconnected 
+potomov.viktor is connected 
+potomov.viktor: folds 
+edisonvn92: folds 
+Uncalled bet ($0.13) returned to lawlex_2
+lawlex_2 collected $0.19 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2d Jc Kh]
+Seat 1: potomov.viktor folded on the Flop
+Seat 2: neo-9703 (button) folded before Flop (didn't bet)
+Seat 3: edisonvn92 (small blind) folded on the Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 collected ($0.19)
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051203940:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:14:55 MSK [2020/05/01 4:14:55 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: potomov.viktor ($0.30 in chips) 
+Seat 2: neo-9703 ($0.59 in chips) 
+Seat 3: edisonvn92 ($5.34 in chips) 
+Seat 4: jabodc ($2.24 in chips) 
+Seat 5: lawlex_2 ($0.94 in chips) 
+Seat 6: Ph@ntomkpz ($2.02 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Jc]
+Ph@ntomkpz: folds 
+potomov.viktor: raises $0.04 to $0.06
+neo-9703: folds 
+edisonvn92: calls $0.06
+jabodc: folds 
+lawlex_2: folds 
+*** FLOP *** [9s Ks 8h]
+potomov.viktor: bets $0.06
+edisonvn92: folds 
+Uncalled bet ($0.06) returned to potomov.viktor
+potomov.viktor collected $0.14 from pot
+potomov.viktor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9s Ks 8h]
+Seat 1: potomov.viktor collected ($0.14)
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 (button) folded on the Flop
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051215225:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:15:19 MSK [2020/05/01 4:15:19 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: potomov.viktor ($0.38 in chips) 
+Seat 2: neo-9703 ($0.59 in chips) 
+Seat 3: edisonvn92 ($5.28 in chips) 
+Seat 4: jabodc ($2.23 in chips) 
+Seat 5: lawlex_2 ($0.92 in chips) 
+Seat 6: Ph@ntomkpz ($2.02 in chips) 
+lawlex_2: posts small blind $0.01
+Ph@ntomkpz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 7h]
+potomov.viktor: raises $0.05 to $0.07
+neo-9703: folds 
+edisonvn92: calls $0.07
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+*** FLOP *** [9s Qd Ah]
+potomov.viktor: bets $0.16
+edisonvn92: folds 
+Uncalled bet ($0.16) returned to potomov.viktor
+potomov.viktor collected $0.16 from pot
+potomov.viktor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9s Qd Ah]
+Seat 1: potomov.viktor collected ($0.16)
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 folded on the Flop
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Ph@ntomkpz (big blind) folded before Flop
+
+
+
+PokerStars Hand #213051226221:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:15:44 MSK [2020/05/01 4:15:44 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: potomov.viktor ($0.47 in chips) 
+Seat 2: neo-9703 ($0.59 in chips) 
+Seat 3: edisonvn92 ($5.21 in chips) 
+Seat 4: jabodc ($2.23 in chips) 
+Seat 5: lawlex_2 ($0.91 in chips) 
+Seat 6: Ph@ntomkpz ($2 in chips) 
+Ph@ntomkpz: posts small blind $0.01
+potomov.viktor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 9s]
+neo-9703: folds 
+edisonvn92: raises $0.04 to $0.06
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+potomov.viktor: folds 
+Uncalled bet ($0.04) returned to edisonvn92
+edisonvn92 collected $0.05 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: potomov.viktor (big blind) folded before Flop
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 collected ($0.05)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051236072:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:16:05 MSK [2020/05/01 4:16:05 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: potomov.viktor ($0.45 in chips) 
+Seat 2: neo-9703 ($0.59 in chips) 
+Seat 3: edisonvn92 ($5.24 in chips) 
+Seat 4: jabodc ($2.23 in chips) 
+Seat 5: lawlex_2 ($0.91 in chips) 
+Seat 6: Ph@ntomkpz ($1.99 in chips) 
+potomov.viktor: posts small blind $0.01
+neo-9703: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 7c]
+edisonvn92: raises $0.02 to $0.04
+jabodc is connected 
+jabodc has timed out
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+potomov.viktor: folds 
+neo-9703: calls $0.02
+*** FLOP *** [4s 6c Qh]
+neo-9703: checks 
+edisonvn92: checks 
+*** TURN *** [4s 6c Qh] [Ts]
+neo-9703: checks 
+edisonvn92: checks 
+*** RIVER *** [4s 6c Qh Ts] [8h]
+neo-9703: checks 
+edisonvn92: bets $0.10
+neo-9703: folds 
+Uncalled bet ($0.10) returned to edisonvn92
+edisonvn92 collected $0.09 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4s 6c Qh Ts 8h]
+Seat 1: potomov.viktor (small blind) folded before Flop
+Seat 2: neo-9703 (big blind) folded on the River
+Seat 3: edisonvn92 collected ($0.09)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051263640:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:17:05 MSK [2020/05/01 4:17:05 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: potomov.viktor ($0.44 in chips) 
+Seat 2: neo-9703 ($0.55 in chips) 
+Seat 3: edisonvn92 ($5.29 in chips) 
+Seat 4: jabodc ($2.23 in chips) 
+Seat 5: lawlex_2 ($0.91 in chips) 
+Seat 6: Ph@ntomkpz ($1.99 in chips) 
+neo-9703: posts small blind $0.01
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 2s]
+jabodc: folds 
+lawlex_2: calls $0.02
+Ph@ntomkpz: folds 
+potomov.viktor: calls $0.02
+neo-9703: folds 
+edisonvn92: raises $0.04 to $0.06
+lawlex_2: calls $0.04
+potomov.viktor: calls $0.04
+*** FLOP *** [Jh Qs Kh]
+edisonvn92: checks 
+lawlex_2: bets $0.02
+potomov.viktor: calls $0.02
+edisonvn92: raises $0.12 to $0.14
+lawlex_2: folds 
+potomov.viktor: calls $0.12
+*** TURN *** [Jh Qs Kh] [As]
+edisonvn92: checks 
+potomov.viktor: checks 
+*** RIVER *** [Jh Qs Kh As] [Kd]
+edisonvn92: checks 
+potomov.viktor: checks 
+*** SHOW DOWN ***
+edisonvn92: shows [Ad 6s] (two pair, Aces and Kings)
+potomov.viktor: mucks hand 
+edisonvn92 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Jh Qs Kh As Kd]
+Seat 1: potomov.viktor (button) mucked [Qh 3h]
+Seat 2: neo-9703 (small blind) folded before Flop
+Seat 3: edisonvn92 (big blind) showed [Ad 6s] and won ($0.47) with two pair, Aces and Kings
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded on the Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051293557:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:18:11 MSK [2020/05/01 4:18:11 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 1: potomov.viktor ($0.24 in chips) 
+Seat 2: neo-9703 ($0.54 in chips) 
+Seat 3: edisonvn92 ($5.56 in chips) 
+Seat 4: jabodc ($2.23 in chips) 
+Seat 5: lawlex_2 ($0.83 in chips) 
+Seat 6: Ph@ntomkpz ($1.99 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 4h]
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+potomov.viktor: raises $0.22 to $0.24 and is all-in
+neo-9703: raises $0.22 to $0.46
+edisonvn92: folds 
+jabodc: folds 
+Uncalled bet ($0.22) returned to neo-9703
+*** FLOP *** [Jd 3d 5d]
+*** TURN *** [Jd 3d 5d] [7c]
+*** RIVER *** [Jd 3d 5d 7c] [Ad]
+*** SHOW DOWN ***
+potomov.viktor: shows [5h Qh] (a pair of Fives)
+neo-9703: shows [5s 5c] (three of a kind, Fives)
+neo-9703 cashed out the hand for $0.31
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Jd 3d 5d 7c Ad]
+Seat 1: potomov.viktor showed [5h Qh] and lost with a pair of Fives
+Seat 2: neo-9703 (button) showed [5s 5c] and won ($0.49) with three of a kind, Fives (pot not awarded as player cashed out)
+Seat 3: edisonvn92 (small blind) folded before Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051306975:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:18:40 MSK [2020/05/01 4:18:40 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 2: neo-9703 ($0.61 in chips) 
+Seat 3: edisonvn92 ($5.55 in chips) 
+Seat 4: jabodc ($2.21 in chips) 
+Seat 5: lawlex_2 ($0.83 in chips) 
+Seat 6: Ph@ntomkpz ($1.99 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 3c]
+Ph@ntomkpz: folds 
+neo-9703: folds 
+edisonvn92: raises $0.04 to $0.06
+potomov.viktor leaves the table
+jabodc: raises $2.15 to $2.21 and is all-in
+lawlex_2: folds 
+Zheko Kolev joins the table at seat #1 
+edisonvn92: folds 
+Uncalled bet ($2.15) returned to jabodc
+jabodc collected $0.14 from pot
+jabodc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 (button) folded before Flop
+Seat 4: jabodc (small blind) collected ($0.14)
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051315324:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:18:58 MSK [2020/05/01 4:18:58 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 2: neo-9703 ($0.61 in chips) 
+Seat 3: edisonvn92 ($5.49 in chips) 
+Seat 4: jabodc ($2.29 in chips) 
+Seat 5: lawlex_2 ($0.81 in chips) 
+Seat 6: Ph@ntomkpz ($1.99 in chips) 
+lawlex_2: posts small blind $0.01
+Ph@ntomkpz: posts big blind $0.02
+Zheko Kolev: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 2s]
+neo-9703: folds 
+edisonvn92: raises $0.04 to $0.06
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+Uncalled bet ($0.04) returned to edisonvn92
+edisonvn92 collected $0.05 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 collected ($0.05)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Ph@ntomkpz (big blind) folded before Flop
+
+
+
+PokerStars Hand #213051320346:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:19:09 MSK [2020/05/01 4:19:09 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Zheko Kolev ($2 in chips) 
+Seat 2: neo-9703 ($0.61 in chips) 
+Seat 3: edisonvn92 ($5.52 in chips) 
+Seat 4: jabodc ($2.29 in chips) 
+Seat 5: lawlex_2 ($0.80 in chips) 
+Seat 6: Ph@ntomkpz ($1.97 in chips) 
+Ph@ntomkpz: posts small blind $0.01
+Zheko Kolev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 3d]
+neo-9703: raises $0.02 to $0.04
+edisonvn92: calls $0.04
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+Zheko Kolev: folds 
+*** FLOP *** [7h 9s As]
+neo-9703: bets $0.06
+edisonvn92: raises $0.08 to $0.14
+neo-9703: calls $0.08
+*** TURN *** [7h 9s As] [8s]
+neo-9703: checks 
+edisonvn92: checks 
+*** RIVER *** [7h 9s As 8s] [5h]
+neo-9703: checks 
+edisonvn92: checks 
+*** SHOW DOWN ***
+neo-9703: shows [Jc 9c] (a pair of Nines)
+edisonvn92: mucks hand 
+neo-9703 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7h 9s As 8s 5h]
+Seat 1: Zheko Kolev (big blind) folded before Flop
+Seat 2: neo-9703 showed [Jc 9c] and won ($0.38) with a pair of Nines
+Seat 3: edisonvn92 mucked [Kd Tc]
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051337845:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:19:47 MSK [2020/05/01 4:19:47 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: Zheko Kolev ($1.98 in chips) 
+Seat 2: neo-9703 ($0.81 in chips) 
+Seat 3: edisonvn92 ($5.34 in chips) 
+Seat 4: jabodc ($2.29 in chips) 
+Seat 5: lawlex_2 ($0.80 in chips) 
+Seat 6: Ph@ntomkpz ($1.96 in chips) 
+Zheko Kolev: posts small blind $0.01
+neo-9703: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Js]
+edisonvn92: raises $0.04 to $0.06
+jabodc: folds 
+lawlex_2: folds 
+Ph@ntomkpz: folds 
+Zheko Kolev: calls $0.05
+neo-9703: raises $0.18 to $0.24
+edisonvn92: folds 
+Zheko Kolev: folds 
+Uncalled bet ($0.18) returned to neo-9703
+neo-9703 collected $0.18 from pot
+neo-9703: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: Zheko Kolev (small blind) folded before Flop
+Seat 2: neo-9703 (big blind) collected ($0.18)
+Seat 3: edisonvn92 folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ph@ntomkpz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051350643:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:20:15 MSK [2020/05/01 4:20:15 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: Zheko Kolev ($1.92 in chips) 
+Seat 2: neo-9703 ($0.93 in chips) 
+Seat 3: edisonvn92 ($5.28 in chips) 
+Seat 4: jabodc ($2.29 in chips) 
+Seat 5: lawlex_2 ($0.80 in chips) 
+Seat 6: Ph@ntomkpz ($1.96 in chips) 
+neo-9703: posts small blind $0.01
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 6s]
+jabodc: folds 
+lawlex_2: calls $0.02
+Ph@ntomkpz: folds 
+Zheko Kolev: folds 
+neo-9703: raises $0.22 to $0.24
+edisonvn92: folds 
+lawlex_2: folds 
+Uncalled bet ($0.22) returned to neo-9703
+neo-9703 collected $0.06 from pot
+neo-9703: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Zheko Kolev (button) folded before Flop (didn't bet)
+Seat 2: neo-9703 (small blind) collected ($0.06)
+Seat 3: edisonvn92 (big blind) folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051359899:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:20:35 MSK [2020/05/01 4:20:35 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 1: Zheko Kolev ($1.92 in chips) 
+Seat 2: neo-9703 ($0.97 in chips) 
+Seat 3: edisonvn92 ($5.26 in chips) 
+Seat 4: jabodc ($2.29 in chips) 
+Seat 5: lawlex_2 ($0.78 in chips) 
+Seat 6: Ph@ntomkpz ($1.96 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Th]
+lawlex_2: raises $0.04 to $0.06
+Ph@ntomkpz: folds 
+Zheko Kolev: folds 
+neo-9703: folds 
+edisonvn92: folds 
+jabodc: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Zheko Kolev folded before Flop (didn't bet)
+Seat 2: neo-9703 (button) folded before Flop (didn't bet)
+Seat 3: edisonvn92 (small blind) folded before Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 collected ($0.05)
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051365858:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:20:48 MSK [2020/05/01 4:20:48 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: Zheko Kolev ($1.92 in chips) 
+Seat 2: neo-9703 ($0.97 in chips) 
+Seat 3: edisonvn92 ($5.25 in chips) 
+Seat 4: jabodc ($2.27 in chips) 
+Seat 5: lawlex_2 ($0.81 in chips) 
+Seat 6: Ph@ntomkpz ($1.96 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Kc]
+Ph@ntomkpz: folds 
+Zheko Kolev: folds 
+neo-9703: folds 
+edisonvn92: raises $0.02 to $0.04
+jabodc: folds 
+lawlex_2: calls $0.02
+*** FLOP *** [7c Ts 8c]
+lawlex_2: checks 
+edisonvn92: bets $0.05
+lawlex_2: folds 
+Uncalled bet ($0.05) returned to edisonvn92
+edisonvn92 collected $0.09 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7c Ts 8c]
+Seat 1: Zheko Kolev folded before Flop (didn't bet)
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 (button) collected ($0.09)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded on the Flop
+Seat 6: Ph@ntomkpz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051380910:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:21:21 MSK [2020/05/01 4:21:21 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: Zheko Kolev ($1.92 in chips) 
+Seat 2: neo-9703 ($0.97 in chips) 
+Seat 3: edisonvn92 ($5.30 in chips) 
+Seat 4: jabodc ($2.26 in chips) 
+Seat 5: lawlex_2 ($0.77 in chips) 
+lawlex_2: posts small blind $0.01
+Ph@ntomkpz: is sitting out 
+Zheko Kolev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 9s]
+neo-9703: folds 
+edisonvn92: raises $0.02 to $0.04
+jabodc: folds 
+lawlex_2: folds 
+Zheko Kolev: calls $0.02
+*** FLOP *** [Tc Kd Jc]
+Zheko Kolev: checks 
+edisonvn92: checks 
+*** TURN *** [Tc Kd Jc] [Kc]
+Zheko Kolev: bets $0.06
+edisonvn92: folds 
+Uncalled bet ($0.06) returned to Zheko Kolev
+Zheko Kolev collected $0.09 from pot
+Zheko Kolev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Tc Kd Jc Kc]
+Seat 1: Zheko Kolev (big blind) collected ($0.09)
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 folded on the Turn
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051407806:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:22:20 MSK [2020/05/01 4:22:20 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Zheko Kolev ($1.97 in chips) 
+Seat 2: neo-9703 ($0.97 in chips) 
+Seat 3: edisonvn92 ($5.26 in chips) 
+Seat 4: jabodc ($2.26 in chips) 
+Seat 5: lawlex_2 ($0.76 in chips) 
+Zheko Kolev: posts small blind $0.01
+neo-9703: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 8h]
+edisonvn92: raises $0.02 to $0.04
+jabodc: folds 
+lawlex_2: folds 
+Zheko Kolev: calls $0.03
+neo-9703: calls $0.02
+*** FLOP *** [9s As Kd]
+Zheko Kolev: checks 
+neo-9703: bets $0.12
+edisonvn92: calls $0.12
+Zheko Kolev: folds 
+*** TURN *** [9s As Kd] [3s]
+neo-9703: bets $0.12
+edisonvn92: raises $0.18 to $0.30
+neo-9703: folds 
+Uncalled bet ($0.18) returned to edisonvn92
+edisonvn92 collected $0.58 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [9s As Kd 3s]
+Seat 1: Zheko Kolev (small blind) folded on the Flop
+Seat 2: neo-9703 (big blind) folded on the Turn
+Seat 3: edisonvn92 collected ($0.58)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051439917:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:23:29 MSK [2020/05/01 4:23:29 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: Zheko Kolev ($1.93 in chips) 
+Seat 2: neo-9703 ($0.69 in chips) 
+Seat 3: edisonvn92 ($5.56 in chips) 
+Seat 4: jabodc ($2.26 in chips) 
+Seat 5: lawlex_2 ($0.76 in chips) 
+neo-9703: posts small blind $0.01
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 9d]
+jabodc: folds 
+lawlex_2: folds 
+Zheko Kolev: calls $0.02
+neo-9703: folds 
+edisonvn92: checks 
+*** FLOP *** [9c 8d Ah]
+edisonvn92: checks 
+Zheko Kolev: bets $0.06
+edisonvn92: calls $0.06
+*** TURN *** [9c 8d Ah] [Ks]
+edisonvn92: checks 
+Zheko Kolev: bets $0.26
+edisonvn92: folds 
+Uncalled bet ($0.26) returned to Zheko Kolev
+Zheko Kolev collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9c 8d Ah Ks]
+Seat 1: Zheko Kolev (button) collected ($0.16)
+Seat 2: neo-9703 (small blind) folded before Flop
+Seat 3: edisonvn92 (big blind) folded on the Turn
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051466368:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:24:26 MSK [2020/05/01 4:24:26 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 1: Zheko Kolev ($2.01 in chips) 
+Seat 2: neo-9703 ($0.68 in chips) 
+Seat 3: edisonvn92 ($5.48 in chips) 
+Seat 4: jabodc ($2.26 in chips) 
+Seat 5: lawlex_2 ($0.76 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Td]
+lawlex_2: calls $0.02
+Zheko Kolev: folds 
+neo-9703: raises $0.66 to $0.68 and is all-in
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: folds 
+Uncalled bet ($0.66) returned to neo-9703
+neo-9703 collected $0.07 from pot
+neo-9703: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Zheko Kolev folded before Flop (didn't bet)
+Seat 2: neo-9703 (button) collected ($0.07)
+Seat 3: edisonvn92 (small blind) folded before Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop
+
+
+
+PokerStars Hand #213051474302:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:24:43 MSK [2020/05/01 4:24:43 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: Zheko Kolev ($2.01 in chips) 
+Seat 2: neo-9703 ($0.73 in chips) 
+Seat 3: edisonvn92 ($5.47 in chips) 
+Seat 4: jabodc ($2.24 in chips) 
+Seat 5: lawlex_2 ($0.74 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 8c]
+Zheko Kolev: raises $0.02 to $0.04
+neo-9703 has timed out
+neo-9703: folds 
+neo-9703 leaves the table
+edisonvn92: calls $0.04
+Dara0660 joins the table at seat #2 
+jabodc: folds 
+lawlex_2: folds 
+*** FLOP *** [4h 7s Kh]
+Zheko Kolev: checks 
+edisonvn92: bets $0.06
+Zheko Kolev: calls $0.06
+*** TURN *** [4h 7s Kh] [4s]
+Zheko Kolev: checks 
+edisonvn92: bets $0.14
+Zheko Kolev: calls $0.14
+*** RIVER *** [4h 7s Kh 4s] [Kc]
+Ph@ntomkpz leaves the table
+Zheko Kolev: bets $0.25
+Fjzzo joins the table at seat #6 
+edisonvn92: folds 
+Uncalled bet ($0.25) returned to Zheko Kolev
+Zheko Kolev collected $0.49 from pot
+Zheko Kolev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [4h 7s Kh 4s Kc]
+Seat 1: Zheko Kolev collected ($0.49)
+Seat 2: neo-9703 folded before Flop (didn't bet)
+Seat 3: edisonvn92 (button) folded on the River
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213051513981:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:26:09 MSK [2020/05/01 4:26:09 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: Zheko Kolev ($2.26 in chips) 
+Seat 3: edisonvn92 ($5.23 in chips) 
+Seat 4: jabodc ($2.23 in chips) 
+Seat 5: lawlex_2 ($0.72 in chips) 
+Seat 6: Fjzzo ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Fjzzo: posts big blind $0.02
+Dara0660: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 6h]
+Zheko Kolev: calls $0.02
+edisonvn92: raises $0.06 to $0.08
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: raises $0.19 to $0.27
+Zheko Kolev: folds 
+edisonvn92: folds 
+Uncalled bet ($0.19) returned to Fjzzo
+Fjzzo collected $0.19 from pot
+Fjzzo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0 
+Seat 1: Zheko Kolev folded before Flop
+Seat 3: edisonvn92 folded before Flop
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Fjzzo (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #213051527451:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:26:38 MSK [2020/05/01 4:26:38 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Zheko Kolev ($2.24 in chips) 
+Seat 2: Dara0660 ($1.06 in chips) 
+Seat 3: edisonvn92 ($5.15 in chips) 
+Seat 4: jabodc ($2.23 in chips) 
+Seat 5: lawlex_2 ($0.71 in chips) 
+Seat 6: Fjzzo ($2.11 in chips) 
+Fjzzo: posts small blind $0.01
+Zheko Kolev: posts big blind $0.02
+Dara0660: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Tc]
+Dara0660: checks 
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: raises $0.04 to $0.06
+Fjzzo: folds 
+Zheko Kolev: folds 
+Dara0660: calls $0.04
+*** FLOP *** [6c Kc 3d]
+Dara0660: checks 
+Zheko Kolev leaves the table
+lawlex_2: bets $0.09
+Raudung joins the table at seat #1 
+Dara0660: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6c Kc 3d]
+Seat 1: Zheko Kolev (big blind) folded before Flop
+Seat 2: Dara0660 folded on the Flop
+Seat 3: edisonvn92 folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) collected ($0.14)
+Seat 6: Fjzzo (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051543974:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:27:14 MSK [2020/05/01 4:27:14 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 2: Dara0660 ($1 in chips) 
+Seat 3: edisonvn92 ($5.15 in chips) 
+Seat 4: jabodc ($2.23 in chips) 
+Seat 5: lawlex_2 ($0.79 in chips) 
+Seat 6: Fjzzo ($2.10 in chips) 
+Dara0660: posts small blind $0.01
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 5c]
+jabodc: raises $0.04 to $0.06
+lawlex_2: folds 
+Fjzzo: folds 
+Dara0660: calls $0.05
+edisonvn92: calls $0.04
+*** FLOP *** [2d 9s 8h]
+Dara0660: checks 
+edisonvn92: checks 
+jabodc: bets $0.11
+Dara0660: calls $0.11
+edisonvn92: folds 
+*** TURN *** [2d 9s 8h] [Jd]
+Dara0660: checks 
+jabodc: bets $0.26
+Dara0660: calls $0.26
+*** RIVER *** [2d 9s 8h Jd] [Ah]
+Dara0660: checks 
+jabodc: bets $0.57
+Dara0660: folds 
+Uncalled bet ($0.57) returned to jabodc
+jabodc collected $0.89 from pot
+jabodc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [2d 9s 8h Jd Ah]
+Seat 2: Dara0660 (small blind) folded on the River
+Seat 3: edisonvn92 (big blind) folded on the Flop
+Seat 4: jabodc collected ($0.89)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051575854:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:28:23 MSK [2020/05/01 4:28:23 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 2: Dara0660 ($0.57 in chips) 
+Seat 3: edisonvn92 ($5.09 in chips) 
+Seat 4: jabodc ($2.69 in chips) 
+Seat 5: lawlex_2 ($0.79 in chips) 
+Seat 6: Fjzzo ($2.10 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+Raudung: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 6c]
+lawlex_2: folds 
+Fjzzo: folds 
+Dara0660: calls $0.02
+edisonvn92: calls $0.01
+jabodc: checks 
+*** FLOP *** [Qd 4c Ad]
+edisonvn92: checks 
+jabodc: checks 
+Dara0660: checks 
+*** TURN *** [Qd 4c Ad] [9s]
+edisonvn92: checks 
+jabodc: checks 
+Dara0660: bets $0.08
+edisonvn92: folds 
+jabodc: folds 
+Uncalled bet ($0.08) returned to Dara0660
+Dara0660 collected $0.06 from pot
+Dara0660: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qd 4c Ad 9s]
+Seat 2: Dara0660 (button) collected ($0.06)
+Seat 3: edisonvn92 (small blind) folded on the Turn
+Seat 4: jabodc (big blind) folded on the Turn
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051595089:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:29:05 MSK [2020/05/01 4:29:05 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 2: Dara0660 ($0.61 in chips) 
+Seat 3: edisonvn92 ($5.07 in chips) 
+Seat 4: jabodc ($2.67 in chips) 
+Seat 5: lawlex_2 ($0.79 in chips) 
+Seat 6: Fjzzo ($2.10 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Raudung: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 8c]
+Fjzzo: raises $0.04 to $0.06
+Dara0660: calls $0.06
+edisonvn92: calls $0.06
+jabodc: folds 
+lawlex_2: folds 
+*** FLOP *** [8h Ac 9s]
+Fjzzo: checks 
+Dara0660: checks 
+edisonvn92: bets $0.08
+Fjzzo: folds 
+Dara0660: folds 
+Uncalled bet ($0.08) returned to edisonvn92
+edisonvn92 collected $0.20 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8h Ac 9s]
+Seat 2: Dara0660 folded on the Flop
+Seat 3: edisonvn92 (button) collected ($0.20)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Fjzzo folded on the Flop
+
+
+
+PokerStars Hand #213051611135:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:29:39 MSK [2020/05/01 4:29:39 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 2: Dara0660 ($0.55 in chips) 
+Seat 3: edisonvn92 ($5.21 in chips) 
+Seat 4: jabodc ($2.66 in chips) 
+Seat 5: lawlex_2 ($0.77 in chips) 
+Seat 6: Fjzzo ($2.04 in chips) 
+lawlex_2: posts small blind $0.01
+Fjzzo: posts big blind $0.02
+Raudung: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 7h]
+Dara0660: raises $0.14 to $0.16
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: folds 
+Uncalled bet ($0.14) returned to Dara0660
+Dara0660 collected $0.05 from pot
+Dara0660: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Dara0660 collected ($0.05)
+Seat 3: edisonvn92 folded before Flop (didn't bet)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Fjzzo (big blind) folded before Flop
+
+
+
+PokerStars Hand #213051616479:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:29:51 MSK [2020/05/01 4:29:51 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Raudung ($2 in chips) 
+Seat 2: Dara0660 ($0.58 in chips) 
+Seat 3: edisonvn92 ($5.21 in chips) 
+Seat 4: jabodc ($2.66 in chips) 
+Seat 5: lawlex_2 ($0.76 in chips) 
+Seat 6: Fjzzo ($2.02 in chips) 
+Fjzzo: posts small blind $0.01
+Raudung: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 5h]
+Dara0660: raises $0.24 to $0.26
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: folds 
+Raudung: folds 
+Uncalled bet ($0.24) returned to Dara0660
+Dara0660 collected $0.05 from pot
+Dara0660: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Raudung (big blind) folded before Flop
+Seat 2: Dara0660 collected ($0.05)
+Seat 3: edisonvn92 folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Fjzzo (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051623500:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:30:06 MSK [2020/05/01 4:30:06 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: Raudung ($1.98 in chips) 
+Seat 2: Dara0660 ($0.61 in chips) 
+Seat 3: edisonvn92 ($5.21 in chips) 
+Seat 4: jabodc ($2.66 in chips) 
+Seat 5: lawlex_2 ($0.76 in chips) 
+Seat 6: Fjzzo ($2.01 in chips) 
+Raudung: posts small blind $0.01
+Dara0660: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Ks]
+edisonvn92: raises $0.02 to $0.04
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: folds 
+Raudung: calls $0.03
+Dara0660: raises $0.26 to $0.30
+edisonvn92: folds 
+Raudung: folds 
+Uncalled bet ($0.26) returned to Dara0660
+Dara0660 collected $0.12 from pot
+Dara0660: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Raudung (small blind) folded before Flop
+Seat 2: Dara0660 (big blind) collected ($0.12)
+Seat 3: edisonvn92 folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051634649:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:30:30 MSK [2020/05/01 4:30:30 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: Raudung ($1.94 in chips) 
+Seat 2: Dara0660 ($0.69 in chips) 
+Seat 3: edisonvn92 ($5.17 in chips) 
+Seat 4: jabodc ($2.66 in chips) 
+Seat 5: lawlex_2 ($0.76 in chips) 
+Seat 6: Fjzzo ($2.01 in chips) 
+Dara0660: posts small blind $0.01
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 8h]
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: raises $0.04 to $0.06
+Raudung: folds 
+Dara0660: calls $0.05
+edisonvn92: folds 
+*** FLOP *** [Td 7h Tc]
+Dara0660: checks 
+Fjzzo: checks 
+*** TURN *** [Td 7h Tc] [8c]
+Dara0660: checks 
+Fjzzo: checks 
+*** RIVER *** [Td 7h Tc 8c] [7c]
+Dara0660: checks 
+Fjzzo: checks 
+*** SHOW DOWN ***
+Dara0660: shows [3s Jc] (two pair, Tens and Sevens)
+Fjzzo: shows [Kh Qh] (two pair, Tens and Sevens - King kicker)
+Fjzzo collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Td 7h Tc 8c 7c]
+Seat 1: Raudung (button) folded before Flop (didn't bet)
+Seat 2: Dara0660 (small blind) showed [3s Jc] and lost with two pair, Tens and Sevens
+Seat 3: edisonvn92 (big blind) folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo showed [Kh Qh] and won ($0.14) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #213051649875:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:31:02 MSK [2020/05/01 4:31:02 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 1: Raudung ($1.94 in chips) 
+Seat 2: Dara0660 ($0.63 in chips) 
+Seat 3: edisonvn92 ($5.15 in chips) 
+Seat 4: jabodc ($2.66 in chips) 
+Seat 5: lawlex_2 ($0.76 in chips) 
+Seat 6: Fjzzo ($2.09 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 3c]
+lawlex_2: folds 
+Fjzzo: folds 
+Raudung: folds 
+Dara0660: raises $0.12 to $0.14
+edisonvn92: folds 
+jabodc: folds 
+Uncalled bet ($0.12) returned to Dara0660
+Dara0660 collected $0.05 from pot
+Dara0660: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Raudung folded before Flop (didn't bet)
+Seat 2: Dara0660 (button) collected ($0.05)
+Seat 3: edisonvn92 (small blind) folded before Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051657943:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:31:20 MSK [2020/05/01 4:31:20 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: Raudung ($1.94 in chips) 
+Seat 2: Dara0660 ($0.66 in chips) 
+Seat 3: edisonvn92 ($5.14 in chips) 
+Seat 4: jabodc ($2.64 in chips) 
+Seat 5: lawlex_2 ($0.76 in chips) 
+Seat 6: Fjzzo ($2.09 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Kc]
+Fjzzo: folds 
+Raudung: raises $0.02 to $0.04
+Dara0660: raises $0.62 to $0.66 and is all-in
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: folds 
+Raudung: folds 
+Uncalled bet ($0.62) returned to Dara0660
+Dara0660 collected $0.11 from pot
+Dara0660: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Raudung folded before Flop
+Seat 2: Dara0660 collected ($0.11)
+Seat 3: edisonvn92 (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051667895:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:31:41 MSK [2020/05/01 4:31:41 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: Raudung ($1.90 in chips) 
+Seat 2: Dara0660 ($0.73 in chips) 
+Seat 3: edisonvn92 ($5.14 in chips) 
+Seat 4: jabodc ($2.63 in chips) 
+Seat 5: lawlex_2 ($0.74 in chips) 
+Seat 6: Fjzzo ($2.09 in chips) 
+lawlex_2: posts small blind $0.01
+Fjzzo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Qd]
+Raudung: folds 
+Dara0660: folds 
+edisonvn92: raises $0.04 to $0.06
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: folds 
+Uncalled bet ($0.04) returned to edisonvn92
+edisonvn92 collected $0.05 from pot
+edisonvn92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Raudung folded before Flop (didn't bet)
+Seat 2: Dara0660 folded before Flop (didn't bet)
+Seat 3: edisonvn92 collected ($0.05)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Fjzzo (big blind) folded before Flop
+
+
+
+PokerStars Hand #213051675097:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:31:56 MSK [2020/05/01 4:31:56 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Raudung ($1.90 in chips) 
+Seat 2: Dara0660 ($0.73 in chips) 
+Seat 3: edisonvn92 ($5.17 in chips) 
+Seat 4: jabodc ($2.63 in chips) 
+Seat 5: lawlex_2 ($0.73 in chips) 
+Seat 6: Fjzzo ($2.07 in chips) 
+Fjzzo: posts small blind $0.01
+Raudung: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 8h]
+Dara0660: calls $0.02
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: raises $0.07 to $0.09
+Fjzzo: folds 
+Raudung: folds 
+Dara0660: calls $0.07
+*** FLOP *** [4s Th Kc]
+Dara0660: checks 
+lawlex_2: checks 
+*** TURN *** [4s Th Kc] [7s]
+Dara0660: bets $0.24
+lawlex_2: folds 
+Uncalled bet ($0.24) returned to Dara0660
+Dara0660 collected $0.20 from pot
+Dara0660: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [4s Th Kc 7s]
+Seat 1: Raudung (big blind) folded before Flop
+Seat 2: Dara0660 collected ($0.20)
+Seat 3: edisonvn92 folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded on the Turn
+Seat 6: Fjzzo (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051695613:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:32:40 MSK [2020/05/01 4:32:40 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: Raudung ($1.88 in chips) 
+Seat 2: Dara0660 ($0.84 in chips) 
+Seat 3: edisonvn92 ($5.17 in chips) 
+Seat 4: jabodc ($2.63 in chips) 
+Seat 5: lawlex_2 ($0.64 in chips) 
+Seat 6: Fjzzo ($2.06 in chips) 
+Raudung: posts small blind $0.01
+Dara0660: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 8c]
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: folds 
+Raudung: calls $0.01
+Dara0660: raises $0.12 to $0.14
+Raudung: calls $0.12
+*** FLOP *** [3c Jd 3d]
+Raudung: checks 
+Dara0660: bets $0.70 and is all-in
+Raudung: calls $0.70
+*** TURN *** [3c Jd 3d] [7h]
+*** RIVER *** [3c Jd 3d 7h] [Jh]
+*** SHOW DOWN ***
+Raudung: shows [3h 4h] (a full house, Threes full of Jacks)
+Dara0660: shows [Jc Td] (a full house, Jacks full of Threes)
+Dara0660 cashed out the hand for $0.20
+*** SUMMARY ***
+Total pot $1.68 | Rake $0.06 
+Board [3c Jd 3d 7h Jh]
+Seat 1: Raudung (small blind) showed [3h 4h] and lost with a full house, Threes full of Jacks
+Seat 2: Dara0660 (big blind) showed [Jc Td] and won ($1.62) with a full house, Jacks full of Threes (pot not awarded as player cashed out)
+Seat 3: edisonvn92 folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051717509:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:33:27 MSK [2020/05/01 4:33:27 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: Raudung ($1.04 in chips) 
+Seat 2: Dara0660 ($0.20 in chips) 
+Seat 3: edisonvn92 ($5.17 in chips) 
+Seat 4: jabodc ($2.63 in chips) 
+Seat 5: lawlex_2 ($0.64 in chips) 
+Seat 6: Fjzzo ($2.06 in chips) 
+Dara0660: posts small blind $0.01
+edisonvn92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Kc]
+jabodc: folds 
+lawlex_2: raises $0.04 to $0.06
+Fjzzo: calls $0.06
+Raudung: calls $0.06
+Dara0660: raises $0.14 to $0.20 and is all-in
+edisonvn92: folds 
+lawlex_2: calls $0.14
+Fjzzo: calls $0.14
+Raudung: calls $0.14
+*** FLOP *** [5d 4s 9c]
+lawlex_2: checks 
+Fjzzo: bets $0.96
+Raudung: calls $0.84 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.12) returned to Fjzzo
+*** TURN *** [5d 4s 9c] [5h]
+*** RIVER *** [5d 4s 9c 5h] [Qc]
+*** SHOW DOWN ***
+Fjzzo: shows [8c 8h] (two pair, Eights and Fives)
+Raudung: shows [7s 6s] (a pair of Fives)
+Fjzzo collected $1.62 from side pot
+Dara0660: shows [8d 5c] (three of a kind, Fives)
+Dara0660 collected $0.79 from main pot
+Raudung cashed out the hand for $0.58 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $2.50 Main pot $0.79. Side pot $1.62. | Rake $0.09 
+Board [5d 4s 9c 5h Qc]
+Seat 1: Raudung (button) showed [7s 6s] and lost with a pair of Fives (cashed out).
+Seat 2: Dara0660 (small blind) showed [8d 5c] and won ($0.79) with three of a kind, Fives
+Seat 3: edisonvn92 (big blind) folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded on the Flop
+Seat 6: Fjzzo showed [8c 8h] and won ($1.62) with two pair, Eights and Fives
+
+
+
+PokerStars Hand #213051746443:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:34:29 MSK [2020/05/01 4:34:29 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 1: Raudung ($0.58 in chips) 
+Seat 2: Dara0660 ($0.79 in chips) 
+Seat 3: edisonvn92 ($5.15 in chips) 
+Seat 4: jabodc ($2.63 in chips) 
+Seat 5: lawlex_2 ($0.44 in chips) 
+Seat 6: Fjzzo ($2.64 in chips) 
+edisonvn92: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 8c]
+lawlex_2: raises $0.04 to $0.06
+Fjzzo: folds 
+Raudung: calls $0.06
+Dara0660: calls $0.06
+edisonvn92: calls $0.05
+jabodc: folds 
+*** FLOP *** [Th 5c 9h]
+edisonvn92: checks 
+lawlex_2: bets $0.17
+Raudung: folds 
+Dara0660: calls $0.17
+edisonvn92: folds 
+*** TURN *** [Th 5c 9h] [Jc]
+lawlex_2: bets $0.21 and is all-in
+Dara0660: calls $0.21
+*** RIVER *** [Th 5c 9h Jc] [7d]
+*** SHOW DOWN ***
+lawlex_2: shows [As 8c] (a straight, Seven to Jack)
+Dara0660: shows [2d 5d] (a pair of Fives)
+lawlex_2 collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [Th 5c 9h Jc 7d]
+Seat 1: Raudung folded on the Flop
+Seat 2: Dara0660 (button) showed [2d 5d] and lost with a pair of Fives
+Seat 3: edisonvn92 (small blind) folded on the Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 showed [As 8c] and won ($0.98) with a straight, Seven to Jack
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051776211:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:35:32 MSK [2020/05/01 4:35:32 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: Raudung ($0.52 in chips) 
+Seat 2: Dara0660 ($0.35 in chips) 
+Seat 3: edisonvn92 ($5.09 in chips) 
+Seat 4: jabodc ($2.61 in chips) 
+Seat 5: lawlex_2 ($0.98 in chips) 
+Seat 6: Fjzzo ($2.64 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Kd]
+Fjzzo: folds 
+Raudung: folds 
+Dara0660: raises $0.16 to $0.18
+edisonvn92: folds 
+jabodc: folds 
+lawlex_2: calls $0.16
+*** FLOP *** [Qs 2d 6c]
+lawlex_2: bets $0.36
+Dara0660: calls $0.17 and is all-in
+Uncalled bet ($0.19) returned to lawlex_2
+*** TURN *** [Qs 2d 6c] [9c]
+*** RIVER *** [Qs 2d 6c 9c] [4d]
+*** SHOW DOWN ***
+lawlex_2: shows [Qc Kd] (a pair of Queens)
+Dara0660: shows [5c Jd] (high card Queen)
+Dara0660 cashed out the hand for $0.02
+lawlex_2 cashed out the hand for $0.66 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [Qs 2d 6c 9c 4d]
+Seat 1: Raudung folded before Flop (didn't bet)
+Seat 2: Dara0660 showed [5c Jd] and lost with high card Queen (cashed out).
+Seat 3: edisonvn92 (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) showed [Qc Kd] and won ($0.69) with a pair of Queens (pot not awarded as player cashed out)
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051791404:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:36:04 MSK [2020/05/01 4:36:04 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: Raudung ($0.52 in chips) 
+Seat 2: Dara0660 ($0.02 in chips) 
+Seat 3: edisonvn92 ($5.09 in chips) 
+Seat 4: jabodc ($2.60 in chips) 
+Seat 5: lawlex_2 ($1.29 in chips) 
+Seat 6: Fjzzo ($2.64 in chips) 
+lawlex_2: posts small blind $0.01
+Fjzzo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Tc]
+Raudung: calls $0.02
+Dara0660: calls $0.02 and is all-in
+edisonvn92: raises $0.04 to $0.06
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: folds 
+Raudung: calls $0.04
+*** FLOP *** [2s Js 4s]
+Raudung: checks 
+edisonvn92: bets $0.08
+Raudung: folds 
+Uncalled bet ($0.08) returned to edisonvn92
+*** TURN *** [2s Js 4s] [6s]
+*** RIVER *** [2s Js 4s 6s] [Qh]
+*** SHOW DOWN ***
+edisonvn92: shows [5c 8h] (high card Queen)
+edisonvn92 collected $0.07 from side pot
+Dara0660: shows [8c Kc] (high card King)
+Dara0660 cashed out the hand for $0.08
+*** SUMMARY ***
+Total pot $0.17 Main pot $0.09. Side pot $0.07. | Rake $0.01 
+Board [2s Js 4s 6s Qh]
+Seat 1: Raudung folded on the Flop
+Seat 2: Dara0660 showed [8c Kc] and won ($0.09) with high card King (pot not awarded as player cashed out)
+Seat 3: edisonvn92 showed [5c 8h] and won ($0.07) with high card Queen
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Fjzzo (big blind) folded before Flop
+
+
+
+PokerStars Hand #213051812316:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:36:48 MSK [2020/05/01 4:36:48 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Raudung ($0.46 in chips) 
+Seat 2: Dara0660 ($0.08 in chips) 
+Seat 3: edisonvn92 ($5.10 in chips) 
+Seat 4: jabodc ($2.60 in chips) 
+Seat 5: lawlex_2 ($1.28 in chips) 
+Seat 6: Fjzzo ($2.62 in chips) 
+Fjzzo: posts small blind $0.01
+Raudung: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 9s]
+Dara0660: raises $0.06 to $0.08 and is all-in
+edisonvn92: calls $0.08
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: calls $0.07
+Raudung: folds 
+*** FLOP *** [2s 8c Th]
+Fjzzo: checks 
+edisonvn92: checks 
+*** TURN *** [2s 8c Th] [Qd]
+Fjzzo: checks 
+edisonvn92: bets $0.13
+Fjzzo: folds 
+Uncalled bet ($0.13) returned to edisonvn92
+*** RIVER *** [2s 8c Th Qd] [9d]
+*** SHOW DOWN ***
+Dara0660: shows [4c 4d] (a pair of Fours)
+edisonvn92: shows [7c Kd] (high card King)
+Dara0660 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [2s 8c Th Qd 9d]
+Seat 1: Raudung (big blind) folded before Flop
+Seat 2: Dara0660 showed [4c 4d] and won ($0.25) with a pair of Fours
+Seat 3: edisonvn92 showed [7c Kd] and lost with high card King
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Fjzzo (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213051837723:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:37:42 MSK [2020/05/01 4:37:42 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: Raudung ($0.44 in chips) 
+Seat 2: Dara0660 ($0.25 in chips) 
+Seat 4: jabodc ($2.60 in chips) 
+Seat 5: lawlex_2 ($1.28 in chips) 
+Seat 6: Fjzzo ($2.54 in chips) 
+Raudung: posts small blind $0.01
+Dara0660: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Ac]
+edisonvn92 leaves the table
+jabodc: folds 
+lawlex_2: raises $0.04 to $0.06
+Fjzzo: folds 
+Raudung: folds 
+Dara0660: raises $0.04 to $0.10
+lawlex_2: calls $0.04
+*** FLOP *** [3c 4c Qd]
+FEKETELEVES joins the table at seat #3 
+Dara0660: bets $0.15 and is all-in
+lawlex_2: calls $0.15
+*** TURN *** [3c 4c Qd] [7d]
+*** RIVER *** [3c 4c Qd 7d] [6d]
+*** SHOW DOWN ***
+Dara0660: shows [Th Js] (high card Queen)
+lawlex_2: shows [Tc Ac] (high card Ace)
+lawlex_2 cashed out the hand for $0.44
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [3c 4c Qd 7d 6d]
+Seat 1: Raudung (small blind) folded before Flop
+Seat 2: Dara0660 (big blind) showed [Th Js] and lost with high card Queen
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 showed [Tc Ac] and won ($0.49) with high card Ace (pot not awarded as player cashed out)
+Seat 6: Fjzzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051857512:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:38:23 MSK [2020/05/01 4:38:23 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: Raudung ($0.43 in chips) 
+Seat 4: jabodc ($2.60 in chips) 
+Seat 5: lawlex_2 ($1.47 in chips) 
+Seat 6: Fjzzo ($2.54 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Ts]
+Fjzzo: folds 
+Raudung: calls $0.02
+jabodc: folds 
+lawlex_2: checks 
+*** FLOP *** [2c 6h Jh]
+lawlex_2: bets $0.02
+Raudung: raises $0.02 to $0.04
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to Raudung
+Raudung collected $0.09 from pot
+Raudung: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2c 6h Jh]
+Seat 1: Raudung (button) collected ($0.09)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded on the Flop
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051868740:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:38:47 MSK [2020/05/01 4:38:47 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: Raudung ($0.48 in chips) 
+Seat 3: FEKETELEVES ($2 in chips) 
+Seat 4: jabodc ($2.59 in chips) 
+Seat 5: lawlex_2 ($1.43 in chips) 
+Seat 6: Fjzzo ($2.54 in chips) 
+lawlex_2: posts small blind $0.01
+Fjzzo: posts big blind $0.02
+FEKETELEVES: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Ad]
+Raudung: folds 
+FEKETELEVES: checks 
+jabodc: folds 
+lawlex_2: raises $0.06 to $0.08
+Fjzzo: folds 
+FEKETELEVES: folds 
+Uncalled bet ($0.06) returned to lawlex_2
+lawlex_2 collected $0.06 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Raudung folded before Flop (didn't bet)
+Seat 3: FEKETELEVES folded before Flop (didn't bet)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) collected ($0.06)
+Seat 6: Fjzzo (big blind) folded before Flop
+
+
+
+PokerStars Hand #213051882949:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:39:17 MSK [2020/05/01 4:39:17 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Raudung ($0.48 in chips) 
+Seat 3: FEKETELEVES ($1.98 in chips) 
+Seat 4: jabodc ($2.59 in chips) 
+Seat 5: lawlex_2 ($1.47 in chips) 
+Seat 6: Fjzzo ($2.52 in chips) 
+Fjzzo: posts small blind $0.01
+Raudung: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Js]
+FEKETELEVES: folds 
+jabodc: raises $0.04 to $0.06
+lawlex_2: calls $0.06
+Fjzzo: folds 
+Raudung: folds 
+*** FLOP *** [4h 9s 2c]
+jabodc: bets $0.09
+lawlex_2: calls $0.09
+*** TURN *** [4h 9s 2c] [Th]
+jabodc: bets $0.21
+lawlex_2: calls $0.21
+*** RIVER *** [4h 9s 2c Th] [3c]
+jabodc: bets $0.48
+lawlex_2: calls $0.48
+*** SHOW DOWN ***
+jabodc: shows [Qh Qd] (a pair of Queens)
+lawlex_2: mucks hand 
+jabodc collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.06 
+Board [4h 9s 2c Th 3c]
+Seat 1: Raudung (big blind) folded before Flop
+Seat 3: FEKETELEVES folded before Flop (didn't bet)
+Seat 4: jabodc showed [Qh Qd] and won ($1.65) with a pair of Queens
+Seat 5: lawlex_2 (button) mucked [Jd Js]
+Seat 6: Fjzzo (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051901606:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:39:57 MSK [2020/05/01 4:39:57 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: Raudung ($0.46 in chips) 
+Seat 3: FEKETELEVES ($1.98 in chips) 
+Seat 4: jabodc ($3.40 in chips) 
+Seat 5: lawlex_2 ($0.63 in chips) 
+Seat 6: Fjzzo ($2.51 in chips) 
+Raudung: posts small blind $0.01
+FEKETELEVES: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Jc]
+jabodc: folds 
+lawlex_2: raises $0.05 to $0.07
+Fjzzo: folds 
+Raudung: folds 
+FEKETELEVES: folds 
+Uncalled bet ($0.05) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Raudung (small blind) folded before Flop
+Seat 3: FEKETELEVES (big blind) folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 collected ($0.05)
+Seat 6: Fjzzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051908480:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:40:12 MSK [2020/05/01 4:40:12 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: Raudung ($0.45 in chips) 
+Seat 3: FEKETELEVES ($1.96 in chips) 
+Seat 4: jabodc ($3.40 in chips) 
+Seat 5: lawlex_2 ($0.66 in chips) 
+Seat 6: Fjzzo ($2.51 in chips) 
+FEKETELEVES: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 7h]
+lawlex_2: raises $0.04 to $0.06
+Fjzzo: folds 
+Raudung: folds 
+FEKETELEVES: folds 
+jabodc: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Raudung (button) folded before Flop (didn't bet)
+Seat 3: FEKETELEVES (small blind) folded before Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 collected ($0.05)
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051916365:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:40:29 MSK [2020/05/01 4:40:29 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: Raudung ($0.45 in chips) 
+Seat 3: FEKETELEVES ($1.95 in chips) 
+Seat 4: jabodc ($3.38 in chips) 
+Seat 5: lawlex_2 ($0.69 in chips) 
+Seat 6: Fjzzo ($2.51 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 7c]
+Fjzzo: folds 
+Raudung: folds 
+FEKETELEVES: folds 
+jabodc: raises $0.02 to $0.04
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to jabodc
+jabodc collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Raudung folded before Flop (didn't bet)
+Seat 3: FEKETELEVES (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) collected ($0.04)
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051933908:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:40:48 MSK [2020/05/01 4:40:48 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: Raudung ($0.45 in chips) 
+Seat 3: FEKETELEVES ($1.95 in chips) 
+Seat 4: jabodc ($3.40 in chips) 
+Seat 5: lawlex_2 ($0.67 in chips) 
+Seat 6: Fjzzo ($2.51 in chips) 
+lawlex_2: posts small blind $0.01
+Fjzzo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Ac]
+Raudung: calls $0.02
+FEKETELEVES: folds 
+jabodc: folds 
+lawlex_2: raises $0.06 to $0.08
+Fjzzo: folds 
+Raudung: calls $0.06
+*** FLOP *** [7h Jc 2h]
+lawlex_2: bets $0.17
+Raudung: folds 
+Uncalled bet ($0.17) returned to lawlex_2
+lawlex_2 collected $0.17 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7h Jc 2h]
+Seat 1: Raudung folded on the Flop
+Seat 3: FEKETELEVES folded before Flop (didn't bet)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) collected ($0.17)
+Seat 6: Fjzzo (big blind) folded before Flop
+
+
+
+PokerStars Hand #213051946955:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:41:16 MSK [2020/05/01 4:41:16 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Raudung ($0.37 in chips) 
+Seat 3: FEKETELEVES ($1.95 in chips) 
+Seat 4: jabodc ($3.40 in chips) 
+Seat 5: lawlex_2 ($0.76 in chips) 
+Seat 6: Fjzzo ($2.49 in chips) 
+Fjzzo: posts small blind $0.01
+Raudung: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 8d]
+FEKETELEVES: folds 
+jabodc: folds 
+lawlex_2: raises $0.04 to $0.06
+Fjzzo: folds 
+Raudung: calls $0.04
+*** FLOP *** [9h Td Tc]
+Raudung: bets $0.31 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.31) returned to Raudung
+Raudung collected $0.13 from pot
+Raudung: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9h Td Tc]
+Seat 1: Raudung (big blind) collected ($0.13)
+Seat 3: FEKETELEVES folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded on the Flop
+Seat 6: Fjzzo (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051960687:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:41:44 MSK [2020/05/01 4:41:44 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: Raudung ($0.44 in chips) 
+Seat 3: FEKETELEVES ($1.95 in chips) 
+Seat 4: jabodc ($3.40 in chips) 
+Seat 5: lawlex_2 ($0.70 in chips) 
+Seat 6: Fjzzo ($2.48 in chips) 
+Raudung: posts small blind $0.01
+FEKETELEVES: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 4h]
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: folds 
+Raudung: folds 
+Uncalled bet ($0.01) returned to FEKETELEVES
+FEKETELEVES collected $0.02 from pot
+FEKETELEVES: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Raudung (small blind) folded before Flop
+Seat 3: FEKETELEVES (big blind) collected ($0.02)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051964141:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:41:51 MSK [2020/05/01 4:41:51 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: Raudung ($0.43 in chips) 
+Seat 3: FEKETELEVES ($1.96 in chips) 
+Seat 4: jabodc ($3.40 in chips) 
+Seat 5: lawlex_2 ($0.70 in chips) 
+Seat 6: Fjzzo ($2.48 in chips) 
+FEKETELEVES: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 3h]
+lawlex_2: folds 
+Fjzzo: folds 
+Raudung: folds 
+FEKETELEVES: folds 
+Uncalled bet ($0.01) returned to jabodc
+jabodc collected $0.02 from pot
+jabodc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Raudung (button) folded before Flop (didn't bet)
+Seat 3: FEKETELEVES (small blind) folded before Flop
+Seat 4: jabodc (big blind) collected ($0.02)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051968738:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:42:01 MSK [2020/05/01 4:42:01 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: Raudung ($0.43 in chips) 
+Seat 3: FEKETELEVES ($1.95 in chips) 
+Seat 4: jabodc ($3.41 in chips) 
+Seat 5: lawlex_2 ($0.70 in chips) 
+Seat 6: Fjzzo ($2.48 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 3h]
+Fjzzo: folds 
+Raudung: folds 
+FEKETELEVES: raises $0.03 to $0.05
+jabodc: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to FEKETELEVES
+FEKETELEVES collected $0.05 from pot
+FEKETELEVES: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Raudung folded before Flop (didn't bet)
+Seat 3: FEKETELEVES (button) collected ($0.05)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213051975524:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:42:15 MSK [2020/05/01 4:42:15 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: Raudung ($0.43 in chips) 
+Seat 3: FEKETELEVES ($1.98 in chips) 
+Seat 4: jabodc ($3.40 in chips) 
+Seat 5: lawlex_2 ($0.68 in chips) 
+Seat 6: Fjzzo ($2.48 in chips) 
+lawlex_2: posts small blind $0.01
+Fjzzo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 4h]
+Raudung: folds 
+FEKETELEVES: folds 
+jabodc: folds 
+lawlex_2: calls $0.01
+Fjzzo: checks 
+*** FLOP *** [9d Kh 5s]
+lawlex_2: checks 
+Fjzzo: checks 
+*** TURN *** [9d Kh 5s] [2c]
+lawlex_2: checks 
+Fjzzo: checks 
+*** RIVER *** [9d Kh 5s 2c] [8h]
+lawlex_2: checks 
+Fjzzo: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Jh 4h] (high card King)
+Fjzzo: shows [Ks 3h] (a pair of Kings)
+Fjzzo collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9d Kh 5s 2c 8h]
+Seat 1: Raudung folded before Flop (didn't bet)
+Seat 3: FEKETELEVES folded before Flop (didn't bet)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) showed [Jh 4h] and lost with high card King
+Seat 6: Fjzzo (big blind) showed [Ks 3h] and won ($0.04) with a pair of Kings
+
+
+
+PokerStars Hand #213051991943:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:42:49 MSK [2020/05/01 4:42:49 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Raudung ($0.43 in chips) 
+Seat 3: FEKETELEVES ($1.98 in chips) 
+Seat 4: jabodc ($3.40 in chips) 
+Seat 5: lawlex_2 ($0.66 in chips) 
+Seat 6: Fjzzo ($2.50 in chips) 
+Fjzzo: posts small blind $0.01
+Raudung: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Th]
+FEKETELEVES: folds 
+jabodc: folds 
+lawlex_2: raises $0.05 to $0.07
+Fjzzo: folds 
+Raudung: folds 
+Uncalled bet ($0.05) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Raudung (big blind) folded before Flop
+Seat 3: FEKETELEVES folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) collected ($0.05)
+Seat 6: Fjzzo (small blind) folded before Flop
+
+
+
+PokerStars Hand #213051997914:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:43:01 MSK [2020/05/01 4:43:01 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: Raudung ($0.41 in chips) 
+Seat 3: FEKETELEVES ($1.98 in chips) 
+Seat 4: jabodc ($3.40 in chips) 
+Seat 5: lawlex_2 ($0.69 in chips) 
+Seat 6: Fjzzo ($2.49 in chips) 
+Raudung: posts small blind $0.01
+FEKETELEVES: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 5h]
+jabodc: raises $0.04 to $0.06
+lawlex_2: folds 
+Fjzzo: folds 
+Raudung: folds 
+FEKETELEVES: folds 
+Uncalled bet ($0.04) returned to jabodc
+jabodc collected $0.05 from pot
+Dara0660 was removed from the table for failing to post
+Dara0660 leaves the table
+jabodc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Raudung (small blind) folded before Flop
+Seat 3: FEKETELEVES (big blind) folded before Flop
+Seat 4: jabodc collected ($0.05)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052003319:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:43:13 MSK [2020/05/01 4:43:13 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: Raudung ($0.40 in chips) 
+Seat 3: FEKETELEVES ($1.96 in chips) 
+Seat 4: jabodc ($3.43 in chips) 
+Seat 5: lawlex_2 ($0.69 in chips) 
+Seat 6: Fjzzo ($2.49 in chips) 
+FEKETELEVES: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 8c]
+lawlex_2: folds 
+shindik1508 joins the table at seat #2 
+Fjzzo: folds 
+Raudung: folds 
+FEKETELEVES: raises $0.03 to $0.05
+jabodc: folds 
+Uncalled bet ($0.03) returned to FEKETELEVES
+FEKETELEVES collected $0.04 from pot
+FEKETELEVES: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Raudung (button) folded before Flop (didn't bet)
+Seat 3: FEKETELEVES (small blind) collected ($0.04)
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052008365:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:43:23 MSK [2020/05/01 4:43:23 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: Raudung ($0.40 in chips) 
+Seat 3: FEKETELEVES ($1.98 in chips) 
+Seat 4: jabodc ($3.41 in chips) 
+Seat 5: lawlex_2 ($0.69 in chips) 
+Seat 6: Fjzzo ($2.49 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+shindik1508: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 9c]
+Fjzzo: raises $0.04 to $0.06
+Raudung: calls $0.06
+FEKETELEVES: folds 
+jabodc: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [8c 6d 7s]
+jabodc: checks 
+Fjzzo: checks 
+Raudung: bets $0.10
+jabodc: raises $0.24 to $0.34
+Fjzzo: folds 
+Raudung: calls $0.24 and is all-in
+*** TURN *** [8c 6d 7s] [7c]
+*** RIVER *** [8c 6d 7s 7c] [2c]
+*** SHOW DOWN ***
+jabodc: shows [Ts Tc] (two pair, Tens and Sevens)
+Raudung: shows [Ah 8h] (two pair, Eights and Sevens)
+jabodc collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [8c 6d 7s 7c 2c]
+Seat 1: Raudung showed [Ah 8h] and lost with two pair, Eights and Sevens
+Seat 3: FEKETELEVES (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) showed [Ts Tc] and won ($0.85) with two pair, Tens and Sevens
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Fjzzo folded on the Flop
+
+
+
+PokerStars Hand #213052026345:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:44:00 MSK [2020/05/01 4:44:00 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 3: FEKETELEVES ($1.98 in chips) 
+Seat 4: jabodc ($3.86 in chips) 
+Seat 5: lawlex_2 ($0.67 in chips) 
+Seat 6: Fjzzo ($2.43 in chips) 
+lawlex_2: posts small blind $0.01
+Fjzzo: posts big blind $0.02
+shindik1508: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Js]
+FEKETELEVES: folds 
+jabodc: folds 
+lawlex_2: calls $0.01
+Raudung leaves the table
+Fjzzo: checks 
+*** FLOP *** [3h 8h 3s]
+lawlex_2: checks 
+Fjzzo: checks 
+*** TURN *** [3h 8h 3s] [Ah]
+lawlex_2: bets $0.03
+Deyu25 joins the table at seat #1 
+Fjzzo: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3h 8h 3s Ah]
+Seat 3: FEKETELEVES folded before Flop (didn't bet)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) collected ($0.04)
+Seat 6: Fjzzo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213052036666:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:44:21 MSK [2020/05/01 4:44:21 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Deyu25 ($2 in chips) 
+Seat 3: FEKETELEVES ($1.98 in chips) 
+Seat 4: jabodc ($3.86 in chips) 
+Seat 5: lawlex_2 ($0.69 in chips) 
+Seat 6: Fjzzo ($2.41 in chips) 
+Fjzzo: posts small blind $0.01
+Deyu25: posts big blind $0.02
+shindik1508: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 7s]
+FEKETELEVES: folds 
+jabodc: raises $0.03 to $0.05
+lawlex_2: folds 
+Fjzzo: folds 
+Deyu25: raises $0.11 to $0.16
+jabodc: folds 
+Uncalled bet ($0.11) returned to Deyu25
+Deyu25 collected $0.11 from pot
+Deyu25: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Deyu25 (big blind) collected ($0.11)
+Seat 3: FEKETELEVES folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Fjzzo (small blind) folded before Flop
+
+
+
+PokerStars Hand #213052051345:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:44:51 MSK [2020/05/01 4:44:51 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: Deyu25 ($2.06 in chips) 
+Seat 2: shindik1508 ($1 in chips) 
+Seat 3: FEKETELEVES ($1.98 in chips) 
+Seat 4: jabodc ($3.81 in chips) 
+Seat 5: lawlex_2 ($0.69 in chips) 
+Seat 6: Fjzzo ($2.40 in chips) 
+Deyu25: posts small blind $0.01
+shindik1508: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Ac]
+FEKETELEVES: folds 
+jabodc: folds 
+lawlex_2: raises $0.05 to $0.07
+Fjzzo: folds 
+Deyu25: folds 
+shindik1508: calls $0.05
+*** FLOP *** [2h 4h 9d]
+shindik1508: checks 
+lawlex_2: checks 
+*** TURN *** [2h 4h 9d] [Kd]
+shindik1508: checks 
+lawlex_2: checks 
+*** RIVER *** [2h 4h 9d Kd] [Jd]
+shindik1508: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+shindik1508: shows [8c Jc] (a pair of Jacks)
+lawlex_2: mucks hand 
+shindik1508 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2h 4h 9d Kd Jd]
+Seat 1: Deyu25 (small blind) folded before Flop
+Seat 2: shindik1508 (big blind) showed [8c Jc] and won ($0.14) with a pair of Jacks
+Seat 3: FEKETELEVES folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 mucked [Ts Ac]
+Seat 6: Fjzzo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052064854:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:45:18 MSK [2020/05/01 4:45:18 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: Deyu25 ($2.05 in chips) 
+Seat 2: shindik1508 ($1.07 in chips) 
+Seat 3: FEKETELEVES ($1.98 in chips) 
+Seat 4: jabodc ($3.81 in chips) 
+Seat 5: lawlex_2 ($0.62 in chips) 
+Seat 6: Fjzzo ($2.40 in chips) 
+shindik1508: posts small blind $0.01
+FEKETELEVES: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 8s]
+jabodc: raises $0.04 to $0.06
+lawlex_2: folds 
+Fjzzo: folds 
+Deyu25: raises $0.18 to $0.24
+shindik1508: folds 
+FEKETELEVES: folds 
+jabodc: calls $0.18
+*** FLOP *** [2c 8c Th]
+jabodc: checks 
+Deyu25: bets $0.28
+jabodc: folds 
+Uncalled bet ($0.28) returned to Deyu25
+Deyu25 collected $0.49 from pot
+Deyu25: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [2c 8c Th]
+Seat 1: Deyu25 (button) collected ($0.49)
+Seat 2: shindik1508 (small blind) folded before Flop
+Seat 3: FEKETELEVES (big blind) folded before Flop
+Seat 4: jabodc folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052086519:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:46:02 MSK [2020/05/01 4:46:02 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 1: Deyu25 ($2.30 in chips) 
+Seat 2: shindik1508 ($1.06 in chips) 
+Seat 3: FEKETELEVES ($1.96 in chips) 
+Seat 4: jabodc ($3.57 in chips) 
+Seat 5: lawlex_2 ($0.62 in chips) 
+Seat 6: Fjzzo ($2.40 in chips) 
+FEKETELEVES: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 9s]
+lawlex_2: folds 
+Fjzzo: folds 
+Deyu25: calls $0.02
+shindik1508: folds 
+FEKETELEVES: folds 
+jabodc: checks 
+*** FLOP *** [Jc 6s Kc]
+jabodc: checks 
+Deyu25: bets $0.06
+jabodc: folds 
+Uncalled bet ($0.06) returned to Deyu25
+Deyu25 collected $0.05 from pot
+Deyu25: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jc 6s Kc]
+Seat 1: Deyu25 collected ($0.05)
+Seat 2: shindik1508 (button) folded before Flop (didn't bet)
+Seat 3: FEKETELEVES (small blind) folded before Flop
+Seat 4: jabodc (big blind) folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052101205:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:46:32 MSK [2020/05/01 4:46:32 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: Deyu25 ($2.33 in chips) 
+Seat 2: shindik1508 ($1.06 in chips) 
+Seat 3: FEKETELEVES ($1.95 in chips) 
+Seat 4: jabodc ($3.55 in chips) 
+Seat 5: lawlex_2 ($0.62 in chips) 
+Seat 6: Fjzzo ($2.40 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Js]
+Fjzzo: folds 
+Deyu25: raises $0.03 to $0.05
+shindik1508: folds 
+FEKETELEVES: folds 
+jabodc: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to Deyu25
+Deyu25 collected $0.05 from pot
+Deyu25: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Deyu25 collected ($0.05)
+Seat 2: shindik1508 folded before Flop (didn't bet)
+Seat 3: FEKETELEVES (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Fjzzo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052111098:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:46:52 MSK [2020/05/01 4:46:52 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: Deyu25 ($2.36 in chips) 
+Seat 2: shindik1508 ($1.06 in chips) 
+Seat 3: FEKETELEVES ($1.95 in chips) 
+Seat 4: jabodc ($3.54 in chips) 
+Seat 5: lawlex_2 ($0.60 in chips) 
+Seat 6: Fjzzo ($2.40 in chips) 
+lawlex_2: posts small blind $0.01
+Fjzzo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Qd]
+Deyu25: folds 
+shindik1508: folds 
+FEKETELEVES: raises $0.03 to $0.05
+jabodc: raises $0.13 to $0.18
+lawlex_2: folds 
+Fjzzo: folds 
+FEKETELEVES: calls $0.13
+*** FLOP *** [6c 3c 2d]
+FEKETELEVES: checks 
+jabodc: bets $0.25
+FEKETELEVES: calls $0.25
+*** TURN *** [6c 3c 2d] [Tc]
+FEKETELEVES: checks 
+jabodc: checks 
+*** RIVER *** [6c 3c 2d Tc] [6d]
+FEKETELEVES: checks 
+jabodc: checks 
+*** SHOW DOWN ***
+FEKETELEVES: shows [9d 9c] (two pair, Nines and Sixes)
+jabodc: mucks hand 
+FEKETELEVES collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [6c 3c 2d Tc 6d]
+Seat 1: Deyu25 folded before Flop (didn't bet)
+Seat 2: shindik1508 folded before Flop (didn't bet)
+Seat 3: FEKETELEVES showed [9d 9c] and won ($0.86) with two pair, Nines and Sixes
+Seat 4: jabodc (button) mucked [Qc Ah]
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Fjzzo (big blind) folded before Flop
+
+
+
+PokerStars Hand #213052274196:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:52:21 MSK [2020/05/01 4:52:21 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 1: Deyu25 ($1.86 in chips) 
+Seat 2: shindik1508 ($0.91 in chips) 
+Seat 3: bxr23ps ($1.97 in chips) 
+Seat 4: jabodc ($3.33 in chips) 
+Seat 5: lawlex_2 ($0.59 in chips) 
+Seat 6: Fjzzo ($2.81 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Th]
+Fjzzo: raises $0.04 to $0.06
+Deyu25: raises $0.18 to $0.24
+shindik1508: folds 
+bxr23ps: folds 
+jabodc: folds 
+lawlex_2: folds 
+Fjzzo: folds 
+Uncalled bet ($0.18) returned to Deyu25
+Deyu25 collected $0.15 from pot
+Deyu25: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Deyu25 collected ($0.15)
+Seat 2: shindik1508 folded before Flop (didn't bet)
+Seat 3: bxr23ps (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Fjzzo folded before Flop
+
+
+
+PokerStars Hand #213052286095:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:52:46 MSK [2020/05/01 4:52:46 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 1: Deyu25 ($1.95 in chips) 
+Seat 2: shindik1508 ($0.91 in chips) 
+Seat 3: bxr23ps ($1.97 in chips) 
+Seat 4: jabodc ($3.32 in chips) 
+Seat 5: lawlex_2 ($0.57 in chips) 
+lawlex_2: posts small blind $0.01
+Fjzzo: is sitting out 
+Deyu25: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 8d]
+shindik1508: folds 
+bxr23ps: folds 
+jabodc: calls $0.02
+lawlex_2: folds 
+Deyu25: checks 
+*** FLOP *** [4s Kc 9s]
+Deyu25: bets $0.06
+jabodc: calls $0.06
+*** TURN *** [4s Kc 9s] [3d]
+Deyu25: checks 
+jabodc: checks 
+*** RIVER *** [4s Kc 9s 3d] [6d]
+Deyu25: bets $0.19
+jabodc: calls $0.19
+*** SHOW DOWN ***
+Deyu25: shows [Ks 2d] (a pair of Kings)
+jabodc: shows [Td Kd] (a pair of Kings - Ten kicker)
+jabodc collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4s Kc 9s 3d 6d]
+Seat 1: Deyu25 (big blind) showed [Ks 2d] and lost with a pair of Kings
+Seat 2: shindik1508 folded before Flop (didn't bet)
+Seat 3: bxr23ps folded before Flop (didn't bet)
+Seat 4: jabodc (button) showed [Td Kd] and won ($0.53) with a pair of Kings
+Seat 5: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213052319853:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:53:53 MSK [2020/05/01 4:53:53 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 2: shindik1508 ($0.91 in chips) 
+Seat 3: bxr23ps ($1.97 in chips) 
+Seat 4: jabodc ($3.58 in chips) 
+Seat 5: lawlex_2 ($0.56 in chips) 
+shindik1508: posts small blind $0.01
+bxr23ps: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 2s]
+jabodc: folds 
+lawlex_2: folds 
+shindik1508: raises $0.04 to $0.06
+bxr23ps: folds 
+Uncalled bet ($0.04) returned to shindik1508
+shindik1508 collected $0.04 from pot
+shindik1508: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: shindik1508 (small blind) collected ($0.04)
+Seat 3: bxr23ps (big blind) folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052326664:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:54:07 MSK [2020/05/01 4:54:07 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 2: shindik1508 ($0.93 in chips) 
+Seat 3: bxr23ps ($1.95 in chips) 
+Seat 4: jabodc ($3.58 in chips) 
+Seat 5: lawlex_2 ($0.56 in chips) 
+bxr23ps: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 8d]
+lawlex_2: folds 
+shindik1508: raises $0.04 to $0.06
+bxr23ps: folds 
+jabodc: folds 
+Uncalled bet ($0.04) returned to shindik1508
+shindik1508 collected $0.05 from pot
+shindik1508: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: shindik1508 (button) collected ($0.05)
+Seat 3: bxr23ps (small blind) folded before Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052333120:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:54:20 MSK [2020/05/01 4:54:20 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 2: shindik1508 ($0.96 in chips) 
+Seat 3: bxr23ps ($1.94 in chips) 
+Seat 4: jabodc ($3.56 in chips) 
+Seat 5: lawlex_2 ($0.56 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Td]
+shindik1508: calls $0.02
+bxr23ps: folds 
+jabodc: folds 
+lawlex_2: checks 
+*** FLOP *** [3s 8s Ac]
+lawlex_2: checks 
+shindik1508: bets $0.04
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to shindik1508
+shindik1508 collected $0.05 from pot
+shindik1508: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3s 8s Ac]
+Seat 2: shindik1508 collected ($0.05)
+Seat 3: bxr23ps (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213052349214:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:54:51 MSK [2020/05/01 4:54:51 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 2: shindik1508 ($0.99 in chips) 
+Seat 3: bxr23ps ($1.94 in chips) 
+Seat 4: jabodc ($3.55 in chips) 
+Seat 5: lawlex_2 ($0.54 in chips) 
+lawlex_2: posts small blind $0.01
+shindik1508: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 7d]
+bxr23ps: folds 
+jabodc: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to shindik1508
+shindik1508 collected $0.02 from pot
+shindik1508: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: shindik1508 (big blind) collected ($0.02)
+Seat 3: bxr23ps folded before Flop (didn't bet)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213052354963:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:55:03 MSK [2020/05/01 4:55:03 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 2: shindik1508 ($1 in chips) 
+Seat 3: bxr23ps ($1.94 in chips) 
+Seat 4: jabodc ($3.55 in chips) 
+Seat 5: lawlex_2 ($0.53 in chips) 
+shindik1508: posts small blind $0.01
+bxr23ps: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Ac]
+jabodc: folds 
+lawlex_2: raises $0.04 to $0.06
+shindik1508: calls $0.05
+Fjzzo leaves the table
+bxr23ps: folds 
+*** FLOP *** [3d Jh Tc]
+shindik1508: checks 
+lawlex_2: bets $0.02
+shindik1508: calls $0.02
+*** TURN *** [3d Jh Tc] [2s]
+Under The FX joins the table at seat #6 
+shindik1508: checks 
+lawlex_2: bets $0.11
+shindik1508: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.17 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3d Jh Tc 2s]
+Seat 2: shindik1508 (small blind) folded on the Turn
+Seat 3: bxr23ps (big blind) folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) collected ($0.17)
+
+
+
+PokerStars Hand #213052370830:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:55:39 MSK [2020/05/01 4:55:39 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 2: shindik1508 ($0.92 in chips) 
+Seat 3: bxr23ps ($1.92 in chips) 
+Seat 4: jabodc ($3.55 in chips) 
+Seat 5: lawlex_2 ($0.62 in chips) 
+Seat 6: Under The FX ($2 in chips) 
+bxr23ps: posts small blind $0.01
+jabodc: posts big blind $0.02
+Under The FX: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Qs]
+lawlex_2: calls $0.02
+Under The FX: raises $0.02 to $0.04
+shindik1508: folds 
+bxr23ps: folds 
+jabodc: folds 
+lawlex_2: calls $0.02
+*** FLOP *** [4c Ah 9h]
+lawlex_2: checks 
+Under The FX: checks 
+*** TURN *** [4c Ah 9h] [Jc]
+lawlex_2: bets $0.07
+Under The FX: calls $0.07
+*** RIVER *** [4c Ah 9h Jc] [3h]
+lawlex_2: checks 
+Under The FX: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [9s Qs] (a pair of Nines)
+Under The FX: mucks hand 
+lawlex_2 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4c Ah 9h Jc 3h]
+Seat 2: shindik1508 (button) folded before Flop (didn't bet)
+Seat 3: bxr23ps (small blind) folded before Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 showed [9s Qs] and won ($0.24) with a pair of Nines
+Seat 6: Under The FX mucked [7h 7s]
+
+
+
+PokerStars Hand #213052397889:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:56:43 MSK [2020/05/01 4:56:43 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 2: shindik1508 ($0.92 in chips) 
+Seat 3: bxr23ps ($1.91 in chips) 
+Seat 4: jabodc ($3.53 in chips) 
+Seat 5: lawlex_2 ($0.75 in chips) 
+Seat 6: Under The FX ($1.89 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 9c]
+Under The FX: folds 
+shindik1508: folds 
+bxr23ps: folds 
+jabodc: raises $0.02 to $0.04
+lawlex_2: calls $0.02
+*** FLOP *** [2d 2h Td]
+jabodc: bets $0.05
+lawlex_2: folds 
+Uncalled bet ($0.05) returned to jabodc
+jabodc collected $0.08 from pot
+jabodc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2d 2h Td]
+Seat 2: shindik1508 folded before Flop (didn't bet)
+Seat 3: bxr23ps (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) collected ($0.08)
+Seat 5: lawlex_2 (big blind) folded on the Flop
+Seat 6: Under The FX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052412829:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:57:18 MSK [2020/05/01 4:57:18 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 2: shindik1508 ($0.92 in chips) 
+Seat 3: bxr23ps ($1.91 in chips) 
+Seat 4: jabodc ($3.57 in chips) 
+Seat 5: lawlex_2 ($0.71 in chips) 
+Seat 6: Under The FX ($1.89 in chips) 
+lawlex_2: posts small blind $0.01
+Under The FX: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Td]
+shindik1508: raises $0.04 to $0.06
+bxr23ps: folds 
+jabodc: folds 
+lawlex_2: calls $0.05
+Under The FX: calls $0.04
+*** FLOP *** [5h 6h 2s]
+lawlex_2: checks 
+Under The FX: checks 
+shindik1508: checks 
+*** TURN *** [5h 6h 2s] [Kc]
+lawlex_2: checks 
+Under The FX: checks 
+shindik1508: checks 
+*** RIVER *** [5h 6h 2s Kc] [2h]
+lawlex_2: bets $0.11
+Under The FX: calls $0.11
+shindik1508: folds 
+*** SHOW DOWN ***
+lawlex_2: shows [9h Td] (a pair of Deuces)
+Under The FX: shows [3s Qd] (a pair of Deuces - King+Queen kicker)
+Under The FX collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [5h 6h 2s Kc 2h]
+Seat 2: shindik1508 folded on the River
+Seat 3: bxr23ps folded before Flop (didn't bet)
+Seat 4: jabodc (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) showed [9h Td] and lost with a pair of Deuces
+Seat 6: Under The FX (big blind) showed [3s Qd] and won ($0.39) with a pair of Deuces
+
+
+
+PokerStars Hand #213052428296:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:57:55 MSK [2020/05/01 4:57:55 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 2: shindik1508 ($0.86 in chips) 
+Seat 3: bxr23ps ($1.91 in chips) 
+Seat 4: jabodc ($3.57 in chips) 
+Seat 5: lawlex_2 ($0.54 in chips) 
+Seat 6: Under The FX ($2.11 in chips) 
+Under The FX: posts small blind $0.01
+shindik1508: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Qh]
+bxr23ps: folds 
+jabodc: folds 
+lawlex_2: folds 
+Under The FX: calls $0.01
+shindik1508: checks 
+*** FLOP *** [2d Ah 4h]
+Under The FX: bets $0.02
+shindik1508: folds 
+Uncalled bet ($0.02) returned to Under The FX
+Under The FX collected $0.04 from pot
+Under The FX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2d Ah 4h]
+Seat 2: shindik1508 (big blind) folded on the Flop
+Seat 3: bxr23ps folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Under The FX (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213052436196:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:58:13 MSK [2020/05/01 4:58:13 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 2: shindik1508 ($0.84 in chips) 
+Seat 3: bxr23ps ($1.91 in chips) 
+Seat 4: jabodc ($3.57 in chips) 
+Seat 5: lawlex_2 ($0.54 in chips) 
+Seat 6: Under The FX ($2.13 in chips) 
+shindik1508: posts small blind $0.01
+bxr23ps: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 2c]
+jabodc: folds 
+lawlex_2: folds 
+Under The FX: calls $0.02
+shindik1508: raises $0.04 to $0.06
+bxr23ps: folds 
+Under The FX: folds 
+Uncalled bet ($0.04) returned to shindik1508
+shindik1508 collected $0.06 from pot
+shindik1508: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 2: shindik1508 (small blind) collected ($0.06)
+Seat 3: bxr23ps (big blind) folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Under The FX (button) folded before Flop
+
+
+
+PokerStars Hand #213052443187:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:58:29 MSK [2020/05/01 4:58:29 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 2: shindik1508 ($0.88 in chips) 
+Seat 3: bxr23ps ($1.89 in chips) 
+Seat 4: jabodc ($3.57 in chips) 
+Seat 5: lawlex_2 ($0.54 in chips) 
+Seat 6: Under The FX ($2.11 in chips) 
+bxr23ps: posts small blind $0.01
+jabodc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Qd]
+lawlex_2: raises $0.04 to $0.06
+Under The FX: folds 
+shindik1508: folds 
+bxr23ps: folds 
+jabodc: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: shindik1508 (button) folded before Flop (didn't bet)
+Seat 3: bxr23ps (small blind) folded before Flop
+Seat 4: jabodc (big blind) folded before Flop
+Seat 5: lawlex_2 collected ($0.05)
+Seat 6: Under The FX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052448822:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:58:42 MSK [2020/05/01 4:58:42 ET]
+Table 'Comacina III' 6-max Seat #3 is the button
+Seat 2: shindik1508 ($0.88 in chips) 
+Seat 3: bxr23ps ($1.88 in chips) 
+Seat 4: jabodc ($3.55 in chips) 
+Seat 5: lawlex_2 ($0.57 in chips) 
+Seat 6: Under The FX ($2.11 in chips) 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Td]
+Under The FX: calls $0.02
+shindik1508: folds 
+bxr23ps: folds 
+jabodc: raises $0.06 to $0.08
+lawlex_2: folds 
+Under The FX: calls $0.06
+*** FLOP *** [Jh Ts Js]
+jabodc: checks 
+Under The FX: bets $0.02
+jabodc: calls $0.02
+*** TURN *** [Jh Ts Js] [4s]
+jabodc: checks 
+Under The FX: bets $0.02
+jabodc: raises $0.13 to $0.15
+Under The FX: raises $0.13 to $0.28
+jabodc: folds 
+Uncalled bet ($0.13) returned to Under The FX
+Under The FX collected $0.50 from pot
+Under The FX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Jh Ts Js 4s]
+Seat 2: shindik1508 folded before Flop (didn't bet)
+Seat 3: bxr23ps (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) folded on the Turn
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Under The FX collected ($0.50)
+
+
+
+PokerStars Hand #213052470537:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:59:32 MSK [2020/05/01 4:59:32 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 2: shindik1508 ($0.88 in chips) 
+Seat 3: bxr23ps ($1.88 in chips) 
+Seat 4: jabodc ($3.30 in chips) 
+Seat 5: lawlex_2 ($0.55 in chips) 
+Seat 6: Under The FX ($2.36 in chips) 
+lawlex_2: posts small blind $0.01
+Under The FX: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 9d]
+shindik1508: folds 
+bxr23ps: folds 
+jabodc: raises $0.02 to $0.04
+lawlex_2: folds 
+Under The FX: folds 
+Uncalled bet ($0.02) returned to jabodc
+jabodc collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: shindik1508 folded before Flop (didn't bet)
+Seat 3: bxr23ps folded before Flop (didn't bet)
+Seat 4: jabodc (button) collected ($0.05)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Under The FX (big blind) folded before Flop
+
+
+
+PokerStars Hand #213052476209:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 11:59:46 MSK [2020/05/01 4:59:46 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 2: shindik1508 ($0.88 in chips) 
+Seat 3: bxr23ps ($1.88 in chips) 
+Seat 4: jabodc ($3.33 in chips) 
+Seat 5: lawlex_2 ($0.54 in chips) 
+Seat 6: Under The FX ($2.34 in chips) 
+Under The FX: posts small blind $0.01
+shindik1508: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s As]
+bxr23ps: folds 
+jabodc: folds 
+lawlex_2: raises $0.05 to $0.07
+Under The FX: folds 
+shindik1508: folds 
+Uncalled bet ($0.05) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+Deyu25 was removed from the table for failing to post
+Deyu25 leaves the table
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: shindik1508 (big blind) folded before Flop
+Seat 3: bxr23ps folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) collected ($0.05)
+Seat 6: Under The FX (small blind) folded before Flop
+
+
+
+PokerStars Hand #213052483460:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 12:00:02 MSK [2020/05/01 5:00:02 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 2: shindik1508 ($0.86 in chips) 
+Seat 3: bxr23ps ($1.88 in chips) 
+Seat 4: jabodc ($3.33 in chips) 
+Seat 5: lawlex_2 ($0.57 in chips) 
+Seat 6: Under The FX ($2.33 in chips) 
+shindik1508: posts small blind $0.01
+bxr23ps: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 3h]
+jabodc: folds 
+lawlex_2: raises $0.04 to $0.06
+Under The FX: folds 
+shindik1508: folds 
+bxr23ps: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: shindik1508 (small blind) folded before Flop
+Seat 3: bxr23ps (big blind) folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 collected ($0.05)
+Seat 6: Under The FX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213052489218:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 12:00:15 MSK [2020/05/01 5:00:15 ET]
+Table 'Comacina III' 6-max Seat #2 is the button
+Seat 2: shindik1508 ($0.85 in chips) 
+Seat 4: jabodc ($3.33 in chips) 
+Seat 5: lawlex_2 ($0.60 in chips) 
+Seat 6: Under The FX ($2.33 in chips) 
+Antonis54 joins the table at seat #1 
+bxr23ps has timed out
+bxr23ps: is sitting out 
+jabodc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Ks]
+Under The FX: calls $0.02
+shindik1508: folds 
+jabodc: folds 
+lawlex_2: raises $0.04 to $0.06
+Under The FX: calls $0.04
+*** FLOP *** [3d Kd Kh]
+lawlex_2: checks 
+Under The FX: bets $0.02
+lawlex_2: calls $0.02
+*** TURN *** [3d Kd Kh] [Qd]
+lawlex_2: checks 
+Under The FX: bets $0.02
+lawlex_2: raises $0.13 to $0.15
+Under The FX: raises $0.29 to $0.44
+lawlex_2: raises $0.08 to $0.52 and is all-in
+Under The FX: calls $0.08
+*** RIVER *** [3d Kd Kh Qd] [2d]
+*** SHOW DOWN ***
+lawlex_2: shows [6s Ks] (three of a kind, Kings)
+Under The FX: shows [Td Jd] (a flush, King high)
+lawlex_2 cashed out the hand for $0.27
+Under The FX cashed out the hand for $0.89 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.04 
+Board [3d Kd Kh Qd 2d]
+Seat 2: shindik1508 (button) folded before Flop (didn't bet)
+Seat 4: jabodc (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) showed [6s Ks] and lost with three of a kind, Kings (cashed out).
+Seat 6: Under The FX showed [Td Jd] and won ($1.17) with a flush, King high (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #213052520953:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 12:01:23 MSK [2020/05/01 5:01:23 ET]
+Table 'Comacina III' 6-max Seat #4 is the button
+Seat 2: shindik1508 ($0.85 in chips) 
+Seat 4: jabodc ($3.32 in chips) 
+Seat 5: lawlex_2 ($0.27 in chips) 
+Seat 6: Under The FX ($2.62 in chips) 
+lawlex_2: posts small blind $0.01
+Under The FX: posts big blind $0.02
+Antonis54: sits out 
+bxr23ps: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 6c]
+shindik1508: raises $0.04 to $0.06
+jabodc: calls $0.06
+lawlex_2: raises $0.21 to $0.27 and is all-in
+Under The FX: folds 
+shindik1508: folds 
+jabodc: calls $0.21
+*** FLOP *** [9s Js 7s]
+*** TURN *** [9s Js 7s] [3c]
+*** RIVER *** [9s Js 7s 3c] [4s]
+*** SHOW DOWN ***
+lawlex_2: shows [Ad 6c] (high card Ace)
+jabodc: shows [Qs Jh] (a flush, Queen high)
+jabodc collected $0.60 from pot
+lawlex_2 cashed out the hand for $0.34
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [9s Js 7s 3c 4s]
+Seat 2: shindik1508 folded before Flop
+Seat 4: jabodc (button) showed [Qs Jh] and won ($0.60) with a flush, Queen high
+Seat 5: lawlex_2 (small blind) showed [Ad 6c] and lost with high card Ace (cashed out).
+Seat 6: Under The FX (big blind) folded before Flop
+
+
+
+PokerStars Hand #213052544115:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 12:02:08 MSK [2020/05/01 5:02:08 ET]
+Table 'Comacina III' 6-max Seat #5 is the button
+Seat 1: Antonis54 ($1.20 in chips) 
+Seat 2: shindik1508 ($0.79 in chips) 
+Seat 4: jabodc ($3.65 in chips) 
+Seat 5: lawlex_2 ($0.34 in chips) 
+Seat 6: Under The FX ($2.60 in chips) 
+Under The FX: posts small blind $0.01
+Antonis54: posts big blind $0.02
+bxr23ps: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Kd]
+shindik1508: folds 
+jabodc: folds 
+lawlex_2: folds 
+Under The FX: calls $0.01
+Antonis54: checks 
+*** FLOP *** [5d Qd 2d]
+Under The FX: checks 
+Antonis54: bets $0.02
+Under The FX: calls $0.02
+*** TURN *** [5d Qd 2d] [Jd]
+Under The FX: checks 
+Antonis54: bets $0.02
+Under The FX: calls $0.02
+*** RIVER *** [5d Qd 2d Jd] [2h]
+Under The FX: checks 
+Antonis54: checks 
+*** SHOW DOWN ***
+Under The FX: shows [7s Ac] (a pair of Deuces)
+Antonis54: shows [5h Qh] (two pair, Queens and Fives)
+Antonis54 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5d Qd 2d Jd 2h]
+Seat 1: Antonis54 (big blind) showed [5h Qh] and won ($0.12) with two pair, Queens and Fives
+Seat 2: shindik1508 folded before Flop (didn't bet)
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Under The FX (small blind) showed [7s Ac] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #213052560736:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 12:02:41 MSK [2020/05/01 5:02:41 ET]
+Table 'Comacina III' 6-max Seat #6 is the button
+Seat 1: Antonis54 ($1.26 in chips) 
+Seat 2: shindik1508 ($0.79 in chips) 
+Seat 4: jabodc ($3.65 in chips) 
+Seat 5: lawlex_2 ($0.34 in chips) 
+Seat 6: Under The FX ($2.54 in chips) 
+Antonis54: posts small blind $0.01
+shindik1508: posts big blind $0.02
+bxr23ps: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 3d]
+jabodc: folds 
+lawlex_2: folds 
+Under The FX: calls $0.02
+Antonis54: calls $0.01
+shindik1508: raises $0.04 to $0.06
+Under The FX: calls $0.04
+Antonis54: folds 
+*** FLOP *** [6h 7h Kd]
+shindik1508: bets $0.06
+Under The FX: raises $0.06 to $0.12
+shindik1508: calls $0.06
+*** TURN *** [6h 7h Kd] [4s]
+shindik1508: checks 
+Under The FX: bets $0.02
+shindik1508: calls $0.02
+*** RIVER *** [6h 7h Kd 4s] [Ah]
+shindik1508: checks 
+Under The FX: bets $0.02
+shindik1508: calls $0.02
+*** SHOW DOWN ***
+Under The FX: shows [Jd Qh] (high card Ace)
+shindik1508: shows [Tc Kh] (a pair of Kings)
+shindik1508 collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [6h 7h Kd 4s Ah]
+Seat 1: Antonis54 (small blind) folded before Flop
+Seat 2: shindik1508 (big blind) showed [Tc Kh] and won ($0.44) with a pair of Kings
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Under The FX (button) showed [Jd Qh] and lost with high card Ace
+
+
+
+PokerStars Hand #213052588928:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 12:03:25 MSK [2020/05/01 5:03:25 ET]
+Table 'Comacina III' 6-max Seat #1 is the button
+Seat 1: Antonis54 ($1.24 in chips) 
+Seat 2: shindik1508 ($1.01 in chips) 
+Seat 3: bxr23ps ($2 in chips) 
+Seat 4: jabodc ($3.65 in chips) 
+Seat 5: lawlex_2 ($0.34 in chips) 
+Seat 6: Under The FX ($2.32 in chips) 
+shindik1508: posts small blind $0.01
+bxr23ps: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Th]
+jabodc has timed out
+jabodc: folds 
+lawlex_2: folds 
+Under The FX: folds 
+Antonis54: folds 
+shindik1508: raises $0.04 to $0.06
+bxr23ps: folds 
+Uncalled bet ($0.04) returned to shindik1508
+shindik1508 collected $0.04 from pot
+shindik1508: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Antonis54 (button) folded before Flop (didn't bet)
+Seat 2: shindik1508 (small blind) collected ($0.04)
+Seat 3: bxr23ps (big blind) folded before Flop
+Seat 4: jabodc folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Under The FX folded before Flop (didn't bet)
+
+
+

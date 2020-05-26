@@ -1,0 +1,2680 @@
+﻿PokerStars Hand #212981595138:  Hold'em No Limit (50/100) - 2020/04/30 7:00:20 MSK [2020/04/30 0:00:20 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: craigo247 (18538 in chips) 
+Seat 2: zea97 (9700 in chips) 
+Seat 3: HyperDogR744 (32653 in chips) 
+Seat 4: BlondieSandy (13665 in chips) 
+Seat 6: lawlex_2 (22006 in chips) 
+lawlex_2: posts small blind 50
+craigo247: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 8h]
+zea97: folds 
+HyperDogR744: calls 100
+BlondieSandy: folds 
+lawlex_2: calls 50
+craigo247: raises 300 to 400
+HyperDogR744: calls 300
+lawlex_2: calls 300
+*** FLOP *** [Kd 7c 3h]
+lawlex_2: checks 
+craigo247: bets 1100
+HyperDogR744: folds 
+lawlex_2: folds 
+Uncalled bet (1100) returned to craigo247
+craigo247 collected 1134 from pot
+craigo247: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 66 
+Board [Kd 7c 3h]
+Seat 1: craigo247 (big blind) collected (1134)
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: HyperDogR744 folded on the Flop
+Seat 4: BlondieSandy (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #212981620687:  Hold'em No Limit (50/100) - 2020/04/30 7:01:04 MSK [2020/04/30 0:01:04 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 1: craigo247 (19272 in chips) 
+Seat 2: zea97 (9700 in chips) 
+Seat 3: HyperDogR744 (32253 in chips) 
+Seat 4: BlondieSandy (13665 in chips) 
+Seat 6: lawlex_2 (21606 in chips) 
+craigo247: posts small blind 50
+zea97: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Qs]
+HyperDogR744: calls 100
+BlondieSandy: calls 100
+lawlex_2: folds 
+craigo247: calls 50
+zea97: checks 
+*** FLOP *** [8s 6h 8h]
+craigo247: checks 
+zea97: bets 100
+HyperDogR744: calls 100
+BlondieSandy: raises 100 to 200
+craigo247: calls 200
+zea97: calls 100
+HyperDogR744: calls 100
+*** TURN *** [8s 6h 8h] [5h]
+craigo247: checks 
+zea97: checks 
+HyperDogR744: checks 
+BlondieSandy: bets 800
+craigo247: calls 800
+zea97: calls 800
+HyperDogR744: folds 
+*** RIVER *** [8s 6h 8h 5h] [9h]
+craigo247: checks 
+zea97: checks 
+BlondieSandy: bets 100
+craigo247: folds 
+zea97: calls 100
+*** SHOW DOWN ***
+BlondieSandy: shows [8c Ks] (three of a kind, Eights)
+zea97: shows [Kh 6c] (a flush, King high)
+zea97 collected 3591 from pot
+*** SUMMARY ***
+Total pot 3800 | Rake 209 
+Board [8s 6h 8h 5h 9h]
+Seat 1: craigo247 (small blind) folded on the River
+Seat 2: zea97 (big blind) showed [Kh 6c] and won (3591) with a flush, King high
+Seat 3: HyperDogR744 folded on the Turn
+Seat 4: BlondieSandy showed [8c Ks] and lost with three of a kind, Eights
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212981670798:  Hold'em No Limit (50/100) - 2020/04/30 7:02:40 MSK [2020/04/30 0:02:40 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #1 is the button
+Seat 1: craigo247 (18172 in chips) 
+Seat 2: zea97 (12091 in chips) 
+Seat 3: HyperDogR744 (31953 in chips) 
+Seat 4: BlondieSandy (12465 in chips) 
+Seat 5: Bashkircheg (10000 in chips) 
+Seat 6: lawlex_2 (21606 in chips) 
+zea97: posts small blind 50
+HyperDogR744: posts big blind 100
+Bashkircheg: posts small blind 50
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Th]
+BlondieSandy: folds 
+Bashkircheg: calls 100
+lawlex_2: calls 100
+craigo247: calls 100
+zea97: folds 
+HyperDogR744: checks 
+*** FLOP *** [Ts 7s Ah]
+HyperDogR744: checks 
+Bashkircheg: bets 100
+lawlex_2: calls 100
+craigo247: raises 100 to 200
+HyperDogR744: calls 200
+Bashkircheg: raises 100 to 300
+lawlex_2: calls 200
+craigo247: calls 100
+HyperDogR744: calls 100
+*** TURN *** [Ts 7s Ah] [6s]
+HyperDogR744: checks 
+Bashkircheg: bets 100
+lawlex_2: calls 100
+craigo247: folds 
+HyperDogR744: calls 100
+*** RIVER *** [Ts 7s Ah 6s] [6c]
+HyperDogR744: bets 1100
+Bashkircheg: calls 1100
+lawlex_2: folds 
+*** SHOW DOWN ***
+HyperDogR744: shows [7h 4s] (two pair, Sevens and Sixes)
+Bashkircheg: shows [Tc 5c] (two pair, Tens and Sixes)
+Bashkircheg collected 3969 from pot
+*** SUMMARY ***
+Total pot 4200 | Rake 231 
+Board [Ts 7s Ah 6s 6c]
+Seat 1: craigo247 (button) folded on the Turn
+Seat 2: zea97 (small blind) folded before Flop
+Seat 3: HyperDogR744 (big blind) showed [7h 4s] and lost with two pair, Sevens and Sixes
+Seat 4: BlondieSandy folded before Flop (didn't bet)
+Seat 5: Bashkircheg showed [Tc 5c] and won (3969) with two pair, Tens and Sixes
+Seat 6: lawlex_2 folded on the River
+
+
+
+PokerStars Hand #212981711571:  Hold'em No Limit (50/100) - 2020/04/30 7:04:16 MSK [2020/04/30 0:04:16 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #2 is the button
+Seat 1: craigo247 (17772 in chips) 
+Seat 2: zea97 (12041 in chips) 
+Seat 3: HyperDogR744 (30353 in chips) 
+Seat 4: BlondieSandy (12465 in chips) 
+Seat 5: Bashkircheg (12319 in chips) 
+Seat 6: lawlex_2 (21106 in chips) 
+HyperDogR744: posts small blind 50
+BlondieSandy: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Ts]
+Bashkircheg: calls 100
+lawlex_2: calls 100
+craigo247: calls 100
+zea97: folds 
+HyperDogR744: calls 50
+BlondieSandy: checks 
+*** FLOP *** [Kh 4h Kd]
+HyperDogR744: checks 
+BlondieSandy: bets 100
+Bashkircheg: folds 
+lawlex_2: folds 
+craigo247: folds 
+HyperDogR744: calls 100
+*** TURN *** [Kh 4h Kd] [2c]
+HyperDogR744: checks 
+BlondieSandy: bets 300
+HyperDogR744: calls 300
+*** RIVER *** [Kh 4h Kd 2c] [3h]
+HyperDogR744: checks 
+BlondieSandy: bets 100
+HyperDogR744: calls 100
+*** SHOW DOWN ***
+BlondieSandy: shows [Ah Kc] (three of a kind, Kings)
+HyperDogR744: shows [8s Ac] (a pair of Kings)
+BlondieSandy collected 1417 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 83 
+Board [Kh 4h Kd 2c 3h]
+Seat 1: craigo247 folded on the Flop
+Seat 2: zea97 (button) folded before Flop (didn't bet)
+Seat 3: HyperDogR744 (small blind) showed [8s Ac] and lost with a pair of Kings
+Seat 4: BlondieSandy (big blind) showed [Ah Kc] and won (1417) with three of a kind, Kings
+Seat 5: Bashkircheg folded on the Flop
+Seat 6: lawlex_2 folded on the Flop
+
+
+
+PokerStars Hand #212981736932:  Hold'em No Limit (50/100) - 2020/04/30 7:05:15 MSK [2020/04/30 0:05:15 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #3 is the button
+Seat 1: craigo247 (17672 in chips) 
+Seat 2: zea97 (12041 in chips) 
+Seat 3: HyperDogR744 (29753 in chips) 
+Seat 4: BlondieSandy (13282 in chips) 
+Seat 5: Bashkircheg (12219 in chips) 
+Seat 6: lawlex_2 (21006 in chips) 
+BlondieSandy: posts small blind 50
+Bashkircheg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 2d]
+lawlex_2: folds 
+craigo247: raises 200 to 300
+zea97: folds 
+HyperDogR744: calls 300
+BlondieSandy: calls 250
+Bashkircheg: calls 200
+*** FLOP *** [8c As Jd]
+BlondieSandy: checks 
+Bashkircheg: checks 
+craigo247: checks 
+HyperDogR744: bets 700
+BlondieSandy: folds 
+Bashkircheg: calls 700
+craigo247: raises 700 to 1400
+HyperDogR744: calls 700
+Bashkircheg: folds 
+*** TURN *** [8c As Jd] [4c]
+craigo247: bets 4400
+HyperDogR744: raises 23653 to 28053 and is all-in
+craigo247: calls 11572 and is all-in
+Uncalled bet (12081) returned to HyperDogR744
+*** RIVER *** [8c As Jd 4c] [7h]
+*** SHOW DOWN ***
+craigo247: shows [Qd Ac] (a pair of Aces)
+HyperDogR744: shows [9h Ad] (a pair of Aces - lower kicker)
+craigo247 collected 34629 from pot
+*** SUMMARY ***
+Total pot 36644 | Rake 2015 
+Board [8c As Jd 4c 7h]
+Seat 1: craigo247 showed [Qd Ac] and won (34629) with a pair of Aces
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: HyperDogR744 (button) showed [9h Ad] and lost with a pair of Aces
+Seat 4: BlondieSandy (small blind) folded on the Flop
+Seat 5: Bashkircheg (big blind) folded on the Flop
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212981767876:  Hold'em No Limit (50/100) - 2020/04/30 7:06:28 MSK [2020/04/30 0:06:28 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: craigo247 (34629 in chips) 
+Seat 2: zea97 (12041 in chips) 
+Seat 3: HyperDogR744 (12081 in chips) 
+Seat 4: BlondieSandy (12982 in chips) 
+Seat 5: Bashkircheg (11219 in chips) 
+Seat 6: lawlex_2 (21006 in chips) 
+Bashkircheg: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 5d]
+craigo247: calls 100
+zea97: calls 100
+HyperDogR744: calls 100
+BlondieSandy: calls 100
+Bashkircheg: raises 600 to 700
+lawlex_2: folds 
+craigo247: calls 600
+zea97: folds 
+HyperDogR744: calls 600
+BlondieSandy: folds 
+*** FLOP *** [As 8s Jd]
+Bashkircheg: bets 100
+craigo247: calls 100
+HyperDogR744: calls 100
+*** TURN *** [As 8s Jd] [9c]
+Bashkircheg: bets 2551
+craigo247: raises 2551 to 5102
+HyperDogR744: calls 5102
+Bashkircheg: calls 2551
+*** RIVER *** [As 8s Jd 9c] [Jc]
+Bashkircheg: bets 100
+craigo247: raises 28627 to 28727 and is all-in
+HyperDogR744: calls 6179 and is all-in
+Bashkircheg: calls 5217 and is all-in
+Uncalled bet (22548) returned to craigo247
+*** SHOW DOWN ***
+craigo247: shows [Td Qd] (a straight, Eight to Queen)
+HyperDogR744: shows [7s Th] (a straight, Seven to Jack)
+craigo247 collected 1630 from side pot
+Bashkircheg: shows [Ad 3d] (two pair, Aces and Jacks)
+craigo247 collected 32089 from main pot
+*** SUMMARY ***
+Total pot 35681 Main pot 32089. Side pot 1630. | Rake 1962 
+Board [As 8s Jd 9c Jc]
+Seat 1: craigo247 showed [Td Qd] and won (33719) with a straight, Eight to Queen
+Seat 2: zea97 folded before Flop
+Seat 3: HyperDogR744 showed [7s Th] and lost with a straight, Seven to Jack
+Seat 4: BlondieSandy (button) folded before Flop
+Seat 5: Bashkircheg (small blind) showed [Ad 3d] and lost with two pair, Aces and Jacks
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212981805348:  Hold'em No Limit (50/100) - 2020/04/30 7:07:56 MSK [2020/04/30 0:07:56 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 1: craigo247 (56267 in chips) 
+Seat 2: zea97 (11941 in chips) 
+Seat 3: HyperDogR744 (8500 in chips) 
+Seat 4: BlondieSandy (12882 in chips) 
+Seat 6: lawlex_2 (20906 in chips) 
+craigo247: posts small blind 50
+zea97: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c As]
+HyperDogR744: calls 100
+BlondieSandy: calls 100
+lawlex_2: raises 200 to 300
+craigo247: folds 
+zea97: folds 
+HyperDogR744: folds 
+BlondieSandy: calls 200
+*** FLOP *** [Jh Kd 2c]
+BlondieSandy: bets 100
+lawlex_2: calls 100
+*** TURN *** [Jh Kd 2c] [Tc]
+BlondieSandy: checks 
+lawlex_2: checks 
+*** RIVER *** [Jh Kd 2c Tc] [Js]
+BlondieSandy: bets 100
+lawlex_2: calls 100
+*** SHOW DOWN ***
+BlondieSandy: shows [3s Jd] (three of a kind, Jacks)
+lawlex_2: mucks hand 
+BlondieSandy collected 1181 from pot
+*** SUMMARY ***
+Total pot 1250 | Rake 69 
+Board [Jh Kd 2c Tc Js]
+Seat 1: craigo247 (small blind) folded before Flop
+Seat 2: zea97 (big blind) folded before Flop
+Seat 3: HyperDogR744 folded before Flop
+Seat 4: BlondieSandy showed [3s Jd] and won (1181) with three of a kind, Jacks
+Seat 6: lawlex_2 (button) mucked [8c As]
+
+
+
+PokerStars Hand #212981833232:  Hold'em No Limit (50/100) - 2020/04/30 7:09:02 MSK [2020/04/30 0:09:02 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #1 is the button
+Seat 1: craigo247 (56217 in chips) 
+Seat 2: zea97 (11841 in chips) 
+Seat 3: HyperDogR744 (8400 in chips) 
+Seat 4: BlondieSandy (13563 in chips) 
+Seat 5: Bashkircheg (9049 in chips) 
+Seat 6: lawlex_2 (20406 in chips) 
+zea97: posts small blind 50
+HyperDogR744: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 7c]
+BlondieSandy: calls 100
+Bashkircheg: calls 100
+lawlex_2: folds 
+craigo247: calls 100
+zea97: calls 50
+HyperDogR744: checks 
+*** FLOP *** [Ks 3d Kd]
+zea97: bets 100
+HyperDogR744: calls 100
+BlondieSandy: raises 100 to 200
+Bashkircheg: folds 
+craigo247: calls 200
+zea97: raises 100 to 300
+HyperDogR744: raises 100 to 400
+BlondieSandy: raises 100 to 500
+craigo247: calls 300
+zea97: calls 200
+HyperDogR744: raises 400 to 900
+BlondieSandy: raises 400 to 1300
+craigo247: folds 
+zea97: calls 800
+HyperDogR744: calls 400
+*** TURN *** [Ks 3d Kd] [Td]
+zea97: checks 
+HyperDogR744: checks 
+BlondieSandy: bets 100
+zea97: calls 100
+HyperDogR744: calls 100
+*** RIVER *** [Ks 3d Kd Td] [Kh]
+zea97: checks 
+HyperDogR744: bets 400
+BlondieSandy: raises 400 to 800
+zea97: calls 800
+HyperDogR744: raises 6100 to 6900 and is all-in
+BlondieSandy: raises 5163 to 12063 and is all-in
+zea97: folds 
+Uncalled bet (5163) returned to BlondieSandy
+*** SHOW DOWN ***
+BlondieSandy: shows [Kc 7d] (four of a kind, Kings)
+HyperDogR744: shows [8d 3s] (a full house, Kings full of Threes)
+BlondieSandy collected 18711 from pot
+*** SUMMARY ***
+Total pot 19800 | Rake 1089 
+Board [Ks 3d Kd Td Kh]
+Seat 1: craigo247 (button) folded on the Flop
+Seat 2: zea97 (small blind) folded on the River
+Seat 3: HyperDogR744 (big blind) showed [8d 3s] and lost with a full house, Kings full of Threes
+Seat 4: BlondieSandy showed [Kc 7d] and won (18711) with four of a kind, Kings
+Seat 5: Bashkircheg folded on the Flop
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212981889356:  Hold'em No Limit (50/100) - 2020/04/30 7:11:01 MSK [2020/04/30 0:11:01 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #2 is the button
+Seat 1: craigo247 (55617 in chips) 
+Seat 2: zea97 (9541 in chips) 
+Seat 3: HyperDogR744 (8500 in chips) 
+Seat 4: BlondieSandy (23874 in chips) 
+Seat 5: Bashkircheg (8949 in chips) 
+Seat 6: lawlex_2 (20406 in chips) 
+HyperDogR744: posts small blind 50
+BlondieSandy: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Td]
+Bashkircheg: calls 100
+lawlex_2: raises 200 to 300
+craigo247: calls 300
+zea97: folds 
+HyperDogR744: calls 250
+BlondieSandy: calls 200
+Bashkircheg: calls 200
+*** FLOP *** [Ah 5c 7s]
+HyperDogR744: checks 
+BlondieSandy: checks 
+Bashkircheg: bets 100
+lawlex_2: folds 
+craigo247: calls 100
+HyperDogR744: calls 100
+BlondieSandy: calls 100
+*** TURN *** [Ah 5c 7s] [9h]
+HyperDogR744: checks 
+BlondieSandy: checks 
+Bashkircheg: checks 
+craigo247: bets 100
+HyperDogR744: raises 1100 to 1200
+BlondieSandy: folds 
+Bashkircheg: folds 
+craigo247: calls 1100
+*** RIVER *** [Ah 5c 7s 9h] [6s]
+HyperDogR744: bets 600
+craigo247: raises 2600 to 3200
+Bashkircheg leaves the table
+HyperDogR744: raises 3700 to 6900 and is all-in
+craigo247: calls 3700
+*** SHOW DOWN ***
+HyperDogR744: shows [Kc Kh] (a pair of Kings)
+craigo247: shows [7d 8d] (a straight, Five to Nine)
+craigo247 collected 17104 from pot
+*** SUMMARY ***
+Total pot 18100 | Rake 996 
+Board [Ah 5c 7s 9h 6s]
+Seat 1: craigo247 showed [7d 8d] and won (17104) with a straight, Five to Nine
+Seat 2: zea97 (button) folded before Flop (didn't bet)
+Seat 3: HyperDogR744 (small blind) showed [Kc Kh] and lost with a pair of Kings
+Seat 4: BlondieSandy (big blind) folded on the Turn
+Seat 5: Bashkircheg folded on the Turn
+Seat 6: lawlex_2 folded on the Flop
+
+
+
+PokerStars Hand #212981929109:  Hold'em No Limit (50/100) - 2020/04/30 7:12:37 MSK [2020/04/30 0:12:37 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #3 is the button
+Seat 1: craigo247 (64221 in chips) 
+Seat 2: zea97 (9541 in chips) 
+Seat 3: HyperDogR744 (8500 in chips) 
+Seat 4: BlondieSandy (23474 in chips) 
+Seat 6: lawlex_2 (20106 in chips) 
+BlondieSandy: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 2s]
+craigo247: calls 100
+zea97: calls 100
+HyperDogR744: calls 100
+BlondieSandy: calls 50
+lawlex_2: checks 
+*** FLOP *** [8c 3d Qc]
+BlondieSandy: checks 
+lawlex_2: bets 472
+craigo247: calls 472
+zea97: folds 
+HyperDogR744: calls 472
+BlondieSandy: folds 
+*** TURN *** [8c 3d Qc] [7h]
+lawlex_2: checks 
+craigo247: checks 
+HyperDogR744: checks 
+*** RIVER *** [8c 3d Qc 7h] [4h]
+lawlex_2: checks 
+craigo247: checks 
+HyperDogR744: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Qd 2s] (a pair of Queens)
+craigo247: mucks hand 
+HyperDogR744: shows [Kd Ts] (high card King)
+lawlex_2 collected 1811 from pot
+*** SUMMARY ***
+Total pot 1916 | Rake 105 
+Board [8c 3d Qc 7h 4h]
+Seat 1: craigo247 mucked [8s Ks]
+Seat 2: zea97 folded on the Flop
+Seat 3: HyperDogR744 (button) showed [Kd Ts] and lost with high card King
+Seat 4: BlondieSandy (small blind) folded on the Flop
+Seat 6: lawlex_2 (big blind) showed [Qd 2s] and won (1811) with a pair of Queens
+
+
+
+PokerStars Hand #212981952645:  Hold'em No Limit (50/100) - 2020/04/30 7:13:33 MSK [2020/04/30 0:13:33 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: craigo247 (63649 in chips) 
+Seat 2: zea97 (9441 in chips) 
+Seat 3: HyperDogR744 (7928 in chips) 
+Seat 4: BlondieSandy (23374 in chips) 
+Seat 6: lawlex_2 (21345 in chips) 
+lawlex_2: posts small blind 50
+Patrick bio joins the table at seat #5 
+craigo247: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 3s]
+zea97: folds 
+HyperDogR744: calls 100
+BlondieSandy: calls 100
+lawlex_2: folds 
+craigo247: checks 
+*** FLOP *** [4d Jh 8d]
+craigo247: checks 
+HyperDogR744: checks 
+BlondieSandy: checks 
+*** TURN *** [4d Jh 8d] [Jd]
+craigo247: checks 
+HyperDogR744: checks 
+BlondieSandy: bets 500
+craigo247: folds 
+HyperDogR744: raises 7328 to 7828 and is all-in
+BlondieSandy: calls 7328
+*** RIVER *** [4d Jh 8d Jd] [Js]
+*** SHOW DOWN ***
+HyperDogR744: shows [9d 6d] (a flush, Jack high)
+BlondieSandy: shows [Td Ad] (a flush, Ace high)
+BlondieSandy collected 15126 from pot
+*** SUMMARY ***
+Total pot 16006 | Rake 880 
+Board [4d Jh 8d Jd Js]
+Seat 1: craigo247 (big blind) folded on the Turn
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: HyperDogR744 showed [9d 6d] and lost with a flush, Jack high
+Seat 4: BlondieSandy (button) showed [Td Ad] and won (15126) with a flush, Ace high
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #212981979950:  Hold'em No Limit (50/100) - 2020/04/30 7:14:38 MSK [2020/04/30 0:14:38 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 1: craigo247 (63549 in chips) 
+Seat 2: zea97 (9441 in chips) 
+Seat 3: HyperDogR744 (8500 in chips) 
+Seat 4: BlondieSandy (30572 in chips) 
+Seat 5: Patrick bio (4000 in chips) 
+Seat 6: lawlex_2 (21295 in chips) 
+craigo247: posts small blind 50
+zea97: posts big blind 100
+Patrick bio: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 7d]
+HyperDogR744: calls 100
+BlondieSandy: calls 100
+Patrick bio: checks 
+lawlex_2: folds 
+craigo247: folds 
+zea97: checks 
+*** FLOP *** [Jc 5h 8c]
+zea97: bets 100
+HyperDogR744: raises 800 to 900
+BlondieSandy: folds 
+Patrick bio: calls 900
+zea97: calls 800
+*** TURN *** [Jc 5h 8c] [6d]
+zea97: checks 
+HyperDogR744: checks 
+Patrick bio: checks 
+*** RIVER *** [Jc 5h 8c 6d] [7c]
+zea97: checks 
+HyperDogR744: checks 
+Patrick bio: bets 3000 and is all-in
+zea97: raises 5000 to 8000
+HyperDogR744: folds 
+Uncalled bet (5000) returned to zea97
+*** SHOW DOWN ***
+zea97: shows [Jh 3s] (a pair of Jacks)
+Patrick bio: shows [Ts 9c] (a straight, Seven to Jack)
+Patrick bio collected 8647 from pot
+*** SUMMARY ***
+Total pot 9150 | Rake 503 
+Board [Jc 5h 8c 6d 7c]
+Seat 1: craigo247 (small blind) folded before Flop
+Seat 2: zea97 (big blind) showed [Jh 3s] and lost with a pair of Jacks
+Seat 3: HyperDogR744 folded on the River
+Seat 4: BlondieSandy folded on the Flop
+Seat 5: Patrick bio showed [Ts 9c] and won (8647) with a straight, Seven to Jack
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982006383:  Hold'em No Limit (50/100) - 2020/04/30 7:15:42 MSK [2020/04/30 0:15:42 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #1 is the button
+Seat 1: craigo247 (63499 in chips) 
+Seat 2: zea97 (5441 in chips) 
+Seat 3: HyperDogR744 (7500 in chips) 
+Seat 4: BlondieSandy (30472 in chips) 
+Seat 5: Patrick bio (8647 in chips) 
+Seat 6: lawlex_2 (21295 in chips) 
+zea97: posts small blind 50
+HyperDogR744: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Js]
+BlondieSandy: calls 100
+Patrick bio: calls 100
+lawlex_2: raises 200 to 300
+craigo247: folds 
+zea97: folds 
+HyperDogR744 has timed out
+HyperDogR744: folds 
+BlondieSandy: calls 200
+Patrick bio: calls 200
+*** FLOP *** [8h Ks 8s]
+HyperDogR744 leaves the table
+BlondieSandy: checks 
+Patrick bio: checks 
+lawlex_2: bets 496
+BlondieSandy: folds 
+Patrick bio: folds 
+Uncalled bet (496) returned to lawlex_2
+lawlex_2 collected 992 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 1050 | Rake 58 
+Board [8h Ks 8s]
+Seat 1: craigo247 (button) folded before Flop (didn't bet)
+Seat 2: zea97 (small blind) folded before Flop
+Seat 3: HyperDogR744 (big blind) folded before Flop
+Seat 4: BlondieSandy folded on the Flop
+Seat 5: Patrick bio folded on the Flop
+Seat 6: lawlex_2 collected (992)
+
+
+
+PokerStars Hand #212982033222:  Hold'em No Limit (50/100) - 2020/04/30 7:16:47 MSK [2020/04/30 0:16:47 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #2 is the button
+Seat 1: craigo247 (63499 in chips) 
+Seat 2: zea97 (5391 in chips) 
+Seat 4: BlondieSandy (30172 in chips) 
+Seat 5: Patrick bio (8347 in chips) 
+Seat 6: lawlex_2 (21987 in chips) 
+BlondieSandy: posts small blind 50
+Patrick bio: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 4h]
+lawlex_2: folds 
+craigo247: folds 
+zea97: calls 100
+BlondieSandy: calls 50
+Patrick bio: raises 200 to 300
+CAIH10 joins the table at seat #3 
+zea97: calls 200
+BlondieSandy: calls 200
+*** FLOP *** [Td Ad 2d]
+BlondieSandy: checks 
+Patrick bio: bets 400
+zea97: folds 
+BlondieSandy: calls 400
+*** TURN *** [Td Ad 2d] [3h]
+BlondieSandy: checks 
+Patrick bio: bets 800
+BlondieSandy: calls 800
+*** RIVER *** [Td Ad 2d 3h] [Ac]
+BlondieSandy: checks 
+Patrick bio: checks 
+*** SHOW DOWN ***
+BlondieSandy: shows [4c Kd] (a pair of Aces)
+Patrick bio: mucks hand 
+BlondieSandy collected 3118 from pot
+*** SUMMARY ***
+Total pot 3300 | Rake 182 
+Board [Td Ad 2d 3h Ac]
+Seat 1: craigo247 folded before Flop (didn't bet)
+Seat 2: zea97 (button) folded on the Flop
+Seat 4: BlondieSandy (small blind) showed [4c Kd] and won (3118) with a pair of Aces
+Seat 5: Patrick bio (big blind) mucked [Jd Qh]
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982053621:  Hold'em No Limit (50/100) - 2020/04/30 7:17:37 MSK [2020/04/30 0:17:37 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: craigo247 (63499 in chips) 
+Seat 2: zea97 (5091 in chips) 
+Seat 3: CAIH10 (10000 in chips) 
+Seat 4: BlondieSandy (31790 in chips) 
+Seat 5: Patrick bio (6847 in chips) 
+Seat 6: lawlex_2 (21987 in chips) 
+Patrick bio: posts small blind 50
+lawlex_2: posts big blind 100
+CAIH10: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 6s]
+craigo247: calls 100
+zea97: folds 
+CAIH10 has timed out
+CAIH10: checks 
+BlondieSandy: calls 100
+Patrick bio: raises 300 to 400
+lawlex_2: folds 
+craigo247: raises 1100 to 1500
+CAIH10 has timed out
+CAIH10: folds 
+BlondieSandy: folds 
+Patrick bio: calls 1100
+*** FLOP *** [4h Kc Jh]
+Patrick bio: checks 
+craigo247: bets 3100
+Patrick bio: calls 3100
+*** TURN *** [4h Kc Jh] [2s]
+Patrick bio: checks 
+craigo247: bets 9000
+Patrick bio: calls 2247 and is all-in
+Uncalled bet (6753) returned to craigo247
+*** RIVER *** [4h Kc Jh 2s] [3h]
+*** SHOW DOWN ***
+Patrick bio: shows [9c 9h] (a pair of Nines)
+craigo247: shows [Qs Qc] (a pair of Queens)
+craigo247 collected 13224 from pot
+*** SUMMARY ***
+Total pot 13994 | Rake 770 
+Board [4h Kc Jh 2s 3h]
+Seat 1: craigo247 showed [Qs Qc] and won (13224) with a pair of Queens
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: CAIH10 folded before Flop (didn't bet)
+Seat 4: BlondieSandy (button) folded before Flop
+Seat 5: Patrick bio (small blind) showed [9c 9h] and lost with a pair of Nines
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212982094276:  Hold'em No Limit (50/100) - 2020/04/30 7:19:06 MSK [2020/04/30 0:19:06 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 1: craigo247 (69876 in chips) 
+Seat 2: zea97 (5091 in chips) 
+Seat 4: BlondieSandy (31690 in chips) 
+Seat 6: lawlex_2 (21887 in chips) 
+craigo247: posts small blind 50
+zea97: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 2d]
+BlondieSandy: calls 100
+Patrick bio leaves the table
+lawlex_2: folds 
+craigo247: calls 50
+zea97: checks 
+*** FLOP *** [Kc Jd 3h]
+craigo247: checks 
+zea97: checks 
+BlondieSandy: checks 
+*** TURN *** [Kc Jd 3h] [8c]
+craigo247: bets 100
+zea97: folds 
+BlondieSandy: calls 100
+*** RIVER *** [Kc Jd 3h 8c] [As]
+craigo247: checks 
+BlondieSandy: checks 
+*** SHOW DOWN ***
+craigo247: shows [3c 8h] (two pair, Eights and Threes)
+BlondieSandy: mucks hand 
+craigo247 collected 472 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 28 
+Board [Kc Jd 3h 8c As]
+Seat 1: craigo247 (small blind) showed [3c 8h] and won (472) with two pair, Eights and Threes
+Seat 2: zea97 (big blind) folded on the Turn
+Seat 4: BlondieSandy mucked [Qh 2s]
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982113072:  Hold'em No Limit (50/100) - 2020/04/30 7:19:52 MSK [2020/04/30 0:19:52 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #1 is the button
+Seat 1: craigo247 (70148 in chips) 
+Seat 2: zea97 (4991 in chips) 
+Seat 4: BlondieSandy (31490 in chips) 
+Seat 6: lawlex_2 (21887 in chips) 
+zea97: posts small blind 50
+BlondieSandy: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 4c]
+lawlex_2: raises 200 to 300
+craigo247: folds 
+zea97: folds 
+BlondieSandy: calls 200
+*** FLOP *** [Js Jd 5s]
+BlondieSandy: checks 
+lawlex_2: checks 
+*** TURN *** [Js Jd 5s] [Kd]
+BlondieSandy: checks 
+lawlex_2: checks 
+*** RIVER *** [Js Jd 5s Kd] [4s]
+BlondieSandy: bets 100
+lawlex_2: raises 814 to 914
+BlondieSandy: calls 814
+*** SHOW DOWN ***
+lawlex_2: shows [4h 4c] (a full house, Fours full of Jacks)
+svossi74 joins the table at seat #5 
+BlondieSandy: mucks hand 
+lawlex_2 collected 2342 from pot
+*** SUMMARY ***
+Total pot 2478 | Rake 136 
+Board [Js Jd 5s Kd 4s]
+Seat 1: craigo247 (button) folded before Flop (didn't bet)
+Seat 2: zea97 (small blind) folded before Flop
+Seat 4: BlondieSandy (big blind) mucked [Qs 9s]
+Seat 6: lawlex_2 showed [4h 4c] and won (2342) with a full house, Fours full of Jacks
+
+
+
+PokerStars Hand #212982133990:  Hold'em No Limit (50/100) - 2020/04/30 7:20:42 MSK [2020/04/30 0:20:42 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #2 is the button
+Seat 1: craigo247 (70148 in chips) 
+Seat 2: zea97 (4941 in chips) 
+Seat 4: BlondieSandy (30276 in chips) 
+Seat 5: svossi74 (10000 in chips) 
+Seat 6: lawlex_2 (23015 in chips) 
+BlondieSandy: posts small blind 50
+svossi74: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Ah]
+lawlex_2: raises 200 to 300
+craigo247: folds 
+zea97: calls 300
+BlondieSandy: calls 250
+svossi74: calls 200
+*** FLOP *** [Jc Kc Ad]
+BlondieSandy: checks 
+svossi74: checks 
+lawlex_2: bets 567
+zea97: calls 567
+BlondieSandy: folds 
+svossi74: folds 
+*** TURN *** [Jc Kc Ad] [Js]
+lawlex_2: bets 1103
+zea97: folds 
+Uncalled bet (1103) returned to lawlex_2
+lawlex_2 collected 2206 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 2334 | Rake 128 
+Board [Jc Kc Ad Js]
+Seat 1: craigo247 folded before Flop (didn't bet)
+Seat 2: zea97 (button) folded on the Turn
+Seat 4: BlondieSandy (small blind) folded on the Flop
+Seat 5: svossi74 (big blind) folded on the Flop
+Seat 6: lawlex_2 collected (2206)
+
+
+
+PokerStars Hand #212982152089:  Hold'em No Limit (50/100) - 2020/04/30 7:21:26 MSK [2020/04/30 0:21:26 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: craigo247 (70148 in chips) 
+Seat 2: zea97 (4074 in chips) 
+Seat 3: CAIH10 (9900 in chips) 
+Seat 4: BlondieSandy (29976 in chips) 
+Seat 5: svossi74 (9700 in chips) 
+Seat 6: lawlex_2 (24354 in chips) 
+svossi74: posts small blind 50
+lawlex_2: posts big blind 100
+CAIH10: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Qh]
+craigo247: raises 200 to 300
+zea97: folds 
+CAIH10 has timed out
+CAIH10: folds 
+BlondieSandy: folds 
+svossi74: calls 250
+lawlex_2: folds 
+*** FLOP *** [Th 4h 8c]
+svossi74: checks 
+craigo247: checks 
+*** TURN *** [Th 4h 8c] [9h]
+svossi74: checks 
+craigo247: bets 400
+svossi74: calls 400
+*** RIVER *** [Th 4h 8c 9h] [As]
+svossi74: checks 
+craigo247: checks 
+*** SHOW DOWN ***
+svossi74: shows [9d Qs] (a pair of Nines)
+craigo247: mucks hand 
+svossi74 collected 1559 from pot
+*** SUMMARY ***
+Total pot 1650 | Rake 91 
+Board [Th 4h 8c 9h As]
+Seat 1: craigo247 mucked [3d 3s]
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: CAIH10 folded before Flop (didn't bet)
+Seat 4: BlondieSandy (button) folded before Flop (didn't bet)
+Seat 5: svossi74 (small blind) showed [9d Qs] and won (1559) with a pair of Nines
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212982177827:  Hold'em No Limit (50/100) - 2020/04/30 7:22:29 MSK [2020/04/30 0:22:29 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #5 is the button
+Seat 1: craigo247 (69448 in chips) 
+Seat 2: zea97 (4074 in chips) 
+Seat 4: BlondieSandy (29976 in chips) 
+Seat 5: svossi74 (10559 in chips) 
+Seat 6: lawlex_2 (24254 in chips) 
+lawlex_2: posts small blind 50
+craigo247: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 8d]
+zea97: calls 100
+BlondieSandy: raises 100 to 200
+svossi74: raises 100 to 300
+lawlex_2: folds 
+craigo247: folds 
+zea97: calls 200
+BlondieSandy: raises 100 to 400
+svossi74: calls 100
+zea97: calls 100
+*** FLOP *** [7c 9h 5h]
+zea97: checks 
+BlondieSandy: bets 1200
+svossi74: calls 1200
+zea97: folds 
+*** TURN *** [7c 9h 5h] [Td]
+BlondieSandy: bets 400
+svossi74: calls 400
+*** RIVER *** [7c 9h 5h Td] [Th]
+BlondieSandy: bets 100
+svossi74: calls 100
+*** SHOW DOWN ***
+BlondieSandy: shows [As 9s] (two pair, Tens and Nines)
+svossi74: mucks hand 
+BlondieSandy collected 4489 from pot
+*** SUMMARY ***
+Total pot 4750 | Rake 261 
+Board [7c 9h 5h Td Th]
+Seat 1: craigo247 (big blind) folded before Flop
+Seat 2: zea97 folded on the Flop
+Seat 4: BlondieSandy showed [As 9s] and won (4489) with two pair, Tens and Nines
+Seat 5: svossi74 (button) mucked [Ad Jd]
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #212982202881:  Hold'em No Limit (50/100) - 2020/04/30 7:23:31 MSK [2020/04/30 0:23:31 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 1: craigo247 (69348 in chips) 
+Seat 2: zea97 (3674 in chips) 
+Seat 3: CAIH10 (9750 in chips) 
+Seat 4: BlondieSandy (32365 in chips) 
+Seat 5: svossi74 (8459 in chips) 
+Seat 6: lawlex_2 (24204 in chips) 
+craigo247: posts small blind 50
+zea97: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Qc]
+CAIH10: calls 100
+BlondieSandy: calls 100
+svossi74: folds 
+svossi74 leaves the table
+lawlex_2: raises 200 to 300
+craigo247: calls 250
+zea97: calls 200
+CAIH10: calls 200
+BlondieSandy: calls 200
+*** FLOP *** [Ad 2s Qh]
+craigo247: checks 
+zea97: checks 
+CAIH10: checks 
+BlondieSandy: checks 
+lawlex_2: bets 708
+Davpelosi joins the table at seat #5 
+craigo247: calls 708
+zea97: calls 708
+CAIH10: folds 
+BlondieSandy: folds 
+*** TURN *** [Ad 2s Qh] [9c]
+craigo247: checks 
+zea97: checks 
+lawlex_2: checks 
+*** RIVER *** [Ad 2s Qh 9c] [7h]
+craigo247: checks 
+zea97: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+craigo247: shows [Th Qd] (a pair of Queens)
+zea97: mucks hand 
+lawlex_2: shows [Kd Qc] (a pair of Queens - Ace+King kicker)
+lawlex_2 collected 3425 from pot
+*** SUMMARY ***
+Total pot 3624 | Rake 199 
+Board [Ad 2s Qh 9c 7h]
+Seat 1: craigo247 (small blind) showed [Th Qd] and lost with a pair of Queens
+Seat 2: zea97 (big blind) mucked [Jc Kc]
+Seat 3: CAIH10 folded on the Flop
+Seat 4: BlondieSandy folded on the Flop
+Seat 5: svossi74 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) showed [Kd Qc] and won (3425) with a pair of Queens
+
+
+
+PokerStars Hand #212982246251:  Hold'em No Limit (50/100) - 2020/04/30 7:24:56 MSK [2020/04/30 0:24:56 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #1 is the button
+Seat 1: craigo247 (68340 in chips) 
+Seat 2: zea97 (2666 in chips) 
+Seat 3: CAIH10 (9450 in chips) 
+Seat 4: BlondieSandy (32065 in chips) 
+Seat 5: Davpelosi (10000 in chips) 
+Seat 6: lawlex_2 (26621 in chips) 
+zea97: posts small blind 50
+CAIH10: posts big blind 100
+Davpelosi: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Js]
+BlondieSandy: calls 100
+Davpelosi: checks 
+lawlex_2: raises 200 to 300
+craigo247: calls 300
+zea97: folds 
+CAIH10: calls 200
+BlondieSandy: calls 200
+Davpelosi: folds 
+*** FLOP *** [9s Ks 4c]
+CAIH10: checks 
+BlondieSandy: checks 
+lawlex_2: checks 
+craigo247: bets 300
+CAIH10: folds 
+BlondieSandy: calls 300
+lawlex_2: calls 300
+*** TURN *** [9s Ks 4c] [2d]
+BlondieSandy: checks 
+lawlex_2: checks 
+craigo247: bets 2100
+BlondieSandy: folds 
+lawlex_2: folds 
+Uncalled bet (2100) returned to craigo247
+craigo247 collected 2126 from pot
+craigo247: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 124 
+Board [9s Ks 4c 2d]
+Seat 1: craigo247 (button) collected (2126)
+Seat 2: zea97 (small blind) folded before Flop
+Seat 3: CAIH10 (big blind) folded on the Flop
+Seat 4: BlondieSandy folded on the Turn
+Seat 5: Davpelosi folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded on the Turn
+
+
+
+PokerStars Hand #212982282249:  Hold'em No Limit (50/100) - 2020/04/30 7:26:11 MSK [2020/04/30 0:26:11 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #2 is the button
+Seat 1: craigo247 (69866 in chips) 
+Seat 2: zea97 (2616 in chips) 
+Seat 3: CAIH10 (9150 in chips) 
+Seat 4: BlondieSandy (31465 in chips) 
+Seat 5: Davpelosi (9900 in chips) 
+Seat 6: lawlex_2 (26021 in chips) 
+CAIH10: posts small blind 50
+BlondieSandy: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 6h]
+Davpelosi: calls 100
+lawlex_2: folds 
+craigo247: calls 100
+zea97: calls 100
+CAIH10: calls 50
+BlondieSandy: raises 100 to 200
+Davpelosi: calls 100
+craigo247: calls 100
+zea97: calls 100
+CAIH10: calls 100
+*** FLOP *** [Jd Qc 4h]
+CAIH10 has timed out
+CAIH10: checks 
+BlondieSandy: checks 
+Davpelosi: bets 200
+craigo247: calls 200
+zea97: folds 
+CAIH10: calls 200
+BlondieSandy: calls 200
+*** TURN *** [Jd Qc 4h] [Qh]
+CAIH10: checks 
+BlondieSandy: checks 
+Davpelosi: bets 300
+craigo247: calls 300
+CAIH10: calls 300
+BlondieSandy: calls 300
+*** RIVER *** [Jd Qc 4h Qh] [Jh]
+CAIH10: checks 
+BlondieSandy: checks 
+Davpelosi: bets 2835
+craigo247: folds 
+CAIH10: folds 
+BlondieSandy: calls 2835
+*** SHOW DOWN ***
+Davpelosi: shows [Qd 6c] (a full house, Queens full of Jacks)
+BlondieSandy: mucks hand 
+Davpelosi collected 8193 from pot
+*** SUMMARY ***
+Total pot 8670 | Rake 477 
+Board [Jd Qc 4h Qh Jh]
+Seat 1: craigo247 folded on the River
+Seat 2: zea97 (button) folded on the Flop
+Seat 3: CAIH10 (small blind) folded on the River
+Seat 4: BlondieSandy (big blind) mucked [Ad 5h]
+Seat 5: Davpelosi showed [Qd 6c] and won (8193) with a full house, Queens full of Jacks
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982341896:  Hold'em No Limit (50/100) - 2020/04/30 7:28:39 MSK [2020/04/30 0:28:39 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #3 is the button
+Seat 1: craigo247 (69166 in chips) 
+Seat 2: zea97 (2416 in chips) 
+Seat 3: CAIH10 (10000 in chips) 
+Seat 4: BlondieSandy (27930 in chips) 
+Seat 5: Davpelosi (14558 in chips) 
+Seat 6: lawlex_2 (26021 in chips) 
+BlondieSandy: posts small blind 50
+Davpelosi: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Jc]
+lawlex_2: folds 
+craigo247: folds 
+zea97: folds 
+CAIH10: calls 100
+BlondieSandy: raises 100 to 200
+Davpelosi: calls 100
+CAIH10: calls 100
+*** FLOP *** [6c Ad 9c]
+BlondieSandy: bets 100
+Davpelosi: calls 100
+CAIH10: raises 400 to 500
+BlondieSandy: calls 400
+Davpelosi: calls 400
+*** TURN *** [6c Ad 9c] [5c]
+BlondieSandy: bets 100
+Davpelosi: calls 100
+CAIH10: raises 2900 to 3000
+BlondieSandy: calls 2900
+Davpelosi: folds 
+*** RIVER *** [6c Ad 9c 5c] [4c]
+BlondieSandy has timed out
+BlondieSandy: checks 
+CAIH10: bets 6300 and is all-in
+BlondieSandy: calls 6300
+*** SHOW DOWN ***
+CAIH10: shows [3c 2c] (a straight flush, Deuce to Six)
+BlondieSandy: shows [Kc Kh] (a flush, King high)
+CAIH10 collected 19656 from pot
+*** SUMMARY ***
+Total pot 20800 | Rake 1144 
+Board [6c Ad 9c 5c 4c]
+Seat 1: craigo247 folded before Flop (didn't bet)
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: CAIH10 (button) showed [3c 2c] and won (19656) with a straight flush, Deuce to Six
+Seat 4: BlondieSandy (small blind) showed [Kc Kh] and lost with a flush, King high
+Seat 5: Davpelosi (big blind) folded on the Turn
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982383750:  Hold'em No Limit (50/100) - 2020/04/30 7:30:24 MSK [2020/04/30 0:30:24 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: craigo247 (69166 in chips) 
+Seat 2: zea97 (2416 in chips) 
+Seat 3: CAIH10 (19656 in chips) 
+Seat 4: BlondieSandy (17930 in chips) 
+Seat 5: Davpelosi (13758 in chips) 
+Seat 6: lawlex_2 (26021 in chips) 
+Davpelosi: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 3c]
+craigo247: calls 100
+zea97: calls 100
+CAIH10: calls 100
+BlondieSandy: raises 100 to 200
+Davpelosi: calls 150
+lawlex_2: folds 
+craigo247: calls 100
+zea97: calls 100
+CAIH10: calls 100
+*** FLOP *** [Qs 3s 6c]
+Davpelosi: checks 
+craigo247: checks 
+zea97: checks 
+CAIH10: checks 
+BlondieSandy: bets 100
+Davpelosi: calls 100
+craigo247: calls 100
+zea97: folds 
+CAIH10: folds 
+*** TURN *** [Qs 3s 6c] [5c]
+Davpelosi: checks 
+craigo247: checks 
+BlondieSandy: bets 100
+Davpelosi: calls 100
+craigo247: calls 100
+*** RIVER *** [Qs 3s 6c 5c] [4c]
+Davpelosi: bets 1606
+craigo247: folds 
+BlondieSandy: calls 1606
+*** SHOW DOWN ***
+Davpelosi: shows [Ac 2h] (a straight, Deuce to Six)
+BlondieSandy: shows [Jc Tc] (a flush, Jack high)
+BlondieSandy collected 4642 from pot
+*** SUMMARY ***
+Total pot 4912 | Rake 270 
+Board [Qs 3s 6c 5c 4c]
+Seat 1: craigo247 folded on the River
+Seat 2: zea97 folded on the Flop
+Seat 3: CAIH10 folded on the Flop
+Seat 4: BlondieSandy (button) showed [Jc Tc] and won (4642) with a flush, Jack high
+Seat 5: Davpelosi (small blind) showed [Ac 2h] and lost with a straight, Deuce to Six
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212982424681:  Hold'em No Limit (50/100) - 2020/04/30 7:32:07 MSK [2020/04/30 0:32:07 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #5 is the button
+Seat 1: craigo247 (68766 in chips) 
+Seat 2: zea97 (2216 in chips) 
+Seat 3: CAIH10 (19456 in chips) 
+Seat 4: BlondieSandy (20566 in chips) 
+Seat 5: Davpelosi (11752 in chips) 
+Seat 6: lawlex_2 (25921 in chips) 
+lawlex_2: posts small blind 50
+craigo247: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 5h]
+zea97: folds 
+CAIH10: calls 100
+BlondieSandy: raises 100 to 200
+Davpelosi: calls 200
+lawlex_2: folds 
+craigo247: raises 100 to 300
+CAIH10: calls 200
+BlondieSandy: raises 100 to 400
+Davpelosi: calls 200
+craigo247: calls 100
+CAIH10: calls 100
+*** FLOP *** [7h 7c 4d]
+craigo247: checks 
+CAIH10: checks 
+BlondieSandy: bets 100
+Davpelosi: folds 
+craigo247: calls 100
+CAIH10: folds 
+*** TURN *** [7h 7c 4d] [4c]
+craigo247: checks 
+BlondieSandy: bets 100
+craigo247: raises 100 to 200
+BlondieSandy: calls 100
+*** RIVER *** [7h 7c 4d 4c] [Qc]
+craigo247: checks 
+BlondieSandy: bets 100
+craigo247: calls 100
+*** SHOW DOWN ***
+BlondieSandy: shows [9c 9h] (two pair, Nines and Sevens)
+craigo247: mucks hand 
+BlondieSandy collected 2315 from pot
+*** SUMMARY ***
+Total pot 2450 | Rake 135 
+Board [7h 7c 4d 4c Qc]
+Seat 1: craigo247 (big blind) mucked [3d 3s]
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: CAIH10 folded on the Flop
+Seat 4: BlondieSandy showed [9c 9h] and won (2315) with two pair, Nines and Sevens
+Seat 5: Davpelosi (button) folded on the Flop
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #212982464642:  Hold'em No Limit (50/100) - 2020/04/30 7:33:49 MSK [2020/04/30 0:33:49 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 1: craigo247 (67966 in chips) 
+Seat 2: zea97 (2216 in chips) 
+Seat 3: CAIH10 (19056 in chips) 
+Seat 4: BlondieSandy (22081 in chips) 
+Seat 6: lawlex_2 (25871 in chips) 
+craigo247: posts small blind 50
+zea97: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 8s]
+CAIH10: calls 100
+BlondieSandy: calls 100
+lawlex_2: raises 200 to 300
+craigo247: calls 250
+zea97: folds 
+CAIH10: calls 200
+BlondieSandy: calls 200
+*** FLOP *** [Js 6d Th]
+craigo247: checks 
+CAIH10: checks 
+BlondieSandy: checks 
+lawlex_2: checks 
+*** TURN *** [Js 6d Th] [5c]
+craigo247: checks 
+CAIH10: checks 
+BlondieSandy: bets 100
+lawlex_2: calls 100
+craigo247: raises 800 to 900
+CAIH10: folds 
+BlondieSandy: folds 
+lawlex_2: folds 
+Uncalled bet (800) returned to craigo247
+craigo247 collected 1512 from pot
+craigo247: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 88 
+Board [Js 6d Th 5c]
+Seat 1: craigo247 (small blind) collected (1512)
+Seat 2: zea97 (big blind) folded before Flop
+Seat 3: CAIH10 folded on the Turn
+Seat 4: BlondieSandy folded on the Turn
+Seat 6: lawlex_2 (button) folded on the Turn
+
+
+
+PokerStars Hand #212982495980:  Hold'em No Limit (50/100) - 2020/04/30 7:35:09 MSK [2020/04/30 0:35:09 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #1 is the button
+Seat 1: craigo247 (69078 in chips) 
+Seat 2: zea97 (2116 in chips) 
+Seat 3: CAIH10 (18756 in chips) 
+Seat 4: BlondieSandy (21681 in chips) 
+Seat 6: lawlex_2 (25471 in chips) 
+zea97: posts small blind 50
+CAIH10: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 5c]
+BlondieSandy: calls 100
+lawlex_2: folds 
+craigo247: raises 350 to 450
+zea97: folds 
+CAIH10: calls 350
+BlondieSandy: calls 350
+*** FLOP *** [Td Th 4s]
+CAIH10: checks 
+BlondieSandy: checks 
+craigo247: bets 700
+CAIH10: raises 2100 to 2800
+BlondieSandy: folds 
+craigo247: raises 65828 to 68628 and is all-in
+CAIH10: calls 15506 and is all-in
+Uncalled bet (50322) returned to craigo247
+*** TURN *** [Td Th 4s] [7d]
+*** RIVER *** [Td Th 4s 7d] [Kc]
+*** SHOW DOWN ***
+CAIH10: shows [Ts 6d] (three of a kind, Tens)
+craigo247: shows [Jh Jd] (two pair, Jacks and Tens)
+CAIH10 collected 35921 from pot
+*** SUMMARY ***
+Total pot 38012 | Rake 2091 
+Board [Td Th 4s 7d Kc]
+Seat 1: craigo247 (button) showed [Jh Jd] and lost with two pair, Jacks and Tens
+Seat 2: zea97 (small blind) folded before Flop
+Seat 3: CAIH10 (big blind) showed [Ts 6d] and won (35921) with three of a kind, Tens
+Seat 4: BlondieSandy folded on the Flop
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982522617:  Hold'em No Limit (50/100) - 2020/04/30 7:36:18 MSK [2020/04/30 0:36:18 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #2 is the button
+Seat 1: craigo247 (50322 in chips) 
+Seat 2: zea97 (2066 in chips) 
+Seat 3: CAIH10 (35921 in chips) 
+Seat 4: BlondieSandy (21231 in chips) 
+Seat 6: lawlex_2 (25471 in chips) 
+CAIH10: posts small blind 50
+BlondieSandy: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Jh]
+lawlex_2: raises 200 to 300
+craigo247: folds 
+zea97: folds 
+CAIH10: calls 250
+BlondieSandy: calls 200
+*** FLOP *** [2s Ts 3c]
+CAIH10: checks 
+BlondieSandy: checks 
+lawlex_2: bets 425
+CAIH10: folds 
+BlondieSandy: folds 
+Uncalled bet (425) returned to lawlex_2
+lawlex_2 collected 850 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 50 
+Board [2s Ts 3c]
+Seat 1: craigo247 folded before Flop (didn't bet)
+Seat 2: zea97 (button) folded before Flop (didn't bet)
+Seat 3: CAIH10 (small blind) folded on the Flop
+Seat 4: BlondieSandy (big blind) folded on the Flop
+Seat 6: lawlex_2 collected (850)
+
+
+
+PokerStars Hand #212982536751:  Hold'em No Limit (50/100) - 2020/04/30 7:36:55 MSK [2020/04/30 0:36:55 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #3 is the button
+Seat 1: craigo247 (50322 in chips) 
+Seat 2: zea97 (2066 in chips) 
+Seat 3: CAIH10 (35621 in chips) 
+Seat 4: BlondieSandy (20931 in chips) 
+Seat 6: lawlex_2 (26021 in chips) 
+BlondieSandy: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 4h]
+craigo247: raises 100 to 200
+zea97 has timed out
+zea97: folds 
+CAIH10: calls 200
+BlondieSandy: calls 150
+lawlex_2: folds 
+*** FLOP *** [3c 3d Qs]
+BlondieSandy: checks 
+craigo247: checks 
+CAIH10: checks 
+*** TURN *** [3c 3d Qs] [8c]
+BlondieSandy: checks 
+craigo247: checks 
+CAIH10: bets 1800
+BlondieSandy: folds 
+craigo247: folds 
+Uncalled bet (1800) returned to CAIH10
+CAIH10 collected 661 from pot
+CAIH10: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 39 
+Board [3c 3d Qs 8c]
+Seat 1: craigo247 folded on the Turn
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: CAIH10 (button) collected (661)
+Seat 4: BlondieSandy (small blind) folded on the Turn
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212982562592:  Hold'em No Limit (50/100) - 2020/04/30 7:37:49 MSK [2020/04/30 0:37:49 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: craigo247 (50122 in chips) 
+Seat 3: CAIH10 (36082 in chips) 
+Seat 4: BlondieSandy (20731 in chips) 
+Seat 6: lawlex_2 (25921 in chips) 
+lawlex_2: posts small blind 50
+craigo247: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Kd]
+CAIH10: calls 100
+BlondieSandy: calls 100
+lawlex_2: raises 200 to 300
+craigo247: calls 200
+CAIH10: calls 200
+BlondieSandy: folds 
+*** FLOP *** [Ks 5d Ac]
+lawlex_2: checks 
+craigo247: checks 
+CAIH10: checks 
+*** TURN *** [Ks 5d Ac] [As]
+lawlex_2: bets 100
+craigo247: calls 100
+CAIH10: folds 
+*** RIVER *** [Ks 5d Ac As] [5h]
+lawlex_2: bets 300
+craigo247: raises 300 to 600
+lawlex_2: raises 2334 to 2934
+craigo247: calls 2334
+*** SHOW DOWN ***
+lawlex_2: shows [Ah Kd] (a full house, Aces full of Kings)
+craigo247: mucks hand 
+lawlex_2 collected 6679 from pot
+*** SUMMARY ***
+Total pot 7068 | Rake 389 
+Board [Ks 5d Ac As 5h]
+Seat 1: craigo247 (big blind) mucked [5c 6c]
+Seat 3: CAIH10 folded on the Turn
+Seat 4: BlondieSandy (button) folded before Flop
+Seat 6: lawlex_2 (small blind) showed [Ah Kd] and won (6679) with a full house, Aces full of Kings
+
+
+
+PokerStars Hand #212982593781:  Hold'em No Limit (50/100) - 2020/04/30 7:39:10 MSK [2020/04/30 0:39:10 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 1: craigo247 (46788 in chips) 
+Seat 3: CAIH10 (35782 in chips) 
+Seat 4: BlondieSandy (20631 in chips) 
+Seat 6: lawlex_2 (29266 in chips) 
+craigo247: posts small blind 50
+CAIH10: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 3s]
+BlondieSandy: calls 100
+lawlex_2: folds 
+craigo247: raises 200 to 300
+CAIH10: folds 
+BlondieSandy: calls 200
+*** FLOP *** [4d 6h 6d]
+craigo247: bets 300
+BlondieSandy: calls 300
+*** TURN *** [4d 6h 6d] [9c]
+craigo247: bets 600
+BlondieSandy: calls 600
+*** RIVER *** [4d 6h 6d 9c] [5d]
+craigo247: bets 1200
+BlondieSandy: calls 1200
+*** SHOW DOWN ***
+craigo247: shows [Qh Th] (a pair of Sixes)
+BlondieSandy: shows [7s 6s] (three of a kind, Sixes)
+BlondieSandy collected 4630 from pot
+*** SUMMARY ***
+Total pot 4900 | Rake 270 
+Board [4d 6h 6d 9c 5d]
+Seat 1: craigo247 (small blind) showed [Qh Th] and lost with a pair of Sixes
+Seat 3: CAIH10 (big blind) folded before Flop
+Seat 4: BlondieSandy showed [7s 6s] and won (4630) with three of a kind, Sixes
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982613880:  Hold'em No Limit (50/100) - 2020/04/30 7:40:01 MSK [2020/04/30 0:40:01 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #1 is the button
+Seat 1: craigo247 (44388 in chips) 
+Seat 3: CAIH10 (35682 in chips) 
+Seat 4: BlondieSandy (22861 in chips) 
+Seat 6: lawlex_2 (29266 in chips) 
+CAIH10: posts small blind 50
+BlondieSandy: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Ts]
+lawlex_2: raises 200 to 300
+craigo247: folds 
+craigo247 leaves the table
+CAIH10: calls 250
+BlondieSandy: calls 200
+*** FLOP *** [8h 7s 8c]
+CAIH10: checks 
+BlondieSandy: bets 100
+lawlex_2: folds 
+CAIH10: calls 100
+*** TURN *** [8h 7s 8c] [Jc]
+CAIH10: checks 
+BlondieSandy: bets 100
+Robnoluck joins the table at seat #1 
+CAIH10: calls 100
+*** RIVER *** [8h 7s 8c Jc] [Qs]
+CAIH10: checks 
+BlondieSandy: bets 100
+CAIH10: folds 
+Uncalled bet (100) returned to BlondieSandy
+BlondieSandy collected 1228 from pot
+BlondieSandy: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 72 
+Board [8h 7s 8c Jc Qs]
+Seat 1: craigo247 (button) folded before Flop (didn't bet)
+Seat 3: CAIH10 (small blind) folded on the River
+Seat 4: BlondieSandy (big blind) collected (1228)
+Seat 6: lawlex_2 folded on the Flop
+
+
+
+PokerStars Hand #212982633909:  Hold'em No Limit (50/100) - 2020/04/30 7:40:53 MSK [2020/04/30 0:40:53 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #3 is the button
+Seat 1: Robnoluck (10000 in chips) 
+Seat 3: CAIH10 (35182 in chips) 
+Seat 4: BlondieSandy (23589 in chips) 
+Seat 6: lawlex_2 (28966 in chips) 
+BlondieSandy: posts small blind 50
+lawlex_2: posts big blind 100
+Robnoluck: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 6h]
+Robnoluck: checks 
+CAIH10: calls 100
+BlondieSandy: calls 50
+lawlex_2: checks 
+*** FLOP *** [5h Jd 7c]
+BlondieSandy: checks 
+lawlex_2: checks 
+Robnoluck: checks 
+CAIH10: checks 
+*** TURN *** [5h Jd 7c] [9d]
+BlondieSandy: bets 100
+lawlex_2: calls 100
+Robnoluck: folds 
+CAIH10: folds 
+*** RIVER *** [5h Jd 7c 9d] [4h]
+BlondieSandy: bets 100
+lawlex_2: folds 
+Uncalled bet (100) returned to BlondieSandy
+BlondieSandy collected 567 from pot
+BlondieSandy: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 33 
+Board [5h Jd 7c 9d 4h]
+Seat 1: Robnoluck folded on the Turn (didn't bet)
+Seat 3: CAIH10 (button) folded on the Turn
+Seat 4: BlondieSandy (small blind) collected (567)
+Seat 6: lawlex_2 (big blind) folded on the River
+
+
+
+PokerStars Hand #212982651569:  Hold'em No Limit (50/100) - 2020/04/30 7:41:39 MSK [2020/04/30 0:41:39 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: Robnoluck (9900 in chips) 
+Seat 3: CAIH10 (35082 in chips) 
+Seat 4: BlondieSandy (23956 in chips) 
+Seat 6: lawlex_2 (28766 in chips) 
+lawlex_2: posts small blind 50
+Robnoluck: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 4d]
+CAIH10: folds 
+BlondieSandy: calls 100
+lawlex_2: calls 50
+Robnoluck: checks 
+*** FLOP *** [8s 7c 3d]
+lawlex_2: bets 100
+Robnoluck: calls 100
+BlondieSandy: calls 100
+*** TURN *** [8s 7c 3d] [Tc]
+lawlex_2: checks 
+Robnoluck: checks 
+BlondieSandy: checks 
+*** RIVER *** [8s 7c 3d Tc] [Qh]
+lawlex_2: checks 
+Robnoluck: bets 500
+BlondieSandy: folds 
+lawlex_2: folds 
+Uncalled bet (500) returned to Robnoluck
+Robnoluck collected 567 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 33 
+Board [8s 7c 3d Tc Qh]
+Seat 1: Robnoluck (big blind) collected (567)
+Seat 3: CAIH10 folded before Flop (didn't bet)
+Seat 4: BlondieSandy (button) folded on the River
+Seat 6: lawlex_2 (small blind) folded on the River
+
+
+
+PokerStars Hand #212982677206:  Hold'em No Limit (50/100) - 2020/04/30 7:42:47 MSK [2020/04/30 0:42:47 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 1: Robnoluck (10267 in chips) 
+Seat 2: zea97 (2066 in chips) 
+Seat 3: CAIH10 (35082 in chips) 
+Seat 4: BlondieSandy (23756 in chips) 
+Seat 6: lawlex_2 (28566 in chips) 
+Robnoluck: posts small blind 50
+zea97: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Qs]
+CAIH10: calls 100
+BlondieSandy: calls 100
+lawlex_2: folds 
+Robnoluck: calls 50
+zea97: checks 
+*** FLOP *** [5d 3s 4c]
+Robnoluck: bets 500
+zea97: folds 
+CAIH10: calls 500
+BlondieSandy: calls 500
+*** TURN *** [5d 3s 4c] [Kc]
+Robnoluck: bets 500
+CAIH10: folds 
+BlondieSandy: calls 500
+*** RIVER *** [5d 3s 4c Kc] [2h]
+Robnoluck: bets 800
+BlondieSandy: calls 800
+*** SHOW DOWN ***
+Robnoluck: shows [Ac 2s] (a straight, Ace to Five)
+BlondieSandy: mucks hand 
+Robnoluck collected 4252 from pot
+*** SUMMARY ***
+Total pot 4500 | Rake 248 
+Board [5d 3s 4c Kc 2h]
+Seat 1: Robnoluck (small blind) showed [Ac 2s] and won (4252) with a straight, Ace to Five
+Seat 2: zea97 (big blind) folded on the Flop
+Seat 3: CAIH10 folded on the Turn
+Seat 4: BlondieSandy mucked [Ks 7h]
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982706153:  Hold'em No Limit (50/100) - 2020/04/30 7:43:45 MSK [2020/04/30 0:43:45 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #1 is the button
+Seat 1: Robnoluck (12619 in chips) 
+Seat 2: zea97 (1966 in chips) 
+Seat 3: CAIH10 (34482 in chips) 
+Seat 4: BlondieSandy (21856 in chips) 
+Seat 6: lawlex_2 (28566 in chips) 
+zea97: posts small blind 50
+CAIH10: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 5c]
+BlondieSandy: calls 100
+lawlex_2: folds 
+Robnoluck: calls 100
+zea97: calls 50
+CAIH10: checks 
+*** FLOP *** [6h 6d Qh]
+zea97: checks 
+CAIH10 is disconnected 
+CAIH10 has timed out while being disconnected
+CAIH10: checks 
+BlondieSandy: checks 
+Robnoluck: checks 
+*** TURN *** [6h 6d Qh] [Th]
+zea97: bets 1866 and is all-in
+CAIH10 has timed out while disconnected
+CAIH10: folds 
+BlondieSandy: folds 
+Robnoluck: folds 
+Uncalled bet (1866) returned to zea97
+zea97 collected 378 from pot
+zea97: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 22 
+Board [6h 6d Qh Th]
+Seat 1: Robnoluck (button) folded on the Turn
+Seat 2: zea97 (small blind) collected (378)
+Seat 3: CAIH10 (big blind) folded on the Turn
+Seat 4: BlondieSandy folded on the Turn
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982741251:  Hold'em No Limit (50/100) - 2020/04/30 7:45:11 MSK [2020/04/30 0:45:11 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #2 is the button
+Seat 1: Robnoluck (12519 in chips) 
+Seat 2: zea97 (2244 in chips) 
+Seat 4: BlondieSandy (21756 in chips) 
+Seat 6: lawlex_2 (28566 in chips) 
+BlondieSandy: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Kh]
+Robnoluck: calls 100
+zea97: folds 
+BlondieSandy: calls 50
+lawlex_2: checks 
+*** FLOP *** [8s 4d 2s]
+BlondieSandy: checks 
+lawlex_2: checks 
+Robnoluck: checks 
+*** TURN *** [8s 4d 2s] [Jd]
+BlondieSandy: checks 
+lawlex_2: checks 
+Robnoluck: checks 
+*** RIVER *** [8s 4d 2s Jd] [Qc]
+BlondieSandy: checks 
+lawlex_2: checks 
+Robnoluck: checks 
+*** SHOW DOWN ***
+BlondieSandy: shows [3c As] (high card Ace)
+lawlex_2: mucks hand 
+Robnoluck: mucks hand 
+BlondieSandy collected 283 from pot
+Davpelosi was removed from the table for failing to post
+Davpelosi leaves the table
+*** SUMMARY ***
+Total pot 300 | Rake 17 
+Board [8s 4d 2s Jd Qc]
+Seat 1: Robnoluck mucked [6s Kc]
+Seat 2: zea97 (button) folded before Flop (didn't bet)
+Seat 4: BlondieSandy (small blind) showed [3c As] and won (283) with high card Ace
+Seat 6: lawlex_2 (big blind) mucked [5s Kh]
+
+
+
+PokerStars Hand #212982755268:  Hold'em No Limit (50/100) - 2020/04/30 7:45:48 MSK [2020/04/30 0:45:48 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: Robnoluck (12419 in chips) 
+Seat 2: zea97 (2244 in chips) 
+Seat 4: BlondieSandy (21939 in chips) 
+Seat 6: lawlex_2 (28466 in chips) 
+lawlex_2: posts small blind 50
+Robnoluck: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc As]
+zea97: folds 
+BlondieSandy: calls 100
+Hartwick1971 joins the table at seat #5 
+lawlex_2: raises 200 to 300
+Robnoluck: folds 
+CAIH10 is disconnected 
+BlondieSandy: calls 200
+*** FLOP *** [8s 3c 6c]
+lawlex_2: bets 330
+BlondieSandy: calls 330
+*** TURN *** [8s 3c 6c] [Ts]
+Robnoluck leaves the table
+lawlex_2: checks 
+BlondieSandy: checks 
+*** RIVER *** [8s 3c 6c Ts] [5h]
+part2883 joins the table at seat #1 
+lawlex_2: checks 
+BlondieSandy: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Tc As] (a pair of Tens)
+BlondieSandy: mucks hand 
+lawlex_2 collected 1285 from pot
+*** SUMMARY ***
+Total pot 1360 | Rake 75 
+Board [8s 3c 6c Ts 5h]
+Seat 1: Robnoluck (big blind) folded before Flop
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 4: BlondieSandy (button) mucked [Qs 2d]
+Seat 6: lawlex_2 (small blind) showed [Tc As] and won (1285) with a pair of Tens
+
+
+
+PokerStars Hand #212982776548:  Hold'em No Limit (50/100) - 2020/04/30 7:46:44 MSK [2020/04/30 0:46:44 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 2: zea97 (2244 in chips) 
+Seat 3: CAIH10 (34382 in chips) 
+Seat 4: BlondieSandy (21309 in chips) 
+Seat 5: Hartwick1971 (10000 in chips) 
+Seat 6: lawlex_2 (29121 in chips) 
+zea97: posts small blind 50
+CAIH10: posts big blind 100
+Hartwick1971: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 4c]
+BlondieSandy: calls 100
+Hartwick1971: checks 
+lawlex_2: folds 
+zea97: calls 50
+CAIH10: checks 
+*** FLOP *** [6s 7h 2h]
+zea97: checks 
+CAIH10: checks 
+BlondieSandy: bets 100
+Hartwick1971: folds 
+zea97: folds 
+CAIH10: folds 
+Uncalled bet (100) returned to BlondieSandy
+BlondieSandy collected 378 from pot
+BlondieSandy: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 22 
+Board [6s 7h 2h]
+Seat 2: zea97 (small blind) folded on the Flop
+Seat 3: CAIH10 (big blind) folded on the Flop
+Seat 4: BlondieSandy collected (378)
+Seat 5: Hartwick1971 folded on the Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982791557:  Hold'em No Limit (50/100) - 2020/04/30 7:47:24 MSK [2020/04/30 0:47:24 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #2 is the button
+Seat 1: part2883 (10000 in chips) 
+Seat 2: zea97 (2144 in chips) 
+Seat 3: CAIH10 (34282 in chips) 
+Seat 4: BlondieSandy (21587 in chips) 
+Seat 5: Hartwick1971 (9900 in chips) 
+Seat 6: lawlex_2 (29121 in chips) 
+CAIH10: posts small blind 50
+BlondieSandy: posts big blind 100
+part2883: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Qc]
+Hartwick1971: folds 
+lawlex_2: folds 
+part2883: checks 
+zea97: calls 100
+CAIH10: raises 100 to 200
+BlondieSandy: calls 100
+part2883: raises 100 to 300
+zea97: calls 200
+CAIH10: calls 100
+BlondieSandy: calls 100
+*** FLOP *** [7c Ts 3c]
+CAIH10: checks 
+BlondieSandy: checks 
+part2883: checks 
+zea97: checks 
+*** TURN *** [7c Ts 3c] [7h]
+CAIH10: checks 
+BlondieSandy: checks 
+part2883: checks 
+zea97: checks 
+*** RIVER *** [7c Ts 3c 7h] [3s]
+CAIH10: checks 
+BlondieSandy: checks 
+part2883: checks 
+zea97: checks 
+*** SHOW DOWN ***
+CAIH10: shows [As Ks] (two pair, Sevens and Threes)
+BlondieSandy: mucks hand 
+part2883: mucks hand 
+zea97: mucks hand 
+CAIH10 collected 1134 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 66 
+Board [7c Ts 3c 7h 3s]
+Seat 1: part2883 mucked [Qh 9d]
+Seat 2: zea97 (button) mucked [Jd 8h]
+Seat 3: CAIH10 (small blind) showed [As Ks] and won (1134) with two pair, Sevens and Threes
+Seat 4: BlondieSandy (big blind) mucked [5c 9s]
+Seat 5: Hartwick1971 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982829423:  Hold'em No Limit (50/100) - 2020/04/30 7:49:03 MSK [2020/04/30 0:49:03 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #3 is the button
+Seat 1: part2883 (9700 in chips) 
+Seat 2: zea97 (1844 in chips) 
+Seat 3: CAIH10 (35116 in chips) 
+Seat 4: BlondieSandy (21287 in chips) 
+Seat 5: Hartwick1971 (9900 in chips) 
+Seat 6: lawlex_2 (29121 in chips) 
+BlondieSandy: posts small blind 50
+Hartwick1971: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Qc]
+lawlex_2: folds 
+part2883: folds 
+zea97: calls 100
+CAIH10: calls 100
+BlondieSandy: calls 50
+Hartwick1971: checks 
+*** FLOP *** [9h Ks 6c]
+part2883 leaves the table
+BlondieSandy: checks 
+Hartwick1971: checks 
+zea97: bets 1744 and is all-in
+CAIH10: folds 
+BlondieSandy: folds 
+BooBoo_TX joins the table at seat #1 
+Hartwick1971: folds 
+Uncalled bet (1744) returned to zea97
+zea97 collected 378 from pot
+zea97: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 22 
+Board [9h Ks 6c]
+Seat 1: part2883 folded before Flop (didn't bet)
+Seat 2: zea97 collected (378)
+Seat 3: CAIH10 (button) folded on the Flop
+Seat 4: BlondieSandy (small blind) folded on the Flop
+Seat 5: Hartwick1971 (big blind) folded on the Flop
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982855834:  Hold'em No Limit (50/100) - 2020/04/30 7:50:02 MSK [2020/04/30 0:50:02 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 2: zea97 (2122 in chips) 
+Seat 3: CAIH10 (35016 in chips) 
+Seat 4: BlondieSandy (21187 in chips) 
+Seat 5: Hartwick1971 (9800 in chips) 
+Seat 6: lawlex_2 (29121 in chips) 
+Hartwick1971: posts small blind 50
+lawlex_2: posts big blind 100
+BooBoo_TX: is sitting out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Js]
+BooBoo_TX leaves the table
+zea97: calls 100
+CAIH10: calls 100
+BlondieSandy: calls 100
+Hartwick1971: calls 50
+lawlex_2: checks 
+*** FLOP *** [Tc 7h Jc]
+Hartwick1971: checks 
+lawlex_2: bets 100
+zea97: folds 
+CAIH10: calls 100
+BlondieSandy: folds 
+CAAC13 joins the table at seat #1 
+Hartwick1971: calls 100
+*** TURN *** [Tc 7h Jc] [Qh]
+Hartwick1971: checks 
+lawlex_2: bets 100
+CAIH10: calls 100
+Hartwick1971: calls 100
+*** RIVER *** [Tc 7h Jc Qh] [Ts]
+Hartwick1971: bets 500
+lawlex_2: folds 
+CAIH10: folds 
+Uncalled bet (500) returned to Hartwick1971
+Hartwick1971 collected 1039 from pot
+Hartwick1971: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 61 
+Board [Tc 7h Jc Qh Ts]
+Seat 2: zea97 folded on the Flop
+Seat 3: CAIH10 folded on the River
+Seat 4: BlondieSandy (button) folded on the Flop
+Seat 5: Hartwick1971 (small blind) collected (1039)
+Seat 6: lawlex_2 (big blind) folded on the River
+
+
+
+PokerStars Hand #212982880997:  Hold'em No Limit (50/100) - 2020/04/30 7:51:10 MSK [2020/04/30 0:51:10 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #5 is the button
+Seat 1: CAAC13 (10000 in chips) 
+Seat 2: zea97 (2022 in chips) 
+Seat 3: CAIH10 (34716 in chips) 
+Seat 4: BlondieSandy (21087 in chips) 
+Seat 5: Hartwick1971 (10539 in chips) 
+Seat 6: lawlex_2 (28821 in chips) 
+lawlex_2: posts small blind 50
+CAAC13: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 6s]
+zea97: calls 100
+CAIH10: calls 100
+BlondieSandy: raises 100 to 200
+Hartwick1971: calls 200
+lawlex_2: folds 
+CAAC13: calls 100
+zea97: calls 100
+CAIH10: calls 100
+*** FLOP *** [7h Jc Ad]
+CAAC13: bets 496
+zea97: raises 496 to 992
+CAIH10: folds 
+BlondieSandy: calls 992
+Hartwick1971: calls 992
+CAAC13: calls 496
+*** TURN *** [7h Jc Ad] [9c]
+CAAC13: checks 
+zea97: bets 830 and is all-in
+BlondieSandy: calls 830
+Hartwick1971: calls 830
+CAAC13: calls 830
+*** RIVER *** [7h Jc Ad 9c] [Qc]
+CAAC13: checks 
+BlondieSandy: bets 100
+Hartwick1971: calls 100
+CAAC13: calls 100
+*** SHOW DOWN ***
+BlondieSandy: shows [Kh Ks] (a pair of Kings)
+Hartwick1971: mucks hand 
+CAAC13: shows [As 6h] (a pair of Aces)
+CAAC13 collected 284 from side pot
+zea97: shows [Ah Js] (two pair, Aces and Jacks)
+zea97 collected 7879 from main pot
+*** SUMMARY ***
+Total pot 8638 Main pot 7879. Side pot 284. | Rake 475 
+Board [7h Jc Ad 9c Qc]
+Seat 1: CAAC13 (big blind) showed [As 6h] and won (284) with a pair of Aces
+Seat 2: zea97 showed [Ah Js] and won (7879) with two pair, Aces and Jacks
+Seat 3: CAIH10 folded on the Flop
+Seat 4: BlondieSandy showed [Kh Ks] and lost with a pair of Kings
+Seat 5: Hartwick1971 (button) mucked [8c 8d]
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #212982920317:  Hold'em No Limit (50/100) - 2020/04/30 7:52:55 MSK [2020/04/30 0:52:55 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 1: CAAC13 (8162 in chips) 
+Seat 2: zea97 (7879 in chips) 
+Seat 3: CAIH10 (34516 in chips) 
+Seat 4: BlondieSandy (18965 in chips) 
+Seat 5: Hartwick1971 (8417 in chips) 
+Seat 6: lawlex_2 (28771 in chips) 
+CAAC13: posts small blind 50
+zea97: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Kc]
+CAIH10: calls 100
+BlondieSandy: raises 100 to 200
+Hartwick1971: calls 200
+lawlex_2: folds 
+CAAC13: calls 150
+zea97: folds 
+CAIH10: calls 100
+*** FLOP *** [Ah 8c As]
+CAAC13: checks 
+CAIH10: checks 
+BlondieSandy: checks 
+Hartwick1971: checks 
+*** TURN *** [Ah 8c As] [5s]
+CAAC13: checks 
+CAIH10: checks 
+BlondieSandy: checks 
+Hartwick1971: checks 
+*** RIVER *** [Ah 8c As 5s] [Qs]
+CAAC13: bets 100
+CAIH10: folds 
+BlondieSandy: calls 100
+Hartwick1971: folds 
+*** SHOW DOWN ***
+CAAC13: shows [4c 5h] (two pair, Aces and Fives)
+BlondieSandy: mucks hand 
+CAAC13 collected 1039 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 61 
+Board [Ah 8c As 5s Qs]
+Seat 1: CAAC13 (small blind) showed [4c 5h] and won (1039) with two pair, Aces and Fives
+Seat 2: zea97 (big blind) folded before Flop
+Seat 3: CAIH10 folded on the River
+Seat 4: BlondieSandy mucked [3s Td]
+Seat 5: Hartwick1971 folded on the River
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212982941018:  Hold'em No Limit (50/100) - 2020/04/30 7:53:51 MSK [2020/04/30 0:53:51 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #1 is the button
+Seat 1: CAAC13 (8901 in chips) 
+Seat 2: zea97 (7779 in chips) 
+Seat 3: CAIH10 (34316 in chips) 
+Seat 4: BlondieSandy (18665 in chips) 
+Seat 5: Hartwick1971 (8217 in chips) 
+Seat 6: lawlex_2 (28771 in chips) 
+zea97: posts small blind 50
+CAIH10: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Ad]
+BlondieSandy: calls 100
+Hartwick1971: folds 
+lawlex_2: raises 200 to 300
+CAAC13: calls 300
+zea97: folds 
+CAIH10: calls 200
+BlondieSandy: calls 200
+*** FLOP *** [Jc 6s 9h]
+CAIH10: checks 
+BlondieSandy: checks 
+lawlex_2: bets 590
+CAAC13: calls 590
+CAIH10: folds 
+BlondieSandy: calls 590
+*** TURN *** [Jc 6s 9h] [Kh]
+BlondieSandy: checks 
+lawlex_2: checks 
+CAAC13: bets 100
+BlondieSandy: calls 100
+lawlex_2: calls 100
+*** RIVER *** [Jc 6s 9h Kh] [7c]
+BlondieSandy: checks 
+lawlex_2: checks 
+CAAC13: checks 
+*** SHOW DOWN ***
+BlondieSandy: shows [2c Ts] (high card King)
+lawlex_2: shows [Jd Ad] (a pair of Jacks)
+CAAC13: mucks hand 
+lawlex_2 collected 3137 from pot
+*** SUMMARY ***
+Total pot 3320 | Rake 183 
+Board [Jc 6s 9h Kh 7c]
+Seat 1: CAAC13 (button) mucked [9d 3h]
+Seat 2: zea97 (small blind) folded before Flop
+Seat 3: CAIH10 (big blind) folded on the Flop
+Seat 4: BlondieSandy showed [2c Ts] and lost with high card King
+Seat 5: Hartwick1971 folded before Flop (didn't bet)
+Seat 6: lawlex_2 showed [Jd Ad] and won (3137) with a pair of Jacks
+
+
+
+PokerStars Hand #212982977862:  Hold'em No Limit (50/100) - 2020/04/30 7:55:36 MSK [2020/04/30 0:55:36 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #2 is the button
+Seat 1: CAAC13 (7911 in chips) 
+Seat 2: zea97 (7729 in chips) 
+Seat 3: CAIH10 (34016 in chips) 
+Seat 4: BlondieSandy (17675 in chips) 
+Seat 5: Hartwick1971 (8217 in chips) 
+Seat 6: lawlex_2 (30918 in chips) 
+CAIH10: posts small blind 50
+BlondieSandy: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 7h]
+Hartwick1971: calls 100
+lawlex_2: raises 200 to 300
+CAAC13: calls 300
+zea97: folds 
+CAIH10: calls 250
+BlondieSandy: calls 200
+Hartwick1971: calls 200
+*** FLOP *** [5h 3c 3s]
+CAIH10: checks 
+BlondieSandy: checks 
+Hartwick1971: checks 
+lawlex_2: bets 100
+CAAC13: folds 
+CAIH10: calls 100
+BlondieSandy: calls 100
+Hartwick1971: folds 
+*** TURN *** [5h 3c 3s] [Qh]
+CAIH10: checks 
+BlondieSandy: bets 100
+lawlex_2: raises 950 to 1050
+CAIH10: folds 
+BlondieSandy: calls 950
+*** RIVER *** [5h 3c 3s Qh] [4h]
+BlondieSandy: checks 
+lawlex_2: bets 3685
+BlondieSandy: folds 
+Uncalled bet (3685) returned to lawlex_2
+lawlex_2 collected 3685 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 3900 | Rake 215 
+Board [5h 3c 3s Qh 4h]
+Seat 1: CAAC13 folded on the Flop
+Seat 2: zea97 (button) folded before Flop (didn't bet)
+Seat 3: CAIH10 (small blind) folded on the Turn
+Seat 4: BlondieSandy (big blind) folded on the River
+Seat 5: Hartwick1971 folded on the Flop
+Seat 6: lawlex_2 collected (3685)
+
+
+
+PokerStars Hand #212983004278:  Hold'em No Limit (50/100) - 2020/04/30 7:57:00 MSK [2020/04/30 0:57:00 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #3 is the button
+Seat 1: CAAC13 (7611 in chips) 
+Seat 2: zea97 (7729 in chips) 
+Seat 3: CAIH10 (33616 in chips) 
+Seat 4: BlondieSandy (16225 in chips) 
+Seat 5: Hartwick1971 (7917 in chips) 
+Seat 6: lawlex_2 (33153 in chips) 
+BlondieSandy: posts small blind 50
+Hartwick1971: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 5h]
+lawlex_2: folds 
+CAAC13: calls 100
+zea97: calls 100
+CAIH10: calls 100
+BlondieSandy: calls 50
+Hartwick1971: checks 
+*** FLOP *** [9s 7d 4s]
+BlondieSandy: checks 
+Hartwick1971: checks 
+CAAC13: checks 
+zea97: checks 
+CAIH10: checks 
+*** TURN *** [9s 7d 4s] [6c]
+BlondieSandy: bets 100
+Hartwick1971: calls 100
+CAAC13: folds 
+zea97: calls 100
+CAIH10: calls 100
+*** RIVER *** [9s 7d 4s 6c] [Kh]
+BlondieSandy: bets 100
+Hartwick1971: calls 100
+zea97: calls 100
+CAIH10: folds 
+*** SHOW DOWN ***
+BlondieSandy: shows [4h 6d] (two pair, Sixes and Fours)
+Hartwick1971: mucks hand 
+zea97: mucks hand 
+BlondieSandy collected 1134 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 66 
+Board [9s 7d 4s 6c Kh]
+Seat 1: CAAC13 folded on the Turn
+Seat 2: zea97 mucked [3h Ac]
+Seat 3: CAIH10 (button) folded on the River
+Seat 4: BlondieSandy (small blind) showed [4h 6d] and won (1134) with two pair, Sixes and Fours
+Seat 5: Hartwick1971 (big blind) mucked [7c As]
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212983035316:  Hold'em No Limit (50/100) - 2020/04/30 7:58:20 MSK [2020/04/30 0:58:20 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: CAAC13 (7511 in chips) 
+Seat 2: zea97 (7429 in chips) 
+Seat 3: CAIH10 (33416 in chips) 
+Seat 4: BlondieSandy (17059 in chips) 
+Seat 5: Hartwick1971 (7617 in chips) 
+Seat 6: lawlex_2 (33153 in chips) 
+Hartwick1971: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 3c]
+CAAC13: raises 100 to 200
+zea97: folds 
+CAIH10: calls 200
+BlondieSandy: calls 200
+Hartwick1971: calls 150
+lawlex_2: folds 
+*** FLOP *** [8d 5d Kh]
+Hartwick1971: checks 
+CAAC13: bets 200
+CAIH10: calls 200
+BlondieSandy: calls 200
+Hartwick1971: calls 200
+*** TURN *** [8d 5d Kh] [9d]
+Hartwick1971: checks 
+CAAC13: bets 200
+CAIH10: folds 
+BlondieSandy: calls 200
+Hartwick1971: folds 
+*** RIVER *** [8d 5d Kh 9d] [7s]
+CAAC13: bets 200
+BlondieSandy: folds 
+Uncalled bet (200) returned to CAAC13
+CAAC13 collected 1984 from pot
+CAAC13: doesn't show hand 
+*** SUMMARY ***
+Total pot 2100 | Rake 116 
+Board [8d 5d Kh 9d 7s]
+Seat 1: CAAC13 collected (1984)
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: CAIH10 folded on the Turn
+Seat 4: BlondieSandy (button) folded on the River
+Seat 5: Hartwick1971 (small blind) folded on the Turn
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212983065097:  Hold'em No Limit (50/100) - 2020/04/30 7:59:54 MSK [2020/04/30 0:59:54 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #5 is the button
+Seat 1: CAAC13 (8895 in chips) 
+Seat 2: zea97 (7429 in chips) 
+Seat 3: CAIH10 (33016 in chips) 
+Seat 4: BlondieSandy (16459 in chips) 
+Seat 5: Hartwick1971 (7217 in chips) 
+Seat 6: lawlex_2 (33053 in chips) 
+lawlex_2: posts small blind 50
+CAAC13: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 9h]
+zea97: calls 100
+CAIH10: raises 300 to 400
+BlondieSandy: calls 400
+Hartwick1971: calls 400
+lawlex_2: calls 350
+CAAC13: calls 300
+zea97: calls 300
+*** FLOP *** [Td 6s 9c]
+lawlex_2: bets 1134
+CAAC13: calls 1134
+zea97: calls 1134
+CAIH10: calls 1134
+BlondieSandy: folds 
+Hartwick1971: folds 
+*** TURN *** [Td 6s 9c] [8s]
+lawlex_2: checks 
+CAAC13: checks 
+zea97: checks 
+CAIH10: checks 
+*** RIVER *** [Td 6s 9c 8s] [7s]
+lawlex_2: checks 
+CAAC13: checks 
+zea97: checks 
+CAIH10: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [6h 9h] (a straight, Six to Ten)
+CAAC13: shows [Kh 8d] (a straight, Six to Ten)
+zea97: shows [Js Jh] (a straight, Seven to Jack)
+CAIH10: mucks hand 
+zea97 collected 6555 from pot
+*** SUMMARY ***
+Total pot 6936 | Rake 381 
+Board [Td 6s 9c 8s 7s]
+Seat 1: CAAC13 (big blind) showed [Kh 8d] and lost with a straight, Six to Ten
+Seat 2: zea97 showed [Js Jh] and won (6555) with a straight, Seven to Jack
+Seat 3: CAIH10 mucked [Qs Qc]
+Seat 4: BlondieSandy folded on the Flop
+Seat 5: Hartwick1971 (button) folded on the Flop
+Seat 6: lawlex_2 (small blind) showed [6h 9h] and lost with a straight, Six to Ten
+
+
+
+PokerStars Hand #212983096656:  Hold'em No Limit (50/100) - 2020/04/30 8:01:24 MSK [2020/04/30 1:01:24 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #6 is the button
+Seat 1: CAAC13 (7361 in chips) 
+Seat 2: zea97 (12450 in chips) 
+Seat 3: CAIH10 (31482 in chips) 
+Seat 4: BlondieSandy (16059 in chips) 
+Seat 5: Hartwick1971 (6817 in chips) 
+Seat 6: lawlex_2 (31519 in chips) 
+CAAC13: posts small blind 50
+zea97: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 6h]
+CAIH10: calls 100
+BlondieSandy: calls 100
+Hartwick1971: calls 100
+lawlex_2: folds 
+CAAC13: calls 50
+zea97: checks 
+*** FLOP *** [2c Jc Td]
+CAAC13: bets 236
+zea97: calls 236
+CAIH10: calls 236
+BlondieSandy: calls 236
+Hartwick1971: calls 236
+*** TURN *** [2c Jc Td] [9c]
+CAAC13: bets 1588
+zea97: folds 
+CAIH10: calls 1588
+BlondieSandy: calls 1588
+Hartwick1971: calls 1588
+*** RIVER *** [2c Jc Td 9c] [Qc]
+CAAC13: checks 
+CAIH10: bets 8000
+BlondieSandy: folds 
+Hartwick1971: calls 4893 and is all-in
+CAAC13: folds 
+Uncalled bet (3107) returned to CAIH10
+*** SHOW DOWN ***
+CAIH10: shows [Kc 2h] (a flush, King high)
+Hartwick1971: shows [Tc Kd] (a flush, Queen high)
+CAIH10 collected 16838 from pot
+*** SUMMARY ***
+Total pot 17818 | Rake 980 
+Board [2c Jc Td 9c Qc]
+Seat 1: CAAC13 (small blind) folded on the River
+Seat 2: zea97 (big blind) folded on the Turn
+Seat 3: CAIH10 showed [Kc 2h] and won (16838) with a flush, King high
+Seat 4: BlondieSandy folded on the River
+Seat 5: Hartwick1971 showed [Tc Kd] and lost with a flush, Queen high
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212983127220:  Hold'em No Limit (50/100) - 2020/04/30 8:02:49 MSK [2020/04/30 1:02:49 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #1 is the button
+Seat 1: CAAC13 (5437 in chips) 
+Seat 2: zea97 (12114 in chips) 
+Seat 3: CAIH10 (41503 in chips) 
+Seat 4: BlondieSandy (14135 in chips) 
+Seat 6: lawlex_2 (31519 in chips) 
+zea97: posts small blind 50
+CAIH10: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Jh]
+BlondieSandy: calls 100
+lawlex_2: raises 200 to 300
+CAAC13: calls 300
+zea97: folds 
+CAIH10: calls 200
+BlondieSandy: calls 200
+*** FLOP *** [3s 2h Kd]
+CAIH10: checks 
+BlondieSandy: checks 
+lawlex_2: checks 
+CAAC13: bets 590
+CAIH10: folds 
+BlondieSandy: folds 
+lawlex_2: folds 
+Uncalled bet (590) returned to CAAC13
+CAAC13 collected 1181 from pot
+CAAC13: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 69 
+Board [3s 2h Kd]
+Seat 1: CAAC13 (button) collected (1181)
+Seat 2: zea97 (small blind) folded before Flop
+Seat 3: CAIH10 (big blind) folded on the Flop
+Seat 4: BlondieSandy folded on the Flop
+Seat 6: lawlex_2 folded on the Flop
+
+
+
+PokerStars Hand #212983145472:  Hold'em No Limit (50/100) - 2020/04/30 8:03:39 MSK [2020/04/30 1:03:39 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #2 is the button
+Seat 1: CAAC13 (6318 in chips) 
+Seat 2: zea97 (12064 in chips) 
+Seat 3: CAIH10 (41203 in chips) 
+Seat 4: BlondieSandy (13835 in chips) 
+Seat 5: Hartwick1971 (10000 in chips) 
+Seat 6: lawlex_2 (31219 in chips) 
+CAIH10: posts small blind 50
+BlondieSandy: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 4s]
+Hartwick1971: calls 100
+lawlex_2: folds 
+CAAC13: calls 100
+zea97: folds 
+CAIH10: calls 50
+BlondieSandy: raises 100 to 200
+Hartwick1971: calls 100
+CAAC13: calls 100
+CAIH10: calls 100
+*** FLOP *** [Ah 7s 7h]
+CAIH10: bets 100
+BlondieSandy: raises 100 to 200
+Hartwick1971: raises 100 to 300
+CAAC13: calls 300
+CAIH10: calls 200
+BlondieSandy: raises 100 to 400
+Hartwick1971: calls 100
+CAAC13: calls 100
+CAIH10: calls 100
+*** TURN *** [Ah 7s 7h] [2s]
+CAIH10: checks 
+BlondieSandy: bets 400
+Hartwick1971: raises 400 to 800
+CAAC13: calls 800
+CAIH10: folds 
+BlondieSandy: calls 400
+*** RIVER *** [Ah 7s 7h 2s] [6h]
+BlondieSandy: bets 100
+Hartwick1971: raises 400 to 500
+CAAC13: calls 500
+BlondieSandy: calls 400
+*** SHOW DOWN ***
+Hartwick1971: shows [7d Qh] (three of a kind, Sevens)
+CAAC13: mucks hand 
+BlondieSandy: mucks hand 
+Hartwick1971 collected 5953 from pot
+*** SUMMARY ***
+Total pot 6300 | Rake 347 
+Board [Ah 7s 7h 2s 6h]
+Seat 1: CAAC13 mucked [Ac 5d]
+Seat 2: zea97 (button) folded before Flop (didn't bet)
+Seat 3: CAIH10 (small blind) folded on the Turn
+Seat 4: BlondieSandy (big blind) mucked [Kh As]
+Seat 5: Hartwick1971 showed [7d Qh] and won (5953) with three of a kind, Sevens
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212983191998:  Hold'em No Limit (50/100) - 2020/04/30 8:05:46 MSK [2020/04/30 1:05:46 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #3 is the button
+Seat 1: CAAC13 (4418 in chips) 
+Seat 2: zea97 (12064 in chips) 
+Seat 3: CAIH10 (40603 in chips) 
+Seat 4: BlondieSandy (11935 in chips) 
+Seat 5: Hartwick1971 (14053 in chips) 
+Seat 6: lawlex_2 (31219 in chips) 
+BlondieSandy: posts small blind 50
+Hartwick1971: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 6c]
+lawlex_2: folds 
+CAAC13: folds 
+zea97: folds 
+CAIH10: calls 100
+BlondieSandy: raises 100 to 200
+Hartwick1971: calls 100
+CAIH10: calls 100
+*** FLOP *** [4c Qh Kc]
+BlondieSandy: bets 100
+Hartwick1971: folds 
+CAIH10: calls 100
+*** TURN *** [4c Qh Kc] [Ah]
+BlondieSandy: bets 100
+CAIH10: calls 100
+*** RIVER *** [4c Qh Kc Ah] [8h]
+BlondieSandy: bets 100
+CAIH10: raises 1900 to 2000
+BlondieSandy: calls 1900
+*** SHOW DOWN ***
+CAIH10: shows [2h Jh] (a flush, Ace high)
+BlondieSandy: mucks hand 
+CAIH10 collected 4725 from pot
+*** SUMMARY ***
+Total pot 5000 | Rake 275 
+Board [4c Qh Kc Ah 8h]
+Seat 1: CAAC13 folded before Flop (didn't bet)
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: CAIH10 (button) showed [2h Jh] and won (4725) with a flush, Ace high
+Seat 4: BlondieSandy (small blind) mucked [As 4s]
+Seat 5: Hartwick1971 (big blind) folded on the Flop
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212983222334:  Hold'em No Limit (50/100) - 2020/04/30 8:06:53 MSK [2020/04/30 1:06:53 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #4 is the button
+Seat 1: CAAC13 (4418 in chips) 
+Seat 2: zea97 (12064 in chips) 
+Seat 3: CAIH10 (42928 in chips) 
+Seat 4: BlondieSandy (9535 in chips) 
+Seat 5: Hartwick1971 (13853 in chips) 
+Seat 6: lawlex_2 (31219 in chips) 
+Hartwick1971: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d As]
+CAAC13: calls 100
+zea97: calls 100
+CAIH10: calls 100
+BlondieSandy: calls 100
+Hartwick1971: calls 50
+lawlex_2: checks 
+*** FLOP *** [5c 4s Ks]
+Hartwick1971: checks 
+lawlex_2: checks 
+CAAC13: checks 
+zea97: checks 
+CAIH10: checks 
+BlondieSandy: bets 100
+Hartwick1971: folds 
+lawlex_2: calls 100
+CAAC13: calls 100
+zea97: calls 100
+CAIH10: calls 100
+*** TURN *** [5c 4s Ks] [4d]
+lawlex_2: bets 519
+CAAC13: calls 519
+zea97: folds 
+CAIH10: folds 
+BlondieSandy: calls 519
+*** RIVER *** [5c 4s Ks 4d] [4c]
+lawlex_2: checks 
+CAAC13: bets 100
+BlondieSandy: raises 2711 to 2811
+lawlex_2: folds 
+CAAC13: calls 2711
+*** SHOW DOWN ***
+BlondieSandy: shows [5s Kd] (a full house, Fours full of Kings)
+CAAC13: mucks hand 
+BlondieSandy collected 7824 from pot
+*** SUMMARY ***
+Total pot 8279 | Rake 455 
+Board [5c 4s Ks 4d 4c]
+Seat 1: CAAC13 mucked [6d 5h]
+Seat 2: zea97 folded on the Turn
+Seat 3: CAIH10 folded on the Turn
+Seat 4: BlondieSandy (button) showed [5s Kd] and won (7824) with a full house, Fours full of Kings
+Seat 5: Hartwick1971 (small blind) folded on the Flop
+Seat 6: lawlex_2 (big blind) folded on the River
+
+
+
+PokerStars Hand #212983269852:  Hold'em No Limit (50/100) - 2020/04/30 8:09:04 MSK [2020/04/30 1:09:04 ET]
+Table 'Caliban III' 6-max (Play Money) Seat #5 is the button
+Seat 1: CAAC13 (888 in chips) 
+Seat 2: zea97 (11864 in chips) 
+Seat 3: CAIH10 (42728 in chips) 
+Seat 4: BlondieSandy (13829 in chips) 
+Seat 5: Hartwick1971 (13753 in chips) 
+Seat 6: lawlex_2 (30500 in chips) 
+lawlex_2: posts small blind 50
+CAAC13: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 7h]
+zea97: folds 
+CAIH10: calls 100
+BlondieSandy: calls 100
+Hartwick1971: calls 100
+lawlex_2 has timed out
+lawlex_2: folds 
+CAAC13: checks 
+*** FLOP *** [3s 5d 9c]
+CAAC13: bets 788 and is all-in
+CAIH10: folds 
+BlondieSandy: calls 788
+Hartwick1971: folds 
+*** TURN *** [3s 5d 9c] [Qd]
+*** RIVER *** [3s 5d 9c Qd] [7c]
+*** SHOW DOWN ***
+CAAC13: shows [9s 3c] (two pair, Nines and Threes)
+BlondieSandy: shows [5h 2h] (a pair of Fives)
+CAAC13 collected 1915 from pot
+*** SUMMARY ***
+Total pot 2026 | Rake 111 
+Board [3s 5d 9c Qd 7c]
+Seat 1: CAAC13 (big blind) showed [9s 3c] and won (1915) with two pair, Nines and Threes
+Seat 2: zea97 folded before Flop (didn't bet)
+Seat 3: CAIH10 folded on the Flop
+Seat 4: BlondieSandy showed [5h 2h] and lost with a pair of Fives
+Seat 5: Hartwick1971 (button) folded on the Flop
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+

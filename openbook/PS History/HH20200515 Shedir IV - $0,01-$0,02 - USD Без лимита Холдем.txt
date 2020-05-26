@@ -1,0 +1,3480 @@
+﻿PokerStars Hand #213917595900:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:39:20 MSK [2020/05/15 14:39:20 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: CelineLafort ($1.29 in chips) 
+Seat 2: Jakobbrugsen ($1.02 in chips) 
+Seat 3: Biggi@1807 ($1.96 in chips) 
+Seat 4: cabeção 76 ($1.56 in chips) 
+Seat 5: lawlex_2 ($2 in chips) 
+Seat 6: HHprinz63 ($0.80 in chips) 
+cabeção 76: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+HHprinz63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s As]
+HHprinz63: checks 
+CelineLafort: calls $0.02
+Jakobbrugsen: calls $0.02
+Biggi@1807: calls $0.02
+cabeção 76: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+HHprinz63: folds 
+CelineLafort: calls $0.03
+Jakobbrugsen: calls $0.03
+Biggi@1807: calls $0.03
+cabeção 76: calls $0.03
+*** FLOP *** [6c Td 8h]
+cabeção 76: checks 
+lawlex_2: bets $0.17
+CelineLafort: folds 
+CelineLafort leaves the table
+Jakobbrugsen: calls $0.17
+Biggi@1807: folds 
+cabeção 76: folds 
+*** TURN *** [6c Td 8h] [Kh]
+cabeção 76 leaves the table
+Jon3sman joins the table at seat #1 
+kabinnet joins the table at seat #4 
+kabinnet leaves the table
+lawlex_2: checks 
+Jakobbrugsen: checks 
+*** RIVER *** [6c Td 8h Kh] [Kc]
+EkaterinaDes joins the table at seat #4 
+lawlex_2: checks 
+Jakobbrugsen: bets $0.80 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.80) returned to Jakobbrugsen
+Jakobbrugsen collected $0.59 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [6c Td 8h Kh Kc]
+Seat 1: CelineLafort folded on the Flop
+Seat 2: Jakobbrugsen collected ($0.59)
+Seat 3: Biggi@1807 (button) folded on the Flop
+Seat 4: cabeção 76 (small blind) folded on the Flop
+Seat 5: lawlex_2 (big blind) folded on the River
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213917702186:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:41:06 MSK [2020/05/15 14:41:06 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 2: Jakobbrugsen ($1.39 in chips) 
+Seat 3: Biggi@1807 ($1.91 in chips) 
+Seat 5: lawlex_2 ($1.78 in chips) 
+Seat 6: HHprinz63 ($0.78 in chips) 
+HHprinz63: posts small blind $0.01
+Jon3sman: posts big blind $0.02
+EkaterinaDes: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 8c]
+Jakobbrugsen: calls $0.02
+Biggi@1807: folds 
+lawlex_2: raises $0.03 to $0.05
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.03
+*** FLOP *** [9d 2h 5d]
+Jakobbrugsen: checks 
+lawlex_2: bets $0.09
+Jakobbrugsen: calls $0.09
+*** TURN *** [9d 2h 5d] [9s]
+Jakobbrugsen: bets $0.02
+lawlex_2: calls $0.02
+*** RIVER *** [9d 2h 5d 9s] [7d]
+Jakobbrugsen: bets $1.23 and is all-in
+lawlex_2: folds 
+Uncalled bet ($1.23) returned to Jakobbrugsen
+Jakobbrugsen collected $0.34 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9d 2h 5d 9s 7d]
+Seat 1: Jon3sman (big blind) folded before Flop
+Seat 2: Jakobbrugsen collected ($0.34)
+Seat 3: Biggi@1807 folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded on the River
+Seat 6: HHprinz63 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213917745601:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:41:49 MSK [2020/05/15 14:41:49 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 2: Jakobbrugsen ($1.57 in chips) 
+Seat 3: Biggi@1807 ($1.91 in chips) 
+Seat 4: EkaterinaDes ($2 in chips) 
+Seat 5: lawlex_2 ($1.62 in chips) 
+Seat 6: HHprinz63 ($0.77 in chips) 
+Jon3sman: posts small blind $0.01
+Jakobbrugsen: posts big blind $0.02
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 2c]
+Biggi@1807: folds 
+EkaterinaDes: checks 
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: checks 
+*** FLOP *** [3d Tc 9c]
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** TURN *** [3d Tc 9c] [3s]
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** RIVER *** [3d Tc 9c 3s] [6c]
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** SHOW DOWN ***
+Jakobbrugsen: shows [Qd 7c] (a pair of Threes)
+EkaterinaDes: shows [8s Ad] (a pair of Threes - Ace kicker)
+EkaterinaDes collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3d Tc 9c 3s 6c]
+Seat 1: Jon3sman (small blind) folded before Flop
+Seat 2: Jakobbrugsen (big blind) showed [Qd 7c] and lost with a pair of Threes
+Seat 3: Biggi@1807 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes showed [8s Ad] and won ($0.05) with a pair of Threes
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213917784726:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:42:28 MSK [2020/05/15 14:42:28 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 2: Jakobbrugsen ($1.55 in chips) 
+Seat 3: Biggi@1807 ($1.91 in chips) 
+Seat 4: EkaterinaDes ($2.03 in chips) 
+Seat 5: lawlex_2 ($1.62 in chips) 
+Seat 6: HHprinz63 ($0.77 in chips) 
+Jakobbrugsen: posts small blind $0.01
+Biggi@1807: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Ad]
+EkaterinaDes: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.04
+Biggi@1807: calls $0.03
+EkaterinaDes: calls $0.03
+*** FLOP *** [8s Td 4c]
+Jakobbrugsen: checks 
+Biggi@1807: checks 
+EkaterinaDes: checks 
+lawlex_2: bets $0.13
+Jakobbrugsen: calls $0.13
+Biggi@1807: folds 
+EkaterinaDes: calls $0.13
+*** TURN *** [8s Td 4c] [2h]
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+lawlex_2: checks 
+*** RIVER *** [8s Td 4c 2h] [Kc]
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Jakobbrugsen: shows [8c As] (a pair of Eights)
+EkaterinaDes: mucks hand 
+lawlex_2: mucks hand 
+Jakobbrugsen collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [8s Td 4c 2h Kc]
+Seat 1: Jon3sman (button) folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen (small blind) showed [8c As] and won ($0.57) with a pair of Eights
+Seat 3: Biggi@1807 (big blind) folded on the Flop
+Seat 4: EkaterinaDes mucked [7h 8d]
+Seat 5: lawlex_2 mucked [Qd Ad]
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213917841326:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:43:24 MSK [2020/05/15 14:43:24 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 2: Jakobbrugsen ($1.94 in chips) 
+Seat 3: Biggi@1807 ($1.86 in chips) 
+Seat 4: EkaterinaDes ($1.85 in chips) 
+Seat 5: lawlex_2 ($1.44 in chips) 
+Seat 6: HHprinz63 ($0.77 in chips) 
+Biggi@1807: posts small blind $0.01
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Qh]
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+Biggi@1807: raises $0.02 to $0.04
+EkaterinaDes: calls $0.02
+Jakobbrugsen: calls $0.02
+*** FLOP *** [Tc Jc 6d]
+Biggi@1807: checks 
+EkaterinaDes: checks 
+Jakobbrugsen: checks 
+*** TURN *** [Tc Jc 6d] [3c]
+Biggi@1807: bets $0.20
+EkaterinaDes: calls $0.20
+Jakobbrugsen: folds 
+*** RIVER *** [Tc Jc 6d 3c] [6s]
+Biggi@1807: bets $0.26
+EkaterinaDes: folds 
+Uncalled bet ($0.26) returned to Biggi@1807
+Biggi@1807 collected $0.50 from pot
+Biggi@1807: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Tc Jc 6d 3c 6s]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen (button) folded on the Turn
+Seat 3: Biggi@1807 (small blind) collected ($0.50)
+Seat 4: EkaterinaDes (big blind) folded on the River
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213917883532:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:44:06 MSK [2020/05/15 14:44:06 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 2: Jakobbrugsen ($1.90 in chips) 
+Seat 3: Biggi@1807 ($2.12 in chips) 
+Seat 4: EkaterinaDes ($1.61 in chips) 
+Seat 5: lawlex_2 ($1.44 in chips) 
+Seat 6: HHprinz63 ($0.77 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 8d]
+HHprinz63: calls $0.02
+Jon3sman: folds 
+Jakobbrugsen: raises $0.02 to $0.04
+Biggi@1807: folds 
+EkaterinaDes: folds 
+lawlex_2: folds 
+HHprinz63: calls $0.02
+*** FLOP *** [As Jd Td]
+HHprinz63: checks 
+Jakobbrugsen: checks 
+*** TURN *** [As Jd Td] [3s]
+HHprinz63: checks 
+Jakobbrugsen: checks 
+*** RIVER *** [As Jd Td 3s] [Js]
+HHprinz63: checks 
+Jakobbrugsen: checks 
+*** SHOW DOWN ***
+HHprinz63: shows [Th Qc] (two pair, Jacks and Tens)
+Jakobbrugsen: shows [Kh Ks] (two pair, Kings and Jacks)
+Jakobbrugsen collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [As Jd Td 3s Js]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen showed [Kh Ks] and won ($0.11) with two pair, Kings and Jacks
+Seat 3: Biggi@1807 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: HHprinz63 showed [Th Qc] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #213917914785:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:44:37 MSK [2020/05/15 14:44:37 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 2: Jakobbrugsen ($1.97 in chips) 
+Seat 3: Biggi@1807 ($2.12 in chips) 
+Seat 4: EkaterinaDes ($1.60 in chips) 
+Seat 5: lawlex_2 ($1.42 in chips) 
+Seat 6: HHprinz63 ($0.73 in chips) 
+lawlex_2: posts small blind $0.01
+HHprinz63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 9s]
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+Biggi@1807: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+HHprinz63: folds 
+Jakobbrugsen: calls $0.03
+EkaterinaDes: calls $0.03
+*** FLOP *** [6s 5s 3s]
+lawlex_2: bets $0.11
+Jakobbrugsen: calls $0.11
+EkaterinaDes: calls $0.11
+*** TURN *** [6s 5s 3s] [4c]
+lawlex_2: checks 
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** RIVER *** [6s 5s 3s 4c] [8c]
+lawlex_2: checks 
+Jakobbrugsen: bets $1.81 and is all-in
+EkaterinaDes: folds 
+lawlex_2: folds 
+Uncalled bet ($1.81) returned to Jakobbrugsen
+Jakobbrugsen collected $0.48 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [6s 5s 3s 4c 8c]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen collected ($0.48)
+Seat 3: Biggi@1807 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (button) folded on the River
+Seat 5: lawlex_2 (small blind) folded on the River
+Seat 6: HHprinz63 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213917966161:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:45:23 MSK [2020/05/15 14:45:23 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 2: Jakobbrugsen ($2.29 in chips) 
+Seat 3: Biggi@1807 ($2.12 in chips) 
+Seat 4: EkaterinaDes ($1.44 in chips) 
+Seat 5: lawlex_2 ($1.26 in chips) 
+Seat 6: HHprinz63 ($0.71 in chips) 
+HHprinz63: posts small blind $0.01
+Jon3sman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Kd]
+Jakobbrugsen: calls $0.02
+Biggi@1807: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: checks 
+*** FLOP *** [6d 2d 2s]
+Jon3sman: checks 
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** TURN *** [6d 2d 2s] [Td]
+Jon3sman: checks 
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** RIVER *** [6d 2d 2s Td] [Jc]
+Jon3sman: checks 
+Jakobbrugsen: bets $0.02
+EkaterinaDes: calls $0.02
+Jon3sman: calls $0.02
+*** SHOW DOWN ***
+Jakobbrugsen: shows [Th 5s] (two pair, Tens and Deuces)
+EkaterinaDes: mucks hand 
+Jon3sman: shows [3s Jd] (two pair, Jacks and Deuces)
+Jon3sman collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6d 2d 2s Td Jc]
+Seat 1: Jon3sman (big blind) showed [3s Jd] and won ($0.13) with two pair, Jacks and Deuces
+Seat 2: Jakobbrugsen showed [Th 5s] and lost with two pair, Tens and Deuces
+Seat 3: Biggi@1807 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes mucked [8h 8d]
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: HHprinz63 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213917995590:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:45:52 MSK [2020/05/15 14:45:52 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Jon3sman ($2.09 in chips) 
+Seat 2: Jakobbrugsen ($2.25 in chips) 
+Seat 3: Biggi@1807 ($2.12 in chips) 
+Seat 4: EkaterinaDes ($1.40 in chips) 
+Seat 5: lawlex_2 ($1.26 in chips) 
+Seat 6: HHprinz63 ($0.70 in chips) 
+Jon3sman: posts small blind $0.01
+Jakobbrugsen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Qh]
+Biggi@1807: calls $0.02
+EkaterinaDes: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.03
+Biggi@1807: calls $0.03
+EkaterinaDes: calls $0.03
+*** FLOP *** [Kh Jc 2d]
+Jakobbrugsen: checks 
+Biggi@1807: bets $0.08
+EkaterinaDes: calls $0.08
+lawlex_2: calls $0.08
+Jakobbrugsen: calls $0.08
+*** TURN *** [Kh Jc 2d] [Tc]
+Jakobbrugsen: checks 
+Biggi@1807: bets $0.18
+EkaterinaDes: folds 
+lawlex_2: calls $0.18
+Jakobbrugsen: calls $0.18
+*** RIVER *** [Kh Jc 2d Tc] [5c]
+Jakobbrugsen: checks 
+Biggi@1807: bets $0.40
+lawlex_2: calls $0.40
+Jakobbrugsen: folds 
+*** SHOW DOWN ***
+Biggi@1807: shows [Js Qs] (a pair of Jacks)
+lawlex_2: shows [Ah Qh] (a straight, Ten to Ace)
+lawlex_2 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.07 
+Board [Kh Jc 2d Tc 5c]
+Seat 1: Jon3sman (small blind) folded before Flop
+Seat 2: Jakobbrugsen (big blind) folded on the River
+Seat 3: Biggi@1807 showed [Js Qs] and lost with a pair of Jacks
+Seat 4: EkaterinaDes folded on the Turn
+Seat 5: lawlex_2 showed [Ah Qh] and won ($1.80) with a straight, Ten to Ace
+Seat 6: HHprinz63 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918064914:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:46:56 MSK [2020/05/15 14:46:56 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Jon3sman ($2.08 in chips) 
+Seat 2: Jakobbrugsen ($1.94 in chips) 
+Seat 3: Biggi@1807 ($1.41 in chips) 
+Seat 4: EkaterinaDes ($1.27 in chips) 
+Seat 5: lawlex_2 ($2.35 in chips) 
+Seat 6: HHprinz63 ($0.70 in chips) 
+Jakobbrugsen: posts small blind $0.01
+Biggi@1807: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 4s]
+EkaterinaDes: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: raises $0.05 to $0.10
+Biggi@1807: folds 
+EkaterinaDes: calls $0.08
+lawlex_2: folds 
+*** FLOP *** [3s Th 3c]
+Biggi@1807 leaves the table
+Jakobbrugsen: bets $0.04
+EkaterinaDes: calls $0.04
+*** TURN *** [3s Th 3c] [2h]
+Jakobbrugsen: bets $0.06
+EkaterinaDes: calls $0.06
+*** RIVER *** [3s Th 3c 2h] [As]
+Jakobbrugsen: bets $0.06
+EkaterinaDes: calls $0.06
+*** SHOW DOWN ***
+Jakobbrugsen: shows [Kc Ks] (two pair, Kings and Threes)
+EkaterinaDes: shows [Tc Ad] (two pair, Aces and Tens)
+EkaterinaDes collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [3s Th 3c 2h As]
+Seat 1: Jon3sman (button) folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen (small blind) showed [Kc Ks] and lost with two pair, Kings and Threes
+Seat 3: Biggi@1807 (big blind) folded before Flop
+Seat 4: EkaterinaDes showed [Tc Ad] and won ($0.57) with two pair, Aces and Tens
+Seat 5: lawlex_2 folded before Flop
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918102011:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:47:32 MSK [2020/05/15 14:47:32 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Jon3sman ($2.08 in chips) 
+Seat 2: Jakobbrugsen ($1.68 in chips) 
+Seat 4: EkaterinaDes ($1.58 in chips) 
+Seat 5: lawlex_2 ($2.30 in chips) 
+Seat 6: HHprinz63 ($0.70 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 4s]
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+EkaterinaDes: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [3h Jh Ad]
+EkaterinaDes: checks 
+lawlex_2: checks 
+Jakobbrugsen: bets $1.66 and is all-in
+EkaterinaDes: calls $1.56 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to Jakobbrugsen
+*** TURN *** [3h Jh Ad] [3c]
+*** RIVER *** [3h Jh Ad 3c] [4c]
+*** SHOW DOWN ***
+EkaterinaDes: shows [Ac Qd] (two pair, Aces and Threes)
+Jakobbrugsen: shows [Kc 9d] (a pair of Threes)
+EkaterinaDes cashed out the hand for $2.96 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.18 | Rake $0.11 
+Board [3h Jh Ad 3c 4c]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen (button) showed [Kc 9d] and lost with a pair of Threes
+Seat 4: EkaterinaDes (small blind) showed [Ac Qd] and won ($3.07) with two pair, Aces and Threes (pot not awarded as player cashed out)
+Seat 5: lawlex_2 (big blind) folded on the Flop
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918171548:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:48:41 MSK [2020/05/15 14:48:41 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 1: Jon3sman ($2.08 in chips) 
+Seat 2: Jakobbrugsen ($0.10 in chips) 
+Seat 4: EkaterinaDes ($2.96 in chips) 
+Seat 5: lawlex_2 ($2.28 in chips) 
+Seat 6: HHprinz63 ($0.70 in chips) 
+lawlex_2: posts small blind $0.01
+HHprinz63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 3c]
+Jon3sman: folds 
+Jakobbrugsen: raises $0.08 to $0.10 and is all-in
+EkaterinaDes: calls $0.10
+Evgenii99307 joins the table at seat #3 
+lawlex_2: folds 
+HHprinz63: folds 
+*** FLOP *** [5d 8d 2h]
+*** TURN *** [5d 8d 2h] [2d]
+*** RIVER *** [5d 8d 2h 2d] [Td]
+*** SHOW DOWN ***
+Jakobbrugsen: shows [Jc Qd] (a flush, Queen high)
+EkaterinaDes: shows [4d 3d] (a flush, Ten high)
+Jakobbrugsen collected $0.22 from pot
+EkaterinaDes cashed out the hand for $0.08
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [5d 8d 2h 2d Td]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen showed [Jc Qd] and won ($0.22) with a flush, Queen high
+Seat 4: EkaterinaDes (button) showed [4d 3d] and lost with a flush, Ten high (cashed out).
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: HHprinz63 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213918212045:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:49:21 MSK [2020/05/15 14:49:21 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Jon3sman ($2.08 in chips) 
+Seat 2: Jakobbrugsen ($0.22 in chips) 
+Seat 3: Evgenii99307 ($2 in chips) 
+Seat 4: EkaterinaDes ($2.94 in chips) 
+Seat 5: lawlex_2 ($2.27 in chips) 
+Seat 6: HHprinz63 ($0.68 in chips) 
+HHprinz63: posts small blind $0.01
+Jon3sman: posts big blind $0.02
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Kh]
+Jakobbrugsen: calls $0.02
+Evgenii99307: checks 
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+HHprinz63: calls $0.01
+Jon3sman: checks 
+*** FLOP *** [Kc 6s As]
+HHprinz63: bets $0.08
+Jon3sman: folds 
+Jakobbrugsen: calls $0.08
+Evgenii99307: calls $0.08
+EkaterinaDes: calls $0.08
+*** TURN *** [Kc 6s As] [2h]
+HHprinz63: checks 
+Jakobbrugsen: checks 
+Evgenii99307: checks 
+EkaterinaDes: checks 
+*** RIVER *** [Kc 6s As 2h] [8c]
+HHprinz63: checks 
+Jakobbrugsen: checks 
+Evgenii99307: checks 
+EkaterinaDes: checks 
+*** SHOW DOWN ***
+HHprinz63: shows [Ts Ks] (a pair of Kings)
+Jakobbrugsen: mucks hand 
+Evgenii99307: mucks hand 
+EkaterinaDes: mucks hand 
+HHprinz63 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Kc 6s As 2h 8c]
+Seat 1: Jon3sman (big blind) folded on the Flop
+Seat 2: Jakobbrugsen mucked [6h 7d]
+Seat 3: Evgenii99307 mucked [Qs 9s]
+Seat 4: EkaterinaDes mucked [Js 8s]
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: HHprinz63 (small blind) showed [Ts Ks] and won ($0.41) with a pair of Kings
+
+
+
+PokerStars Hand #213918272042:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:50:21 MSK [2020/05/15 14:50:21 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Jon3sman ($2.06 in chips) 
+Seat 2: Jakobbrugsen ($0.12 in chips) 
+Seat 3: Evgenii99307 ($1.90 in chips) 
+Seat 4: EkaterinaDes ($2.84 in chips) 
+Seat 5: lawlex_2 ($2.27 in chips) 
+Seat 6: HHprinz63 ($0.99 in chips) 
+Jon3sman: posts small blind $0.01
+Jakobbrugsen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Td]
+Evgenii99307: raises $0.06 to $0.08
+EkaterinaDes: calls $0.08
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.06
+*** FLOP *** [Qh 8c Qc]
+Jakobbrugsen: checks 
+Evgenii99307: bets $0.12
+EkaterinaDes: folds 
+Jakobbrugsen: folds 
+Uncalled bet ($0.12) returned to Evgenii99307
+Evgenii99307 collected $0.24 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qh 8c Qc]
+Seat 1: Jon3sman (small blind) folded before Flop
+Seat 2: Jakobbrugsen (big blind) folded on the Flop
+Seat 3: Evgenii99307 collected ($0.24)
+Seat 4: EkaterinaDes folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918302982:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:50:52 MSK [2020/05/15 14:50:52 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Jon3sman ($2.05 in chips) 
+Seat 2: Jakobbrugsen ($0.04 in chips) 
+Seat 3: Evgenii99307 ($2.06 in chips) 
+Seat 4: EkaterinaDes ($2.76 in chips) 
+Seat 5: lawlex_2 ($2.27 in chips) 
+Seat 6: HHprinz63 ($0.99 in chips) 
+Jakobbrugsen: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 3d]
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+HHprinz63: calls $0.02
+Jon3sman: folds 
+Jakobbrugsen: calls $0.01
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes: calls $0.04
+HHprinz63: raises $0.04 to $0.10
+Jakobbrugsen: calls $0.02 and is all-in
+Evgenii99307: calls $0.04
+EkaterinaDes: calls $0.04
+*** FLOP *** [4c 7c Th]
+Evgenii99307: bets $0.17
+EkaterinaDes: calls $0.17
+HHprinz63: folds 
+*** TURN *** [4c 7c Th] [9s]
+Evgenii99307: bets $0.08
+EkaterinaDes: folds 
+Uncalled bet ($0.08) returned to Evgenii99307
+*** RIVER *** [4c 7c Th 9s] [Ad]
+*** SHOW DOWN ***
+Evgenii99307: shows [Ts Jd] (a pair of Tens)
+Evgenii99307 collected $0.51 from side pot
+Jakobbrugsen: shows [2s 9d] (a pair of Nines)
+Evgenii99307 collected $0.15 from main pot
+*** SUMMARY ***
+Total pot $0.68 Main pot $0.15. Side pot $0.51. | Rake $0.02 
+Board [4c 7c Th 9s Ad]
+Seat 1: Jon3sman (button) folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen (small blind) showed [2s 9d] and lost with a pair of Nines
+Seat 3: Evgenii99307 (big blind) showed [Ts Jd] and won ($0.66) with a pair of Tens
+Seat 4: EkaterinaDes folded on the Turn
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 folded on the Flop
+
+
+
+PokerStars Hand #213918355080:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:51:43 MSK [2020/05/15 14:51:43 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Jon3sman ($2.05 in chips) 
+Seat 3: Evgenii99307 ($2.45 in chips) 
+Seat 4: EkaterinaDes ($2.49 in chips) 
+Seat 5: lawlex_2 ($2.27 in chips) 
+Seat 6: HHprinz63 ($0.89 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Kh]
+HHprinz63: folds 
+Jon3sman: raises $0.03 to $0.05
+Evgenii99307: folds 
+EkaterinaDes: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to Jon3sman
+Jon3sman collected $0.05 from pot
+Jon3sman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jon3sman collected ($0.05)
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918376992:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:52:05 MSK [2020/05/15 14:52:05 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 1: Jon3sman ($2.08 in chips) 
+Seat 2: Jakobbrugsen ($2 in chips) 
+Seat 3: Evgenii99307 ($2.45 in chips) 
+Seat 4: EkaterinaDes ($2.48 in chips) 
+Seat 5: lawlex_2 ($2.25 in chips) 
+Seat 6: HHprinz63 ($0.89 in chips) 
+lawlex_2: posts small blind $0.01
+HHprinz63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 3d]
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+HHprinz63: checks 
+*** FLOP *** [3c 5c Td]
+HHprinz63: checks 
+Jakobbrugsen: bets $0.02
+EkaterinaDes: folds 
+HHprinz63: folds 
+Uncalled bet ($0.02) returned to Jakobbrugsen
+Jakobbrugsen collected $0.07 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3c 5c Td]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen collected ($0.07)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (button) folded on the Flop
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: HHprinz63 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213918417461:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:52:44 MSK [2020/05/15 14:52:44 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Jon3sman ($2.08 in chips) 
+Seat 2: Jakobbrugsen ($2.05 in chips) 
+Seat 3: Evgenii99307 ($2.45 in chips) 
+Seat 4: EkaterinaDes ($2.46 in chips) 
+Seat 5: lawlex_2 ($2.24 in chips) 
+Seat 6: HHprinz63 ($0.87 in chips) 
+HHprinz63: posts small blind $0.01
+Jon3sman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Qc]
+Jakobbrugsen: calls $0.02
+Evgenii99307: folds 
+EkaterinaDes: folds 
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: checks 
+*** FLOP *** [2d Th 3c]
+Jon3sman: checks 
+Jakobbrugsen: checks 
+*** TURN *** [2d Th 3c] [Kh]
+Jon3sman: checks 
+Jakobbrugsen: checks 
+*** RIVER *** [2d Th 3c Kh] [Ad]
+Jon3sman: checks 
+Jakobbrugsen: bets $2.03 and is all-in
+Jon3sman: folds 
+Uncalled bet ($2.03) returned to Jakobbrugsen
+Jakobbrugsen collected $0.05 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2d Th 3c Kh Ad]
+Seat 1: Jon3sman (big blind) folded on the River
+Seat 2: Jakobbrugsen collected ($0.05)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: HHprinz63 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213918459164:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:53:25 MSK [2020/05/15 14:53:25 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Jon3sman ($2.06 in chips) 
+Seat 2: Jakobbrugsen ($2.08 in chips) 
+Seat 3: Evgenii99307 ($2.45 in chips) 
+Seat 4: EkaterinaDes ($2.46 in chips) 
+Seat 5: lawlex_2 ($2.24 in chips) 
+Seat 6: HHprinz63 ($0.86 in chips) 
+Jon3sman: posts small blind $0.01
+Jakobbrugsen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Qh]
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.03
+EkaterinaDes: calls $0.03
+*** FLOP *** [3d 4c Qs]
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+lawlex_2: bets $0.10
+Jakobbrugsen: calls $0.10
+EkaterinaDes: calls $0.10
+*** TURN *** [3d 4c Qs] [5h]
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+lawlex_2: checks 
+*** RIVER *** [3d 4c Qs 5h] [4s]
+Jakobbrugsen: bets $1.93 and is all-in
+EkaterinaDes: folds 
+lawlex_2: folds 
+Uncalled bet ($1.93) returned to Jakobbrugsen
+Jakobbrugsen collected $0.44 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [3d 4c Qs 5h 4s]
+Seat 1: Jon3sman (small blind) folded before Flop
+Seat 2: Jakobbrugsen (big blind) collected ($0.44)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes folded on the River
+Seat 5: lawlex_2 folded on the River
+Seat 6: HHprinz63 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918508798:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:54:13 MSK [2020/05/15 14:54:13 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Jon3sman ($2.05 in chips) 
+Seat 2: Jakobbrugsen ($2.37 in chips) 
+Seat 3: Evgenii99307 ($2.45 in chips) 
+Seat 4: EkaterinaDes ($2.31 in chips) 
+Seat 5: lawlex_2 ($2.09 in chips) 
+Seat 6: HHprinz63 ($0.86 in chips) 
+Jakobbrugsen: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 4d]
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.01
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes: calls $0.04
+Jakobbrugsen: calls $0.04
+*** FLOP *** [6d 9c 5d]
+Jakobbrugsen: checks 
+Evgenii99307: bets $0.06
+EkaterinaDes: calls $0.06
+Jakobbrugsen: calls $0.06
+*** TURN *** [6d 9c 5d] [Tc]
+Jakobbrugsen: bets $0.04
+Evgenii99307: calls $0.04
+EkaterinaDes: calls $0.04
+*** RIVER *** [6d 9c 5d Tc] [6c]
+Jakobbrugsen: bets $2.10
+Evgenii99307: folds 
+EkaterinaDes: folds 
+Uncalled bet ($2.10) returned to Jakobbrugsen
+Jakobbrugsen collected $0.46 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [6d 9c 5d Tc 6c]
+Seat 1: Jon3sman (button) folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen (small blind) collected ($0.46)
+Seat 3: Evgenii99307 (big blind) folded on the River
+Seat 4: EkaterinaDes folded on the River
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918561896:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:55:06 MSK [2020/05/15 14:55:06 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Jon3sman ($2.05 in chips) 
+Seat 2: Jakobbrugsen ($2.67 in chips) 
+Seat 3: Evgenii99307 ($2.29 in chips) 
+Seat 4: EkaterinaDes ($2.15 in chips) 
+Seat 5: lawlex_2 ($2.09 in chips) 
+Seat 6: HHprinz63 ($0.86 in chips) 
+Evgenii99307: posts small blind $0.01
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Jd]
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+Evgenii99307: calls $0.01
+EkaterinaDes: checks 
+*** FLOP *** [2d 6c Qh]
+Evgenii99307: checks 
+EkaterinaDes: bets $0.02
+Jakobbrugsen: calls $0.02
+Evgenii99307: folds 
+*** TURN *** [2d 6c Qh] [4h]
+EkaterinaDes: bets $0.02
+Jakobbrugsen: calls $0.02
+*** RIVER *** [2d 6c Qh 4h] [4s]
+EkaterinaDes: bets $0.02
+Jakobbrugsen: raises $0.04 to $0.06
+EkaterinaDes: calls $0.04
+*** SHOW DOWN ***
+Jakobbrugsen: shows [3s 4c] (three of a kind, Fours)
+EkaterinaDes: mucks hand 
+Jakobbrugsen collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [2d 6c Qh 4h 4s]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen (button) showed [3s 4c] and won ($0.25) with three of a kind, Fours
+Seat 3: Evgenii99307 (small blind) folded on the Flop
+Seat 4: EkaterinaDes (big blind) mucked [Qd Jh]
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918581877:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:55:35 MSK [2020/05/15 14:55:35 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Jon3sman ($2.05 in chips) 
+Seat 2: Jakobbrugsen ($2.80 in chips) 
+Seat 3: Evgenii99307 ($2.27 in chips) 
+Seat 4: EkaterinaDes ($2.03 in chips) 
+Seat 5: lawlex_2 ($2.09 in chips) 
+Seat 6: HHprinz63 ($0.86 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Qh]
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+Evgenii99307: folds 
+EkaterinaDes: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [7d 2d Qs]
+EkaterinaDes: checks 
+lawlex_2: bets $0.04
+Jakobbrugsen: calls $0.04
+EkaterinaDes: folds 
+*** TURN *** [7d 2d Qs] [7c]
+lawlex_2: bets $0.09
+Jakobbrugsen: calls $0.09
+*** RIVER *** [7d 2d Qs 7c] [Qc]
+lawlex_2: bets $0.20
+Jakobbrugsen: folds 
+Uncalled bet ($0.20) returned to lawlex_2
+lawlex_2 collected $0.31 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [7d 2d Qs 7c Qc]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen folded on the River
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) folded on the Flop
+Seat 5: lawlex_2 (big blind) collected ($0.31)
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918610119:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:56:17 MSK [2020/05/15 14:56:17 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 1: Jon3sman ($2.05 in chips) 
+Seat 2: Jakobbrugsen ($2.65 in chips) 
+Seat 3: Evgenii99307 ($2.27 in chips) 
+Seat 4: EkaterinaDes ($2.01 in chips) 
+Seat 5: lawlex_2 ($2.25 in chips) 
+Seat 6: HHprinz63 ($0.86 in chips) 
+lawlex_2: posts small blind $0.01
+HHprinz63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Th]
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+HHprinz63: checks 
+*** FLOP *** [4h 5c Qd]
+Jakobbrugsen said, "nh"
+HHprinz63: checks 
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** TURN *** [4h 5c Qd] [8s]
+HHprinz63: bets $0.05
+Jakobbrugsen: calls $0.05
+EkaterinaDes: calls $0.05
+*** RIVER *** [4h 5c Qd 8s] [7d]
+HHprinz63: checks 
+Jakobbrugsen: bets $0.10
+EkaterinaDes: calls $0.10
+HHprinz63: folds 
+*** SHOW DOWN ***
+Jakobbrugsen: shows [6c 4s] (a straight, Four to Eight)
+EkaterinaDes: shows [6h 5s] (a straight, Four to Eight)
+Jakobbrugsen collected $0.21 from pot
+EkaterinaDes collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [4h 5c Qd 8s 7d]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen showed [6c 4s] and won ($0.21) with a straight, Four to Eight
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (button) showed [6h 5s] and won ($0.20) with a straight, Four to Eight
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: HHprinz63 (big blind) folded on the River
+
+
+
+PokerStars Hand #213918642182:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:57:02 MSK [2020/05/15 14:57:02 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Jon3sman ($2.05 in chips) 
+Seat 2: Jakobbrugsen ($2.69 in chips) 
+Seat 3: Evgenii99307 ($2.27 in chips) 
+Seat 4: EkaterinaDes ($2.04 in chips) 
+Seat 5: lawlex_2 ($2.24 in chips) 
+Seat 6: HHprinz63 ($0.79 in chips) 
+HHprinz63: posts small blind $0.01
+Jon3sman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 6h]
+Jakobbrugsen: calls $0.02
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: checks 
+*** FLOP *** [9c Kd 8s]
+Jon3sman: checks 
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** TURN *** [9c Kd 8s] [2h]
+Jon3sman: checks 
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** RIVER *** [9c Kd 8s 2h] [Td]
+Jon3sman: checks 
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** SHOW DOWN ***
+Jon3sman: shows [2s Th] (two pair, Tens and Deuces)
+Jakobbrugsen: mucks hand 
+EkaterinaDes: mucks hand 
+Jon3sman collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [9c Kd 8s 2h Td]
+Seat 1: Jon3sman (big blind) showed [2s Th] and won ($0.07) with two pair, Tens and Deuces
+Seat 2: Jakobbrugsen mucked [2c 7s]
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes mucked [Qs 8h]
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: HHprinz63 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213918657778:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:57:24 MSK [2020/05/15 14:57:24 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Jon3sman ($2.10 in chips) 
+Seat 2: Jakobbrugsen ($2.67 in chips) 
+Seat 3: Evgenii99307 ($2.27 in chips) 
+Seat 4: EkaterinaDes ($2.02 in chips) 
+Seat 5: lawlex_2 ($2.24 in chips) 
+Seat 6: HHprinz63 ($0.78 in chips) 
+Jon3sman: posts small blind $0.01
+Jakobbrugsen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Jh]
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes: calls $0.06
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.04
+*** FLOP *** [5s 9h Qs]
+Jakobbrugsen: bets $0.02
+Evgenii99307: calls $0.02
+EkaterinaDes: folds 
+*** TURN *** [5s 9h Qs] [5d]
+Jakobbrugsen: bets $0.02
+Evgenii99307: calls $0.02
+*** RIVER *** [5s 9h Qs 5d] [7c]
+Jakobbrugsen: bets $2.57 and is all-in
+Evgenii99307: folds 
+Uncalled bet ($2.57) returned to Jakobbrugsen
+Jakobbrugsen collected $0.26 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5s 9h Qs 5d 7c]
+Seat 1: Jon3sman (small blind) folded before Flop
+Seat 2: Jakobbrugsen (big blind) collected ($0.26)
+Seat 3: Evgenii99307 folded on the River
+Seat 4: EkaterinaDes folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918695710:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:58:06 MSK [2020/05/15 14:58:06 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Jon3sman ($2.09 in chips) 
+Seat 2: Jakobbrugsen ($2.83 in chips) 
+Seat 3: Evgenii99307 ($2.17 in chips) 
+Seat 4: EkaterinaDes ($1.96 in chips) 
+Seat 5: lawlex_2 ($2.24 in chips) 
+Seat 6: HHprinz63 ($0.78 in chips) 
+Jakobbrugsen: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Qs]
+EkaterinaDes: folds 
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman has timed out
+Jon3sman: folds 
+Jakobbrugsen: calls $0.01
+Evgenii99307: checks 
+*** FLOP *** [Td 3h Kd]
+Jakobbrugsen: bets $0.02
+Evgenii99307: folds 
+Uncalled bet ($0.02) returned to Jakobbrugsen
+Jakobbrugsen collected $0.04 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Td 3h Kd]
+Seat 1: Jon3sman (button) folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen (small blind) collected ($0.04)
+Seat 3: Evgenii99307 (big blind) folded on the Flop
+Seat 4: EkaterinaDes folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918715473:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:58:34 MSK [2020/05/15 14:58:34 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Jon3sman ($2.09 in chips) 
+Seat 2: Jakobbrugsen ($2.85 in chips) 
+Seat 3: Evgenii99307 ($2.15 in chips) 
+Seat 4: EkaterinaDes ($1.96 in chips) 
+Seat 5: lawlex_2 ($2.24 in chips) 
+Seat 6: HHprinz63 ($0.78 in chips) 
+Evgenii99307: posts small blind $0.01
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Jd]
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+Evgenii99307: calls $0.01
+EkaterinaDes: checks 
+*** FLOP *** [7d 2s 5s]
+Evgenii99307: bets $0.06
+EkaterinaDes: folds 
+Jakobbrugsen: calls $0.06
+*** TURN *** [7d 2s 5s] [2c]
+Evgenii99307: bets $0.06
+Jakobbrugsen: calls $0.06
+*** RIVER *** [7d 2s 5s 2c] [Kh]
+Evgenii99307: checks 
+Jakobbrugsen: bets $0.14
+Evgenii99307: folds 
+Uncalled bet ($0.14) returned to Jakobbrugsen
+Jakobbrugsen collected $0.29 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7d 2s 5s 2c Kh]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen (button) collected ($0.29)
+Seat 3: Evgenii99307 (small blind) folded on the River
+Seat 4: EkaterinaDes (big blind) folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918737569:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 21:59:06 MSK [2020/05/15 14:59:06 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Jon3sman ($2.09 in chips) 
+Seat 2: Jakobbrugsen ($3 in chips) 
+Seat 3: Evgenii99307 ($2.01 in chips) 
+Seat 4: EkaterinaDes ($1.94 in chips) 
+Seat 5: lawlex_2 ($2.24 in chips) 
+Seat 6: HHprinz63 ($0.78 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 8s]
+HHprinz63: folds 
+Jon3sman has timed out
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+Evgenii99307: folds 
+Jakobbrugsen said, "zzzz"
+EkaterinaDes: folds 
+lawlex_2: checks 
+*** FLOP *** [3c Th 9d]
+lawlex_2: checks 
+Jakobbrugsen: checks 
+*** TURN *** [3c Th 9d] [2c]
+lawlex_2: checks 
+Jakobbrugsen: checks 
+*** RIVER *** [3c Th 9d 2c] [9c]
+lawlex_2: checks 
+Jakobbrugsen: bets $0.84
+lawlex_2: folds 
+Uncalled bet ($0.84) returned to Jakobbrugsen
+Jakobbrugsen collected $0.05 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3c Th 9d 2c 9c]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen collected ($0.05)
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded on the River
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918778089:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:00:02 MSK [2020/05/15 15:00:02 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 1: Jon3sman ($2.09 in chips) 
+Seat 2: Jakobbrugsen ($3.03 in chips) 
+Seat 3: Evgenii99307 ($2.01 in chips) 
+Seat 4: EkaterinaDes ($1.93 in chips) 
+Seat 5: lawlex_2 ($2.22 in chips) 
+Seat 6: HHprinz63 ($0.78 in chips) 
+lawlex_2: posts small blind $0.01
+HHprinz63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 2h]
+Jon3sman: folds 
+Jakobbrugsen: raises $0.02 to $0.04
+Evgenii99307: folds 
+EkaterinaDes: calls $0.04
+lawlex_2: folds 
+HHprinz63: folds 
+*** FLOP *** [6s 9s Tc]
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** TURN *** [6s 9s Tc] [Td]
+Jakobbrugsen: checks 
+EkaterinaDes: checks 
+*** RIVER *** [6s 9s Tc Td] [Ts]
+Jakobbrugsen: bets $0.02
+EkaterinaDes: calls $0.02
+*** SHOW DOWN ***
+Jakobbrugsen: shows [Ad Kh] (three of a kind, Tens)
+EkaterinaDes: shows [Js 6c] (a full house, Tens full of Sixes)
+EkaterinaDes collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6s 9s Tc Td Ts]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen showed [Ad Kh] and lost with three of a kind, Tens
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (button) showed [Js 6c] and won ($0.14) with a full house, Tens full of Sixes
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: HHprinz63 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213918813075:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:00:45 MSK [2020/05/15 15:00:45 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Jon3sman ($2.09 in chips) 
+Seat 2: Jakobbrugsen ($2.97 in chips) 
+Seat 3: Evgenii99307 ($2.01 in chips) 
+Seat 4: EkaterinaDes ($2.01 in chips) 
+Seat 5: lawlex_2 ($2.21 in chips) 
+Seat 6: HHprinz63 ($0.76 in chips) 
+HHprinz63: posts small blind $0.01
+Jon3sman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 7c]
+Jakobbrugsen: calls $0.02
+Evgenii99307: raises $0.04 to $0.06
+Jakobbrugsen said, "vnh lol"
+EkaterinaDes: calls $0.06
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.04
+*** FLOP *** [Js Td 9h]
+Jakobbrugsen: checks 
+Evgenii99307: bets $0.10
+EkaterinaDes: calls $0.10
+Jakobbrugsen: calls $0.10
+*** TURN *** [Js Td 9h] [5c]
+Jakobbrugsen: bets $0.02
+Evgenii99307: calls $0.02
+EkaterinaDes: calls $0.02
+*** RIVER *** [Js Td 9h 5c] [3d]
+Jakobbrugsen: bets $2.79 and is all-in
+Evgenii99307: folds 
+EkaterinaDes: folds 
+Uncalled bet ($2.79) returned to Jakobbrugsen
+Jakobbrugsen collected $0.55 from pot
+Jakobbrugsen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Js Td 9h 5c 3d]
+Seat 1: Jon3sman (big blind) folded before Flop
+Seat 2: Jakobbrugsen collected ($0.55)
+Seat 3: Evgenii99307 folded on the River
+Seat 4: EkaterinaDes folded on the River
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: HHprinz63 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213918859325:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:01:35 MSK [2020/05/15 15:01:35 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Jon3sman ($2.07 in chips) 
+Seat 2: Jakobbrugsen ($3.34 in chips) 
+Seat 3: Evgenii99307 ($1.83 in chips) 
+Seat 4: EkaterinaDes ($1.83 in chips) 
+Seat 5: lawlex_2 ($2.21 in chips) 
+Seat 6: HHprinz63 ($0.75 in chips) 
+Jon3sman: posts small blind $0.01
+Jakobbrugsen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 5h]
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes: calls $0.06
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.04
+*** FLOP *** [Js 7s 5d]
+Jakobbrugsen: bets $0.02
+Evgenii99307: calls $0.02
+EkaterinaDes: calls $0.02
+*** TURN *** [Js 7s 5d] [2c]
+Jakobbrugsen: checks 
+Evgenii99307: checks 
+EkaterinaDes: checks 
+*** RIVER *** [Js 7s 5d 2c] [Ts]
+Jakobbrugsen: checks 
+Evgenii99307: checks 
+EkaterinaDes: bets $0.02
+Jakobbrugsen: calls $0.02
+Evgenii99307: folds 
+*** SHOW DOWN ***
+EkaterinaDes: shows [2s Ks] (a flush, King high)
+Jakobbrugsen: mucks hand 
+EkaterinaDes collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Js 7s 5d 2c Ts]
+Seat 1: Jon3sman (small blind) folded before Flop
+Seat 2: Jakobbrugsen (big blind) mucked [7d 6c]
+Seat 3: Evgenii99307 folded on the River
+Seat 4: EkaterinaDes showed [2s Ks] and won ($0.28) with a flush, King high
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918892820:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:02:09 MSK [2020/05/15 15:02:09 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Jon3sman ($2.06 in chips) 
+Seat 2: Jakobbrugsen ($3.24 in chips) 
+Seat 3: Evgenii99307 ($1.75 in chips) 
+Seat 4: EkaterinaDes ($2.01 in chips) 
+Seat 5: lawlex_2 ($2.21 in chips) 
+Seat 6: HHprinz63 ($0.75 in chips) 
+Jakobbrugsen: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 7d]
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: raises $0.04 to $0.06
+Jakobbrugsen: calls $0.05
+Evgenii99307: folds 
+EkaterinaDes: calls $0.04
+*** FLOP *** [As Ad 9c]
+Jakobbrugsen: checks 
+EkaterinaDes: bets $0.02
+Jon3sman: calls $0.02
+Jakobbrugsen: calls $0.02
+*** TURN *** [As Ad 9c] [7h]
+Jakobbrugsen: checks 
+EkaterinaDes: bets $0.02
+Jon3sman: calls $0.02
+Jakobbrugsen: calls $0.02
+*** RIVER *** [As Ad 9c 7h] [8c]
+Jakobbrugsen: bets $0.52
+EkaterinaDes: calls $0.52
+Jon3sman: folds 
+*** SHOW DOWN ***
+Jakobbrugsen: shows [2c 4s] (a pair of Aces)
+EkaterinaDes: shows [Ac 6h] (three of a kind, Aces)
+EkaterinaDes collected $1.31 from pot
+*** SUMMARY ***
+Total pot $1.36 | Rake $0.05 
+Board [As Ad 9c 7h 8c]
+Seat 1: Jon3sman (button) folded on the River
+Seat 2: Jakobbrugsen (small blind) showed [2c 4s] and lost with a pair of Aces
+Seat 3: Evgenii99307 (big blind) folded before Flop
+Seat 4: EkaterinaDes showed [Ac 6h] and won ($1.31) with three of a kind, Aces
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918938020:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:02:50 MSK [2020/05/15 15:02:50 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 2: Jakobbrugsen ($2.62 in chips) 
+Seat 3: Evgenii99307 ($1.73 in chips) 
+Seat 4: EkaterinaDes ($2.70 in chips) 
+Seat 5: lawlex_2 ($2.21 in chips) 
+Seat 6: HHprinz63 ($0.75 in chips) 
+Evgenii99307: posts small blind $0.01
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 5h]
+lawlex_2: folds 
+HHprinz63 has timed out
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: raises $0.04 to $0.06
+Evgenii99307: folds 
+EkaterinaDes: calls $0.04
+*** FLOP *** [3c 9c Tc]
+EkaterinaDes: checks 
+Jakobbrugsen: bets $0.02
+EkaterinaDes: calls $0.02
+*** TURN *** [3c 9c Tc] [Js]
+EkaterinaDes: checks 
+Jakobbrugsen: bets $0.02
+EkaterinaDes: calls $0.02
+*** RIVER *** [3c 9c Tc Js] [8c]
+EkaterinaDes: checks 
+Jakobbrugsen: checks 
+*** SHOW DOWN ***
+EkaterinaDes: shows [8d 7c] (a flush, Ten high)
+Jakobbrugsen: mucks hand 
+EkaterinaDes collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3c 9c Tc Js 8c]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen (button) mucked [Th Ts]
+Seat 3: Evgenii99307 (small blind) folded before Flop
+Seat 4: EkaterinaDes (big blind) showed [8d 7c] and won ($0.20) with a flush, Ten high
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213918983059:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:03:33 MSK [2020/05/15 15:03:33 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 2: Jakobbrugsen ($2.52 in chips) 
+Seat 3: Evgenii99307 ($1.72 in chips) 
+Seat 4: EkaterinaDes ($2.80 in chips) 
+Seat 5: lawlex_2 ($2.21 in chips) 
+Seat 6: HHprinz63 ($0.75 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 9h]
+Jakobbrugsen said, "zzz"
+HHprinz63 has timed out
+HHprinz63: folds 
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+Evgenii99307: folds 
+EkaterinaDes: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+Jakobbrugsen: calls $0.03
+EkaterinaDes: calls $0.03
+*** FLOP *** [Kd Jd 8s]
+EkaterinaDes: checks 
+lawlex_2: checks 
+Jakobbrugsen: checks 
+*** TURN *** [Kd Jd 8s] [Td]
+EkaterinaDes: bets $0.02
+lawlex_2: calls $0.02
+Jakobbrugsen: calls $0.02
+*** RIVER *** [Kd Jd 8s Td] [5d]
+EkaterinaDes: bets $0.10
+lawlex_2: folds 
+Jakobbrugsen: raises $1.64 to $1.74
+EkaterinaDes: calls $1.64
+*** SHOW DOWN ***
+Jakobbrugsen: shows [Qh 3s] (high card King)
+EkaterinaDes: shows [Qc 9s] (a straight, Nine to King)
+EkaterinaDes collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.69 | Rake $0.13 
+Board [Kd Jd 8s Td 5d]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen showed [Qh 3s] and lost with high card King
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) showed [Qc 9s] and won ($3.56) with a straight, Nine to King
+Seat 5: lawlex_2 (big blind) folded on the River
+Seat 6: HHprinz63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213919039681:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:04:26 MSK [2020/05/15 15:04:26 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 2: Jakobbrugsen ($0.71 in chips) 
+Seat 3: Evgenii99307 ($1.72 in chips) 
+Seat 4: EkaterinaDes ($4.55 in chips) 
+Seat 5: lawlex_2 ($2.14 in chips) 
+Seat 6: HHprinz63 ($0.75 in chips) 
+lawlex_2: posts small blind $0.01
+HHprinz63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 6s]
+Jon3sman: folds 
+Jakobbrugsen: calls $0.02
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes: calls $0.06
+lawlex_2: folds 
+HHprinz63: raises $0.04 to $0.10
+Jakobbrugsen: calls $0.08
+Evgenii99307: calls $0.04
+EkaterinaDes: calls $0.04
+*** FLOP *** [7d Tc Td]
+HHprinz63: checks 
+Jakobbrugsen: checks 
+Evgenii99307: checks 
+EkaterinaDes: checks 
+*** TURN *** [7d Tc Td] [Ks]
+HHprinz63: checks 
+Jakobbrugsen: checks 
+Evgenii99307: checks 
+EkaterinaDes: checks 
+*** RIVER *** [7d Tc Td Ks] [Jh]
+HHprinz63: checks 
+Jakobbrugsen: bets $0.61 and is all-in
+Evgenii99307: raises $1.01 to $1.62 and is all-in
+EkaterinaDes: folds 
+HHprinz63: calls $0.65 and is all-in
+Uncalled bet ($0.97) returned to Evgenii99307
+*** SHOW DOWN ***
+Evgenii99307: shows [7h 7s] (a full house, Sevens full of Tens)
+HHprinz63: shows [Ah Qh] (a straight, Ten to Ace)
+Evgenii99307 collected $0.08 from side pot
+Jakobbrugsen: shows [9c 3h] (a pair of Tens)
+Evgenii99307 collected $2.16 from main pot
+*** SUMMARY ***
+Total pot $2.32 Main pot $2.16. Side pot $0.08. | Rake $0.08 
+Board [7d Tc Td Ks Jh]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 2: Jakobbrugsen showed [9c 3h] and lost with a pair of Tens
+Seat 3: Evgenii99307 showed [7h 7s] and won ($2.24) with a full house, Sevens full of Tens
+Seat 4: EkaterinaDes (button) folded on the River
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: HHprinz63 (big blind) showed [Ah Qh] and lost with a straight, Ten to Ace
+
+
+
+PokerStars Hand #213919088335:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:05:11 MSK [2020/05/15 15:05:11 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 3: Evgenii99307 ($3.21 in chips) 
+Seat 4: EkaterinaDes ($4.45 in chips) 
+Seat 5: lawlex_2 ($2.13 in chips) 
+Seat 6: HHprinz63 ($0.80 in chips) 
+HHprinz63: posts small blind $0.01
+Jon3sman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 5c]
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes: calls $0.06
+Jakobbrugsen leaves the table
+lawlex_2: folds 
+HHprinz63: folds 
+Jon3sman: folds 
+*** FLOP *** [7s 2c 3c]
+HHprinz63 leaves the table
+Evgenii99307: checks 
+EkaterinaDes: checks 
+*** TURN *** [7s 2c 3c] [Jd]
+Evgenii99307: checks 
+EkaterinaDes: checks 
+*** RIVER *** [7s 2c 3c Jd] [9c]
+Evgenii99307: bets $0.07
+EkaterinaDes: folds 
+Uncalled bet ($0.07) returned to Evgenii99307
+Evgenii99307 collected $0.14 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s 2c 3c Jd 9c]
+Seat 1: Jon3sman (big blind) folded before Flop
+Seat 3: Evgenii99307 collected ($0.14)
+Seat 4: EkaterinaDes folded on the River
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: HHprinz63 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213919124022:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:05:44 MSK [2020/05/15 15:05:44 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 3: Evgenii99307 ($3.29 in chips) 
+Seat 4: EkaterinaDes ($4.39 in chips) 
+Seat 5: lawlex_2 ($2.13 in chips) 
+Evgenii99307: posts small blind $0.01
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 8s]
+lawlex_2: folds 
+Jon3sman: raises $0.04 to $0.06
+Evgenii99307: calls $0.05
+EkaterinaDes: calls $0.04
+*** FLOP *** [9c 5c Ks]
+Evgenii99307: bets $0.06
+EkaterinaDes: calls $0.06
+Jon3sman: folds 
+*** TURN *** [9c 5c Ks] [6d]
+Evgenii99307: checks 
+EkaterinaDes: checks 
+*** RIVER *** [9c 5c Ks 6d] [Td]
+Evgenii99307: checks 
+EkaterinaDes: checks 
+*** SHOW DOWN ***
+Evgenii99307: shows [4d 4h] (a pair of Fours)
+EkaterinaDes: shows [Jh Ts] (a pair of Tens)
+EkaterinaDes collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [9c 5c Ks 6d Td]
+Seat 1: Jon3sman (button) folded on the Flop
+Seat 3: Evgenii99307 (small blind) showed [4d 4h] and lost with a pair of Fours
+Seat 4: EkaterinaDes (big blind) showed [Jh Ts] and won ($0.29) with a pair of Tens
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213919170242:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:06:26 MSK [2020/05/15 15:06:26 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Jon3sman ($2 in chips) 
+Seat 3: Evgenii99307 ($3.17 in chips) 
+Seat 4: EkaterinaDes ($4.56 in chips) 
+Seat 5: lawlex_2 ($2.13 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 7d]
+Jon3sman: folds 
+Evgenii99307: folds 
+EkaterinaDes: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Tc 5h Jh]
+EkaterinaDes: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to EkaterinaDes
+EkaterinaDes collected $0.04 from pot
+EkaterinaDes: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Tc 5h Jh]
+Seat 1: Jon3sman folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) collected ($0.04)
+Seat 5: lawlex_2 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213919191920:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:06:46 MSK [2020/05/15 15:06:46 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 3: Evgenii99307 ($3.17 in chips) 
+Seat 4: EkaterinaDes ($4.58 in chips) 
+Seat 5: lawlex_2 ($2.11 in chips) 
+lawlex_2: posts small blind $0.01
+Jon3sman: is sitting out 
+Jon3sman leaves the table
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 8c]
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes: calls $0.04
+*** FLOP *** [6c Td Ad]
+Evgenii99307: bets $0.07
+EkaterinaDes: folds 
+Uncalled bet ($0.07) returned to Evgenii99307
+gogolmisri joins the table at seat #6 
+Evgenii99307 collected $0.13 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6c Td Ad]
+Seat 3: Evgenii99307 (big blind) collected ($0.13)
+Seat 4: EkaterinaDes (button) folded on the Flop
+Seat 5: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213919211971:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:07:04 MSK [2020/05/15 15:07:04 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 3: Evgenii99307 ($3.24 in chips) 
+Seat 4: EkaterinaDes ($4.52 in chips) 
+Seat 5: lawlex_2 ($2.10 in chips) 
+Evgenii99307: posts small blind $0.01
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 5d]
+Pedrochelli joins the table at seat #1 
+lawlex_2: folds 
+Evgenii99307: folds 
+Uncalled bet ($0.01) returned to EkaterinaDes
+EkaterinaDes collected $0.02 from pot
+EkaterinaDes: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: Evgenii99307 (small blind) folded before Flop
+Seat 4: EkaterinaDes (big blind) collected ($0.02)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213919220269:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:07:12 MSK [2020/05/15 15:07:12 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 3: Evgenii99307 ($3.23 in chips) 
+Seat 4: EkaterinaDes ($4.53 in chips) 
+Seat 5: lawlex_2 ($2.10 in chips) 
+Seat 6: gogolmisri ($1.60 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+gogolmisri: posts big blind $0.02
+Pedrochelli: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Qd]
+silvester116 joins the table at seat #2 
+gogolmisri: checks 
+Evgenii99307: folds 
+EkaterinaDes: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+gogolmisri: calls $0.03
+EkaterinaDes: folds 
+*** FLOP *** [Kh 6h 5c]
+lawlex_2: bets $0.08
+gogolmisri: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kh 6h 5c]
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) collected ($0.12)
+Seat 6: gogolmisri folded on the Flop
+
+
+
+PokerStars Hand #213919251735:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:07:40 MSK [2020/05/15 15:07:40 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 2: silvester116 ($0.80 in chips) 
+Seat 3: Evgenii99307 ($3.23 in chips) 
+Seat 4: EkaterinaDes ($4.51 in chips) 
+Seat 5: lawlex_2 ($2.17 in chips) 
+Seat 6: gogolmisri ($1.55 in chips) 
+lawlex_2: posts small blind $0.01
+gogolmisri: posts big blind $0.02
+Pedrochelli: sits out 
+silvester116: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 8d]
+silvester116: checks 
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+gogolmisri: raises $0.06 to $0.08
+silvester116: calls $0.06
+EkaterinaDes: calls $0.06
+*** FLOP *** [Ac 5h Ad]
+gogolmisri: bets $0.16
+silvester116: folds 
+EkaterinaDes: folds 
+Uncalled bet ($0.16) returned to gogolmisri
+gogolmisri collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ac 5h Ad]
+Seat 2: silvester116 folded on the Flop
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (button) folded on the Flop
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: gogolmisri (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #213919289510:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:08:14 MSK [2020/05/15 15:08:14 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Pedrochelli ($2 in chips) 
+Seat 2: silvester116 ($0.72 in chips) 
+Seat 3: Evgenii99307 ($3.23 in chips) 
+Seat 4: EkaterinaDes ($4.43 in chips) 
+Seat 5: lawlex_2 ($2.16 in chips) 
+Seat 6: gogolmisri ($1.71 in chips) 
+gogolmisri: posts small blind $0.01
+Pedrochelli: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 9d]
+silvester116: folds 
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+gogolmisri: calls $0.01
+Pedrochelli: checks 
+*** FLOP *** [2d 2h 5d]
+gogolmisri: checks 
+Pedrochelli: checks 
+EkaterinaDes: checks 
+*** TURN *** [2d 2h 5d] [Js]
+gogolmisri: checks 
+Pedrochelli: checks 
+EkaterinaDes: checks 
+*** RIVER *** [2d 2h 5d Js] [Jd]
+gogolmisri: checks 
+Pedrochelli: bets $0.05
+EkaterinaDes: folds 
+gogolmisri: folds 
+Uncalled bet ($0.05) returned to Pedrochelli
+Pedrochelli collected $0.06 from pot
+Pedrochelli: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2d 2h 5d Js Jd]
+Seat 1: Pedrochelli (big blind) collected ($0.06)
+Seat 2: silvester116 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes folded on the River
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: gogolmisri (small blind) folded on the River
+
+
+
+PokerStars Hand #213919351313:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:09:10 MSK [2020/05/15 15:09:10 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Pedrochelli ($2.04 in chips) 
+Seat 2: silvester116 ($0.72 in chips) 
+Seat 3: Evgenii99307 ($3.23 in chips) 
+Seat 4: EkaterinaDes ($4.41 in chips) 
+Seat 5: lawlex_2 ($2.16 in chips) 
+Seat 6: gogolmisri ($1.69 in chips) 
+Pedrochelli: posts small blind $0.01
+silvester116: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 8h]
+Evgenii99307: folds 
+EkaterinaDes: folds 
+lawlex_2: folds 
+gogolmisri: raises $0.02 to $0.04
+Pedrochelli: calls $0.03
+silvester116: calls $0.02
+*** FLOP *** [Qh Qd Ad]
+Pedrochelli: checks 
+silvester116: checks 
+gogolmisri: bets $0.08
+Pedrochelli: folds 
+silvester116: calls $0.08
+*** TURN *** [Qh Qd Ad] [5s]
+silvester116: checks 
+gogolmisri: checks 
+*** RIVER *** [Qh Qd Ad 5s] [Qs]
+silvester116: bets $0.10
+gogolmisri: folds 
+Uncalled bet ($0.10) returned to silvester116
+silvester116 collected $0.27 from pot
+silvester116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Qh Qd Ad 5s Qs]
+Seat 1: Pedrochelli (small blind) folded on the Flop
+Seat 2: silvester116 (big blind) collected ($0.27)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: gogolmisri (button) folded on the River
+
+
+
+PokerStars Hand #213919410763:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:10:04 MSK [2020/05/15 15:10:04 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Pedrochelli ($2 in chips) 
+Seat 2: silvester116 ($0.87 in chips) 
+Seat 3: Evgenii99307 ($3.23 in chips) 
+Seat 4: EkaterinaDes ($4.41 in chips) 
+Seat 5: lawlex_2 ($2.16 in chips) 
+Seat 6: gogolmisri ($1.57 in chips) 
+silvester116: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 9c]
+EkaterinaDes: folds 
+lawlex_2: raises $0.03 to $0.05
+gogolmisri: calls $0.05
+Pedrochelli: folds 
+silvester116: calls $0.04
+Evgenii99307: calls $0.03
+*** FLOP *** [Jd Js Ks]
+silvester116: bets $0.02
+Evgenii99307: folds 
+lawlex_2: folds 
+gogolmisri: calls $0.02
+*** TURN *** [Jd Js Ks] [Td]
+silvester116: checks 
+gogolmisri: bets $0.14
+silvester116: folds 
+Uncalled bet ($0.14) returned to gogolmisri
+gogolmisri collected $0.23 from pot
+gogolmisri: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jd Js Ks Td]
+Seat 1: Pedrochelli (button) folded before Flop (didn't bet)
+Seat 2: silvester116 (small blind) folded on the Turn
+Seat 3: Evgenii99307 (big blind) folded on the Flop
+Seat 4: EkaterinaDes folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded on the Flop
+Seat 6: gogolmisri collected ($0.23)
+
+
+
+PokerStars Hand #213919477046:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:10:59 MSK [2020/05/15 15:10:59 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Pedrochelli ($2 in chips) 
+Seat 2: silvester116 ($0.80 in chips) 
+Seat 3: Evgenii99307 ($3.18 in chips) 
+Seat 4: EkaterinaDes ($4.41 in chips) 
+Seat 5: lawlex_2 ($2.11 in chips) 
+Seat 6: gogolmisri ($1.73 in chips) 
+Evgenii99307: posts small blind $0.01
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 8s]
+lawlex_2: folds 
+gogolmisri: folds 
+Pedrochelli: raises $0.04 to $0.06
+silvester116: folds 
+Evgenii99307: folds 
+EkaterinaDes: calls $0.04
+*** FLOP *** [7h Jd 4c]
+EkaterinaDes: checks 
+Pedrochelli: bets $0.10
+EkaterinaDes: folds 
+Uncalled bet ($0.10) returned to Pedrochelli
+Pedrochelli collected $0.13 from pot
+Pedrochelli: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7h Jd 4c]
+Seat 1: Pedrochelli collected ($0.13)
+Seat 2: silvester116 (button) folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (small blind) folded before Flop
+Seat 4: EkaterinaDes (big blind) folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: gogolmisri folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213919505322:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:11:24 MSK [2020/05/15 15:11:24 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Pedrochelli ($2.07 in chips) 
+Seat 2: silvester116 ($0.80 in chips) 
+Seat 3: Evgenii99307 ($3.17 in chips) 
+Seat 4: EkaterinaDes ($4.35 in chips) 
+Seat 5: lawlex_2 ($2.11 in chips) 
+Seat 6: gogolmisri ($1.73 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Qc]
+gogolmisri: raises $0.02 to $0.04
+Pedrochelli: folds 
+silvester116: folds 
+Evgenii99307: folds 
+EkaterinaDes: calls $0.03
+lawlex_2: folds 
+*** FLOP *** [4d 5c Tc]
+EkaterinaDes: checks 
+gogolmisri: bets $0.06
+EkaterinaDes: folds 
+Uncalled bet ($0.06) returned to gogolmisri
+gogolmisri collected $0.10 from pot
+gogolmisri: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4d 5c Tc]
+Seat 1: Pedrochelli folded before Flop (didn't bet)
+Seat 2: silvester116 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) folded on the Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: gogolmisri collected ($0.10)
+
+
+
+PokerStars Hand #213919556002:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:12:10 MSK [2020/05/15 15:12:10 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 1: Pedrochelli ($2.07 in chips) 
+Seat 2: silvester116 ($0.80 in chips) 
+Seat 3: Evgenii99307 ($3.17 in chips) 
+Seat 4: EkaterinaDes ($4.31 in chips) 
+Seat 5: lawlex_2 ($2.09 in chips) 
+Seat 6: gogolmisri ($1.79 in chips) 
+lawlex_2: posts small blind $0.01
+gogolmisri: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h As]
+Pedrochelli: folds 
+silvester116: calls $0.02
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+gogolmisri: calls $0.03
+silvester116: calls $0.03
+EkaterinaDes: calls $0.03
+*** FLOP *** [Jd 7d Qd]
+lawlex_2: checks 
+gogolmisri: checks 
+silvester116: bets $0.02
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+gogolmisri: calls $0.02
+*** TURN *** [Jd 7d Qd] [9s]
+gogolmisri: bets $0.10
+silvester116: calls $0.10
+EkaterinaDes: calls $0.10
+*** RIVER *** [Jd 7d Qd 9s] [3s]
+gogolmisri: checks 
+silvester116: checks 
+EkaterinaDes: checks 
+*** SHOW DOWN ***
+gogolmisri: shows [9c Qs] (two pair, Queens and Nines)
+silvester116: mucks hand 
+EkaterinaDes: mucks hand 
+gogolmisri collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [Jd 7d Qd 9s 3s]
+Seat 1: Pedrochelli folded before Flop (didn't bet)
+Seat 2: silvester116 mucked [Tc Js]
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (button) mucked [Td Qc]
+Seat 5: lawlex_2 (small blind) folded on the Flop
+Seat 6: gogolmisri (big blind) showed [9c Qs] and won ($0.54) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #213919635162:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:13:21 MSK [2020/05/15 15:13:21 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Pedrochelli ($2.07 in chips) 
+Seat 2: silvester116 ($0.63 in chips) 
+Seat 3: Evgenii99307 ($3.17 in chips) 
+Seat 4: EkaterinaDes ($4.14 in chips) 
+Seat 5: lawlex_2 ($2.04 in chips) 
+Seat 6: gogolmisri ($2.16 in chips) 
+gogolmisri: posts small blind $0.01
+Pedrochelli: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 7c]
+silvester116: folds 
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+gogolmisri: calls $0.01
+Pedrochelli: checks 
+*** FLOP *** [Jd Kc Qd]
+gogolmisri: bets $0.04
+Pedrochelli: folds 
+EkaterinaDes: calls $0.04
+*** TURN *** [Jd Kc Qd] [6c]
+gogolmisri: checks 
+EkaterinaDes: checks 
+*** RIVER *** [Jd Kc Qd 6c] [4c]
+gogolmisri: checks 
+EkaterinaDes: checks 
+*** SHOW DOWN ***
+gogolmisri: shows [Th Jc] (a pair of Jacks)
+EkaterinaDes: mucks hand 
+gogolmisri collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jd Kc Qd 6c 4c]
+Seat 1: Pedrochelli (big blind) folded on the Flop
+Seat 2: silvester116 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes mucked [6s Ah]
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: gogolmisri (small blind) showed [Th Jc] and won ($0.14) with a pair of Jacks
+
+
+
+PokerStars Hand #213919667523:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:13:50 MSK [2020/05/15 15:13:50 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Pedrochelli ($2.05 in chips) 
+Seat 2: silvester116 ($0.63 in chips) 
+Seat 3: Evgenii99307 ($3.17 in chips) 
+Seat 4: EkaterinaDes ($4.08 in chips) 
+Seat 5: lawlex_2 ($2.04 in chips) 
+Seat 6: gogolmisri ($2.24 in chips) 
+Pedrochelli: posts small blind $0.01
+silvester116: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 6s]
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes: folds 
+lawlex_2: folds 
+gogolmisri: folds 
+Pedrochelli: folds 
+silvester116: folds 
+Uncalled bet ($0.04) returned to Evgenii99307
+Evgenii99307 collected $0.05 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Pedrochelli (small blind) folded before Flop
+Seat 2: silvester116 (big blind) folded before Flop
+Seat 3: Evgenii99307 collected ($0.05)
+Seat 4: EkaterinaDes folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: gogolmisri (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213919689344:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:14:10 MSK [2020/05/15 15:14:10 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Pedrochelli ($2.04 in chips) 
+Seat 2: silvester116 ($0.61 in chips) 
+Seat 3: Evgenii99307 ($3.20 in chips) 
+Seat 4: EkaterinaDes ($4.08 in chips) 
+Seat 5: lawlex_2 ($2.04 in chips) 
+Seat 6: gogolmisri ($2.24 in chips) 
+silvester116: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 8c]
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+gogolmisri: raises $0.04 to $0.06
+Pedrochelli: raises $0.16 to $0.22
+silvester116: calls $0.21
+Evgenii99307: folds 
+EkaterinaDes: calls $0.20
+gogolmisri: folds 
+*** FLOP *** [Qh Jd 4d]
+silvester116: bets $0.39 and is all-in
+EkaterinaDes: calls $0.39
+Pedrochelli: raises $1.43 to $1.82 and is all-in
+EkaterinaDes: calls $1.43
+*** TURN *** [Qh Jd 4d] [6s]
+*** RIVER *** [Qh Jd 4d 6s] [5c]
+*** SHOW DOWN ***
+EkaterinaDes: shows [Tc Qs] (a pair of Queens)
+Pedrochelli: shows [Kd Kc] (a pair of Kings)
+Pedrochelli collected $2.76 from side pot
+silvester116: shows [Ts Js] (a pair of Jacks)
+Pedrochelli collected $1.84 from main pot
+EkaterinaDes cashed out the hand for $0.70 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $4.77 Main pot $1.84. Side pot $2.76. | Rake $0.17 
+Board [Qh Jd 4d 6s 5c]
+Seat 1: Pedrochelli (button) showed [Kd Kc] and won ($4.60) with a pair of Kings
+Seat 2: silvester116 (small blind) showed [Ts Js] and lost with a pair of Jacks
+Seat 3: Evgenii99307 (big blind) folded before Flop
+Seat 4: EkaterinaDes showed [Tc Qs] and lost with a pair of Queens (cashed out).
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: gogolmisri folded before Flop
+
+
+
+PokerStars Hand #213919752787:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:15:06 MSK [2020/05/15 15:15:06 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Pedrochelli ($4.60 in chips) 
+Seat 3: Evgenii99307 ($3.18 in chips) 
+Seat 4: EkaterinaDes ($2.74 in chips) 
+Seat 5: lawlex_2 ($2.04 in chips) 
+Seat 6: gogolmisri ($2.18 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 7h]
+gogolmisri: folds 
+Pedrochelli: raises $0.04 to $0.06
+Evgenii99307: folds 
+EkaterinaDes: calls $0.05
+silvester116 leaves the table
+lawlex_2: folds 
+*** FLOP *** [Ts 8d 6s]
+EkaterinaDes: bets $0.02
+Pedrochelli: calls $0.02
+*** TURN *** [Ts 8d 6s] [Kc]
+EkaterinaDes: bets $0.12
+Pedrochelli: calls $0.12
+*** RIVER *** [Ts 8d 6s Kc] [6d]
+EkaterinaDes: bets $2.54 and is all-in
+Pedrochelli: folds 
+Uncalled bet ($2.54) returned to EkaterinaDes
+EkaterinaDes collected $0.41 from pot
+EkaterinaDes: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Ts 8d 6s Kc 6d]
+Seat 1: Pedrochelli folded on the River
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) collected ($0.41)
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: gogolmisri folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213919826301:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:16:09 MSK [2020/05/15 15:16:09 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 1: Pedrochelli ($4.40 in chips) 
+Seat 3: Evgenii99307 ($3.18 in chips) 
+Seat 4: EkaterinaDes ($2.95 in chips) 
+Seat 5: lawlex_2 ($2.02 in chips) 
+Seat 6: gogolmisri ($2.18 in chips) 
+lawlex_2: posts small blind $0.01
+gogolmisri: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 8d]
+Pedrochelli: folds 
+Evgenii99307: folds 
+EkaterinaDes: raises $0.02 to $0.04
+lawlex_2: calls $0.03
+gogolmisri: calls $0.02
+*** FLOP *** [Td 4c 3d]
+lawlex_2: bets $0.08
+gogolmisri: calls $0.08
+romel90 joins the table at seat #2 
+EkaterinaDes: calls $0.08
+*** TURN *** [Td 4c 3d] [2d]
+lawlex_2: bets $0.23
+gogolmisri: folds 
+EkaterinaDes: calls $0.23
+*** RIVER *** [Td 4c 3d 2d] [2s]
+lawlex_2: checks 
+EkaterinaDes: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Ad 8d] (a flush, Ace high)
+EkaterinaDes: mucks hand 
+lawlex_2 collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [Td 4c 3d 2d 2s]
+Seat 1: Pedrochelli folded before Flop (didn't bet)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (button) mucked [7d 7c]
+Seat 5: lawlex_2 (small blind) showed [Ad 8d] and won ($0.79) with a flush, Ace high
+Seat 6: gogolmisri (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213919868030:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:16:47 MSK [2020/05/15 15:16:47 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 2: romel90 ($2 in chips) 
+Seat 3: Evgenii99307 ($3.18 in chips) 
+Seat 4: EkaterinaDes ($2.60 in chips) 
+Seat 5: lawlex_2 ($2.46 in chips) 
+Seat 6: gogolmisri ($2.06 in chips) 
+gogolmisri: posts small blind $0.01
+Pedrochelli: is sitting out 
+Pedrochelli leaves the table
+romel90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 5d]
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+Sergeimer73 joins the table at seat #1 
+lawlex_2 has timed out
+lawlex_2: folds 
+gogolmisri: calls $0.01
+romel90: checks 
+*** FLOP *** [Kh Qd 8c]
+gogolmisri: checks 
+romel90: checks 
+EkaterinaDes: bets $0.12
+gogolmisri: folds 
+romel90: folds 
+Uncalled bet ($0.12) returned to EkaterinaDes
+EkaterinaDes collected $0.06 from pot
+EkaterinaDes: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kh Qd 8c]
+Seat 2: romel90 (big blind) folded on the Flop
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes collected ($0.06)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: gogolmisri (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213919912979:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:17:27 MSK [2020/05/15 15:17:27 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 2: romel90 ($1.98 in chips) 
+Seat 3: Evgenii99307 ($3.18 in chips) 
+Seat 4: EkaterinaDes ($2.64 in chips) 
+Seat 5: lawlex_2 ($2.46 in chips) 
+Seat 6: gogolmisri ($2.04 in chips) 
+romel90: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Ad]
+EkaterinaDes: folds 
+lawlex_2: raises $0.03 to $0.05
+gogolmisri: folds 
+romel90: folds 
+Evgenii99307: calls $0.03
+*** FLOP *** [9s 6c Jd]
+Evgenii99307: checks 
+lawlex_2: bets $0.07
+Evgenii99307: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9s 6c Jd]
+Seat 2: romel90 (small blind) folded before Flop
+Seat 3: Evgenii99307 (big blind) folded on the Flop
+Seat 4: EkaterinaDes folded before Flop (didn't bet)
+Seat 5: lawlex_2 collected ($0.11)
+Seat 6: gogolmisri (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213919940218:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:17:52 MSK [2020/05/15 15:17:52 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 2: romel90 ($1.97 in chips) 
+Seat 3: Evgenii99307 ($3.13 in chips) 
+Seat 4: EkaterinaDes ($2.64 in chips) 
+Seat 5: lawlex_2 ($2.52 in chips) 
+Seat 6: gogolmisri ($2.04 in chips) 
+Evgenii99307: posts small blind $0.01
+EkaterinaDes: posts big blind $0.02
+Sergeimer73: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 8h]
+lawlex_2 has timed out
+lawlex_2: folds 
+gogolmisri: folds 
+romel90: folds 
+Evgenii99307: raises $0.02 to $0.04
+EkaterinaDes has timed out
+EkaterinaDes: folds 
+Uncalled bet ($0.02) returned to Evgenii99307
+Evgenii99307 collected $0.04 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: romel90 (button) folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (small blind) collected ($0.04)
+Seat 4: EkaterinaDes (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: gogolmisri folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213920016229:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:18:59 MSK [2020/05/15 15:18:59 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 2: romel90 ($1.97 in chips) 
+Seat 3: Evgenii99307 ($3.15 in chips) 
+Seat 5: lawlex_2 ($2.52 in chips) 
+Seat 6: gogolmisri ($2.04 in chips) 
+lawlex_2: posts small blind $0.01
+gogolmisri: posts big blind $0.02
+Sergeimer73: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Jc]
+romel90: folds 
+Evgenii99307: raises $0.04 to $0.06
+lawlex_2: folds 
+gogolmisri: folds 
+Uncalled bet ($0.04) returned to Evgenii99307
+Evgenii99307 collected $0.05 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (button) collected ($0.05)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: gogolmisri (big blind) folded before Flop
+
+
+
+PokerStars Hand #213920031632:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:19:13 MSK [2020/05/15 15:19:13 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Sergeimer73 ($2 in chips) 
+Seat 2: romel90 ($1.97 in chips) 
+Seat 3: Evgenii99307 ($3.18 in chips) 
+Seat 5: lawlex_2 ($2.51 in chips) 
+Seat 6: gogolmisri ($2.02 in chips) 
+gogolmisri: posts small blind $0.01
+Sergeimer73: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Qc]
+romel90 has timed out
+romel90: folds 
+Evgenii99307: raises $0.04 to $0.06
+lawlex_2: folds 
+gogolmisri: folds 
+Sergeimer73: folds 
+Uncalled bet ($0.04) returned to Evgenii99307
+Evgenii99307 collected $0.05 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sergeimer73 (big blind) folded before Flop
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 collected ($0.05)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: gogolmisri (small blind) folded before Flop
+
+
+
+PokerStars Hand #213920055746:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:19:35 MSK [2020/05/15 15:19:35 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Sergeimer73 ($1.98 in chips) 
+Seat 3: Evgenii99307 ($3.21 in chips) 
+Seat 5: lawlex_2 ($2.51 in chips) 
+Seat 6: gogolmisri ($2.01 in chips) 
+Sergeimer73: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Ah]
+lawlex_2: raises $0.03 to $0.05
+gogolmisri: folds 
+Sergeimer73: folds 
+Evgenii99307: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sergeimer73 (small blind) folded before Flop
+Seat 3: Evgenii99307 (big blind) folded before Flop
+Seat 5: lawlex_2 collected ($0.05)
+Seat 6: gogolmisri (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213920065345:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:19:44 MSK [2020/05/15 15:19:44 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Sergeimer73 ($1.97 in chips) 
+Seat 3: Evgenii99307 ($3.19 in chips) 
+Seat 5: lawlex_2 ($2.54 in chips) 
+Seat 6: gogolmisri ($2.01 in chips) 
+Evgenii99307: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Jd]
+gogolmisri: folds 
+Sergeimer73: folds 
+Evgenii99307: raises $0.06 to $0.08
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to Evgenii99307
+Evgenii99307 collected $0.04 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Sergeimer73 (button) folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (small blind) collected ($0.04)
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: gogolmisri folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213920079984:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:19:57 MSK [2020/05/15 15:19:57 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Sergeimer73 ($1.97 in chips) 
+Seat 2: romel90 ($1.97 in chips) 
+Seat 3: Evgenii99307 ($3.21 in chips) 
+Seat 5: lawlex_2 ($2.52 in chips) 
+Seat 6: gogolmisri ($2.01 in chips) 
+lawlex_2: posts small blind $0.01
+gogolmisri: posts big blind $0.02
+romel90: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Ac]
+Sergeimer73: raises $0.08 to $0.10
+romel90: folds 
+Evgenii99307: folds 
+lawlex_2: folds 
+gogolmisri: folds 
+Uncalled bet ($0.08) returned to Sergeimer73
+Sergeimer73 collected $0.08 from pot
+Sergeimer73: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Sergeimer73 collected ($0.08)
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: gogolmisri (big blind) folded before Flop
+
+
+
+PokerStars Hand #213920099040:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:20:14 MSK [2020/05/15 15:20:14 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Sergeimer73 ($2.03 in chips) 
+Seat 2: romel90 ($1.94 in chips) 
+Seat 3: Evgenii99307 ($3.21 in chips) 
+Seat 5: lawlex_2 ($2.51 in chips) 
+Seat 6: gogolmisri ($1.99 in chips) 
+gogolmisri: posts small blind $0.01
+Sergeimer73: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 5c]
+romel90: folds 
+Evgenii99307: folds 
+lawlex_2: raises $0.03 to $0.05
+gogolmisri: calls $0.04
+Sergeimer73: calls $0.03
+*** FLOP *** [Qs Ah Kh]
+gogolmisri: checks 
+Sergeimer73: checks 
+lawlex_2: bets $0.09
+gogolmisri: raises $0.17 to $0.26
+Sergeimer73: folds 
+lawlex_2: folds 
+Uncalled bet ($0.17) returned to gogolmisri
+gogolmisri collected $0.32 from pot
+gogolmisri: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Qs Ah Kh]
+Seat 1: Sergeimer73 (big blind) folded on the Flop
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded on the Flop
+Seat 6: gogolmisri (small blind) collected ($0.32)
+
+
+
+PokerStars Hand #213920130854:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:20:43 MSK [2020/05/15 15:20:43 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Sergeimer73 ($1.98 in chips) 
+Seat 2: romel90 ($1.94 in chips) 
+Seat 3: Evgenii99307 ($3.21 in chips) 
+Seat 5: lawlex_2 ($2.37 in chips) 
+Seat 6: gogolmisri ($2.17 in chips) 
+Sergeimer73: posts small blind $0.01
+romel90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 4s]
+Evgenii99307: raises $0.04 to $0.06
+lawlex_2: calls $0.06
+gogolmisri: folds 
+Sergeimer73: folds 
+romel90: folds 
+*** FLOP *** [As 4h 8c]
+Evgenii99307: checks 
+lawlex_2: checks 
+*** TURN *** [As 4h 8c] [5d]
+Evgenii99307: bets $0.14
+lawlex_2: calls $0.14
+*** RIVER *** [As 4h 8c 5d] [8d]
+Evgenii99307: bets $0.41
+lawlex_2: raises $0.41 to $0.82
+Evgenii99307: calls $0.41
+*** SHOW DOWN ***
+lawlex_2: shows [4c 4s] (a full house, Fours full of Eights)
+Evgenii99307: shows [Ac 8h] (a full house, Eights full of Aces)
+Evgenii99307 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.07 | Rake $0.07 
+Board [As 4h 8c 5d 8d]
+Seat 1: Sergeimer73 (small blind) folded before Flop
+Seat 2: romel90 (big blind) folded before Flop
+Seat 3: Evgenii99307 showed [Ac 8h] and won ($2) with a full house, Eights full of Aces
+Seat 5: lawlex_2 showed [4c 4s] and lost with a full house, Fours full of Eights
+Seat 6: gogolmisri (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213920184423:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:21:31 MSK [2020/05/15 15:21:31 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Sergeimer73 ($1.97 in chips) 
+Seat 2: romel90 ($1.92 in chips) 
+Seat 3: Evgenii99307 ($4.19 in chips) 
+Seat 5: lawlex_2 ($1.35 in chips) 
+Seat 6: gogolmisri ($2.17 in chips) 
+romel90: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 2s]
+lawlex_2: folds 
+gogolmisri: raises $0.02 to $0.04
+Sergeimer73: folds 
+romel90: folds 
+Evgenii99307: raises $0.08 to $0.12
+gogolmisri: folds 
+Uncalled bet ($0.08) returned to Evgenii99307
+Evgenii99307 collected $0.09 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Sergeimer73 (button) folded before Flop (didn't bet)
+Seat 2: romel90 (small blind) folded before Flop
+Seat 3: Evgenii99307 (big blind) collected ($0.09)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: gogolmisri folded before Flop
+
+
+
+PokerStars Hand #213920223745:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:22:07 MSK [2020/05/15 15:22:07 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Sergeimer73 ($1.97 in chips) 
+Seat 2: romel90 ($1.91 in chips) 
+Seat 3: Evgenii99307 ($4.24 in chips) 
+Seat 5: lawlex_2 ($1.35 in chips) 
+Seat 6: gogolmisri ($2.13 in chips) 
+Evgenii99307: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Ks]
+gogolmisri: folds 
+Sergeimer73: folds 
+romel90: folds 
+Evgenii99307: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Sergeimer73 folded before Flop (didn't bet)
+Seat 2: romel90 (button) folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) collected ($0.02)
+Seat 6: gogolmisri folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213920237006:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:22:19 MSK [2020/05/15 15:22:19 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Sergeimer73 ($1.97 in chips) 
+Seat 2: romel90 ($1.91 in chips) 
+Seat 3: Evgenii99307 ($4.23 in chips) 
+Seat 5: lawlex_2 ($1.36 in chips) 
+Seat 6: gogolmisri ($2.13 in chips) 
+lawlex_2: posts small blind $0.01
+gogolmisri: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Js]
+Sergeimer73: raises $0.04 to $0.06
+romel90: folds 
+Evgenii99307: folds 
+lawlex_2: folds 
+gogolmisri: folds 
+Uncalled bet ($0.04) returned to Sergeimer73
+Sergeimer73 collected $0.05 from pot
+Sergeimer73: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sergeimer73 collected ($0.05)
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: gogolmisri (big blind) folded before Flop
+
+
+
+PokerStars Hand #213920248781:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:22:30 MSK [2020/05/15 15:22:30 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Sergeimer73 ($2 in chips) 
+Seat 2: romel90 ($1.91 in chips) 
+Seat 3: Evgenii99307 ($4.23 in chips) 
+Seat 5: lawlex_2 ($1.35 in chips) 
+Seat 6: gogolmisri ($2.11 in chips) 
+gogolmisri: posts small blind $0.01
+Sergeimer73: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 7h]
+romel90: folds 
+Evgenii99307: folds 
+lawlex_2: raises $0.03 to $0.05
+gogolmisri: calls $0.04
+Sergeimer73: folds 
+*** FLOP *** [2h 8c Qd]
+gogolmisri: checks 
+lawlex_2: bets $0.08
+gogolmisri: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2h 8c Qd]
+Seat 1: Sergeimer73 (big blind) folded before Flop
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) collected ($0.12)
+Seat 6: gogolmisri (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213920289150:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:23:06 MSK [2020/05/15 15:23:06 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Sergeimer73 ($1.98 in chips) 
+Seat 2: romel90 ($1.91 in chips) 
+Seat 3: Evgenii99307 ($4.23 in chips) 
+Seat 5: lawlex_2 ($1.42 in chips) 
+romel90: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Kh]
+gogolmisri leaves the table
+lawlex_2: raises $0.03 to $0.05
+Sergeimer73: folds 
+romel90: folds 
+Evgenii99307: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sergeimer73 (button) folded before Flop (didn't bet)
+Seat 2: romel90 (small blind) folded before Flop
+Seat 3: Evgenii99307 (big blind) folded before Flop
+Seat 5: lawlex_2 collected ($0.05)
+
+
+
+PokerStars Hand #213920306208:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:23:22 MSK [2020/05/15 15:23:22 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Sergeimer73 ($1.98 in chips) 
+Seat 2: romel90 ($1.90 in chips) 
+Seat 3: Evgenii99307 ($4.21 in chips) 
+Seat 5: lawlex_2 ($1.45 in chips) 
+Evgenii99307: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Th]
+Sergeimer73: folds 
+romel90: raises $0.04 to $0.06
+Evgenii99307: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to romel90
+romel90 collected $0.05 from pot
+EkaterinaDes was removed from the table for failing to post
+EkaterinaDes leaves the table
+romel90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sergeimer73 folded before Flop (didn't bet)
+Seat 2: romel90 (button) collected ($0.05)
+Seat 3: Evgenii99307 (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213920322272:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:23:36 MSK [2020/05/15 15:23:36 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Sergeimer73 ($1.98 in chips) 
+Seat 2: romel90 ($1.93 in chips) 
+Seat 3: Evgenii99307 ($4.20 in chips) 
+Seat 5: lawlex_2 ($1.43 in chips) 
+lawlex_2: posts small blind $0.01
+Sergeimer73: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Qc]
+romel90: folds 
+Evgenii99307: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Sergeimer73
+Sergeimer73 collected $0.02 from pot
+Sergeimer73: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Sergeimer73 (big blind) collected ($0.02)
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213920332154:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:23:45 MSK [2020/05/15 15:23:45 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Sergeimer73 ($1.99 in chips) 
+Seat 2: romel90 ($1.93 in chips) 
+Seat 3: Evgenii99307 ($4.20 in chips) 
+Seat 5: lawlex_2 ($1.42 in chips) 
+Sergeimer73: posts small blind $0.01
+romel90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Th]
+Evgenii99307: folds 
+lawlex_2: folds 
+Sergeimer73: folds 
+Uncalled bet ($0.01) returned to romel90
+romel90 collected $0.02 from pot
+romel90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Sergeimer73 (small blind) folded before Flop
+Seat 2: romel90 (big blind) collected ($0.02)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213920343769:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:23:55 MSK [2020/05/15 15:23:55 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Sergeimer73 ($1.98 in chips) 
+Seat 2: romel90 ($1.94 in chips) 
+Seat 3: Evgenii99307 ($4.20 in chips) 
+Seat 5: lawlex_2 ($1.42 in chips) 
+romel90: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 3h]
+lawlex_2: folds 
+Sergeimer73: folds 
+romel90: folds 
+Uncalled bet ($0.01) returned to Evgenii99307
+Evgenii99307 collected $0.02 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Sergeimer73 (button) folded before Flop (didn't bet)
+Seat 2: romel90 (small blind) folded before Flop
+Seat 3: Evgenii99307 (big blind) collected ($0.02)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213920360218:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:24:10 MSK [2020/05/15 15:24:10 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Sergeimer73 ($1.98 in chips) 
+Seat 2: romel90 ($1.93 in chips) 
+Seat 3: Evgenii99307 ($4.21 in chips) 
+Seat 5: lawlex_2 ($1.42 in chips) 
+Evgenii99307: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Jh]
+Sergeimer73: folds 
+abear876 joins the table at seat #6 
+romel90: folds 
+Evgenii99307: raises $0.04 to $0.06
+lawlex_2: calls $0.04
+*** FLOP *** [6s Kc 4d]
+Evgenii99307: checks 
+lawlex_2: checks 
+*** TURN *** [6s Kc 4d] [Td]
+Evgenii99307: checks 
+EkaterinaDes joins the table at seat #4 
+lawlex_2: checks 
+*** RIVER *** [6s Kc 4d Td] [5s]
+Evgenii99307: checks 
+lawlex_2: bets $0.08
+Evgenii99307: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6s Kc 4d Td 5s]
+Seat 1: Sergeimer73 folded before Flop (didn't bet)
+Seat 2: romel90 (button) folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (small blind) folded on the River
+Seat 5: lawlex_2 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #213920410074:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:24:55 MSK [2020/05/15 15:24:55 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Sergeimer73 ($1.98 in chips) 
+Seat 2: romel90 ($1.93 in chips) 
+Seat 3: Evgenii99307 ($4.15 in chips) 
+Seat 5: lawlex_2 ($1.48 in chips) 
+Seat 6: abear876 ($1.60 in chips) 
+lawlex_2: posts small blind $0.01
+abear876: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Ad]
+Sergeimer73: folds 
+romel90: folds 
+Evgenii99307: folds 
+lawlex_2: raises $0.03 to $0.05
+abear876: calls $0.03
+*** FLOP *** [Ah 5c 2h]
+lawlex_2: bets $0.07
+abear876: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.10 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Ah 5c 2h]
+Seat 1: Sergeimer73 folded before Flop (didn't bet)
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) collected ($0.10)
+Seat 6: abear876 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213920433245:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:25:16 MSK [2020/05/15 15:25:16 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Sergeimer73 ($1.98 in chips) 
+Seat 2: romel90 ($1.93 in chips) 
+Seat 3: Evgenii99307 ($4.15 in chips) 
+Seat 4: EkaterinaDes ($2.62 in chips) 
+Seat 5: lawlex_2 ($1.53 in chips) 
+Seat 6: abear876 ($1.55 in chips) 
+abear876: posts small blind $0.01
+Sergeimer73: posts big blind $0.02
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Ks]
+romel90: folds 
+Evgenii99307: folds 
+EkaterinaDes: checks 
+lawlex_2: folds 
+abear876: calls $0.01
+Sergeimer73: checks 
+*** FLOP *** [Th Qc Kd]
+abear876: bets $0.06
+Sergeimer73: folds 
+EkaterinaDes: calls $0.06
+*** TURN *** [Th Qc Kd] [6s]
+abear876: bets $0.10
+EkaterinaDes: calls $0.10
+*** RIVER *** [Th Qc Kd 6s] [5d]
+abear876: bets $0.40
+EkaterinaDes: calls $0.40
+*** SHOW DOWN ***
+abear876: shows [Qs 6c] (two pair, Queens and Sixes)
+EkaterinaDes: mucks hand 
+abear876 collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [Th Qc Kd 6s 5d]
+Seat 1: Sergeimer73 (big blind) folded on the Flop
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes mucked [Kc 2d]
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: abear876 (small blind) showed [Qs 6c] and won ($1.14) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #213920533677:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:26:40 MSK [2020/05/15 15:26:40 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Sergeimer73 ($1.96 in chips) 
+Seat 2: romel90 ($1.93 in chips) 
+Seat 3: Evgenii99307 ($4.15 in chips) 
+Seat 4: EkaterinaDes ($2.04 in chips) 
+Seat 5: lawlex_2 ($1.53 in chips) 
+Seat 6: abear876 ($2.11 in chips) 
+Sergeimer73: posts small blind $0.01
+romel90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 4c]
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+abear876: calls $0.02
+Sergeimer73: folds 
+romel90: checks 
+*** FLOP *** [Jd 9s Qc]
+romel90: bets $0.02
+EkaterinaDes: folds 
+abear876: raises $0.06 to $0.08
+romel90: calls $0.06
+*** TURN *** [Jd 9s Qc] [Qs]
+romel90: bets $0.02
+abear876: raises $0.08 to $0.10
+romel90: calls $0.08
+*** RIVER *** [Jd 9s Qc Qs] [7s]
+romel90: bets $0.02
+abear876: raises $0.23 to $0.25
+romel90: folds 
+Uncalled bet ($0.23) returned to abear876
+abear876 collected $0.45 from pot
+abear876: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Jd 9s Qc Qs 7s]
+Seat 1: Sergeimer73 (small blind) folded before Flop
+Seat 2: romel90 (big blind) folded on the River
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: abear876 (button) collected ($0.45)
+
+
+
+PokerStars Hand #213920666354:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:28:40 MSK [2020/05/15 15:28:40 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Sergeimer73 ($1.95 in chips) 
+Seat 2: romel90 ($1.71 in chips) 
+Seat 3: Evgenii99307 ($4.15 in chips) 
+Seat 4: EkaterinaDes ($2.02 in chips) 
+Seat 5: lawlex_2 ($1.53 in chips) 
+Seat 6: abear876 ($2.34 in chips) 
+romel90: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 4c]
+EkaterinaDes: raises $0.02 to $0.04
+lawlex_2: folds 
+abear876: folds 
+Sergeimer73: raises $0.11 to $0.15
+romel90: folds 
+Evgenii99307: folds 
+EkaterinaDes: calls $0.11
+*** FLOP *** [6h Qc 9h]
+EkaterinaDes: bets $0.02
+Sergeimer73: calls $0.02
+*** TURN *** [6h Qc 9h] [Th]
+EkaterinaDes: bets $0.02
+Sergeimer73: calls $0.02
+*** RIVER *** [6h Qc 9h Th] [6c]
+EkaterinaDes: bets $0.02
+Sergeimer73: calls $0.02
+*** SHOW DOWN ***
+EkaterinaDes: shows [Ad Qh] (two pair, Queens and Sixes)
+Sergeimer73: mucks hand 
+EkaterinaDes collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [6h Qc 9h Th 6c]
+Seat 1: Sergeimer73 (button) mucked [Ac Jh]
+Seat 2: romel90 (small blind) folded before Flop
+Seat 3: Evgenii99307 (big blind) folded before Flop
+Seat 4: EkaterinaDes showed [Ad Qh] and won ($0.43) with two pair, Queens and Sixes
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: abear876 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213920718829:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:29:29 MSK [2020/05/15 15:29:29 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Sergeimer73 ($1.74 in chips) 
+Seat 2: romel90 ($1.70 in chips) 
+Seat 3: Evgenii99307 ($4.13 in chips) 
+Seat 4: EkaterinaDes ($2.24 in chips) 
+Seat 5: lawlex_2 ($1.53 in chips) 
+Seat 6: abear876 ($2.34 in chips) 
+Evgenii99307: posts small blind $0.01
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 9c]
+lawlex_2: folds 
+abear876: calls $0.02
+Sergeimer73: folds 
+romel90 has timed out
+romel90: folds 
+Evgenii99307: raises $0.02 to $0.04
+EkaterinaDes: calls $0.02
+abear876: calls $0.02
+*** FLOP *** [Ad Jc 6h]
+Evgenii99307: checks 
+EkaterinaDes: checks 
+abear876: checks 
+*** TURN *** [Ad Jc 6h] [As]
+Evgenii99307: checks 
+EkaterinaDes: checks 
+abear876: bets $0.06
+Evgenii99307: folds 
+EkaterinaDes: folds 
+Uncalled bet ($0.06) returned to abear876
+abear876 collected $0.12 from pot
+abear876: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ad Jc 6h As]
+Seat 1: Sergeimer73 folded before Flop (didn't bet)
+Seat 2: romel90 (button) folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (small blind) folded on the Turn
+Seat 4: EkaterinaDes (big blind) folded on the Turn
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: abear876 collected ($0.12)
+
+
+
+PokerStars Hand #213920779599:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:30:22 MSK [2020/05/15 15:30:22 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Sergeimer73 ($1.74 in chips) 
+Seat 2: romel90 ($1.70 in chips) 
+Seat 3: Evgenii99307 ($4.09 in chips) 
+Seat 4: EkaterinaDes ($2.20 in chips) 
+Seat 5: lawlex_2 ($1.53 in chips) 
+Seat 6: abear876 ($2.42 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 9c]
+abear876: folds 
+Sergeimer73: folds 
+romel90: raises $0.04 to $0.06
+Evgenii99307: folds 
+EkaterinaDes: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to romel90
+romel90 collected $0.05 from pot
+romel90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sergeimer73 folded before Flop (didn't bet)
+Seat 2: romel90 collected ($0.05)
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: abear876 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213920802038:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:30:42 MSK [2020/05/15 15:30:42 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 1: Sergeimer73 ($1.74 in chips) 
+Seat 2: romel90 ($1.73 in chips) 
+Seat 3: Evgenii99307 ($4.09 in chips) 
+Seat 4: EkaterinaDes ($2.19 in chips) 
+Seat 5: lawlex_2 ($1.51 in chips) 
+Seat 6: abear876 ($2.42 in chips) 
+lawlex_2: posts small blind $0.01
+abear876: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Qs]
+Sergeimer73: raises $0.04 to $0.06
+romel90: folds 
+Evgenii99307: folds 
+EkaterinaDes: calls $0.06
+lawlex_2: folds 
+abear876: calls $0.04
+*** FLOP *** [4s Ac 5d]
+abear876: checks 
+Sergeimer73: bets $0.12
+EkaterinaDes: folds 
+abear876: folds 
+Uncalled bet ($0.12) returned to Sergeimer73
+Sergeimer73 collected $0.18 from pot
+Sergeimer73: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4s Ac 5d]
+Seat 1: Sergeimer73 collected ($0.18)
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (button) folded on the Flop
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: abear876 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213920840662:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:31:15 MSK [2020/05/15 15:31:15 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 1: Sergeimer73 ($1.86 in chips) 
+Seat 2: romel90 ($1.73 in chips) 
+Seat 3: Evgenii99307 ($4.09 in chips) 
+Seat 4: EkaterinaDes ($2.13 in chips) 
+Seat 5: lawlex_2 ($1.50 in chips) 
+Seat 6: abear876 ($2.36 in chips) 
+abear876: posts small blind $0.01
+Sergeimer73: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 7h]
+romel90: folds 
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes: calls $0.06
+lawlex_2: folds 
+abear876: calls $0.05
+Sergeimer73: folds 
+*** FLOP *** [3d Qh Ad]
+abear876: checks 
+Evgenii99307: bets $0.06
+EkaterinaDes: calls $0.06
+abear876: folds 
+*** TURN *** [3d Qh Ad] [Td]
+Evgenii99307: bets $0.31
+EkaterinaDes: folds 
+Uncalled bet ($0.31) returned to Evgenii99307
+Evgenii99307 collected $0.31 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [3d Qh Ad Td]
+Seat 1: Sergeimer73 (big blind) folded before Flop
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 collected ($0.31)
+Seat 4: EkaterinaDes folded on the Turn
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: abear876 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213920889688:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:31:58 MSK [2020/05/15 15:31:58 ET]
+Table 'Shedir IV' 6-max Seat #6 is the button
+Seat 1: Sergeimer73 ($1.84 in chips) 
+Seat 2: romel90 ($1.73 in chips) 
+Seat 3: Evgenii99307 ($4.28 in chips) 
+Seat 4: EkaterinaDes ($2.01 in chips) 
+Seat 5: lawlex_2 ($1.50 in chips) 
+Seat 6: abear876 ($2.30 in chips) 
+Sergeimer73: posts small blind $0.01
+romel90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 5s]
+Evgenii99307: folds 
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+abear876: calls $0.02
+Sergeimer73: folds 
+romel90: checks 
+*** FLOP *** [3d 7d 5d]
+romel90: checks 
+EkaterinaDes: checks 
+abear876: bets $0.07
+romel90: folds 
+EkaterinaDes: folds 
+Uncalled bet ($0.07) returned to abear876
+abear876 collected $0.07 from pot
+abear876: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3d 7d 5d]
+Seat 1: Sergeimer73 (small blind) folded before Flop
+Seat 2: romel90 (big blind) folded on the Flop
+Seat 3: Evgenii99307 folded before Flop (didn't bet)
+Seat 4: EkaterinaDes folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: abear876 (button) collected ($0.07)
+
+
+
+PokerStars Hand #213920920504:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:32:24 MSK [2020/05/15 15:32:24 ET]
+Table 'Shedir IV' 6-max Seat #1 is the button
+Seat 1: Sergeimer73 ($1.83 in chips) 
+Seat 2: romel90 ($1.71 in chips) 
+Seat 3: Evgenii99307 ($4.28 in chips) 
+Seat 4: EkaterinaDes ($1.99 in chips) 
+Seat 5: lawlex_2 ($1.50 in chips) 
+Seat 6: abear876 ($2.35 in chips) 
+romel90: posts small blind $0.01
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Td]
+EkaterinaDes: calls $0.02
+lawlex_2: folds 
+abear876: raises $0.02 to $0.04
+Sergeimer73: folds 
+romel90: folds 
+Evgenii99307: calls $0.02
+EkaterinaDes: calls $0.02
+*** FLOP *** [6s 9h Kc]
+Evgenii99307: bets $0.07
+EkaterinaDes: folds 
+abear876: calls $0.07
+*** TURN *** [6s 9h Kc] [2s]
+Evgenii99307: bets $0.06
+abear876: raises $0.19 to $0.25
+Evgenii99307: folds 
+Uncalled bet ($0.19) returned to abear876
+abear876 collected $0.38 from pot
+abear876: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [6s 9h Kc 2s]
+Seat 1: Sergeimer73 (button) folded before Flop (didn't bet)
+Seat 2: romel90 (small blind) folded before Flop
+Seat 3: Evgenii99307 (big blind) folded on the Turn
+Seat 4: EkaterinaDes folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: abear876 collected ($0.38)
+
+
+
+PokerStars Hand #213920966778:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:33:04 MSK [2020/05/15 15:33:04 ET]
+Table 'Shedir IV' 6-max Seat #2 is the button
+Seat 1: Sergeimer73 ($1.83 in chips) 
+Seat 2: romel90 ($1.70 in chips) 
+Seat 3: Evgenii99307 ($4.11 in chips) 
+Seat 4: EkaterinaDes ($1.95 in chips) 
+Seat 5: lawlex_2 ($1.50 in chips) 
+Seat 6: abear876 ($2.56 in chips) 
+Evgenii99307: posts small blind $0.01
+EkaterinaDes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 2h]
+lawlex_2: folds 
+abear876: folds 
+Sergeimer73: folds 
+romel90 has timed out
+romel90: folds 
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes: calls $0.04
+*** FLOP *** [5h 2c 3d]
+Evgenii99307: bets $0.06
+EkaterinaDes: calls $0.06
+*** TURN *** [5h 2c 3d] [7s]
+Evgenii99307: bets $0.12
+EkaterinaDes: calls $0.12
+*** RIVER *** [5h 2c 3d 7s] [7h]
+Evgenii99307: bets $0.23
+EkaterinaDes: folds 
+Uncalled bet ($0.23) returned to Evgenii99307
+Evgenii99307 collected $0.46 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [5h 2c 3d 7s 7h]
+Seat 1: Sergeimer73 folded before Flop (didn't bet)
+Seat 2: romel90 (button) folded before Flop (didn't bet)
+Seat 3: Evgenii99307 (small blind) collected ($0.46)
+Seat 4: EkaterinaDes (big blind) folded on the River
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: abear876 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213921012404:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:33:42 MSK [2020/05/15 15:33:42 ET]
+Table 'Shedir IV' 6-max Seat #3 is the button
+Seat 1: Sergeimer73 ($1.83 in chips) 
+Seat 3: Evgenii99307 ($4.33 in chips) 
+Seat 4: EkaterinaDes ($1.71 in chips) 
+Seat 5: lawlex_2 ($1.50 in chips) 
+Seat 6: abear876 ($2.56 in chips) 
+EkaterinaDes: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 2s]
+abear876: calls $0.02
+Sergeimer73: raises $0.04 to $0.06
+Evgenii99307: folds 
+EkaterinaDes: calls $0.05
+lawlex_2: folds 
+abear876: calls $0.04
+*** FLOP *** [Ks Kh 2c]
+EkaterinaDes: checks 
+abear876: checks 
+Sergeimer73: bets $0.14
+EkaterinaDes: folds 
+abear876: calls $0.14
+*** TURN *** [Ks Kh 2c] [9d]
+abear876: checks 
+Sergeimer73: bets $0.35
+abear876: raises $0.35 to $0.70
+Sergeimer73: raises $0.93 to $1.63 and is all-in
+abear876: folds 
+Uncalled bet ($0.93) returned to Sergeimer73
+Sergeimer73 collected $1.81 from pot
+Sergeimer73: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.88 | Rake $0.07 
+Board [Ks Kh 2c 9d]
+Seat 1: Sergeimer73 collected ($1.81)
+Seat 3: Evgenii99307 (button) folded before Flop (didn't bet)
+Seat 4: EkaterinaDes (small blind) folded on the Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: abear876 folded on the Turn
+
+
+
+PokerStars Hand #213921085595:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:34:44 MSK [2020/05/15 15:34:44 ET]
+Table 'Shedir IV' 6-max Seat #4 is the button
+Seat 1: Sergeimer73 ($2.74 in chips) 
+Seat 2: romel90 ($1.70 in chips) 
+Seat 3: Evgenii99307 ($4.33 in chips) 
+Seat 4: EkaterinaDes ($1.65 in chips) 
+Seat 5: lawlex_2 ($1.48 in chips) 
+Seat 6: abear876 ($1.66 in chips) 
+lawlex_2: posts small blind $0.01
+abear876: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 2h]
+Sergeimer73: folds 
+romel90: folds 
+romel90 leaves the table
+Evgenii99307: raises $0.04 to $0.06
+EkaterinaDes has timed out
+EkaterinaDes: folds 
+lawlex_2: folds 
+abear876: calls $0.04
+*** FLOP *** [Td 5c Ah]
+abear876: checks 
+Evgenii99307: bets $0.07
+abear876: folds 
+Uncalled bet ($0.07) returned to Evgenii99307
+Evgenii99307 collected $0.13 from pot
+Evgenii99307: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Td 5c Ah]
+Seat 1: Sergeimer73 folded before Flop (didn't bet)
+Seat 2: romel90 folded before Flop (didn't bet)
+Seat 3: Evgenii99307 collected ($0.13)
+Seat 4: EkaterinaDes (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: abear876 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213921132629:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:35:25 MSK [2020/05/15 15:35:25 ET]
+Table 'Shedir IV' 6-max Seat #5 is the button
+Seat 3: Evgenii99307 ($4.40 in chips) 
+Seat 4: EkaterinaDes ($1.65 in chips) 
+Seat 5: lawlex_2 ($1.47 in chips) 
+Seat 6: abear876 ($1.60 in chips) 
+abear876: posts small blind $0.01
+Sergeimer73: is sitting out 
+Evgenii99307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Kd]
+Sergeimer73 leaves the table
+EkaterinaDes: calls $0.02
+lawlex_2: raises $0.05 to $0.07
+abear876: raises $0.05 to $0.12
+Evgenii99307: folds 
+EkaterinaDes: calls $0.10
+lawlex_2: calls $0.05
+*** FLOP *** [9h 5s 2s]
+abear876: bets $0.20
+EkaterinaDes: folds 
+lawlex_2: raises $1.15 to $1.35 and is all-in
+abear876: calls $1.15
+*** TURN *** [9h 5s 2s] [3c]
+*** RIVER *** [9h 5s 2s 3c] [Js]
+*** SHOW DOWN ***
+abear876: shows [Ah Ac] (a pair of Aces)
+lawlex_2: shows [Ks Kd] (a pair of Kings)
+abear876 collected $2.97 from pot
+*** SUMMARY ***
+Total pot $3.08 | Rake $0.11 
+Board [9h 5s 2s 3c Js]
+Seat 3: Evgenii99307 (big blind) folded before Flop
+Seat 4: EkaterinaDes folded on the Flop
+Seat 5: lawlex_2 (button) showed [Ks Kd] and lost with a pair of Kings
+Seat 6: abear876 (small blind) showed [Ah Ac] and won ($2.97) with a pair of Aces
+
+
+

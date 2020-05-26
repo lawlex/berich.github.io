@@ -1,0 +1,3588 @@
+﻿PokerStars Hand #213046402754:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:02:18 MSK [2020/05/01 1:02:18 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: pao3843 ($0.49 in chips) 
+Seat 3: Demon39888 ($2.09 in chips) 
+Seat 4: lawlex_2 ($1.60 in chips) 
+Seat 5: Pete_G23G ($1.59 in chips) 
+Seat 6: CoverXx ($2.03 in chips) 
+pao3843: posts small blind $0.01
+Demon39888: posts big blind $0.02
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Ad]
+lawlex_2: raises $0.04 to $0.06
+Pete_G23G: folds 
+CoverXx: folds 
+pao3843: folds 
+Demon39888: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pao3843 (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046408106:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:02:30 MSK [2020/05/01 1:02:30 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: pao3843 ($0.48 in chips) 
+Seat 3: Demon39888 ($2.07 in chips) 
+Seat 4: lawlex_2 ($1.63 in chips) 
+Seat 5: Pete_G23G ($1.59 in chips) 
+Seat 6: CoverXx ($2.03 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 6d]
+13-kit-13 joins the table at seat #2 
+Pete_G23G: calls $0.02
+CoverXx: folds 
+pao3843: folds 
+Demon39888: folds 
+lawlex_2: checks 
+*** FLOP *** [5h Kc 6h]
+lawlex_2: checks 
+Pete_G23G: bets $0.02
+lawlex_2: calls $0.02
+*** TURN *** [5h Kc 6h] [As]
+lawlex_2: checks 
+Pete_G23G: checks 
+*** RIVER *** [5h Kc 6h As] [5s]
+lawlex_2: checks 
+Pete_G23G: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Th 6d] (two pair, Sixes and Fives)
+Pete_G23G: mucks hand 
+lawlex_2 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5h Kc 6h As 5s]
+Seat 1: pao3843 (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) showed [Th 6d] and won ($0.09) with two pair, Sixes and Fives
+Seat 5: Pete_G23G mucked [4d 4h]
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046424983:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:03:09 MSK [2020/05/01 1:03:09 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: pao3843 ($0.48 in chips) 
+Seat 2: 13-kit-13 ($2 in chips) 
+Seat 3: Demon39888 ($2.06 in chips) 
+Seat 4: lawlex_2 ($1.68 in chips) 
+Seat 5: Pete_G23G ($1.55 in chips) 
+Seat 6: CoverXx ($2.03 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+13-kit-13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 7s]
+CoverXx: folds 
+pao3843: calls $0.02
+13-kit-13: checks 
+Demon39888: raises $0.09 to $0.11
+lawlex_2: folds 
+Pete_G23G: folds 
+pao3843: raises $0.37 to $0.48 and is all-in
+13-kit-13: folds 
+Demon39888: folds 
+Uncalled bet ($0.37) returned to pao3843
+pao3843 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0 
+Seat 1: pao3843 collected ($0.27)
+Seat 2: 13-kit-13 folded before Flop (didn't bet)
+Seat 3: Demon39888 (button) folded before Flop
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) folded before Flop
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046443315:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:03:51 MSK [2020/05/01 1:03:51 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: pao3843 ($0.64 in chips) 
+Seat 2: 13-kit-13 ($1.98 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.67 in chips) 
+Seat 5: Pete_G23G ($1.53 in chips) 
+Seat 6: CoverXx ($2.03 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 9c]
+pao3843: folds 
+13-kit-13: calls $0.02
+Demon39888: folds 
+lawlex_2: raises $0.04 to $0.06
+Pete_G23G: calls $0.05
+CoverXx: folds 
+13-kit-13: folds 
+*** FLOP *** [Ts 8s 2s]
+Pete_G23G: checks 
+lawlex_2: bets $0.02
+Pete_G23G: calls $0.02
+*** TURN *** [Ts 8s 2s] [3c]
+Pete_G23G: checks 
+lawlex_2: bets $0.02
+Pete_G23G: calls $0.02
+*** RIVER *** [Ts 8s 2s 3c] [2c]
+Pete_G23G: bets $0.02
+lawlex_2: calls $0.02
+*** SHOW DOWN ***
+Pete_G23G: shows [Th 6h] (two pair, Tens and Deuces)
+lawlex_2: mucks hand 
+Pete_G23G collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Ts 8s 2s 3c 2c]
+Seat 1: pao3843 folded before Flop (didn't bet)
+Seat 2: 13-kit-13 folded before Flop
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) mucked [9s 9c]
+Seat 5: Pete_G23G (small blind) showed [Th 6h] and won ($0.27) with two pair, Tens and Deuces
+Seat 6: CoverXx (big blind) folded before Flop
+
+
+
+PokerStars Hand #213046469404:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:04:51 MSK [2020/05/01 1:04:51 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: pao3843 ($0.64 in chips) 
+Seat 2: 13-kit-13 ($1.96 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.55 in chips) 
+Seat 5: Pete_G23G ($1.68 in chips) 
+Seat 6: CoverXx ($2.01 in chips) 
+CoverXx: posts small blind $0.01
+pao3843: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 6d]
+13-kit-13: folds 
+Demon39888: folds 
+lawlex_2: raises $0.04 to $0.06
+Pete_G23G: folds 
+CoverXx: folds 
+pao3843: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pao3843 (big blind) folded before Flop
+Seat 2: 13-kit-13 folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Pete_G23G (button) folded before Flop (didn't bet)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213046477236:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:05:09 MSK [2020/05/01 1:05:09 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: pao3843 ($0.62 in chips) 
+Seat 2: 13-kit-13 ($1.96 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.58 in chips) 
+Seat 5: Pete_G23G ($1.68 in chips) 
+Seat 6: CoverXx ($2 in chips) 
+pao3843: posts small blind $0.01
+13-kit-13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Td]
+Demon39888: raises $0.03 to $0.05
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+pao3843: folds 
+13-kit-13: folds 
+Uncalled bet ($0.03) returned to Demon39888
+Demon39888 collected $0.05 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: pao3843 (small blind) folded before Flop
+Seat 2: 13-kit-13 (big blind) folded before Flop
+Seat 3: Demon39888 collected ($0.05)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046484333:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:05:25 MSK [2020/05/01 1:05:25 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: pao3843 ($0.61 in chips) 
+Seat 2: 13-kit-13 ($1.94 in chips) 
+Seat 3: Demon39888 ($2.03 in chips) 
+Seat 4: lawlex_2 ($1.58 in chips) 
+Seat 5: Pete_G23G ($1.68 in chips) 
+Seat 6: CoverXx ($2 in chips) 
+13-kit-13: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Qd]
+lawlex_2: calls $0.02
+Pete_G23G: folds 
+CoverXx: raises $0.08 to $0.10
+pao3843: folds 
+13-kit-13: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.08) returned to CoverXx
+CoverXx collected $0.07 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: pao3843 (button) folded before Flop (didn't bet)
+Seat 2: 13-kit-13 (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx collected ($0.07)
+
+
+
+PokerStars Hand #213046495825:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:05:52 MSK [2020/05/01 1:05:52 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 1: pao3843 ($0.61 in chips) 
+Seat 2: 13-kit-13 ($1.93 in chips) 
+Seat 3: Demon39888 ($2.01 in chips) 
+Seat 4: lawlex_2 ($1.56 in chips) 
+Seat 5: Pete_G23G ($1.68 in chips) 
+Seat 6: CoverXx ($2.05 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 5h]
+Pete_G23G: calls $0.02
+CoverXx: folds 
+pao3843: folds 
+13-kit-13: folds 
+Demon39888: folds 
+lawlex_2: checks 
+*** FLOP *** [6h Td Th]
+lawlex_2: checks 
+Pete_G23G: bets $0.02
+lawlex_2: calls $0.02
+*** TURN *** [6h Td Th] [8s]
+lawlex_2: checks 
+Pete_G23G: checks 
+*** RIVER *** [6h Td Th 8s] [4h]
+lawlex_2: checks 
+Pete_G23G: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [As 5h] (a pair of Tens)
+Pete_G23G: mucks hand 
+lawlex_2 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6h Td Th 8s 4h]
+Seat 1: pao3843 folded before Flop (didn't bet)
+Seat 2: 13-kit-13 (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) showed [As 5h] and won ($0.09) with a pair of Tens
+Seat 5: Pete_G23G mucked [3s 2s]
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046508916:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:06:22 MSK [2020/05/01 1:06:22 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: pao3843 ($0.61 in chips) 
+Seat 2: 13-kit-13 ($1.93 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.61 in chips) 
+Seat 5: Pete_G23G ($1.64 in chips) 
+Seat 6: CoverXx ($2.05 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 5h]
+CoverXx: folds 
+pao3843: folds 
+13-kit-13: calls $0.02
+Demon39888: raises $0.06 to $0.08
+lawlex_2: folds 
+Pete_G23G: calls $0.06
+13-kit-13: calls $0.06
+*** FLOP *** [5c Ad 6s]
+Pete_G23G: checks 
+13-kit-13: checks 
+Demon39888: checks 
+*** TURN *** [5c Ad 6s] [9s]
+Pete_G23G: bets $0.02
+13-kit-13: folds 
+Demon39888: raises $0.07 to $0.09
+Pete_G23G: folds 
+Uncalled bet ($0.07) returned to Demon39888
+Demon39888 collected $0.28 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [5c Ad 6s 9s]
+Seat 1: pao3843 folded before Flop (didn't bet)
+Seat 2: 13-kit-13 folded on the Turn
+Seat 3: Demon39888 (button) collected ($0.28)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) folded on the Turn
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046529187:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:07:08 MSK [2020/05/01 1:07:08 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: pao3843 ($0.61 in chips) 
+Seat 2: 13-kit-13 ($1.85 in chips) 
+Seat 3: Demon39888 ($2.18 in chips) 
+Seat 4: lawlex_2 ($1.60 in chips) 
+Seat 5: Pete_G23G ($1.54 in chips) 
+Seat 6: CoverXx ($2.05 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Jc]
+pao3843: folds 
+13-kit-13: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.01
+CoverXx: checks 
+*** FLOP *** [8s 5d 2h]
+Pete_G23G: bets $0.02
+CoverXx: folds 
+Uncalled bet ($0.02) returned to Pete_G23G
+Pete_G23G collected $0.04 from pot
+Pete_G23G: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8s 5d 2h]
+Seat 1: pao3843 folded before Flop (didn't bet)
+Seat 2: 13-kit-13 folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) collected ($0.04)
+Seat 6: CoverXx (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213046538704:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:07:30 MSK [2020/05/01 1:07:30 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: pao3843 ($0.61 in chips) 
+Seat 2: 13-kit-13 ($1.85 in chips) 
+Seat 3: Demon39888 ($2.18 in chips) 
+Seat 4: lawlex_2 ($1.60 in chips) 
+Seat 5: Pete_G23G ($1.56 in chips) 
+Seat 6: CoverXx ($2.03 in chips) 
+CoverXx: posts small blind $0.01
+pao3843: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Jc]
+13-kit-13: calls $0.02
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.02
+CoverXx: folds 
+pao3843: checks 
+*** FLOP *** [2h 9h 6c]
+pao3843: checks 
+13-kit-13: checks 
+Pete_G23G: checks 
+*** TURN *** [2h 9h 6c] [Jh]
+pao3843: checks 
+13-kit-13: checks 
+Pete_G23G: bets $0.02
+pao3843: folds 
+13-kit-13: folds 
+Uncalled bet ($0.02) returned to Pete_G23G
+Pete_G23G collected $0.07 from pot
+Pete_G23G: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2h 9h 6c Jh]
+Seat 1: pao3843 (big blind) folded on the Turn
+Seat 2: 13-kit-13 folded on the Turn
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G (button) collected ($0.07)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213046560844:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:08:21 MSK [2020/05/01 1:08:21 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: pao3843 ($0.59 in chips) 
+Seat 3: Demon39888 ($2.18 in chips) 
+Seat 4: lawlex_2 ($1.60 in chips) 
+Seat 5: Pete_G23G ($1.61 in chips) 
+Seat 6: CoverXx ($2.02 in chips) 
+pao3843: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Qc]
+13-kit-13 leaves the table
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+pao3843: folds 
+Uncalled bet ($0.01) returned to Demon39888
+Demon39888 collected $0.02 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: pao3843 (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) collected ($0.02)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046564768:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:08:30 MSK [2020/05/01 1:08:30 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: pao3843 ($0.58 in chips) 
+Seat 3: Demon39888 ($2.19 in chips) 
+Seat 4: lawlex_2 ($1.60 in chips) 
+Seat 5: Pete_G23G ($1.61 in chips) 
+Seat 6: CoverXx ($2.02 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 4c]
+Pete_G23G: folds 
+26TKoo joins the table at seat #2 
+CoverXx: folds 
+pao3843: calls $0.02
+Demon39888: raises $0.07 to $0.09
+lawlex_2: folds 
+pao3843: calls $0.07
+*** FLOP *** [9c Jh Tc]
+Demon39888: bets $0.20
+pao3843: raises $0.29 to $0.49 and is all-in
+Demon39888: calls $0.29
+Pete_G23G is disconnected 
+*** TURN *** [9c Jh Tc] [Td]
+*** RIVER *** [9c Jh Tc Td] [8c]
+*** SHOW DOWN ***
+Demon39888: shows [Kd Kh] (two pair, Kings and Tens)
+pao3843: shows [Jd As] (two pair, Jacks and Tens)
+Demon39888 collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [9c Jh Tc Td 8c]
+Seat 1: pao3843 (button) showed [Jd As] and lost with two pair, Jacks and Tens
+Seat 3: Demon39888 (small blind) showed [Kd Kh] and won ($1.14) with two pair, Kings and Tens
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046584285:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:09:16 MSK [2020/05/01 1:09:16 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 3: Demon39888 ($2.75 in chips) 
+Seat 4: lawlex_2 ($1.58 in chips) 
+Seat 5: Pete_G23G ($1.61 in chips) 
+Seat 6: CoverXx ($2.02 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+26TKoo: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Qd]
+enriko.michaud joins the table at seat #1 
+CoverXx: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Pete_G23G
+Pete_G23G collected $0.02 from pot
+Pete_G23G: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) collected ($0.02)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046590533:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:09:30 MSK [2020/05/01 1:09:30 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 3: Demon39888 ($2.75 in chips) 
+Seat 4: lawlex_2 ($1.57 in chips) 
+Seat 5: Pete_G23G ($1.62 in chips) 
+Seat 6: CoverXx ($2.02 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+enriko.michaud: sits out 
+26TKoo: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Kd]
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.01
+CoverXx: checks 
+*** FLOP *** [9c 8s Kh]
+Pete_G23G: bets $0.02
+CoverXx: calls $0.02
+*** TURN *** [9c 8s Kh] [4d]
+Pete_G23G: bets $0.02
+CoverXx: calls $0.02
+*** RIVER *** [9c 8s Kh 4d] [2h]
+Pete_G23G: bets $0.02
+CoverXx: calls $0.02
+*** SHOW DOWN ***
+Pete_G23G: shows [Ks Td] (a pair of Kings)
+CoverXx: mucks hand 
+Pete_G23G collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [9c 8s Kh 4d 2h]
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) showed [Ks Td] and won ($0.15) with a pair of Kings
+Seat 6: CoverXx (big blind) mucked [8c 7h]
+
+
+
+PokerStars Hand #213046606309:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:10:07 MSK [2020/05/01 1:10:07 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: enriko.michaud ($2 in chips) 
+Seat 3: Demon39888 ($2.75 in chips) 
+Seat 4: lawlex_2 ($1.57 in chips) 
+Seat 5: Pete_G23G ($1.69 in chips) 
+Seat 6: CoverXx ($2 in chips) 
+CoverXx: posts small blind $0.01
+enriko.michaud: posts big blind $0.02
+26TKoo: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Td]
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.02
+CoverXx: folds 
+enriko.michaud: checks 
+*** FLOP *** [As Qd 7d]
+enriko.michaud: checks 
+Pete_G23G: bets $0.02
+enriko.michaud: folds 
+Uncalled bet ($0.02) returned to Pete_G23G
+Pete_G23G collected $0.05 from pot
+Pete_G23G: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As Qd 7d]
+Seat 1: enriko.michaud (big blind) folded on the Flop
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G (button) collected ($0.05)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213046614152:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:10:25 MSK [2020/05/01 1:10:25 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: enriko.michaud ($1.98 in chips) 
+Seat 2: 26TKoo ($0.89 in chips) 
+Seat 3: Demon39888 ($2.75 in chips) 
+Seat 4: lawlex_2 ($1.57 in chips) 
+Seat 5: Pete_G23G ($1.72 in chips) 
+Seat 6: CoverXx ($2 in chips) 
+enriko.michaud: posts small blind $0.01
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Jc]
+Demon39888: raises $0.03 to $0.05
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: calls $0.05
+enriko.michaud: folds 
+26TKoo: calls $0.03
+*** FLOP *** [9c 2h 6d]
+26TKoo: bets $0.02
+Demon39888: calls $0.02
+CoverXx: raises $0.16 to $0.18
+26TKoo: calls $0.16
+Demon39888: folds 
+*** TURN *** [9c 2h 6d] [Kc]
+26TKoo: checks 
+CoverXx: bets $0.24
+26TKoo: calls $0.24
+*** RIVER *** [9c 2h 6d Kc] [Ad]
+26TKoo: checks 
+CoverXx: bets $0.38
+26TKoo: folds 
+Uncalled bet ($0.38) returned to CoverXx
+CoverXx collected $0.98 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [9c 2h 6d Kc Ad]
+Seat 1: enriko.michaud (small blind) folded before Flop
+Seat 2: 26TKoo (big blind) folded on the River
+Seat 3: Demon39888 folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) collected ($0.98)
+
+
+
+PokerStars Hand #213046650107:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:11:49 MSK [2020/05/01 1:11:49 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: enriko.michaud ($1.97 in chips) 
+Seat 2: 26TKoo ($0.42 in chips) 
+Seat 3: Demon39888 ($2.68 in chips) 
+Seat 4: lawlex_2 ($1.57 in chips) 
+Seat 5: Pete_G23G ($1.72 in chips) 
+Seat 6: CoverXx ($2.51 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Js]
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: raises $0.04 to $0.06
+enriko.michaud: calls $0.06
+26TKoo: folds 
+Demon39888: folds 
+*** FLOP *** [5h 8d Ac]
+CoverXx: bets $0.04
+enriko.michaud: raises $0.42 to $0.46
+CoverXx: folds 
+Uncalled bet ($0.42) returned to enriko.michaud
+enriko.michaud collected $0.22 from pot
+enriko.michaud: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [5h 8d Ac]
+Seat 1: enriko.michaud (button) collected ($0.22)
+Seat 2: 26TKoo (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded on the Flop
+
+
+
+PokerStars Hand #213046662687:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:12:18 MSK [2020/05/01 1:12:18 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 1: enriko.michaud ($2.09 in chips) 
+Seat 2: 26TKoo ($0.41 in chips) 
+Seat 3: Demon39888 ($2.66 in chips) 
+Seat 4: lawlex_2 ($1.57 in chips) 
+Seat 5: Pete_G23G ($1.72 in chips) 
+Seat 6: CoverXx ($2.41 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 3d]
+Pete_G23G: folds 
+CoverXx: folds 
+enriko.michaud: folds 
+26TKoo: folds 
+Demon39888: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Demon39888
+Demon39888 collected $0.04 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: enriko.michaud folded before Flop (didn't bet)
+Seat 2: 26TKoo (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) collected ($0.04)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046669224:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:12:33 MSK [2020/05/01 1:12:33 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: enriko.michaud ($2.09 in chips) 
+Seat 2: 26TKoo ($0.41 in chips) 
+Seat 3: Demon39888 ($2.68 in chips) 
+Seat 4: lawlex_2 ($1.55 in chips) 
+Seat 5: Pete_G23G ($1.72 in chips) 
+Seat 6: CoverXx ($2.41 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Ad]
+CoverXx: folds 
+enriko.michaud: calls $0.02
+26TKoo: raises $0.39 to $0.41 and is all-in
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: folds 
+enriko.michaud: calls $0.39
+*** FLOP *** [8c 2h As]
+*** TURN *** [8c 2h As] [Qc]
+*** RIVER *** [8c 2h As Qc] [5h]
+*** SHOW DOWN ***
+enriko.michaud: shows [Qd 3d] (a pair of Queens)
+26TKoo: shows [Ah Ks] (a pair of Aces)
+26TKoo collected $0.82 from pot
+enriko.michaud cashed out the hand for $0.30
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [8c 2h As Qc 5h]
+Seat 1: enriko.michaud showed [Qd 3d] and lost with a pair of Queens (cashed out).
+Seat 2: 26TKoo showed [Ah Ks] and won ($0.82) with a pair of Aces
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) folded before Flop
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046686659:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:13:14 MSK [2020/05/01 1:13:14 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: enriko.michaud ($1.98 in chips) 
+Seat 2: 26TKoo ($0.82 in chips) 
+Seat 3: Demon39888 ($2.68 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Pete_G23G ($1.70 in chips) 
+Seat 6: CoverXx ($2.41 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Th]
+enriko.michaud: folds 
+26TKoo has timed out
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.01
+CoverXx: checks 
+*** FLOP *** [7s Td 7c]
+Pete_G23G: checks 
+CoverXx: checks 
+*** TURN *** [7s Td 7c] [Jc]
+Pete_G23G: checks 
+CoverXx: checks 
+*** RIVER *** [7s Td 7c Jc] [3c]
+Pete_G23G: checks 
+CoverXx: checks 
+*** SHOW DOWN ***
+Pete_G23G: shows [5d Ah] (a pair of Sevens)
+CoverXx: shows [5s Ad] (a pair of Sevens)
+Pete_G23G collected $0.02 from pot
+CoverXx collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7s Td 7c Jc 3c]
+Seat 1: enriko.michaud folded before Flop (didn't bet)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) showed [5d Ah] and won ($0.02) with a pair of Sevens
+Seat 6: CoverXx (big blind) showed [5s Ad] and won ($0.02) with a pair of Sevens
+
+
+
+PokerStars Hand #213046703245:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:13:53 MSK [2020/05/01 1:13:53 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: enriko.michaud ($1.98 in chips) 
+Seat 3: Demon39888 ($2.68 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Pete_G23G ($1.70 in chips) 
+Seat 6: CoverXx ($2.41 in chips) 
+CoverXx: posts small blind $0.01
+enriko.michaud: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 5s]
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.02
+CoverXx: folds 
+enriko.michaud: checks 
+*** FLOP *** [7h Ks 7d]
+enriko.michaud: checks 
+Pete_G23G: bets $0.02
+enriko.michaud: folds 
+Uncalled bet ($0.02) returned to Pete_G23G
+Pete_G23G collected $0.05 from pot
+Pete_G23G: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7h Ks 7d]
+Seat 1: enriko.michaud (big blind) folded on the Flop
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G (button) collected ($0.05)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213046719222:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:14:30 MSK [2020/05/01 1:14:30 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: enriko.michaud ($1.96 in chips) 
+Seat 3: Demon39888 ($2.68 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Pete_G23G ($1.73 in chips) 
+Seat 6: CoverXx ($2.40 in chips) 
+enriko.michaud: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s As]
+lawlex_2: raises $0.04 to $0.06
+Pete_G23G: folds 
+CoverXx: folds 
+enriko.michaud: folds 
+Demon39888: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: enriko.michaud (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046727828:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:14:50 MSK [2020/05/01 1:14:50 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: enriko.michaud ($1.95 in chips) 
+Seat 3: Demon39888 ($2.66 in chips) 
+Seat 4: lawlex_2 ($1.57 in chips) 
+Seat 5: Pete_G23G ($1.73 in chips) 
+Seat 6: CoverXx ($2.40 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 4s]
+Pete_G23G: folds 
+CoverXx: folds 
+enriko.michaud: folds 
+Demon39888: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Demon39888
+Demon39888 collected $0.04 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: enriko.michaud (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) collected ($0.04)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046734462:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:15:05 MSK [2020/05/01 1:15:05 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: enriko.michaud ($1.95 in chips) 
+Seat 3: Demon39888 ($2.68 in chips) 
+Seat 4: lawlex_2 ($1.55 in chips) 
+Seat 5: Pete_G23G ($1.73 in chips) 
+Seat 6: CoverXx ($2.40 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+26TKoo: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Ks]
+CoverXx: folds 
+enriko.michaud: calls $0.02
+Demon39888: raises $0.06 to $0.08
+lawlex_2: folds 
+Pete_G23G: folds 
+enriko.michaud: calls $0.06
+*** FLOP *** [Qh As Qd]
+enriko.michaud: checks 
+Demon39888: bets $0.10
+enriko.michaud: raises $0.10 to $0.20
+Demon39888: calls $0.10
+*** TURN *** [Qh As Qd] [6h]
+enriko.michaud: bets $1.67 and is all-in
+Demon39888: folds 
+Uncalled bet ($1.67) returned to enriko.michaud
+enriko.michaud collected $0.57 from pot
+enriko.michaud: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [Qh As Qd 6h]
+Seat 1: enriko.michaud collected ($0.57)
+Seat 3: Demon39888 (button) folded on the Turn
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) folded before Flop
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046754157:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:15:50 MSK [2020/05/01 1:15:50 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: enriko.michaud ($2.24 in chips) 
+Seat 3: Demon39888 ($2.40 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Pete_G23G ($1.71 in chips) 
+Seat 6: CoverXx ($2.40 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+26TKoo: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 5h]
+enriko.michaud: folds 
+Demon39888: raises $0.03 to $0.05
+lawlex_2: folds 
+Pete_G23G: calls $0.04
+CoverXx: calls $0.03
+*** FLOP *** [As 5d 3h]
+Pete_G23G: checks 
+CoverXx: checks 
+Demon39888: checks 
+*** TURN *** [As 5d 3h] [2c]
+Pete_G23G: checks 
+CoverXx: checks 
+Demon39888: checks 
+*** RIVER *** [As 5d 3h 2c] [3d]
+Pete_G23G: checks 
+CoverXx: checks 
+Demon39888: bets $0.06
+Pete_G23G: folds 
+CoverXx: folds 
+Uncalled bet ($0.06) returned to Demon39888
+Demon39888 collected $0.14 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [As 5d 3h 2c 3d]
+Seat 1: enriko.michaud folded before Flop (didn't bet)
+Seat 3: Demon39888 collected ($0.14)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) folded on the River
+Seat 6: CoverXx (big blind) folded on the River
+
+
+
+PokerStars Hand #213046790718:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:16:55 MSK [2020/05/01 1:16:55 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: enriko.michaud ($2.24 in chips) 
+Seat 3: Demon39888 ($2.49 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Pete_G23G ($1.66 in chips) 
+Seat 6: CoverXx ($2.35 in chips) 
+CoverXx: posts small blind $0.01
+enriko.michaud: posts big blind $0.02
+26TKoo: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Qh]
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: raises $0.04 to $0.06
+enriko.michaud: folds 
+Uncalled bet ($0.04) returned to CoverXx
+CoverXx collected $0.04 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: enriko.michaud (big blind) folded before Flop
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G (button) folded before Flop (didn't bet)
+Seat 6: CoverXx (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213046799322:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:17:15 MSK [2020/05/01 1:17:15 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: enriko.michaud ($2.22 in chips) 
+Seat 2: 26TKoo ($0.82 in chips) 
+Seat 3: Demon39888 ($2.49 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Pete_G23G ($1.66 in chips) 
+Seat 6: CoverXx ($2.37 in chips) 
+enriko.michaud: posts small blind $0.01
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 6d]
+Demon39888: raises $0.04 to $0.06
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+enriko.michaud: folds 
+26TKoo: folds 
+Uncalled bet ($0.04) returned to Demon39888
+Demon39888 collected $0.05 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: enriko.michaud (small blind) folded before Flop
+Seat 2: 26TKoo (big blind) folded before Flop
+Seat 3: Demon39888 collected ($0.05)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046806590:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:17:32 MSK [2020/05/01 1:17:32 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: enriko.michaud ($2.21 in chips) 
+Seat 2: 26TKoo ($0.80 in chips) 
+Seat 3: Demon39888 ($2.52 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Pete_G23G ($1.66 in chips) 
+Seat 6: CoverXx ($2.37 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Js]
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+enriko.michaud: folds 
+26TKoo: raises $0.02 to $0.04
+Demon39888: calls $0.02
+*** FLOP *** [Qh Tc Kc]
+26TKoo: bets $0.02
+Demon39888: calls $0.02
+*** TURN *** [Qh Tc Kc] [7h]
+26TKoo: checks 
+Demon39888: bets $0.12
+26TKoo: folds 
+Uncalled bet ($0.12) returned to Demon39888
+enriko.michaud leaves the table
+Demon39888 collected $0.12 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qh Tc Kc 7h]
+Seat 1: enriko.michaud (button) folded before Flop (didn't bet)
+Seat 2: 26TKoo (small blind) folded on the Turn
+Seat 3: Demon39888 (big blind) collected ($0.12)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046824948:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:18:15 MSK [2020/05/01 1:18:15 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 2: 26TKoo ($0.74 in chips) 
+Seat 3: Demon39888 ($2.58 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Pete_G23G ($1.66 in chips) 
+Seat 6: CoverXx ($2.37 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 6s]
+Pete_G23G: folds 
+CoverXx: raises $0.04 to $0.06
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [3c 5d 4h]
+lawlex_2: bets $0.13
+CoverXx: folds 
+Uncalled bet ($0.13) returned to lawlex_2
+LuckyLee89 joins the table at seat #1 
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3c 5d 4h]
+Seat 2: 26TKoo (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.13)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded on the Flop
+
+
+
+PokerStars Hand #213046836548:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:18:42 MSK [2020/05/01 1:18:42 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: LuckyLee89 ($1.60 in chips) 
+Seat 2: 26TKoo ($0.74 in chips) 
+Seat 3: Demon39888 ($2.57 in chips) 
+Seat 4: lawlex_2 ($1.61 in chips) 
+Seat 5: Pete_G23G ($1.66 in chips) 
+Seat 6: CoverXx ($2.31 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+LuckyLee89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 5h]
+CoverXx: folds 
+LuckyLee89: checks 
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: checks 
+*** FLOP *** [Qh Ah 3s]
+Pete_G23G: checks 
+LuckyLee89: checks 
+*** TURN *** [Qh Ah 3s] [6h]
+Pete_G23G: bets $0.02
+LuckyLee89: calls $0.02
+*** RIVER *** [Qh Ah 3s 6h] [4h]
+Pete_G23G: bets $0.02
+LuckyLee89: calls $0.02
+*** SHOW DOWN ***
+Pete_G23G: shows [Js 3h] (a flush, Ace high)
+LuckyLee89: shows [6s Jh] (a flush, Ace high - Jack higher)
+LuckyLee89 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qh Ah 3s 6h 4h]
+Seat 1: LuckyLee89 showed [6s Jh] and won ($0.13) with a flush, Ace high
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) showed [Js 3h] and lost with a flush, Ace high
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046850962:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:19:16 MSK [2020/05/01 1:19:16 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: LuckyLee89 ($1.67 in chips) 
+Seat 2: 26TKoo ($0.74 in chips) 
+Seat 3: Demon39888 ($2.57 in chips) 
+Seat 4: lawlex_2 ($1.60 in chips) 
+Seat 5: Pete_G23G ($1.60 in chips) 
+Seat 6: CoverXx ($2.31 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Qh]
+LuckyLee89: raises $0.02 to $0.04
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.03
+CoverXx: calls $0.02
+*** FLOP *** [3d Th 5h]
+Pete_G23G: checks 
+CoverXx: checks 
+LuckyLee89: bets $0.04
+Pete_G23G: folds 
+CoverXx: raises $0.10 to $0.14
+LuckyLee89: calls $0.10
+*** TURN *** [3d Th 5h] [Js]
+CoverXx: bets $0.39
+LuckyLee89: calls $0.39
+*** RIVER *** [3d Th 5h Js] [4d]
+CoverXx: bets $1.71
+LuckyLee89: folds 
+Uncalled bet ($1.71) returned to CoverXx
+CoverXx collected $1.14 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [3d Th 5h Js 4d]
+Seat 1: LuckyLee89 folded on the River
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) folded on the Flop
+Seat 6: CoverXx (big blind) collected ($1.14)
+
+
+
+PokerStars Hand #213046879432:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:20:23 MSK [2020/05/01 1:20:23 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: LuckyLee89 ($1.10 in chips) 
+Seat 2: 26TKoo ($0.74 in chips) 
+Seat 3: Demon39888 ($2.57 in chips) 
+Seat 4: lawlex_2 ($1.60 in chips) 
+Seat 5: Pete_G23G ($1.56 in chips) 
+Seat 6: CoverXx ($2.88 in chips) 
+CoverXx: posts small blind $0.01
+LuckyLee89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Jh]
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+Uncalled bet ($0.01) returned to LuckyLee89
+LuckyLee89 collected $0.02 from pot
+LuckyLee89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: LuckyLee89 (big blind) collected ($0.02)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G (button) folded before Flop (didn't bet)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213046888346:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:20:45 MSK [2020/05/01 1:20:45 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: LuckyLee89 ($1.11 in chips) 
+Seat 2: 26TKoo ($0.74 in chips) 
+Seat 3: Demon39888 ($2.57 in chips) 
+Seat 4: lawlex_2 ($1.60 in chips) 
+Seat 5: Pete_G23G ($1.56 in chips) 
+Seat 6: CoverXx ($2.87 in chips) 
+LuckyLee89: posts small blind $0.01
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Js]
+Demon39888: raises $0.04 to $0.06
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+LuckyLee89: folds 
+26TKoo: folds 
+Uncalled bet ($0.04) returned to Demon39888
+Demon39888 collected $0.05 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LuckyLee89 (small blind) folded before Flop
+Seat 2: 26TKoo (big blind) folded before Flop
+Seat 3: Demon39888 collected ($0.05)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046893156:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:20:56 MSK [2020/05/01 1:20:56 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: LuckyLee89 ($1.10 in chips) 
+Seat 2: 26TKoo ($0.72 in chips) 
+Seat 3: Demon39888 ($2.60 in chips) 
+Seat 4: lawlex_2 ($1.60 in chips) 
+Seat 5: Pete_G23G ($1.56 in chips) 
+Seat 6: CoverXx ($2.87 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Jh]
+lawlex_2: raises $0.04 to $0.06
+Pete_G23G: folds 
+CoverXx: folds 
+LuckyLee89: folds 
+26TKoo: folds 
+Demon39888: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LuckyLee89 (button) folded before Flop (didn't bet)
+Seat 2: 26TKoo (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046900043:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:21:13 MSK [2020/05/01 1:21:13 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 1: LuckyLee89 ($1.10 in chips) 
+Seat 2: 26TKoo ($0.71 in chips) 
+Seat 3: Demon39888 ($2.58 in chips) 
+Seat 4: lawlex_2 ($1.63 in chips) 
+Seat 5: Pete_G23G ($1.56 in chips) 
+Seat 6: CoverXx ($2.87 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Qs]
+Pete_G23G: folds 
+CoverXx: folds 
+LuckyLee89: folds 
+26TKoo: folds 
+Demon39888: raises $0.04 to $0.06
+lawlex_2: calls $0.04
+*** FLOP *** [4d Ac Kh]
+Demon39888: checks 
+lawlex_2: bets $0.06
+LuckyLee89 leaves the table
+Demon39888: calls $0.06
+*** TURN *** [4d Ac Kh] [Qd]
+Demon39888: checks 
+lawlex_2: bets $0.12
+Demon39888: calls $0.12
+*** RIVER *** [4d Ac Kh Qd] [Ks]
+Demon39888: checks 
+lawlex_2: bets $0.46
+Hambummel joins the table at seat #1 
+Demon39888: calls $0.46
+*** SHOW DOWN ***
+lawlex_2: shows [Qh Qs] (a full house, Queens full of Kings)
+Demon39888: mucks hand 
+lawlex_2 collected $1.35 from pot
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.05 
+Board [4d Ac Kh Qd Ks]
+Seat 1: LuckyLee89 folded before Flop (didn't bet)
+Seat 2: 26TKoo (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) mucked [Ad 6s]
+Seat 4: lawlex_2 (big blind) showed [Qh Qs] and won ($1.35) with a full house, Queens full of Kings
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046925723:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:22:14 MSK [2020/05/01 1:22:14 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: Hambummel ($0.80 in chips) 
+Seat 2: 26TKoo ($0.71 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.28 in chips) 
+Seat 5: Pete_G23G ($1.56 in chips) 
+Seat 6: CoverXx ($2.87 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+Hambummel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 9d]
+CoverXx: folds 
+Hambummel: checks 
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: raises $0.06 to $0.08
+Pete_G23G: folds 
+Hambummel: calls $0.06
+*** FLOP *** [5c 2s 4d]
+lawlex_2: checks 
+Hambummel: checks 
+*** TURN *** [5c 2s 4d] [6s]
+lawlex_2: checks 
+Hambummel: bets $0.08
+lawlex_2: calls $0.08
+*** RIVER *** [5c 2s 4d 6s] [7s]
+lawlex_2: checks 
+Hambummel: bets $0.16
+lawlex_2: calls $0.16
+*** SHOW DOWN ***
+Hambummel: shows [6d 2d] (two pair, Sixes and Deuces)
+lawlex_2: mucks hand 
+Hambummel collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [5c 2s 4d 6s 7s]
+Seat 1: Hambummel showed [6d 2d] and won ($0.64) with two pair, Sixes and Deuces
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) mucked [9h 9d]
+Seat 5: Pete_G23G (big blind) folded before Flop
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046944430:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:22:58 MSK [2020/05/01 1:22:58 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: Hambummel ($1.12 in chips) 
+Seat 2: 26TKoo ($0.71 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.96 in chips) 
+Seat 5: Pete_G23G ($1.54 in chips) 
+Seat 6: CoverXx ($2.87 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Ts]
+Hambummel: calls $0.02
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.01
+CoverXx: raises $0.08 to $0.10
+Hambummel: calls $0.08
+Pete_G23G: folds 
+*** FLOP *** [Qs Kd Th]
+CoverXx: checks 
+Hambummel: checks 
+*** TURN *** [Qs Kd Th] [Td]
+CoverXx: checks 
+Hambummel: checks 
+*** RIVER *** [Qs Kd Th Td] [3s]
+CoverXx: checks 
+Hambummel: bets $0.22
+CoverXx: folds 
+Uncalled bet ($0.22) returned to Hambummel
+Hambummel collected $0.21 from pot
+Hambummel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Qs Kd Th Td 3s]
+Seat 1: Hambummel collected ($0.21)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) folded before Flop
+Seat 6: CoverXx (big blind) folded on the River
+
+
+
+PokerStars Hand #213046972006:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:24:03 MSK [2020/05/01 1:24:03 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: Hambummel ($1.23 in chips) 
+Seat 2: 26TKoo ($0.71 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.96 in chips) 
+Seat 5: Pete_G23G ($1.52 in chips) 
+Seat 6: CoverXx ($2.77 in chips) 
+CoverXx: posts small blind $0.01
+Hambummel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 9h]
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.02
+CoverXx: folds 
+Hambummel: checks 
+*** FLOP *** [9d 3h Kc]
+Hambummel: checks 
+Pete_G23G: bets $0.02
+Hambummel: calls $0.02
+*** TURN *** [9d 3h Kc] [2c]
+Hambummel: checks 
+Pete_G23G: checks 
+*** RIVER *** [9d 3h Kc 2c] [7h]
+Hambummel: bets $0.08
+Pete_G23G: calls $0.08
+*** SHOW DOWN ***
+Hambummel: shows [3c Jc] (a pair of Threes)
+Pete_G23G: shows [Th Tc] (a pair of Tens)
+Pete_G23G collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9d 3h Kc 2c 7h]
+Seat 1: Hambummel (big blind) showed [3c Jc] and lost with a pair of Threes
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G (button) showed [Th Tc] and won ($0.24) with a pair of Tens
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213046985847:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:24:36 MSK [2020/05/01 1:24:36 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: Hambummel ($1.11 in chips) 
+Seat 2: 26TKoo ($0.71 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.96 in chips) 
+Seat 5: Pete_G23G ($1.64 in chips) 
+Seat 6: CoverXx ($2.76 in chips) 
+Hambummel: posts small blind $0.01
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 8c]
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+Hambummel: calls $0.01
+26TKoo: checks 
+*** FLOP *** [6d 2s 5s]
+Hambummel: checks 
+26TKoo: checks 
+*** TURN *** [6d 2s 5s] [Qs]
+Hambummel: checks 
+26TKoo: checks 
+*** RIVER *** [6d 2s 5s Qs] [2c]
+Hambummel: checks 
+26TKoo: checks 
+*** SHOW DOWN ***
+Hambummel: shows [3h Kh] (a pair of Deuces)
+26TKoo: shows [Ks 5c] (two pair, Fives and Deuces)
+26TKoo collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6d 2s 5s Qs 2c]
+Seat 1: Hambummel (small blind) showed [3h Kh] and lost with a pair of Deuces
+Seat 2: 26TKoo (big blind) showed [Ks 5c] and won ($0.04) with two pair, Fives and Deuces
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213046998909:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:25:07 MSK [2020/05/01 1:25:07 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: Hambummel ($1.09 in chips) 
+Seat 2: 26TKoo ($0.73 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.96 in chips) 
+Seat 5: Pete_G23G ($1.64 in chips) 
+Seat 6: CoverXx ($2.76 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d As]
+lawlex_2: raises $0.04 to $0.06
+Pete_G23G: folds 
+CoverXx: folds 
+Hambummel: folds 
+26TKoo: folds 
+Demon39888: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Hambummel (button) folded before Flop (didn't bet)
+Seat 2: 26TKoo (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047011431:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:25:37 MSK [2020/05/01 1:25:37 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 1: Hambummel ($1.09 in chips) 
+Seat 2: 26TKoo ($0.72 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.99 in chips) 
+Seat 5: Pete_G23G ($1.64 in chips) 
+Seat 6: CoverXx ($2.76 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 3c]
+Pete_G23G: folds 
+CoverXx: folds 
+Hambummel: calls $0.02
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: checks 
+*** FLOP *** [As 5s Ah]
+lawlex_2: checks 
+Hambummel: checks 
+*** TURN *** [As 5s Ah] [Ac]
+lawlex_2: checks 
+Hambummel: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to Hambummel
+Hambummel collected $0.05 from pot
+Hambummel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As 5s Ah Ac]
+Seat 1: Hambummel collected ($0.05)
+Seat 2: 26TKoo (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the Turn
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047027887:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:26:16 MSK [2020/05/01 1:26:16 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: Hambummel ($1.12 in chips) 
+Seat 2: 26TKoo ($0.72 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: Pete_G23G ($1.64 in chips) 
+Seat 6: CoverXx ($2.76 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 2s]
+CoverXx: folds 
+Hambummel: folds 
+26TKoo: raises $0.02 to $0.04
+Demon39888: raises $0.12 to $0.16
+lawlex_2: folds 
+Pete_G23G: folds 
+26TKoo: calls $0.12
+*** FLOP *** [Kh Kc 6c]
+26TKoo: bets $0.56 and is all-in
+Demon39888: calls $0.56
+*** TURN *** [Kh Kc 6c] [9d]
+*** RIVER *** [Kh Kc 6c 9d] [3d]
+*** SHOW DOWN ***
+26TKoo: shows [6h 5h] (two pair, Kings and Sixes)
+Demon39888: shows [Qc As] (a pair of Kings)
+26TKoo collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.05 
+Board [Kh Kc 6c 9d 3d]
+Seat 1: Hambummel folded before Flop (didn't bet)
+Seat 2: 26TKoo showed [6h 5h] and won ($1.42) with two pair, Kings and Sixes
+Seat 3: Demon39888 (button) showed [Qc As] and lost with a pair of Kings
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) folded before Flop
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047055246:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:27:21 MSK [2020/05/01 1:27:21 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: Hambummel ($1.12 in chips) 
+Seat 2: 26TKoo ($1.42 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.96 in chips) 
+Seat 5: Pete_G23G ($1.62 in chips) 
+Seat 6: CoverXx ($2.76 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 9s]
+Hambummel: folds 
+26TKoo: raises $0.05 to $0.07
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+Uncalled bet ($0.05) returned to 26TKoo
+26TKoo collected $0.05 from pot
+26TKoo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Hambummel folded before Flop (didn't bet)
+Seat 2: 26TKoo collected ($0.05)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) folded before Flop
+Seat 6: CoverXx (big blind) folded before Flop
+
+
+
+PokerStars Hand #213047065111:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:27:45 MSK [2020/05/01 1:27:45 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: Hambummel ($1.12 in chips) 
+Seat 2: 26TKoo ($1.45 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.96 in chips) 
+Seat 5: Pete_G23G ($1.61 in chips) 
+Seat 6: CoverXx ($2.74 in chips) 
+CoverXx: posts small blind $0.01
+Hambummel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 2s]
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: raises $0.04 to $0.06
+Hambummel: calls $0.04
+*** FLOP *** [Ks 4h Ad]
+CoverXx: bets $0.03
+Hambummel: calls $0.03
+*** TURN *** [Ks 4h Ad] [Qs]
+CoverXx: checks 
+Hambummel: checks 
+*** RIVER *** [Ks 4h Ad Qs] [5d]
+CoverXx: bets $0.06
+Hambummel: raises $0.16 to $0.22
+CoverXx: folds 
+Uncalled bet ($0.16) returned to Hambummel
+Hambummel collected $0.29 from pot
+Hambummel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ks 4h Ad Qs 5d]
+Seat 1: Hambummel (big blind) collected ($0.29)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G (button) folded before Flop (didn't bet)
+Seat 6: CoverXx (small blind) folded on the River
+
+
+
+PokerStars Hand #213047088089:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:28:41 MSK [2020/05/01 1:28:41 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: Hambummel ($1.26 in chips) 
+Seat 2: 26TKoo ($1.45 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.96 in chips) 
+Seat 5: Pete_G23G ($1.61 in chips) 
+Seat 6: CoverXx ($2.59 in chips) 
+Hambummel: posts small blind $0.01
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 9s]
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+Hambummel: calls $0.01
+26TKoo: raises $0.04 to $0.06
+Hambummel: calls $0.04
+*** FLOP *** [5c Jc 5s]
+Hambummel: checks 
+26TKoo: bets $0.06
+Hambummel: folds 
+Uncalled bet ($0.06) returned to 26TKoo
+26TKoo collected $0.12 from pot
+26TKoo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5c Jc 5s]
+Seat 1: Hambummel (small blind) folded on the Flop
+Seat 2: 26TKoo (big blind) collected ($0.12)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047112354:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:29:16 MSK [2020/05/01 1:29:16 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: Hambummel ($1.20 in chips) 
+Seat 2: 26TKoo ($1.51 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($1.96 in chips) 
+Seat 5: Pete_G23G ($1.61 in chips) 
+Seat 6: CoverXx ($2.59 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Qc]
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+Hambummel: calls $0.02
+26TKoo: calls $0.01
+Demon39888: checks 
+*** FLOP *** [Qs 5s Qh]
+26TKoo: checks 
+Demon39888: bets $0.04
+Hambummel: folds 
+26TKoo: folds 
+Uncalled bet ($0.04) returned to Demon39888
+Demon39888 collected $0.06 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qs 5s Qh]
+Seat 1: Hambummel (button) folded on the Flop
+Seat 2: 26TKoo (small blind) folded on the Flop
+Seat 3: Demon39888 (big blind) collected ($0.06)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047133090:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:30:06 MSK [2020/05/01 1:30:06 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 1: Hambummel ($1.18 in chips) 
+Seat 2: 26TKoo ($1.49 in chips) 
+Seat 3: Demon39888 ($2.04 in chips) 
+Seat 4: lawlex_2 ($1.96 in chips) 
+Seat 5: Pete_G23G ($1.61 in chips) 
+Seat 6: CoverXx ($2.59 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 5s]
+Pete_G23G: folds 
+CoverXx: folds 
+Hambummel: folds 
+26TKoo: folds 
+Demon39888: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Hambummel folded before Flop (didn't bet)
+Seat 2: 26TKoo (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047143931:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:30:32 MSK [2020/05/01 1:30:32 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: Hambummel ($1.18 in chips) 
+Seat 2: 26TKoo ($1.49 in chips) 
+Seat 3: Demon39888 ($2.03 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: Pete_G23G ($1.61 in chips) 
+Seat 6: CoverXx ($2.59 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 4d]
+CoverXx: folds 
+Hambummel: folds 
+26TKoo: folds 
+Demon39888: raises $0.03 to $0.05
+lawlex_2: calls $0.04
+Pete_G23G: folds 
+*** FLOP *** [Th Kh Jd]
+lawlex_2: checks 
+Demon39888: bets $0.09
+lawlex_2: calls $0.09
+*** TURN *** [Th Kh Jd] [6h]
+lawlex_2: bets $0.15
+Demon39888: folds 
+Uncalled bet ($0.15) returned to lawlex_2
+lawlex_2 collected $0.29 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Th Kh Jd 6h]
+Seat 1: Hambummel folded before Flop (didn't bet)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 (button) folded on the Turn
+Seat 4: lawlex_2 (small blind) collected ($0.29)
+Seat 5: Pete_G23G (big blind) folded before Flop
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047166538:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:31:26 MSK [2020/05/01 1:31:26 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: Hambummel ($1.18 in chips) 
+Seat 2: 26TKoo ($1.49 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.12 in chips) 
+Seat 5: Pete_G23G ($1.59 in chips) 
+Seat 6: CoverXx ($2.59 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 7d]
+Hambummel: folds 
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.01
+CoverXx: checks 
+*** FLOP *** [2d 3h 4d]
+Pete_G23G: checks 
+CoverXx: checks 
+*** TURN *** [2d 3h 4d] [Kc]
+Pete_G23G: bets $0.02
+CoverXx: calls $0.02
+*** RIVER *** [2d 3h 4d Kc] [9d]
+Pete_G23G: checks 
+CoverXx: bets $0.03
+Pete_G23G: folds 
+Uncalled bet ($0.03) returned to CoverXx
+CoverXx collected $0.08 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2d 3h 4d Kc 9d]
+Seat 1: Hambummel folded before Flop (didn't bet)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) folded on the River
+Seat 6: CoverXx (big blind) collected ($0.08)
+
+
+
+PokerStars Hand #213047184461:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:32:09 MSK [2020/05/01 1:32:09 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: Hambummel ($1.18 in chips) 
+Seat 2: 26TKoo ($1.49 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.12 in chips) 
+Seat 5: Pete_G23G ($1.55 in chips) 
+Seat 6: CoverXx ($2.63 in chips) 
+CoverXx: posts small blind $0.01
+Hambummel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 5s]
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: raises $0.04 to $0.06
+Pete_G23G: folds 
+CoverXx: folds 
+Hambummel: calls $0.04
+*** FLOP *** [4c 9s 4h]
+Hambummel: checks 
+lawlex_2: checks 
+*** TURN *** [4c 9s 4h] [Kh]
+Hambummel: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to Hambummel
+Hambummel collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c 9s 4h Kh]
+Seat 1: Hambummel (big blind) collected ($0.13)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded on the Turn
+Seat 5: Pete_G23G (button) folded before Flop (didn't bet)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213047196746:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:32:38 MSK [2020/05/01 1:32:38 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: Hambummel ($1.25 in chips) 
+Seat 2: 26TKoo ($1.49 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.06 in chips) 
+Seat 5: Pete_G23G ($1.55 in chips) 
+Seat 6: CoverXx ($2.62 in chips) 
+Hambummel: posts small blind $0.01
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 9c]
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.02
+CoverXx: folds 
+Hambummel: calls $0.01
+26TKoo: checks 
+*** FLOP *** [6d 7h 3d]
+Hambummel: bets $0.04
+26TKoo: raises $0.07 to $0.11
+Pete_G23G: folds 
+Hambummel: calls $0.07
+*** TURN *** [6d 7h 3d] [Kc]
+Hambummel: checks 
+26TKoo: bets $0.54
+Hambummel: folds 
+Uncalled bet ($0.54) returned to 26TKoo
+26TKoo collected $0.27 from pot
+26TKoo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [6d 7h 3d Kc]
+Seat 1: Hambummel (small blind) folded on the Turn
+Seat 2: 26TKoo (big blind) collected ($0.27)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded on the Flop
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047214487:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:33:21 MSK [2020/05/01 1:33:21 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: Hambummel ($1.12 in chips) 
+Seat 2: 26TKoo ($1.63 in chips) 
+Seat 3: Demon39888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.06 in chips) 
+Seat 5: Pete_G23G ($1.53 in chips) 
+Seat 6: CoverXx ($2.62 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Ks]
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+Hambummel: calls $0.02
+26TKoo: calls $0.01
+Demon39888: raises $0.10 to $0.12
+Hambummel: calls $0.10
+26TKoo: folds 
+*** FLOP *** [5c 3c 7s]
+Demon39888: bets $0.12
+Hambummel: calls $0.12
+*** TURN *** [5c 3c 7s] [9s]
+Demon39888: bets $0.27
+Hambummel: calls $0.27
+*** RIVER *** [5c 3c 7s 9s] [Js]
+Demon39888: bets $0.64
+Hambummel: folds 
+Uncalled bet ($0.64) returned to Demon39888
+Demon39888 collected $1 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.04 | Rake $0.04 
+Board [5c 3c 7s 9s Js]
+Seat 1: Hambummel (button) folded on the River
+Seat 2: 26TKoo (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) collected ($1)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047236763:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:34:14 MSK [2020/05/01 1:34:14 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 1: Hambummel ($0.61 in chips) 
+Seat 2: 26TKoo ($1.61 in chips) 
+Seat 3: Demon39888 ($2.49 in chips) 
+Seat 4: lawlex_2 ($2.06 in chips) 
+Seat 5: Pete_G23G ($1.53 in chips) 
+Seat 6: CoverXx ($2.62 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 7s]
+Pete_G23G: folds 
+CoverXx: raises $0.04 to $0.06
+Hambummel: raises $0.04 to $0.10
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+CoverXx: calls $0.04
+*** FLOP *** [6c 4c 7d]
+CoverXx: checks 
+Hambummel: bets $0.10
+CoverXx: folds 
+Uncalled bet ($0.10) returned to Hambummel
+Hambummel collected $0.22 from pot
+Hambummel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [6c 4c 7d]
+Seat 1: Hambummel collected ($0.22)
+Seat 2: 26TKoo (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded on the Flop
+
+
+
+PokerStars Hand #213047248538:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:34:43 MSK [2020/05/01 1:34:43 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: Hambummel ($0.73 in chips) 
+Seat 2: 26TKoo ($1.61 in chips) 
+Seat 3: Demon39888 ($2.48 in chips) 
+Seat 4: lawlex_2 ($2.04 in chips) 
+Seat 5: Pete_G23G ($1.53 in chips) 
+Seat 6: CoverXx ($2.52 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 8d]
+CoverXx: folds 
+Hambummel: folds 
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Pete_G23G
+Pete_G23G collected $0.02 from pot
+Pete_G23G: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Hambummel folded before Flop (didn't bet)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) collected ($0.02)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047252962:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:34:53 MSK [2020/05/01 1:34:53 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: Hambummel ($0.73 in chips) 
+Seat 2: 26TKoo ($1.61 in chips) 
+Seat 3: Demon39888 ($2.48 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: Pete_G23G ($1.54 in chips) 
+Seat 6: CoverXx ($2.52 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 3d]
+Hambummel: calls $0.02
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.01
+CoverXx: raises $0.08 to $0.10
+Hambummel: calls $0.08
+Pete_G23G: folds 
+*** FLOP *** [Jd Qs 6s]
+CoverXx: checks 
+Hambummel: bets $0.10
+CoverXx: calls $0.10
+*** TURN *** [Jd Qs 6s] [2s]
+CoverXx: checks 
+Hambummel: checks 
+*** RIVER *** [Jd Qs 6s 2s] [7h]
+CoverXx: bets $0.14
+Hambummel: raises $0.39 to $0.53 and is all-in
+CoverXx: calls $0.39
+*** SHOW DOWN ***
+Hambummel: shows [Kh Jc] (a pair of Jacks)
+CoverXx: shows [Th Qd] (a pair of Queens)
+CoverXx collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.48 | Rake $0.05 
+Board [Jd Qs 6s 2s 7h]
+Seat 1: Hambummel showed [Kh Jc] and lost with a pair of Jacks
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) folded before Flop
+Seat 6: CoverXx (big blind) showed [Th Qd] and won ($1.43) with a pair of Queens
+
+
+
+PokerStars Hand #213047276603:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:35:50 MSK [2020/05/01 1:35:50 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 2: 26TKoo ($1.61 in chips) 
+Seat 3: Demon39888 ($2.48 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: Pete_G23G ($1.52 in chips) 
+Seat 6: CoverXx ($3.22 in chips) 
+CoverXx: posts small blind $0.01
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 5c]
+Hambummel leaves the table
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.02
+CoverXx: folds 
+26TKoo: checks 
+*** FLOP *** [4c 5h 9s]
+26TKoo: bets $0.05
+Pete_G23G: folds 
+Uncalled bet ($0.05) returned to 26TKoo
+26TKoo collected $0.05 from pot
+26TKoo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4c 5h 9s]
+Seat 2: 26TKoo (big blind) collected ($0.05)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G (button) folded on the Flop
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213047288708:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:36:20 MSK [2020/05/01 1:36:20 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 2: 26TKoo ($1.64 in chips) 
+Seat 3: Demon39888 ($2.48 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: Pete_G23G ($1.50 in chips) 
+Seat 6: CoverXx ($3.21 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 8c]
+lawlex_2: raises $0.04 to $0.06
+Pete_G23G: folds 
+CoverXx: folds 
+26TKoo: folds 
+Demon39888: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 26TKoo (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047295743:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:36:36 MSK [2020/05/01 1:36:36 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 2: 26TKoo ($1.63 in chips) 
+Seat 3: Demon39888 ($2.46 in chips) 
+Seat 4: lawlex_2 ($2.06 in chips) 
+Seat 5: Pete_G23G ($1.50 in chips) 
+Seat 6: CoverXx ($3.21 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 3h]
+Pete_G23G: folds 
+CoverXx: raises $0.04 to $0.06
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to CoverXx
+CoverXx collected $0.05 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 26TKoo (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx collected ($0.05)
+
+
+
+PokerStars Hand #213047303335:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:36:50 MSK [2020/05/01 1:36:50 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 2: 26TKoo ($1.63 in chips) 
+Seat 3: Demon39888 ($2.45 in chips) 
+Seat 4: lawlex_2 ($2.04 in chips) 
+Seat 5: Pete_G23G ($1.50 in chips) 
+Seat 6: CoverXx ($3.24 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 3s]
+CoverXx: folds 
+26TKoo: folds 
+Demon39888: raises $0.03 to $0.05
+lawlex_2: folds 
+unseentom joins the table at seat #1 
+Pete_G23G: calls $0.03
+*** FLOP *** [Qd Jd Jh]
+Pete_G23G: checks 
+Demon39888: checks 
+*** TURN *** [Qd Jd Jh] [Ac]
+Pete_G23G: checks 
+Demon39888: bets $0.10
+Pete_G23G: folds 
+Uncalled bet ($0.10) returned to Demon39888
+Demon39888 collected $0.11 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qd Jd Jh Ac]
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 (button) collected ($0.11)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) folded on the Turn
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047317692:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:37:25 MSK [2020/05/01 1:37:25 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: unseentom ($1 in chips) 
+Seat 2: 26TKoo ($1.63 in chips) 
+Seat 3: Demon39888 ($2.51 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: Pete_G23G ($1.45 in chips) 
+Seat 6: CoverXx ($3.24 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+unseentom: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 3d]
+unseentom: checks 
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.01
+CoverXx: checks 
+*** FLOP *** [Tc 8d Qs]
+Pete_G23G: checks 
+CoverXx: checks 
+unseentom: checks 
+*** TURN *** [Tc 8d Qs] [3c]
+Pete_G23G: checks 
+CoverXx: checks 
+unseentom: bets $0.02
+Pete_G23G: calls $0.02
+CoverXx: folds 
+*** RIVER *** [Tc 8d Qs 3c] [3h]
+Pete_G23G: checks 
+unseentom: bets $0.10
+Pete_G23G: folds 
+Uncalled bet ($0.10) returned to unseentom
+unseentom collected $0.10 from pot
+unseentom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Tc 8d Qs 3c 3h]
+Seat 1: unseentom collected ($0.10)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) folded on the River
+Seat 6: CoverXx (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213047336648:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:38:11 MSK [2020/05/01 1:38:11 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: unseentom ($1.06 in chips) 
+Seat 2: 26TKoo ($1.63 in chips) 
+Seat 3: Demon39888 ($2.51 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: Pete_G23G ($1.41 in chips) 
+Seat 6: CoverXx ($3.22 in chips) 
+CoverXx: posts small blind $0.01
+unseentom: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Tc]
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: raises $0.04 to $0.06
+unseentom: calls $0.04
+*** FLOP *** [Ad 7h Qs]
+CoverXx: bets $0.03
+unseentom: calls $0.03
+*** TURN *** [Ad 7h Qs] [Qc]
+CoverXx: bets $0.12
+unseentom: folds 
+Uncalled bet ($0.12) returned to CoverXx
+CoverXx collected $0.17 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ad 7h Qs Qc]
+Seat 1: unseentom (big blind) folded on the Turn
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G (button) folded before Flop (didn't bet)
+Seat 6: CoverXx (small blind) collected ($0.17)
+
+
+
+PokerStars Hand #213047357012:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:39:01 MSK [2020/05/01 1:39:01 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: unseentom ($0.97 in chips) 
+Seat 3: Demon39888 ($2.51 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: Pete_G23G ($1.41 in chips) 
+Seat 6: CoverXx ($3.30 in chips) 
+unseentom: posts small blind $0.01
+26TKoo: is sitting out 
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 5d]
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: raises $0.04 to $0.06
+unseentom: calls $0.05
+Demon39888: folds 
+*** FLOP *** [3c Ac Jd]
+unseentom: checks 
+CoverXx: bets $0.05
+unseentom: calls $0.05
+*** TURN *** [3c Ac Jd] [5s]
+unseentom: checks 
+CoverXx: checks 
+*** RIVER *** [3c Ac Jd 5s] [5h]
+unseentom: checks 
+CoverXx: checks 
+*** SHOW DOWN ***
+unseentom: shows [9c Tc] (a pair of Fives)
+CoverXx: shows [Qs Kh] (a pair of Fives - Ace+King kicker)
+CoverXx collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [3c Ac Jd 5s 5h]
+Seat 1: unseentom (small blind) showed [9c Tc] and lost with a pair of Fives
+Seat 3: Demon39888 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) showed [Qs Kh] and won ($0.23) with a pair of Fives
+
+
+
+PokerStars Hand #213047380957:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:39:59 MSK [2020/05/01 1:39:59 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: unseentom ($0.86 in chips) 
+Seat 3: Demon39888 ($2.49 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: Pete_G23G ($1.41 in chips) 
+Seat 6: CoverXx ($3.42 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 2s]
+Pete_G23G: folds 
+CoverXx: folds 
+unseentom: calls $0.02
+Demon39888: raises $0.06 to $0.08
+lawlex_2: folds 
+unseentom: calls $0.06
+*** FLOP *** [Qc 3c Jd]
+Demon39888: bets $0.09
+unseentom: folds 
+Uncalled bet ($0.09) returned to Demon39888
+Demon39888 collected $0.17 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Qc 3c Jd]
+Seat 1: unseentom (button) folded on the Flop
+Seat 3: Demon39888 (small blind) collected ($0.17)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047397983:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:40:41 MSK [2020/05/01 1:40:41 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: unseentom ($0.78 in chips) 
+Seat 3: Demon39888 ($2.58 in chips) 
+Seat 4: lawlex_2 ($2.01 in chips) 
+Seat 5: Pete_G23G ($1.41 in chips) 
+Seat 6: CoverXx ($3.42 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+26TKoo: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 3c]
+CoverXx: folds 
+unseentom: raises $0.02 to $0.04
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.02
+*** FLOP *** [9c 8d Th]
+Pete_G23G: checks 
+unseentom: bets $0.08
+Pete_G23G: folds 
+Uncalled bet ($0.08) returned to unseentom
+unseentom collected $0.09 from pot
+unseentom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9c 8d Th]
+Seat 1: unseentom collected ($0.09)
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) folded on the Flop
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047407935:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:41:05 MSK [2020/05/01 1:41:05 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: unseentom ($0.83 in chips) 
+Seat 3: Demon39888 ($2.58 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: Pete_G23G ($1.37 in chips) 
+Seat 6: CoverXx ($3.42 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+26TKoo: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 6c]
+unseentom: calls $0.02
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.01
+CoverXx: raises $0.08 to $0.10
+unseentom: folds 
+Pete_G23G: folds 
+Uncalled bet ($0.08) returned to CoverXx
+CoverXx collected $0.06 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: unseentom folded before Flop
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Pete_G23G (small blind) folded before Flop
+Seat 6: CoverXx (big blind) collected ($0.06)
+
+
+
+PokerStars Hand #213047427112:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:41:35 MSK [2020/05/01 1:41:35 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: unseentom ($0.81 in chips) 
+Seat 3: Demon39888 ($2.58 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: Pete_G23G ($1.35 in chips) 
+Seat 6: CoverXx ($3.46 in chips) 
+CoverXx: posts small blind $0.01
+unseentom: posts big blind $0.02
+26TKoo: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 9h]
+Demon39888: raises $0.03 to $0.05
+lawlex_2: calls $0.05
+Pete_G23G: folds 
+CoverXx: folds 
+unseentom: raises $0.03 to $0.08
+Demon39888: calls $0.03
+lawlex_2: calls $0.03
+*** FLOP *** [6c 3s Ts]
+unseentom: bets $0.08
+Demon39888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.08) returned to unseentom
+unseentom collected $0.24 from pot
+unseentom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c 3s Ts]
+Seat 1: unseentom (big blind) collected ($0.24)
+Seat 3: Demon39888 folded on the Flop
+Seat 4: lawlex_2 folded on the Flop
+Seat 5: Pete_G23G (button) folded before Flop (didn't bet)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213047445344:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:42:20 MSK [2020/05/01 1:42:20 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: unseentom ($0.97 in chips) 
+Seat 2: 26TKoo ($1.63 in chips) 
+Seat 3: Demon39888 ($2.50 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Seat 5: Pete_G23G ($1.35 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+unseentom: posts small blind $0.01
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Jc]
+Demon39888: raises $0.04 to $0.06
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+unseentom: folds 
+26TKoo: folds 
+Uncalled bet ($0.04) returned to Demon39888
+Demon39888 collected $0.05 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: unseentom (small blind) folded before Flop
+Seat 2: 26TKoo (big blind) folded before Flop
+Seat 3: Demon39888 collected ($0.05)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047455002:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:42:43 MSK [2020/05/01 1:42:43 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: unseentom ($0.96 in chips) 
+Seat 2: 26TKoo ($1.61 in chips) 
+Seat 3: Demon39888 ($2.53 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Seat 5: Pete_G23G ($1.35 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Qh]
+lawlex_2: calls $0.02
+Pete_G23G: folds 
+CoverXx: folds 
+unseentom: calls $0.02
+26TKoo: folds 
+Demon39888: raises $0.11 to $0.13
+lawlex_2: folds 
+unseentom: calls $0.11
+*** FLOP *** [Ts Ks 3d]
+Demon39888: bets $0.24
+unseentom: calls $0.24
+*** TURN *** [Ts Ks 3d] [Js]
+Demon39888: bets $0.61
+unseentom: calls $0.59 and is all-in
+Uncalled bet ($0.02) returned to Demon39888
+*** RIVER *** [Ts Ks 3d Js] [7c]
+*** SHOW DOWN ***
+Demon39888: shows [Ad Ac] (a pair of Aces)
+unseentom: shows [5c Kh] (a pair of Kings)
+Demon39888 collected $1.88 from pot
+unseentom cashed out the hand for $0.21
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.07 
+Board [Ts Ks 3d Js 7c]
+Seat 1: unseentom (button) showed [5c Kh] and lost with a pair of Kings (cashed out).
+Seat 2: 26TKoo (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) showed [Ad Ac] and won ($1.88) with a pair of Aces
+Seat 4: lawlex_2 folded before Flop
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047478783:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:43:41 MSK [2020/05/01 1:43:41 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 1: unseentom ($0.21 in chips) 
+Seat 2: 26TKoo ($1.60 in chips) 
+Seat 3: Demon39888 ($3.45 in chips) 
+Seat 4: lawlex_2 ($1.90 in chips) 
+Seat 5: Pete_G23G ($1.35 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Qs]
+Pete_G23G: folds 
+CoverXx: folds 
+unseentom: raises $0.19 to $0.21 and is all-in
+26TKoo: calls $0.21
+Demon39888: folds 
+lawlex_2: folds 
+*** FLOP *** [Ac 3h 3s]
+*** TURN *** [Ac 3h 3s] [Jc]
+*** RIVER *** [Ac 3h 3s Jc] [Js]
+*** SHOW DOWN ***
+unseentom: shows [Th 9d] (two pair, Jacks and Threes)
+26TKoo: shows [Qd Ah] (two pair, Aces and Jacks)
+26TKoo collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ac 3h 3s Jc Js]
+Seat 1: unseentom showed [Th 9d] and lost with two pair, Jacks and Threes
+Seat 2: 26TKoo (button) showed [Qd Ah] and won ($0.43) with two pair, Aces and Jacks
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047497013:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:44:25 MSK [2020/05/01 1:44:25 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 2: 26TKoo ($1.82 in chips) 
+Seat 3: Demon39888 ($3.44 in chips) 
+Seat 4: lawlex_2 ($1.88 in chips) 
+Seat 5: Pete_G23G ($1.35 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+lawlex_2: posts small blind $0.01
+Pete_G23G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 3h]
+CoverXx: folds 
+26TKoo: raises $0.02 to $0.04
+unseentom leaves the table
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.02
+*** FLOP *** [Jh Js Kh]
+farmerfranke joins the table at seat #1 
+Pete_G23G: checks 
+26TKoo: bets $0.04
+Pete_G23G: folds 
+Uncalled bet ($0.04) returned to 26TKoo
+26TKoo collected $0.09 from pot
+26TKoo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Jh Js Kh]
+Seat 2: 26TKoo collected ($0.09)
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Pete_G23G (big blind) folded on the Flop
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047507022:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:44:50 MSK [2020/05/01 1:44:50 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: farmerfranke ($2 in chips) 
+Seat 2: 26TKoo ($1.87 in chips) 
+Seat 3: Demon39888 ($3.44 in chips) 
+Seat 4: lawlex_2 ($1.87 in chips) 
+Seat 5: Pete_G23G ($1.31 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+Pete_G23G: posts small blind $0.01
+CoverXx: posts big blind $0.02
+farmerfranke: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Tc]
+farmerfranke: checks 
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: raises $0.07 to $0.09
+Pete_G23G: folds 
+CoverXx: folds 
+farmerfranke: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.07 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: farmerfranke folded before Flop (didn't bet)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) collected ($0.07)
+Seat 5: Pete_G23G (small blind) folded before Flop
+Seat 6: CoverXx (big blind) folded before Flop
+
+
+
+PokerStars Hand #213047515195:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:45:09 MSK [2020/05/01 1:45:09 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: farmerfranke ($1.98 in chips) 
+Seat 2: 26TKoo ($1.87 in chips) 
+Seat 3: Demon39888 ($3.44 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Seat 5: Pete_G23G ($1.30 in chips) 
+Seat 6: CoverXx ($3.43 in chips) 
+CoverXx: posts small blind $0.01
+farmerfranke: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 7c]
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: calls $0.02
+CoverXx: folds 
+farmerfranke: checks 
+*** FLOP *** [Jd Qc 3h]
+farmerfranke: checks 
+Pete_G23G: bets $0.02
+farmerfranke: folds 
+Uncalled bet ($0.02) returned to Pete_G23G
+Pete_G23G collected $0.05 from pot
+Pete_G23G: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd Qc 3h]
+Seat 1: farmerfranke (big blind) folded on the Flop
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G (button) collected ($0.05)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213047523778:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:45:31 MSK [2020/05/01 1:45:31 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: farmerfranke ($1.96 in chips) 
+Seat 2: 26TKoo ($1.87 in chips) 
+Seat 3: Demon39888 ($3.44 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Seat 5: Pete_G23G ($1.33 in chips) 
+Seat 6: CoverXx ($3.42 in chips) 
+farmerfranke: posts small blind $0.01
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 8h]
+Demon39888: folds 
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: raises $0.04 to $0.06
+farmerfranke: folds 
+26TKoo: folds 
+Uncalled bet ($0.04) returned to CoverXx
+CoverXx collected $0.05 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: farmerfranke (small blind) folded before Flop
+Seat 2: 26TKoo (big blind) folded before Flop
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx (button) collected ($0.05)
+
+
+
+PokerStars Hand #213047531448:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:45:49 MSK [2020/05/01 1:45:49 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: farmerfranke ($1.95 in chips) 
+Seat 2: 26TKoo ($1.85 in chips) 
+Seat 3: Demon39888 ($3.44 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Seat 5: Pete_G23G ($1.33 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 8h]
+lawlex_2: folds 
+Pete_G23G: folds 
+CoverXx: folds 
+farmerfranke: folds 
+26TKoo: folds 
+Uncalled bet ($0.01) returned to Demon39888
+Demon39888 collected $0.02 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: farmerfranke (button) folded before Flop (didn't bet)
+Seat 2: 26TKoo (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) collected ($0.02)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047536390:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:46:01 MSK [2020/05/01 1:46:01 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 1: farmerfranke ($1.95 in chips) 
+Seat 2: 26TKoo ($1.84 in chips) 
+Seat 3: Demon39888 ($3.45 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Seat 5: Pete_G23G ($1.33 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 7h]
+Pete_G23G: folds 
+CoverXx: folds 
+farmerfranke: folds 
+26TKoo: raises $0.02 to $0.04
+Demon39888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to 26TKoo
+Pete_G23G leaves the table
+26TKoo collected $0.05 from pot
+26TKoo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: farmerfranke folded before Flop (didn't bet)
+Seat 2: 26TKoo (button) collected ($0.05)
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Pete_G23G folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047541446:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:46:13 MSK [2020/05/01 1:46:13 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: farmerfranke ($1.95 in chips) 
+Seat 2: 26TKoo ($1.87 in chips) 
+Seat 3: Demon39888 ($3.44 in chips) 
+Seat 4: lawlex_2 ($1.90 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+lawlex_2: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Jd]
+BlazingBader joins the table at seat #5 
+farmerfranke: raises $0.02 to $0.04
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: calls $0.03
+CoverXx: calls $0.02
+*** FLOP *** [Kd 6d 5d]
+lawlex_2: bets $0.06
+CoverXx: folds 
+farmerfranke: raises $0.06 to $0.12
+lawlex_2: calls $0.06
+*** TURN *** [Kd 6d 5d] [7h]
+lawlex_2: checks 
+farmerfranke: bets $0.12
+lawlex_2: calls $0.12
+*** RIVER *** [Kd 6d 5d 7h] [8s]
+lawlex_2: checks 
+farmerfranke: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Kh Jd] (a pair of Kings)
+farmerfranke: mucks hand 
+lawlex_2 collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Kd 6d 5d 7h 8s]
+Seat 1: farmerfranke mucked [Ks Th]
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) showed [Kh Jd] and won ($0.58) with a pair of Kings
+Seat 6: CoverXx (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213047560731:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:47:01 MSK [2020/05/01 1:47:01 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: farmerfranke ($1.67 in chips) 
+Seat 2: 26TKoo ($1.87 in chips) 
+Seat 3: Demon39888 ($3.44 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 6: CoverXx ($3.41 in chips) 
+CoverXx: posts small blind $0.01
+farmerfranke: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 2s]
+26TKoo: raises $0.05 to $0.07
+Demon39888: folds 
+lawlex_2: folds 
+CoverXx: folds 
+farmerfranke: raises $0.05 to $0.12
+26TKoo: calls $0.05
+*** FLOP *** [3s 8c 4c]
+farmerfranke: bets $0.06
+26TKoo: calls $0.06
+*** TURN *** [3s 8c 4c] [6h]
+farmerfranke: bets $0.08
+26TKoo: calls $0.08
+*** RIVER *** [3s 8c 4c 6h] [9d]
+farmerfranke: bets $0.28
+26TKoo: calls $0.28
+*** SHOW DOWN ***
+farmerfranke: shows [Qh As] (high card Ace)
+26TKoo: shows [Kd Kh] (a pair of Kings)
+26TKoo collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.04 
+Board [3s 8c 4c 6h 9d]
+Seat 1: farmerfranke (big blind) showed [Qh As] and lost with high card Ace
+Seat 2: 26TKoo showed [Kd Kh] and won ($1.05) with a pair of Kings
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213047581770:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:47:52 MSK [2020/05/01 1:47:52 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: farmerfranke ($1.13 in chips) 
+Seat 2: 26TKoo ($2.38 in chips) 
+Seat 3: Demon39888 ($3.44 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 6: CoverXx ($3.40 in chips) 
+farmerfranke: posts small blind $0.01
+26TKoo: posts big blind $0.02
+BlazingBader: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 2s]
+Demon39888: raises $0.03 to $0.05
+lawlex_2: folds 
+CoverXx: folds 
+farmerfranke: calls $0.04
+26TKoo: folds 
+*** FLOP *** [Ad Qc 6d]
+farmerfranke: checks 
+Demon39888: checks 
+*** TURN *** [Ad Qc 6d] [8d]
+farmerfranke: checks 
+Demon39888: bets $0.08
+farmerfranke: folds 
+Uncalled bet ($0.08) returned to Demon39888
+Demon39888 collected $0.12 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ad Qc 6d 8d]
+Seat 1: farmerfranke (small blind) folded on the Turn
+Seat 2: 26TKoo (big blind) folded before Flop
+Seat 3: Demon39888 collected ($0.12)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047597528:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:48:31 MSK [2020/05/01 1:48:31 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: farmerfranke ($1.08 in chips) 
+Seat 2: 26TKoo ($2.36 in chips) 
+Seat 3: Demon39888 ($3.51 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 6: CoverXx ($3.40 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+BlazingBader: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 5d]
+lawlex_2: raises $0.04 to $0.06
+CoverXx: folds 
+farmerfranke: folds 
+farmerfranke leaves the table
+26TKoo: folds 
+Demon39888: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: farmerfranke (button) folded before Flop (didn't bet)
+Seat 2: 26TKoo (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.05)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047604037:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:48:47 MSK [2020/05/01 1:48:47 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 2: 26TKoo ($2.35 in chips) 
+Seat 3: Demon39888 ($3.49 in chips) 
+Seat 4: lawlex_2 ($2.23 in chips) 
+Seat 6: CoverXx ($3.40 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+BlazingBader: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Qs]
+prepusio45 joins the table at seat #1 
+CoverXx: raises $0.04 to $0.06
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to CoverXx
+CoverXx collected $0.05 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 26TKoo (button) folded before Flop (didn't bet)
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 6: CoverXx collected ($0.05)
+
+
+
+PokerStars Hand #213047610317:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:49:03 MSK [2020/05/01 1:49:03 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: prepusio45 ($2 in chips) 
+Seat 2: 26TKoo ($2.35 in chips) 
+Seat 3: Demon39888 ($3.48 in chips) 
+Seat 4: lawlex_2 ($2.21 in chips) 
+Seat 5: BlazingBader ($2 in chips) 
+Seat 6: CoverXx ($3.43 in chips) 
+lawlex_2: posts small blind $0.01
+BlazingBader: posts big blind $0.02
+prepusio45: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Js]
+CoverXx: folds 
+prepusio45: checks 
+26TKoo: calls $0.02
+Demon39888: folds 
+lawlex_2: folds 
+BlazingBader: checks 
+*** FLOP *** [Jd 6s 6c]
+BlazingBader: checks 
+prepusio45: bets $0.04
+26TKoo: folds 
+BlazingBader: folds 
+Uncalled bet ($0.04) returned to prepusio45
+prepusio45 collected $0.07 from pot
+prepusio45: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Jd 6s 6c]
+Seat 1: prepusio45 collected ($0.07)
+Seat 2: 26TKoo folded on the Flop
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: BlazingBader (big blind) folded on the Flop
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047620335:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:49:27 MSK [2020/05/01 1:49:27 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: prepusio45 ($2.05 in chips) 
+Seat 2: 26TKoo ($2.33 in chips) 
+Seat 3: Demon39888 ($3.48 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 5: BlazingBader ($2 in chips) 
+Seat 6: CoverXx ($3.43 in chips) 
+BlazingBader: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 9d]
+prepusio45: folds 
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+BlazingBader: raises $0.04 to $0.06
+CoverXx: raises $0.12 to $0.18
+BlazingBader: folds 
+Uncalled bet ($0.12) returned to CoverXx
+CoverXx collected $0.12 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: prepusio45 folded before Flop (didn't bet)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: BlazingBader (small blind) folded before Flop
+Seat 6: CoverXx (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #213047632905:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:49:58 MSK [2020/05/01 1:49:58 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: prepusio45 ($2.05 in chips) 
+Seat 2: 26TKoo ($2.33 in chips) 
+Seat 3: Demon39888 ($3.48 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 5: BlazingBader ($2 in chips) 
+Seat 6: CoverXx ($3.49 in chips) 
+CoverXx: posts small blind $0.01
+prepusio45: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 7h]
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+BlazingBader: raises $0.04 to $0.06
+CoverXx: folds 
+prepusio45: calls $0.04
+*** FLOP *** [3s Ac Th]
+prepusio45: bets $0.04
+BlazingBader: folds 
+Uncalled bet ($0.04) returned to prepusio45
+prepusio45 collected $0.13 from pot
+prepusio45: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3s Ac Th]
+Seat 1: prepusio45 (big blind) collected ($0.13)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: BlazingBader (button) folded on the Flop
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213047647252:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:50:33 MSK [2020/05/01 1:50:33 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: prepusio45 ($2.12 in chips) 
+Seat 2: 26TKoo ($2.33 in chips) 
+Seat 3: Demon39888 ($3.48 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 5: BlazingBader ($2 in chips) 
+Seat 6: CoverXx ($3.48 in chips) 
+prepusio45: posts small blind $0.01
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 6s]
+Demon39888: folds 
+lawlex_2: raises $0.04 to $0.06
+BlazingBader: folds 
+CoverXx: folds 
+prepusio45: calls $0.05
+26TKoo: folds 
+*** FLOP *** [5c 2d 3s]
+prepusio45: bets $0.04
+lawlex_2: calls $0.04
+*** TURN *** [5c 2d 3s] [9h]
+prepusio45: bets $0.10
+lawlex_2: calls $0.10
+*** RIVER *** [5c 2d 3s 9h] [9s]
+prepusio45: bets $0.10
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to prepusio45
+prepusio45 collected $0.41 from pot
+prepusio45: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [5c 2d 3s 9h 9s]
+Seat 1: prepusio45 (small blind) collected ($0.41)
+Seat 2: 26TKoo (big blind) folded before Flop
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded on the River
+Seat 5: BlazingBader folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047666502:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:51:21 MSK [2020/05/01 1:51:21 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: prepusio45 ($2.33 in chips) 
+Seat 2: 26TKoo ($2.31 in chips) 
+Seat 3: Demon39888 ($3.48 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: BlazingBader ($2 in chips) 
+Seat 6: CoverXx ($3.48 in chips) 
+26TKoo: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 6h]
+lawlex_2: folds 
+BlazingBader: raises $0.04 to $0.06
+CoverXx: folds 
+prepusio45: folds 
+26TKoo: folds 
+Demon39888: folds 
+Uncalled bet ($0.04) returned to BlazingBader
+BlazingBader collected $0.05 from pot
+BlazingBader: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: prepusio45 (button) folded before Flop (didn't bet)
+Seat 2: 26TKoo (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: BlazingBader collected ($0.05)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047676434:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:51:45 MSK [2020/05/01 1:51:45 ET]
+Table 'Aconcagua' 6-max Seat #2 is the button
+Seat 1: prepusio45 ($2.33 in chips) 
+Seat 2: 26TKoo ($2.30 in chips) 
+Seat 3: Demon39888 ($3.46 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: BlazingBader ($2.03 in chips) 
+Seat 6: CoverXx ($3.48 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 4d]
+BlazingBader: folds 
+CoverXx: folds 
+prepusio45: calls $0.02
+26TKoo: calls $0.02
+Demon39888: folds 
+lawlex_2: checks 
+*** FLOP *** [Jh 3h 2h]
+lawlex_2: bets $0.04
+prepusio45: raises $0.08 to $0.12
+26TKoo: folds 
+lawlex_2: folds 
+Uncalled bet ($0.08) returned to prepusio45
+prepusio45 collected $0.14 from pot
+prepusio45: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jh 3h 2h]
+Seat 1: prepusio45 collected ($0.14)
+Seat 2: 26TKoo (button) folded on the Flop
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: BlazingBader folded before Flop (didn't bet)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047689898:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:52:18 MSK [2020/05/01 1:52:18 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: prepusio45 ($2.41 in chips) 
+Seat 2: 26TKoo ($2.28 in chips) 
+Seat 3: Demon39888 ($3.45 in chips) 
+Seat 4: lawlex_2 ($1.94 in chips) 
+Seat 5: BlazingBader ($2.03 in chips) 
+Seat 6: CoverXx ($3.48 in chips) 
+lawlex_2: posts small blind $0.01
+BlazingBader: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 6h]
+CoverXx: folds 
+prepusio45: folds 
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to BlazingBader
+BlazingBader collected $0.02 from pot
+BlazingBader: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: prepusio45 folded before Flop (didn't bet)
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: BlazingBader (big blind) collected ($0.02)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047694529:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:52:30 MSK [2020/05/01 1:52:30 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 1: prepusio45 ($2.41 in chips) 
+Seat 2: 26TKoo ($2.28 in chips) 
+Seat 3: Demon39888 ($3.45 in chips) 
+Seat 4: lawlex_2 ($1.93 in chips) 
+Seat 5: BlazingBader ($2.04 in chips) 
+Seat 6: CoverXx ($3.48 in chips) 
+BlazingBader: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Qs]
+prepusio45: calls $0.02
+26TKoo has timed out
+26TKoo: folds 
+Demon39888: folds 
+lawlex_2: raises $0.04 to $0.06
+BlazingBader: folds 
+CoverXx: folds 
+prepusio45: calls $0.04
+*** FLOP *** [3d 5s Ks]
+prepusio45: bets $0.06
+lawlex_2: calls $0.06
+*** TURN *** [3d 5s Ks] [Jc]
+prepusio45: bets $0.06
+lawlex_2: calls $0.06
+*** RIVER *** [3d 5s Ks Jc] [8h]
+prepusio45: bets $0.08
+lawlex_2: calls $0.08
+*** SHOW DOWN ***
+prepusio45: shows [Qh 5h] (a pair of Fives)
+lawlex_2: mucks hand 
+prepusio45 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [3d 5s Ks Jc 8h]
+Seat 1: prepusio45 showed [Qh 5h] and won ($0.53) with a pair of Fives
+Seat 2: 26TKoo folded before Flop (didn't bet)
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) mucked [Ad Qs]
+Seat 5: BlazingBader (small blind) folded before Flop
+Seat 6: CoverXx (big blind) folded before Flop
+
+
+
+PokerStars Hand #213047712187:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:53:13 MSK [2020/05/01 1:53:13 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 1: prepusio45 ($2.68 in chips) 
+Seat 3: Demon39888 ($3.45 in chips) 
+Seat 4: lawlex_2 ($1.67 in chips) 
+Seat 5: BlazingBader ($2.03 in chips) 
+Seat 6: CoverXx ($3.46 in chips) 
+CoverXx: posts small blind $0.01
+prepusio45: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Jc]
+Demon39888: folds 
+lawlex_2: raises $0.04 to $0.06
+BlazingBader: folds 
+CoverXx: folds 
+prepusio45: calls $0.04
+*** FLOP *** [8h Td Jd]
+prepusio45: checks 
+lawlex_2: checks 
+*** TURN *** [8h Td Jd] [5s]
+prepusio45: checks 
+lawlex_2: bets $0.07
+prepusio45: calls $0.07
+*** RIVER *** [8h Td Jd 5s] [9d]
+prepusio45: bets $0.32
+lawlex_2: calls $0.32
+*** SHOW DOWN ***
+prepusio45: shows [7d 7s] (a straight, Seven to Jack)
+lawlex_2: mucks hand 
+prepusio45 collected $0.88 from pot
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.03 
+Board [8h Td Jd 5s 9d]
+Seat 1: prepusio45 (big blind) showed [7d 7s] and won ($0.88) with a straight, Seven to Jack
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 mucked [Js Jc]
+Seat 5: BlazingBader (button) folded before Flop (didn't bet)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213047730628:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:53:59 MSK [2020/05/01 1:53:59 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 1: prepusio45 ($3.11 in chips) 
+Seat 3: Demon39888 ($3.45 in chips) 
+Seat 4: lawlex_2 ($1.22 in chips) 
+Seat 5: BlazingBader ($2.03 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+prepusio45: posts small blind $0.01
+Demon39888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Tc]
+lawlex_2: folds 
+BlazingBader: folds 
+CoverXx: folds 
+prepusio45: calls $0.01
+Demon39888: raises $0.06 to $0.08
+prepusio45: folds 
+Uncalled bet ($0.06) returned to Demon39888
+Demon39888 collected $0.04 from pot
+Demon39888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: prepusio45 (small blind) folded before Flop
+Seat 3: Demon39888 (big blind) collected ($0.04)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: BlazingBader folded before Flop (didn't bet)
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047739804:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:54:21 MSK [2020/05/01 1:54:21 ET]
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: prepusio45 ($3.09 in chips) 
+Seat 3: Demon39888 ($3.47 in chips) 
+Seat 4: lawlex_2 ($1.22 in chips) 
+Seat 5: BlazingBader ($2.03 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+Demon39888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 9h]
+BlazingBader: raises $0.04 to $0.06
+CoverXx: folds 
+prepusio45: calls $0.06
+Demon39888: folds 
+lawlex_2: folds 
+*** FLOP *** [Qh 9c 8d]
+BlazingBader: checks 
+prepusio45: checks 
+*** TURN *** [Qh 9c 8d] [Qc]
+BlazingBader: checks 
+prepusio45: checks 
+*** RIVER *** [Qh 9c 8d Qc] [5h]
+BlazingBader: checks 
+prepusio45: checks 
+*** SHOW DOWN ***
+BlazingBader: shows [Kc Js] (a pair of Queens)
+prepusio45: mucks hand 
+BlazingBader collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh 9c 8d Qc 5h]
+Seat 1: prepusio45 (button) mucked [Jc 6c]
+Seat 3: Demon39888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: BlazingBader showed [Kc Js] and won ($0.14) with a pair of Queens
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047752639:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:54:53 MSK [2020/05/01 1:54:53 ET]
+Table 'Aconcagua' 6-max Seat #3 is the button
+Seat 1: prepusio45 ($3.03 in chips) 
+Seat 3: Demon39888 ($3.46 in chips) 
+Seat 4: lawlex_2 ($1.20 in chips) 
+Seat 5: BlazingBader ($2.11 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+lawlex_2: posts small blind $0.01
+BlazingBader: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 4h]
+CoverXx: folds 
+prepusio45: folds 
+Demon39888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to BlazingBader
+BlazingBader collected $0.02 from pot
+BlazingBader: doesn't show hand 
+prepusio45 leaves the table
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: prepusio45 folded before Flop (didn't bet)
+Seat 3: Demon39888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: BlazingBader (big blind) collected ($0.02)
+Seat 6: CoverXx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047756693:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:55:03 MSK [2020/05/01 1:55:03 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 3: Demon39888 ($3.46 in chips) 
+Seat 4: lawlex_2 ($1.19 in chips) 
+Seat 5: BlazingBader ($2.12 in chips) 
+Seat 6: CoverXx ($3.45 in chips) 
+BlazingBader: posts small blind $0.01
+CoverXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 6s]
+Demon39888: folds 
+lawlex_2: raises $0.04 to $0.06
+BlazingBader: folds 
+CoverXx: calls $0.04
+*** FLOP *** [3d Jc 2s]
+CoverXx: checks 
+lawlex_2: checks 
+*** TURN *** [3d Jc 2s] [Jd]
+CoverXx: bets $0.04
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to CoverXx
+CoverXx collected $0.13 from pot
+CoverXx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3d Jc 2s Jd]
+Seat 3: Demon39888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded on the Turn
+Seat 5: BlazingBader (small blind) folded before Flop
+Seat 6: CoverXx (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #213047767292:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:55:34 MSK [2020/05/01 1:55:34 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 4: lawlex_2 ($1.13 in chips) 
+Seat 5: BlazingBader ($2.11 in chips) 
+Seat 6: CoverXx ($3.52 in chips) 
+CoverXx: posts small blind $0.01
+Demon39888: is sitting out 
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 3d]
+Demon39888 leaves the table
+BlazingBader: folds 
+CoverXx: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 5: BlazingBader (button) folded before Flop (didn't bet)
+Seat 6: CoverXx (small blind) folded before Flop
+
+
+
+PokerStars Hand #213047772324:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:55:48 MSK [2020/05/01 1:55:48 ET]
+Table 'Aconcagua' 6-max Seat #6 is the button
+Seat 4: lawlex_2 ($1.14 in chips) 
+Seat 5: BlazingBader ($2.11 in chips) 
+Seat 6: CoverXx ($3.51 in chips) 
+lawlex_2: posts small blind $0.01
+BlazingBader: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Kc]
+CoverXx: folds 
+lawlex_2: raises $0.04 to $0.06
+BlazingBader: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 4: lawlex_2 (small blind) collected ($0.04)
+Seat 5: BlazingBader (big blind) folded before Flop
+Seat 6: CoverXx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047775879:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:55:59 MSK [2020/05/01 1:55:59 ET]
+Table 'Aconcagua' 6-max Seat #4 is the button
+Seat 2: 26TKoo ($2.28 in chips) 
+Seat 4: lawlex_2 ($1.16 in chips) 
+Seat 5: BlazingBader ($2.09 in chips) 
+BlazingBader: posts small blind $0.01
+CoverXx: is sitting out 
+26TKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 8h]
+lawlex_2: folds 
+CoverXx leaves the table
+BlazingBader: folds 
+Uncalled bet ($0.01) returned to 26TKoo
+26TKoo collected $0.02 from pot
+26TKoo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: 26TKoo (big blind) collected ($0.02)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: BlazingBader (small blind) folded before Flop
+
+
+
+PokerStars Hand #213047778355:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:56:06 MSK [2020/05/01 1:56:06 ET]
+Table 'Aconcagua' 6-max Seat #5 is the button
+Seat 2: 26TKoo ($2.29 in chips) 
+Seat 4: lawlex_2 ($1.16 in chips) 
+Seat 5: BlazingBader ($2.08 in chips) 
+26TKoo: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 4h]
+BlazingBader: folds 
+26TKoo: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to 26TKoo
+26TKoo collected $0.04 from pot
+26TKoo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: 26TKoo (small blind) collected ($0.04)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: BlazingBader (button) folded before Flop (didn't bet)
+
+
+

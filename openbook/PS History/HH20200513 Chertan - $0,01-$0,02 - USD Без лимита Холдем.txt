@@ -1,0 +1,3683 @@
+﻿PokerStars Hand #213833126040:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:37:36 MSK [2020/05/13 22:37:36 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: zely1979 ($2.02 in chips) 
+Seat 2: Ben Grymm ($1.27 in chips) 
+Seat 3: velez600 ($1.95 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: Bajali95 ($1.89 in chips) 
+Seat 6: 7sta7lin7 ($5.63 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Qh]
+Bajali95: raises $0.02 to $0.04
+7sta7lin7: folds 
+zely1979: folds 
+Ben Grymm: folds 
+velez600: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to Bajali95
+Bajali95 collected $0.05 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: zely1979 folded before Flop (didn't bet)
+Seat 2: Ben Grymm (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Bajali95 collected ($0.05)
+Seat 6: 7sta7lin7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833142056:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:38:01 MSK [2020/05/13 22:38:01 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: zely1979 ($2.02 in chips) 
+Seat 2: Ben Grymm ($1.27 in chips) 
+Seat 3: velez600 ($1.94 in chips) 
+Seat 4: lawlex_2 ($1.98 in chips) 
+Seat 5: Bajali95 ($1.92 in chips) 
+Seat 6: 7sta7lin7 ($5.63 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Ac]
+7sta7lin7: raises $0.02 to $0.04
+zely1979: folds 
+Ben Grymm: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.02
+*** FLOP *** [5s 3d 6s]
+Bajali95: checks 
+7sta7lin7: bets $0.04
+Bajali95: calls $0.04
+*** TURN *** [5s 3d 6s] [2h]
+Bajali95: bets $0.08
+7sta7lin7: calls $0.08
+*** RIVER *** [5s 3d 6s 2h] [8d]
+Bajali95: bets $0.16
+7sta7lin7: calls $0.16
+*** SHOW DOWN ***
+Bajali95: shows [Tc 8c] (a pair of Eights)
+7sta7lin7: mucks hand 
+Bajali95 collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [5s 3d 6s 2h 8d]
+Seat 1: zely1979 folded before Flop (didn't bet)
+Seat 2: Ben Grymm folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) showed [Tc 8c] and won ($0.63) with a pair of Eights
+Seat 6: 7sta7lin7 mucked [7s 8s]
+
+
+
+PokerStars Hand #213833169212:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:38:56 MSK [2020/05/13 22:38:56 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: zely1979 ($2.02 in chips) 
+Seat 2: Ben Grymm ($1.27 in chips) 
+Seat 3: velez600 ($1.94 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: Bajali95 ($2.23 in chips) 
+Seat 6: 7sta7lin7 ($5.31 in chips) 
+Bajali95: posts small blind $0.01
+7sta7lin7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Ac]
+zely1979 has timed out
+zely1979: folds 
+Ben Grymm: folds 
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.04
+7sta7lin7: folds 
+*** FLOP *** [9h Th 8h]
+Bajali95: checks 
+lawlex_2: bets $0.08
+Bajali95: calls $0.08
+*** TURN *** [9h Th 8h] [4c]
+Bajali95: checks 
+lawlex_2: bets $0.18
+Bajali95: calls $0.18
+*** RIVER *** [9h Th 8h 4c] [Qh]
+7sta7lin7 leaves the table
+Bajali95: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Bajali95: shows [Kh 2s] (a flush, King high)
+lawlex_2: mucks hand 
+Bajali95 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [9h Th 8h 4c Qh]
+Seat 1: zely1979 folded before Flop (didn't bet)
+Seat 2: Ben Grymm folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) mucked [4s Ac]
+Seat 5: Bajali95 (small blind) showed [Kh 2s] and won ($0.62) with a flush, King high
+Seat 6: 7sta7lin7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213833190208:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:39:39 MSK [2020/05/13 22:39:39 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: zely1979 ($2.02 in chips) 
+Seat 2: Ben Grymm ($1.27 in chips) 
+Seat 3: velez600 ($1.94 in chips) 
+Seat 4: lawlex_2 ($1.66 in chips) 
+Seat 5: Bajali95 ($2.54 in chips) 
+zely1979: posts small blind $0.01
+Ben Grymm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 6c]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.02
+zely1979: folds 
+Ben Grymm: checks 
+*** FLOP *** [Th Kh 2s]
+Ben Grymm: checks 
+Bajali95: bets $0.04
+Ben Grymm: folds 
+Uncalled bet ($0.04) returned to Bajali95
+Bajali95 collected $0.05 from pot
+Bajali95: doesn't show hand 
+alexis_ag77 joins the table at seat #6 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Th Kh 2s]
+Seat 1: zely1979 (small blind) folded before Flop
+Seat 2: Ben Grymm (big blind) folded on the Flop
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213833202216:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:40:03 MSK [2020/05/13 22:40:03 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: zely1979 ($2.01 in chips) 
+Seat 2: Ben Grymm ($1.25 in chips) 
+Seat 3: velez600 ($1.94 in chips) 
+Seat 4: lawlex_2 ($1.66 in chips) 
+Seat 5: Bajali95 ($2.57 in chips) 
+Ben Grymm: posts small blind $0.01
+velez600: posts big blind $0.02
+alexis_ag77: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 8c]
+lawlex_2: folds 
+Bajali95: calls $0.02
+zely1979: folds 
+Ben Grymm: folds 
+velez600: checks 
+*** FLOP *** [9c Jh 4d]
+velez600: checks 
+Bajali95: bets $0.04
+velez600: folds 
+Uncalled bet ($0.04) returned to Bajali95
+Bajali95 collected $0.05 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9c Jh 4d]
+Seat 1: zely1979 (button) folded before Flop (didn't bet)
+Seat 2: Ben Grymm (small blind) folded before Flop
+Seat 3: velez600 (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 collected ($0.05)
+
+
+
+PokerStars Hand #213833221857:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:40:44 MSK [2020/05/13 22:40:44 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: zely1979 ($2.01 in chips) 
+Seat 2: Ben Grymm ($1.24 in chips) 
+Seat 3: velez600 ($1.92 in chips) 
+Seat 4: lawlex_2 ($1.66 in chips) 
+Seat 5: Bajali95 ($2.60 in chips) 
+Seat 6: alexis_ag77 ($0.80 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+alexis_ag77: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 5c]
+Bajali95: calls $0.02
+alexis_ag77: checks 
+zely1979: folds 
+Ben Grymm: folds 
+velez600: folds 
+lawlex_2: checks 
+*** FLOP *** [Qh 3h Ah]
+lawlex_2: checks 
+Bajali95: bets $0.06
+alexis_ag77: folds 
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to Bajali95
+Bajali95 collected $0.07 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Qh 3h Ah]
+Seat 1: zely1979 folded before Flop (didn't bet)
+Seat 2: Ben Grymm (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: Bajali95 collected ($0.07)
+Seat 6: alexis_ag77 folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #213833235057:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:41:11 MSK [2020/05/13 22:41:11 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: zely1979 ($2.01 in chips) 
+Seat 2: Ben Grymm ($1.24 in chips) 
+Seat 3: velez600 ($1.91 in chips) 
+Seat 4: lawlex_2 ($1.64 in chips) 
+Seat 5: Bajali95 ($2.65 in chips) 
+Seat 6: alexis_ag77 ($0.78 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 3d]
+alexis_ag77: calls $0.02
+zely1979 has timed out
+zely1979: folds 
+Ben Grymm: calls $0.02
+velez600: folds 
+lawlex_2: folds 
+Bajali95: checks 
+*** FLOP *** [8d 8h 3h]
+Bajali95: checks 
+alexis_ag77: bets $0.04
+Ben Grymm: folds 
+Bajali95: folds 
+Uncalled bet ($0.04) returned to alexis_ag77
+alexis_ag77 collected $0.07 from pot
+alexis_ag77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [8d 8h 3h]
+Seat 1: zely1979 folded before Flop (didn't bet)
+Seat 2: Ben Grymm folded on the Flop
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) folded on the Flop
+Seat 6: alexis_ag77 collected ($0.07)
+
+
+
+PokerStars Hand #213833258521:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:41:49 MSK [2020/05/13 22:41:49 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: zely1979 ($2.01 in chips) 
+Seat 2: Ben Grymm ($1.22 in chips) 
+Seat 3: velez600 ($1.91 in chips) 
+Seat 4: lawlex_2 ($1.63 in chips) 
+Seat 5: Bajali95 ($2.63 in chips) 
+Seat 6: alexis_ag77 ($0.83 in chips) 
+Bajali95: posts small blind $0.01
+alexis_ag77: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 7h]
+zely1979: raises $0.04 to $0.06
+Ben Grymm: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.05
+alexis_ag77: folds 
+*** FLOP *** [9s 9d As]
+Bajali95: bets $0.06
+zely1979: folds 
+Uncalled bet ($0.06) returned to Bajali95
+Bajali95 collected $0.14 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9s 9d As]
+Seat 1: zely1979 folded on the Flop
+Seat 2: Ben Grymm folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) collected ($0.14)
+Seat 6: alexis_ag77 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213833270732:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:42:14 MSK [2020/05/13 22:42:14 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: zely1979 ($2 in chips) 
+Seat 2: Ben Grymm ($1.22 in chips) 
+Seat 3: velez600 ($1.91 in chips) 
+Seat 4: lawlex_2 ($1.63 in chips) 
+Seat 5: Bajali95 ($2.71 in chips) 
+Seat 6: alexis_ag77 ($0.81 in chips) 
+alexis_ag77: posts small blind $0.01
+zely1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 9d]
+Ben Grymm: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: raises $0.04 to $0.06
+alexis_ag77: folds 
+zely1979: folds 
+Uncalled bet ($0.04) returned to Bajali95
+Bajali95 collected $0.05 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: zely1979 (big blind) folded before Flop
+Seat 2: Ben Grymm folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) collected ($0.05)
+Seat 6: alexis_ag77 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213833278114:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:42:30 MSK [2020/05/13 22:42:30 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 1: zely1979 ($2 in chips) 
+Seat 2: Ben Grymm ($1.22 in chips) 
+Seat 3: velez600 ($1.91 in chips) 
+Seat 4: lawlex_2 ($1.63 in chips) 
+Seat 5: Bajali95 ($2.74 in chips) 
+Seat 6: alexis_ag77 ($0.80 in chips) 
+zely1979: posts small blind $0.01
+Ben Grymm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Td]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.02
+alexis_ag77: raises $0.04 to $0.06
+zely1979: folds 
+Ben Grymm: calls $0.04
+Bajali95: calls $0.04
+*** FLOP *** [As 2c 9c]
+Ben Grymm: bets $0.04
+Bajali95: calls $0.04
+alexis_ag77: folds 
+*** TURN *** [As 2c 9c] [Jd]
+Ben Grymm: bets $0.10
+Bajali95: raises $0.10 to $0.20
+Ben Grymm: calls $0.10
+*** RIVER *** [As 2c 9c Jd] [Kh]
+Ben Grymm: checks 
+Bajali95: bets $0.32
+Ben Grymm: folds 
+Uncalled bet ($0.32) returned to Bajali95
+Bajali95 collected $0.65 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [As 2c 9c Jd Kh]
+Seat 1: zely1979 (small blind) folded before Flop
+Seat 2: Ben Grymm (big blind) folded on the River
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 collected ($0.65)
+Seat 6: alexis_ag77 (button) folded on the Flop
+
+
+
+PokerStars Hand #213833299154:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:43:12 MSK [2020/05/13 22:43:12 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: zely1979 ($2 in chips) 
+Seat 2: Ben Grymm ($0.92 in chips) 
+Seat 3: velez600 ($1.91 in chips) 
+Seat 4: lawlex_2 ($1.63 in chips) 
+Seat 5: Bajali95 ($3.09 in chips) 
+Seat 6: alexis_ag77 ($0.74 in chips) 
+Ben Grymm: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 2d]
+lawlex_2: folds 
+Bajali95: folds 
+alexis_ag77: folds 
+zely1979: raises $0.03 to $0.05
+Ben Grymm: calls $0.04
+velez600: folds 
+*** FLOP *** [5c Ac Ts]
+Ben Grymm: checks 
+zely1979: bets $0.08
+Ben Grymm: calls $0.08
+*** TURN *** [5c Ac Ts] [9c]
+Ben Grymm: checks 
+zely1979: checks 
+*** RIVER *** [5c Ac Ts 9c] [9h]
+Ben Grymm: bets $0.20
+zely1979: raises $0.67 to $0.87
+Ben Grymm: calls $0.59 and is all-in
+Uncalled bet ($0.08) returned to zely1979
+*** SHOW DOWN ***
+zely1979: shows [Kc 4c] (a flush, Ace high)
+Ben Grymm: shows [Tc Ah] (two pair, Aces and Tens)
+zely1979 collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.86 | Rake $0.07 
+Board [5c Ac Ts 9c 9h]
+Seat 1: zely1979 (button) showed [Kc 4c] and won ($1.79) with a flush, Ace high
+Seat 2: Ben Grymm (small blind) showed [Tc Ah] and lost with two pair, Aces and Tens
+Seat 3: velez600 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 folded before Flop (didn't bet)
+Seat 6: alexis_ag77 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833324308:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:44:04 MSK [2020/05/13 22:44:04 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: zely1979 ($2.87 in chips) 
+Seat 3: velez600 ($1.89 in chips) 
+Seat 4: lawlex_2 ($1.63 in chips) 
+Seat 5: Bajali95 ($3.09 in chips) 
+Seat 6: alexis_ag77 ($0.74 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 5s]
+Ben Grymm leaves the table
+alexis_ag77: calls $0.02
+zely1979: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: checks 
+*** FLOP *** [Jd 4s 5h]
+Bajali95: checks 
+alexis_ag77: bets $0.04
+Bajali95: calls $0.04
+*** TURN *** [Jd 4s 5h] [3d]
+Bajali95: bets $0.06
+alexis_ag77: folds 
+Uncalled bet ($0.06) returned to Bajali95
+Bajali95 collected $0.13 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jd 4s 5h 3d]
+Seat 1: zely1979 folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) collected ($0.13)
+Seat 6: alexis_ag77 folded on the Turn
+
+
+
+PokerStars Hand #213833338158:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:44:33 MSK [2020/05/13 22:44:33 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: zely1979 ($2.87 in chips) 
+Seat 3: velez600 ($1.89 in chips) 
+Seat 4: lawlex_2 ($1.62 in chips) 
+Seat 5: Bajali95 ($3.16 in chips) 
+Seat 6: alexis_ag77 ($0.68 in chips) 
+Bajali95: posts small blind $0.01
+alexis_ag77: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Kh]
+123Zagubi joins the table at seat #2 
+123Zagubi is disconnected 
+zely1979: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.01
+alexis_ag77: raises $0.04 to $0.06
+Bajali95: calls $0.04
+*** FLOP *** [6d 5s Qc]
+Bajali95: bets $0.06
+alexis_ag77: calls $0.06
+*** TURN *** [6d 5s Qc] [Qs]
+Bajali95: bets $0.12
+alexis_ag77: folds 
+Uncalled bet ($0.12) returned to Bajali95
+Bajali95 collected $0.23 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [6d 5s Qc Qs]
+Seat 1: zely1979 folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) collected ($0.23)
+Seat 6: alexis_ag77 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213833356614:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:45:11 MSK [2020/05/13 22:45:11 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 2: 123Zagubi ($1.81 in chips) 
+Seat 3: velez600 ($1.89 in chips) 
+Seat 4: lawlex_2 ($1.62 in chips) 
+Seat 5: Bajali95 ($3.27 in chips) 
+Seat 6: alexis_ag77 ($0.56 in chips) 
+alexis_ag77: posts small blind $0.01
+zely1979: is sitting out 
+123Zagubi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 6s]
+zely1979 leaves the table
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.02
+alexis_ag77: raises $0.04 to $0.06
+123Zagubi: calls $0.04
+Bajali95: calls $0.04
+*** FLOP *** [Ad 4c 4h]
+alexis_ag77: checks 
+123Zagubi: checks 
+Marijuhuana joins the table at seat #1 
+Bajali95: bets $0.08
+alexis_ag77: folds 
+123Zagubi: folds 
+Uncalled bet ($0.08) returned to Bajali95
+Bajali95 collected $0.17 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ad 4c 4h]
+Seat 2: 123Zagubi (big blind) folded on the Flop
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) collected ($0.17)
+Seat 6: alexis_ag77 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213833377572:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:45:55 MSK [2020/05/13 22:45:55 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 2: 123Zagubi ($1.75 in chips) 
+Seat 3: velez600 ($1.89 in chips) 
+Seat 4: lawlex_2 ($1.62 in chips) 
+Seat 5: Bajali95 ($3.38 in chips) 
+Seat 6: alexis_ag77 ($0.50 in chips) 
+123Zagubi: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 7h]
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.05
+alexis_ag77: folds 
+123Zagubi: calls $0.04
+velez600: folds 
+*** FLOP *** [Qc 2c 4c]
+123Zagubi: bets $0.08
+alexis_ag77 leaves the table
+lawlex_2: folds 
+Bajali95: raises $0.08 to $0.16
+123Zagubi: folds 
+Uncalled bet ($0.08) returned to Bajali95
+Bajali95 collected $0.32 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Qc 2c 4c]
+Seat 2: 123Zagubi (small blind) folded on the Flop
+Seat 3: velez600 (big blind) folded before Flop
+Seat 4: lawlex_2 folded on the Flop
+Seat 5: Bajali95 collected ($0.32)
+Seat 6: alexis_ag77 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833391830:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:46:25 MSK [2020/05/13 22:46:25 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($1.60 in chips) 
+Seat 2: 123Zagubi ($1.62 in chips) 
+Seat 3: velez600 ($1.87 in chips) 
+Seat 4: lawlex_2 ($1.57 in chips) 
+Seat 5: Bajali95 ($3.57 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Marijuhuana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Js]
+Bajali95: calls $0.02
+Marijuhuana: checks 
+123Zagubi: folds 
+velez600: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [9d 5h 8h]
+velez600: checks 
+lawlex_2: checks 
+Bajali95: checks 
+requiem298 joins the table at seat #6 
+Marijuhuana: checks 
+*** TURN *** [9d 5h 8h] [4c]
+velez600: checks 
+lawlex_2: checks 
+Bajali95: bets $0.04
+Marijuhuana: folds 
+velez600: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Bajali95
+Bajali95 collected $0.08 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9d 5h 8h 4c]
+Seat 1: Marijuhuana folded on the Turn (didn't bet)
+Seat 2: 123Zagubi (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded on the Turn
+Seat 4: lawlex_2 (big blind) folded on the Turn
+Seat 5: Bajali95 collected ($0.08)
+
+
+
+PokerStars Hand #213833424639:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:47:15 MSK [2020/05/13 22:47:15 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($1.58 in chips) 
+Seat 2: 123Zagubi ($1.62 in chips) 
+Seat 3: velez600 ($1.85 in chips) 
+Seat 4: lawlex_2 ($1.55 in chips) 
+Seat 5: Bajali95 ($3.63 in chips) 
+Seat 6: requiem298 ($0.80 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+requiem298: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 2s]
+requiem298: raises $0.04 to $0.06
+Marijuhuana: calls $0.06
+123Zagubi: calls $0.06
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.04
+*** FLOP *** [Ah 8d Jc]
+Bajali95: checks 
+requiem298: checks 
+Marijuhuana: checks 
+123Zagubi: bets $0.12
+Bajali95: calls $0.12
+requiem298: calls $0.12
+Marijuhuana: calls $0.12
+*** TURN *** [Ah 8d Jc] [4h]
+Bajali95: checks 
+requiem298: checks 
+Marijuhuana: bets $0.34
+123Zagubi: folds 
+Bajali95: raises $0.34 to $0.68
+requiem298: calls $0.62 and is all-in
+Marijuhuana: calls $0.34
+*** RIVER *** [Ah 8d Jc 4h] [6s]
+Bajali95: bets $2.62
+Marijuhuana: calls $0.72 and is all-in
+Uncalled bet ($1.90) returned to Bajali95
+*** SHOW DOWN ***
+Bajali95: shows [7d 8c] (a pair of Eights)
+Marijuhuana: shows [5c Ad] (a pair of Aces)
+Marijuhuana collected $1.50 from side pot
+requiem298: shows [Qs Qh] (a pair of Queens)
+Marijuhuana collected $2.50 from main pot
+*** SUMMARY ***
+Total pot $4.15 Main pot $2.50. Side pot $1.50. | Rake $0.15 
+Board [Ah 8d Jc 4h 6s]
+Seat 1: Marijuhuana showed [5c Ad] and won ($4) with a pair of Aces
+Seat 2: 123Zagubi folded on the Turn
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) showed [7d 8c] and lost with a pair of Eights
+Seat 6: requiem298 showed [Qs Qh] and lost with a pair of Queens
+
+
+
+PokerStars Hand #213833465528:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:48:40 MSK [2020/05/13 22:48:40 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($4 in chips) 
+Seat 2: 123Zagubi ($1.44 in chips) 
+Seat 3: velez600 ($1.85 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Bajali95 ($2.05 in chips) 
+Bajali95: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Kd]
+123Zagubi: raises $0.02 to $0.04
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.03
+Marijuhuana: calls $0.02
+*** FLOP *** [8c 6d 9s]
+Bajali95: checks 
+Marijuhuana: checks 
+123Zagubi: checks 
+*** TURN *** [8c 6d 9s] [7s]
+Bajali95: bets $0.12
+Marijuhuana: folds 
+123Zagubi: calls $0.12
+*** RIVER *** [8c 6d 9s 7s] [Ts]
+Bajali95: bets $0.34
+123Zagubi: calls $0.34
+*** SHOW DOWN ***
+Bajali95: shows [4c 5d] (a straight, Six to Ten)
+123Zagubi: shows [4s Qs] (a flush, Queen high)
+123Zagubi collected $1 from pot
+*** SUMMARY ***
+Total pot $1.04 | Rake $0.04 
+Board [8c 6d 9s 7s Ts]
+Seat 1: Marijuhuana (big blind) folded on the Turn
+Seat 2: 123Zagubi showed [4s Qs] and won ($1) with a flush, Queen high
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) showed [4c 5d] and lost with a straight, Six to Ten
+
+
+
+PokerStars Hand #213833493806:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:49:40 MSK [2020/05/13 22:49:40 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($3.96 in chips) 
+Seat 2: 123Zagubi ($1.94 in chips) 
+Seat 3: velez600 ($1.85 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Bajali95 ($1.55 in chips) 
+Marijuhuana: posts small blind $0.01
+123Zagubi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 4d]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.02
+Marijuhuana: calls $0.01
+123Zagubi: raises $0.04 to $0.06
+Bajali95: calls $0.04
+Marijuhuana: calls $0.04
+*** FLOP *** [5h Jd 7h]
+Marijuhuana: checks 
+123Zagubi: bets $0.17
+Bajali95: calls $0.17
+Marijuhuana: folds 
+*** TURN *** [5h Jd 7h] [3d]
+123Zagubi: bets $0.50
+Bajali95: calls $0.50
+*** RIVER *** [5h Jd 7h 3d] [Qh]
+123Zagubi: bets $0.20
+Bajali95: raises $0.62 to $0.82 and is all-in
+123Zagubi: folds 
+Uncalled bet ($0.62) returned to Bajali95
+Bajali95 collected $1.85 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.92 | Rake $0.07 
+Board [5h Jd 7h 3d Qh]
+Seat 1: Marijuhuana (small blind) folded on the Flop
+Seat 2: 123Zagubi (big blind) folded on the River
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) collected ($1.85)
+
+
+
+PokerStars Hand #213833530811:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:50:41 MSK [2020/05/13 22:50:41 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($3.90 in chips) 
+Seat 2: 123Zagubi ($1.01 in chips) 
+Seat 4: lawlex_2 ($1.54 in chips) 
+Seat 5: Bajali95 ($2.47 in chips) 
+Seat 6: requiem298 ($1 in chips) 
+123Zagubi: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+requiem298: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 2d]
+Bajali95: calls $0.02
+requiem298: checks 
+Marijuhuana: calls $0.02
+123Zagubi: raises $0.02 to $0.04
+lawlex_2: folds 
+Bajali95: calls $0.02
+requiem298: calls $0.02
+Marijuhuana: calls $0.02
+*** FLOP *** [Th 9s 4h]
+123Zagubi: checks 
+Bajali95: checks 
+requiem298: checks 
+Marijuhuana: bets $0.02
+123Zagubi: folds 
+Bajali95: calls $0.02
+requiem298: folds 
+*** TURN *** [Th 9s 4h] [8h]
+Bajali95: bets $0.22
+Marijuhuana: calls $0.22
+*** RIVER *** [Th 9s 4h 8h] [Ac]
+Bajali95: bets $2.19 and is all-in
+Marijuhuana: folds 
+Uncalled bet ($2.19) returned to Bajali95
+Bajali95 collected $0.65 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [Th 9s 4h 8h Ac]
+Seat 1: Marijuhuana (button) folded on the River
+Seat 2: 123Zagubi (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Bajali95 collected ($0.65)
+Seat 6: requiem298 folded on the Flop
+
+
+
+PokerStars Hand #213833552028:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:51:26 MSK [2020/05/13 22:51:26 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($3.62 in chips) 
+Seat 2: 123Zagubi ($0.97 in chips) 
+Seat 4: lawlex_2 ($1.52 in chips) 
+Seat 5: Bajali95 ($2.84 in chips) 
+Seat 6: requiem298 ($0.95 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 2d]
+requiem298: folds 
+Marijuhuana: folds 
+123Zagubi: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Bajali95
+Bajali95 collected $0.02 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marijuhuana folded before Flop (didn't bet)
+Seat 2: 123Zagubi (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) collected ($0.02)
+Seat 6: requiem298 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833557743:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:51:39 MSK [2020/05/13 22:51:39 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($3.62 in chips) 
+Seat 2: 123Zagubi ($0.97 in chips) 
+Seat 4: lawlex_2 ($1.51 in chips) 
+Seat 5: Bajali95 ($2.85 in chips) 
+Seat 6: requiem298 ($0.95 in chips) 
+Bajali95: posts small blind $0.01
+requiem298: posts big blind $0.02
+velez600: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Ks]
+Marijuhuana: calls $0.02
+123Zagubi: raises $0.02 to $0.04
+lawlex_2: raises $0.13 to $0.17
+Bajali95: calls $0.16
+requiem298: folds 
+Marijuhuana: folds 
+123Zagubi: folds 
+*** FLOP *** [7c 2c Ad]
+Bajali95: checks 
+lawlex_2: bets $0.27
+Bajali95: folds 
+Uncalled bet ($0.27) returned to lawlex_2
+lawlex_2 collected $0.41 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [7c 2c Ad]
+Seat 1: Marijuhuana folded before Flop
+Seat 2: 123Zagubi folded before Flop
+Seat 4: lawlex_2 (button) collected ($0.41)
+Seat 5: Bajali95 (small blind) folded on the Flop
+Seat 6: requiem298 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213833575829:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:52:17 MSK [2020/05/13 22:52:17 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($3.60 in chips) 
+Seat 2: 123Zagubi ($0.93 in chips) 
+Seat 4: lawlex_2 ($1.75 in chips) 
+Seat 5: Bajali95 ($2.68 in chips) 
+Seat 6: requiem298 ($0.93 in chips) 
+requiem298: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+velez600: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Jc]
+123Zagubi: folds 
+lawlex_2: folds 
+Bajali95: calls $0.02
+requiem298: raises $0.04 to $0.06
+Marijuhuana: calls $0.04
+Bajali95: calls $0.04
+*** FLOP *** [Ts 8h 3c]
+requiem298: bets $0.16
+Marijuhuana: folds 
+Bajali95: calls $0.16
+*** TURN *** [Ts 8h 3c] [8d]
+requiem298: checks 
+Bajali95: bets $0.24
+requiem298: raises $0.47 to $0.71 and is all-in
+Bajali95: folds 
+Uncalled bet ($0.47) returned to requiem298
+requiem298 collected $0.95 from pot
+requiem298: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.03 
+Board [Ts 8h 3c 8d]
+Seat 1: Marijuhuana (big blind) folded on the Flop
+Seat 2: 123Zagubi folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) folded on the Turn
+Seat 6: requiem298 (small blind) collected ($0.95)
+
+
+
+PokerStars Hand #213833593615:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:52:55 MSK [2020/05/13 22:52:55 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 1: Marijuhuana ($3.54 in chips) 
+Seat 2: 123Zagubi ($0.93 in chips) 
+Seat 4: lawlex_2 ($1.75 in chips) 
+Seat 5: Bajali95 ($2.22 in chips) 
+Seat 6: requiem298 ($1.42 in chips) 
+Marijuhuana: posts small blind $0.01
+123Zagubi: posts big blind $0.02
+velez600: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Qc]
+lawlex_2: raises $0.03 to $0.05
+Bajali95: folds 
+requiem298: calls $0.05
+Marijuhuana: calls $0.04
+123Zagubi: folds 
+*** FLOP *** [Td 6h Jh]
+Marijuhuana: checks 
+lawlex_2: bets $0.11
+requiem298: calls $0.11
+Marijuhuana: folds 
+*** TURN *** [Td 6h Jh] [Qh]
+lawlex_2: bets $0.25
+requiem298: calls $0.25
+*** RIVER *** [Td 6h Jh Qh] [7s]
+lawlex_2: bets $0.57
+requiem298: calls $0.57
+*** SHOW DOWN ***
+lawlex_2: shows [Qs Qc] (three of a kind, Queens)
+requiem298: mucks hand 
+lawlex_2 collected $1.96 from pot
+*** SUMMARY ***
+Total pot $2.03 | Rake $0.07 
+Board [Td 6h Jh Qh 7s]
+Seat 1: Marijuhuana (small blind) folded on the Flop
+Seat 2: 123Zagubi (big blind) folded before Flop
+Seat 4: lawlex_2 showed [Qs Qc] and won ($1.96) with three of a kind, Queens
+Seat 5: Bajali95 folded before Flop (didn't bet)
+Seat 6: requiem298 (button) mucked [Jd Kd]
+
+
+
+PokerStars Hand #213833612435:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:53:35 MSK [2020/05/13 22:53:35 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($3.49 in chips) 
+Seat 2: 123Zagubi ($0.91 in chips) 
+Seat 3: velez600 ($1.85 in chips) 
+Seat 4: lawlex_2 ($2.73 in chips) 
+Seat 5: Bajali95 ($2.22 in chips) 
+Seat 6: requiem298 ($0.44 in chips) 
+123Zagubi: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Td]
+lawlex_2: raises $0.03 to $0.05
+Bajali95: folds 
+requiem298: folds 
+Marijuhuana: calls $0.05
+123Zagubi: folds 
+velez600: folds 
+*** FLOP *** [Th 9c Kh]
+lawlex_2: bets $0.09
+Marijuhuana: raises $0.09 to $0.18
+lawlex_2: calls $0.09
+*** TURN *** [Th 9c Kh] [Tc]
+lawlex_2: bets $0.31
+Marijuhuana: calls $0.31
+*** RIVER *** [Th 9c Kh Tc] [8s]
+lawlex_2: bets $1.07
+Marijuhuana: calls $1.07
+*** SHOW DOWN ***
+lawlex_2: shows [Kc Td] (a full house, Tens full of Kings)
+Marijuhuana: mucks hand 
+lawlex_2 collected $3.14 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.11 
+Board [Th 9c Kh Tc 8s]
+Seat 1: Marijuhuana (button) mucked [Qd Kd]
+Seat 2: 123Zagubi (small blind) folded before Flop
+Seat 3: velez600 (big blind) folded before Flop
+Seat 4: lawlex_2 showed [Kc Td] and won ($3.14) with a full house, Tens full of Kings
+Seat 5: Bajali95 folded before Flop (didn't bet)
+Seat 6: requiem298 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833631327:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:54:16 MSK [2020/05/13 22:54:16 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($1.88 in chips) 
+Seat 2: 123Zagubi ($0.90 in chips) 
+Seat 3: velez600 ($1.83 in chips) 
+Seat 4: lawlex_2 ($4.26 in chips) 
+Seat 5: Bajali95 ($2.22 in chips) 
+Seat 6: requiem298 ($0.44 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 9d]
+Bajali95: calls $0.02
+requiem298: folds 
+Marijuhuana: calls $0.02
+123Zagubi: raises $0.04 to $0.06
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.04
+Marijuhuana: calls $0.04
+*** FLOP *** [6d Kd 4h]
+Bajali95: checks 
+Marijuhuana: checks 
+123Zagubi: bets $0.10
+Bajali95: calls $0.10
+Marijuhuana: calls $0.10
+*** TURN *** [6d Kd 4h] [2d]
+Bajali95: bets $0.24
+Marijuhuana: calls $0.24
+123Zagubi: folds 
+*** RIVER *** [6d Kd 4h 2d] [8h]
+Bajali95: bets $0.48
+Marijuhuana: calls $0.48
+*** SHOW DOWN ***
+Bajali95: shows [6s Qc] (a pair of Sixes)
+Marijuhuana: shows [Kh 5s] (a pair of Kings)
+Marijuhuana collected $1.88 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.07 
+Board [6d Kd 4h 2d 8h]
+Seat 1: Marijuhuana showed [Kh 5s] and won ($1.88) with a pair of Kings
+Seat 2: 123Zagubi (button) folded on the Turn
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Bajali95 showed [6s Qc] and lost with a pair of Sixes
+Seat 6: requiem298 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833666004:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:55:37 MSK [2020/05/13 22:55:37 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($2.88 in chips) 
+Seat 2: 123Zagubi ($0.74 in chips) 
+Seat 3: velez600 ($1.82 in chips) 
+Seat 4: lawlex_2 ($4.24 in chips) 
+Seat 5: Bajali95 ($1.34 in chips) 
+Seat 6: requiem298 ($1.04 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Kh]
+requiem298: folds 
+Marijuhuana: folds 
+123Zagubi: folds 
+velez600: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Bajali95
+Bajali95 collected $0.02 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marijuhuana folded before Flop (didn't bet)
+Seat 2: 123Zagubi folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) collected ($0.02)
+Seat 6: requiem298 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833670535:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:55:49 MSK [2020/05/13 22:55:49 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($2.88 in chips) 
+Seat 2: 123Zagubi ($0.74 in chips) 
+Seat 3: velez600 ($1.82 in chips) 
+Seat 4: lawlex_2 ($4.23 in chips) 
+Seat 5: Bajali95 ($1.35 in chips) 
+Seat 6: requiem298 ($1.04 in chips) 
+Bajali95: posts small blind $0.01
+requiem298: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Jc]
+Marijuhuana: calls $0.02
+123Zagubi: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.01
+requiem298: checks 
+*** FLOP *** [5h Kh Ts]
+Bajali95: checks 
+requiem298: checks 
+Marijuhuana: checks 
+*** TURN *** [5h Kh Ts] [2c]
+Bajali95: checks 
+requiem298: checks 
+Marijuhuana: bets $0.02
+Bajali95: raises $0.02 to $0.04
+requiem298: folds 
+Marijuhuana: raises $0.16 to $0.20
+Bajali95: calls $0.16
+*** RIVER *** [5h Kh Ts 2c] [5s]
+Bajali95: bets $0.44
+Marijuhuana: calls $0.44
+*** SHOW DOWN ***
+Bajali95: shows [Qc 4h] (a pair of Fives)
+Marijuhuana: shows [Th Kc] (two pair, Kings and Tens)
+Marijuhuana collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.34 | Rake $0.05 
+Board [5h Kh Ts 2c 5s]
+Seat 1: Marijuhuana showed [Th Kc] and won ($1.29) with two pair, Kings and Tens
+Seat 2: 123Zagubi folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) showed [Qc 4h] and lost with a pair of Fives
+Seat 6: requiem298 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213833689041:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:56:38 MSK [2020/05/13 22:56:38 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($3.51 in chips) 
+Seat 2: 123Zagubi ($0.74 in chips) 
+Seat 3: velez600 ($1.82 in chips) 
+Seat 4: lawlex_2 ($4.23 in chips) 
+Seat 5: Bajali95 ($0.69 in chips) 
+Seat 6: requiem298 ($1.02 in chips) 
+requiem298: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Jh]
+123Zagubi: raises $0.02 to $0.04
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.04
+requiem298: folds 
+Marijuhuana: calls $0.02
+*** FLOP *** [8d 6s Kd]
+Marijuhuana: checks 
+123Zagubi: checks 
+Bajali95: bets $0.12
+Marijuhuana: folds 
+123Zagubi: folds 
+Uncalled bet ($0.12) returned to Bajali95
+Bajali95 collected $0.13 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8d 6s Kd]
+Seat 1: Marijuhuana (big blind) folded on the Flop
+Seat 2: 123Zagubi folded on the Flop
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) collected ($0.13)
+Seat 6: requiem298 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213833702507:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:57:14 MSK [2020/05/13 22:57:14 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 1: Marijuhuana ($3.47 in chips) 
+Seat 2: 123Zagubi ($0.70 in chips) 
+Seat 3: velez600 ($1.82 in chips) 
+Seat 4: lawlex_2 ($4.23 in chips) 
+Seat 5: Bajali95 ($0.78 in chips) 
+Seat 6: requiem298 ($1.01 in chips) 
+Marijuhuana: posts small blind $0.01
+123Zagubi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 4c]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: raises $0.04 to $0.06
+requiem298: folds 
+Marijuhuana: calls $0.05
+123Zagubi: folds 
+*** FLOP *** [2c Qc 2h]
+Marijuhuana: checks 
+Bajali95: bets $0.14
+Marijuhuana: folds 
+Uncalled bet ($0.14) returned to Bajali95
+Bajali95 collected $0.14 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2c Qc 2h]
+Seat 1: Marijuhuana (small blind) folded on the Flop
+Seat 2: 123Zagubi (big blind) folded before Flop
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 collected ($0.14)
+Seat 6: requiem298 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833710629:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:57:36 MSK [2020/05/13 22:57:36 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($3.41 in chips) 
+Seat 2: 123Zagubi ($0.68 in chips) 
+Seat 3: velez600 ($1.82 in chips) 
+Seat 4: lawlex_2 ($4.23 in chips) 
+Seat 5: Bajali95 ($0.86 in chips) 
+Seat 6: requiem298 ($1.01 in chips) 
+123Zagubi: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 5c]
+lawlex_2: folds 
+Bajali95: calls $0.02
+requiem298: folds 
+Marijuhuana: calls $0.02
+123Zagubi: folds 
+velez600: checks 
+*** FLOP *** [Ks Ah Kd]
+velez600: checks 
+Bajali95: checks 
+Marijuhuana: checks 
+*** TURN *** [Ks Ah Kd] [2s]
+velez600: checks 
+Bajali95: bets $0.06
+Marijuhuana: folds 
+velez600: calls $0.06
+*** RIVER *** [Ks Ah Kd 2s] [3d]
+velez600: checks 
+Bajali95: bets $0.08
+velez600: folds 
+Uncalled bet ($0.08) returned to Bajali95
+Bajali95 collected $0.18 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ks Ah Kd 2s 3d]
+Seat 1: Marijuhuana (button) folded on the Turn
+Seat 2: 123Zagubi (small blind) folded before Flop
+Seat 3: velez600 (big blind) folded on the River
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 collected ($0.18)
+Seat 6: requiem298 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833727998:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:58:23 MSK [2020/05/13 22:58:23 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($3.39 in chips) 
+Seat 2: 123Zagubi ($0.67 in chips) 
+Seat 3: velez600 ($1.74 in chips) 
+Seat 4: lawlex_2 ($4.23 in chips) 
+Seat 5: Bajali95 ($0.96 in chips) 
+Seat 6: requiem298 ($1.01 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Ad]
+Bajali95: folds 
+requiem298: calls $0.02
+Marijuhuana: calls $0.02
+123Zagubi: raises $0.02 to $0.04
+velez600: folds 
+lawlex_2: raises $0.08 to $0.12
+requiem298: folds 
+Marijuhuana: calls $0.10
+123Zagubi: calls $0.08
+*** FLOP *** [4s 5s Td]
+lawlex_2: bets $0.25
+Marijuhuana: folds 
+123Zagubi: calls $0.25
+*** TURN *** [4s 5s Td] [2c]
+lawlex_2: bets $0.57
+123Zagubi: calls $0.30 and is all-in
+Uncalled bet ($0.27) returned to lawlex_2
+*** RIVER *** [4s 5s Td 2c] [Qh]
+*** SHOW DOWN ***
+lawlex_2: shows [Ks Ad] (high card Ace)
+123Zagubi: shows [6d 5h] (a pair of Fives)
+123Zagubi collected $1.44 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.05 
+Board [4s 5s Td 2c Qh]
+Seat 1: Marijuhuana folded on the Flop
+Seat 2: 123Zagubi (button) showed [6d 5h] and won ($1.44) with a pair of Fives
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) showed [Ks Ad] and lost with high card Ace
+Seat 5: Bajali95 folded before Flop (didn't bet)
+Seat 6: requiem298 folded before Flop
+
+
+
+PokerStars Hand #213833764025:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 5:59:37 MSK [2020/05/13 22:59:37 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($3.27 in chips) 
+Seat 2: 123Zagubi ($1.44 in chips) 
+Seat 3: velez600 ($1.73 in chips) 
+Seat 4: lawlex_2 ($3.56 in chips) 
+Seat 5: Bajali95 ($0.96 in chips) 
+Seat 6: requiem298 ($0.99 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 9s]
+requiem298: calls $0.02
+Marijuhuana: calls $0.02
+123Zagubi: raises $0.02 to $0.04
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.02
+requiem298: calls $0.02
+Marijuhuana: calls $0.02
+*** FLOP *** [5d Qc Ks]
+Bajali95: checks 
+requiem298: checks 
+Marijuhuana: bets $0.02
+123Zagubi: calls $0.02
+Bajali95: calls $0.02
+requiem298: folds 
+*** TURN *** [5d Qc Ks] [4d]
+Bajali95: checks 
+Marijuhuana: bets $0.06
+123Zagubi: calls $0.06
+Bajali95: folds 
+*** RIVER *** [5d Qc Ks 4d] [Jh]
+Marijuhuana: bets $0.14
+123Zagubi: raises $0.62 to $0.76
+Marijuhuana: calls $0.62
+*** SHOW DOWN ***
+123Zagubi: shows [Ac Td] (a straight, Ten to Ace)
+Marijuhuana: mucks hand 
+123Zagubi collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.07 
+Board [5d Qc Ks 4d Jh]
+Seat 1: Marijuhuana mucked [Qh 8d]
+Seat 2: 123Zagubi showed [Ac Td] and won ($1.80) with a straight, Ten to Ace
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) folded on the Turn
+Seat 6: requiem298 folded on the Flop
+
+
+
+PokerStars Hand #213833799850:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:01:04 MSK [2020/05/13 23:01:04 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($2.39 in chips) 
+Seat 2: 123Zagubi ($2.36 in chips) 
+Seat 3: velez600 ($1.73 in chips) 
+Seat 4: lawlex_2 ($3.55 in chips) 
+Seat 5: Bajali95 ($0.90 in chips) 
+Seat 6: requiem298 ($0.95 in chips) 
+Bajali95: posts small blind $0.01
+requiem298: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 5d]
+Marijuhuana: calls $0.02
+123Zagubi: raises $0.02 to $0.04
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.03
+requiem298: calls $0.02
+Marijuhuana: calls $0.02
+*** FLOP *** [8h 7d Qh]
+Bajali95: checks 
+requiem298: bets $0.02
+Marijuhuana: calls $0.02
+123Zagubi: raises $0.08 to $0.10
+Bajali95: calls $0.10
+requiem298: calls $0.08
+Marijuhuana: raises $0.08 to $0.18
+123Zagubi: folds 
+Bajali95: calls $0.08
+requiem298: raises $0.73 to $0.91 and is all-in
+Marijuhuana: calls $0.73
+Bajali95: folds 
+123Zagubi leaves the table
+*** TURN *** [8h 7d Qh] [Ts]
+*** RIVER *** [8h 7d Qh Ts] [8d]
+*** SHOW DOWN ***
+requiem298: shows [Qs 6h] (two pair, Queens and Eights)
+Marijuhuana: shows [Qd Qc] (a full house, Queens full of Eights)
+Marijuhuana collected $2.18 from pot
+requiem298 cashed out the hand for $0.18
+*** SUMMARY ***
+Total pot $2.26 | Rake $0.08 
+Board [8h 7d Qh Ts 8d]
+Seat 1: Marijuhuana showed [Qd Qc] and won ($2.18) with a full house, Queens full of Eights
+Seat 2: 123Zagubi folded on the Flop
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) folded on the Flop
+Seat 6: requiem298 (big blind) showed [Qs 6h] and lost with two pair, Queens and Eights (cashed out).
+
+
+
+PokerStars Hand #213833831081:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:02:13 MSK [2020/05/13 23:02:13 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($3.62 in chips) 
+Seat 3: velez600 ($1.73 in chips) 
+Seat 4: lawlex_2 ($3.55 in chips) 
+Seat 5: Bajali95 ($0.68 in chips) 
+Seat 6: requiem298 ($0.18 in chips) 
+requiem298: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Ks]
+velez600: folds 
+lawlex_2: folds 
+34231648 joins the table at seat #2 
+Bajali95: calls $0.02
+requiem298: raises $0.16 to $0.18 and is all-in
+Marijuhuana: calls $0.16
+Bajali95: calls $0.16
+*** FLOP *** [Kh 8c 8h]
+Marijuhuana: checks 
+Bajali95: checks 
+*** TURN *** [Kh 8c 8h] [2c]
+Marijuhuana: checks 
+Bajali95: checks 
+*** RIVER *** [Kh 8c 8h 2c] [7d]
+Marijuhuana: checks 
+Bajali95: bets $0.02
+Marijuhuana: folds 
+Uncalled bet ($0.02) returned to Bajali95
+*** SHOW DOWN ***
+Bajali95: shows [Qc Ac] (a pair of Eights)
+requiem298: shows [4h Js] (a pair of Eights - lower kicker)
+Bajali95 collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [Kh 8c 8h 2c 7d]
+Seat 1: Marijuhuana (big blind) folded on the River
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) showed [Qc Ac] and won ($0.52) with a pair of Eights
+Seat 6: requiem298 (small blind) showed [4h Js] and lost with a pair of Eights
+
+
+
+PokerStars Hand #213833845105:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:02:44 MSK [2020/05/13 23:02:44 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($3.44 in chips) 
+Seat 3: velez600 ($1.73 in chips) 
+Seat 4: lawlex_2 ($3.55 in chips) 
+Seat 5: Bajali95 ($1.02 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 8h]
+Bajali95: folds 
+Marijuhuana: calls $0.02
+velez600: folds 
+lawlex_2: checks 
+*** FLOP *** [6c 6d Ts]
+requiem298 leaves the table
+lawlex_2: checks 
+Marijuhuana: checks 
+*** TURN *** [6c 6d Ts] [Ad]
+lawlex_2: checks 
+Marijuhuana: checks 
+*** RIVER *** [6c 6d Ts Ad] [4d]
+lawlex_2: checks 
+O.O.Basay joins the table at seat #6 
+Marijuhuana: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [2s 8h] (a pair of Sixes)
+Marijuhuana: shows [8c Qc] (a pair of Sixes - Ace+Queen kicker)
+Marijuhuana collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6c 6d Ts Ad 4d]
+Seat 1: Marijuhuana (button) showed [8c Qc] and won ($0.05) with a pair of Sixes
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) showed [2s 8h] and lost with a pair of Sixes
+Seat 5: Bajali95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833854212:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:03:04 MSK [2020/05/13 23:03:04 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($3.47 in chips) 
+Seat 3: velez600 ($1.72 in chips) 
+Seat 4: lawlex_2 ($3.53 in chips) 
+Seat 5: Bajali95 ($1.02 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+O.O.Basay: sits out 
+34231648: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Qs]
+Marijuhuana: calls $0.02
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.03
+Marijuhuana: calls $0.03
+*** FLOP *** [6h 3h 3c]
+lawlex_2: checks 
+Bajali95: checks 
+Marijuhuana: checks 
+*** TURN *** [6h 3h 3c] [4d]
+lawlex_2: checks 
+Bajali95: bets $0.14
+Marijuhuana: calls $0.14
+lawlex_2: folds 
+*** RIVER *** [6h 3h 3c 4d] [Js]
+Bajali95: bets $0.40
+Marijuhuana: folds 
+Uncalled bet ($0.40) returned to Bajali95
+Bajali95 collected $0.41 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [6h 3h 3c 4d Js]
+Seat 1: Marijuhuana folded on the River
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded on the Turn
+Seat 5: Bajali95 (big blind) collected ($0.41)
+
+
+
+PokerStars Hand #213833872893:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:03:45 MSK [2020/05/13 23:03:45 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($3.28 in chips) 
+Seat 3: velez600 ($1.72 in chips) 
+Seat 4: lawlex_2 ($3.48 in chips) 
+Seat 5: Bajali95 ($1.24 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+Bajali95: posts small blind $0.01
+O.O.Basay: posts big blind $0.02
+34231648: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 2d]
+Marijuhuana: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.01
+O.O.Basay: raises $0.08 to $0.10
+Bajali95: calls $0.08
+*** FLOP *** [Qs Qc Tc]
+Bajali95: checks 
+O.O.Basay: checks 
+*** TURN *** [Qs Qc Tc] [Kh]
+Bajali95: bets $0.10
+O.O.Basay: folds 
+Uncalled bet ($0.10) returned to Bajali95
+Bajali95 collected $0.19 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qs Qc Tc Kh]
+Seat 1: Marijuhuana folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) collected ($0.19)
+Seat 6: O.O.Basay (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213833884127:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:04:09 MSK [2020/05/13 23:04:09 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($3.28 in chips) 
+Seat 3: velez600 ($1.72 in chips) 
+Seat 4: lawlex_2 ($3.48 in chips) 
+Seat 5: Bajali95 ($1.33 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+O.O.Basay: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+34231648: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 7c]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: folds 
+O.O.Basay: folds 
+Uncalled bet ($0.01) returned to Marijuhuana
+Marijuhuana collected $0.02 from pot
+Marijuhuana: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marijuhuana (big blind) collected ($0.02)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) folded before Flop (didn't bet)
+Seat 6: O.O.Basay (small blind) folded before Flop
+
+
+
+PokerStars Hand #213833892028:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:04:27 MSK [2020/05/13 23:04:27 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 1: Marijuhuana ($3.29 in chips) 
+Seat 2: 34231648 ($2 in chips) 
+Seat 3: velez600 ($1.72 in chips) 
+Seat 4: lawlex_2 ($3.48 in chips) 
+Seat 5: Bajali95 ($1.33 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+Marijuhuana: posts small blind $0.01
+34231648: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 3d]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: raises $0.02 to $0.04
+O.O.Basay: folds 
+Marijuhuana: calls $0.03
+34231648: raises $0.18 to $0.22
+Bajali95: calls $0.18
+Marijuhuana: folds 
+*** FLOP *** [3s Kc Qh]
+34231648: checks 
+Bajali95: checks 
+*** TURN *** [3s Kc Qh] [Ks]
+34231648: bets $0.30
+Bajali95: calls $0.30
+*** RIVER *** [3s Kc Qh Ks] [Tc]
+34231648: bets $1.48 and is all-in
+Bajali95: calls $0.81 and is all-in
+Uncalled bet ($0.67) returned to 34231648
+*** SHOW DOWN ***
+34231648: shows [Jh Kh] (three of a kind, Kings)
+Bajali95: shows [As Js] (a straight, Ten to Ace)
+Bajali95 collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.09 
+Board [3s Kc Qh Ks Tc]
+Seat 1: Marijuhuana (small blind) folded before Flop
+Seat 2: 34231648 (big blind) showed [Jh Kh] and lost with three of a kind, Kings
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 showed [As Js] and won ($2.61) with a straight, Ten to Ace
+Seat 6: O.O.Basay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833929308:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:05:48 MSK [2020/05/13 23:05:48 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($3.25 in chips) 
+Seat 2: 34231648 ($0.67 in chips) 
+Seat 3: velez600 ($1.72 in chips) 
+Seat 4: lawlex_2 ($3.48 in chips) 
+Seat 5: Bajali95 ($2.61 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+34231648: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 8s]
+lawlex_2: folds 
+Bajali95: calls $0.02
+O.O.Basay: folds 
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: checks 
+*** FLOP *** [2s 3d 6c]
+velez600: checks 
+Bajali95: checks 
+Marijuhuana: checks 
+*** TURN *** [2s 3d 6c] [9c]
+velez600: bets $0.05
+Bajali95: calls $0.05
+Marijuhuana: folds 
+*** RIVER *** [2s 3d 6c 9c] [5d]
+velez600: checks 
+Bajali95: bets $0.02
+velez600: folds 
+Uncalled bet ($0.02) returned to Bajali95
+Bajali95 collected $0.16 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2s 3d 6c 9c 5d]
+Seat 1: Marijuhuana (button) folded on the Turn
+Seat 2: 34231648 (small blind) folded before Flop
+Seat 3: velez600 (big blind) folded on the River
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 collected ($0.16)
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833950780:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:06:35 MSK [2020/05/13 23:06:35 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($3.23 in chips) 
+Seat 2: 34231648 ($0.66 in chips) 
+Seat 3: velez600 ($1.65 in chips) 
+Seat 4: lawlex_2 ($3.48 in chips) 
+Seat 5: Bajali95 ($2.70 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Tc]
+Bajali95: raises $0.04 to $0.06
+O.O.Basay: folds 
+Marijuhuana: calls $0.06
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+*** FLOP *** [4c Qh 5h]
+Bajali95: bets $0.08
+Marijuhuana: folds 
+Uncalled bet ($0.08) returned to Bajali95
+Bajali95 collected $0.14 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4c Qh 5h]
+Seat 1: Marijuhuana folded on the Flop
+Seat 2: 34231648 (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Bajali95 collected ($0.14)
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833962240:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:07:00 MSK [2020/05/13 23:07:00 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($3.17 in chips) 
+Seat 2: 34231648 ($1.46 in chips) 
+Seat 3: velez600 ($1.64 in chips) 
+Seat 4: lawlex_2 ($3.46 in chips) 
+Seat 5: Bajali95 ($2.78 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Ks]
+O.O.Basay: folds 
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: raises $0.06 to $0.08
+lawlex_2: folds 
+Bajali95: calls $0.06
+Marijuhuana: calls $0.06
+*** FLOP *** [Tc Td 8s]
+Bajali95: bets $0.12
+Marijuhuana: calls $0.12
+velez600: folds 
+*** TURN *** [Tc Td 8s] [6d]
+Bajali95: bets $0.24
+Marijuhuana: calls $0.24
+*** RIVER *** [Tc Td 8s 6d] [Ts]
+Bajali95: checks 
+Marijuhuana: bets $0.26
+Bajali95: folds 
+Uncalled bet ($0.26) returned to Marijuhuana
+Marijuhuana collected $0.94 from pot
+Marijuhuana: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03 
+Board [Tc Td 8s 6d Ts]
+Seat 1: Marijuhuana collected ($0.94)
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded on the Flop
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) folded on the River
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213833993837:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:08:09 MSK [2020/05/13 23:08:09 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($3.67 in chips) 
+Seat 2: 34231648 ($2 in chips) 
+Seat 3: velez600 ($1.56 in chips) 
+Seat 4: lawlex_2 ($3.45 in chips) 
+Seat 5: Bajali95 ($2.34 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+Bajali95: posts small blind $0.01
+O.O.Basay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 4d]
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: raises $0.06 to $0.08
+O.O.Basay: folds 
+Marijuhuana: calls $0.06
+*** FLOP *** [7c 4h Jh]
+Bajali95: bets $0.16
+Marijuhuana: raises $0.16 to $0.32
+Bajali95: raises $1.94 to $2.26 and is all-in
+Marijuhuana: calls $1.94
+*** TURN *** [7c 4h Jh] [Kh]
+*** RIVER *** [7c 4h Jh Kh] [5s]
+*** SHOW DOWN ***
+Bajali95: shows [Qd Qh] (a pair of Queens)
+Marijuhuana: shows [Jc 7s] (two pair, Jacks and Sevens)
+Marijuhuana collected $4.54 from pot
+*** SUMMARY ***
+Total pot $4.70 | Rake $0.16 
+Board [7c 4h Jh Kh 5s]
+Seat 1: Marijuhuana showed [Jc 7s] and won ($4.54) with two pair, Jacks and Sevens
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) showed [Qd Qh] and lost with a pair of Queens
+Seat 6: O.O.Basay (big blind) folded before Flop
+
+
+
+PokerStars Hand #213834013760:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:08:54 MSK [2020/05/13 23:08:54 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 1: Marijuhuana ($5.87 in chips) 
+Seat 2: 34231648 ($2 in chips) 
+Seat 3: velez600 ($1.56 in chips) 
+Seat 4: lawlex_2 ($3.45 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+Marijuhuana: posts small blind $0.01
+34231648: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Ac]
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+O.O.Basay: folds 
+Marijuhuana: calls $0.04
+34231648: folds 
+*** FLOP *** [Jd 9c Qh]
+Marijuhuana: checks 
+lawlex_2: bets $0.08
+Marijuhuana: calls $0.08
+*** TURN *** [Jd 9c Qh] [3c]
+Marijuhuana: checks 
+lawlex_2: bets $0.18
+Marijuhuana: folds 
+Uncalled bet ($0.18) returned to lawlex_2
+lawlex_2 collected $0.27 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Jd 9c Qh 3c]
+Seat 1: Marijuhuana (small blind) folded on the Turn
+Seat 2: 34231648 (big blind) folded before Flop
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.27)
+Seat 6: O.O.Basay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834030121:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:09:26 MSK [2020/05/13 23:09:26 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($5.74 in chips) 
+Seat 2: 34231648 ($1.98 in chips) 
+Seat 3: velez600 ($1.56 in chips) 
+Seat 4: lawlex_2 ($3.59 in chips) 
+Seat 5: Bajali95 ($2 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+34231648: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 2h]
+lawlex_2: folds 
+Bajali95: calls $0.02
+O.O.Basay: folds 
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: checks 
+*** FLOP *** [5s Qc Js]
+velez600: checks 
+Bajali95: bets $0.04
+Marijuhuana: folds 
+velez600: folds 
+Uncalled bet ($0.04) returned to Bajali95
+Bajali95 collected $0.07 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [5s Qc Js]
+Seat 1: Marijuhuana (button) folded on the Flop
+Seat 2: 34231648 (small blind) folded before Flop
+Seat 3: velez600 (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 collected ($0.07)
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834050188:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:09:55 MSK [2020/05/13 23:09:55 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($5.72 in chips) 
+Seat 2: 34231648 ($1.97 in chips) 
+Seat 3: velez600 ($1.54 in chips) 
+Seat 4: lawlex_2 ($3.59 in chips) 
+Seat 5: Bajali95 ($2.05 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Ts]
+Bajali95: raises $0.04 to $0.06
+O.O.Basay: folds 
+Marijuhuana: calls $0.06
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+*** FLOP *** [Qh 3d Ks]
+Bajali95: bets $0.06
+Marijuhuana: folds 
+Uncalled bet ($0.06) returned to Bajali95
+Bajali95 collected $0.14 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh 3d Ks]
+Seat 1: Marijuhuana folded on the Flop
+Seat 2: 34231648 (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Bajali95 collected ($0.14)
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834068828:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:10:36 MSK [2020/05/13 23:10:36 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($5.66 in chips) 
+Seat 2: 34231648 ($1.97 in chips) 
+Seat 3: velez600 ($1.53 in chips) 
+Seat 4: lawlex_2 ($3.57 in chips) 
+Seat 5: Bajali95 ($2.13 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 9h]
+O.O.Basay: folds 
+Marijuhuana: folds 
+34231648: raises $0.06 to $0.08
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.06
+*** FLOP *** [5s 6d Qc]
+Bajali95: checks 
+34231648: bets $0.11
+Bajali95: calls $0.11
+*** TURN *** [5s 6d Qc] [4s]
+Bajali95: bets $0.18
+34231648: raises $0.18 to $0.36
+Bajali95: calls $0.18
+*** RIVER *** [5s 6d Qc 4s] [Kc]
+Bajali95: checks 
+34231648: bets $0.32
+Bajali95: calls $0.32
+*** SHOW DOWN ***
+34231648: shows [Jd Qd] (a pair of Queens)
+Bajali95: mucks hand 
+34231648 collected $1.69 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.06 
+Board [5s 6d Qc 4s Kc]
+Seat 1: Marijuhuana folded before Flop (didn't bet)
+Seat 2: 34231648 showed [Jd Qd] and won ($1.69) with a pair of Queens
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) mucked [8c 8s]
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834103699:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:11:54 MSK [2020/05/13 23:11:54 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($5.66 in chips) 
+Seat 2: 34231648 ($2.79 in chips) 
+Seat 3: velez600 ($1.53 in chips) 
+Seat 4: lawlex_2 ($3.56 in chips) 
+Seat 5: Bajali95 ($1.26 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+Bajali95: posts small blind $0.01
+O.O.Basay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 6s]
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.01
+O.O.Basay: checks 
+*** FLOP *** [3h Qc Ah]
+Bajali95: checks 
+O.O.Basay: checks 
+Marijuhuana: bets $0.02
+Bajali95: calls $0.02
+O.O.Basay: folds 
+*** TURN *** [3h Qc Ah] [2h]
+Bajali95: bets $0.04
+Marijuhuana: raises $0.08 to $0.12
+Bajali95: calls $0.08
+*** RIVER *** [3h Qc Ah 2h] [Kh]
+Bajali95: checks 
+Marijuhuana: bets $1.18
+Bajali95: folds 
+Uncalled bet ($1.18) returned to Marijuhuana
+Marijuhuana collected $0.33 from pot
+Marijuhuana: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [3h Qc Ah 2h Kh]
+Seat 1: Marijuhuana collected ($0.33)
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) folded on the River
+Seat 6: O.O.Basay (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213834128034:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:12:48 MSK [2020/05/13 23:12:48 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($5.83 in chips) 
+Seat 2: 34231648 ($2.79 in chips) 
+Seat 3: velez600 ($1.53 in chips) 
+Seat 4: lawlex_2 ($3.56 in chips) 
+Seat 5: Bajali95 ($1.10 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+O.O.Basay: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Ac]
+34231648: folds 
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.05
+O.O.Basay: folds 
+Marijuhuana: calls $0.03
+*** FLOP *** [Jh 2h Th]
+Marijuhuana: checks 
+lawlex_2: checks 
+Bajali95: checks 
+*** TURN *** [Jh 2h Th] [3c]
+Marijuhuana: checks 
+lawlex_2: checks 
+Bajali95: checks 
+*** RIVER *** [Jh 2h Th 3c] [Ad]
+Marijuhuana: checks 
+lawlex_2: bets $0.10
+Bajali95: raises $0.95 to $1.05 and is all-in
+Marijuhuana: folds 
+lawlex_2: folds 
+Uncalled bet ($0.95) returned to Bajali95
+Bajali95 collected $0.35 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Jh 2h Th 3c Ad]
+Seat 1: Marijuhuana (big blind) folded on the River
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded on the River
+Seat 5: Bajali95 (button) collected ($0.35)
+Seat 6: O.O.Basay (small blind) folded before Flop
+
+
+
+PokerStars Hand #213834158168:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:13:50 MSK [2020/05/13 23:13:50 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 1: Marijuhuana ($5.78 in chips) 
+Seat 2: 34231648 ($2.79 in chips) 
+Seat 3: velez600 ($1.53 in chips) 
+Seat 4: lawlex_2 ($3.41 in chips) 
+Seat 5: Bajali95 ($1.30 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+Marijuhuana: posts small blind $0.01
+34231648: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 6h]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: folds 
+O.O.Basay: folds 
+Marijuhuana: calls $0.01
+34231648: raises $0.06 to $0.08
+Marijuhuana: calls $0.06
+*** FLOP *** [Kh 6d 9s]
+Marijuhuana: checks 
+34231648: bets $0.08
+Marijuhuana: folds 
+Uncalled bet ($0.08) returned to 34231648
+34231648 collected $0.15 from pot
+34231648: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Kh 6d 9s]
+Seat 1: Marijuhuana (small blind) folded on the Flop
+Seat 2: 34231648 (big blind) collected ($0.15)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 folded before Flop (didn't bet)
+Seat 6: O.O.Basay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834172678:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:14:22 MSK [2020/05/13 23:14:22 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($5.70 in chips) 
+Seat 2: 34231648 ($2.86 in chips) 
+Seat 3: velez600 ($1.53 in chips) 
+Seat 4: lawlex_2 ($3.41 in chips) 
+Seat 5: Bajali95 ($1.30 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+34231648: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Jc]
+lawlex_2: raises $0.03 to $0.05
+Bajali95: folds 
+O.O.Basay: raises $0.15 to $0.20
+Marijuhuana: folds 
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+Uncalled bet ($0.15) returned to O.O.Basay
+O.O.Basay collected $0.13 from pot
+O.O.Basay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Marijuhuana (button) folded before Flop (didn't bet)
+Seat 2: 34231648 (small blind) folded before Flop
+Seat 3: velez600 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop
+Seat 5: Bajali95 folded before Flop (didn't bet)
+Seat 6: O.O.Basay collected ($0.13)
+
+
+
+PokerStars Hand #213834190873:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:15:03 MSK [2020/05/13 23:15:03 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($5.70 in chips) 
+Seat 2: 34231648 ($2.85 in chips) 
+Seat 3: velez600 ($1.51 in chips) 
+Seat 4: lawlex_2 ($3.36 in chips) 
+Seat 5: Bajali95 ($1.30 in chips) 
+Seat 6: O.O.Basay ($2.08 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Ts]
+Bajali95: raises $0.02 to $0.04
+O.O.Basay: folds 
+Marijuhuana: calls $0.04
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+*** FLOP *** [6c Js 7d]
+Bajali95: bets $0.06
+Marijuhuana: folds 
+Uncalled bet ($0.06) returned to Bajali95
+Bajali95 collected $0.11 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6c Js 7d]
+Seat 1: Marijuhuana folded on the Flop
+Seat 2: 34231648 (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Bajali95 collected ($0.11)
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834206543:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:15:38 MSK [2020/05/13 23:15:38 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($5.66 in chips) 
+Seat 2: 34231648 ($2.85 in chips) 
+Seat 3: velez600 ($1.50 in chips) 
+Seat 4: lawlex_2 ($3.34 in chips) 
+Seat 5: Bajali95 ($1.37 in chips) 
+Seat 6: O.O.Basay ($2.08 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Kd]
+O.O.Basay: folds 
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: checks 
+*** FLOP *** [8s 4s 6d]
+Bajali95: checks 
+Marijuhuana: checks 
+*** TURN *** [8s 4s 6d] [Td]
+Bajali95: bets $0.04
+Marijuhuana: folds 
+Uncalled bet ($0.04) returned to Bajali95
+Bajali95 collected $0.05 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8s 4s 6d Td]
+Seat 1: Marijuhuana folded on the Turn
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) collected ($0.05)
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834219761:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:16:07 MSK [2020/05/13 23:16:07 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($5.64 in chips) 
+Seat 2: 34231648 ($2.85 in chips) 
+Seat 3: velez600 ($1.50 in chips) 
+Seat 4: lawlex_2 ($3.33 in chips) 
+Seat 5: Bajali95 ($1.40 in chips) 
+Seat 6: O.O.Basay ($2.08 in chips) 
+Bajali95: posts small blind $0.01
+O.O.Basay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 7d]
+Marijuhuana: folds 
+34231648: folds 
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+Bajali95: raises $0.03 to $0.08
+O.O.Basay: folds 
+lawlex_2: calls $0.03
+*** FLOP *** [Qd Ks Td]
+Bajali95: bets $0.16
+lawlex_2: calls $0.16
+*** TURN *** [Qd Ks Td] [8h]
+Bajali95: bets $0.48
+lawlex_2: calls $0.48
+*** RIVER *** [Qd Ks Td 8h] [7c]
+Bajali95: bets $0.68 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.68) returned to Bajali95
+Bajali95 collected $1.41 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [Qd Ks Td 8h 7c]
+Seat 1: Marijuhuana folded before Flop (didn't bet)
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded on the River
+Seat 5: Bajali95 (small blind) collected ($1.41)
+Seat 6: O.O.Basay (big blind) folded before Flop
+
+
+
+PokerStars Hand #213834245633:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:17:04 MSK [2020/05/13 23:17:04 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($5.64 in chips) 
+Seat 2: 34231648 ($2.85 in chips) 
+Seat 3: velez600 ($1.50 in chips) 
+Seat 4: lawlex_2 ($2.61 in chips) 
+Seat 5: Bajali95 ($2.09 in chips) 
+Seat 6: O.O.Basay ($2.06 in chips) 
+O.O.Basay: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 2s]
+34231648: folds 
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.05
+O.O.Basay: folds 
+Marijuhuana: calls $0.03
+*** FLOP *** [4d 5d Qs]
+Marijuhuana: checks 
+lawlex_2: checks 
+Bajali95: bets $0.08
+Marijuhuana: calls $0.08
+lawlex_2: folds 
+*** TURN *** [4d 5d Qs] [Ks]
+Marijuhuana: checks 
+Bajali95: bets $0.16
+Marijuhuana: folds 
+Uncalled bet ($0.16) returned to Bajali95
+Bajali95 collected $0.31 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [4d 5d Qs Ks]
+Seat 1: Marijuhuana (big blind) folded on the Turn
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded on the Flop
+Seat 5: Bajali95 (button) collected ($0.31)
+Seat 6: O.O.Basay (small blind) folded before Flop
+
+
+
+PokerStars Hand #213834262833:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:17:43 MSK [2020/05/13 23:17:43 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 1: Marijuhuana ($5.51 in chips) 
+Seat 2: 34231648 ($2.85 in chips) 
+Seat 3: velez600 ($1.50 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: Bajali95 ($2.27 in chips) 
+Seat 6: O.O.Basay ($2.05 in chips) 
+Marijuhuana: posts small blind $0.01
+34231648: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 7h]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: raises $0.02 to $0.04
+O.O.Basay: folds 
+Marijuhuana: calls $0.03
+34231648: calls $0.02
+*** FLOP *** [6h Jd 5d]
+Marijuhuana: bets $0.04
+34231648: calls $0.04
+Bajali95: calls $0.04
+*** TURN *** [6h Jd 5d] [Qd]
+Marijuhuana: bets $0.12
+34231648: raises $0.31 to $0.43
+Bajali95: calls $0.43
+Marijuhuana: calls $0.31
+*** RIVER *** [6h Jd 5d Qd] [2d]
+Marijuhuana: checks 
+34231648: checks 
+Bajali95: checks 
+*** SHOW DOWN ***
+Marijuhuana: shows [5h 6c] (two pair, Sixes and Fives)
+34231648: shows [8d Td] (a flush, Queen high)
+Bajali95: mucks hand 
+34231648 collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.53 | Rake $0.05 
+Board [6h Jd 5d Qd 2d]
+Seat 1: Marijuhuana (small blind) showed [5h 6c] and lost with two pair, Sixes and Fives
+Seat 2: 34231648 (big blind) showed [8d Td] and won ($1.48) with a flush, Queen high
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 mucked [8s Qh]
+Seat 6: O.O.Basay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834291300:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:18:38 MSK [2020/05/13 23:18:38 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($5 in chips) 
+Seat 2: 34231648 ($3.82 in chips) 
+Seat 3: velez600 ($1.50 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: Bajali95 ($1.76 in chips) 
+Seat 6: O.O.Basay ($2.05 in chips) 
+34231648: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 8s]
+lawlex_2: folds 
+Bajali95: calls $0.02
+O.O.Basay: folds 
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: checks 
+*** FLOP *** [Kh 6c Ks]
+velez600: checks 
+Bajali95: checks 
+Marijuhuana: checks 
+*** TURN *** [Kh 6c Ks] [Kc]
+velez600: checks 
+Bajali95: checks 
+Marijuhuana: checks 
+*** RIVER *** [Kh 6c Ks Kc] [4d]
+velez600: bets $0.05
+Bajali95: folds 
+Marijuhuana: folds 
+Uncalled bet ($0.05) returned to velez600
+velez600 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Kh 6c Ks Kc 4d]
+Seat 1: Marijuhuana (button) folded on the River
+Seat 2: 34231648 (small blind) folded before Flop
+Seat 3: velez600 (big blind) collected ($0.07)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 folded on the River
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834312504:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:19:26 MSK [2020/05/13 23:19:26 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($4.98 in chips) 
+Seat 2: 34231648 ($3.81 in chips) 
+Seat 3: velez600 ($1.55 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: Bajali95 ($1.74 in chips) 
+Seat 6: O.O.Basay ($2.05 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Kc]
+Bajali95: folds 
+O.O.Basay: folds 
+Marijuhuana has timed out
+Marijuhuana: folds 
+34231648: folds 
+velez600: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marijuhuana folded before Flop (didn't bet)
+Seat 2: 34231648 (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 5: Bajali95 folded before Flop (didn't bet)
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834331769:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:19:48 MSK [2020/05/13 23:19:48 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 2: 34231648 ($3.81 in chips) 
+Seat 3: velez600 ($1.54 in chips) 
+Seat 4: lawlex_2 ($2.57 in chips) 
+Seat 5: Bajali95 ($1.74 in chips) 
+Seat 6: O.O.Basay ($2.05 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Jd]
+O.O.Basay: raises $0.04 to $0.06
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.04
+*** FLOP *** [7s Qc Qs]
+Bajali95: checks 
+O.O.Basay: bets $0.05
+Bajali95: calls $0.05
+*** TURN *** [7s Qc Qs] [5s]
+Bajali95: bets $0.10
+O.O.Basay: calls $0.10
+*** RIVER *** [7s Qc Qs 5s] [7d]
+Marijuhuana is disconnected 
+Bajali95: bets $0.20
+O.O.Basay: calls $0.20
+*** SHOW DOWN ***
+Bajali95: shows [Ah 4c] (two pair, Queens and Sevens)
+O.O.Basay: shows [As Js] (a flush, Ace high)
+O.O.Basay collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [7s Qc Qs 5s 7d]
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) showed [Ah 4c] and lost with two pair, Queens and Sevens
+Seat 6: O.O.Basay showed [As Js] and won ($0.80) with a flush, Ace high
+
+
+
+PokerStars Hand #213834361054:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:20:53 MSK [2020/05/13 23:20:53 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 2: 34231648 ($3.81 in chips) 
+Seat 3: velez600 ($1.54 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: Bajali95 ($1.33 in chips) 
+Seat 6: O.O.Basay ($2.44 in chips) 
+Bajali95: posts small blind $0.01
+O.O.Basay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Th]
+34231648: folds 
+velez600: raises $0.04 to $0.06
+lawlex_2: folds 
+Bajali95: folds 
+O.O.Basay: folds 
+Uncalled bet ($0.04) returned to velez600
+velez600 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 collected ($0.05)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) folded before Flop
+Seat 6: O.O.Basay (big blind) folded before Flop
+
+
+
+PokerStars Hand #213834375691:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:21:27 MSK [2020/05/13 23:21:27 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 2: 34231648 ($3.81 in chips) 
+Seat 3: velez600 ($1.57 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: Bajali95 ($1.32 in chips) 
+Seat 6: O.O.Basay ($2.42 in chips) 
+O.O.Basay: posts small blind $0.01
+34231648: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 7c]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: folds 
+O.O.Basay: folds 
+Uncalled bet ($0.01) returned to 34231648
+34231648 collected $0.02 from pot
+34231648: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: 34231648 (big blind) collected ($0.02)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) folded before Flop (didn't bet)
+Seat 6: O.O.Basay (small blind) folded before Flop
+
+
+
+PokerStars Hand #213834382178:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:21:41 MSK [2020/05/13 23:21:41 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 2: 34231648 ($3.82 in chips) 
+Seat 3: velez600 ($1.57 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: Bajali95 ($1.32 in chips) 
+Seat 6: O.O.Basay ($2.41 in chips) 
+34231648: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Tc]
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.05
+O.O.Basay: folds 
+34231648: folds 
+velez600: folds 
+*** FLOP *** [Kh 8h 9s]
+lawlex_2: bets $0.09
+Bajali95: calls $0.09
+*** TURN *** [Kh 8h 9s] [2d]
+lawlex_2: bets $0.20
+Bajali95: calls $0.20
+*** RIVER *** [Kh 8h 9s 2d] [7c]
+lawlex_2: checks 
+Bajali95: bets $0.68
+lawlex_2: folds 
+Uncalled bet ($0.68) returned to Bajali95
+Bajali95 collected $0.69 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [Kh 8h 9s 2d 7c]
+Seat 2: 34231648 (small blind) folded before Flop
+Seat 3: velez600 (big blind) folded before Flop
+Seat 4: lawlex_2 folded on the River
+Seat 5: Bajali95 collected ($0.69)
+Seat 6: O.O.Basay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834404795:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:22:33 MSK [2020/05/13 23:22:33 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 2: 34231648 ($3.81 in chips) 
+Seat 3: velez600 ($1.55 in chips) 
+Seat 4: lawlex_2 ($2.22 in chips) 
+Seat 5: Bajali95 ($1.67 in chips) 
+Seat 6: O.O.Basay ($2.41 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 8c]
+Bajali95: calls $0.02
+O.O.Basay: raises $0.08 to $0.10
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.08
+*** FLOP *** [4c 5h Tc]
+Bajali95: checks 
+O.O.Basay: checks 
+*** TURN *** [4c 5h Tc] [Jc]
+Bajali95: checks 
+O.O.Basay: checks 
+*** RIVER *** [4c 5h Tc Jc] [2h]
+Bajali95: bets $0.10
+O.O.Basay: folds 
+Uncalled bet ($0.10) returned to Bajali95
+Bajali95 collected $0.22 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [4c 5h Tc Jc 2h]
+Seat 2: 34231648 (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Bajali95 collected ($0.22)
+Seat 6: O.O.Basay folded on the River
+
+
+
+PokerStars Hand #213834430616:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:23:21 MSK [2020/05/13 23:23:21 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 2: 34231648 ($3.81 in chips) 
+Seat 3: velez600 ($1.54 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 5: Bajali95 ($1.79 in chips) 
+Seat 6: O.O.Basay ($2.31 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 9s]
+O.O.Basay: folds 
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Bajali95
+Bajali95 collected $0.02 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) collected ($0.02)
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834437033:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:23:35 MSK [2020/05/13 23:23:35 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 2: 34231648 ($3.81 in chips) 
+Seat 3: velez600 ($1.54 in chips) 
+Seat 4: lawlex_2 ($2.19 in chips) 
+Seat 5: Bajali95 ($1.80 in chips) 
+Seat 6: O.O.Basay ($2.31 in chips) 
+Bajali95: posts small blind $0.01
+O.O.Basay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 4s]
+34231648: raises $0.04 to $0.06
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.05
+O.O.Basay: calls $0.04
+*** FLOP *** [7c Tc Ad]
+Bajali95: checks 
+O.O.Basay: checks 
+34231648: bets $0.05
+Bajali95: folds 
+O.O.Basay: calls $0.05
+*** TURN *** [7c Tc Ad] [6h]
+O.O.Basay: checks 
+34231648: checks 
+*** RIVER *** [7c Tc Ad 6h] [9h]
+O.O.Basay: bets $0.18
+34231648: folds 
+Uncalled bet ($0.18) returned to O.O.Basay
+O.O.Basay collected $0.27 from pot
+O.O.Basay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [7c Tc Ad 6h 9h]
+Seat 2: 34231648 folded on the River
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) folded on the Flop
+Seat 6: O.O.Basay (big blind) collected ($0.27)
+
+
+
+PokerStars Hand #213834459346:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:24:26 MSK [2020/05/13 23:24:26 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 2: 34231648 ($3.70 in chips) 
+Seat 3: velez600 ($1.54 in chips) 
+Seat 4: lawlex_2 ($2.19 in chips) 
+Seat 5: Bajali95 ($1.74 in chips) 
+Seat 6: O.O.Basay ($2.47 in chips) 
+O.O.Basay: posts small blind $0.01
+34231648: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 4s]
+velez600: raises $0.04 to $0.06
+lawlex_2: folds 
+Bajali95: calls $0.06
+O.O.Basay: calls $0.05
+34231648: folds 
+*** FLOP *** [7d Ac 3c]
+O.O.Basay: checks 
+velez600: bets $0.06
+Bajali95: raises $0.06 to $0.12
+O.O.Basay: folds 
+velez600: calls $0.06
+*** TURN *** [7d Ac 3c] [Td]
+velez600: checks 
+Bajali95: bets $0.20
+velez600: folds 
+Uncalled bet ($0.20) returned to Bajali95
+Bajali95 collected $0.42 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [7d Ac 3c Td]
+Seat 2: 34231648 (big blind) folded before Flop
+Seat 3: velez600 folded on the Turn
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) collected ($0.42)
+Seat 6: O.O.Basay (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213834478912:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:25:11 MSK [2020/05/13 23:25:11 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 2: 34231648 ($3.68 in chips) 
+Seat 3: velez600 ($1.36 in chips) 
+Seat 4: lawlex_2 ($2.19 in chips) 
+Seat 5: Bajali95 ($1.98 in chips) 
+Seat 6: O.O.Basay ($2.41 in chips) 
+34231648: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Qc]
+lawlex_2: raises $0.03 to $0.05
+Bajali95: folds 
+O.O.Basay: folds 
+34231648: folds 
+velez600: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 34231648 (small blind) folded before Flop
+Seat 3: velez600 (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Bajali95 folded before Flop (didn't bet)
+Seat 6: O.O.Basay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834486547:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:25:28 MSK [2020/05/13 23:25:28 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 2: 34231648 ($3.67 in chips) 
+Seat 3: velez600 ($1.34 in chips) 
+Seat 4: lawlex_2 ($2.22 in chips) 
+Seat 5: Bajali95 ($1.98 in chips) 
+Seat 6: O.O.Basay ($2.41 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 4c]
+Bajali95: folds 
+O.O.Basay: folds 
+34231648: folds 
+velez600: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: 34231648 (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 5: Bajali95 folded before Flop (didn't bet)
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834491318:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:25:39 MSK [2020/05/13 23:25:39 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 2: 34231648 ($3.67 in chips) 
+Seat 3: velez600 ($1.33 in chips) 
+Seat 4: lawlex_2 ($2.23 in chips) 
+Seat 5: Bajali95 ($1.98 in chips) 
+Seat 6: O.O.Basay ($2.41 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Th]
+O.O.Basay: raises $0.04 to $0.06
+34231648: folds 
+velez600: folds 
+lawlex_2: calls $0.05
+Bajali95: calls $0.04
+*** FLOP *** [6d Qs Ks]
+lawlex_2: checks 
+Bajali95: bets $0.08
+O.O.Basay: folds 
+lawlex_2: calls $0.08
+*** TURN *** [6d Qs Ks] [Td]
+lawlex_2: checks 
+Bajali95: bets $0.16
+lawlex_2: calls $0.16
+*** RIVER *** [6d Qs Ks Td] [2s]
+lawlex_2: checks 
+Bajali95: bets $0.64
+lawlex_2: folds 
+Uncalled bet ($0.64) returned to Bajali95
+Bajali95 collected $0.64 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [6d Qs Ks Td 2s]
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded on the River
+Seat 5: Bajali95 (big blind) collected ($0.64)
+Seat 6: O.O.Basay folded on the Flop
+
+
+
+PokerStars Hand #213834525860:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:26:58 MSK [2020/05/13 23:26:58 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($4.98 in chips) 
+Seat 2: 34231648 ($3.67 in chips) 
+Seat 3: velez600 ($1.33 in chips) 
+Seat 4: lawlex_2 ($1.93 in chips) 
+Seat 5: Bajali95 ($2.32 in chips) 
+Seat 6: O.O.Basay ($2.35 in chips) 
+Bajali95: posts small blind $0.01
+O.O.Basay: posts big blind $0.02
+Marijuhuana: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 7s]
+Marijuhuana: checks 
+34231648: calls $0.02
+velez600: raises $0.10 to $0.12
+lawlex_2: folds 
+Bajali95: folds 
+O.O.Basay: folds 
+Marijuhuana: calls $0.10
+34231648: calls $0.10
+*** FLOP *** [2h Kd Jh]
+Marijuhuana: checks 
+34231648: checks 
+velez600: checks 
+*** TURN *** [2h Kd Jh] [6h]
+Marijuhuana: checks 
+34231648: checks 
+velez600: bets $0.12
+Marijuhuana: folds 
+34231648: folds 
+Uncalled bet ($0.12) returned to velez600
+velez600 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [2h Kd Jh 6h]
+Seat 1: Marijuhuana folded on the Turn
+Seat 2: 34231648 folded on the Turn
+Seat 3: velez600 collected ($0.39)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) folded before Flop
+Seat 6: O.O.Basay (big blind) folded before Flop
+
+
+
+PokerStars Hand #213834550672:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:27:55 MSK [2020/05/13 23:27:55 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($4.85 in chips) 
+Seat 2: 34231648 ($3.55 in chips) 
+Seat 3: velez600 ($1.60 in chips) 
+Seat 4: lawlex_2 ($1.93 in chips) 
+Seat 5: Bajali95 ($2.31 in chips) 
+Seat 6: O.O.Basay ($2.33 in chips) 
+O.O.Basay: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Qh]
+34231648: folds 
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.05
+O.O.Basay: raises $0.19 to $0.24
+Marijuhuana: folds 
+lawlex_2: folds 
+Bajali95: calls $0.19
+*** FLOP *** [6d Ac 6c]
+O.O.Basay: bets $0.35
+Bajali95: calls $0.35
+*** TURN *** [6d Ac 6c] [4d]
+O.O.Basay: checks 
+Bajali95: bets $0.60
+O.O.Basay: folds 
+Uncalled bet ($0.60) returned to Bajali95
+Bajali95 collected $1.21 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.04 
+Board [6d Ac 6c 4d]
+Seat 1: Marijuhuana (big blind) folded before Flop
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop
+Seat 5: Bajali95 (button) collected ($1.21)
+Seat 6: O.O.Basay (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213834563951:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:28:25 MSK [2020/05/13 23:28:25 ET]
+Table 'Chertan' 6-max Seat #6 is the button
+Seat 1: Marijuhuana ($4.83 in chips) 
+Seat 2: 34231648 ($3.55 in chips) 
+Seat 3: velez600 ($1.60 in chips) 
+Seat 4: lawlex_2 ($1.88 in chips) 
+Seat 5: Bajali95 ($2.93 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+Marijuhuana: posts small blind $0.01
+34231648: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Jc]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: raises $0.02 to $0.04
+O.O.Basay: folds 
+Marijuhuana: calls $0.03
+34231648: folds 
+*** FLOP *** [5c Ts 6h]
+Marijuhuana: checks 
+Bajali95: checks 
+*** TURN *** [5c Ts 6h] [9d]
+Marijuhuana: checks 
+Bajali95: checks 
+*** RIVER *** [5c Ts 6h 9d] [3h]
+Marijuhuana: checks 
+Bajali95: bets $0.04
+Marijuhuana: folds 
+Uncalled bet ($0.04) returned to Bajali95
+Bajali95 collected $0.10 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5c Ts 6h 9d 3h]
+Seat 1: Marijuhuana (small blind) folded on the River
+Seat 2: 34231648 (big blind) folded before Flop
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 collected ($0.10)
+Seat 6: O.O.Basay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834578257:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:28:58 MSK [2020/05/13 23:28:58 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($4.79 in chips) 
+Seat 2: 34231648 ($3.53 in chips) 
+Seat 3: velez600 ($1.60 in chips) 
+Seat 4: lawlex_2 ($1.88 in chips) 
+Seat 5: Bajali95 ($2.99 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+34231648: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Ac]
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.05
+O.O.Basay: folds 
+Marijuhuana: calls $0.05
+34231648: folds 
+velez600: calls $0.03
+*** FLOP *** [5d As Ts]
+velez600: checks 
+lawlex_2: checks 
+Bajali95: checks 
+Marijuhuana: checks 
+*** TURN *** [5d As Ts] [Jd]
+velez600: bets $0.06
+lawlex_2: raises $0.21 to $0.27
+Bajali95: folds 
+Marijuhuana: folds 
+velez600: folds 
+Uncalled bet ($0.21) returned to lawlex_2
+lawlex_2 collected $0.32 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5d As Ts Jd]
+Seat 1: Marijuhuana (button) folded on the Turn
+Seat 2: 34231648 (small blind) folded before Flop
+Seat 3: velez600 (big blind) folded on the Turn
+Seat 4: lawlex_2 collected ($0.32)
+Seat 5: Bajali95 folded on the Turn
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834611269:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:30:05 MSK [2020/05/13 23:30:05 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($4.74 in chips) 
+Seat 2: 34231648 ($3.52 in chips) 
+Seat 3: velez600 ($1.49 in chips) 
+Seat 4: lawlex_2 ($2.09 in chips) 
+Seat 5: Bajali95 ($2.94 in chips) 
+Seat 6: O.O.Basay ($2 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Qs]
+Bajali95: calls $0.02
+O.O.Basay: raises $0.08 to $0.10
+Marijuhuana: folds 
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: calls $0.08
+*** FLOP *** [3h 6h Qc]
+Bajali95: checks 
+O.O.Basay: bets $0.08
+Bajali95: calls $0.08
+*** TURN *** [3h 6h Qc] [Ad]
+Bajali95: checks 
+O.O.Basay: bets $0.25
+Bajali95: calls $0.25
+*** RIVER *** [3h 6h Qc Ad] [5c]
+Bajali95: checks 
+O.O.Basay: bets $0.57
+Bajali95: calls $0.57
+*** SHOW DOWN ***
+O.O.Basay: shows [Jh Ah] (a pair of Aces)
+Bajali95: mucks hand 
+O.O.Basay collected $1.96 from pot
+*** SUMMARY ***
+Total pot $2.03 | Rake $0.07 
+Board [3h 6h Qc Ad 5c]
+Seat 1: Marijuhuana folded before Flop (didn't bet)
+Seat 2: 34231648 (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Bajali95 mucked [Ks 3d]
+Seat 6: O.O.Basay showed [Jh Ah] and won ($1.96) with a pair of Aces
+
+
+
+PokerStars Hand #213834640948:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:31:15 MSK [2020/05/13 23:31:15 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($4.74 in chips) 
+Seat 2: 34231648 ($3.52 in chips) 
+Seat 3: velez600 ($1.48 in chips) 
+Seat 4: lawlex_2 ($2.07 in chips) 
+Seat 5: Bajali95 ($1.94 in chips) 
+Seat 6: O.O.Basay ($2.96 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Qh]
+O.O.Basay: folds 
+Marijuhuana: calls $0.02
+34231648: calls $0.02
+velez600: folds 
+lawlex_2: folds 
+Bajali95: checks 
+*** FLOP *** [As 3d Qs]
+Bajali95: checks 
+Marijuhuana: checks 
+34231648: checks 
+*** TURN *** [As 3d Qs] [Ah]
+Bajali95: checks 
+Marijuhuana: checks 
+34231648: checks 
+*** RIVER *** [As 3d Qs Ah] [Tc]
+Bajali95: checks 
+Marijuhuana: checks 
+34231648: checks 
+*** SHOW DOWN ***
+Bajali95: shows [2c Td] (two pair, Aces and Tens)
+Marijuhuana: mucks hand 
+34231648: mucks hand 
+Bajali95 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [As 3d Qs Ah Tc]
+Seat 1: Marijuhuana mucked [8s 5h]
+Seat 2: 34231648 mucked [6h Kh]
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) showed [2c Td] and won ($0.07) with two pair, Aces and Tens
+Seat 6: O.O.Basay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213834652030:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:31:41 MSK [2020/05/13 23:31:41 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($4.72 in chips) 
+Seat 2: 34231648 ($3.50 in chips) 
+Seat 3: velez600 ($1.48 in chips) 
+Seat 4: lawlex_2 ($2.06 in chips) 
+Seat 5: Bajali95 ($1.99 in chips) 
+Bajali95: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Th]
+34231648: calls $0.02
+velez600: folds 
+lawlex_2: folds 
+Bajali95: raises $0.02 to $0.04
+Marijuhuana: calls $0.02
+34231648: calls $0.02
+*** FLOP *** [9d 9s 6h]
+Bajali95: bets $0.06
+Marijuhuana: folds 
+34231648: calls $0.06
+*** TURN *** [9d 9s 6h] [Qc]
+Bajali95: bets $0.12
+34231648: folds 
+Uncalled bet ($0.12) returned to Bajali95
+Bajali95 collected $0.23 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9d 9s 6h Qc]
+Seat 1: Marijuhuana (big blind) folded on the Flop
+Seat 2: 34231648 folded on the Turn
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) collected ($0.23)
+
+
+
+PokerStars Hand #213834665402:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:32:13 MSK [2020/05/13 23:32:13 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($4.68 in chips) 
+Seat 2: 34231648 ($3.40 in chips) 
+Seat 3: velez600 ($1.48 in chips) 
+Seat 4: lawlex_2 ($2.06 in chips) 
+Seat 5: Bajali95 ($2.12 in chips) 
+Marijuhuana: posts small blind $0.01
+34231648: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Kc]
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.05
+Marijuhuana: calls $0.04
+34231648: folds 
+*** FLOP *** [2c 5h Td]
+Marijuhuana: checks 
+lawlex_2: bets $0.11
+Bajali95: folds 
+Marijuhuana: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.16 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2c 5h Td]
+Seat 1: Marijuhuana (small blind) folded on the Flop
+Seat 2: 34231648 (big blind) folded before Flop
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.16)
+Seat 5: Bajali95 (button) folded on the Flop
+
+
+
+PokerStars Hand #213834676572:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:32:39 MSK [2020/05/13 23:32:39 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($4.63 in chips) 
+Seat 2: 34231648 ($3.38 in chips) 
+Seat 3: velez600 ($1.48 in chips) 
+Seat 4: lawlex_2 ($2.17 in chips) 
+Seat 5: Bajali95 ($2.07 in chips) 
+34231648: posts small blind $0.01
+velez600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 2d]
+lawlex_2: folds 
+Bajali95: raises $0.04 to $0.06
+Marijuhuana: folds 
+34231648: calls $0.05
+velez600: folds 
+*** FLOP *** [Kh Jd Qh]
+34231648: checks 
+Bajali95: bets $0.06
+34231648: calls $0.06
+*** TURN *** [Kh Jd Qh] [7c]
+34231648: checks 
+Bajali95: bets $0.12
+34231648: calls $0.12
+*** RIVER *** [Kh Jd Qh 7c] [9h]
+34231648: checks 
+Bajali95: bets $0.48
+34231648: calls $0.48
+*** SHOW DOWN ***
+Bajali95: shows [Ks Qc] (two pair, Kings and Queens)
+34231648: shows [8d Td] (a straight, Nine to King)
+34231648 collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [Kh Jd Qh 7c 9h]
+Seat 1: Marijuhuana (button) folded before Flop (didn't bet)
+Seat 2: 34231648 (small blind) showed [8d Td] and won ($1.41) with a straight, Nine to King
+Seat 3: velez600 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 showed [Ks Qc] and lost with two pair, Kings and Queens
+
+
+
+PokerStars Hand #213834699421:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:33:34 MSK [2020/05/13 23:33:34 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($4.63 in chips) 
+Seat 2: 34231648 ($4.07 in chips) 
+Seat 3: velez600 ($1.46 in chips) 
+Seat 4: lawlex_2 ($2.17 in chips) 
+Seat 5: Bajali95 ($1.35 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 9c]
+Bajali95: calls $0.02
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.03
+Marijuhuana: calls $0.03
+velez600: folds 
+*** FLOP *** [6c 7c 5d]
+lawlex_2: bets $0.11
+Bajali95: calls $0.11
+Marijuhuana: folds 
+*** TURN *** [6c 7c 5d] [Qs]
+lawlex_2: bets $0.25
+Bajali95: calls $0.25
+*** RIVER *** [6c 7c 5d Qs] [2c]
+lawlex_2: bets $0.86
+Bajali95: folds 
+Uncalled bet ($0.86) returned to lawlex_2
+lawlex_2 collected $0.86 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [6c 7c 5d Qs 2c]
+Seat 1: Marijuhuana folded on the Flop
+Seat 2: 34231648 (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.86)
+Seat 5: Bajali95 folded on the River
+
+
+
+PokerStars Hand #213834724132:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:34:33 MSK [2020/05/13 23:34:33 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($4.58 in chips) 
+Seat 2: 34231648 ($4.07 in chips) 
+Seat 3: velez600 ($1.44 in chips) 
+Seat 4: lawlex_2 ($2.62 in chips) 
+Seat 5: Bajali95 ($0.94 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c As]
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+Bajali95: calls $0.03
+Marijuhuana: calls $0.03
+*** FLOP *** [Js 6h 9h]
+lawlex_2: checks 
+Bajali95: checks 
+Marijuhuana: checks 
+*** TURN *** [Js 6h 9h] [Kh]
+lawlex_2: checks 
+Bajali95: bets $0.06
+Marijuhuana: calls $0.06
+lawlex_2: folds 
+*** RIVER *** [Js 6h 9h Kh] [5h]
+Bajali95: checks 
+Marijuhuana: bets $0.18
+Bajali95: folds 
+Uncalled bet ($0.18) returned to Marijuhuana
+Marijuhuana collected $0.26 from pot
+Marijuhuana: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Js 6h 9h Kh 5h]
+Seat 1: Marijuhuana collected ($0.26)
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded on the Turn
+Seat 5: Bajali95 (big blind) folded on the River
+
+
+
+PokerStars Hand #213834752602:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:35:31 MSK [2020/05/13 23:35:31 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($4.73 in chips) 
+Seat 2: 34231648 ($4.07 in chips) 
+Seat 3: velez600 ($1.44 in chips) 
+Seat 4: lawlex_2 ($2.57 in chips) 
+Seat 5: Bajali95 ($0.83 in chips) 
+Bajali95: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 4d]
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+Bajali95: raises $0.02 to $0.04
+Marijuhuana: calls $0.02
+*** FLOP *** [Kd 9h 5c]
+Bajali95: bets $0.04
+Marijuhuana: calls $0.04
+*** TURN *** [Kd 9h 5c] [Js]
+Bajali95: bets $0.08
+Marijuhuana: calls $0.08
+*** RIVER *** [Kd 9h 5c Js] [Qd]
+Bajali95: bets $0.16
+Marijuhuana: raises $0.16 to $0.32
+Bajali95: calls $0.16
+*** SHOW DOWN ***
+Marijuhuana: shows [2d Kc] (a pair of Kings)
+Bajali95: mucks hand 
+Marijuhuana collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.03 
+Board [Kd 9h 5c Js Qd]
+Seat 1: Marijuhuana (big blind) showed [2d Kc] and won ($0.93) with a pair of Kings
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bajali95 (small blind) mucked [Jd 3h]
+
+
+
+PokerStars Hand #213834767420:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:36:06 MSK [2020/05/13 23:36:06 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($5.18 in chips) 
+Seat 2: 34231648 ($4.07 in chips) 
+Seat 3: velez600 ($1.44 in chips) 
+Seat 4: lawlex_2 ($2.57 in chips) 
+Seat 5: Bajali95 ($0.35 in chips) 
+Marijuhuana: posts small blind $0.01
+34231648: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 7c]
+velez600: folds 
+lawlex_2: folds 
+Bajali95: raises $0.33 to $0.35 and is all-in
+Marijuhuana: folds 
+34231648: folds 
+Uncalled bet ($0.33) returned to Bajali95
+Bajali95 collected $0.05 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marijuhuana (small blind) folded before Flop
+Seat 2: 34231648 (big blind) folded before Flop
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213834775880:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:36:26 MSK [2020/05/13 23:36:26 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($5.17 in chips) 
+Seat 2: 34231648 ($4.05 in chips) 
+Seat 3: velez600 ($1.44 in chips) 
+Seat 4: lawlex_2 ($2.57 in chips) 
+Seat 5: Bajali95 ($0.38 in chips) 
+34231648: posts small blind $0.01
+velez600: posts big blind $0.02
+O.O.Basay: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 5h]
+lawlex_2: folds 
+Bajali95: raises $0.36 to $0.38 and is all-in
+Marijuhuana: folds 
+34231648: folds 
+velez600: folds 
+Uncalled bet ($0.36) returned to Bajali95
+Bajali95 collected $0.05 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marijuhuana (button) folded before Flop (didn't bet)
+Seat 2: 34231648 (small blind) folded before Flop
+Seat 3: velez600 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bajali95 collected ($0.05)
+
+
+
+PokerStars Hand #213834787082:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:36:53 MSK [2020/05/13 23:36:53 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($5.17 in chips) 
+Seat 2: 34231648 ($4.04 in chips) 
+Seat 3: velez600 ($1.42 in chips) 
+Seat 4: lawlex_2 ($2.57 in chips) 
+Seat 5: Bajali95 ($0.41 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+O.O.Basay: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 2c]
+Bajali95: raises $0.39 to $0.41 and is all-in
+Marijuhuana: folds 
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+Uncalled bet ($0.39) returned to Bajali95
+Bajali95 collected $0.05 from pot
+Bajali95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marijuhuana folded before Flop (didn't bet)
+Seat 2: 34231648 (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Bajali95 collected ($0.05)
+
+
+
+PokerStars Hand #213834791409:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:37:03 MSK [2020/05/13 23:37:03 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($5.17 in chips) 
+Seat 2: 34231648 ($4.04 in chips) 
+Seat 3: velez600 ($1.41 in chips) 
+Seat 4: lawlex_2 ($2.55 in chips) 
+Seat 5: Bajali95 ($0.44 in chips) 
+lawlex_2: posts small blind $0.01
+Bajali95: posts big blind $0.02
+O.O.Basay: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Ac]
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: raises $0.07 to $0.09
+lawlex_2: folds 
+Bajali95: raises $0.35 to $0.44 and is all-in
+Marijuhuana: calls $0.42
+velez600: folds 
+*** FLOP *** [7s Ah 3c]
+*** TURN *** [7s Ah 3c] [6s]
+*** RIVER *** [7s Ah 3c 6s] [4h]
+*** SHOW DOWN ***
+Bajali95: shows [3h 9h] (a pair of Threes)
+Marijuhuana: shows [Qh 6h] (a pair of Sixes)
+Marijuhuana cashed out the hand for $0.60 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.03 
+Board [7s Ah 3c 6s 4h]
+Seat 1: Marijuhuana showed [Qh 6h] and won ($0.95) with a pair of Sixes (pot not awarded as player cashed out)
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded before Flop
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bajali95 (big blind) showed [3h 9h] and lost with a pair of Threes
+
+
+
+PokerStars Hand #213834805966:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:37:38 MSK [2020/05/13 23:37:38 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($5.33 in chips) 
+Seat 2: 34231648 ($4.04 in chips) 
+Seat 3: velez600 ($1.32 in chips) 
+Seat 4: lawlex_2 ($2.54 in chips) 
+Marijuhuana: posts small blind $0.01
+34231648: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 3s]
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+Marijuhuana: folds 
+34231648: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+Bajali95 leaves the table
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marijuhuana (small blind) folded before Flop
+Seat 2: 34231648 (big blind) folded before Flop
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213834810197:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:37:48 MSK [2020/05/13 23:37:48 ET]
+Table 'Chertan' 6-max Seat #1 is the button
+Seat 1: Marijuhuana ($5.32 in chips) 
+Seat 2: 34231648 ($4.02 in chips) 
+Seat 3: velez600 ($1.32 in chips) 
+Seat 4: lawlex_2 ($2.57 in chips) 
+34231648: posts small blind $0.01
+velez600: posts big blind $0.02
+O.O.Basay: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 4c]
+xA(_I_{Nx joins the table at seat #5 
+lawlex_2: raises $0.03 to $0.05
+Marijuhuana: calls $0.05
+34231648: folds 
+velez600: calls $0.03
+*** FLOP *** [Ah Ks 3s]
+velez600: checks 
+lawlex_2: checks 
+Marijuhuana: checks 
+*** TURN *** [Ah Ks 3s] [Kd]
+velez600: bets $0.08
+lawlex_2: calls $0.08
+Marijuhuana: folds 
+*** RIVER *** [Ah Ks 3s Kd] [7c]
+velez600: bets $0.24
+lawlex_2: calls $0.24
+*** SHOW DOWN ***
+velez600: shows [Kh Jd] (three of a kind, Kings)
+lawlex_2: mucks hand 
+velez600 collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [Ah Ks 3s Kd 7c]
+Seat 1: Marijuhuana (button) folded on the Turn
+Seat 2: 34231648 (small blind) folded before Flop
+Seat 3: velez600 (big blind) showed [Kh Jd] and won ($0.77) with three of a kind, Kings
+Seat 4: lawlex_2 mucked [As 4c]
+
+
+
+PokerStars Hand #213834825051:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:38:24 MSK [2020/05/13 23:38:24 ET]
+Table 'Chertan' 6-max Seat #2 is the button
+Seat 1: Marijuhuana ($5.27 in chips) 
+Seat 2: 34231648 ($4.01 in chips) 
+Seat 3: velez600 ($1.72 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+velez600: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+xA(_I_{Nx: sits out 
+O.O.Basay: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 8s]
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: folds 
+lawlex_2: checks 
+*** FLOP *** [3d 6c Ah]
+lawlex_2: checks 
+Marijuhuana: checks 
+*** TURN *** [3d 6c Ah] [Td]
+lawlex_2: bets $0.03
+Marijuhuana: raises $0.03 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to Marijuhuana
+Marijuhuana collected $0.11 from pot
+Marijuhuana: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3d 6c Ah Td]
+Seat 1: Marijuhuana collected ($0.11)
+Seat 2: 34231648 (button) folded before Flop (didn't bet)
+Seat 3: velez600 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213834836129:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:38:51 MSK [2020/05/13 23:38:51 ET]
+Table 'Chertan' 6-max Seat #3 is the button
+Seat 1: Marijuhuana ($5.33 in chips) 
+Seat 2: 34231648 ($4.01 in chips) 
+Seat 3: velez600 ($1.71 in chips) 
+Seat 4: lawlex_2 ($2.15 in chips) 
+Seat 5: xA(_I_{Nx ($2 in chips) 
+lawlex_2: posts small blind $0.01
+xA(_I_{Nx: posts big blind $0.02
+O.O.Basay: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 4s]
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: folds 
+lawlex_2: folds 
+xA(_I_{Nx: checks 
+*** FLOP *** [2c 6c 4h]
+xA(_I_{Nx: bets $0.05
+Marijuhuana: calls $0.05
+*** TURN *** [2c 6c 4h] [2d]
+xA(_I_{Nx: bets $0.07
+Marijuhuana: calls $0.07
+*** RIVER *** [2c 6c 4h 2d] [6h]
+xA(_I_{Nx: bets $0.22
+Marijuhuana: raises $0.22 to $0.44
+xA(_I_{Nx: raises $1.42 to $1.86 and is all-in
+Marijuhuana: calls $1.42
+*** SHOW DOWN ***
+xA(_I_{Nx: shows [6s Kd] (a full house, Sixes full of Deuces)
+Marijuhuana: shows [5s 6d] (a full house, Sixes full of Deuces)
+xA(_I_{Nx collected $1.94 from pot
+Marijuhuana collected $1.93 from pot
+*** SUMMARY ***
+Total pot $4.01 | Rake $0.14 
+Board [2c 6c 4h 2d 6h]
+Seat 1: Marijuhuana showed [5s 6d] and won ($1.93) with a full house, Sixes full of Deuces
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: xA(_I_{Nx (big blind) showed [6s Kd] and won ($1.94) with a full house, Sixes full of Deuces
+
+
+
+PokerStars Hand #213834852377:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:39:30 MSK [2020/05/13 23:39:30 ET]
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 1: Marijuhuana ($5.26 in chips) 
+Seat 2: 34231648 ($4.01 in chips) 
+Seat 3: velez600 ($1.71 in chips) 
+Seat 4: lawlex_2 ($2.14 in chips) 
+Seat 5: xA(_I_{Nx ($2 in chips) 
+Seat 6: O.O.Basay ($2.96 in chips) 
+xA(_I_{Nx: posts small blind $0.01
+O.O.Basay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 2d]
+Marijuhuana: calls $0.02
+34231648: folds 
+velez600: raises $0.04 to $0.06
+lawlex_2: folds 
+xA(_I_{Nx: folds 
+O.O.Basay: folds 
+Marijuhuana: calls $0.04
+*** FLOP *** [Jd 6d Qs]
+Marijuhuana: checks 
+velez600: bets $0.06
+Marijuhuana: folds 
+Uncalled bet ($0.06) returned to velez600
+velez600 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jd 6d Qs]
+Seat 1: Marijuhuana folded on the Flop
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 collected ($0.14)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: xA(_I_{Nx (small blind) folded before Flop
+Seat 6: O.O.Basay (big blind) folded before Flop
+
+
+
+PokerStars Hand #213834867571:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 6:40:06 MSK [2020/05/13 23:40:06 ET]
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 1: Marijuhuana ($5.20 in chips) 
+Seat 2: 34231648 ($4.01 in chips) 
+Seat 3: velez600 ($1.79 in chips) 
+Seat 4: lawlex_2 ($2.14 in chips) 
+Seat 5: xA(_I_{Nx ($2 in chips) 
+Seat 6: O.O.Basay ($2.94 in chips) 
+O.O.Basay: posts small blind $0.01
+Marijuhuana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Kc]
+34231648: folds 
+velez600: folds 
+lawlex_2: raises $0.03 to $0.05
+xA(_I_{Nx: folds 
+O.O.Basay: raises $0.15 to $0.20
+Marijuhuana: folds 
+lawlex_2: calls $0.15
+*** FLOP *** [7c Js Ah]
+O.O.Basay: bets $0.16
+lawlex_2: calls $0.16
+*** TURN *** [7c Js Ah] [Ad]
+O.O.Basay: bets $0.47
+lawlex_2: raises $0.47 to $0.94
+O.O.Basay: raises $1.64 to $2.58 and is all-in
+lawlex_2: calls $0.84 and is all-in
+Uncalled bet ($0.80) returned to O.O.Basay
+*** RIVER *** [7c Js Ah Ad] [2d]
+*** SHOW DOWN ***
+O.O.Basay: shows [Jh Jd] (a full house, Jacks full of Aces)
+lawlex_2: shows [Kh Kc] (two pair, Aces and Kings)
+O.O.Basay collected $4.15 from pot
+*** SUMMARY ***
+Total pot $4.30 | Rake $0.15 
+Board [7c Js Ah Ad 2d]
+Seat 1: Marijuhuana (big blind) folded before Flop
+Seat 2: 34231648 folded before Flop (didn't bet)
+Seat 3: velez600 folded before Flop (didn't bet)
+Seat 4: lawlex_2 showed [Kh Kc] and lost with two pair, Aces and Kings
+Seat 5: xA(_I_{Nx (button) folded before Flop (didn't bet)
+Seat 6: O.O.Basay (small blind) showed [Jh Jd] and won ($4.15) with a full house, Jacks full of Aces
+
+
+

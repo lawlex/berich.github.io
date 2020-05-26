@@ -20,10 +20,54 @@
 
     <style>
         .deck-btn {
-            /*            height: 30px;
-            width: 30px;
-*/
+            height: 40px;
+            width: 40px;
             font-size: 12px;
+        }
+        
+        .chart-btn {
+            width: 40px;
+            height: 40px;
+            font-size: 12px;
+            border-radius: 5px!important;
+        }
+        
+        .chart-btn.outsuited {
+            background-color: #ffdbde;
+        }
+        
+        .chart-btn.outsuited:hover {
+            background-color: #ffa8b0;
+        }
+        
+        .chart-btn.outsuited.checked {
+            background-color: red;
+            color: white;
+        }
+        
+        .chart-btn.pair {
+            background-color: #a8d8ff;
+        }
+        
+        .chart-btn.pair:hover {
+            background-color: #75c1ff;
+        }
+        
+        .chart-btn.pair.checked {
+            background-color: royalblue;
+            color: white;
+        }
+        
+        .chart-btn.suited {
+            background-color: #fffacd;
+        }
+        
+        .chart-btn.suited:hover {
+            background-color: #ffff85;
+        }
+        
+        .chart-btn.suited.checked {
+            background-color: yellow;
         }
         
         .border-width-1 {
@@ -130,7 +174,11 @@
 
         <div id='deckwrapper'></div>
 
+        <div id='chartwrapper'></div>
 
+        <input type="file" id="file" />
+        <input type="button" id="load-file" value="load">
+        <div id="file-content"></div>
 
     </div>
     <script type='text/javascript' src='js/main.js'></script>

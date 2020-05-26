@@ -1,0 +1,3417 @@
+﻿PokerStars Hand #213788664401:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:06:10 MSK [2020/05/13 6:06:10 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 2: toniflori1980 ($5.89 in chips) 
+Seat 3: vm1957a26 ($1.14 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 6: V8VW ($1.99 in chips) 
+vm1957a26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 5s]
+V8VW: folds 
+toniflori1980: raises $0.02 to $0.04
+vm1957a26: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to toniflori1980
+toniflori1980 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: toniflori1980 (button) collected ($0.05)
+Seat 3: vm1957a26 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 6: V8VW folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213788782695:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:10:59 MSK [2020/05/13 6:10:59 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 2: toniflori1980 ($6.61 in chips) 
+Seat 3: vm1957a26 ($0.97 in chips) 
+Seat 4: lawlex_2 ($1.98 in chips) 
+Seat 5: fjfc55 ($1.07 in chips) 
+Seat 6: V8VW ($1.30 in chips) 
+vm1957a26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 4c]
+fjfc55: folds 
+V8VW: calls $0.02
+toniflori1980: calls $0.02
+vm1957a26: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [4h Jd Kh]
+vm1957a26: checks 
+lawlex_2: checks 
+V8VW: checks 
+toniflori1980: checks 
+*** TURN *** [4h Jd Kh] [3h]
+vm1957a26: checks 
+lawlex_2: bets $0.05
+V8VW: folds 
+toniflori1980: folds 
+vm1957a26: folds 
+Uncalled bet ($0.05) returned to lawlex_2
+lawlex_2 collected $0.08 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [4h Jd Kh 3h]
+Seat 2: toniflori1980 (button) folded on the Turn
+Seat 3: vm1957a26 (small blind) folded on the Turn
+Seat 4: lawlex_2 (big blind) collected ($0.08)
+Seat 5: fjfc55 folded before Flop (didn't bet)
+Seat 6: V8VW folded on the Turn
+
+
+
+PokerStars Hand #213788795297:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:11:30 MSK [2020/05/13 6:11:30 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 2: toniflori1980 ($6.59 in chips) 
+Seat 3: vm1957a26 ($0.95 in chips) 
+Seat 4: lawlex_2 ($2.04 in chips) 
+Seat 5: fjfc55 ($1.07 in chips) 
+Seat 6: V8VW ($1.28 in chips) 
+lawlex_2: posts small blind $0.01
+fjfc55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 7h]
+V8VW: folds 
+caziano joins the table at seat #1 
+toniflori1980: folds 
+vm1957a26: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to fjfc55
+fjfc55 collected $0.02 from pot
+fjfc55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: vm1957a26 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: fjfc55 (big blind) collected ($0.02)
+Seat 6: V8VW folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213788800397:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:11:42 MSK [2020/05/13 6:11:42 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 2: toniflori1980 ($6.59 in chips) 
+Seat 3: vm1957a26 ($0.95 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: fjfc55 ($1.08 in chips) 
+Seat 6: V8VW ($1.28 in chips) 
+fjfc55: posts small blind $0.01
+V8VW: posts big blind $0.02
+caziano: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 7d]
+toniflori1980: raises $0.02 to $0.04
+vm1957a26: calls $0.04
+lawlex_2: folds 
+fjfc55: calls $0.03
+V8VW: folds 
+*** FLOP *** [7c Jc 8s]
+fjfc55: bets $0.02
+toniflori1980: calls $0.02
+vm1957a26: calls $0.02
+*** TURN *** [7c Jc 8s] [Qs]
+fjfc55: bets $0.02
+toniflori1980: calls $0.02
+vm1957a26: calls $0.02
+*** RIVER *** [7c Jc 8s Qs] [Qc]
+fjfc55: checks 
+toniflori1980: bets $0.12
+vm1957a26: folds 
+fjfc55: folds 
+Uncalled bet ($0.12) returned to toniflori1980
+toniflori1980 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7c Jc 8s Qs Qc]
+Seat 2: toniflori1980 collected ($0.25)
+Seat 3: vm1957a26 folded on the River
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: fjfc55 (small blind) folded on the River
+Seat 6: V8VW (big blind) folded before Flop
+
+
+
+PokerStars Hand #213788814787:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:12:17 MSK [2020/05/13 6:12:17 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.76 in chips) 
+Seat 3: vm1957a26 ($0.87 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: fjfc55 ($1 in chips) 
+Seat 6: V8VW ($1.26 in chips) 
+V8VW: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 8c]
+toniflori1980: raises $0.02 to $0.04
+vm1957a26: folds 
+lawlex_2: folds 
+fjfc55: folds 
+V8VW: calls $0.03
+caziano: folds 
+*** FLOP *** [Kc Qs 5s]
+V8VW: bets $0.10
+toniflori1980: calls $0.10
+*** TURN *** [Kc Qs 5s] [As]
+V8VW: checks 
+toniflori1980: bets $0.14
+V8VW: folds 
+Uncalled bet ($0.14) returned to toniflori1980
+toniflori1980 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Kc Qs 5s As]
+Seat 1: caziano (big blind) folded before Flop
+Seat 2: toniflori1980 collected ($0.29)
+Seat 3: vm1957a26 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: fjfc55 (button) folded before Flop (didn't bet)
+Seat 6: V8VW (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213788826475:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:12:46 MSK [2020/05/13 6:12:46 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.91 in chips) 
+Seat 3: vm1957a26 ($0.87 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: fjfc55 ($1 in chips) 
+Seat 6: V8VW ($1.12 in chips) 
+caziano: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 4s]
+vm1957a26: folds 
+lawlex_2: folds 
+fjfc55: calls $0.02
+V8VW: calls $0.02
+caziano: folds 
+toniflori1980: raises $0.04 to $0.06
+fjfc55: calls $0.04
+V8VW: calls $0.04
+*** FLOP *** [7c Jh Th]
+toniflori1980: checks 
+fjfc55: checks 
+V8VW: checks 
+*** TURN *** [7c Jh Th] [Js]
+toniflori1980: checks 
+fjfc55: checks 
+V8VW: checks 
+*** RIVER *** [7c Jh Th Js] [3h]
+toniflori1980: checks 
+fjfc55: bets $0.09
+V8VW: folds 
+toniflori1980: folds 
+Uncalled bet ($0.09) returned to fjfc55
+fjfc55 collected $0.18 from pot
+fjfc55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7c Jh Th Js 3h]
+Seat 1: caziano (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) folded on the River
+Seat 3: vm1957a26 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: fjfc55 collected ($0.18)
+Seat 6: V8VW (button) folded on the River
+
+
+
+PokerStars Hand #213788838741:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:13:15 MSK [2020/05/13 6:13:15 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.85 in chips) 
+Seat 3: vm1957a26 ($0.87 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: fjfc55 ($1.12 in chips) 
+Seat 6: V8VW ($1.06 in chips) 
+toniflori1980: posts small blind $0.01
+vm1957a26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Ks]
+lawlex_2: folds 
+fjfc55: folds 
+V8VW: raises $0.02 to $0.04
+caziano: folds 
+toniflori1980: folds 
+vm1957a26: folds 
+Uncalled bet ($0.02) returned to V8VW
+V8VW collected $0.05 from pot
+V8VW: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: caziano (button) folded before Flop (didn't bet)
+Seat 2: toniflori1980 (small blind) folded before Flop
+Seat 3: vm1957a26 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: fjfc55 folded before Flop (didn't bet)
+Seat 6: V8VW collected ($0.05)
+
+
+
+PokerStars Hand #213788844244:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:13:29 MSK [2020/05/13 6:13:29 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.84 in chips) 
+Seat 3: vm1957a26 ($0.85 in chips) 
+Seat 4: lawlex_2 ($2.03 in chips) 
+Seat 5: fjfc55 ($1.12 in chips) 
+Seat 6: V8VW ($1.09 in chips) 
+vm1957a26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah As]
+fjfc55: folds 
+V8VW: calls $0.02
+caziano: folds 
+toniflori1980: folds 
+vm1957a26: folds 
+lawlex_2: checks 
+*** FLOP *** [2s 9d 6h]
+lawlex_2: bets $0.03
+V8VW: raises $0.03 to $0.06
+lawlex_2: calls $0.03
+*** TURN *** [2s 9d 6h] [Tc]
+lawlex_2: bets $0.11
+V8VW: raises $0.11 to $0.22
+lawlex_2: calls $0.11
+*** RIVER *** [2s 9d 6h Tc] [Qh]
+lawlex_2: checks 
+V8VW: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Ah As] (a pair of Aces)
+V8VW: mucks hand 
+lawlex_2 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [2s 9d 6h Tc Qh]
+Seat 1: caziano folded before Flop (didn't bet)
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 3: vm1957a26 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) showed [Ah As] and won ($0.59) with a pair of Aces
+Seat 5: fjfc55 folded before Flop (didn't bet)
+Seat 6: V8VW mucked [9s Kh]
+
+
+
+PokerStars Hand #213788857683:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:14:01 MSK [2020/05/13 6:14:01 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.84 in chips) 
+Seat 3: vm1957a26 ($0.84 in chips) 
+Seat 4: lawlex_2 ($2.32 in chips) 
+Seat 5: fjfc55 ($1.12 in chips) 
+Seat 6: V8VW ($0.79 in chips) 
+lawlex_2: posts small blind $0.01
+fjfc55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 2s]
+V8VW: folds 
+caziano: folds 
+toniflori1980: folds 
+vm1957a26: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to fjfc55
+fjfc55 collected $0.02 from pot
+fjfc55: doesn't show hand 
+V8VW leaves the table
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: caziano folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: vm1957a26 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: fjfc55 (big blind) collected ($0.02)
+Seat 6: V8VW folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213788861013:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:14:10 MSK [2020/05/13 6:14:10 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 2: toniflori1980 ($6.84 in chips) 
+Seat 3: vm1957a26 ($0.84 in chips) 
+Seat 4: lawlex_2 ($2.31 in chips) 
+Seat 5: fjfc55 ($1.13 in chips) 
+fjfc55: posts small blind $0.01
+caziano: is sitting out 
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 4h]
+vm1957a26: folds 
+lawlex_2: folds 
+fjfc55: calls $0.01
+toniflori1980: checks 
+*** FLOP *** [Js Ac As]
+vm1957a26 leaves the table
+fjfc55: bets $0.02
+toniflori1980: calls $0.02
+*** TURN *** [Js Ac As] [4s]
+fjfc55: bets $0.02
+toniflori1980: calls $0.02
+*** RIVER *** [Js Ac As 4s] [Qd]
+fjfc55: bets $0.12
+toniflori1980: folds 
+Uncalled bet ($0.12) returned to fjfc55
+fjfc55 collected $0.12 from pot
+fjfc55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Js Ac As 4s Qd]
+Seat 2: toniflori1980 (big blind) folded on the River
+Seat 3: vm1957a26 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: fjfc55 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #213788870304:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:14:32 MSK [2020/05/13 6:14:32 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 2: toniflori1980 ($6.78 in chips) 
+Seat 4: lawlex_2 ($2.31 in chips) 
+Seat 5: fjfc55 ($1.19 in chips) 
+toniflori1980: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Ks]
+fjfc55: calls $0.02
+toniflori1980: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [8h 4c 4s]
+toniflori1980: checks 
+lawlex_2: bets $0.04
+fjfc55: folds 
+toniflori1980: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.06 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8h 4c 4s]
+Seat 2: toniflori1980 (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) collected ($0.06)
+Seat 5: fjfc55 (button) folded on the Flop
+
+
+
+PokerStars Hand #213788879741:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:14:55 MSK [2020/05/13 6:14:55 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 2: toniflori1980 ($6.76 in chips) 
+Seat 4: lawlex_2 ($2.35 in chips) 
+Seat 5: fjfc55 ($1.17 in chips) 
+lawlex_2: posts small blind $0.01
+fjfc55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 5h]
+toniflori1980: calls $0.02
+lawlex_2: folds 
+fjfc55: checks 
+*** FLOP *** [3h 5d 2s]
+fjfc55: bets $0.02
+toniflori1980: folds 
+Uncalled bet ($0.02) returned to fjfc55
+fjfc55 collected $0.05 from pot
+fjfc55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h 5d 2s]
+Seat 2: toniflori1980 (button) folded on the Flop
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: fjfc55 (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #213788886659:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:15:11 MSK [2020/05/13 6:15:11 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 2: toniflori1980 ($6.74 in chips) 
+Seat 4: lawlex_2 ($2.34 in chips) 
+Seat 5: fjfc55 ($1.20 in chips) 
+fjfc55: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Tc]
+lawlex_2: raises $0.03 to $0.05
+fjfc55: calls $0.04
+toniflori1980: folds 
+*** FLOP *** [4s Ah 4c]
+fjfc55: checks 
+lawlex_2: checks 
+*** TURN *** [4s Ah 4c] [Ac]
+fjfc55: bets $0.02
+lawlex_2: calls $0.02
+*** RIVER *** [4s Ah 4c Ac] [5d]
+fjfc55: bets $0.10
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to fjfc55
+fjfc55 collected $0.15 from pot
+fjfc55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [4s Ah 4c Ac 5d]
+Seat 2: toniflori1980 (big blind) folded before Flop
+Seat 4: lawlex_2 (button) folded on the River
+Seat 5: fjfc55 (small blind) collected ($0.15)
+
+
+
+PokerStars Hand #213788900487:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:15:45 MSK [2020/05/13 6:15:45 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 2: toniflori1980 ($6.72 in chips) 
+Seat 4: lawlex_2 ($2.27 in chips) 
+Seat 5: fjfc55 ($1.28 in chips) 
+toniflori1980: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Th]
+fjfc55: calls $0.02
+toniflori1980: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+fjfc55: calls $0.03
+toniflori1980: calls $0.03
+*** FLOP *** [Ad Qc 5s]
+toniflori1980: checks 
+goodjim19 joins the table at seat #6 
+lawlex_2: bets $0.09
+fjfc55: calls $0.09
+toniflori1980: folds 
+*** TURN *** [Ad Qc 5s] [Jd]
+lawlex_2: bets $0.21
+fjfc55: folds 
+Uncalled bet ($0.21) returned to lawlex_2
+lawlex_2 collected $0.32 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ad Qc 5s Jd]
+Seat 2: toniflori1980 (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) collected ($0.32)
+Seat 5: fjfc55 (button) folded on the Turn
+
+
+
+PokerStars Hand #213788915743:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:16:21 MSK [2020/05/13 6:16:21 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 2: toniflori1980 ($6.67 in chips) 
+Seat 4: lawlex_2 ($2.45 in chips) 
+Seat 5: fjfc55 ($1.14 in chips) 
+lawlex_2: posts small blind $0.01
+fjfc55: posts big blind $0.02
+goodjim19: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 4h]
+toniflori1980: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to fjfc55
+fjfc55 collected $0.02 from pot
+fjfc55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: fjfc55 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213788918049:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:16:26 MSK [2020/05/13 6:16:26 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 2: toniflori1980 ($6.67 in chips) 
+Seat 4: lawlex_2 ($2.44 in chips) 
+Seat 5: fjfc55 ($1.15 in chips) 
+Seat 6: goodjim19 ($2 in chips) 
+fjfc55: posts small blind $0.01
+goodjim19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 6d]
+toniflori1980: folds 
+lawlex_2: folds 
+fjfc55: raises $0.02 to $0.04
+goodjim19: folds 
+Uncalled bet ($0.02) returned to fjfc55
+fjfc55 collected $0.04 from pot
+fjfc55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: fjfc55 (small blind) collected ($0.04)
+Seat 6: goodjim19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213788923674:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:16:40 MSK [2020/05/13 6:16:40 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 2: toniflori1980 ($6.67 in chips) 
+Seat 4: lawlex_2 ($2.44 in chips) 
+Seat 5: fjfc55 ($1.17 in chips) 
+Seat 6: goodjim19 ($1.98 in chips) 
+goodjim19: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Qd]
+sahok61 joins the table at seat #3 
+lawlex_2: folds 
+fjfc55: folds 
+goodjim19: folds 
+Uncalled bet ($0.01) returned to toniflori1980
+toniflori1980 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: toniflori1980 (big blind) collected ($0.02)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: fjfc55 (button) folded before Flop (didn't bet)
+Seat 6: goodjim19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213788929100:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:16:53 MSK [2020/05/13 6:16:53 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 2: toniflori1980 ($6.68 in chips) 
+Seat 3: sahok61 ($2 in chips) 
+Seat 4: lawlex_2 ($2.44 in chips) 
+Seat 5: fjfc55 ($1.17 in chips) 
+Seat 6: goodjim19 ($1.97 in chips) 
+toniflori1980: posts small blind $0.01
+sahok61: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 2s]
+lawlex_2: folds 
+fjfc55: raises $0.02 to $0.04
+goodjim19: folds 
+toniflori1980: folds 
+sahok61: folds 
+Uncalled bet ($0.02) returned to fjfc55
+fjfc55 collected $0.05 from pot
+fjfc55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: toniflori1980 (small blind) folded before Flop
+Seat 3: sahok61 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: fjfc55 collected ($0.05)
+Seat 6: goodjim19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213788936848:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:17:11 MSK [2020/05/13 6:17:11 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 2: toniflori1980 ($6.67 in chips) 
+Seat 3: sahok61 ($1.98 in chips) 
+Seat 4: lawlex_2 ($2.44 in chips) 
+Seat 5: fjfc55 ($1.20 in chips) 
+Seat 6: goodjim19 ($1.97 in chips) 
+sahok61: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Qh]
+fjfc55: raises $0.02 to $0.04
+goodjim19: calls $0.04
+toniflori1980: folds 
+sahok61: folds 
+lawlex_2: folds 
+*** FLOP *** [8h 3h 2c]
+fjfc55: bets $0.06
+goodjim19: calls $0.06
+*** TURN *** [8h 3h 2c] [As]
+fjfc55: checks 
+goodjim19: bets $0.11
+fjfc55: folds 
+Uncalled bet ($0.11) returned to goodjim19
+goodjim19 collected $0.22 from pot
+goodjim19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [8h 3h 2c As]
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 3: sahok61 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: fjfc55 folded on the Turn
+Seat 6: goodjim19 collected ($0.22)
+
+
+
+PokerStars Hand #213788952455:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:17:48 MSK [2020/05/13 6:17:48 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 2: toniflori1980 ($6.67 in chips) 
+Seat 3: sahok61 ($1.97 in chips) 
+Seat 4: lawlex_2 ($2.42 in chips) 
+Seat 5: fjfc55 ($1.10 in chips) 
+Seat 6: goodjim19 ($2.09 in chips) 
+lawlex_2: posts small blind $0.01
+fjfc55: posts big blind $0.02
+caziano: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 7s]
+goodjim19: folds 
+toniflori1980: folds 
+sahok61: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to fjfc55
+fjfc55 collected $0.02 from pot
+fjfc55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: sahok61 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: fjfc55 (big blind) collected ($0.02)
+Seat 6: goodjim19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213788958094:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:18:02 MSK [2020/05/13 6:18:02 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 2: toniflori1980 ($6.67 in chips) 
+Seat 3: sahok61 ($1.97 in chips) 
+Seat 4: lawlex_2 ($2.41 in chips) 
+Seat 5: fjfc55 ($1.11 in chips) 
+Seat 6: goodjim19 ($2.09 in chips) 
+fjfc55: posts small blind $0.01
+goodjim19: posts big blind $0.02
+caziano: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 9h]
+toniflori1980: raises $0.04 to $0.06
+sahok61: folds 
+lawlex_2: folds 
+fjfc55: folds 
+goodjim19: folds 
+Uncalled bet ($0.04) returned to toniflori1980
+toniflori1980 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: toniflori1980 collected ($0.05)
+Seat 3: sahok61 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: fjfc55 (small blind) folded before Flop
+Seat 6: goodjim19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213788963547:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:18:15 MSK [2020/05/13 6:18:15 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.70 in chips) 
+Seat 3: sahok61 ($1.97 in chips) 
+Seat 4: lawlex_2 ($2.41 in chips) 
+Seat 5: fjfc55 ($1.10 in chips) 
+Seat 6: goodjim19 ($2.07 in chips) 
+goodjim19: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Kc]
+toniflori1980: folds 
+sahok61: raises $0.04 to $0.06
+lawlex_2: folds 
+fjfc55: folds 
+goodjim19: folds 
+caziano: folds 
+Uncalled bet ($0.04) returned to sahok61
+sahok61 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: caziano (big blind) folded before Flop
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: sahok61 collected ($0.05)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: fjfc55 (button) folded before Flop (didn't bet)
+Seat 6: goodjim19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213788970263:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:18:31 MSK [2020/05/13 6:18:31 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.70 in chips) 
+Seat 3: sahok61 ($2 in chips) 
+Seat 4: lawlex_2 ($2.41 in chips) 
+Seat 5: fjfc55 ($1.10 in chips) 
+Seat 6: goodjim19 ($2.06 in chips) 
+caziano: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Kc]
+sahok61: folds 
+lawlex_2: folds 
+fjfc55 has timed out
+fjfc55: folds 
+goodjim19: raises $0.04 to $0.06
+caziano: folds 
+toniflori1980: calls $0.04
+*** FLOP *** [Qc 8h Ah]
+toniflori1980: checks 
+fjfc55 leaves the table
+goodjim19: bets $0.05
+toniflori1980: calls $0.05
+*** TURN *** [Qc 8h Ah] [6s]
+toniflori1980: checks 
+goodjim19: bets $0.11
+toniflori1980: calls $0.11
+*** RIVER *** [Qc 8h Ah 6s] [7s]
+toniflori1980: bets $0.22
+goodjim19: folds 
+Uncalled bet ($0.22) returned to toniflori1980
+toniflori1980 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Qc 8h Ah 6s 7s]
+Seat 1: caziano (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) collected ($0.43)
+Seat 3: sahok61 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: fjfc55 folded before Flop (didn't bet)
+Seat 6: goodjim19 (button) folded on the River
+
+
+
+PokerStars Hand #213789013660:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:20:14 MSK [2020/05/13 6:20:14 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.91 in chips) 
+Seat 3: sahok61 ($2 in chips) 
+Seat 4: lawlex_2 ($2.41 in chips) 
+Seat 6: goodjim19 ($1.84 in chips) 
+toniflori1980: posts small blind $0.01
+sahok61: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 8h]
+lawlex_2: folds 
+goodjim19: folds 
+caziano: raises $0.03 to $0.05
+toniflori1980: folds 
+sahok61: calls $0.03
+*** FLOP *** [7s Jh Th]
+JAME8369 joins the table at seat #5 
+sahok61: checks 
+caziano: bets $0.08
+sahok61: folds 
+Uncalled bet ($0.08) returned to caziano
+caziano collected $0.11 from pot
+caziano: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7s Jh Th]
+Seat 1: caziano (button) collected ($0.11)
+Seat 2: toniflori1980 (small blind) folded before Flop
+Seat 3: sahok61 (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 6: goodjim19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789028366:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:20:48 MSK [2020/05/13 6:20:48 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: caziano ($2.06 in chips) 
+Seat 2: toniflori1980 ($6.90 in chips) 
+Seat 3: sahok61 ($1.95 in chips) 
+Seat 4: lawlex_2 ($2.41 in chips) 
+Seat 6: goodjim19 ($1.84 in chips) 
+sahok61: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+JAME8369: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac As]
+goodjim19: raises $0.04 to $0.06
+caziano: folds 
+toniflori1980: folds 
+sahok61: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [Tc 3d 5d]
+lawlex_2: checks 
+goodjim19: bets $0.05
+lawlex_2: calls $0.05
+*** TURN *** [Tc 3d 5d] [6c]
+lawlex_2: checks 
+goodjim19: bets $0.12
+lawlex_2: calls $0.12
+*** RIVER *** [Tc 3d 5d 6c] [5c]
+lawlex_2: checks 
+goodjim19: bets $0.16
+lawlex_2: calls $0.16
+*** SHOW DOWN ***
+goodjim19: shows [Qd Qh] (two pair, Queens and Fives)
+lawlex_2: shows [Ac As] (two pair, Aces and Fives)
+lawlex_2 collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.03 
+Board [Tc 3d 5d 6c 5c]
+Seat 1: caziano folded before Flop (didn't bet)
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 3: sahok61 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) showed [Ac As] and won ($0.76) with two pair, Aces and Fives
+Seat 6: goodjim19 showed [Qd Qh] and lost with two pair, Queens and Fives
+
+
+
+PokerStars Hand #213789055093:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:21:51 MSK [2020/05/13 6:21:51 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: caziano ($2.06 in chips) 
+Seat 2: toniflori1980 ($6.90 in chips) 
+Seat 3: sahok61 ($1.94 in chips) 
+Seat 4: lawlex_2 ($2.78 in chips) 
+Seat 5: JAME8369 ($2 in chips) 
+Seat 6: goodjim19 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+JAME8369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 8s]
+goodjim19: folds 
+caziano: folds 
+toniflori1980: raises $0.02 to $0.04
+sahok61: folds 
+lawlex_2: folds 
+JAME8369: folds 
+Uncalled bet ($0.02) returned to toniflori1980
+toniflori1980 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: caziano folded before Flop (didn't bet)
+Seat 2: toniflori1980 collected ($0.05)
+Seat 3: sahok61 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: JAME8369 (big blind) folded before Flop
+Seat 6: goodjim19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789062598:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:22:09 MSK [2020/05/13 6:22:09 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: caziano ($2.06 in chips) 
+Seat 2: toniflori1980 ($6.93 in chips) 
+Seat 3: sahok61 ($1.94 in chips) 
+Seat 4: lawlex_2 ($2.77 in chips) 
+Seat 5: JAME8369 ($1.98 in chips) 
+Seat 6: goodjim19 ($2 in chips) 
+JAME8369: posts small blind $0.01
+goodjim19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Td]
+caziano: folds 
+toniflori1980: folds 
+sahok61: folds 
+lawlex_2: folds 
+JAME8369: calls $0.01
+goodjim19: checks 
+*** FLOP *** [Kd 6c 2h]
+JAME8369: checks 
+goodjim19: checks 
+*** TURN *** [Kd 6c 2h] [4h]
+JAME8369: checks 
+goodjim19: bets $0.02
+JAME8369: calls $0.02
+*** RIVER *** [Kd 6c 2h 4h] [8c]
+JAME8369: checks 
+goodjim19: checks 
+*** SHOW DOWN ***
+JAME8369: shows [7s Ad] (high card Ace)
+goodjim19: shows [4d 5s] (a pair of Fours)
+goodjim19 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Kd 6c 2h 4h 8c]
+Seat 1: caziano folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: sahok61 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: JAME8369 (small blind) showed [7s Ad] and lost with high card Ace
+Seat 6: goodjim19 (big blind) showed [4d 5s] and won ($0.08) with a pair of Fours
+
+
+
+PokerStars Hand #213789081573:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:22:54 MSK [2020/05/13 6:22:54 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: caziano ($2.06 in chips) 
+Seat 2: toniflori1980 ($6.93 in chips) 
+Seat 3: sahok61 ($1.94 in chips) 
+Seat 4: lawlex_2 ($2.77 in chips) 
+Seat 5: JAME8369 ($1.94 in chips) 
+Seat 6: goodjim19 ($2.04 in chips) 
+goodjim19: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd As]
+toniflori1980: folds 
+sahok61: folds 
+lawlex_2: raises $0.03 to $0.05
+JAME8369: calls $0.05
+goodjim19: folds 
+caziano: calls $0.03
+*** FLOP *** [6s 3s 9c]
+caziano: checks 
+lawlex_2: checks 
+JAME8369: bets $0.02
+caziano: raises $0.13 to $0.15
+lawlex_2: folds 
+JAME8369: calls $0.13
+*** TURN *** [6s 3s 9c] [7h]
+caziano: bets $0.24
+JAME8369: calls $0.24
+*** RIVER *** [6s 3s 9c 7h] [6d]
+caziano: checks 
+JAME8369: bets $1.50 and is all-in
+caziano: folds 
+Uncalled bet ($1.50) returned to JAME8369
+JAME8369 collected $0.91 from pot
+JAME8369: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [6s 3s 9c 7h 6d]
+Seat 1: caziano (big blind) folded on the River
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: sahok61 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded on the Flop
+Seat 5: JAME8369 (button) collected ($0.91)
+Seat 6: goodjim19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213789121312:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:24:26 MSK [2020/05/13 6:24:26 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.93 in chips) 
+Seat 3: sahok61 ($1.94 in chips) 
+Seat 4: lawlex_2 ($2.72 in chips) 
+Seat 5: JAME8369 ($2.41 in chips) 
+Seat 6: goodjim19 ($2.03 in chips) 
+caziano: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 7c]
+sahok61: folds 
+lawlex_2: folds 
+JAME8369 has timed out
+JAME8369: folds 
+goodjim19: raises $0.04 to $0.06
+caziano: folds 
+toniflori1980: calls $0.04
+*** FLOP *** [5d 8h Kh]
+toniflori1980: checks 
+JAME8369 leaves the table
+goodjim19: checks 
+*** TURN *** [5d 8h Kh] [6s]
+toniflori1980: checks 
+goodjim19: bets $0.05
+toniflori1980: folds 
+Uncalled bet ($0.05) returned to goodjim19
+goodjim19 collected $0.13 from pot
+goodjim19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d 8h Kh 6s]
+Seat 1: caziano (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) folded on the Turn
+Seat 3: sahok61 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: JAME8369 folded before Flop (didn't bet)
+Seat 6: goodjim19 (button) collected ($0.13)
+
+
+
+PokerStars Hand #213789135699:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:25:00 MSK [2020/05/13 6:25:00 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.87 in chips) 
+Seat 3: sahok61 ($1.94 in chips) 
+Seat 4: lawlex_2 ($2.72 in chips) 
+Seat 6: goodjim19 ($2.10 in chips) 
+toniflori1980: posts small blind $0.01
+sahok61: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 5s]
+lawlex_2: folds 
+goodjim19: raises $0.04 to $0.06
+caziano: folds 
+toniflori1980: folds 
+Damasgr joins the table at seat #5 
+sahok61: folds 
+Uncalled bet ($0.04) returned to goodjim19
+goodjim19 collected $0.05 from pot
+goodjim19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: caziano (button) folded before Flop (didn't bet)
+Seat 2: toniflori1980 (small blind) folded before Flop
+Seat 3: sahok61 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 6: goodjim19 collected ($0.05)
+
+
+
+PokerStars Hand #213789143668:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:25:18 MSK [2020/05/13 6:25:18 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.86 in chips) 
+Seat 3: sahok61 ($1.92 in chips) 
+Seat 4: lawlex_2 ($2.72 in chips) 
+Seat 6: goodjim19 ($2.13 in chips) 
+sahok61: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Damasgr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Tc]
+goodjim19: folds 
+caziano: folds 
+toniflori1980: raises $0.02 to $0.04
+sahok61: raises $1.88 to $1.92 and is all-in
+lawlex_2: folds 
+toniflori1980: folds 
+Uncalled bet ($1.88) returned to sahok61
+sahok61 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: caziano folded before Flop (didn't bet)
+Seat 2: toniflori1980 (button) folded before Flop
+Seat 3: sahok61 (small blind) collected ($0.10)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 6: goodjim19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789160843:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:25:58 MSK [2020/05/13 6:25:58 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.82 in chips) 
+Seat 3: sahok61 ($1.98 in chips) 
+Seat 4: lawlex_2 ($2.70 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: goodjim19 ($2.13 in chips) 
+lawlex_2: posts small blind $0.01
+Damasgr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 4h]
+goodjim19: folds 
+caziano: folds 
+toniflori1980: raises $0.04 to $0.06
+sahok61: folds 
+lawlex_2: calls $0.05
+Damasgr: folds 
+*** FLOP *** [9d 9c 5d]
+lawlex_2: checks 
+toniflori1980: checks 
+*** TURN *** [9d 9c 5d] [Ad]
+lawlex_2: bets $0.09
+toniflori1980: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9d 9c 5d Ad]
+Seat 1: caziano folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded on the Turn
+Seat 3: sahok61 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) collected ($0.14)
+Seat 5: Damasgr (big blind) folded before Flop
+Seat 6: goodjim19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789181458:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:26:46 MSK [2020/05/13 6:26:46 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: caziano ($2 in chips) 
+Seat 2: toniflori1980 ($6.76 in chips) 
+Seat 3: sahok61 ($1.98 in chips) 
+Seat 4: lawlex_2 ($2.78 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: goodjim19 ($2.13 in chips) 
+Damasgr: posts small blind $0.01
+goodjim19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 3h]
+caziano: folds 
+toniflori1980: raises $0.02 to $0.04
+sahok61: folds 
+lawlex_2: folds 
+Damasgr: folds 
+goodjim19: calls $0.02
+*** FLOP *** [6h Kc 7d]
+goodjim19: checks 
+toniflori1980: bets $0.04
+goodjim19: folds 
+Uncalled bet ($0.04) returned to toniflori1980
+toniflori1980 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6h Kc 7d]
+Seat 1: caziano folded before Flop (didn't bet)
+Seat 2: toniflori1980 collected ($0.09)
+Seat 3: sahok61 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Damasgr (small blind) folded before Flop
+Seat 6: goodjim19 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213789200740:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:27:31 MSK [2020/05/13 6:27:31 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 2: toniflori1980 ($6.81 in chips) 
+Seat 3: sahok61 ($1.98 in chips) 
+Seat 4: lawlex_2 ($2.78 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: goodjim19 ($2.09 in chips) 
+goodjim19: posts small blind $0.01
+caziano: is sitting out 
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 5d]
+sahok61: calls $0.02
+caziano leaves the table
+lawlex_2: raises $0.03 to $0.05
+Damasgr: folds 
+goodjim19: folds 
+toniflori1980: calls $0.03
+sahok61: calls $0.03
+*** FLOP *** [7c Jc 2s]
+Sumitus joins the table at seat #1 
+toniflori1980: checks 
+sahok61: bets $0.08
+lawlex_2: folds 
+toniflori1980: folds 
+Uncalled bet ($0.08) returned to sahok61
+sahok61 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7c Jc 2s]
+Seat 2: toniflori1980 (big blind) folded on the Flop
+Seat 3: sahok61 collected ($0.15)
+Seat 4: lawlex_2 folded on the Flop
+Seat 5: Damasgr (button) folded before Flop (didn't bet)
+Seat 6: goodjim19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213789217204:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:28:10 MSK [2020/05/13 6:28:10 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 2: toniflori1980 ($6.76 in chips) 
+Seat 3: sahok61 ($2.08 in chips) 
+Seat 4: lawlex_2 ($2.73 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: goodjim19 ($2.08 in chips) 
+toniflori1980: posts small blind $0.01
+sahok61: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 8s]
+lawlex_2: folds 
+Damasgr: folds 
+goodjim19: folds 
+toniflori1980: raises $0.02 to $0.04
+sahok61: calls $0.02
+*** FLOP *** [9s Ks Ah]
+toniflori1980: bets $0.04
+sahok61: folds 
+Uncalled bet ($0.04) returned to toniflori1980
+toniflori1980 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9s Ks Ah]
+Seat 2: toniflori1980 (small blind) collected ($0.08)
+Seat 3: sahok61 (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: goodjim19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789241416:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:29:06 MSK [2020/05/13 6:29:06 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 2: toniflori1980 ($6.80 in chips) 
+Seat 3: sahok61 ($2.04 in chips) 
+Seat 4: lawlex_2 ($2.73 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: goodjim19 ($2.08 in chips) 
+sahok61: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Sumitus: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 7s]
+Damasgr: raises $0.04 to $0.06
+goodjim19: folds 
+toniflori1980: folds 
+sahok61: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [7d 6h 4c]
+lawlex_2: checks 
+Damasgr: checks 
+*** TURN *** [7d 6h 4c] [9s]
+lawlex_2: checks 
+Damasgr: checks 
+*** RIVER *** [7d 6h 4c 9s] [5h]
+lawlex_2: bets $0.09
+Damasgr: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7d 6h 4c 9s 5h]
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 3: sahok61 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.13)
+Seat 5: Damasgr folded on the River
+Seat 6: goodjim19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789259025:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:29:47 MSK [2020/05/13 6:29:47 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 2: toniflori1980 ($6.80 in chips) 
+Seat 3: sahok61 ($2.03 in chips) 
+Seat 4: lawlex_2 ($2.80 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: goodjim19 ($2.08 in chips) 
+lawlex_2: posts small blind $0.01
+Damasgr: posts big blind $0.02
+Sumitus: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Ts]
+goodjim19: folds 
+toniflori1980: folds 
+sahok61: folds 
+lawlex_2: raises $0.03 to $0.05
+Damasgr: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: sahok61 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) collected ($0.04)
+Seat 5: Damasgr (big blind) folded before Flop
+Seat 6: goodjim19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789267555:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:30:06 MSK [2020/05/13 6:30:06 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 2: toniflori1980 ($6.80 in chips) 
+Seat 3: sahok61 ($2.03 in chips) 
+Seat 4: lawlex_2 ($2.82 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: goodjim19 ($2.08 in chips) 
+Damasgr: posts small blind $0.01
+goodjim19: posts big blind $0.02
+Sumitus: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Td]
+toniflori1980: folds 
+sahok61 has timed out
+sahok61: folds 
+lawlex_2: folds 
+Damasgr: raises $0.04 to $0.06
+goodjim19: folds 
+Uncalled bet ($0.04) returned to Damasgr
+Damasgr collected $0.04 from pot
+Damasgr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: sahok61 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Damasgr (small blind) collected ($0.04)
+Seat 6: goodjim19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213789278936:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:30:32 MSK [2020/05/13 6:30:32 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: Sumitus ($2 in chips) 
+Seat 2: toniflori1980 ($6.80 in chips) 
+Seat 4: lawlex_2 ($2.82 in chips) 
+Seat 5: Damasgr ($2.02 in chips) 
+Seat 6: goodjim19 ($2.06 in chips) 
+goodjim19: posts small blind $0.01
+Sumitus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 7c]
+toniflori1980 has timed out
+toniflori1980: folds 
+lawlex_2: folds 
+Damasgr: raises $0.04 to $0.06
+goodjim19: folds 
+Sumitus: folds 
+Uncalled bet ($0.04) returned to Damasgr
+Damasgr collected $0.05 from pot
+Damasgr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus (big blind) folded before Flop
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr (button) collected ($0.05)
+Seat 6: goodjim19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213789288328:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:30:54 MSK [2020/05/13 6:30:54 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: Sumitus ($1.98 in chips) 
+Seat 4: lawlex_2 ($2.82 in chips) 
+Seat 5: Damasgr ($2.05 in chips) 
+Seat 6: goodjim19 ($2.05 in chips) 
+Sumitus: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Tc]
+Damasgr: raises $0.04 to $0.06
+goodjim19: folds 
+Sumitus: raises $0.14 to $0.20
+lawlex_2: folds 
+Damasgr: folds 
+Uncalled bet ($0.14) returned to Sumitus
+Sumitus collected $0.14 from pot
+Sumitus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Sumitus (small blind) collected ($0.14)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Damasgr folded before Flop
+Seat 6: goodjim19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789292999:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:31:05 MSK [2020/05/13 6:31:05 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: Sumitus ($2.06 in chips) 
+Seat 4: lawlex_2 ($2.80 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: goodjim19 ($2.05 in chips) 
+lawlex_2: posts small blind $0.01
+Damasgr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 9d]
+goodjim19: folds 
+Sumitus: raises $0.04 to $0.06
+lawlex_2: folds 
+Damasgr: folds 
+Uncalled bet ($0.04) returned to Sumitus
+Sumitus collected $0.05 from pot
+Sumitus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus (button) collected ($0.05)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Damasgr (big blind) folded before Flop
+Seat 6: goodjim19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789296515:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:31:13 MSK [2020/05/13 6:31:13 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: Sumitus ($2.09 in chips) 
+Seat 4: lawlex_2 ($2.79 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Damasgr: posts small blind $0.01
+goodjim19: is sitting out 
+Sumitus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Ac]
+lawlex_2: raises $0.03 to $0.05
+goodjim19 leaves the table
+Damasgr: folds 
+Sumitus: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus (big blind) folded before Flop
+Seat 4: lawlex_2 (button) collected ($0.05)
+Seat 5: Damasgr (small blind) folded before Flop
+
+
+
+PokerStars Hand #213789300107:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:31:21 MSK [2020/05/13 6:31:21 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: Sumitus ($2.07 in chips) 
+Seat 4: lawlex_2 ($2.82 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Sumitus: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 8s]
+Damasgr: raises $0.04 to $0.06
+Igzorqa joins the table at seat #6 
+Sumitus: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [2d 6h 4c]
+lawlex_2: checks 
+Damasgr: checks 
+*** TURN *** [2d 6h 4c] [3d]
+lawlex_2: bets $0.09
+Damasgr: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d 6h 4c 3d]
+Seat 1: Sumitus (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.13)
+Seat 5: Damasgr (button) folded on the Turn
+
+
+
+PokerStars Hand #213789311373:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:31:47 MSK [2020/05/13 6:31:47 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: Sumitus ($2.06 in chips) 
+Seat 4: lawlex_2 ($2.89 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Damasgr: posts big blind $0.02
+Igzorqa: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Qs]
+Sumitus: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Damasgr
+Damasgr collected $0.02 from pot
+Damasgr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Sumitus (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Damasgr (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213789314870:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:31:55 MSK [2020/05/13 6:31:55 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: Sumitus ($2.06 in chips) 
+Seat 4: lawlex_2 ($2.88 in chips) 
+Seat 5: Damasgr ($2.01 in chips) 
+Seat 6: Igzorqa ($1 in chips) 
+Damasgr: posts small blind $0.01
+Igzorqa: posts big blind $0.02
+toniflori1980: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Qs]
+Sumitus: folds 
+lawlex_2: folds 
+Damasgr: folds 
+Uncalled bet ($0.01) returned to Igzorqa
+Igzorqa collected $0.02 from pot
+Igzorqa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Damasgr (small blind) folded before Flop
+Seat 6: Igzorqa (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213789317057:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:32:00 MSK [2020/05/13 6:32:00 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: Sumitus ($2.06 in chips) 
+Seat 4: lawlex_2 ($2.88 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.01 in chips) 
+Igzorqa: posts small blind $0.01
+Sumitus: posts big blind $0.02
+toniflori1980: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 2s]
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: calls $0.01
+Sumitus: checks 
+*** FLOP *** [2c 6h 3d]
+Igzorqa: bets $0.02
+Sumitus: folds 
+Uncalled bet ($0.02) returned to Igzorqa
+Igzorqa collected $0.04 from pot
+Igzorqa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2c 6h 3d]
+Seat 1: Sumitus (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr (button) folded before Flop (didn't bet)
+Seat 6: Igzorqa (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213789329878:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:32:29 MSK [2020/05/13 6:32:29 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: Sumitus ($2.04 in chips) 
+Seat 2: toniflori1980 ($6.80 in chips) 
+Seat 4: lawlex_2 ($2.88 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.03 in chips) 
+Sumitus: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 7d]
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: folds 
+Sumitus: folds 
+Uncalled bet ($0.01) returned to toniflori1980
+toniflori1980 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Sumitus (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) collected ($0.02)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789337639:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:32:46 MSK [2020/05/13 6:32:46 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: Sumitus ($2.03 in chips) 
+Seat 2: toniflori1980 ($6.81 in chips) 
+Seat 4: lawlex_2 ($2.88 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.03 in chips) 
+toniflori1980: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 5h]
+Damasgr: folds 
+Igzorqa: folds 
+Sumitus: folds 
+toniflori1980: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [2d Qh Js]
+toniflori1980: checks 
+lawlex_2: checks 
+*** TURN *** [2d Qh Js] [2c]
+toniflori1980: checks 
+lawlex_2: bets $0.03
+toniflori1980: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2d Qh Js 2c]
+Seat 1: Sumitus (button) folded before Flop (didn't bet)
+Seat 2: toniflori1980 (small blind) folded on the Turn
+Seat 4: lawlex_2 (big blind) collected ($0.04)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789349110:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:33:13 MSK [2020/05/13 6:33:13 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: Sumitus ($2.03 in chips) 
+Seat 2: toniflori1980 ($6.79 in chips) 
+Seat 4: lawlex_2 ($2.90 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.03 in chips) 
+lawlex_2: posts small blind $0.01
+Damasgr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 5c]
+Igzorqa: folds 
+Sumitus: raises $0.04 to $0.06
+toniflori1980: calls $0.06
+lawlex_2: folds 
+Damasgr: folds 
+*** FLOP *** [9h Jh Ad]
+Sumitus: bets $0.07
+toniflori1980: folds 
+Uncalled bet ($0.07) returned to Sumitus
+Sumitus collected $0.14 from pot
+Sumitus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9h Jh Ad]
+Seat 1: Sumitus collected ($0.14)
+Seat 2: toniflori1980 (button) folded on the Flop
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Damasgr (big blind) folded before Flop
+Seat 6: Igzorqa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789360193:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:33:38 MSK [2020/05/13 6:33:38 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: Sumitus ($2.11 in chips) 
+Seat 2: toniflori1980 ($6.73 in chips) 
+Seat 4: lawlex_2 ($2.89 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.03 in chips) 
+Damasgr: posts small blind $0.01
+Igzorqa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Td]
+Sumitus: folds 
+toniflori1980: folds 
+lawlex_2: folds 
+Damasgr: raises $0.04 to $0.06
+Igzorqa: calls $0.04
+*** FLOP *** [3c 3s 9d]
+Damasgr: checks 
+Igzorqa: checks 
+*** TURN *** [3c 3s 9d] [Ad]
+Damasgr: bets $0.08
+Igzorqa: calls $0.08
+*** RIVER *** [3c 3s 9d Ad] [7s]
+Damasgr: bets $0.14
+Igzorqa: calls $0.14
+*** SHOW DOWN ***
+Damasgr: shows [Jh As] (two pair, Aces and Threes)
+Igzorqa: mucks hand 
+Damasgr collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [3c 3s 9d Ad 7s]
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Damasgr (small blind) showed [Jh As] and won ($0.54) with two pair, Aces and Threes
+Seat 6: Igzorqa (big blind) mucked [Ac Ts]
+
+
+
+PokerStars Hand #213789384067:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:34:32 MSK [2020/05/13 6:34:32 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: Sumitus ($2.11 in chips) 
+Seat 2: toniflori1980 ($6.73 in chips) 
+Seat 4: lawlex_2 ($2.89 in chips) 
+Seat 5: Damasgr ($2.26 in chips) 
+Seat 6: Igzorqa ($0.75 in chips) 
+Igzorqa: posts small blind $0.01
+Sumitus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 2d]
+toniflori1980: folds 
+lawlex_2: raises $0.03 to $0.05
+Damasgr: folds 
+Igzorqa: folds 
+Sumitus: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus (big blind) folded before Flop
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Damasgr (button) folded before Flop (didn't bet)
+Seat 6: Igzorqa (small blind) folded before Flop
+
+
+
+PokerStars Hand #213789394139:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:34:56 MSK [2020/05/13 6:34:56 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: Sumitus ($2.09 in chips) 
+Seat 2: toniflori1980 ($6.73 in chips) 
+Seat 4: lawlex_2 ($2.92 in chips) 
+Seat 5: Damasgr ($2.26 in chips) 
+Seat 6: Igzorqa ($0.74 in chips) 
+Sumitus: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Qh]
+lawlex_2: raises $0.03 to $0.05
+Damasgr: folds 
+Igzorqa: folds 
+Sumitus: folds 
+toniflori1980: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789405157:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:35:21 MSK [2020/05/13 6:35:21 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: Sumitus ($2.08 in chips) 
+Seat 2: toniflori1980 ($6.71 in chips) 
+Seat 4: lawlex_2 ($2.95 in chips) 
+Seat 5: Damasgr ($2.26 in chips) 
+Seat 6: Igzorqa ($0.74 in chips) 
+toniflori1980: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 9d]
+Damasgr: folds 
+Igzorqa: calls $0.02
+Sumitus: calls $0.02
+toniflori1980: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [3h 8d 4d]
+toniflori1980: checks 
+lawlex_2: checks 
+Igzorqa: checks 
+Sumitus: checks 
+*** TURN *** [3h 8d 4d] [Qd]
+toniflori1980: checks 
+lawlex_2: checks 
+Igzorqa: checks 
+Sumitus: checks 
+*** RIVER *** [3h 8d 4d Qd] [9c]
+toniflori1980: checks 
+lawlex_2: checks 
+Igzorqa: checks 
+Sumitus: checks 
+*** SHOW DOWN ***
+toniflori1980: shows [5s 4h] (a pair of Fours)
+lawlex_2: shows [Kh 9d] (a pair of Nines)
+Igzorqa: mucks hand 
+Sumitus: mucks hand 
+lawlex_2 collected $0.08 from pot
+sahok61 was removed from the table for failing to post
+sahok61 leaves the table
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [3h 8d 4d Qd 9c]
+Seat 1: Sumitus (button) mucked [Kd Jc]
+Seat 2: toniflori1980 (small blind) showed [5s 4h] and lost with a pair of Fours
+Seat 4: lawlex_2 (big blind) showed [Kh 9d] and won ($0.08) with a pair of Nines
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa mucked [Kc Ts]
+
+
+
+PokerStars Hand #213789431186:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:36:21 MSK [2020/05/13 6:36:21 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: Sumitus ($2.06 in chips) 
+Seat 2: toniflori1980 ($6.69 in chips) 
+Seat 4: lawlex_2 ($3.01 in chips) 
+Seat 5: Damasgr ($2.26 in chips) 
+Seat 6: Igzorqa ($0.72 in chips) 
+lawlex_2: posts small blind $0.01
+Damasgr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Th]
+Igzorqa: calls $0.02
+Sumitus: folds 
+laoban888 joins the table at seat #3 
+toniflori1980: folds 
+lawlex_2: folds 
+Damasgr: raises $0.06 to $0.08
+Igzorqa: calls $0.06
+*** FLOP *** [5d 5s Kd]
+Damasgr: checks 
+Igzorqa: checks 
+*** TURN *** [5d 5s Kd] [4d]
+Damasgr: bets $0.11
+Igzorqa: folds 
+Uncalled bet ($0.11) returned to Damasgr
+Damasgr collected $0.16 from pot
+Damasgr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5d 5s Kd 4d]
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Damasgr (big blind) collected ($0.16)
+Seat 6: Igzorqa folded on the Turn
+
+
+
+PokerStars Hand #213789452990:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:37:11 MSK [2020/05/13 6:37:11 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: Sumitus ($2.06 in chips) 
+Seat 2: toniflori1980 ($6.69 in chips) 
+Seat 4: lawlex_2 ($3 in chips) 
+Seat 5: Damasgr ($2.34 in chips) 
+Seat 6: Igzorqa ($0.64 in chips) 
+Damasgr: posts small blind $0.01
+Igzorqa: posts big blind $0.02
+laoban888: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Qd]
+Sumitus: folds 
+toniflori1980: folds 
+lawlex_2: folds 
+Damasgr: folds 
+Uncalled bet ($0.01) returned to Igzorqa
+Igzorqa collected $0.02 from pot
+Igzorqa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Damasgr (small blind) folded before Flop
+Seat 6: Igzorqa (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213789459836:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:37:27 MSK [2020/05/13 6:37:27 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: Sumitus ($2.06 in chips) 
+Seat 2: toniflori1980 ($6.69 in chips) 
+Seat 4: lawlex_2 ($3 in chips) 
+Seat 5: Damasgr ($2.33 in chips) 
+Seat 6: Igzorqa ($0.65 in chips) 
+Igzorqa: posts small blind $0.01
+Sumitus: posts big blind $0.02
+laoban888: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 3s]
+toniflori1980: raises $0.04 to $0.06
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: calls $0.05
+Sumitus: folds 
+*** FLOP *** [4d 2h 5c]
+Igzorqa: checks 
+toniflori1980: bets $0.06
+Igzorqa: calls $0.06
+*** TURN *** [4d 2h 5c] [8h]
+Igzorqa: checks 
+toniflori1980: checks 
+*** RIVER *** [4d 2h 5c 8h] [Kh]
+Igzorqa: bets $0.13
+toniflori1980: folds 
+Uncalled bet ($0.13) returned to Igzorqa
+Igzorqa collected $0.25 from pot
+Igzorqa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [4d 2h 5c 8h Kh]
+Seat 1: Sumitus (big blind) folded before Flop
+Seat 2: toniflori1980 folded on the River
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr (button) folded before Flop (didn't bet)
+Seat 6: Igzorqa (small blind) collected ($0.25)
+
+
+
+PokerStars Hand #213789478145:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:38:09 MSK [2020/05/13 6:38:09 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: Sumitus ($2.04 in chips) 
+Seat 2: toniflori1980 ($6.57 in chips) 
+Seat 4: lawlex_2 ($3 in chips) 
+Seat 5: Damasgr ($2.33 in chips) 
+Seat 6: Igzorqa ($0.78 in chips) 
+Sumitus: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+laoban888: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 7c]
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: raises $0.04 to $0.06
+Sumitus: folds 
+toniflori1980: raises $6.51 to $6.57 and is all-in
+Igzorqa: calls $0.72 and is all-in
+Uncalled bet ($5.79) returned to toniflori1980
+*** FLOP *** [Qd Jc 3c]
+*** TURN *** [Qd Jc 3c] [8c]
+*** RIVER *** [Qd Jc 3c 8c] [2c]
+*** SHOW DOWN ***
+toniflori1980: shows [As Qh] (a pair of Queens)
+Igzorqa: shows [Kh Jh] (a pair of Jacks)
+toniflori1980 cashed out the hand for $0.90 | Cash Out Fee $0.01
+Igzorqa cashed out the hand for $0.60 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.57 | Rake $0.05 
+Board [Qd Jc 3c 8c 2c]
+Seat 1: Sumitus (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) showed [As Qh] and won ($1.52) with a pair of Queens (pot not awarded as player cashed out)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa (button) showed [Kh Jh] and lost with a pair of Jacks (cashed out).
+
+
+
+PokerStars Hand #213789502296:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:39:04 MSK [2020/05/13 6:39:04 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: Sumitus ($2.03 in chips) 
+Seat 2: toniflori1980 ($6.69 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($3 in chips) 
+Seat 5: Damasgr ($2.33 in chips) 
+Seat 6: Igzorqa ($0.60 in chips) 
+toniflori1980: posts small blind $0.01
+laoban888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 7d]
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: calls $0.02
+Sumitus: folds 
+toniflori1980: folds 
+laoban888: checks 
+*** FLOP *** [5s As 4h]
+laoban888: checks 
+Igzorqa: checks 
+*** TURN *** [5s As 4h] [Qd]
+laoban888: checks 
+Igzorqa: checks 
+*** RIVER *** [5s As 4h Qd] [5c]
+laoban888: checks 
+Igzorqa: checks 
+*** SHOW DOWN ***
+laoban888: shows [8c 6c] (a pair of Fives)
+Igzorqa: shows [9d Kh] (a pair of Fives - Ace+King kicker)
+Igzorqa collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5s As 4h Qd 5c]
+Seat 1: Sumitus (button) folded before Flop (didn't bet)
+Seat 2: toniflori1980 (small blind) folded before Flop
+Seat 3: laoban888 (big blind) showed [8c 6c] and lost with a pair of Fives
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa showed [9d Kh] and won ($0.05) with a pair of Fives
+
+
+
+PokerStars Hand #213789531021:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:40:10 MSK [2020/05/13 6:40:10 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: Sumitus ($2.03 in chips) 
+Seat 2: toniflori1980 ($6.68 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($3 in chips) 
+Seat 5: Damasgr ($2.33 in chips) 
+Seat 6: Igzorqa ($0.63 in chips) 
+laoban888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 9d]
+Damasgr: folds 
+Igzorqa: folds 
+Sumitus: raises $0.04 to $0.06
+toniflori1980: folds 
+laoban888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Sumitus
+Sumitus collected $0.05 from pot
+Sumitus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus collected ($0.05)
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 3: laoban888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789538116:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:40:26 MSK [2020/05/13 6:40:26 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: Sumitus ($2.06 in chips) 
+Seat 2: toniflori1980 ($6.68 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.98 in chips) 
+Seat 5: Damasgr ($2.33 in chips) 
+Seat 6: Igzorqa ($0.63 in chips) 
+lawlex_2: posts small blind $0.01
+Damasgr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 8s]
+Igzorqa: folds 
+Sumitus: folds 
+toniflori1980: raises $0.04 to $0.06
+laoban888: folds 
+lawlex_2: folds 
+Damasgr: folds 
+Uncalled bet ($0.04) returned to toniflori1980
+toniflori1980 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 collected ($0.05)
+Seat 3: laoban888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Damasgr (big blind) folded before Flop
+Seat 6: Igzorqa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789545729:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:40:44 MSK [2020/05/13 6:40:44 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: Sumitus ($2.06 in chips) 
+Seat 2: toniflori1980 ($6.71 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.97 in chips) 
+Seat 5: Damasgr ($2.31 in chips) 
+Seat 6: Igzorqa ($0.63 in chips) 
+Damasgr: posts small blind $0.01
+Igzorqa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 3d]
+Sumitus: folds 
+toniflori1980: folds 
+laoban888: raises $0.04 to $0.06
+lawlex_2: folds 
+Damasgr: raises $0.14 to $0.20
+Igzorqa: raises $0.43 to $0.63 and is all-in
+laoban888: folds 
+Damasgr: calls $0.43
+*** FLOP *** [8d 6c Js]
+*** TURN *** [8d 6c Js] [6d]
+*** RIVER *** [8d 6c Js 6d] [5c]
+*** SHOW DOWN ***
+Damasgr: shows [Qs As] (a pair of Sixes)
+Igzorqa: shows [9d 9c] (two pair, Nines and Sixes)
+Igzorqa collected $1.27 from pot
+*** SUMMARY ***
+Total pot $1.32 | Rake $0.05 
+Board [8d 6c Js 6d 5c]
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 folded before Flop
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Damasgr (small blind) showed [Qs As] and lost with a pair of Sixes
+Seat 6: Igzorqa (big blind) showed [9d 9c] and won ($1.27) with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #213789568678:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:41:36 MSK [2020/05/13 6:41:36 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: Sumitus ($2.06 in chips) 
+Seat 2: toniflori1980 ($6.71 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.97 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.27 in chips) 
+Igzorqa: posts small blind $0.01
+Sumitus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 3h]
+toniflori1980: raises $0.02 to $0.04
+laoban888: folds 
+lawlex_2: folds 
+Damasgr: calls $0.04
+Igzorqa: calls $0.03
+Sumitus: folds 
+*** FLOP *** [Kh 9c Ad]
+Igzorqa: checks 
+toniflori1980: checks 
+Damasgr: checks 
+*** TURN *** [Kh 9c Ad] [9s]
+Igzorqa: checks 
+toniflori1980: bets $0.08
+Damasgr: folds 
+Igzorqa: folds 
+Uncalled bet ($0.08) returned to toniflori1980
+toniflori1980 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Kh 9c Ad 9s]
+Seat 1: Sumitus (big blind) folded before Flop
+Seat 2: toniflori1980 collected ($0.14)
+Seat 3: laoban888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr (button) folded on the Turn
+Seat 6: Igzorqa (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213789588935:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:42:21 MSK [2020/05/13 6:42:21 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: Sumitus ($2.04 in chips) 
+Seat 2: toniflori1980 ($6.81 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.97 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.23 in chips) 
+Sumitus: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 7c]
+laoban888: raises $0.04 to $0.06
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: folds 
+Sumitus: folds 
+toniflori1980: calls $0.04
+*** FLOP *** [9d 6s Kh]
+toniflori1980: checks 
+laoban888: bets $0.09
+toniflori1980: folds 
+Uncalled bet ($0.09) returned to laoban888
+laoban888 collected $0.13 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9d 6s Kh]
+Seat 1: Sumitus (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) folded on the Flop
+Seat 3: laoban888 collected ($0.13)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789599811:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:42:46 MSK [2020/05/13 6:42:46 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: Sumitus ($2.03 in chips) 
+Seat 2: toniflori1980 ($6.75 in chips) 
+Seat 3: laoban888 ($2.07 in chips) 
+Seat 4: lawlex_2 ($2.97 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.23 in chips) 
+toniflori1980: posts small blind $0.01
+laoban888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 5c]
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: calls $0.02
+Sumitus: folds 
+toniflori1980: calls $0.01
+laoban888: checks 
+*** FLOP *** [Kc Ac Jd]
+toniflori1980: checks 
+laoban888: checks 
+Igzorqa: bets $0.04
+toniflori1980: folds 
+laoban888: folds 
+Uncalled bet ($0.04) returned to Igzorqa
+Igzorqa collected $0.06 from pot
+Igzorqa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kc Ac Jd]
+Seat 1: Sumitus (button) folded before Flop (didn't bet)
+Seat 2: toniflori1980 (small blind) folded on the Flop
+Seat 3: laoban888 (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa collected ($0.06)
+
+
+
+PokerStars Hand #213789618820:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:43:29 MSK [2020/05/13 6:43:29 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: Sumitus ($2.03 in chips) 
+Seat 2: toniflori1980 ($6.73 in chips) 
+Seat 3: laoban888 ($2.05 in chips) 
+Seat 4: lawlex_2 ($2.97 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.27 in chips) 
+laoban888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Kc]
+Damasgr: folds 
+Igzorqa: calls $0.02
+Sumitus: folds 
+toniflori1980: folds 
+laoban888: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Qh 3c 5s]
+laoban888: checks 
+lawlex_2: checks 
+Igzorqa: bets $0.04
+laoban888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Igzorqa
+Igzorqa collected $0.06 from pot
+Igzorqa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qh 3c 5s]
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 3: laoban888 (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa collected ($0.06)
+
+
+
+PokerStars Hand #213789636781:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:44:09 MSK [2020/05/13 6:44:09 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: Sumitus ($2.03 in chips) 
+Seat 2: toniflori1980 ($6.73 in chips) 
+Seat 3: laoban888 ($2.03 in chips) 
+Seat 4: lawlex_2 ($2.95 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.31 in chips) 
+lawlex_2: posts small blind $0.01
+Damasgr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 5d]
+Igzorqa: folds 
+Sumitus: folds 
+toniflori1980: folds 
+laoban888: raises $0.02 to $0.04
+lawlex_2: folds 
+Damasgr: folds 
+Uncalled bet ($0.02) returned to laoban888
+laoban888 collected $0.05 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 (button) collected ($0.05)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Damasgr (big blind) folded before Flop
+Seat 6: Igzorqa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789643546:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:44:24 MSK [2020/05/13 6:44:24 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: Sumitus ($2.03 in chips) 
+Seat 2: toniflori1980 ($6.73 in chips) 
+Seat 3: laoban888 ($2.06 in chips) 
+Seat 4: lawlex_2 ($2.94 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.31 in chips) 
+Damasgr: posts small blind $0.01
+Igzorqa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Td]
+Sumitus: folds 
+toniflori1980: folds 
+laoban888: folds 
+lawlex_2: folds 
+Damasgr: folds 
+Uncalled bet ($0.01) returned to Igzorqa
+Igzorqa collected $0.02 from pot
+Igzorqa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Damasgr (small blind) folded before Flop
+Seat 6: Igzorqa (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213789648658:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:44:35 MSK [2020/05/13 6:44:35 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: Sumitus ($2.03 in chips) 
+Seat 2: toniflori1980 ($6.73 in chips) 
+Seat 3: laoban888 ($2.06 in chips) 
+Seat 4: lawlex_2 ($2.94 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.32 in chips) 
+Igzorqa: posts small blind $0.01
+Sumitus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 5s]
+toniflori1980: folds 
+laoban888: folds 
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: calls $0.01
+Sumitus: checks 
+*** FLOP *** [9d 8d Ks]
+Igzorqa: checks 
+Sumitus: checks 
+*** TURN *** [9d 8d Ks] [Kh]
+Igzorqa: checks 
+Sumitus: checks 
+*** RIVER *** [9d 8d Ks Kh] [6d]
+Igzorqa: checks 
+Sumitus: checks 
+*** SHOW DOWN ***
+Igzorqa: shows [4d 2c] (a pair of Kings)
+Sumitus: shows [Ad 4s] (a pair of Kings - Ace kicker)
+Sumitus collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9d 8d Ks Kh 6d]
+Seat 1: Sumitus (big blind) showed [Ad 4s] and won ($0.04) with a pair of Kings
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr (button) folded before Flop (didn't bet)
+Seat 6: Igzorqa (small blind) showed [4d 2c] and lost with a pair of Kings
+
+
+
+PokerStars Hand #213789673165:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:45:30 MSK [2020/05/13 6:45:30 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: Sumitus ($2.05 in chips) 
+Seat 2: toniflori1980 ($6.73 in chips) 
+Seat 3: laoban888 ($2.06 in chips) 
+Seat 4: lawlex_2 ($2.94 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.30 in chips) 
+Sumitus: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 9s]
+laoban888: folds 
+lawlex_2: raises $0.03 to $0.05
+Damasgr: folds 
+Igzorqa: folds 
+Sumitus: folds 
+toniflori1980: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) folded before Flop
+Seat 3: laoban888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789681124:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:45:48 MSK [2020/05/13 6:45:48 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: Sumitus ($2.04 in chips) 
+Seat 2: toniflori1980 ($6.71 in chips) 
+Seat 3: laoban888 ($2.06 in chips) 
+Seat 4: lawlex_2 ($2.97 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.30 in chips) 
+toniflori1980: posts small blind $0.01
+laoban888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Qc]
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: calls $0.02
+Sumitus: folds 
+toniflori1980: folds 
+laoban888: raises $0.05 to $0.07
+Igzorqa: calls $0.05
+*** FLOP *** [2d Kh Ac]
+laoban888: bets $0.09
+Igzorqa: raises $0.11 to $0.20
+laoban888: folds 
+Uncalled bet ($0.11) returned to Igzorqa
+Igzorqa collected $0.32 from pot
+Igzorqa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [2d Kh Ac]
+Seat 1: Sumitus (button) folded before Flop (didn't bet)
+Seat 2: toniflori1980 (small blind) folded before Flop
+Seat 3: laoban888 (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa collected ($0.32)
+
+
+
+PokerStars Hand #213789700652:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:46:32 MSK [2020/05/13 6:46:32 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: Sumitus ($2.04 in chips) 
+Seat 2: toniflori1980 ($6.70 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.97 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.46 in chips) 
+laoban888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 8h]
+Damasgr: folds 
+Igzorqa: calls $0.02
+Sumitus has timed out
+Sumitus: folds 
+toniflori1980: folds 
+laoban888: folds 
+lawlex_2: checks 
+*** FLOP *** [Ah Td Qs]
+lawlex_2: bets $0.03
+Igzorqa: calls $0.03
+*** TURN *** [Ah Td Qs] [4d]
+lawlex_2: checks 
+Igzorqa: bets $0.06
+lawlex_2: calls $0.06
+*** RIVER *** [Ah Td Qs 4d] [7c]
+lawlex_2: checks 
+Igzorqa: bets $0.11
+lawlex_2: folds 
+Uncalled bet ($0.11) returned to Igzorqa
+Igzorqa collected $0.22 from pot
+Igzorqa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Ah Td Qs 4d 7c]
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 3: laoban888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the River
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa collected ($0.22)
+
+
+
+PokerStars Hand #213789727226:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:47:31 MSK [2020/05/13 6:47:31 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: Sumitus ($2.04 in chips) 
+Seat 2: toniflori1980 ($6.70 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.86 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.57 in chips) 
+lawlex_2: posts small blind $0.01
+Damasgr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Qc]
+Igzorqa: folds 
+Sumitus: folds 
+toniflori1980: folds 
+laoban888: raises $0.04 to $0.06
+lawlex_2: folds 
+Damasgr: folds 
+Uncalled bet ($0.04) returned to laoban888
+laoban888 collected $0.05 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 (button) collected ($0.05)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Damasgr (big blind) folded before Flop
+Seat 6: Igzorqa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789734317:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:47:47 MSK [2020/05/13 6:47:47 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: Sumitus ($2.04 in chips) 
+Seat 2: toniflori1980 ($6.70 in chips) 
+Seat 3: laoban888 ($2.03 in chips) 
+Seat 4: lawlex_2 ($2.85 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.57 in chips) 
+Damasgr: posts small blind $0.01
+Igzorqa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Kd]
+Sumitus: folds 
+toniflori1980: folds 
+laoban888: raises $0.02 to $0.04
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: calls $0.02
+*** FLOP *** [7s Ah Jc]
+Igzorqa: bets $0.05
+laoban888: folds 
+Uncalled bet ($0.05) returned to Igzorqa
+Igzorqa collected $0.09 from pot
+Igzorqa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7s Ah Jc]
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 folded on the Flop
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Damasgr (small blind) folded before Flop
+Seat 6: Igzorqa (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #213789749598:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:48:21 MSK [2020/05/13 6:48:21 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: Sumitus ($2.04 in chips) 
+Seat 2: toniflori1980 ($6.70 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.85 in chips) 
+Seat 5: Damasgr ($2 in chips) 
+Seat 6: Igzorqa ($1.62 in chips) 
+Igzorqa: posts small blind $0.01
+Sumitus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 9c]
+toniflori1980: folds 
+laoban888: raises $0.04 to $0.06
+lawlex_2: folds 
+Damasgr: calls $0.06
+Igzorqa: folds 
+Sumitus: folds 
+*** FLOP *** [Ah 5s 8c]
+laoban888: bets $0.11
+Damasgr: calls $0.11
+*** TURN *** [Ah 5s 8c] [2c]
+laoban888: checks 
+Damasgr: bets $0.18
+laoban888: folds 
+Uncalled bet ($0.18) returned to Damasgr
+Damasgr collected $0.36 from pot
+Damasgr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Ah 5s 8c 2c]
+Seat 1: Sumitus (big blind) folded before Flop
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 folded on the Turn
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr (button) collected ($0.36)
+Seat 6: Igzorqa (small blind) folded before Flop
+
+
+
+PokerStars Hand #213789768168:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:49:02 MSK [2020/05/13 6:49:02 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: Sumitus ($2.02 in chips) 
+Seat 2: toniflori1980 ($6.70 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.85 in chips) 
+Seat 5: Damasgr ($2.19 in chips) 
+Seat 6: Igzorqa ($1.61 in chips) 
+Sumitus: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 4h]
+laoban888: folds 
+lawlex_2: raises $0.03 to $0.05
+Damasgr: calls $0.05
+Igzorqa: folds 
+Sumitus: folds 
+toniflori1980: calls $0.03
+*** FLOP *** [Td 2c Ts]
+toniflori1980: checks 
+lawlex_2: bets $0.10
+Damasgr: folds 
+toniflori1980: folds 
+Uncalled bet ($0.10) returned to lawlex_2
+lawlex_2 collected $0.15 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Td 2c Ts]
+Seat 1: Sumitus (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) folded on the Flop
+Seat 3: laoban888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.15)
+Seat 5: Damasgr folded on the Flop
+Seat 6: Igzorqa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789790654:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:49:51 MSK [2020/05/13 6:49:51 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: Sumitus ($2.01 in chips) 
+Seat 2: toniflori1980 ($6.65 in chips) 
+Seat 3: laoban888 ($2 in chips) 
+Seat 4: lawlex_2 ($2.95 in chips) 
+Seat 5: Damasgr ($2.14 in chips) 
+Seat 6: Igzorqa ($1.61 in chips) 
+toniflori1980: posts small blind $0.01
+laoban888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 9c]
+lawlex_2: folds 
+Damasgr: folds 
+Igzorqa: calls $0.02
+Sumitus: folds 
+toniflori1980: calls $0.01
+laoban888: raises $0.06 to $0.08
+Igzorqa: folds 
+toniflori1980: calls $0.06
+*** FLOP *** [Kc 4c 2d]
+toniflori1980: checks 
+laoban888: bets $0.13
+toniflori1980: folds 
+Uncalled bet ($0.13) returned to laoban888
+laoban888 collected $0.17 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Kc 4c 2d]
+Seat 1: Sumitus (button) folded before Flop (didn't bet)
+Seat 2: toniflori1980 (small blind) folded on the Flop
+Seat 3: laoban888 (big blind) collected ($0.17)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Damasgr folded before Flop (didn't bet)
+Seat 6: Igzorqa folded before Flop
+
+
+
+PokerStars Hand #213789806265:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:50:25 MSK [2020/05/13 6:50:25 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: Sumitus ($2.01 in chips) 
+Seat 2: toniflori1980 ($6.57 in chips) 
+Seat 3: laoban888 ($2.09 in chips) 
+Seat 4: lawlex_2 ($2.95 in chips) 
+Seat 5: Damasgr ($2.14 in chips) 
+Seat 6: Igzorqa ($1.59 in chips) 
+laoban888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Tc]
+Damasgr: raises $0.04 to $0.06
+Igzorqa: folds 
+Sumitus: folds 
+Igzorqa said, "ÑÑ"
+toniflori1980: folds 
+laoban888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Damasgr
+Igzorqa said, "(poop)"
+Damasgr collected $0.05 from pot
+Damasgr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 3: laoban888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Damasgr collected ($0.05)
+Seat 6: Igzorqa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789814766:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:50:44 MSK [2020/05/13 6:50:44 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: Sumitus ($2.01 in chips) 
+Seat 2: toniflori1980 ($6.57 in chips) 
+Seat 3: laoban888 ($2.08 in chips) 
+Seat 4: lawlex_2 ($2.93 in chips) 
+Seat 6: Igzorqa ($1.59 in chips) 
+lawlex_2: posts small blind $0.01
+Damasgr: is sitting out 
+Igzorqa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 2d]
+Damasgr leaves the table
+Sumitus: folds 
+YendorS joins the table at seat #5 
+Sumitus leaves the table
+toniflori1980 has timed out
+toniflori1980: folds 
+laoban888: raises $0.04 to $0.06
+lawlex_2: folds 
+Igzorqa: calls $0.04
+*** FLOP *** [Jc Qh 2s]
+Igzorqa: checks 
+laoban888: bets $0.10
+goranwe joins the table at seat #1 
+Igzorqa: calls $0.10
+*** TURN *** [Jc Qh 2s] [4d]
+Igzorqa: checks 
+laoban888: checks 
+*** RIVER *** [Jc Qh 2s 4d] [2h]
+Igzorqa: checks 
+laoban888: bets $0.21
+Igzorqa: folds 
+Uncalled bet ($0.21) returned to laoban888
+laoban888 collected $0.32 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Jc Qh 2s 4d 2h]
+Seat 1: Sumitus folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 (button) collected ($0.32)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 6: Igzorqa (big blind) folded on the River
+
+
+
+PokerStars Hand #213789850705:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:52:04 MSK [2020/05/13 6:52:04 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: goranwe ($2 in chips) 
+Seat 2: toniflori1980 ($6.57 in chips) 
+Seat 3: laoban888 ($2.24 in chips) 
+Seat 4: lawlex_2 ($2.92 in chips) 
+Seat 6: Igzorqa ($1.43 in chips) 
+Igzorqa: posts small blind $0.01
+goranwe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 6d]
+toniflori1980: folds 
+laoban888: raises $0.04 to $0.06
+lawlex_2: folds 
+Igzorqa: folds 
+goranwe: calls $0.04
+*** FLOP *** [8h Qc Qh]
+goranwe: bets $0.02
+laoban888: raises $0.09 to $0.11
+goranwe: folds 
+Uncalled bet ($0.09) returned to laoban888
+laoban888 collected $0.16 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8h Qc Qh]
+Seat 1: goranwe (big blind) folded on the Flop
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 collected ($0.16)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Igzorqa (small blind) folded before Flop
+
+
+
+PokerStars Hand #213789871007:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:52:49 MSK [2020/05/13 6:52:49 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: goranwe ($1.92 in chips) 
+Seat 2: toniflori1980 ($6.57 in chips) 
+Seat 3: laoban888 ($2.32 in chips) 
+Seat 4: lawlex_2 ($2.92 in chips) 
+Seat 6: Igzorqa ($1.42 in chips) 
+goranwe: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+YendorS: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 4h]
+laoban888: folds 
+lawlex_2: folds 
+Igzorqa: calls $0.02
+goranwe: raises $0.06 to $0.08
+toniflori1980: calls $0.06
+Igzorqa: calls $0.06
+*** FLOP *** [2s Qs 7d]
+goranwe: bets $0.02
+toniflori1980: folds 
+Igzorqa: calls $0.02
+*** TURN *** [2s Qs 7d] [7c]
+goranwe: bets $0.02
+Igzorqa: calls $0.02
+*** RIVER *** [2s Qs 7d 7c] [4s]
+goranwe: bets $0.02
+Igzorqa: folds 
+Uncalled bet ($0.02) returned to goranwe
+goranwe collected $0.31 from pot
+goranwe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [2s Qs 7d 7c 4s]
+Seat 1: goranwe (small blind) collected ($0.31)
+Seat 2: toniflori1980 (big blind) folded on the Flop
+Seat 3: laoban888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Igzorqa (button) folded on the River
+
+
+
+PokerStars Hand #213789899180:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:53:51 MSK [2020/05/13 6:53:51 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: goranwe ($2.11 in chips) 
+Seat 2: toniflori1980 ($6.49 in chips) 
+Seat 3: laoban888 ($2.32 in chips) 
+Seat 4: lawlex_2 ($2.92 in chips) 
+Seat 6: Igzorqa ($1.30 in chips) 
+toniflori1980: posts small blind $0.01
+laoban888: posts big blind $0.02
+YendorS: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Js]
+lawlex_2: folds 
+Igzorqa: folds 
+goranwe: raises $0.04 to $0.06
+toniflori1980: folds 
+laoban888: folds 
+Uncalled bet ($0.04) returned to goranwe
+goranwe collected $0.05 from pot
+goranwe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: goranwe (button) collected ($0.05)
+Seat 2: toniflori1980 (small blind) folded before Flop
+Seat 3: laoban888 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Igzorqa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789906837:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:54:08 MSK [2020/05/13 6:54:08 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: goranwe ($2.14 in chips) 
+Seat 2: toniflori1980 ($6.48 in chips) 
+Seat 3: laoban888 ($2.30 in chips) 
+Seat 4: lawlex_2 ($2.92 in chips) 
+Seat 6: Igzorqa ($1.30 in chips) 
+laoban888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+YendorS: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 2s]
+YendorS leaves the table
+Igzorqa: folds 
+goranwe: folds 
+igrokkkk joins the table at seat #5 
+toniflori1980: raises $0.02 to $0.04
+laoban888: raises $0.10 to $0.14
+lawlex_2: folds 
+toniflori1980: calls $0.10
+*** FLOP *** [Jc 5h 6h]
+Igzorqa leaves the table
+laoban888: bets $0.19
+toniflori1980: folds 
+Uncalled bet ($0.19) returned to laoban888
+laoban888 collected $0.29 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Jc 5h 6h]
+Seat 1: goranwe folded before Flop (didn't bet)
+Seat 2: toniflori1980 (button) folded on the Flop
+Seat 3: laoban888 (small blind) collected ($0.29)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 6: Igzorqa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789926834:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:54:52 MSK [2020/05/13 6:54:52 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: goranwe ($2.14 in chips) 
+Seat 2: toniflori1980 ($6.34 in chips) 
+Seat 3: laoban888 ($2.45 in chips) 
+Seat 4: lawlex_2 ($2.90 in chips) 
+Seat 5: igrokkkk ($0.80 in chips) 
+lawlex_2: posts small blind $0.01
+igrokkkk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 2s]
+goranwe: folds 
+toniflori1980: raises $0.04 to $0.06
+Seetor joins the table at seat #6 
+laoban888: folds 
+lawlex_2: folds 
+igrokkkk: calls $0.04
+*** FLOP *** [Kh 8c 6h]
+igrokkkk: checks 
+toniflori1980: bets $6.28 and is all-in
+igrokkkk: calls $0.74 and is all-in
+Uncalled bet ($5.54) returned to toniflori1980
+*** TURN *** [Kh 8c 6h] [7s]
+*** RIVER *** [Kh 8c 6h 7s] [3s]
+*** SHOW DOWN ***
+igrokkkk: shows [6c Ks] (two pair, Kings and Sixes)
+toniflori1980: shows [7h Th] (a pair of Sevens)
+igrokkkk collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.06 
+Board [Kh 8c 6h 7s 3s]
+Seat 1: goranwe folded before Flop (didn't bet)
+Seat 2: toniflori1980 showed [7h Th] and lost with a pair of Sevens
+Seat 3: laoban888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: igrokkkk (big blind) showed [6c Ks] and won ($1.55) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #213789939983:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:55:24 MSK [2020/05/13 6:55:24 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: goranwe ($2.14 in chips) 
+Seat 2: toniflori1980 ($5.54 in chips) 
+Seat 3: laoban888 ($2.45 in chips) 
+Seat 4: lawlex_2 ($2.89 in chips) 
+Seat 5: igrokkkk ($1.55 in chips) 
+Seat 6: Seetor ($0.80 in chips) 
+igrokkkk: posts small blind $0.01
+Seetor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 8s]
+goranwe: raises $0.06 to $0.08
+toniflori1980: folds 
+laoban888: calls $0.08
+lawlex_2: folds 
+igrokkkk: folds 
+Seetor: folds 
+*** FLOP *** [3s 7h Th]
+goranwe: bets $0.02
+laoban888: raises $0.17 to $0.19
+goranwe: calls $0.17
+*** TURN *** [3s 7h Th] [Ad]
+goranwe: bets $0.02
+laoban888: calls $0.02
+*** RIVER *** [3s 7h Th Ad] [8h]
+goranwe: bets $0.02
+laoban888: calls $0.02
+*** SHOW DOWN ***
+goranwe: shows [7c 7s] (three of a kind, Sevens)
+laoban888: mucks hand 
+goranwe collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [3s 7h Th Ad 8h]
+Seat 1: goranwe showed [7c 7s] and won ($0.63) with three of a kind, Sevens
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 mucked [Jc Jd]
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: igrokkkk (small blind) folded before Flop
+Seat 6: Seetor (big blind) folded before Flop
+
+
+
+PokerStars Hand #213789962870:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:56:22 MSK [2020/05/13 6:56:22 ET]
+Table 'Euterpe IV' 6-max Seat #5 is the button
+Seat 1: goranwe ($2.46 in chips) 
+Seat 2: toniflori1980 ($5.54 in chips) 
+Seat 3: laoban888 ($2.14 in chips) 
+Seat 4: lawlex_2 ($2.89 in chips) 
+Seat 5: igrokkkk ($1.54 in chips) 
+Seat 6: Seetor ($0.78 in chips) 
+Seetor: posts small blind $0.01
+goranwe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 4c]
+toniflori1980: folds 
+laoban888: folds 
+lawlex_2: folds 
+igrokkkk is disconnected 
+igrokkkk has timed out while disconnected
+igrokkkk: folds 
+Seetor: folds 
+Uncalled bet ($0.01) returned to goranwe
+goranwe collected $0.02 from pot
+goranwe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: goranwe (big blind) collected ($0.02)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: igrokkkk (button) folded before Flop (didn't bet)
+Seat 6: Seetor (small blind) folded before Flop
+
+
+
+PokerStars Hand #213789969779:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:56:40 MSK [2020/05/13 6:56:40 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: goranwe ($2.47 in chips) 
+Seat 2: toniflori1980 ($5.54 in chips) 
+Seat 3: laoban888 ($2.14 in chips) 
+Seat 4: lawlex_2 ($2.89 in chips) 
+Seat 6: Seetor ($0.77 in chips) 
+goranwe: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 5s]
+laoban888: raises $0.04 to $0.06
+lawlex_2: folds 
+Seetor: folds 
+goranwe: folds 
+toniflori1980: folds 
+Uncalled bet ($0.04) returned to laoban888
+laoban888 collected $0.05 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: goranwe (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) folded before Flop
+Seat 3: laoban888 collected ($0.05)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Seetor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213789973860:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:56:50 MSK [2020/05/13 6:56:50 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: goranwe ($2.46 in chips) 
+Seat 2: toniflori1980 ($5.52 in chips) 
+Seat 3: laoban888 ($2.17 in chips) 
+Seat 4: lawlex_2 ($2.89 in chips) 
+Seat 6: Seetor ($0.77 in chips) 
+toniflori1980: posts small blind $0.01
+laoban888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Ac]
+lawlex_2: calls $0.02
+Seetor: calls $0.02
+goranwe: raises $0.04 to $0.06
+toniflori1980: folds 
+laoban888: folds 
+lawlex_2: calls $0.04
+Seetor: calls $0.04
+*** FLOP *** [9s As 8c]
+lawlex_2: checks 
+Seetor: bets $0.10
+goranwe: folds 
+lawlex_2: calls $0.10
+*** TURN *** [9s As 8c] [Jd]
+lawlex_2: checks 
+Seetor: bets $0.22
+lawlex_2: calls $0.22
+*** RIVER *** [9s As 8c Jd] [2s]
+lawlex_2: checks 
+Seetor: bets $0.39 and is all-in
+lawlex_2: calls $0.39
+*** SHOW DOWN ***
+Seetor: shows [Ts 3s] (a flush, Ace high)
+lawlex_2: shows [Ad Ac] (three of a kind, Aces)
+Seetor collected $1.57 from pot
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.06 
+Board [9s As 8c Jd 2s]
+Seat 1: goranwe (button) folded on the Flop
+Seat 2: toniflori1980 (small blind) folded before Flop
+Seat 3: laoban888 (big blind) folded before Flop
+Seat 4: lawlex_2 showed [Ad Ac] and lost with three of a kind, Aces
+Seat 6: Seetor showed [Ts 3s] and won ($1.57) with a flush, Ace high
+
+
+
+PokerStars Hand #213789996554:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:57:48 MSK [2020/05/13 6:57:48 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: goranwe ($2.40 in chips) 
+Seat 2: toniflori1980 ($5.51 in chips) 
+Seat 3: laoban888 ($2.15 in chips) 
+Seat 4: lawlex_2 ($2.12 in chips) 
+Seat 6: Seetor ($1.57 in chips) 
+laoban888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 2h]
+Seetor: folds 
+goranwe: folds 
+toniflori1980: folds 
+laoban888: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: goranwe folded before Flop (didn't bet)
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 3: laoban888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 6: Seetor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213790007730:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:58:17 MSK [2020/05/13 6:58:17 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: goranwe ($2.40 in chips) 
+Seat 2: toniflori1980 ($5.51 in chips) 
+Seat 3: laoban888 ($2.14 in chips) 
+Seat 4: lawlex_2 ($2.13 in chips) 
+Seat 6: Seetor ($1.57 in chips) 
+lawlex_2: posts small blind $0.01
+Seetor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 2c]
+goranwe: folds 
+toniflori1980: folds 
+laoban888: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Seetor
+Seetor collected $0.02 from pot
+Seetor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: goranwe folded before Flop (didn't bet)
+Seat 2: toniflori1980 folded before Flop (didn't bet)
+Seat 3: laoban888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 6: Seetor (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213790012598:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:58:29 MSK [2020/05/13 6:58:29 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: goranwe ($2.40 in chips) 
+Seat 2: toniflori1980 ($5.51 in chips) 
+Seat 3: laoban888 ($2.14 in chips) 
+Seat 4: lawlex_2 ($2.12 in chips) 
+Seat 6: Seetor ($1.58 in chips) 
+Seetor: posts small blind $0.01
+goranwe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 9s]
+toniflori1980: raises $0.04 to $0.06
+laoban888: folds 
+lawlex_2: folds 
+Seetor: folds 
+goranwe: folds 
+Uncalled bet ($0.04) returned to toniflori1980
+toniflori1980 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: goranwe (big blind) folded before Flop
+Seat 2: toniflori1980 collected ($0.05)
+Seat 3: laoban888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Seetor (small blind) folded before Flop
+
+
+
+PokerStars Hand #213790017846:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:58:42 MSK [2020/05/13 6:58:42 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: goranwe ($2.38 in chips) 
+Seat 2: toniflori1980 ($5.54 in chips) 
+Seat 3: laoban888 ($2.14 in chips) 
+Seat 4: lawlex_2 ($2.12 in chips) 
+toniflori1980: posts small blind $0.01
+laoban888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Js]
+lawlex_2: raises $0.03 to $0.05
+goranwe: folds 
+toniflori1980: folds 
+laoban888: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: goranwe (button) folded before Flop (didn't bet)
+Seat 2: toniflori1980 (small blind) folded before Flop
+Seat 3: laoban888 (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.05)
+
+
+
+PokerStars Hand #213790022189:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:58:53 MSK [2020/05/13 6:58:53 ET]
+Table 'Euterpe IV' 6-max Seat #2 is the button
+Seat 1: goranwe ($2.38 in chips) 
+Seat 2: toniflori1980 ($5.53 in chips) 
+Seat 3: laoban888 ($2.12 in chips) 
+Seat 4: lawlex_2 ($2.15 in chips) 
+laoban888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 5d]
+goranwe: folds 
+toniflori1980: folds 
+laoban888: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: goranwe folded before Flop (didn't bet)
+Seat 2: toniflori1980 (button) folded before Flop (didn't bet)
+Seat 3: laoban888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213790026951:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:59:05 MSK [2020/05/13 6:59:05 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: goranwe ($2.38 in chips) 
+Seat 2: toniflori1980 ($5.53 in chips) 
+Seat 3: laoban888 ($2.11 in chips) 
+Seat 4: lawlex_2 ($2.16 in chips) 
+Seat 6: Seetor ($1.57 in chips) 
+lawlex_2: posts small blind $0.01
+Seetor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 5s]
+goranwe: folds 
+toniflori1980: raises $0.02 to $0.04
+laoban888: folds 
+lawlex_2: folds 
+Seetor: folds 
+Uncalled bet ($0.02) returned to toniflori1980
+toniflori1980 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: goranwe folded before Flop (didn't bet)
+Seat 2: toniflori1980 collected ($0.05)
+Seat 3: laoban888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 6: Seetor (big blind) folded before Flop
+
+
+
+PokerStars Hand #213790031801:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:59:17 MSK [2020/05/13 6:59:17 ET]
+Table 'Euterpe IV' 6-max Seat #4 is the button
+Seat 1: goranwe ($2.38 in chips) 
+Seat 2: toniflori1980 ($5.56 in chips) 
+Seat 3: laoban888 ($2.11 in chips) 
+Seat 4: lawlex_2 ($2.15 in chips) 
+Seat 6: Seetor ($1.55 in chips) 
+Seetor: posts small blind $0.01
+goranwe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Qc]
+toniflori1980: raises $0.04 to $0.06
+laoban888: folds 
+lawlex_2: folds 
+Seetor: folds 
+goranwe: calls $0.04
+*** FLOP *** [7d Tc 5h]
+goranwe: bets $0.02
+toniflori1980: calls $0.02
+*** TURN *** [7d Tc 5h] [Th]
+goranwe: bets $0.02
+toniflori1980: calls $0.02
+*** RIVER *** [7d Tc 5h Th] [9s]
+goranwe: bets $0.02
+toniflori1980: calls $0.02
+*** SHOW DOWN ***
+goranwe: shows [Ac 7c] (two pair, Tens and Sevens)
+toniflori1980: mucks hand 
+goranwe collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7d Tc 5h Th 9s]
+Seat 1: goranwe (big blind) showed [Ac 7c] and won ($0.24) with two pair, Tens and Sevens
+Seat 2: toniflori1980 mucked [Jd As]
+Seat 3: laoban888 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Seetor (small blind) folded before Flop
+
+
+
+PokerStars Hand #213790046403:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 13:59:54 MSK [2020/05/13 6:59:54 ET]
+Table 'Euterpe IV' 6-max Seat #6 is the button
+Seat 1: goranwe ($2.50 in chips) 
+Seat 2: toniflori1980 ($5.44 in chips) 
+Seat 3: laoban888 ($2.11 in chips) 
+Seat 4: lawlex_2 ($2.15 in chips) 
+Seat 5: igrokkkk ($1.54 in chips) 
+Seat 6: Seetor ($1.54 in chips) 
+goranwe: posts small blind $0.01
+toniflori1980: posts big blind $0.02
+igrokkkk: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 4c]
+laoban888: calls $0.02
+lawlex_2: folds 
+igrokkkk: checks 
+Seetor: folds 
+goranwe: folds 
+toniflori1980: checks 
+*** FLOP *** [3c Qd Qc]
+toniflori1980: checks 
+laoban888: checks 
+igrokkkk: bets $0.02
+toniflori1980: folds 
+laoban888: calls $0.02
+*** TURN *** [3c Qd Qc] [Jd]
+laoban888: checks 
+igrokkkk: checks 
+*** RIVER *** [3c Qd Qc Jd] [Qh]
+laoban888: checks 
+igrokkkk: bets $0.06
+laoban888: folds 
+Uncalled bet ($0.06) returned to igrokkkk
+igrokkkk collected $0.12 from pot
+igrokkkk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3c Qd Qc Jd Qh]
+Seat 1: goranwe (small blind) folded before Flop
+Seat 2: toniflori1980 (big blind) folded on the Flop
+Seat 3: laoban888 folded on the River
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: igrokkkk collected ($0.12)
+Seat 6: Seetor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213790069213:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 14:00:49 MSK [2020/05/13 7:00:49 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: goranwe ($2.49 in chips) 
+Seat 2: toniflori1980 ($5.42 in chips) 
+Seat 3: laoban888 ($2.07 in chips) 
+Seat 4: lawlex_2 ($2.15 in chips) 
+Seat 5: igrokkkk ($1.61 in chips) 
+Seat 6: Seetor ($1.54 in chips) 
+toniflori1980: posts small blind $0.01
+laoban888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 5h]
+lawlex_2 has timed out
+lawlex_2: folds 
+igrokkkk: folds 
+Seetor: folds 
+goranwe: folds 
+toniflori1980: folds 
+Uncalled bet ($0.01) returned to laoban888
+laoban888 collected $0.02 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: goranwe (button) folded before Flop (didn't bet)
+Seat 2: toniflori1980 (small blind) folded before Flop
+Seat 3: laoban888 (big blind) collected ($0.02)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: igrokkkk folded before Flop (didn't bet)
+Seat 6: Seetor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213790131117:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 14:03:08 MSK [2020/05/13 7:03:08 ET]
+Table 'Euterpe IV' 6-max Seat #1 is the button
+Seat 1: goranwe ($2.28 in chips) 
+Seat 3: laoban888 ($2.05 in chips) 
+Seat 4: lawlex_2 ($2.15 in chips) 
+Seat 5: igrokkkk ($2.19 in chips) 
+Seat 6: Seetor ($0.89 in chips) 
+laoban888: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Tc]
+igrokkkk: raises $0.04 to $0.06
+Seetor: folds 
+goranwe: raises $0.04 to $0.10
+laoban888: folds 
+lawlex_2: folds 
+igrokkkk: calls $0.04
+*** FLOP *** [Kd 3s 7h]
+igrokkkk: checks 
+goranwe: bets $0.02
+igrokkkk: calls $0.02
+*** TURN *** [Kd 3s 7h] [Ks]
+igrokkkk: checks 
+goranwe: bets $0.02
+igrokkkk: calls $0.02
+*** RIVER *** [Kd 3s 7h Ks] [2d]
+igrokkkk: checks 
+goranwe: checks 
+*** SHOW DOWN ***
+igrokkkk: shows [As 2s] (two pair, Kings and Deuces)
+goranwe: shows [7d 6d] (two pair, Kings and Sevens)
+goranwe collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Kd 3s 7h Ks 2d]
+Seat 1: goranwe (button) showed [7d 6d] and won ($0.30) with two pair, Kings and Sevens
+Seat 3: laoban888 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: igrokkkk showed [As 2s] and lost with two pair, Kings and Deuces
+Seat 6: Seetor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213790151333:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/13 14:03:53 MSK [2020/05/13 7:03:53 ET]
+Table 'Euterpe IV' 6-max Seat #3 is the button
+Seat 1: goranwe ($2.44 in chips) 
+Seat 2: toniflori1980 ($5.65 in chips) 
+Seat 3: laoban888 ($2.04 in chips) 
+Seat 4: lawlex_2 ($2.13 in chips) 
+Seat 5: igrokkkk ($2.05 in chips) 
+Seat 6: Seetor ($0.89 in chips) 
+lawlex_2: posts small blind $0.01
+igrokkkk: posts big blind $0.02
+toniflori1980: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Qh]
+Seetor: raises $0.08 to $0.10
+goranwe: folds 
+toniflori1980: calls $0.08
+laoban888: folds 
+lawlex_2: folds 
+igrokkkk: folds 
+*** FLOP *** [8h Kh 8c]
+Seetor: checks 
+toniflori1980: checks 
+*** TURN *** [8h Kh 8c] [Tc]
+Seetor: checks 
+toniflori1980: bets $0.12
+Seetor: folds 
+Uncalled bet ($0.12) returned to toniflori1980
+toniflori1980 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8h Kh 8c Tc]
+Seat 1: goranwe folded before Flop (didn't bet)
+Seat 2: toniflori1980 collected ($0.23)
+Seat 3: laoban888 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: igrokkkk (big blind) folded before Flop
+Seat 6: Seetor folded on the Turn
+
+
+

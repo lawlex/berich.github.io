@@ -1,0 +1,4143 @@
+﻿PokerStars Hand #213726966366:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:00:59 MSK [2020/05/12 0:00:59 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: DenysPS780 ($1.57 in chips) 
+Seat 2: ace8eight ($2.90 in chips) 
+Seat 3: lawlex_2 ($1.63 in chips) 
+Seat 4: JO'Meara ($3.04 in chips) 
+Seat 5: oscarbagre ($0.90 in chips) 
+Seat 6: lexx8000 ($2 in chips) 
+lexx8000: posts small blind $0.01
+DenysPS780: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 7s]
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara: calls $0.02
+oscarbagre: calls $0.02
+lexx8000: folds 
+DenysPS780: checks 
+*** FLOP *** [Qc Ac 3h]
+DenysPS780: bets $0.10
+JO'Meara: folds 
+oscarbagre: calls $0.10
+*** TURN *** [Qc Ac 3h] [5d]
+DenysPS780: checks 
+oscarbagre: bets $0.26
+DenysPS780: folds 
+Uncalled bet ($0.26) returned to oscarbagre
+oscarbagre collected $0.26 from pot
+oscarbagre: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qc Ac 3h 5d]
+Seat 1: DenysPS780 (big blind) folded on the Turn
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara folded on the Flop
+Seat 5: oscarbagre (button) collected ($0.26)
+Seat 6: lexx8000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213726986145:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:01:54 MSK [2020/05/12 0:01:54 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: DenysPS780 ($1.45 in chips) 
+Seat 2: ace8eight ($2.90 in chips) 
+Seat 3: lawlex_2 ($1.63 in chips) 
+Seat 4: JO'Meara ($3.02 in chips) 
+Seat 5: oscarbagre ($1.04 in chips) 
+Seat 6: lexx8000 ($2 in chips) 
+DenysPS780: posts small blind $0.01
+ace8eight: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d As]
+lawlex_2: raises $0.03 to $0.05
+JO'Meara: folds 
+oscarbagre: folds 
+lexx8000: folds 
+DenysPS780: calls $0.04
+ace8eight: calls $0.03
+*** FLOP *** [9c 4s 8d]
+DenysPS780: checks 
+ace8eight: checks 
+lawlex_2: bets $0.09
+DenysPS780: folds 
+ace8eight: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9c 4s 8d]
+Seat 1: DenysPS780 (small blind) folded on the Flop
+Seat 2: ace8eight (big blind) folded on the Flop
+Seat 3: lawlex_2 collected ($0.14)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: oscarbagre folded before Flop (didn't bet)
+Seat 6: lexx8000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727000953:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:02:35 MSK [2020/05/12 0:02:35 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: DenysPS780 ($1.40 in chips) 
+Seat 2: ace8eight ($2.85 in chips) 
+Seat 3: lawlex_2 ($1.72 in chips) 
+Seat 4: JO'Meara ($3.02 in chips) 
+Seat 5: oscarbagre ($1.04 in chips) 
+Seat 6: lexx8000 ($2 in chips) 
+ace8eight: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 3d]
+JO'Meara: folds 
+oscarbagre: calls $0.02
+lexx8000: folds 
+DenysPS780: folds 
+DenysPS780 leaves the table
+ace8eight: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Jc 2c 8d]
+ace8eight: checks 
+lawlex_2: checks 
+oscarbagre: checks 
+*** TURN *** [Jc 2c 8d] [8s]
+ace8eight: bets $0.03
+lawlex_2: folds 
+oscarbagre: folds 
+Uncalled bet ($0.03) returned to ace8eight
+ace8eight collected $0.06 from pot
+ace8eight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jc 2c 8d 8s]
+Seat 1: DenysPS780 (button) folded before Flop (didn't bet)
+Seat 2: ace8eight (small blind) collected ($0.06)
+Seat 3: lawlex_2 (big blind) folded on the Turn
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: oscarbagre folded on the Turn
+Seat 6: lexx8000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727017746:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:03:21 MSK [2020/05/12 0:03:21 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 2: ace8eight ($2.89 in chips) 
+Seat 3: lawlex_2 ($1.70 in chips) 
+Seat 4: JO'Meara ($3.02 in chips) 
+Seat 5: oscarbagre ($1.02 in chips) 
+Seat 6: lexx8000 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 5s]
+oscarbagre: folds 
+lexx8000: folds 
+ace8eight: raises $0.04 to $0.06
+lawlex_2: folds 
+JO'Meara: folds 
+Uncalled bet ($0.04) returned to ace8eight
+ace8eight collected $0.05 from pot
+ace8eight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: ace8eight (button) collected ($0.05)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: JO'Meara (big blind) folded before Flop
+Seat 5: oscarbagre folded before Flop (didn't bet)
+Seat 6: lexx8000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727029050:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:03:51 MSK [2020/05/12 0:03:51 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 2: ace8eight ($2.92 in chips) 
+Seat 3: lawlex_2 ($1.69 in chips) 
+Seat 4: JO'Meara ($3 in chips) 
+Seat 6: lexx8000 ($2 in chips) 
+JO'Meara: posts small blind $0.01
+lexx8000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Kc]
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara: calls $0.01
+lexx8000: raises $0.04 to $0.06
+JO'Meara: folds 
+Uncalled bet ($0.04) returned to lexx8000
+lexx8000 collected $0.04 from pot
+lexx8000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: JO'Meara (small blind) folded before Flop
+Seat 6: lexx8000 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #213727037736:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:04:15 MSK [2020/05/12 0:04:15 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 2: ace8eight ($2.92 in chips) 
+Seat 3: lawlex_2 ($1.69 in chips) 
+Seat 4: JO'Meara ($2.98 in chips) 
+Seat 6: lexx8000 ($2.02 in chips) 
+lexx8000: posts small blind $0.01
+ace8eight: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 2d]
+lawlex_2: folds 
+JO'Meara: folds 
+lexx8000: folds 
+Uncalled bet ($0.01) returned to ace8eight
+ace8eight collected $0.02 from pot
+ace8eight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: ace8eight (big blind) collected ($0.02)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara (button) folded before Flop (didn't bet)
+Seat 6: lexx8000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213727041328:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:04:25 MSK [2020/05/12 0:04:25 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 2: ace8eight ($2.93 in chips) 
+Seat 3: lawlex_2 ($1.69 in chips) 
+Seat 4: JO'Meara ($2.98 in chips) 
+Seat 6: lexx8000 ($2.01 in chips) 
+ace8eight: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 5d]
+JO'Meara: folds 
+lexx8000: raises $0.05 to $0.07
+ace8eight: folds 
+lawlex_2: folds 
+Uncalled bet ($0.05) returned to lexx8000
+streetdad joins the table at seat #1 
+lexx8000 collected $0.05 from pot
+lexx8000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: ace8eight (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 6: lexx8000 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213727048680:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:04:45 MSK [2020/05/12 0:04:45 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 2: ace8eight ($2.92 in chips) 
+Seat 3: lawlex_2 ($1.67 in chips) 
+Seat 4: JO'Meara ($2.98 in chips) 
+Seat 6: lexx8000 ($2.04 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+streetdad: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 5h]
+lexx8000: folds 
+ace8eight: raises $0.04 to $0.06
+lawlex_2: folds 
+JO'Meara: folds 
+Uncalled bet ($0.04) returned to ace8eight
+ace8eight collected $0.05 from pot
+ace8eight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: ace8eight (button) collected ($0.05)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: JO'Meara (big blind) folded before Flop
+Seat 6: lexx8000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727057046:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:05:08 MSK [2020/05/12 0:05:08 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 2: ace8eight ($2.95 in chips) 
+Seat 3: lawlex_2 ($1.66 in chips) 
+Seat 4: JO'Meara ($2.96 in chips) 
+Seat 6: lexx8000 ($2.04 in chips) 
+JO'Meara: posts small blind $0.01
+lexx8000: posts big blind $0.02
+streetdad: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 6s]
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara: calls $0.01
+lexx8000: checks 
+*** FLOP *** [8h Kh 7s]
+JO'Meara: checks 
+lexx8000: checks 
+*** TURN *** [8h Kh 7s] [4d]
+JO'Meara: bets $0.02
+lexx8000: calls $0.02
+*** RIVER *** [8h Kh 7s 4d] [4c]
+JO'Meara: bets $0.02
+lexx8000: calls $0.02
+*** SHOW DOWN ***
+JO'Meara: shows [8d 2s] (two pair, Eights and Fours)
+lexx8000: mucks hand 
+JO'Meara collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8h Kh 7s 4d 4c]
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: JO'Meara (small blind) showed [8d 2s] and won ($0.12) with two pair, Eights and Fours
+Seat 6: lexx8000 (big blind) mucked [5c 7d]
+
+
+
+PokerStars Hand #213727068562:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:05:40 MSK [2020/05/12 0:05:40 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($0.80 in chips) 
+Seat 3: lawlex_2 ($1.66 in chips) 
+Seat 4: JO'Meara ($3.02 in chips) 
+Seat 6: lexx8000 ($2 in chips) 
+lexx8000: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 2d]
+lawlex_2: folds 
+JO'Meara: raises $0.04 to $0.06
+lexx8000: calls $0.05
+streetdad: calls $0.04
+*** FLOP *** [6h 5c 9s]
+lexx8000: checks 
+streetdad: checks 
+JO'Meara: checks 
+*** TURN *** [6h 5c 9s] [4d]
+lexx8000: bets $0.12
+streetdad: raises $0.12 to $0.24
+JO'Meara: folds 
+lexx8000: calls $0.12
+*** RIVER *** [6h 5c 9s 4d] [4c]
+lexx8000: checks 
+streetdad: bets $0.50 and is all-in
+lexx8000: folds 
+Uncalled bet ($0.50) returned to streetdad
+streetdad collected $0.64 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [6h 5c 9s 4d 4c]
+Seat 1: streetdad (big blind) collected ($0.64)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara (button) folded on the Turn
+Seat 6: lexx8000 (small blind) folded on the River
+
+
+
+PokerStars Hand #213727096840:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:06:39 MSK [2020/05/12 0:06:39 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($1.14 in chips) 
+Seat 3: lawlex_2 ($1.66 in chips) 
+Seat 4: JO'Meara ($2.96 in chips) 
+Seat 6: lexx8000 ($2 in chips) 
+streetdad: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Th]
+JO'Meara: folds 
+lexx8000: raises $0.05 to $0.07
+streetdad: folds 
+lawlex_2: calls $0.05
+*** FLOP *** [Qd 9c Ks]
+lawlex_2: bets $0.09
+lexx8000: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qd 9c Ks]
+Seat 1: streetdad (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.14)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 6: lexx8000 (button) folded on the Flop
+
+
+
+PokerStars Hand #213727108671:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:07:11 MSK [2020/05/12 0:07:11 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($1.13 in chips) 
+Seat 3: lawlex_2 ($1.73 in chips) 
+Seat 4: JO'Meara ($2.96 in chips) 
+Seat 6: lexx8000 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Qs]
+lexx8000: folds 
+streetdad: folds 
+lawlex_2: raises $0.03 to $0.05
+JO'Meara: calls $0.03
+*** FLOP *** [4c 2d 8h]
+lawlex_2: bets $0.07
+JO'Meara: raises $0.07 to $0.14
+lawlex_2: folds 
+Uncalled bet ($0.07) returned to JO'Meara
+JO'Meara collected $0.23 from pot
+JO'Meara: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4c 2d 8h]
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded on the Flop
+Seat 4: JO'Meara (big blind) collected ($0.23)
+Seat 6: lexx8000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727115315:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:07:30 MSK [2020/05/12 0:07:30 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($1.13 in chips) 
+Seat 3: lawlex_2 ($1.61 in chips) 
+Seat 4: JO'Meara ($3.07 in chips) 
+JO'Meara: posts small blind $0.01
+lexx8000: is sitting out 
+lexx8000 leaves the table
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Js]
+lawlex_2: raises $0.03 to $0.05
+JO'Meara: folds 
+streetdad: calls $0.03
+*** FLOP *** [6c 2h Ts]
+streetdad: checks 
+lawlex_2: bets $0.07
+streetdad: calls $0.07
+*** TURN *** [6c 2h Ts] [Th]
+streetdad: checks 
+lawlex_2: checks 
+*** RIVER *** [6c 2h Ts Th] [6s]
+streetdad: bets $0.20
+lawlex_2: folds 
+Uncalled bet ($0.20) returned to streetdad
+streetdad collected $0.24 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c 2h Ts Th 6s]
+Seat 1: streetdad (big blind) collected ($0.24)
+Seat 3: lawlex_2 (button) folded on the River
+Seat 4: JO'Meara (small blind) folded before Flop
+
+
+
+PokerStars Hand #213727129997:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:08:11 MSK [2020/05/12 0:08:11 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($1.25 in chips) 
+Seat 3: lawlex_2 ($1.49 in chips) 
+Seat 4: JO'Meara ($3.06 in chips) 
+streetdad: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Kc]
+JO'Meara: folds 
+streetdad: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: streetdad (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.02)
+Seat 4: JO'Meara (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727132571:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:08:18 MSK [2020/05/12 0:08:18 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($1.24 in chips) 
+Seat 3: lawlex_2 ($1.50 in chips) 
+Seat 4: JO'Meara ($3.06 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Js]
+streetdad: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+JO'Meara: folds 
+streetdad: calls $0.03
+*** FLOP *** [2c Ah 5c]
+lawlex_2: bets $0.08
+streetdad: calls $0.08
+*** TURN *** [2c Ah 5c] [4d]
+lawlex_2: bets $0.18
+streetdad: raises $0.93 to $1.11 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.93) returned to streetdad
+streetdad collected $0.62 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [2c Ah 5c 4d]
+Seat 1: streetdad (button) collected ($0.62)
+Seat 3: lawlex_2 (small blind) folded on the Turn
+Seat 4: JO'Meara (big blind) folded before Flop
+
+
+
+PokerStars Hand #213727149382:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:09:05 MSK [2020/05/12 0:09:05 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($1.55 in chips) 
+Seat 2: ace8eight ($2.95 in chips) 
+Seat 3: lawlex_2 ($1.19 in chips) 
+Seat 4: JO'Meara ($3.04 in chips) 
+JO'Meara: posts small blind $0.01
+streetdad: posts big blind $0.02
+ace8eight: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 8s]
+ace8eight: checks 
+lawlex_2: folds 
+JO'Meara: raises $0.07 to $0.09
+streetdad: calls $0.07
+ace8eight: folds 
+*** FLOP *** [7s Js Th]
+JO'Meara: checks 
+streetdad: checks 
+*** TURN *** [7s Js Th] [6h]
+JO'Meara: checks 
+streetdad: checks 
+*** RIVER *** [7s Js Th 6h] [4d]
+JO'Meara: checks 
+streetdad: checks 
+*** SHOW DOWN ***
+JO'Meara: shows [As Qd] (high card Ace)
+streetdad: mucks hand 
+JO'Meara collected $0.20 from pot
+oscarbagre was removed from the table for failing to post
+oscarbagre leaves the table
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [7s Js Th 6h 4d]
+Seat 1: streetdad (big blind) mucked [Ks 8h]
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: JO'Meara (small blind) showed [As Qd] and won ($0.20) with high card Ace
+
+
+
+PokerStars Hand #213727163134:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:09:43 MSK [2020/05/12 0:09:43 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($1.46 in chips) 
+Seat 2: ace8eight ($2.92 in chips) 
+Seat 3: lawlex_2 ($1.19 in chips) 
+Seat 4: JO'Meara ($3.15 in chips) 
+streetdad: posts small blind $0.01
+ace8eight: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Tc]
+lawlex_2: folds 
+JO'Meara: folds 
+streetdad: calls $0.01
+JO'Meara leaves the table
+ace8eight: checks 
+*** FLOP *** [7d 9h 6c]
+streetdad: checks 
+ace8eight: checks 
+*** TURN *** [7d 9h 6c] [3c]
+streetdad: bets $0.04
+ace8eight: calls $0.04
+*** RIVER *** [7d 9h 6c 3c] [2d]
+streetdad: checks 
+ace8eight: bets $0.12
+streetdad: folds 
+Uncalled bet ($0.12) returned to ace8eight
+ace8eight collected $0.12 from pot
+ace8eight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7d 9h 6c 3c 2d]
+Seat 1: streetdad (small blind) folded on the River
+Seat 2: ace8eight (big blind) collected ($0.12)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727173854:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:10:14 MSK [2020/05/12 0:10:14 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($1.40 in chips) 
+Seat 2: ace8eight ($2.98 in chips) 
+Seat 3: lawlex_2 ($1.19 in chips) 
+ace8eight: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Ks]
+streetdad: folds 
+ace8eight: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Kh 5s 3d]
+ace8eight: checks 
+lawlex_2: bets $0.03
+ace8eight: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Kh 5s 3d]
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 2: ace8eight (small blind) folded on the Flop
+Seat 3: lawlex_2 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #213727179365:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:10:29 MSK [2020/05/12 0:10:29 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($1.40 in chips) 
+Seat 2: ace8eight ($2.96 in chips) 
+Seat 3: lawlex_2 ($1.21 in chips) 
+lawlex_2: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c As]
+ace8eight: folds 
+lawlex_2: raises $0.03 to $0.05
+streetdad: calls $0.03
+*** FLOP *** [6h 5h Qh]
+lawlex_2: bets $0.07
+ace8eight leaves the table
+streetdad: calls $0.07
+*** TURN *** [6h 5h Qh] [Qd]
+lawlex_2: bets $0.15
+streetdad: calls $0.15
+*** RIVER *** [6h 5h Qh Qd] [Qs]
+lawlex_2: checks 
+streetdad: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [3c As] (three of a kind, Queens)
+streetdad: shows [Ah 6c] (a full house, Queens full of Sixes)
+streetdad collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [6h 5h Qh Qd Qs]
+Seat 1: streetdad (big blind) showed [Ah 6c] and won ($0.52) with a full house, Queens full of Sixes
+Seat 2: ace8eight (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) showed [3c As] and lost with three of a kind, Queens
+
+
+
+PokerStars Hand #213727190775:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:11:01 MSK [2020/05/12 0:11:01 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($1.65 in chips) 
+Seat 3: lawlex_2 ($0.94 in chips) 
+streetdad: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Jh]
+streetdad: calls $0.01
+GamerAndr joins the table at seat #2 
+lawlex_2: raises $0.03 to $0.05
+streetdad: calls $0.03
+*** FLOP *** [6d Ad 8c]
+lawlex_2: bets $0.07
+streetdad: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.10 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6d Ad 8c]
+Seat 1: streetdad (button) (small blind) folded on the Flop
+Seat 3: lawlex_2 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #213727196487:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:11:17 MSK [2020/05/12 0:11:17 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($1.60 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.99 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 7h]
+lawlex_2: folds 
+streetdad: calls $0.01
+GamerAndr: checks 
+*** FLOP *** [Qs 7d 3h]
+streetdad: checks 
+krakow20 joins the table at seat #4 
+GamerAndr: checks 
+*** TURN *** [Qs 7d 3h] [Td]
+streetdad: checks 
+GamerAndr: checks 
+*** RIVER *** [Qs 7d 3h Td] [5s]
+Ale Gaddor joins the table at seat #6 
+streetdad: bets $0.08
+GamerAndr: folds 
+Uncalled bet ($0.08) returned to streetdad
+streetdad collected $0.04 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qs 7d 3h Td 5s]
+Seat 1: streetdad (small blind) collected ($0.04)
+Seat 2: GamerAndr (big blind) folded on the River
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727207952:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:11:49 MSK [2020/05/12 0:11:49 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($1.62 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.99 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+krakow20: sits out 
+Ale Gaddor: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Jc]
+streetdad: folds 
+lv2hvthenuts joins the table at seat #5 
+GamerAndr: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213727213500:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:12:05 MSK [2020/05/12 0:12:05 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($1.62 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($1 in chips) 
+Seat 4: krakow20 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+krakow20: posts big blind $0.02
+lv2hvthenuts: sits out 
+Ale Gaddor: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 7h]
+streetdad: folds 
+GamerAndr: raises $0.03 to $0.05
+lawlex_2: folds 
+krakow20: folds 
+Uncalled bet ($0.03) returned to GamerAndr
+GamerAndr collected $0.05 from pot
+GamerAndr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr (button) collected ($0.05)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: krakow20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213727219007:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:12:20 MSK [2020/05/12 0:12:20 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($1.62 in chips) 
+Seat 2: GamerAndr ($2.03 in chips) 
+Seat 3: lawlex_2 ($0.99 in chips) 
+Seat 4: krakow20 ($2 in chips) 
+Seat 5: lv2hvthenuts ($2 in chips) 
+krakow20: posts small blind $0.01
+lv2hvthenuts: posts big blind $0.02
+Ale Gaddor: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 2c]
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: folds 
+krakow20: folds 
+lv2hvthenuts: checks 
+*** FLOP *** [3h Th 5s]
+lv2hvthenuts: checks 
+streetdad: checks 
+*** TURN *** [3h Th 5s] [Ks]
+lv2hvthenuts: checks 
+streetdad: checks 
+*** RIVER *** [3h Th 5s Ks] [Qc]
+lv2hvthenuts: checks 
+streetdad: checks 
+*** SHOW DOWN ***
+lv2hvthenuts: shows [7h 2s] (high card King)
+streetdad: shows [As 6h] (high card Ace)
+streetdad collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h Th 5s Ks Qc]
+Seat 1: streetdad showed [As 6h] and won ($0.05) with high card Ace
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: krakow20 (small blind) folded before Flop
+Seat 5: lv2hvthenuts (big blind) showed [7h 2s] and lost with high card King
+
+
+
+PokerStars Hand #213727226229:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:12:40 MSK [2020/05/12 0:12:40 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($1.65 in chips) 
+Seat 2: GamerAndr ($2.03 in chips) 
+Seat 3: lawlex_2 ($0.99 in chips) 
+Seat 4: krakow20 ($2 in chips) 
+Seat 5: lv2hvthenuts ($1.98 in chips) 
+Seat 6: Ale Gaddor ($1 in chips) 
+lv2hvthenuts: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 9h]
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+krakow20: calls $0.05
+lv2hvthenuts: folds 
+Ale Gaddor: folds 
+*** FLOP *** [As 7h 2h]
+lawlex_2: bets $0.09
+krakow20: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [As 7h 2h]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 collected ($0.13)
+Seat 4: krakow20 (button) folded on the Flop
+Seat 5: lv2hvthenuts (small blind) folded before Flop
+Seat 6: Ale Gaddor (big blind) folded before Flop
+
+
+
+PokerStars Hand #213727235547:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:13:06 MSK [2020/05/12 0:13:06 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($1.65 in chips) 
+Seat 2: GamerAndr ($2.03 in chips) 
+Seat 3: lawlex_2 ($1.07 in chips) 
+Seat 4: krakow20 ($2 in chips) 
+Seat 5: lv2hvthenuts ($1.97 in chips) 
+Seat 6: Ale Gaddor ($0.98 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 3c]
+GamerAndr: folds 
+lawlex_2: folds 
+krakow20: calls $0.02
+lv2hvthenuts: folds 
+Ale Gaddor: raises $0.06 to $0.08
+streetdad: folds 
+krakow20: folds 
+Uncalled bet ($0.06) returned to Ale Gaddor
+Ale Gaddor collected $0.06 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: streetdad (big blind) folded before Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: krakow20 folded before Flop
+Seat 5: lv2hvthenuts (button) folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #213727243213:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:13:28 MSK [2020/05/12 0:13:28 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($1.63 in chips) 
+Seat 2: GamerAndr ($2.03 in chips) 
+Seat 3: lawlex_2 ($1.07 in chips) 
+Seat 4: krakow20 ($2 in chips) 
+Seat 5: lv2hvthenuts ($1.97 in chips) 
+Seat 6: Ale Gaddor ($1.02 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 6h]
+lawlex_2: raises $0.03 to $0.05
+krakow20: folds 
+lv2hvthenuts: calls $0.05
+Ale Gaddor: folds 
+streetdad: calls $0.04
+GamerAndr: calls $0.03
+*** FLOP *** [Tc Js 7c]
+streetdad: checks 
+GamerAndr: checks 
+lawlex_2: bets $0.13
+lv2hvthenuts: calls $0.13
+streetdad: folds 
+GamerAndr: folds 
+*** TURN *** [Tc Js 7c] [As]
+lawlex_2: bets $0.29
+lv2hvthenuts: raises $0.51 to $0.80
+lawlex_2: calls $0.51
+*** RIVER *** [Tc Js 7c As] [Qs]
+lawlex_2: checks 
+lv2hvthenuts: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Ad 6h] (a pair of Aces)
+lv2hvthenuts: shows [Th Ah] (two pair, Aces and Tens)
+lv2hvthenuts collected $1.99 from pot
+*** SUMMARY ***
+Total pot $2.06 | Rake $0.07 
+Board [Tc Js 7c As Qs]
+Seat 1: streetdad (small blind) folded on the Flop
+Seat 2: GamerAndr (big blind) folded on the Flop
+Seat 3: lawlex_2 showed [Ad 6h] and lost with a pair of Aces
+Seat 4: krakow20 folded before Flop (didn't bet)
+Seat 5: lv2hvthenuts showed [Th Ah] and won ($1.99) with two pair, Aces and Tens
+Seat 6: Ale Gaddor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727267049:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:14:35 MSK [2020/05/12 0:14:35 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($1.58 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.09 in chips) 
+Seat 4: krakow20 ($2 in chips) 
+Seat 5: lv2hvthenuts ($2.98 in chips) 
+Seat 6: Ale Gaddor ($1.02 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 5d]
+krakow20: calls $0.02
+lv2hvthenuts: folds 
+Ale Gaddor: folds 
+streetdad: folds 
+lv2hvthenuts leaves the table
+GamerAndr: folds 
+Kai 666741 joins the table at seat #5 
+lawlex_2: raises $0.05 to $0.07
+krakow20: folds 
+Uncalled bet ($0.05) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.05)
+Seat 4: krakow20 folded before Flop
+Seat 5: lv2hvthenuts folded before Flop (didn't bet)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727272794:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:14:52 MSK [2020/05/12 0:14:52 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($1.58 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.12 in chips) 
+Seat 4: krakow20 ($2 in chips) 
+Seat 6: Ale Gaddor ($1.02 in chips) 
+lawlex_2: posts small blind $0.01
+krakow20: posts big blind $0.02
+Kai 666741: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Ah]
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: raises $0.06 to $0.08
+lawlex_2: raises $0.04 to $0.12 and is all-in
+krakow20: folds 
+streetdad: folds 
+GamerAndr: calls $0.04
+*** FLOP *** [7c 7h Qc]
+*** TURN *** [7c 7h Qc] [Ad]
+*** RIVER *** [7c 7h Qc Ad] [2d]
+*** SHOW DOWN ***
+lawlex_2: shows [4h Ah] (two pair, Aces and Sevens)
+GamerAndr: shows [Jc Kd] (a pair of Sevens)
+lawlex_2 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [7c 7h Qc Ad 2d]
+Seat 1: streetdad folded before Flop
+Seat 2: GamerAndr (button) showed [Jc Kd] and lost with a pair of Sevens
+Seat 3: lawlex_2 (small blind) showed [4h Ah] and won ($0.27) with two pair, Aces and Sevens
+Seat 4: krakow20 (big blind) folded before Flop
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727283228:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:15:21 MSK [2020/05/12 0:15:21 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($1.56 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.27 in chips) 
+Seat 4: krakow20 ($2 in chips) 
+Seat 5: Kai 666741 ($0.80 in chips) 
+Seat 6: Ale Gaddor ($1.02 in chips) 
+krakow20: posts small blind $0.01
+Kai 666741: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 8d]
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: folds 
+krakow20: calls $0.01
+Kai 666741: checks 
+*** FLOP *** [3c 9s 6h]
+krakow20: checks 
+Kai 666741: checks 
+streetdad: checks 
+*** TURN *** [3c 9s 6h] [7h]
+krakow20: checks 
+Kai 666741: bets $0.02
+streetdad: calls $0.02
+krakow20: folds 
+*** RIVER *** [3c 9s 6h 7h] [3s]
+Kai 666741: bets $0.02
+streetdad: calls $0.02
+*** SHOW DOWN ***
+Kai 666741: shows [7s 5c] (two pair, Sevens and Threes)
+streetdad: mucks hand 
+Kai 666741 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3c 9s 6h 7h 3s]
+Seat 1: streetdad mucked [Ah 5s]
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: krakow20 (small blind) folded on the Turn
+Seat 5: Kai 666741 (big blind) showed [7s 5c] and won ($0.14) with two pair, Sevens and Threes
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727291014:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:15:44 MSK [2020/05/12 0:15:44 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($1.50 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.27 in chips) 
+Seat 4: krakow20 ($2 in chips) 
+Seat 5: Kai 666741 ($0.88 in chips) 
+Seat 6: Ale Gaddor ($1.02 in chips) 
+Kai 666741: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Kh]
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+krakow20: folds 
+Kai 666741: calls $0.01
+Ale Gaddor: checks 
+*** FLOP *** [Ac 7d Qc]
+Kai 666741: bets $0.02
+Ale Gaddor: calls $0.02
+*** TURN *** [Ac 7d Qc] [3h]
+Kai 666741: bets $0.02
+Ale Gaddor: calls $0.02
+*** RIVER *** [Ac 7d Qc 3h] [3s]
+Kai 666741: bets $0.02
+Ale Gaddor: calls $0.02
+*** SHOW DOWN ***
+Kai 666741: shows [Qd 4c] (two pair, Queens and Threes)
+Ale Gaddor: mucks hand 
+Kai 666741 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ac 7d Qc 3h 3s]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: krakow20 (button) folded before Flop (didn't bet)
+Seat 5: Kai 666741 (small blind) showed [Qd 4c] and won ($0.15) with two pair, Queens and Threes
+Seat 6: Ale Gaddor (big blind) mucked [7h 9d]
+
+
+
+PokerStars Hand #213727303929:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:16:21 MSK [2020/05/12 0:16:21 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($1.50 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.27 in chips) 
+Seat 4: krakow20 ($2 in chips) 
+Seat 5: Kai 666741 ($0.95 in chips) 
+Seat 6: Ale Gaddor ($0.94 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 6s]
+GamerAndr: folds 
+lawlex_2: folds 
+krakow20: raises $0.02 to $0.04
+Kai 666741: calls $0.04
+Ale Gaddor: folds 
+streetdad: calls $0.02
+*** FLOP *** [4s 7h Jd]
+streetdad: checks 
+krakow20: bets $0.06
+Kai 666741: folds 
+streetdad: folds 
+Uncalled bet ($0.06) returned to krakow20
+krakow20 collected $0.13 from pot
+krakow20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4s 7h Jd]
+Seat 1: streetdad (big blind) folded on the Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: krakow20 collected ($0.13)
+Seat 5: Kai 666741 (button) folded on the Flop
+Seat 6: Ale Gaddor (small blind) folded before Flop
+
+
+
+PokerStars Hand #213727315149:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:16:52 MSK [2020/05/12 0:16:52 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($1.46 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.27 in chips) 
+Seat 5: Kai 666741 ($0.91 in chips) 
+Seat 6: Ale Gaddor ($0.93 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 7c]
+krakow20 leaves the table
+lawlex_2: folds 
+Kai 666741: calls $0.02
+Ale Gaddor: folds 
+streetdad: calls $0.01
+GamerAndr: checks 
+*** FLOP *** [Qd 5d 5s]
+streetdad: checks 
+GamerAndr: checks 
+Kai 666741: checks 
+*** TURN *** [Qd 5d 5s] [Td]
+streetdad: checks 
+RAULRIVERAM joins the table at seat #4 
+GamerAndr: bets $0.04
+Kai 666741: folds 
+streetdad: folds 
+Uncalled bet ($0.04) returned to GamerAndr
+GamerAndr collected $0.06 from pot
+GamerAndr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qd 5d 5s Td]
+Seat 1: streetdad (small blind) folded on the Turn
+Seat 2: GamerAndr (big blind) collected ($0.06)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Kai 666741 folded on the Turn
+Seat 6: Ale Gaddor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727345315:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:17:28 MSK [2020/05/12 0:17:28 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($1.44 in chips) 
+Seat 2: GamerAndr ($2.04 in chips) 
+Seat 3: lawlex_2 ($0.27 in chips) 
+Seat 5: Kai 666741 ($0.89 in chips) 
+Seat 6: Ale Gaddor ($0.93 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+RAULRIVERAM: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 5d]
+Kai 666741: folds 
+Ale Gaddor: raises $0.04 to $0.06
+streetdad: calls $0.06
+GamerAndr: folds 
+lawlex_2: folds 
+*** FLOP *** [4h 6s Ks]
+Ale Gaddor: checks 
+streetdad: checks 
+*** TURN *** [4h 6s Ks] [Tc]
+Ale Gaddor: bets $0.06
+streetdad: raises $0.06 to $0.12
+Ale Gaddor: folds 
+Uncalled bet ($0.06) returned to streetdad
+streetdad collected $0.26 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [4h 6s Ks Tc]
+Seat 1: streetdad (button) collected ($0.26)
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 5: Kai 666741 folded before Flop (didn't bet)
+Seat 6: Ale Gaddor folded on the Turn
+
+
+
+PokerStars Hand #213727359455:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:18:09 MSK [2020/05/12 0:18:09 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($1.58 in chips) 
+Seat 2: GamerAndr ($2.03 in chips) 
+Seat 3: lawlex_2 ($0.25 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: Kai 666741 ($0.89 in chips) 
+Seat 6: Ale Gaddor ($0.81 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Ts]
+Kai 666741: calls $0.02
+Ale Gaddor: calls $0.02
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+Kai 666741: folds 
+Ale Gaddor: calls $0.03
+streetdad: calls $0.03
+*** FLOP *** [4c Th Kc]
+lawlex_2: bets $0.12
+Ale Gaddor: folds 
+streetdad: calls $0.12
+*** TURN *** [4c Th Kc] [9s]
+lawlex_2: bets $0.08 and is all-in
+streetdad: calls $0.08
+*** RIVER *** [4c Th Kc 9s] [Js]
+*** SHOW DOWN ***
+lawlex_2: shows [Jd Ts] (two pair, Jacks and Tens)
+streetdad: shows [Kh 5h] (a pair of Kings)
+lawlex_2 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [4c Th Kc 9s Js]
+Seat 1: streetdad showed [Kh 5h] and lost with a pair of Kings
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) showed [Jd Ts] and won ($0.57) with two pair, Jacks and Tens
+Seat 4: RAULRIVERAM (big blind) folded before Flop
+Seat 5: Kai 666741 folded before Flop
+Seat 6: Ale Gaddor folded on the Flop
+
+
+
+PokerStars Hand #213727377974:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:19:02 MSK [2020/05/12 0:19:02 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($1.33 in chips) 
+Seat 2: GamerAndr ($2.03 in chips) 
+Seat 3: lawlex_2 ($0.57 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: Kai 666741 ($0.87 in chips) 
+Seat 6: Ale Gaddor ($0.76 in chips) 
+RAULRIVERAM: posts small blind $0.01
+Kai 666741: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 4d]
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: raises $0.03 to $0.05
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Kai 666741: calls $0.03
+*** FLOP *** [Kc Tc Kh]
+Kai 666741: bets $0.02
+GamerAndr: calls $0.02
+*** TURN *** [Kc Tc Kh] [Ac]
+Kai 666741: bets $0.02
+GamerAndr: folds 
+Uncalled bet ($0.02) returned to Kai 666741
+Kai 666741 collected $0.14 from pot
+Kai 666741: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kc Tc Kh Ac]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded on the Turn
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 5: Kai 666741 (big blind) collected ($0.14)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727390918:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:19:39 MSK [2020/05/12 0:19:39 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($1.33 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.57 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: Kai 666741 ($0.94 in chips) 
+Seat 6: Ale Gaddor ($0.76 in chips) 
+Kai 666741: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Ah]
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+Kai 666741: calls $0.04
+Ale Gaddor: folds 
+streetdad: calls $0.03
+*** FLOP *** [4s Jc Ks]
+Kai 666741: bets $0.02
+streetdad: raises $0.02 to $0.04
+lawlex_2: folds 
+Kai 666741: calls $0.02
+*** TURN *** [4s Jc Ks] [Kc]
+Kai 666741: bets $0.02
+streetdad: raises $0.04 to $0.06
+Kai 666741: calls $0.04
+*** RIVER *** [4s Jc Ks Kc] [7c]
+Kai 666741: bets $0.02
+streetdad: raises $0.12 to $0.14
+Kai 666741: folds 
+Uncalled bet ($0.12) returned to streetdad
+streetdad collected $0.40 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [4s Jc Ks Kc 7c]
+Seat 1: streetdad collected ($0.40)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded on the Flop
+Seat 4: RAULRIVERAM (button) folded before Flop (didn't bet)
+Seat 5: Kai 666741 (small blind) folded on the River
+Seat 6: Ale Gaddor (big blind) folded before Flop
+
+
+
+PokerStars Hand #213727407946:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:20:28 MSK [2020/05/12 0:20:28 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($1.56 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.52 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: Kai 666741 ($0.77 in chips) 
+Seat 6: Ale Gaddor ($0.74 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 6d]
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Kai 666741: calls $0.02
+Ale Gaddor: calls $0.01
+streetdad: checks 
+*** FLOP *** [7h 8s 4c]
+Ale Gaddor: checks 
+streetdad: checks 
+Kai 666741: bets $0.02
+Ale Gaddor: folds 
+streetdad: calls $0.02
+*** TURN *** [7h 8s 4c] [Ts]
+streetdad: checks 
+Kai 666741: bets $0.02
+streetdad: calls $0.02
+*** RIVER *** [7h 8s 4c Ts] [Tc]
+streetdad: checks 
+Kai 666741: checks 
+*** SHOW DOWN ***
+streetdad: shows [9c 5s] (a pair of Tens)
+Kai 666741: shows [Ad 3c] (a pair of Tens - Ace kicker)
+Kai 666741 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7h 8s 4c Ts Tc]
+Seat 1: streetdad (big blind) showed [9c 5s] and lost with a pair of Tens
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: Kai 666741 (button) showed [Ad 3c] and won ($0.14) with a pair of Tens
+Seat 6: Ale Gaddor (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213727419978:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:21:03 MSK [2020/05/12 0:21:03 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($1.50 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.52 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: Kai 666741 ($0.85 in chips) 
+Seat 6: Ale Gaddor ($0.72 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 7c]
+lawlex_2: folds 
+RAULRIVERAM: raises $0.04 to $0.06
+Kai 666741: folds 
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: folds 
+Uncalled bet ($0.04) returned to RAULRIVERAM
+RAULRIVERAM collected $0.05 from pot
+RAULRIVERAM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (small blind) folded before Flop
+Seat 2: GamerAndr (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM collected ($0.05)
+Seat 5: Kai 666741 folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727426378:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:21:21 MSK [2020/05/12 0:21:21 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($1.49 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.52 in chips) 
+Seat 4: RAULRIVERAM ($2.03 in chips) 
+Seat 5: Kai 666741 ($0.85 in chips) 
+Seat 6: Ale Gaddor ($0.72 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 9s]
+RAULRIVERAM: folds 
+Kai 666741: calls $0.02
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: checks 
+*** FLOP *** [7c 8h Kc]
+lawlex_2: bets $0.03
+Kai 666741: raises $0.80 to $0.83 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.80) returned to Kai 666741
+Kai 666741 collected $0.11 from pot
+Kai 666741: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7c 8h Kc]
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the Flop
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: Kai 666741 collected ($0.11)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727436148:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:21:49 MSK [2020/05/12 0:21:49 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($1.49 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($0.47 in chips) 
+Seat 4: RAULRIVERAM ($2.03 in chips) 
+Seat 5: Kai 666741 ($0.91 in chips) 
+Seat 6: Ale Gaddor ($0.72 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 8d]
+Kai 666741: calls $0.02
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: calls $0.03
+Kai 666741: calls $0.03
+streetdad: calls $0.03
+*** FLOP *** [7d Jh 5h]
+lawlex_2: bets $0.13
+RAULRIVERAM: calls $0.13
+Kai 666741: folds 
+streetdad: calls $0.13
+*** TURN *** [7d Jh 5h] [Qs]
+lawlex_2: bets $0.29 and is all-in
+RAULRIVERAM: calls $0.29
+streetdad: calls $0.29
+*** RIVER *** [7d Jh 5h Qs] [Jc]
+RAULRIVERAM: checks 
+streetdad: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [8h 8d] (two pair, Jacks and Eights)
+RAULRIVERAM: mucks hand 
+streetdad: shows [Qh 9h] (two pair, Queens and Jacks)
+streetdad collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [7d Jh 5h Qs Jc]
+Seat 1: streetdad showed [Qh 9h] and won ($1.41) with two pair, Queens and Jacks
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) showed [8h 8d] and lost with two pair, Jacks and Eights
+Seat 4: RAULRIVERAM (big blind) mucked [9c 8c]
+Seat 5: Kai 666741 folded on the Flop
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727476718:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:23:46 MSK [2020/05/12 0:23:46 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($2.64 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($2 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: Kai 666741 ($0.85 in chips) 
+Seat 6: Ale Gaddor ($0.50 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 6h]
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: raises $0.04 to $0.06
+Kai 666741: folds 
+Ale Gaddor: folds 
+streetdad: folds 
+Uncalled bet ($0.04) returned to RAULRIVERAM
+RAULRIVERAM collected $0.05 from pot
+RAULRIVERAM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (big blind) folded before Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM collected ($0.05)
+Seat 5: Kai 666741 (button) folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (small blind) folded before Flop
+
+
+
+PokerStars Hand #213727482105:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:24:02 MSK [2020/05/12 0:24:02 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($2.62 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($2 in chips) 
+Seat 4: RAULRIVERAM ($2.03 in chips) 
+Seat 5: Kai 666741 ($0.85 in chips) 
+Seat 6: Ale Gaddor ($0.49 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Tc]
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Kai 666741: calls $0.02
+Ale Gaddor: raises $0.47 to $0.49 and is all-in
+streetdad: folds 
+GamerAndr: folds 
+Kai 666741: folds 
+Uncalled bet ($0.47) returned to Ale Gaddor
+Ale Gaddor collected $0.07 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: streetdad (small blind) folded before Flop
+Seat 2: GamerAndr (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: Kai 666741 folded before Flop
+Seat 6: Ale Gaddor (button) collected ($0.07)
+
+
+
+PokerStars Hand #213727488484:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:24:20 MSK [2020/05/12 0:24:20 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($2.61 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($2 in chips) 
+Seat 4: RAULRIVERAM ($2.03 in chips) 
+Seat 5: Kai 666741 ($0.83 in chips) 
+Seat 6: Ale Gaddor ($0.54 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Js]
+RAULRIVERAM: folds 
+Kai 666741: calls $0.02
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: checks 
+*** FLOP *** [9s Ah 8h]
+lawlex_2: bets $0.05
+Kai 666741: calls $0.05
+streetdad: folds 
+*** TURN *** [9s Ah 8h] [Qd]
+lawlex_2: checks 
+Kai 666741: checks 
+*** RIVER *** [9s Ah 8h Qd] [4d]
+lawlex_2: checks 
+Kai 666741: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to Kai 666741
+Kai 666741 collected $0.16 from pot
+Kai 666741: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9s Ah 8h Qd 4d]
+Seat 1: streetdad (button) folded on the Flop
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the River
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: Kai 666741 collected ($0.16)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727499059:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:24:51 MSK [2020/05/12 0:24:51 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($2.59 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($1.93 in chips) 
+Seat 4: RAULRIVERAM ($2.03 in chips) 
+Seat 5: Kai 666741 ($0.92 in chips) 
+Seat 6: Ale Gaddor ($0.54 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 2h]
+Kai 666741: calls $0.02
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: checks 
+*** FLOP *** [Td Ad As]
+RAULRIVERAM: checks 
+Kai 666741: checks 
+*** TURN *** [Td Ad As] [Ac]
+RAULRIVERAM: checks 
+Kai 666741: checks 
+*** RIVER *** [Td Ad As Ac] [3d]
+RAULRIVERAM: checks 
+Kai 666741: checks 
+*** SHOW DOWN ***
+RAULRIVERAM: shows [6s 4s] (three of a kind, Aces)
+Kai 666741: shows [7d Jh] (three of a kind, Aces - Jack kicker)
+Kai 666741 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Td Ad As Ac 3d]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) showed [6s 4s] and lost with three of a kind, Aces
+Seat 5: Kai 666741 showed [7d Jh] and won ($0.05) with three of a kind, Aces
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727509605:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:25:21 MSK [2020/05/12 0:25:21 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($2.59 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($1.92 in chips) 
+Seat 4: RAULRIVERAM ($2.01 in chips) 
+Seat 5: Kai 666741 ($0.95 in chips) 
+Seat 6: Ale Gaddor ($0.54 in chips) 
+RAULRIVERAM: posts small blind $0.01
+Kai 666741: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 7s]
+Ale Gaddor: raises $0.52 to $0.54 and is all-in
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Kai 666741: folds 
+Uncalled bet ($0.52) returned to Ale Gaddor
+Ale Gaddor collected $0.05 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 5: Kai 666741 (big blind) folded before Flop
+Seat 6: Ale Gaddor collected ($0.05)
+
+
+
+PokerStars Hand #213727515046:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:25:37 MSK [2020/05/12 0:25:37 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($2.59 in chips) 
+Seat 2: GamerAndr ($2 in chips) 
+Seat 3: lawlex_2 ($1.92 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: Kai 666741 ($0.93 in chips) 
+Seat 6: Ale Gaddor ($0.57 in chips) 
+Kai 666741: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 9h]
+streetdad: calls $0.02
+GamerAndr: raises $0.06 to $0.08
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Kai 666741: calls $0.07
+Ale Gaddor: folds 
+streetdad: calls $0.06
+*** FLOP *** [4d Td 6s]
+Kai 666741: bets $0.85 and is all-in
+streetdad: folds 
+GamerAndr: calls $0.85
+*** TURN *** [4d Td 6s] [5c]
+*** RIVER *** [4d Td 6s 5c] [2d]
+*** SHOW DOWN ***
+Kai 666741: shows [6h Th] (two pair, Tens and Sixes)
+GamerAndr: shows [Ad Qd] (a flush, Ace high)
+GamerAndr collected $1.89 from pot
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.07 
+Board [4d Td 6s 5c 2d]
+Seat 1: streetdad folded on the Flop
+Seat 2: GamerAndr showed [Ad Qd] and won ($1.89) with a flush, Ace high
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (button) folded before Flop (didn't bet)
+Seat 5: Kai 666741 (small blind) showed [6h Th] and lost with two pair, Tens and Sixes
+Seat 6: Ale Gaddor (big blind) folded before Flop
+
+
+
+PokerStars Hand #213727528670:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:26:17 MSK [2020/05/12 0:26:17 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($2.51 in chips) 
+Seat 2: GamerAndr ($2.96 in chips) 
+Seat 3: lawlex_2 ($1.92 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 6: Ale Gaddor ($0.55 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Qh]
+lawlex_2: raises $0.03 to $0.05
+Kai 666741 leaves the table
+RAULRIVERAM: folds 
+Ale Gaddor: calls $0.05
+streetdad: folds 
+GamerAndr: folds 
+*** FLOP *** [4c Ac 8s]
+juangamv joins the table at seat #5 
+lawlex_2: checks 
+Ale Gaddor: bets $0.08
+lawlex_2: folds 
+Uncalled bet ($0.08) returned to Ale Gaddor
+Ale Gaddor collected $0.13 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c Ac 8s]
+Seat 1: streetdad (small blind) folded before Flop
+Seat 2: GamerAndr (big blind) folded before Flop
+Seat 3: lawlex_2 folded on the Flop
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (button) collected ($0.13)
+
+
+
+PokerStars Hand #213727546159:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:27:08 MSK [2020/05/12 0:27:08 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($2.50 in chips) 
+Seat 2: GamerAndr ($2.94 in chips) 
+Seat 3: lawlex_2 ($1.87 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 6: Ale Gaddor ($0.63 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+juangamv: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Kd]
+RAULRIVERAM: folds 
+Ale Gaddor: raises $0.04 to $0.06
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: raises $0.04 to $0.10
+Ale Gaddor: calls $0.04
+*** FLOP *** [Ks 3c Td]
+lawlex_2: bets $0.13
+Ale Gaddor: calls $0.13
+*** TURN *** [Ks 3c Td] [3h]
+lawlex_2: bets $0.30
+Ale Gaddor: folds 
+Uncalled bet ($0.30) returned to lawlex_2
+lawlex_2 collected $0.45 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Ks 3c Td 3h]
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.45)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 6: Ale Gaddor folded on the Turn
+
+
+
+PokerStars Hand #213727566710:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:28:08 MSK [2020/05/12 0:28:08 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($2.50 in chips) 
+Seat 2: GamerAndr ($2.93 in chips) 
+Seat 3: lawlex_2 ($2.09 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 6: Ale Gaddor ($0.40 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 6d]
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: raises $0.03 to $0.05
+lawlex_2: folds 
+RAULRIVERAM: calls $0.03
+*** FLOP *** [6h 7s 2d]
+RAULRIVERAM: checks 
+GamerAndr: checks 
+*** TURN *** [6h 7s 2d] [Qc]
+RAULRIVERAM: checks 
+GamerAndr: bets $0.06
+RAULRIVERAM: calls $0.06
+*** RIVER *** [6h 7s 2d Qc] [3h]
+RAULRIVERAM: checks 
+GamerAndr: checks 
+*** SHOW DOWN ***
+RAULRIVERAM: shows [Qd Td] (a pair of Queens)
+GamerAndr: mucks hand 
+RAULRIVERAM collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [6h 7s 2d Qc 3h]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr (button) mucked [Th Ah]
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) showed [Qd Td] and won ($0.22) with a pair of Queens
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727582762:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:28:55 MSK [2020/05/12 0:28:55 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($2.50 in chips) 
+Seat 2: GamerAndr ($2.82 in chips) 
+Seat 3: lawlex_2 ($2.08 in chips) 
+Seat 4: RAULRIVERAM ($2.11 in chips) 
+Seat 6: Ale Gaddor ($0.40 in chips) 
+RAULRIVERAM: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Kc]
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Uncalled bet ($0.01) returned to Ale Gaddor
+Ale Gaddor collected $0.02 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 6: Ale Gaddor (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213727586262:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:29:05 MSK [2020/05/12 0:29:05 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($2.50 in chips) 
+Seat 2: GamerAndr ($2.82 in chips) 
+Seat 3: lawlex_2 ($2.08 in chips) 
+Seat 4: RAULRIVERAM ($2.10 in chips) 
+Seat 6: Ale Gaddor ($0.41 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 2s]
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+Ale Gaddor: folds 
+streetdad: calls $0.03
+*** FLOP *** [5d As 5c]
+streetdad: checks 
+lawlex_2: bets $0.07
+streetdad: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5d As 5c]
+Seat 1: streetdad (big blind) folded on the Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 collected ($0.11)
+Seat 4: RAULRIVERAM (button) folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (small blind) folded before Flop
+
+
+
+PokerStars Hand #213727598033:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:29:39 MSK [2020/05/12 0:29:39 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($2.45 in chips) 
+Seat 2: GamerAndr ($2.82 in chips) 
+Seat 3: lawlex_2 ($2.14 in chips) 
+Seat 4: RAULRIVERAM ($2.10 in chips) 
+Seat 6: Ale Gaddor ($0.40 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Kc]
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Ale Gaddor: raises $0.04 to $0.06
+streetdad: calls $0.05
+GamerAndr: folds 
+*** FLOP *** [4c Td 7s]
+streetdad: checks 
+Ale Gaddor: bets $0.34 and is all-in
+streetdad: folds 
+Uncalled bet ($0.34) returned to Ale Gaddor
+Ale Gaddor collected $0.14 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4c Td 7s]
+Seat 1: streetdad (small blind) folded on the Flop
+Seat 2: GamerAndr (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (button) collected ($0.14)
+
+
+
+PokerStars Hand #213727621068:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:30:46 MSK [2020/05/12 0:30:46 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($2.39 in chips) 
+Seat 2: GamerAndr ($2.80 in chips) 
+Seat 3: lawlex_2 ($2.14 in chips) 
+Seat 4: RAULRIVERAM ($2.10 in chips) 
+Seat 6: Ale Gaddor ($0.48 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 9s]
+RAULRIVERAM: folds 
+Ale Gaddor: raises $0.02 to $0.04
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to Ale Gaddor
+Ale Gaddor collected $0.05 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 6: Ale Gaddor collected ($0.05)
+
+
+
+PokerStars Hand #213727628465:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:31:07 MSK [2020/05/12 0:31:07 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($2.39 in chips) 
+Seat 2: GamerAndr ($2.79 in chips) 
+Seat 3: lawlex_2 ($2.12 in chips) 
+Seat 4: RAULRIVERAM ($2.10 in chips) 
+Seat 6: Ale Gaddor ($0.51 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+juangamv: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 3c]
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: checks 
+*** FLOP *** [5s 9c 4d]
+RAULRIVERAM: bets $0.04
+streetdad: folds 
+Uncalled bet ($0.04) returned to RAULRIVERAM
+RAULRIVERAM collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5s 9c 4d]
+Seat 1: streetdad folded on the Flop
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) collected ($0.05)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727637784:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:31:34 MSK [2020/05/12 0:31:34 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($2.37 in chips) 
+Seat 2: GamerAndr ($2.79 in chips) 
+Seat 3: lawlex_2 ($2.11 in chips) 
+Seat 4: RAULRIVERAM ($2.13 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.51 in chips) 
+RAULRIVERAM: posts small blind $0.01
+juangamv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 5d]
+Ale Gaddor: raises $0.02 to $0.04
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+Uncalled bet ($0.02) returned to Ale Gaddor
+Ale Gaddor collected $0.05 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 5: juangamv (big blind) folded before Flop
+Seat 6: Ale Gaddor collected ($0.05)
+
+
+
+PokerStars Hand #213727648308:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:32:05 MSK [2020/05/12 0:32:05 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($2.37 in chips) 
+Seat 2: GamerAndr ($2.79 in chips) 
+Seat 3: lawlex_2 ($2.11 in chips) 
+Seat 4: RAULRIVERAM ($2.12 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.54 in chips) 
+juangamv: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Qh]
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: calls $0.03
+*** FLOP *** [2h 6c 7c]
+streetdad: checks 
+lawlex_2: checks 
+*** TURN *** [2h 6c 7c] [Qd]
+streetdad: bets $0.08
+lawlex_2: calls $0.08
+*** RIVER *** [2h 6c 7c Qd] [Td]
+streetdad: bets $0.12
+lawlex_2: calls $0.12
+*** SHOW DOWN ***
+streetdad: shows [5c Kd] (high card King)
+lawlex_2: shows [Ks Qh] (a pair of Queens)
+lawlex_2 collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [2h 6c 7c Qd Td]
+Seat 1: streetdad showed [5c Kd] and lost with high card King
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 showed [Ks Qh] and won ($0.51) with a pair of Queens
+Seat 4: RAULRIVERAM (button) folded before Flop (didn't bet)
+Seat 5: juangamv (small blind) folded before Flop
+Seat 6: Ale Gaddor (big blind) folded before Flop
+
+
+
+PokerStars Hand #213727676362:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:33:00 MSK [2020/05/12 0:33:00 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($2.12 in chips) 
+Seat 2: GamerAndr ($2.79 in chips) 
+Seat 3: lawlex_2 ($2.37 in chips) 
+Seat 4: RAULRIVERAM ($2.12 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.52 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 5s]
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: raises $0.04 to $0.06
+Ale Gaddor: folds 
+streetdad: calls $0.04
+*** FLOP *** [Qh 9h Ad]
+streetdad: checks 
+juangamv: bets $0.04
+streetdad: calls $0.04
+*** TURN *** [Qh 9h Ad] [Qs]
+streetdad: bets $0.04
+juangamv: calls $0.04
+*** RIVER *** [Qh 9h Ad Qs] [2s]
+streetdad: bets $0.10
+juangamv: folds 
+Uncalled bet ($0.10) returned to streetdad
+streetdad collected $0.28 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qh 9h Ad Qs 2s]
+Seat 1: streetdad (big blind) collected ($0.28)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv (button) folded on the River
+Seat 6: Ale Gaddor (small blind) folded before Flop
+
+
+
+PokerStars Hand #213727697928:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:34:03 MSK [2020/05/12 0:34:03 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($2.26 in chips) 
+Seat 2: GamerAndr ($2.79 in chips) 
+Seat 3: lawlex_2 ($2.37 in chips) 
+Seat 4: RAULRIVERAM ($2.12 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.51 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d As]
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: calls $0.04
+GamerAndr: folds 
+*** FLOP *** [7s Tc Kd]
+streetdad: bets $0.04
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to streetdad
+streetdad collected $0.12 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7s Tc Kd]
+Seat 1: streetdad (small blind) collected ($0.12)
+Seat 2: GamerAndr (big blind) folded before Flop
+Seat 3: lawlex_2 folded on the Flop
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727709615:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:34:37 MSK [2020/05/12 0:34:37 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($2.33 in chips) 
+Seat 2: GamerAndr ($2.77 in chips) 
+Seat 3: lawlex_2 ($2.32 in chips) 
+Seat 4: RAULRIVERAM ($2.12 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.51 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 3c]
+RAULRIVERAM: folds 
+juangamv has timed out
+juangamv: folds 
+Ale Gaddor: raises $0.04 to $0.06
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Ale Gaddor
+Ale Gaddor collected $0.05 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor collected ($0.05)
+
+
+
+PokerStars Hand #213727719671:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:35:07 MSK [2020/05/12 0:35:07 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($2.33 in chips) 
+Seat 2: GamerAndr ($2.76 in chips) 
+Seat 3: lawlex_2 ($2.30 in chips) 
+Seat 4: RAULRIVERAM ($2.12 in chips) 
+Seat 6: Ale Gaddor ($0.54 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Ks]
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: checks 
+*** FLOP *** [7d 9h 6s]
+RAULRIVERAM: checks 
+streetdad: checks 
+*** TURN *** [7d 9h 6s] [Td]
+RAULRIVERAM: checks 
+streetdad: checks 
+*** RIVER *** [7d 9h 6s Td] [8s]
+RAULRIVERAM: checks 
+streetdad: checks 
+*** SHOW DOWN ***
+RAULRIVERAM: shows [7h 4s] (a straight, Six to Ten)
+streetdad: shows [Jd 3d] (a straight, Seven to Jack)
+streetdad collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7d 9h 6s Td 8s]
+Seat 1: streetdad showed [Jd 3d] and won ($0.05) with a straight, Seven to Jack
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) showed [7h 4s] and lost with a straight, Six to Ten
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727728716:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:35:33 MSK [2020/05/12 0:35:33 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($2.36 in chips) 
+Seat 2: GamerAndr ($2.76 in chips) 
+Seat 3: lawlex_2 ($2.29 in chips) 
+Seat 4: RAULRIVERAM ($2.10 in chips) 
+Seat 6: Ale Gaddor ($0.54 in chips) 
+RAULRIVERAM: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Td]
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+Ale Gaddor: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) collected ($0.05)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 6: Ale Gaddor (big blind) folded before Flop
+
+
+
+PokerStars Hand #213727734522:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:35:50 MSK [2020/05/12 0:35:50 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($2.36 in chips) 
+Seat 2: GamerAndr ($2.76 in chips) 
+Seat 3: lawlex_2 ($2.32 in chips) 
+Seat 4: RAULRIVERAM ($2.09 in chips) 
+Seat 6: Ale Gaddor ($0.52 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Ac]
+GamerAndr: folds 
+lawlex_2: calls $0.02
+RAULRIVERAM: folds 
+Ale Gaddor: folds 
+streetdad: checks 
+*** FLOP *** [Ks 2s Js]
+streetdad: checks 
+lawlex_2: bets $0.03
+streetdad: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ks 2s Js]
+Seat 1: streetdad (big blind) folded on the Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 collected ($0.05)
+Seat 4: RAULRIVERAM (button) folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (small blind) folded before Flop
+
+
+
+PokerStars Hand #213727748656:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:36:32 MSK [2020/05/12 0:36:32 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($2.34 in chips) 
+Seat 2: GamerAndr ($2.76 in chips) 
+Seat 3: lawlex_2 ($2.35 in chips) 
+Seat 4: RAULRIVERAM ($2.09 in chips) 
+Seat 6: Ale Gaddor ($0.51 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+juangamv: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 4h]
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Ale Gaddor: folds 
+streetdad: calls $0.01
+GamerAndr: raises $0.06 to $0.08
+streetdad: calls $0.06
+*** FLOP *** [8h 3d 3h]
+streetdad: checks 
+GamerAndr: bets $0.09
+streetdad: folds 
+Uncalled bet ($0.09) returned to GamerAndr
+GamerAndr collected $0.15 from pot
+GamerAndr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [8h 3d 3h]
+Seat 1: streetdad (small blind) folded on the Flop
+Seat 2: GamerAndr (big blind) collected ($0.15)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727766138:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:37:23 MSK [2020/05/12 0:37:23 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($2.26 in chips) 
+Seat 2: GamerAndr ($2.83 in chips) 
+Seat 3: lawlex_2 ($2.35 in chips) 
+Seat 4: RAULRIVERAM ($2.09 in chips) 
+Seat 6: Ale Gaddor ($0.51 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+juangamv: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Ad]
+RAULRIVERAM: folds 
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: checks 
+*** FLOP *** [6h Jd 2d]
+lawlex_2: bets $0.03
+streetdad: raises $0.03 to $0.06
+lawlex_2: calls $0.03
+*** TURN *** [6h Jd 2d] [Ks]
+lawlex_2: bets $0.11
+streetdad: calls $0.11
+*** RIVER *** [6h Jd 2d Ks] [Kh]
+lawlex_2: checks 
+streetdad: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [5d Ad] (a pair of Kings)
+streetdad: shows [Qh Jh] (two pair, Kings and Jacks)
+streetdad collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [6h Jd 2d Ks Kh]
+Seat 1: streetdad (button) showed [Qh Jh] and won ($0.38) with two pair, Kings and Jacks
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) showed [5d Ad] and lost with a pair of Kings
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727779358:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:38:01 MSK [2020/05/12 0:38:01 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($2.45 in chips) 
+Seat 2: GamerAndr ($2.82 in chips) 
+Seat 3: lawlex_2 ($2.16 in chips) 
+Seat 4: RAULRIVERAM ($2.09 in chips) 
+Seat 6: Ale Gaddor ($0.51 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+juangamv: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Kc]
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: raises $0.03 to $0.05
+lawlex_2: folds 
+RAULRIVERAM: calls $0.03
+*** FLOP *** [9h 6h 9c]
+RAULRIVERAM: checks 
+GamerAndr: checks 
+*** TURN *** [9h 6h 9c] [Qs]
+RAULRIVERAM: checks 
+GamerAndr: bets $0.06
+RAULRIVERAM: calls $0.06
+*** RIVER *** [9h 6h 9c Qs] [Js]
+RAULRIVERAM: checks 
+GamerAndr: checks 
+*** SHOW DOWN ***
+RAULRIVERAM: shows [Ac 6c] (two pair, Nines and Sixes)
+GamerAndr: shows [Jh 8h] (two pair, Jacks and Nines)
+GamerAndr collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [9h 6h 9c Qs Js]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr (button) showed [Jh 8h] and won ($0.22) with two pair, Jacks and Nines
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) showed [Ac 6c] and lost with two pair, Nines and Sixes
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727794231:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:38:46 MSK [2020/05/12 0:38:46 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($2.45 in chips) 
+Seat 2: GamerAndr ($2.93 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.51 in chips) 
+RAULRIVERAM: posts small blind $0.01
+juangamv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 2c]
+Ale Gaddor has timed out
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: calls $0.01
+juangamv: checks 
+*** FLOP *** [8d 5h 7d]
+RAULRIVERAM: bets $0.03
+juangamv: folds 
+Uncalled bet ($0.03) returned to RAULRIVERAM
+RAULRIVERAM collected $0.04 from pot
+RAULRIVERAM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8d 5h 7d]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) collected ($0.04)
+Seat 5: juangamv (big blind) folded on the Flop
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727807141:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:39:24 MSK [2020/05/12 0:39:24 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($2.45 in chips) 
+Seat 2: GamerAndr ($2.93 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: RAULRIVERAM ($2.02 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.51 in chips) 
+juangamv: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Js]
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+Uncalled bet ($0.01) returned to Ale Gaddor
+Ale Gaddor collected $0.02 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (button) folded before Flop (didn't bet)
+Seat 5: juangamv (small blind) folded before Flop
+Seat 6: Ale Gaddor (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213727810634:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:39:34 MSK [2020/05/12 0:39:34 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($2.45 in chips) 
+Seat 2: GamerAndr ($2.93 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: RAULRIVERAM ($2.02 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.52 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 2c]
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: raises $0.04 to $0.06
+streetdad: calls $0.04
+*** FLOP *** [Js Th 9c]
+Ale Gaddor: checks 
+streetdad: checks 
+*** TURN *** [Js Th 9c] [5h]
+Ale Gaddor: checks 
+streetdad: checks 
+*** RIVER *** [Js Th 9c 5h] [7s]
+Ale Gaddor: checks 
+streetdad: bets $0.12
+Ale Gaddor: folds 
+Uncalled bet ($0.12) returned to streetdad
+streetdad collected $0.12 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Js Th 9c 5h 7s]
+Seat 1: streetdad (big blind) collected ($0.12)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv (button) folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (small blind) folded on the River
+
+
+
+PokerStars Hand #213727829247:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:40:30 MSK [2020/05/12 0:40:30 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($2.51 in chips) 
+Seat 2: GamerAndr ($2.93 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: RAULRIVERAM ($2.02 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.46 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Qc]
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (small blind) folded before Flop
+Seat 2: GamerAndr (big blind) folded before Flop
+Seat 3: lawlex_2 collected ($0.05)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727837461:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:40:55 MSK [2020/05/12 0:40:55 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($2.50 in chips) 
+Seat 2: GamerAndr ($2.91 in chips) 
+Seat 3: lawlex_2 ($2.18 in chips) 
+Seat 4: RAULRIVERAM ($2.02 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.46 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Th]
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: raises $0.06 to $0.08
+lawlex_2: folds 
+streetdad: folds 
+Uncalled bet ($0.06) returned to GamerAndr
+GamerAndr collected $0.06 from pot
+GamerAndr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: streetdad (button) folded before Flop
+Seat 2: GamerAndr (small blind) collected ($0.06)
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727845917:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:41:20 MSK [2020/05/12 0:41:20 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($2.48 in chips) 
+Seat 2: GamerAndr ($2.95 in chips) 
+Seat 3: lawlex_2 ($2.16 in chips) 
+Seat 4: RAULRIVERAM ($2.02 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.46 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Qs]
+juangamv: folds 
+Ale Gaddor: raises $0.04 to $0.06
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Uncalled bet ($0.04) returned to Ale Gaddor
+Ale Gaddor collected $0.05 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) folded before Flop
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor collected ($0.05)
+
+
+
+PokerStars Hand #213727855741:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:41:50 MSK [2020/05/12 0:41:50 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($2.48 in chips) 
+Seat 2: GamerAndr ($2.95 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.49 in chips) 
+RAULRIVERAM: posts small blind $0.01
+juangamv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 6h]
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: checks 
+*** FLOP *** [6c Jh Qc]
+juangamv: checks 
+streetdad: checks 
+*** TURN *** [6c Jh Qc] [Jc]
+juangamv: checks 
+streetdad: checks 
+*** RIVER *** [6c Jh Qc Jc] [Qs]
+juangamv: checks 
+streetdad: checks 
+*** SHOW DOWN ***
+juangamv: shows [7s Kd] (two pair, Queens and Jacks)
+streetdad: shows [Ks 4c] (two pair, Queens and Jacks)
+juangamv collected $0.03 from pot
+streetdad collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6c Jh Qc Jc Qs]
+Seat 1: streetdad showed [Ks 4c] and won ($0.02) with two pair, Queens and Jacks
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 5: juangamv (big blind) showed [7s Kd] and won ($0.03) with two pair, Queens and Jacks
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727871631:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:42:38 MSK [2020/05/12 0:42:38 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($2.48 in chips) 
+Seat 2: GamerAndr ($2.95 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2.01 in chips) 
+Seat 6: Ale Gaddor ($0.49 in chips) 
+juangamv: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 6d]
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+Uncalled bet ($0.01) returned to Ale Gaddor
+Ale Gaddor collected $0.02 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (button) folded before Flop (didn't bet)
+Seat 5: juangamv (small blind) folded before Flop
+Seat 6: Ale Gaddor (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213727876460:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:42:52 MSK [2020/05/12 0:42:52 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($2.48 in chips) 
+Seat 2: GamerAndr ($2.95 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.50 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Qh]
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+Uncalled bet ($0.01) returned to streetdad
+streetdad collected $0.02 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: streetdad (big blind) collected ($0.02)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv (button) folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (small blind) folded before Flop
+
+
+
+PokerStars Hand #213727881761:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:43:08 MSK [2020/05/12 0:43:08 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($2.49 in chips) 
+Seat 2: GamerAndr ($2.95 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.49 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 9c]
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (small blind) folded before Flop
+Seat 2: GamerAndr (big blind) folded before Flop
+Seat 3: lawlex_2 collected ($0.05)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727887289:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:43:25 MSK [2020/05/12 0:43:25 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($2.48 in chips) 
+Seat 2: GamerAndr ($2.93 in chips) 
+Seat 3: lawlex_2 ($2.18 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.49 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 9s]
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: checks 
+*** FLOP *** [8d Kd Kc]
+lawlex_2: checks 
+streetdad: checks 
+*** TURN *** [8d Kd Kc] [Ks]
+lawlex_2: checks 
+streetdad: checks 
+*** RIVER *** [8d Kd Kc Ks] [Jc]
+lawlex_2: checks 
+streetdad: bets $0.08
+lawlex_2: folds 
+Uncalled bet ($0.08) returned to streetdad
+streetdad collected $0.05 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d Kd Kc Ks Jc]
+Seat 1: streetdad (button) collected ($0.05)
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the River
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727899110:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:44:01 MSK [2020/05/12 0:44:01 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($2.51 in chips) 
+Seat 2: GamerAndr ($2.92 in chips) 
+Seat 3: lawlex_2 ($2.16 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.49 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 4s]
+juangamv: raises $0.04 to $0.06
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Uncalled bet ($0.04) returned to juangamv
+juangamv collected $0.05 from pot
+juangamv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) folded before Flop
+Seat 5: juangamv collected ($0.05)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727906812:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:44:24 MSK [2020/05/12 0:44:24 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($2.51 in chips) 
+Seat 2: GamerAndr ($2.92 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2.03 in chips) 
+Seat 6: Ale Gaddor ($0.49 in chips) 
+RAULRIVERAM: posts small blind $0.01
+juangamv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 4d]
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: raises $0.06 to $0.08
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+streetdad: calls $0.06
+*** FLOP *** [Td 7s Js]
+streetdad: checks 
+GamerAndr: checks 
+*** TURN *** [Td 7s Js] [7c]
+streetdad: bets $0.08
+GamerAndr: folds 
+Uncalled bet ($0.08) returned to streetdad
+streetdad collected $0.18 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Td 7s Js 7c]
+Seat 1: streetdad collected ($0.18)
+Seat 2: GamerAndr folded on the Turn
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 5: juangamv (big blind) folded before Flop
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727922037:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:45:10 MSK [2020/05/12 0:45:10 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($2.61 in chips) 
+Seat 2: GamerAndr ($2.84 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2.01 in chips) 
+Seat 6: Ale Gaddor ($0.49 in chips) 
+juangamv: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 4h]
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: calls $0.05
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: calls $0.03
+*** FLOP *** [9c Qc Ah]
+streetdad: checks 
+lawlex_2: checks 
+RAULRIVERAM: checks 
+*** TURN *** [9c Qc Ah] [5c]
+streetdad: checks 
+lawlex_2: checks 
+RAULRIVERAM: checks 
+*** RIVER *** [9c Qc Ah 5c] [6c]
+streetdad: checks 
+lawlex_2: checks 
+RAULRIVERAM: checks 
+*** SHOW DOWN ***
+streetdad: shows [3s Ac] (a flush, Ace high)
+lawlex_2: mucks hand 
+RAULRIVERAM: mucks hand 
+streetdad collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [9c Qc Ah 5c 6c]
+Seat 1: streetdad showed [3s Ac] and won ($0.17) with a flush, Ace high
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 mucked [4d 4h]
+Seat 4: RAULRIVERAM (button) mucked [9s 9d]
+Seat 5: juangamv (small blind) folded before Flop
+Seat 6: Ale Gaddor (big blind) folded before Flop
+
+
+
+PokerStars Hand #213727947159:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:46:06 MSK [2020/05/12 0:46:06 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($2.73 in chips) 
+Seat 2: GamerAndr ($2.84 in chips) 
+Seat 3: lawlex_2 ($2.10 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.47 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Ad]
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (big blind) folded before Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 collected ($0.05)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv (button) folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (small blind) folded before Flop
+
+
+
+PokerStars Hand #213727951932:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:46:20 MSK [2020/05/12 0:46:20 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($2.71 in chips) 
+Seat 2: GamerAndr ($2.84 in chips) 
+Seat 3: lawlex_2 ($2.13 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.46 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Ah]
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (small blind) folded before Flop
+Seat 2: GamerAndr (big blind) folded before Flop
+Seat 3: lawlex_2 collected ($0.05)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727959231:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:46:42 MSK [2020/05/12 0:46:42 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($2.70 in chips) 
+Seat 2: GamerAndr ($2.82 in chips) 
+Seat 3: lawlex_2 ($2.16 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.46 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Qh]
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+streetdad: calls $0.03
+*** FLOP *** [9h Kh 7d]
+lawlex_2: bets $0.07
+streetdad: calls $0.07
+*** TURN *** [9h Kh 7d] [5c]
+lawlex_2: bets $0.16
+streetdad: calls $0.16
+*** RIVER *** [9h Kh 7d 5c] [Qs]
+lawlex_2: checks 
+streetdad: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Tc Qh] (a pair of Queens)
+streetdad: shows [Ks Jh] (a pair of Kings)
+streetdad collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [9h Kh 7d 5c Qs]
+Seat 1: streetdad (button) showed [Ks Jh] and won ($0.55) with a pair of Kings
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) showed [Tc Qh] and lost with a pair of Queens
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213727978839:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:47:42 MSK [2020/05/12 0:47:42 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($2.97 in chips) 
+Seat 2: GamerAndr ($2.81 in chips) 
+Seat 3: lawlex_2 ($1.88 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.46 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Ad]
+juangamv: folds 
+Ale Gaddor: raises $0.02 to $0.04
+streetdad: calls $0.04
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: calls $0.02
+*** FLOP *** [Qh 5h 4h]
+RAULRIVERAM: checks 
+Ale Gaddor: bets $0.06
+streetdad: calls $0.06
+RAULRIVERAM: folds 
+*** TURN *** [Qh 5h 4h] [Ah]
+Ale Gaddor: checks 
+streetdad: checks 
+*** RIVER *** [Qh 5h 4h Ah] [3h]
+Ale Gaddor: bets $0.36 and is all-in
+streetdad: calls $0.36
+*** SHOW DOWN ***
+Ale Gaddor: shows [As 9h] (a flush, Ace high)
+streetdad: shows [9s Qc] (a flush, Ace high - lower cards)
+Ale Gaddor collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03 
+Board [Qh 5h 4h Ah 3h]
+Seat 1: streetdad showed [9s Qc] and lost with a flush, Ace high
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) folded on the Flop
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor showed [As 9h] and won ($0.94) with a flush, Ace high
+
+
+
+PokerStars Hand #213728001244:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:48:51 MSK [2020/05/12 0:48:51 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($2.51 in chips) 
+Seat 2: GamerAndr ($2.81 in chips) 
+Seat 3: lawlex_2 ($1.87 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.94 in chips) 
+RAULRIVERAM: posts small blind $0.01
+juangamv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 9s]
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: calls $0.01
+juangamv: checks 
+*** FLOP *** [Kh 5d Ts]
+RAULRIVERAM: checks 
+juangamv: checks 
+*** TURN *** [Kh 5d Ts] [2s]
+RAULRIVERAM: checks 
+juangamv: checks 
+*** RIVER *** [Kh 5d Ts 2s] [6d]
+RAULRIVERAM: checks 
+juangamv: checks 
+*** SHOW DOWN ***
+RAULRIVERAM: shows [3s Ah] (high card Ace)
+juangamv: mucks hand 
+RAULRIVERAM collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Kh 5d Ts 2s 6d]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) showed [3s Ah] and won ($0.04) with high card Ace
+Seat 5: juangamv (big blind) mucked [7s 9d]
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728030509:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:49:52 MSK [2020/05/12 0:49:52 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($2.51 in chips) 
+Seat 2: GamerAndr ($2.81 in chips) 
+Seat 3: lawlex_2 ($1.87 in chips) 
+Seat 4: RAULRIVERAM ($2.02 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.94 in chips) 
+juangamv: posts small blind $0.01
+Ale Gaddor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Qh]
+streetdad: folds 
+GamerAndr: raises $0.04 to $0.06
+lawlex_2: folds 
+RAULRIVERAM: calls $0.06
+juangamv: folds 
+Ale Gaddor: folds 
+*** FLOP *** [3c 6c 7h]
+GamerAndr: bets $0.08
+RAULRIVERAM: calls $0.08
+*** TURN *** [3c 6c 7h] [5s]
+GamerAndr: checks 
+RAULRIVERAM: bets $0.15
+GamerAndr: calls $0.15
+*** RIVER *** [3c 6c 7h 5s] [Ah]
+GamerAndr: checks 
+RAULRIVERAM: checks 
+*** SHOW DOWN ***
+GamerAndr: shows [Qc Jc] (high card Ace)
+RAULRIVERAM: shows [9d 9s] (a pair of Nines)
+RAULRIVERAM collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [3c 6c 7h 5s Ah]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr showed [Qc Jc] and lost with high card Ace
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (button) showed [9d 9s] and won ($0.59) with a pair of Nines
+Seat 5: juangamv (small blind) folded before Flop
+Seat 6: Ale Gaddor (big blind) folded before Flop
+
+
+
+PokerStars Hand #213728047592:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:50:46 MSK [2020/05/12 0:50:46 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($2.51 in chips) 
+Seat 2: GamerAndr ($2.52 in chips) 
+Seat 3: lawlex_2 ($1.87 in chips) 
+Seat 4: RAULRIVERAM ($2.32 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.92 in chips) 
+Ale Gaddor: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 4c]
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: raises $0.04 to $0.06
+streetdad: calls $0.04
+*** FLOP *** [Qc 6s Qs]
+Ale Gaddor: checks 
+streetdad: checks 
+*** TURN *** [Qc 6s Qs] [5d]
+Ale Gaddor: bets $0.06
+streetdad: folds 
+Uncalled bet ($0.06) returned to Ale Gaddor
+Ale Gaddor collected $0.12 from pot
+Ale Gaddor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qc 6s Qs 5d]
+Seat 1: streetdad (big blind) folded on the Turn
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv (button) folded before Flop (didn't bet)
+Seat 6: Ale Gaddor (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #213728063967:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:51:36 MSK [2020/05/12 0:51:36 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: streetdad ($2.45 in chips) 
+Seat 2: GamerAndr ($2.52 in chips) 
+Seat 3: lawlex_2 ($1.87 in chips) 
+Seat 4: RAULRIVERAM ($2.32 in chips) 
+Seat 5: juangamv ($2 in chips) 
+Seat 6: Ale Gaddor ($0.98 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 6d]
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: raises $0.04 to $0.06
+Ale Gaddor: folds 
+streetdad: calls $0.05
+GamerAndr: folds 
+*** FLOP *** [4h 8d 6h]
+streetdad: checks 
+juangamv: bets $0.02
+streetdad: calls $0.02
+*** TURN *** [4h 8d 6h] [Ad]
+streetdad: checks 
+juangamv: checks 
+*** RIVER *** [4h 8d 6h Ad] [6s]
+streetdad: checks 
+juangamv: checks 
+*** SHOW DOWN ***
+streetdad: shows [4c Qh] (two pair, Sixes and Fours)
+juangamv: shows [Td Th] (two pair, Tens and Sixes)
+juangamv collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [4h 8d 6h Ad 6s]
+Seat 1: streetdad (small blind) showed [4c Qh] and lost with two pair, Sixes and Fours
+Seat 2: GamerAndr (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv showed [Td Th] and won ($0.17) with two pair, Tens and Sixes
+Seat 6: Ale Gaddor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728080081:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:52:26 MSK [2020/05/12 0:52:26 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($2.37 in chips) 
+Seat 2: GamerAndr ($2.50 in chips) 
+Seat 3: lawlex_2 ($1.87 in chips) 
+Seat 4: RAULRIVERAM ($2.32 in chips) 
+Seat 5: juangamv ($2.09 in chips) 
+Seat 6: Ale Gaddor ($0.98 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 5s]
+RAULRIVERAM: folds 
+juangamv: folds 
+Ale Gaddor: folds 
+streetdad: calls $0.02
+GamerAndr: raises $0.06 to $0.08
+lawlex_2: folds 
+streetdad: calls $0.06
+*** FLOP *** [2s Ts 5d]
+GamerAndr: bets $0.11
+streetdad: folds 
+Uncalled bet ($0.11) returned to GamerAndr
+GamerAndr collected $0.17 from pot
+GamerAndr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [2s Ts 5d]
+Seat 1: streetdad (button) folded on the Flop
+Seat 2: GamerAndr (small blind) collected ($0.17)
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728090414:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:52:57 MSK [2020/05/12 0:52:57 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($2.29 in chips) 
+Seat 2: GamerAndr ($2.59 in chips) 
+Seat 3: lawlex_2 ($1.85 in chips) 
+Seat 4: RAULRIVERAM ($2.32 in chips) 
+Seat 5: juangamv ($2.09 in chips) 
+Seat 6: Ale Gaddor ($0.98 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 6s]
+juangamv: raises $0.04 to $0.06
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: calls $0.04
+*** FLOP *** [4d Td 5d]
+RAULRIVERAM: checks 
+juangamv: bets $0.04
+RAULRIVERAM: calls $0.04
+*** TURN *** [4d Td 5d] [Kd]
+RAULRIVERAM: checks 
+juangamv: bets $0.07
+RAULRIVERAM: calls $0.07
+*** RIVER *** [4d Td 5d Kd] [6c]
+RAULRIVERAM: checks 
+juangamv: bets $0.42
+RAULRIVERAM: folds 
+Uncalled bet ($0.42) returned to juangamv
+juangamv collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [4d Td 5d Kd 6c]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) folded on the River
+Seat 5: juangamv collected ($0.34)
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728107623:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:53:50 MSK [2020/05/12 0:53:50 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($2.29 in chips) 
+Seat 2: GamerAndr ($2.59 in chips) 
+Seat 3: lawlex_2 ($1.84 in chips) 
+Seat 4: RAULRIVERAM ($2.15 in chips) 
+Seat 5: juangamv ($2.26 in chips) 
+Seat 6: Ale Gaddor ($0.98 in chips) 
+RAULRIVERAM: posts small blind $0.01
+juangamv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 2s]
+Ale Gaddor: folds 
+streetdad: folds 
+GamerAndr: raises $0.03 to $0.05
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: calls $0.03
+*** FLOP *** [6h 8s 6d]
+juangamv: checks 
+GamerAndr: bets $0.06
+Ale Gaddor is disconnected 
+juangamv: calls $0.06
+*** TURN *** [6h 8s 6d] [9c]
+juangamv: checks 
+GamerAndr: checks 
+*** RIVER *** [6h 8s 6d 9c] [7c]
+juangamv: checks 
+GamerAndr: checks 
+*** SHOW DOWN ***
+juangamv: shows [Td 9d] (a straight, Six to Ten)
+GamerAndr: mucks hand 
+juangamv collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [6h 8s 6d 9c 7c]
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr mucked [Qd Jd]
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 5: juangamv (big blind) showed [Td 9d] and won ($0.22) with a straight, Six to Ten
+Seat 6: Ale Gaddor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728138500:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:55:30 MSK [2020/05/12 0:55:30 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($2.29 in chips) 
+Seat 2: GamerAndr ($2.48 in chips) 
+Seat 3: lawlex_2 ($1.84 in chips) 
+Seat 4: RAULRIVERAM ($2.14 in chips) 
+Seat 5: juangamv ($2.37 in chips) 
+juangamv: posts small blind $0.01
+Ale Gaddor has timed out while disconnected
+Ale Gaddor: is sitting out 
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 7s]
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: raises $0.04 to $0.06
+streetdad: calls $0.04
+*** FLOP *** [3c Qh 2h]
+juangamv: bets $0.06
+streetdad: folds 
+Uncalled bet ($0.06) returned to juangamv
+juangamv collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3c Qh 2h]
+Seat 1: streetdad (big blind) folded on the Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (button) folded before Flop (didn't bet)
+Seat 5: juangamv (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #213728148108:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:56:06 MSK [2020/05/12 0:56:06 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($2.23 in chips) 
+Seat 2: GamerAndr ($2.48 in chips) 
+Seat 3: lawlex_2 ($1.84 in chips) 
+Seat 4: RAULRIVERAM ($2.14 in chips) 
+Seat 5: juangamv ($2.43 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 9h]
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+streetdad: folds 
+Uncalled bet ($0.01) returned to GamerAndr
+GamerAndr collected $0.02 from pot
+GamerAndr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: streetdad (small blind) folded before Flop
+Seat 2: GamerAndr (big blind) collected ($0.02)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728153390:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:56:25 MSK [2020/05/12 0:56:25 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($2.22 in chips) 
+Seat 2: GamerAndr ($2.49 in chips) 
+Seat 3: lawlex_2 ($1.84 in chips) 
+Seat 4: RAULRIVERAM ($2.14 in chips) 
+Seat 5: juangamv ($2.43 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Th]
+RAULRIVERAM: folds 
+juangamv: folds 
+streetdad: folds 
+GamerAndr: raises $0.04 to $0.06
+lawlex_2: calls $0.04
+*** FLOP *** [9h Ac 6c]
+GamerAndr: checks 
+lawlex_2: checks 
+*** TURN *** [9h Ac 6c] [7h]
+GamerAndr: checks 
+lawlex_2: bets $0.08
+GamerAndr: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9h Ac 6c 7h]
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 2: GamerAndr (small blind) folded on the Turn
+Seat 3: lawlex_2 (big blind) collected ($0.12)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728166704:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:57:14 MSK [2020/05/12 0:57:14 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($2.22 in chips) 
+Seat 2: GamerAndr ($2.43 in chips) 
+Seat 3: lawlex_2 ($1.90 in chips) 
+Seat 4: RAULRIVERAM ($2.14 in chips) 
+Seat 5: juangamv ($2.43 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 9c]
+juangamv: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: checks 
+*** FLOP *** [Qh 7s 5h]
+RAULRIVERAM: bets $0.04
+streetdad: raises $0.04 to $0.08
+RAULRIVERAM: calls $0.04
+*** TURN *** [Qh 7s 5h] [Ad]
+RAULRIVERAM: bets $0.07
+streetdad: raises $0.07 to $0.14
+RAULRIVERAM: calls $0.07
+*** RIVER *** [Qh 7s 5h Ad] [2d]
+RAULRIVERAM: checks 
+streetdad: bets $0.18
+RAULRIVERAM: folds 
+Uncalled bet ($0.18) returned to streetdad
+streetdad collected $0.47 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Qh 7s 5h Ad 2d]
+Seat 1: streetdad collected ($0.47)
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) folded on the River
+Seat 5: juangamv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728181480:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:58:09 MSK [2020/05/12 0:58:09 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($2.45 in chips) 
+Seat 2: GamerAndr ($2.43 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2.43 in chips) 
+RAULRIVERAM: posts small blind $0.01
+juangamv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 8h]
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: raises $0.08 to $0.10
+streetdad: folds 
+Uncalled bet ($0.08) returned to juangamv
+juangamv collected $0.05 from pot
+juangamv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad folded before Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 5: juangamv (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #213728188907:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:58:36 MSK [2020/05/12 0:58:36 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($2.43 in chips) 
+Seat 2: GamerAndr ($2.43 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2.46 in chips) 
+juangamv: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 2c]
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: raises $0.04 to $0.06
+juangamv: folds 
+streetdad: folds 
+Uncalled bet ($0.04) returned to RAULRIVERAM
+RAULRIVERAM collected $0.05 from pot
+RAULRIVERAM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (big blind) folded before Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (button) collected ($0.05)
+Seat 5: juangamv (small blind) folded before Flop
+
+
+
+PokerStars Hand #213728195787:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 7:59:02 MSK [2020/05/12 0:59:02 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($2.41 in chips) 
+Seat 2: GamerAndr ($2.43 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: RAULRIVERAM ($2.03 in chips) 
+Seat 5: juangamv ($2.45 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 8h]
+lawlex_2: folds 
+RAULRIVERAM: raises $0.04 to $0.06
+juangamv: calls $0.06
+streetdad: calls $0.05
+GamerAndr: calls $0.04
+*** FLOP *** [5d 2c Qs]
+streetdad: bets $0.02
+GamerAndr: calls $0.02
+RAULRIVERAM: raises $0.23 to $0.25
+juangamv: folds 
+streetdad: calls $0.23
+GamerAndr: folds 
+*** TURN *** [5d 2c Qs] [2h]
+streetdad: checks 
+RAULRIVERAM: bets $0.57
+streetdad: raises $0.57 to $1.14
+RAULRIVERAM: calls $0.57
+*** RIVER *** [5d 2c Qs 2h] [5s]
+streetdad: bets $0.96 and is all-in
+RAULRIVERAM: folds 
+Uncalled bet ($0.96) returned to streetdad
+streetdad collected $2.93 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.04 | Rake $0.11 
+Board [5d 2c Qs 2h 5s]
+Seat 1: streetdad (small blind) collected ($2.93)
+Seat 2: GamerAndr (big blind) folded on the Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded on the River
+Seat 5: juangamv (button) folded on the Flop
+
+
+
+PokerStars Hand #213728214794:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:00:10 MSK [2020/05/12 1:00:10 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($3.89 in chips) 
+Seat 2: GamerAndr ($2.35 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2.39 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Th]
+RAULRIVERAM: folds 
+juangamv: folds 
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: checks 
+*** FLOP *** [Kd 6c Ac]
+lawlex_2: checks 
+streetdad: checks 
+*** TURN *** [Kd 6c Ac] [4d]
+lawlex_2: checks 
+streetdad: checks 
+*** RIVER *** [Kd 6c Ac 4d] [Ts]
+lawlex_2: checks 
+streetdad: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [2s Th] (a pair of Tens)
+streetdad: mucks hand 
+lawlex_2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kd 6c Ac 4d Ts]
+Seat 1: streetdad (button) mucked [9s Jc]
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) showed [2s Th] and won ($0.05) with a pair of Tens
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728220223:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:00:29 MSK [2020/05/12 1:00:29 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($3.87 in chips) 
+Seat 2: GamerAndr ($2.34 in chips) 
+Seat 3: lawlex_2 ($1.92 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2.39 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 5h]
+juangamv: folds 
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to RAULRIVERAM
+RAULRIVERAM collected $0.02 from pot
+RAULRIVERAM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) collected ($0.02)
+Seat 5: juangamv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728223397:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:00:39 MSK [2020/05/12 1:00:39 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($3.87 in chips) 
+Seat 2: GamerAndr ($2.34 in chips) 
+Seat 3: lawlex_2 ($1.91 in chips) 
+Seat 4: RAULRIVERAM ($2.01 in chips) 
+Seat 5: juangamv ($2.39 in chips) 
+RAULRIVERAM: posts small blind $0.01
+juangamv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 4h]
+streetdad: folds 
+GamerAndr: raises $0.03 to $0.05
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+Uncalled bet ($0.03) returned to GamerAndr
+GamerAndr collected $0.05 from pot
+GamerAndr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr collected ($0.05)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 5: juangamv (big blind) folded before Flop
+
+
+
+PokerStars Hand #213728228317:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:00:55 MSK [2020/05/12 1:00:55 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($3.87 in chips) 
+Seat 2: GamerAndr ($2.37 in chips) 
+Seat 3: lawlex_2 ($1.91 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2.37 in chips) 
+juangamv: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Jh]
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: raises $0.05 to $0.07
+juangamv: folds 
+streetdad: folds 
+Uncalled bet ($0.05) returned to RAULRIVERAM
+RAULRIVERAM collected $0.05 from pot
+RAULRIVERAM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad (big blind) folded before Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (button) collected ($0.05)
+Seat 5: juangamv (small blind) folded before Flop
+
+
+
+PokerStars Hand #213728233407:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:01:12 MSK [2020/05/12 1:01:12 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($3.85 in chips) 
+Seat 2: GamerAndr ($2.37 in chips) 
+Seat 3: lawlex_2 ($1.91 in chips) 
+Seat 4: RAULRIVERAM ($2.03 in chips) 
+Seat 5: juangamv ($2.36 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Jc]
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+streetdad: calls $0.01
+GamerAndr: checks 
+*** FLOP *** [2h 5c Jh]
+streetdad: checks 
+GamerAndr: checks 
+*** TURN *** [2h 5c Jh] [6h]
+streetdad: bets $0.06
+GamerAndr: folds 
+Uncalled bet ($0.06) returned to streetdad
+streetdad collected $0.04 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2h 5c Jh 6h]
+Seat 1: streetdad (small blind) collected ($0.04)
+Seat 2: GamerAndr (big blind) folded on the Turn
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728243492:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:01:44 MSK [2020/05/12 1:01:44 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($3.87 in chips) 
+Seat 2: GamerAndr ($2.35 in chips) 
+Seat 3: lawlex_2 ($1.91 in chips) 
+Seat 4: RAULRIVERAM ($2.03 in chips) 
+Seat 5: juangamv ($2.36 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 8c]
+RAULRIVERAM: folds 
+juangamv: folds 
+streetdad: folds 
+GamerAndr: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 2: GamerAndr (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.02)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728247713:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:01:58 MSK [2020/05/12 1:01:58 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($3.87 in chips) 
+Seat 2: GamerAndr ($2.34 in chips) 
+Seat 3: lawlex_2 ($1.92 in chips) 
+Seat 4: RAULRIVERAM ($2.03 in chips) 
+Seat 5: juangamv ($2.36 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 3d]
+juangamv: raises $0.04 to $0.06
+streetdad: folds 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+Uncalled bet ($0.04) returned to juangamv
+juangamv collected $0.05 from pot
+juangamv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) folded before Flop
+Seat 5: juangamv collected ($0.05)
+
+
+
+PokerStars Hand #213728251560:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:02:10 MSK [2020/05/12 1:02:10 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($3.87 in chips) 
+Seat 2: GamerAndr ($2.34 in chips) 
+Seat 3: lawlex_2 ($1.91 in chips) 
+Seat 4: RAULRIVERAM ($2.01 in chips) 
+Seat 5: juangamv ($2.39 in chips) 
+RAULRIVERAM: posts small blind $0.01
+juangamv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Ts]
+streetdad: calls $0.02
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: checks 
+*** FLOP *** [6d 7h 4s]
+juangamv: checks 
+streetdad: checks 
+*** TURN *** [6d 7h 4s] [3s]
+juangamv: checks 
+streetdad: checks 
+*** RIVER *** [6d 7h 4s 3s] [6s]
+juangamv: checks 
+streetdad: bets $0.12
+juangamv: folds 
+Uncalled bet ($0.12) returned to streetdad
+streetdad collected $0.05 from pot
+streetdad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6d 7h 4s 3s 6s]
+Seat 1: streetdad collected ($0.05)
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 5: juangamv (big blind) folded on the River
+
+
+
+PokerStars Hand #213728263341:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:02:47 MSK [2020/05/12 1:02:47 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: streetdad ($3.90 in chips) 
+Seat 2: GamerAndr ($2.34 in chips) 
+Seat 3: lawlex_2 ($1.91 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2.37 in chips) 
+juangamv: posts small blind $0.01
+streetdad: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Qh]
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: raises $0.13 to $0.18
+juangamv: folds 
+streetdad: folds 
+lawlex_2: folds 
+Uncalled bet ($0.13) returned to RAULRIVERAM
+RAULRIVERAM collected $0.13 from pot
+Ale Gaddor was removed from the table for failing to post
+Ale Gaddor leaves the table
+RAULRIVERAM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: streetdad (big blind) folded before Flop
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop
+Seat 4: RAULRIVERAM (button) collected ($0.13)
+Seat 5: juangamv (small blind) folded before Flop
+
+
+
+PokerStars Hand #213728269946:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:03:08 MSK [2020/05/12 1:03:08 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: streetdad ($3.88 in chips) 
+Seat 2: GamerAndr ($2.34 in chips) 
+Seat 3: lawlex_2 ($1.86 in chips) 
+Seat 4: RAULRIVERAM ($2.08 in chips) 
+Seat 5: juangamv ($2.36 in chips) 
+streetdad: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 4d]
+lawlex_2: folds 
+RAULRIVERAM: folds 
+juangamv: folds 
+streetdad: calls $0.01
+GamerAndr: checks 
+*** FLOP *** [8c 9d 8d]
+streetdad: checks 
+GamerAndr: checks 
+*** TURN *** [8c 9d 8d] [Kc]
+streetdad: checks 
+GamerAndr: bets $0.04
+streetdad: folds 
+Uncalled bet ($0.04) returned to GamerAndr
+GamerAndr collected $0.04 from pot
+GamerAndr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8c 9d 8d Kc]
+Seat 1: streetdad (small blind) folded on the Turn
+Seat 2: GamerAndr (big blind) collected ($0.04)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728278991:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:03:37 MSK [2020/05/12 1:03:37 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: streetdad ($3.86 in chips) 
+Seat 2: GamerAndr ($2.36 in chips) 
+Seat 3: lawlex_2 ($1.86 in chips) 
+Seat 4: RAULRIVERAM ($2.08 in chips) 
+Seat 5: juangamv ($2.36 in chips) 
+GamerAndr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Ah]
+FRANCO 66643 joins the table at seat #6 
+RAULRIVERAM: folds 
+juangamv: folds 
+streetdad: folds 
+FRANCO 66643 leaves the table
+GamerAndr: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to GamerAndr
+GamerAndr collected $0.04 from pot
+GamerAndr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: streetdad (button) folded before Flop (didn't bet)
+Seat 2: GamerAndr (small blind) collected ($0.04)
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728284908:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:03:56 MSK [2020/05/12 1:03:56 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: streetdad ($3.86 in chips) 
+Seat 2: GamerAndr ($2.38 in chips) 
+Seat 3: lawlex_2 ($1.84 in chips) 
+Seat 4: RAULRIVERAM ($2.08 in chips) 
+Seat 5: juangamv ($2.36 in chips) 
+lawlex_2: posts small blind $0.01
+RAULRIVERAM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 5c]
+juangamv: folds 
+streetdad: calls $0.02
+FRANCO 66643 joins the table at seat #6 
+GamerAndr: folds 
+lawlex_2: folds 
+RAULRIVERAM: checks 
+*** FLOP *** [Td 4d Qc]
+FRANCO 66643 leaves the table
+RAULRIVERAM: checks 
+streetdad: checks 
+*** TURN *** [Td 4d Qc] [5h]
+RAULRIVERAM: checks 
+streetdad: bets $0.04
+Ferrum565 joins the table at seat #6 
+RAULRIVERAM: calls $0.04
+*** RIVER *** [Td 4d Qc 5h] [Ac]
+RAULRIVERAM: checks 
+streetdad: checks 
+*** SHOW DOWN ***
+RAULRIVERAM: shows [3c 7s] (high card Ace)
+streetdad: shows [Jc Qh] (a pair of Queens)
+streetdad collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Td 4d Qc 5h Ac]
+Seat 1: streetdad showed [Jc Qh] and won ($0.13) with a pair of Queens
+Seat 2: GamerAndr (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: RAULRIVERAM (big blind) showed [3c 7s] and lost with high card Ace
+Seat 5: juangamv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213728301673:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:04:50 MSK [2020/05/12 1:04:50 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: streetdad ($3.93 in chips) 
+Seat 2: GamerAndr ($2.38 in chips) 
+Seat 3: lawlex_2 ($1.83 in chips) 
+Seat 4: RAULRIVERAM ($2.02 in chips) 
+Seat 5: juangamv ($2.36 in chips) 
+RAULRIVERAM: posts small blind $0.01
+juangamv: posts big blind $0.02
+Ferrum565: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 8c]
+streetdad: folds 
+GamerAndr: raises $0.03 to $0.05
+lawlex_2: folds 
+streetdad leaves the table
+RAULRIVERAM: folds 
+juangamv: folds 
+Uncalled bet ($0.03) returned to GamerAndr
+GamerAndr collected $0.05 from pot
+GamerAndr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: streetdad folded before Flop (didn't bet)
+Seat 2: GamerAndr collected ($0.05)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: RAULRIVERAM (small blind) folded before Flop
+Seat 5: juangamv (big blind) folded before Flop
+
+
+
+PokerStars Hand #213728306412:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:05:04 MSK [2020/05/12 1:05:04 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 2: GamerAndr ($2.41 in chips) 
+Seat 3: lawlex_2 ($1.83 in chips) 
+Seat 4: RAULRIVERAM ($2.01 in chips) 
+Seat 5: juangamv ($2.34 in chips) 
+Seat 6: Ferrum565 ($0.84 in chips) 
+juangamv: posts small blind $0.01
+Ferrum565: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 6s]
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: calls $0.05
+juangamv: calls $0.04
+Ferrum565: folds 
+*** FLOP *** [2d 8d 2c]
+juangamv: checks 
+lawlex_2: bets $0.11
+RAULRIVERAM: folds 
+juankevin15 joins the table at seat #1 
+juangamv: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.16 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2d 8d 2c]
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 collected ($0.16)
+Seat 4: RAULRIVERAM (button) folded on the Flop
+Seat 5: juangamv (small blind) folded on the Flop
+Seat 6: Ferrum565 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213728324562:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:06:03 MSK [2020/05/12 1:06:03 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: juankevin15 ($0.80 in chips) 
+Seat 2: GamerAndr ($2.41 in chips) 
+Seat 3: lawlex_2 ($1.94 in chips) 
+Seat 4: RAULRIVERAM ($2 in chips) 
+Seat 5: juangamv ($2.29 in chips) 
+Seat 6: Ferrum565 ($0.82 in chips) 
+Ferrum565: posts small blind $0.01
+juankevin15: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 9c]
+GamerAndr: folds 
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: raises $0.13 to $0.18
+juangamv: folds 
+Ferrum565: folds 
+juankevin15: calls $0.16
+lawlex_2: folds 
+*** FLOP *** [4h 8h Kd]
+juankevin15: bets $0.62 and is all-in
+RAULRIVERAM: calls $0.62
+*** TURN *** [4h 8h Kd] [Jd]
+*** RIVER *** [4h 8h Kd Jd] [9d]
+*** SHOW DOWN ***
+juankevin15: shows [Kh 6h] (a pair of Kings)
+RAULRIVERAM: shows [8d 8s] (three of a kind, Eights)
+RAULRIVERAM collected $1.60 from pot
+juankevin15 cashed out the hand for $0.49
+*** SUMMARY ***
+Total pot $1.66 | Rake $0.06 
+Board [4h 8h Kd Jd 9d]
+Seat 1: juankevin15 (big blind) showed [Kh 6h] and lost with a pair of Kings (cashed out).
+Seat 2: GamerAndr folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop
+Seat 4: RAULRIVERAM showed [8d 8s] and won ($1.60) with three of a kind, Eights
+Seat 5: juangamv (button) folded before Flop (didn't bet)
+Seat 6: Ferrum565 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213728338637:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 8:06:48 MSK [2020/05/12 1:06:48 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: juankevin15 ($0.49 in chips) 
+Seat 2: GamerAndr ($2.41 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: RAULRIVERAM ($2.80 in chips) 
+Seat 5: juangamv ($2.29 in chips) 
+Seat 6: Ferrum565 ($0.81 in chips) 
+juankevin15: posts small blind $0.01
+GamerAndr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Js]
+lawlex_2: raises $0.03 to $0.05
+RAULRIVERAM: folds 
+juangamv: folds 
+Ferrum565: calls $0.05
+juankevin15: calls $0.04
+GamerAndr: folds 
+*** FLOP *** [5s Ah As]
+juankevin15: checks 
+lawlex_2: checks 
+Ferrum565: checks 
+*** TURN *** [5s Ah As] [Kc]
+juankevin15: checks 
+lawlex_2: bets $0.11
+Ferrum565: calls $0.11
+juankevin15: folds 
+*** RIVER *** [5s Ah As Kc] [3c]
+lawlex_2: bets $0.25
+Ferrum565: calls $0.25
+*** SHOW DOWN ***
+lawlex_2: shows [Ad Js] (three of a kind, Aces)
+Ferrum565: mucks hand 
+lawlex_2 collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [5s Ah As Kc 3c]
+Seat 1: juankevin15 (small blind) folded on the Turn
+Seat 2: GamerAndr (big blind) folded before Flop
+Seat 3: lawlex_2 showed [Ad Js] and won ($0.86) with three of a kind, Aces
+Seat 4: RAULRIVERAM folded before Flop (didn't bet)
+Seat 5: juangamv folded before Flop (didn't bet)
+Seat 6: Ferrum565 (button) mucked [9s Kh]
+
+
+

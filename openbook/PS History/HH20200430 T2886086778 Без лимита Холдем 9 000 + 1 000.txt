@@ -1,0 +1,684 @@
+﻿PokerStars Hand #212990475201: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:26:10 MSK [2020/04/30 6:26:10 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (500 in chips) 
+Seat 2: klári60 (500 in chips) 
+Seat 3: lawlex_2 (500 in chips) is sitting out
+klári60: posts small blind 10
+lawlex_2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 9d]
+Tsikos71: raises 480 to 500 and is all-in
+klári60: calls 490 and is all-in
+lawlex_2: folds 
+*** FLOP *** [3s Qs 5h]
+*** TURN *** [3s Qs 5h] [7h]
+*** RIVER *** [3s Qs 5h 7h] [2h]
+*** SHOW DOWN ***
+klári60: shows [6h 8d] (high card Queen)
+Tsikos71: shows [Kh Td] (high card King)
+Tsikos71 collected 1020 from pot
+klári60 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [3s Qs 5h 7h 2h]
+Seat 1: Tsikos71 (button) showed [Kh Td] and won (1020) with high card King
+Seat 2: klári60 (small blind) showed [6h 8d] and lost with high card Queen
+Seat 3: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212990482892: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:26:26 MSK [2020/04/30 6:26:26 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (1020 in chips) 
+Seat 3: lawlex_2 (480 in chips) 
+lawlex_2: posts small blind 10
+Tsikos71: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Ah]
+lawlex_2: raises 40 to 60
+Tsikos71: calls 40
+*** FLOP *** [9d 5d Th]
+Tsikos71: bets 20
+lawlex_2: raises 80 to 100
+Tsikos71: calls 80
+*** TURN *** [9d 5d Th] [Ts]
+Tsikos71: checks 
+lawlex_2: bets 320 and is all-in
+Tsikos71: calls 320
+*** RIVER *** [9d 5d Th Ts] [7s]
+*** SHOW DOWN ***
+Tsikos71: shows [4d 9h] (two pair, Tens and Nines)
+lawlex_2: shows [Tc Ah] (three of a kind, Tens)
+lawlex_2 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [9d 5d Th Ts 7s]
+Seat 1: Tsikos71 (big blind) showed [4d 9h] and lost with two pair, Tens and Nines
+Seat 3: lawlex_2 (button) (small blind) showed [Tc Ah] and won (960) with three of a kind, Tens
+
+
+
+PokerStars Hand #212990503764: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:27:10 MSK [2020/04/30 6:27:10 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (540 in chips) 
+Seat 3: lawlex_2 (960 in chips) 
+Tsikos71: posts small blind 10
+lawlex_2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 6s]
+Tsikos71: raises 40 to 60
+lawlex_2: folds 
+Uncalled bet (40) returned to Tsikos71
+Tsikos71 collected 40 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Tsikos71 (button) (small blind) collected (40)
+Seat 3: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212990507850: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:27:19 MSK [2020/04/30 6:27:19 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (560 in chips) 
+Seat 3: lawlex_2 (940 in chips) 
+lawlex_2: posts small blind 10
+Tsikos71: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Qc]
+lawlex_2: folds 
+Uncalled bet (10) returned to Tsikos71
+Tsikos71 collected 20 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Tsikos71 (big blind) collected (20)
+Seat 3: lawlex_2 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #212990512460: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:27:29 MSK [2020/04/30 6:27:29 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (570 in chips) 
+Seat 3: lawlex_2 (930 in chips) 
+Tsikos71: posts small blind 10
+lawlex_2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 7h]
+Tsikos71: raises 20 to 40
+lawlex_2: folds 
+Uncalled bet (20) returned to Tsikos71
+Tsikos71 collected 40 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Tsikos71 (button) (small blind) collected (40)
+Seat 3: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212990515057: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:27:34 MSK [2020/04/30 6:27:34 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (590 in chips) 
+Seat 3: lawlex_2 (910 in chips) 
+lawlex_2: posts small blind 10
+Tsikos71: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 7d]
+lawlex_2: folds 
+Uncalled bet (10) returned to Tsikos71
+Tsikos71 collected 20 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Tsikos71 (big blind) collected (20)
+Seat 3: lawlex_2 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #212990516833: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:27:38 MSK [2020/04/30 6:27:38 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (600 in chips) 
+Seat 3: lawlex_2 (900 in chips) 
+Tsikos71: posts small blind 10
+lawlex_2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Ks]
+Tsikos71: calls 10
+lawlex_2: checks 
+*** FLOP *** [Kc Ad Kd]
+lawlex_2: bets 20
+Tsikos71: calls 20
+*** TURN *** [Kc Ad Kd] [8d]
+lawlex_2: bets 40
+Tsikos71: calls 40
+*** RIVER *** [Kc Ad Kd 8d] [3h]
+lawlex_2: bets 80
+Tsikos71: calls 80
+*** SHOW DOWN ***
+lawlex_2: shows [6c Ks] (three of a kind, Kings)
+Tsikos71: mucks hand 
+lawlex_2 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Kc Ad Kd 8d 3h]
+Seat 1: Tsikos71 (button) (small blind) mucked [4c Qd]
+Seat 3: lawlex_2 (big blind) showed [6c Ks] and won (320) with three of a kind, Kings
+
+
+
+PokerStars Hand #212990527355: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:28:00 MSK [2020/04/30 6:28:00 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (440 in chips) 
+Seat 3: lawlex_2 (1060 in chips) 
+lawlex_2: posts small blind 10
+Tsikos71: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 7c]
+lawlex_2: folds 
+Uncalled bet (10) returned to Tsikos71
+Tsikos71 collected 20 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Tsikos71 (big blind) collected (20)
+Seat 3: lawlex_2 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #212990530354: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:28:07 MSK [2020/04/30 6:28:07 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (450 in chips) 
+Seat 3: lawlex_2 (1050 in chips) 
+Tsikos71: posts small blind 10
+lawlex_2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 6h]
+Tsikos71: calls 10
+lawlex_2: checks 
+*** FLOP *** [4c 9c Jd]
+lawlex_2: checks 
+Tsikos71: checks 
+*** TURN *** [4c 9c Jd] [7h]
+lawlex_2: checks 
+Tsikos71: checks 
+*** RIVER *** [4c 9c Jd 7h] [3d]
+lawlex_2: checks 
+Tsikos71: bets 20
+lawlex_2: folds 
+Uncalled bet (20) returned to Tsikos71
+Tsikos71 collected 40 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4c 9c Jd 7h 3d]
+Seat 1: Tsikos71 (button) (small blind) collected (40)
+Seat 3: lawlex_2 (big blind) folded on the River
+
+
+
+PokerStars Hand #212990540240: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:28:28 MSK [2020/04/30 6:28:28 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (470 in chips) 
+Seat 3: lawlex_2 (1030 in chips) 
+lawlex_2: posts small blind 10
+Tsikos71: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Jd]
+lawlex_2: raises 40 to 60
+Tsikos71: calls 40
+*** FLOP *** [3d 2c Jh]
+Tsikos71: checks 
+lawlex_2: bets 60
+Tsikos71: folds 
+Uncalled bet (60) returned to lawlex_2
+lawlex_2 collected 120 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d 2c Jh]
+Seat 1: Tsikos71 (big blind) folded on the Flop
+Seat 3: lawlex_2 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #212990546606: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:28:41 MSK [2020/04/30 6:28:41 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (410 in chips) 
+Seat 3: lawlex_2 (1090 in chips) 
+Tsikos71: posts small blind 10
+lawlex_2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Ad]
+Tsikos71: raises 20 to 40
+lawlex_2: calls 20
+*** FLOP *** [3d Qd 9d]
+lawlex_2: bets 40
+Tsikos71: calls 40
+*** TURN *** [3d Qd 9d] [2s]
+lawlex_2: bets 80
+Tsikos71: folds 
+Uncalled bet (80) returned to lawlex_2
+lawlex_2 collected 160 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3d Qd 9d 2s]
+Seat 1: Tsikos71 (button) (small blind) folded on the Turn
+Seat 3: lawlex_2 (big blind) collected (160)
+
+
+
+PokerStars Hand #212990555495: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:29:00 MSK [2020/04/30 6:29:00 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (330 in chips) 
+Seat 3: lawlex_2 (1170 in chips) 
+lawlex_2: posts small blind 10
+Tsikos71: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 4c]
+lawlex_2: folds 
+Uncalled bet (10) returned to Tsikos71
+Tsikos71 collected 20 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Tsikos71 (big blind) collected (20)
+Seat 3: lawlex_2 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #212990557208: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:29:04 MSK [2020/04/30 6:29:04 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (340 in chips) 
+Seat 3: lawlex_2 (1160 in chips) 
+Tsikos71: posts small blind 10
+lawlex_2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 9h]
+Tsikos71: folds 
+Uncalled bet (10) returned to lawlex_2
+lawlex_2 collected 20 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Tsikos71 (button) (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected (20)
+
+
+
+PokerStars Hand #212990559092: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level I (10/20) - 2020/04/30 13:29:08 MSK [2020/04/30 6:29:08 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (330 in chips) 
+Seat 3: lawlex_2 (1170 in chips) 
+lawlex_2: posts small blind 10
+Tsikos71: posts big blind 20
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Kh]
+lawlex_2: raises 40 to 60
+Tsikos71: folds 
+Uncalled bet (40) returned to lawlex_2
+lawlex_2 collected 40 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Tsikos71 (big blind) folded before Flop
+Seat 3: lawlex_2 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #212990563405: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:29:17 MSK [2020/04/30 6:29:17 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (310 in chips) 
+Seat 3: lawlex_2 (1190 in chips) 
+Tsikos71: posts small blind 15
+lawlex_2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Qc]
+Tsikos71: raises 30 to 60
+lawlex_2: folds 
+Uncalled bet (30) returned to Tsikos71
+Tsikos71 collected 60 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Tsikos71 (button) (small blind) collected (60)
+Seat 3: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212990565351: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:29:21 MSK [2020/04/30 6:29:21 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (340 in chips) 
+Seat 3: lawlex_2 (1160 in chips) 
+lawlex_2: posts small blind 15
+Tsikos71: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 9d]
+lawlex_2: raises 60 to 90
+Tsikos71: raises 250 to 340 and is all-in
+lawlex_2: calls 250
+*** FLOP *** [6s Th Ts]
+*** TURN *** [6s Th Ts] [5d]
+*** RIVER *** [6s Th Ts 5d] [7d]
+*** SHOW DOWN ***
+Tsikos71: shows [5c 5h] (a full house, Fives full of Tens)
+lawlex_2: shows [9s 9d] (two pair, Tens and Nines)
+Tsikos71 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [6s Th Ts 5d 7d]
+Seat 1: Tsikos71 (big blind) showed [5c 5h] and won (680) with a full house, Fives full of Tens
+Seat 3: lawlex_2 (button) (small blind) showed [9s 9d] and lost with two pair, Tens and Nines
+
+
+
+PokerStars Hand #212990573173: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:29:38 MSK [2020/04/30 6:29:38 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (680 in chips) 
+Seat 3: lawlex_2 (820 in chips) 
+Tsikos71: posts small blind 15
+lawlex_2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Js]
+Tsikos71: calls 15
+lawlex_2: checks 
+*** FLOP *** [8d 6s Qd]
+lawlex_2: bets 60
+Tsikos71: folds 
+Uncalled bet (60) returned to lawlex_2
+lawlex_2 collected 60 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8d 6s Qd]
+Seat 1: Tsikos71 (button) (small blind) folded on the Flop
+Seat 3: lawlex_2 (big blind) collected (60)
+
+
+
+PokerStars Hand #212990578435: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:29:49 MSK [2020/04/30 6:29:49 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (650 in chips) 
+Seat 3: lawlex_2 (850 in chips) 
+lawlex_2: posts small blind 15
+Tsikos71: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 5h]
+lawlex_2: raises 60 to 90
+Tsikos71: calls 60
+*** FLOP *** [7h 3d 7d]
+Tsikos71: checks 
+lawlex_2: bets 180
+Tsikos71: folds 
+Uncalled bet (180) returned to lawlex_2
+lawlex_2 collected 180 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7h 3d 7d]
+Seat 1: Tsikos71 (big blind) folded on the Flop
+Seat 3: lawlex_2 (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #212990585512: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:30:04 MSK [2020/04/30 6:30:04 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (560 in chips) 
+Seat 3: lawlex_2 (940 in chips) 
+Tsikos71: posts small blind 15
+lawlex_2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 8d]
+Tsikos71: folds 
+Uncalled bet (15) returned to lawlex_2
+lawlex_2 collected 30 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Tsikos71 (button) (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected (30)
+
+
+
+PokerStars Hand #212990588055: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:30:09 MSK [2020/04/30 6:30:09 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (545 in chips) 
+Seat 3: lawlex_2 (955 in chips) 
+lawlex_2: posts small blind 15
+Tsikos71: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 9s]
+lawlex_2: calls 15
+Tsikos71: checks 
+*** FLOP *** [Kc Qs 3s]
+Tsikos71: checks 
+lawlex_2: checks 
+*** TURN *** [Kc Qs 3s] [6d]
+Tsikos71: checks 
+lawlex_2: checks 
+*** RIVER *** [Kc Qs 3s 6d] [Ac]
+Tsikos71: checks 
+lawlex_2: bets 60
+Tsikos71: folds 
+Uncalled bet (60) returned to lawlex_2
+lawlex_2 collected 60 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc Qs 3s 6d Ac]
+Seat 1: Tsikos71 (big blind) folded on the River
+Seat 3: lawlex_2 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #212990596792: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:30:28 MSK [2020/04/30 6:30:28 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (515 in chips) 
+Seat 3: lawlex_2 (985 in chips) 
+Tsikos71: posts small blind 15
+lawlex_2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 4d]
+Tsikos71: folds 
+Uncalled bet (15) returned to lawlex_2
+lawlex_2 collected 30 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Tsikos71 (button) (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected (30)
+
+
+
+PokerStars Hand #212990598587: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:30:31 MSK [2020/04/30 6:30:31 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (500 in chips) 
+Seat 3: lawlex_2 (1000 in chips) 
+lawlex_2: posts small blind 15
+Tsikos71: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 6d]
+lawlex_2: calls 15
+Tsikos71: raises 60 to 90
+lawlex_2: folds 
+Uncalled bet (60) returned to Tsikos71
+Tsikos71 collected 60 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Tsikos71 (big blind) collected (60)
+Seat 3: lawlex_2 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #212990603105: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:30:41 MSK [2020/04/30 6:30:41 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (530 in chips) 
+Seat 3: lawlex_2 (970 in chips) 
+Tsikos71: posts small blind 15
+lawlex_2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 3d]
+Tsikos71: raises 60 to 90
+lawlex_2: folds 
+Uncalled bet (60) returned to Tsikos71
+Tsikos71 collected 60 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Tsikos71 (button) (small blind) collected (60)
+Seat 3: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212990606089: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:30:47 MSK [2020/04/30 6:30:47 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (560 in chips) 
+Seat 3: lawlex_2 (940 in chips) 
+lawlex_2: posts small blind 15
+Tsikos71: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 6h]
+lawlex_2: folds 
+Uncalled bet (15) returned to Tsikos71
+Tsikos71 collected 30 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Tsikos71 (big blind) collected (30)
+Seat 3: lawlex_2 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #212990607760: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:30:50 MSK [2020/04/30 6:30:50 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (575 in chips) 
+Seat 3: lawlex_2 (925 in chips) 
+Tsikos71: posts small blind 15
+lawlex_2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 9c]
+Tsikos71: raises 60 to 90
+lawlex_2: folds 
+Uncalled bet (60) returned to Tsikos71
+Tsikos71 collected 60 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Tsikos71 (button) (small blind) collected (60)
+Seat 3: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212990610532: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:30:56 MSK [2020/04/30 6:30:56 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (605 in chips) 
+Seat 3: lawlex_2 (895 in chips) 
+lawlex_2: posts small blind 15
+Tsikos71: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 2c]
+lawlex_2: calls 15
+Tsikos71: raises 30 to 60
+lawlex_2: calls 30
+*** FLOP *** [6s 8s Ac]
+Tsikos71: bets 30
+lawlex_2: calls 30
+*** TURN *** [6s 8s Ac] [8h]
+Tsikos71: bets 30
+lawlex_2: calls 30
+*** RIVER *** [6s 8s Ac 8h] [7c]
+Tsikos71: bets 30
+lawlex_2: calls 30
+*** SHOW DOWN ***
+Tsikos71: shows [Tc 4h] (a pair of Eights)
+lawlex_2: shows [6c 2c] (two pair, Eights and Sixes)
+lawlex_2 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6s 8s Ac 8h 7c]
+Seat 1: Tsikos71 (big blind) showed [Tc 4h] and lost with a pair of Eights
+Seat 3: lawlex_2 (button) (small blind) showed [6c 2c] and won (300) with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #212990619695: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:31:15 MSK [2020/04/30 6:31:15 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (455 in chips) 
+Seat 3: lawlex_2 (1045 in chips) 
+Tsikos71: posts small blind 15
+lawlex_2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Qd]
+Tsikos71: raises 30 to 60
+lawlex_2: folds 
+Uncalled bet (30) returned to Tsikos71
+Tsikos71 collected 60 from pot
+Tsikos71: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Tsikos71 (button) (small blind) collected (60)
+Seat 3: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212990622228: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:31:21 MSK [2020/04/30 6:31:21 ET]
+Table '2886086778 1' 3-max Seat #3 is the button
+Seat 1: Tsikos71 (485 in chips) 
+Seat 3: lawlex_2 (1015 in chips) 
+lawlex_2: posts small blind 15
+Tsikos71: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 6c]
+lawlex_2: raises 60 to 90
+Tsikos71: raises 60 to 150
+lawlex_2: calls 60
+*** FLOP *** [Kd 4c Qs]
+Tsikos71: checks 
+lawlex_2: checks 
+*** TURN *** [Kd 4c Qs] [7d]
+Tsikos71: checks 
+lawlex_2: bets 150
+Tsikos71: folds 
+Uncalled bet (150) returned to lawlex_2
+lawlex_2 collected 300 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Kd 4c Qs 7d]
+Seat 1: Tsikos71 (big blind) folded on the Turn
+Seat 3: lawlex_2 (button) (small blind) collected (300)
+
+
+
+PokerStars Hand #212990630693: Tournament #2886086778, 9000+1000 Hold'em No Limit - Level II (15/30) - 2020/04/30 13:31:38 MSK [2020/04/30 6:31:38 ET]
+Table '2886086778 1' 3-max Seat #1 is the button
+Seat 1: Tsikos71 (335 in chips) 
+Seat 3: lawlex_2 (1165 in chips) 
+Tsikos71: posts small blind 15
+lawlex_2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Qd]
+Tsikos71: raises 30 to 60
+lawlex_2: calls 30
+*** FLOP *** [Kh 3h 6h]
+lawlex_2: bets 60
+Tsikos71: raises 215 to 275 and is all-in
+lawlex_2: calls 215
+*** TURN *** [Kh 3h 6h] [6d]
+*** RIVER *** [Kh 3h 6h 6d] [2h]
+*** SHOW DOWN ***
+lawlex_2: shows [Th Qd] (a flush, King high)
+Tsikos71: shows [Kc Js] (two pair, Kings and Sixes)
+lawlex_2 collected 670 from pot
+Tsikos71 finished the tournament in 2nd place
+lawlex_2 wins the tournament and receives 20000 - congratulations!
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [Kh 3h 6h 6d 2h]
+Seat 1: Tsikos71 (button) (small blind) showed [Kc Js] and lost with two pair, Kings and Sixes
+Seat 3: lawlex_2 (big blind) showed [Th Qd] and won (670) with a flush, King high
+
+
+

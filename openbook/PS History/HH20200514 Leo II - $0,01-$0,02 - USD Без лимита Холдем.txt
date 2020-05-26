@@ -1,0 +1,3830 @@
+﻿PokerStars Hand #213841653991:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:17:01 MSK [2020/05/14 5:17:01 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($2.15 in chips) 
+Seat 3: kzncvm ($1.98 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 6: kamo88825 ($1.74 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Js]
+kamo88825: folds 
+flutterbye10: folds 
+Nina735: calls $0.02
+kzncvm: raises $0.07 to $0.09
+lawlex_2: folds 
+Nina735: calls $0.07
+*** FLOP *** [3c 6s Ac]
+kzncvm: checks 
+Nina735: checks 
+*** TURN *** [3c 6s Ac] [Qs]
+kzncvm: checks 
+Nina735: bets $0.02
+TopGearRR leaves the table
+kzncvm: calls $0.02
+*** RIVER *** [3c 6s Ac Qs] [8d]
+Diskor151088 joins the table at seat #5 
+kzncvm: checks 
+Nina735: bets $0.08
+kzncvm: folds 
+Uncalled bet ($0.08) returned to Nina735
+Nina735 collected $0.23 from pot
+Nina735: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [3c 6s Ac Qs 8d]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 (button) collected ($0.23)
+Seat 3: kzncvm (small blind) folded on the River
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 6: kamo88825 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841680306:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:18:10 MSK [2020/05/14 5:18:10 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($2.27 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($1.98 in chips) 
+Seat 5: Diskor151088 ($2 in chips) 
+Seat 6: kamo88825 ($1.74 in chips) 
+lawlex_2: posts small blind $0.01
+Diskor151088: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 9d]
+kamo88825: calls $0.02
+flutterbye10: folds 
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: checks 
+*** FLOP *** [2s 4h 5h]
+Diskor151088: checks 
+kamo88825: bets $0.02
+Nina735: calls $0.02
+Diskor151088: raises $0.09 to $0.11
+kamo88825: folds 
+Nina735: folds 
+Uncalled bet ($0.09) returned to Diskor151088
+Diskor151088 collected $0.13 from pot
+Diskor151088: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2s 4h 5h]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded on the Flop
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Diskor151088 (big blind) collected ($0.13)
+Seat 6: kamo88825 folded on the Flop
+
+
+
+PokerStars Hand #213841699432:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:19:01 MSK [2020/05/14 5:19:01 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($2.23 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: Diskor151088 ($2.09 in chips) 
+Seat 6: kamo88825 ($1.70 in chips) 
+Diskor151088: posts small blind $0.01
+kamo88825: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 6d]
+flutterbye10: raises $0.04 to $0.06
+Nina735: calls $0.06
+kzncvm: calls $0.06
+lawlex_2: folds 
+Diskor151088: calls $0.05
+kamo88825: folds 
+*** FLOP *** [6h Ts 6c]
+kamo88825 leaves the table
+Diskor151088: checks 
+flutterbye10: bets $0.70 and is all-in
+Nina735: folds 
+AndrewSpB433 joins the table at seat #6 
+kzncvm: folds 
+Diskor151088: folds 
+Uncalled bet ($0.70) returned to flutterbye10
+flutterbye10 collected $0.25 from pot
+flutterbye10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [6h Ts 6c]
+Seat 1: flutterbye10 collected ($0.25)
+Seat 2: Nina735 folded on the Flop
+Seat 3: kzncvm folded on the Flop
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Diskor151088 (small blind) folded on the Flop
+Seat 6: kamo88825 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213841714764:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:19:41 MSK [2020/05/14 5:19:41 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($0.95 in chips) 
+Seat 2: Nina735 ($2.17 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: Diskor151088 ($2.03 in chips) 
+flutterbye10: posts small blind $0.01
+Nina735: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Ad]
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: folds 
+flutterbye10: calls $0.04
+Nina735: folds 
+*** FLOP *** [3c 9c 4h]
+flutterbye10: checks 
+lawlex_2: bets $0.08
+flutterbye10: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3c 9c 4h]
+Seat 1: flutterbye10 (small blind) folded on the Flop
+Seat 2: Nina735 (big blind) folded before Flop
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.12)
+Seat 5: Diskor151088 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841727609:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:20:14 MSK [2020/05/14 5:20:14 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($0.90 in chips) 
+Seat 2: Nina735 ($2.15 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($2.04 in chips) 
+Seat 5: Diskor151088 ($2.03 in chips) 
+Nina735: posts small blind $0.01
+kzncvm: posts big blind $0.02
+AndrewSpB433: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 8s]
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: folds 
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: calls $0.03
+*** FLOP *** [3c Ac Ks]
+kzncvm: checks 
+lawlex_2: bets $0.07
+kzncvm: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3c Ac Ks]
+Seat 1: flutterbye10 (button) folded before Flop (didn't bet)
+Seat 2: Nina735 (small blind) folded before Flop
+Seat 3: kzncvm (big blind) folded on the Flop
+Seat 4: lawlex_2 collected ($0.11)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841740047:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:20:47 MSK [2020/05/14 5:20:47 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: flutterbye10 ($0.90 in chips) 
+Seat 2: Nina735 ($2.14 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($2.10 in chips) 
+Seat 5: Diskor151088 ($2.03 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+AndrewSpB433: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Kh]
+Diskor151088: folds 
+flutterbye10: raises $0.04 to $0.06
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to flutterbye10
+flutterbye10 collected $0.05 from pot
+flutterbye10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 collected ($0.05)
+Seat 2: Nina735 (button) folded before Flop (didn't bet)
+Seat 3: kzncvm (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841744534:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:20:58 MSK [2020/05/14 5:20:58 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($0.93 in chips) 
+Seat 2: Nina735 ($2.14 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.08 in chips) 
+Seat 5: Diskor151088 ($2.03 in chips) 
+lawlex_2: posts small blind $0.01
+Diskor151088: posts big blind $0.02
+AndrewSpB433: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 3c]
+flutterbye10: raises $0.02 to $0.04
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: folds 
+Uncalled bet ($0.02) returned to flutterbye10
+flutterbye10 collected $0.05 from pot
+flutterbye10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 collected ($0.05)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Diskor151088 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213841753419:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:21:22 MSK [2020/05/14 5:21:22 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($0.96 in chips) 
+Seat 2: Nina735 ($2.14 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.07 in chips) 
+Seat 5: Diskor151088 ($2.01 in chips) 
+Seat 6: AndrewSpB433 ($0.88 in chips) 
+Diskor151088: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 3s]
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: folds 
+Uncalled bet ($0.01) returned to AndrewSpB433
+AndrewSpB433 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Diskor151088 (small blind) folded before Flop
+Seat 6: AndrewSpB433 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213841760302:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:21:40 MSK [2020/05/14 5:21:40 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($0.96 in chips) 
+Seat 2: Nina735 ($2.14 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.07 in chips) 
+Seat 5: Diskor151088 ($2 in chips) 
+Seat 6: AndrewSpB433 ($0.89 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 5c]
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.03
+*** FLOP *** [2d 3c 3s]
+Nina735: checks 
+lawlex_2: bets $0.09
+Nina735: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d 3c 3s]
+Seat 1: flutterbye10 (big blind) folded before Flop
+Seat 2: Nina735 folded on the Flop
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.13)
+Seat 5: Diskor151088 (button) folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213841770166:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:22:05 MSK [2020/05/14 5:22:05 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($0.94 in chips) 
+Seat 2: Nina735 ($2.09 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.15 in chips) 
+Seat 5: Diskor151088 ($2 in chips) 
+Seat 6: AndrewSpB433 ($0.88 in chips) 
+flutterbye10: posts small blind $0.01
+Nina735: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 6h]
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Uncalled bet ($0.01) returned to Nina735
+Nina735 collected $0.02 from pot
+Nina735: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: flutterbye10 (small blind) folded before Flop
+Seat 2: Nina735 (big blind) collected ($0.02)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841776981:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:22:23 MSK [2020/05/14 5:22:23 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($0.93 in chips) 
+Seat 2: Nina735 ($2.10 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.15 in chips) 
+Seat 5: Diskor151088 ($2 in chips) 
+Seat 6: AndrewSpB433 ($0.88 in chips) 
+Nina735: posts small blind $0.01
+kzncvm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Tc]
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 (button) folded before Flop (didn't bet)
+Seat 2: Nina735 (small blind) folded before Flop
+Seat 3: kzncvm (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841782881:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:22:39 MSK [2020/05/14 5:22:39 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: flutterbye10 ($0.93 in chips) 
+Seat 2: Nina735 ($2.09 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($2.18 in chips) 
+Seat 5: Diskor151088 ($2 in chips) 
+Seat 6: AndrewSpB433 ($0.88 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 8c]
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+Nina735: calls $0.03
+*** FLOP *** [5c Qd Kc]
+lawlex_2: checks 
+Nina735: checks 
+*** TURN *** [5c Qd Kc] [2d]
+lawlex_2: checks 
+Nina735: checks 
+*** RIVER *** [5c Qd Kc 2d] [6s]
+lawlex_2: checks 
+Nina735: bets $0.11
+lawlex_2: folds 
+Uncalled bet ($0.11) returned to Nina735
+Nina735 collected $0.11 from pot
+Nina735: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5c Qd Kc 2d 6s]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 (button) collected ($0.11)
+Seat 3: kzncvm (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the River
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841799795:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:23:23 MSK [2020/05/14 5:23:23 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($0.93 in chips) 
+Seat 2: Nina735 ($2.15 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.13 in chips) 
+Seat 5: Diskor151088 ($2 in chips) 
+Seat 6: AndrewSpB433 ($0.88 in chips) 
+lawlex_2: posts small blind $0.01
+Diskor151088: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc Ah]
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: folds 
+Nina735: calls $0.03
+*** FLOP *** [Ac Qh Ts]
+lawlex_2: bets $0.08
+Nina735: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ac Qh Ts]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded on the Flop
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) collected ($0.12)
+Seat 5: Diskor151088 (big blind) folded before Flop
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841809644:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:23:49 MSK [2020/05/14 5:23:49 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($0.93 in chips) 
+Seat 2: Nina735 ($2.10 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 5: Diskor151088 ($1.98 in chips) 
+Seat 6: AndrewSpB433 ($0.88 in chips) 
+Diskor151088: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 9h]
+flutterbye10: folds 
+Nina735: calls $0.02
+kzncvm: raises $0.05 to $0.07
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+Nina735: calls $0.05
+*** FLOP *** [4s 6s 9d]
+Nina735: checks 
+kzncvm: bets $0.09
+Nina735: calls $0.09
+*** TURN *** [4s 6s 9d] [7c]
+Nina735: checks 
+kzncvm: checks 
+*** RIVER *** [4s 6s 9d 7c] [3h]
+Nina735: checks 
+kzncvm: checks 
+*** SHOW DOWN ***
+Nina735: shows [Qh Jc] (high card Queen)
+kzncvm: shows [Kd Qs] (high card King)
+kzncvm collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [4s 6s 9d 7c 3h]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 showed [Qh Jc] and lost with high card Queen
+Seat 3: kzncvm showed [Kd Qs] and won ($0.34) with high card King
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Diskor151088 (small blind) folded before Flop
+Seat 6: AndrewSpB433 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213841833540:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:24:52 MSK [2020/05/14 5:24:52 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($0.93 in chips) 
+Seat 2: Nina735 ($1.94 in chips) 
+Seat 3: kzncvm ($2.17 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 5: Diskor151088 ($1.97 in chips) 
+Seat 6: AndrewSpB433 ($0.86 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 5s]
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: raises $0.04 to $0.06
+AndrewSpB433: calls $0.05
+flutterbye10: folds 
+*** FLOP *** [Jc 3s Qs]
+AndrewSpB433: checks 
+Diskor151088: bets $0.07
+AndrewSpB433: raises $0.11 to $0.18
+Diskor151088: folds 
+Uncalled bet ($0.11) returned to AndrewSpB433
+AndrewSpB433 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Jc 3s Qs]
+Seat 1: flutterbye10 (big blind) folded before Flop
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 (button) folded on the Flop
+Seat 6: AndrewSpB433 (small blind) collected ($0.27)
+
+
+
+PokerStars Hand #213841849701:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:25:34 MSK [2020/05/14 5:25:34 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($0.91 in chips) 
+Seat 2: Nina735 ($1.94 in chips) 
+Seat 3: kzncvm ($2.17 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 5: Diskor151088 ($1.84 in chips) 
+Seat 6: AndrewSpB433 ($1 in chips) 
+flutterbye10: posts small blind $0.01
+Nina735: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Ts]
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: calls $0.04
+Nina735: folds 
+*** FLOP *** [Jc 2d Js]
+flutterbye10: checks 
+lawlex_2: bets $0.08
+flutterbye10: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jc 2d Js]
+Seat 1: flutterbye10 (small blind) folded on the Flop
+Seat 2: Nina735 (big blind) folded before Flop
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.12)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841864180:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:26:11 MSK [2020/05/14 5:26:11 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($0.86 in chips) 
+Seat 2: Nina735 ($1.92 in chips) 
+Seat 3: kzncvm ($2.17 in chips) 
+Seat 4: lawlex_2 ($2.27 in chips) 
+Seat 5: Diskor151088 ($2 in chips) 
+Seat 6: AndrewSpB433 ($1 in chips) 
+Nina735: posts small blind $0.01
+kzncvm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Qc]
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: raises $0.10 to $0.15
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.14
+kzncvm: folds 
+lawlex_2: folds 
+*** FLOP *** [3d Jd 4d]
+Nina735: bets $0.18
+Diskor151088: folds 
+Uncalled bet ($0.18) returned to Nina735
+Nina735 collected $0.36 from pot
+Nina735: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [3d Jd 4d]
+Seat 1: flutterbye10 (button) folded before Flop (didn't bet)
+Seat 2: Nina735 (small blind) collected ($0.36)
+Seat 3: kzncvm (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop
+Seat 5: Diskor151088 folded on the Flop
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841882590:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:26:59 MSK [2020/05/14 5:26:59 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: flutterbye10 ($0.86 in chips) 
+Seat 2: Nina735 ($2.13 in chips) 
+Seat 3: kzncvm ($2.15 in chips) 
+Seat 4: lawlex_2 ($2.22 in chips) 
+Seat 5: Diskor151088 ($1.85 in chips) 
+Seat 6: AndrewSpB433 ($1 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 4s]
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: raises $0.02 to $0.04
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to flutterbye10
+flutterbye10 collected $0.05 from pot
+flutterbye10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 collected ($0.05)
+Seat 2: Nina735 (button) folded before Flop (didn't bet)
+Seat 3: kzncvm (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841891098:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:27:21 MSK [2020/05/14 5:27:21 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($0.89 in chips) 
+Seat 2: Nina735 ($2.13 in chips) 
+Seat 3: kzncvm ($2.14 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 5: Diskor151088 ($1.85 in chips) 
+Seat 6: AndrewSpB433 ($1 in chips) 
+lawlex_2: posts small blind $0.01
+Diskor151088: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 6c]
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.02
+kzncvm has timed out
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: checks 
+*** FLOP *** [4s 3s Ac]
+Diskor151088: bets $0.03
+Nina735: folds 
+Uncalled bet ($0.03) returned to Diskor151088
+Diskor151088 collected $0.05 from pot
+Diskor151088: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4s 3s Ac]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded on the Flop
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Diskor151088 (big blind) collected ($0.05)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841915319:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:28:24 MSK [2020/05/14 5:28:24 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($0.89 in chips) 
+Seat 2: Nina735 ($2.11 in chips) 
+Seat 3: kzncvm ($2.14 in chips) 
+Seat 4: lawlex_2 ($2.19 in chips) 
+Seat 5: Diskor151088 ($1.88 in chips) 
+Seat 6: AndrewSpB433 ($1 in chips) 
+Diskor151088: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc As]
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: raises $0.10 to $0.15
+AndrewSpB433: folds 
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to Diskor151088
+Diskor151088 collected $0.12 from pot
+Diskor151088: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop
+Seat 5: Diskor151088 (small blind) collected ($0.12)
+Seat 6: AndrewSpB433 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213841929704:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:29:02 MSK [2020/05/14 5:29:02 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($0.89 in chips) 
+Seat 2: Nina735 ($2.11 in chips) 
+Seat 3: kzncvm ($2.14 in chips) 
+Seat 4: lawlex_2 ($2.14 in chips) 
+Seat 5: Diskor151088 ($1.95 in chips) 
+Seat 6: AndrewSpB433 ($0.98 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 7c]
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: raises $0.06 to $0.08
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.06
+*** FLOP *** [6d Td Th]
+Nina735: bets $0.02
+Diskor151088: calls $0.02
+*** TURN *** [6d Td Th] [Ah]
+Nina735: bets $0.02
+Diskor151088: raises $0.17 to $0.19
+Nina735: calls $0.17
+*** RIVER *** [6d Td Th Ah] [3s]
+Nina735: bets $0.02
+Diskor151088: raises $0.63 to $0.65
+Nina735: folds 
+Uncalled bet ($0.63) returned to Diskor151088
+Diskor151088 collected $0.63 from pot
+Diskor151088: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [6d Td Th Ah 3s]
+Seat 1: flutterbye10 (big blind) folded before Flop
+Seat 2: Nina735 folded on the River
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 (button) collected ($0.63)
+Seat 6: AndrewSpB433 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213841955879:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:30:10 MSK [2020/05/14 5:30:10 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($0.87 in chips) 
+Seat 2: Nina735 ($1.80 in chips) 
+Seat 3: kzncvm ($2.14 in chips) 
+Seat 4: lawlex_2 ($2.14 in chips) 
+Seat 5: Diskor151088 ($2.27 in chips) 
+Seat 6: AndrewSpB433 ($0.97 in chips) 
+flutterbye10: posts small blind $0.01
+Nina735: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 5c]
+kzncvm: raises $0.02 to $0.04
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.02
+*** FLOP *** [3h 2c 6s]
+Nina735: checks 
+kzncvm: bets $0.05
+Nina735: calls $0.05
+*** TURN *** [3h 2c 6s] [Th]
+Nina735: checks 
+kzncvm: bets $0.12
+Nina735: calls $0.12
+*** RIVER *** [3h 2c 6s Th] [Jc]
+Nina735: checks 
+kzncvm: bets $0.32
+Nina735: folds 
+Uncalled bet ($0.32) returned to kzncvm
+kzncvm collected $0.41 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [3h 2c 6s Th Jc]
+Seat 1: flutterbye10 (small blind) folded before Flop
+Seat 2: Nina735 (big blind) folded on the River
+Seat 3: kzncvm collected ($0.41)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841971964:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:30:52 MSK [2020/05/14 5:30:52 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($0.86 in chips) 
+Seat 2: Nina735 ($1.59 in chips) 
+Seat 3: kzncvm ($2.34 in chips) 
+Seat 4: lawlex_2 ($2.14 in chips) 
+Seat 5: Diskor151088 ($2.27 in chips) 
+Seat 6: AndrewSpB433 ($0.97 in chips) 
+Nina735: posts small blind $0.01
+kzncvm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 4s]
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: raises $0.04 to $0.06
+Nina735: folds 
+kzncvm: folds 
+Uncalled bet ($0.04) returned to flutterbye10
+flutterbye10 collected $0.05 from pot
+flutterbye10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 (button) collected ($0.05)
+Seat 2: Nina735 (small blind) folded before Flop
+Seat 3: kzncvm (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841977664:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:31:07 MSK [2020/05/14 5:31:07 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: flutterbye10 ($0.89 in chips) 
+Seat 2: Nina735 ($1.58 in chips) 
+Seat 3: kzncvm ($2.32 in chips) 
+Seat 4: lawlex_2 ($2.14 in chips) 
+Seat 5: Diskor151088 ($2.27 in chips) 
+Seat 6: AndrewSpB433 ($0.97 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Jd]
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to kzncvm
+kzncvm collected $0.04 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 (button) folded before Flop (didn't bet)
+Seat 3: kzncvm (small blind) collected ($0.04)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841983859:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:31:23 MSK [2020/05/14 5:31:23 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($0.89 in chips) 
+Seat 2: Nina735 ($1.58 in chips) 
+Seat 3: kzncvm ($2.34 in chips) 
+Seat 4: lawlex_2 ($2.12 in chips) 
+Seat 5: Diskor151088 ($2.27 in chips) 
+Seat 6: AndrewSpB433 ($0.97 in chips) 
+lawlex_2: posts small blind $0.01
+Diskor151088: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Kd]
+AndrewSpB433: folds 
+flutterbye10: calls $0.02
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: folds 
+flutterbye10: calls $0.03
+Nina735: calls $0.03
+*** FLOP *** [7c 5s 6s]
+lawlex_2: checks 
+flutterbye10: checks 
+Nina735: checks 
+*** TURN *** [7c 5s 6s] [Ac]
+lawlex_2: bets $0.11
+flutterbye10: folds 
+Nina735: calls $0.11
+*** RIVER *** [7c 5s 6s Ac] [Tc]
+lawlex_2: checks 
+Nina735: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [9d Kd] (high card Ace)
+Nina735: mucks hand 
+lawlex_2 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7c 5s 6s Ac Tc]
+Seat 1: flutterbye10 folded on the Turn
+Seat 2: Nina735 mucked [Kc 8h]
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) showed [9d Kd] and won ($0.38) with high card Ace
+Seat 5: Diskor151088 (big blind) folded before Flop
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213841998555:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:32:00 MSK [2020/05/14 5:32:00 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($0.84 in chips) 
+Seat 2: Nina735 ($1.42 in chips) 
+Seat 3: kzncvm ($2.34 in chips) 
+Seat 4: lawlex_2 ($2.34 in chips) 
+Seat 5: Diskor151088 ($2.25 in chips) 
+Seat 6: AndrewSpB433 ($0.97 in chips) 
+Diskor151088: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 6h]
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: raises $0.03 to $0.05
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+Uncalled bet ($0.03) returned to kzncvm
+kzncvm collected $0.05 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm collected ($0.05)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Diskor151088 (small blind) folded before Flop
+Seat 6: AndrewSpB433 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213842005982:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:32:19 MSK [2020/05/14 5:32:19 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($0.84 in chips) 
+Seat 2: Nina735 ($1.42 in chips) 
+Seat 3: kzncvm ($2.37 in chips) 
+Seat 4: lawlex_2 ($2.34 in chips) 
+Seat 5: Diskor151088 ($2.24 in chips) 
+Seat 6: AndrewSpB433 ($0.95 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 7d]
+Nina735: folds 
+kzncvm: raises $0.03 to $0.05
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Uncalled bet ($0.03) returned to kzncvm
+kzncvm collected $0.05 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 (big blind) folded before Flop
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm collected ($0.05)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 (button) folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213842013969:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:32:40 MSK [2020/05/14 5:32:40 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($0.82 in chips) 
+Seat 2: Nina735 ($1.42 in chips) 
+Seat 3: kzncvm ($2.40 in chips) 
+Seat 4: lawlex_2 ($2.34 in chips) 
+Seat 5: Diskor151088 ($2.24 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+flutterbye10: posts small blind $0.01
+Nina735: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 7c]
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: raises $0.02 to $0.04
+Nina735: calls $0.02
+*** FLOP *** [8d 9c 8c]
+flutterbye10: checks 
+Nina735: checks 
+*** TURN *** [8d 9c 8c] [6s]
+flutterbye10: checks 
+Nina735: checks 
+*** RIVER *** [8d 9c 8c 6s] [3c]
+flutterbye10: checks 
+Nina735: checks 
+*** SHOW DOWN ***
+flutterbye10: shows [6h Ac] (two pair, Eights and Sixes)
+Nina735: mucks hand 
+flutterbye10 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [8d 9c 8c 6s 3c]
+Seat 1: flutterbye10 (small blind) showed [6h Ac] and won ($0.08) with two pair, Eights and Sixes
+Seat 2: Nina735 (big blind) mucked [Kc Qs]
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842023527:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:33:05 MSK [2020/05/14 5:33:05 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($0.86 in chips) 
+Seat 2: Nina735 ($1.38 in chips) 
+Seat 3: kzncvm ($2.40 in chips) 
+Seat 4: lawlex_2 ($2.34 in chips) 
+Seat 5: Diskor151088 ($2.24 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+Nina735: posts small blind $0.01
+kzncvm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 4c]
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: folds 
+Uncalled bet ($0.01) returned to kzncvm
+kzncvm collected $0.02 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: flutterbye10 (button) folded before Flop (didn't bet)
+Seat 2: Nina735 (small blind) folded before Flop
+Seat 3: kzncvm (big blind) collected ($0.02)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842027453:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:33:15 MSK [2020/05/14 5:33:15 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: flutterbye10 ($0.86 in chips) 
+Seat 2: Nina735 ($1.37 in chips) 
+Seat 3: kzncvm ($2.41 in chips) 
+Seat 4: lawlex_2 ($2.34 in chips) 
+Seat 5: Diskor151088 ($2.24 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 4h]
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: checks 
+*** FLOP *** [9h 4c 7h]
+lawlex_2: checks 
+Nina735: bets $0.03
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to Nina735
+Nina735 collected $0.05 from pot
+Nina735: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9h 4c 7h]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 (button) collected ($0.05)
+Seat 3: kzncvm (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842035574:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:33:36 MSK [2020/05/14 5:33:36 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($0.86 in chips) 
+Seat 2: Nina735 ($1.40 in chips) 
+Seat 3: kzncvm ($2.40 in chips) 
+Seat 4: lawlex_2 ($2.32 in chips) 
+Seat 5: Diskor151088 ($2.24 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+lawlex_2: posts small blind $0.01
+Diskor151088: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Js]
+AndrewSpB433: folds 
+flutterbye10: calls $0.02
+Nina735: folds 
+kzncvm: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: calls $0.03
+flutterbye10: calls $0.03
+kzncvm: calls $0.03
+*** FLOP *** [4c 4h Qd]
+lawlex_2: bets $0.13
+Diskor151088: folds 
+flutterbye10: folds 
+kzncvm: folds 
+Uncalled bet ($0.13) returned to lawlex_2
+lawlex_2 collected $0.19 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4c 4h Qd]
+Seat 1: flutterbye10 folded on the Flop
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm (button) folded on the Flop
+Seat 4: lawlex_2 (small blind) collected ($0.19)
+Seat 5: Diskor151088 (big blind) folded on the Flop
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842053378:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:34:22 MSK [2020/05/14 5:34:22 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($0.81 in chips) 
+Seat 2: Nina735 ($1.40 in chips) 
+Seat 3: kzncvm ($2.35 in chips) 
+Seat 4: lawlex_2 ($2.46 in chips) 
+Seat 5: Diskor151088 ($2.19 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+Diskor151088: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 3c]
+flutterbye10: folds 
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: folds 
+AndrewSpB433: folds 
+Nina735: calls $0.03
+*** FLOP *** [Kc Td Tc]
+Nina735: checks 
+lawlex_2: bets $0.09
+Nina735: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kc Td Tc]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded on the Flop
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) collected ($0.13)
+Seat 5: Diskor151088 (small blind) folded before Flop
+Seat 6: AndrewSpB433 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213842061542:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:34:43 MSK [2020/05/14 5:34:43 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($0.81 in chips) 
+Seat 2: Nina735 ($1.35 in chips) 
+Seat 3: kzncvm ($2.35 in chips) 
+Seat 4: lawlex_2 ($2.54 in chips) 
+Seat 5: Diskor151088 ($2.18 in chips) 
+Seat 6: AndrewSpB433 ($0.92 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 2h]
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: raises $0.04 to $0.06
+flutterbye10: folds 
+Uncalled bet ($0.04) returned to AndrewSpB433
+AndrewSpB433 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: flutterbye10 (big blind) folded before Flop
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 (button) folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213842065819:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:34:54 MSK [2020/05/14 5:34:54 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($0.79 in chips) 
+Seat 2: Nina735 ($1.35 in chips) 
+Seat 3: kzncvm ($2.35 in chips) 
+Seat 4: lawlex_2 ($2.54 in chips) 
+Seat 5: Diskor151088 ($2.18 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+flutterbye10: posts small blind $0.01
+Nina735: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Jd]
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 (small blind) folded before Flop
+Seat 2: Nina735 (big blind) folded before Flop
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842071637:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:35:09 MSK [2020/05/14 5:35:09 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($0.78 in chips) 
+Seat 2: Nina735 ($1.33 in chips) 
+Seat 3: kzncvm ($2.35 in chips) 
+Seat 4: lawlex_2 ($2.57 in chips) 
+Seat 5: Diskor151088 ($2.18 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+Nina735: posts small blind $0.01
+kzncvm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 3s]
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: raises $0.04 to $0.06
+Nina735: folds 
+kzncvm: calls $0.04
+*** FLOP *** [3d 4d 5d]
+kzncvm: checks 
+flutterbye10: bets $0.06
+kzncvm: calls $0.06
+*** TURN *** [3d 4d 5d] [2h]
+kzncvm: checks 
+flutterbye10: bets $0.12
+kzncvm: raises $0.22 to $0.34
+flutterbye10: raises $0.32 to $0.66 and is all-in
+kzncvm: calls $0.32
+*** RIVER *** [3d 4d 5d 2h] [5s]
+*** SHOW DOWN ***
+kzncvm: shows [As 7d] (a straight, Ace to Five)
+flutterbye10: shows [Ad 8h] (a straight, Ace to Five)
+kzncvm collected $0.76 from pot
+flutterbye10 collected $0.76 from pot
+*** SUMMARY ***
+Total pot $1.57 | Rake $0.05 
+Board [3d 4d 5d 2h 5s]
+Seat 1: flutterbye10 (button) showed [Ad 8h] and won ($0.76) with a straight, Ace to Five
+Seat 2: Nina735 (small blind) folded before Flop
+Seat 3: kzncvm (big blind) showed [As 7d] and won ($0.76) with a straight, Ace to Five
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842102788:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:36:29 MSK [2020/05/14 5:36:29 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($1.32 in chips) 
+Seat 3: kzncvm ($2.33 in chips) 
+Seat 4: lawlex_2 ($2.57 in chips) 
+Seat 5: Diskor151088 ($2.18 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 8h]
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to kzncvm
+kzncvm collected $0.04 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 (button) folded before Flop (didn't bet)
+Seat 3: kzncvm (small blind) collected ($0.04)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842125782:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:36:55 MSK [2020/05/14 5:36:55 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($1.32 in chips) 
+Seat 3: kzncvm ($2.35 in chips) 
+Seat 4: lawlex_2 ($2.55 in chips) 
+Seat 5: Diskor151088 ($2.18 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+lawlex_2: posts small blind $0.01
+Diskor151088: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 3c]
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Diskor151088
+Diskor151088 collected $0.02 from pot
+Diskor151088: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Diskor151088 (big blind) collected ($0.02)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842131273:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:37:10 MSK [2020/05/14 5:37:10 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($1.32 in chips) 
+Seat 3: kzncvm ($2.35 in chips) 
+Seat 4: lawlex_2 ($2.54 in chips) 
+Seat 5: Diskor151088 ($2.19 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+Diskor151088: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 4h]
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: raises $0.03 to $0.05
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+Uncalled bet ($0.03) returned to kzncvm
+kzncvm collected $0.05 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm collected ($0.05)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Diskor151088 (small blind) folded before Flop
+Seat 6: AndrewSpB433 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213842136458:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:37:23 MSK [2020/05/14 5:37:23 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($1.32 in chips) 
+Seat 3: kzncvm ($2.38 in chips) 
+Seat 4: lawlex_2 ($2.54 in chips) 
+Seat 5: Diskor151088 ($2.18 in chips) 
+Seat 6: AndrewSpB433 ($0.92 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 9d]
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: raises $0.04 to $0.06
+flutterbye10: folds 
+Nina735: calls $0.04
+*** FLOP *** [6c 7c 4c]
+AndrewSpB433: checks 
+Nina735: bets $0.07
+AndrewSpB433: folds 
+Uncalled bet ($0.07) returned to Nina735
+Nina735 collected $0.14 from pot
+Nina735: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6c 7c 4c]
+Seat 1: flutterbye10 (big blind) folded before Flop
+Seat 2: Nina735 collected ($0.14)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 (button) folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213842148799:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:37:55 MSK [2020/05/14 5:37:55 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($0.74 in chips) 
+Seat 2: Nina735 ($1.40 in chips) 
+Seat 3: kzncvm ($2.38 in chips) 
+Seat 4: lawlex_2 ($2.54 in chips) 
+Seat 5: Diskor151088 ($2.18 in chips) 
+Seat 6: AndrewSpB433 ($0.86 in chips) 
+flutterbye10: posts small blind $0.01
+Nina735: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Qh]
+kzncvm: raises $0.02 to $0.04
+lawlex_2: calls $0.04
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.02
+*** FLOP *** [6s 6h Th]
+Nina735: checks 
+kzncvm: bets $0.06
+lawlex_2: calls $0.06
+Nina735: folds 
+*** TURN *** [6s 6h Th] [Tc]
+kzncvm: bets $0.08
+lawlex_2: raises $0.26 to $0.34
+kzncvm: folds 
+Uncalled bet ($0.26) returned to lawlex_2
+lawlex_2 collected $0.40 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [6s 6h Th Tc]
+Seat 1: flutterbye10 (small blind) folded before Flop
+Seat 2: Nina735 (big blind) folded on the Flop
+Seat 3: kzncvm folded on the Turn
+Seat 4: lawlex_2 collected ($0.40)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842175913:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:39:05 MSK [2020/05/14 5:39:05 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($0.73 in chips) 
+Seat 2: Nina735 ($1.36 in chips) 
+Seat 3: kzncvm ($2.20 in chips) 
+Seat 4: lawlex_2 ($2.76 in chips) 
+Seat 5: Diskor151088 ($2.18 in chips) 
+Seat 6: AndrewSpB433 ($0.86 in chips) 
+Nina735: posts small blind $0.01
+kzncvm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Kd]
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: raises $0.04 to $0.06
+Nina735: folds 
+kzncvm: folds 
+Uncalled bet ($0.04) returned to flutterbye10
+flutterbye10 collected $0.05 from pot
+flutterbye10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 (button) collected ($0.05)
+Seat 2: Nina735 (small blind) folded before Flop
+Seat 3: kzncvm (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842181383:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:39:19 MSK [2020/05/14 5:39:19 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($1.35 in chips) 
+Seat 3: kzncvm ($2.18 in chips) 
+Seat 4: lawlex_2 ($2.76 in chips) 
+Seat 5: Diskor151088 ($2.18 in chips) 
+Seat 6: AndrewSpB433 ($0.86 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 9c]
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 (button) folded before Flop (didn't bet)
+Seat 3: kzncvm (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842187421:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:39:35 MSK [2020/05/14 5:39:35 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($1.35 in chips) 
+Seat 3: kzncvm ($2.17 in chips) 
+Seat 4: lawlex_2 ($2.77 in chips) 
+Seat 5: Diskor151088 ($2.18 in chips) 
+Seat 6: AndrewSpB433 ($0.86 in chips) 
+lawlex_2: posts small blind $0.01
+Diskor151088: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Tc]
+AndrewSpB433: raises $0.04 to $0.06
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: folds 
+Uncalled bet ($0.04) returned to AndrewSpB433
+AndrewSpB433 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Diskor151088 (big blind) folded before Flop
+Seat 6: AndrewSpB433 collected ($0.05)
+
+
+
+PokerStars Hand #213842195368:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:39:55 MSK [2020/05/14 5:39:55 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($1.35 in chips) 
+Seat 3: kzncvm ($2.17 in chips) 
+Seat 4: lawlex_2 ($2.76 in chips) 
+Seat 5: Diskor151088 ($2.16 in chips) 
+Seat 6: AndrewSpB433 ($0.89 in chips) 
+Diskor151088: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Jh]
+flutterbye10: folds 
+Nina735: raises $0.05 to $0.07
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+Uncalled bet ($0.05) returned to Nina735
+Nina735 collected $0.05 from pot
+Nina735: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 collected ($0.05)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Diskor151088 (small blind) folded before Flop
+Seat 6: AndrewSpB433 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213842203712:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:40:17 MSK [2020/05/14 5:40:17 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($0.76 in chips) 
+Seat 2: Nina735 ($1.38 in chips) 
+Seat 3: kzncvm ($2.17 in chips) 
+Seat 4: lawlex_2 ($2.76 in chips) 
+Seat 5: Diskor151088 ($2.15 in chips) 
+Seat 6: AndrewSpB433 ($0.87 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Jc]
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 (big blind) folded before Flop
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: Diskor151088 (button) folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213842210344:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:40:34 MSK [2020/05/14 5:40:34 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($0.74 in chips) 
+Seat 2: Nina735 ($1.38 in chips) 
+Seat 3: kzncvm ($2.17 in chips) 
+Seat 4: lawlex_2 ($2.79 in chips) 
+Seat 5: Diskor151088 ($2.15 in chips) 
+Seat 6: AndrewSpB433 ($0.86 in chips) 
+flutterbye10: posts small blind $0.01
+Nina735: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 4c]
+kzncvm: folds 
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: raises $0.02 to $0.04
+flutterbye10: folds 
+Nina735: folds 
+Uncalled bet ($0.02) returned to AndrewSpB433
+AndrewSpB433 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 (small blind) folded before Flop
+Seat 2: Nina735 (big blind) folded before Flop
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213842215675:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:40:47 MSK [2020/05/14 5:40:47 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($0.73 in chips) 
+Seat 2: Nina735 ($1.36 in chips) 
+Seat 3: kzncvm ($2.17 in chips) 
+Seat 4: lawlex_2 ($2.79 in chips) 
+Seat 5: Diskor151088 ($2.15 in chips) 
+Seat 6: AndrewSpB433 ($0.89 in chips) 
+Nina735: posts small blind $0.01
+kzncvm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Ad]
+lawlex_2: folds 
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.01
+kzncvm: checks 
+*** FLOP *** [Qs Kd 2c]
+Nina735: checks 
+kzncvm: bets $0.02
+Nina735: calls $0.02
+*** TURN *** [Qs Kd 2c] [Td]
+Nina735: checks 
+kzncvm: bets $0.04
+Nina735: calls $0.04
+*** RIVER *** [Qs Kd 2c Td] [Ks]
+Nina735: checks 
+kzncvm: bets $0.11
+Nina735: folds 
+Uncalled bet ($0.11) returned to kzncvm
+kzncvm collected $0.15 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Qs Kd 2c Td Ks]
+Seat 1: flutterbye10 (button) folded before Flop (didn't bet)
+Seat 2: Nina735 (small blind) folded on the River
+Seat 3: kzncvm (big blind) collected ($0.15)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842248888:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:42:12 MSK [2020/05/14 5:42:12 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: flutterbye10 ($0.73 in chips) 
+Seat 2: Nina735 ($1.28 in chips) 
+Seat 3: kzncvm ($2.24 in chips) 
+Seat 4: lawlex_2 ($2.79 in chips) 
+Seat 5: Diskor151088 ($2.15 in chips) 
+Seat 6: AndrewSpB433 ($0.89 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 3c]
+Diskor151088: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Diskor151088 leaves the table
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: checks 
+*** FLOP *** [5s As 6h]
+lawlex_2: checks 
+ChaChaPir joins the table at seat #5 
+Nina735: bets $0.03
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to Nina735
+Nina735 collected $0.05 from pot
+Nina735: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5s As 6h]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 (button) collected ($0.05)
+Seat 3: kzncvm (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: Diskor151088 folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842257096:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:42:33 MSK [2020/05/14 5:42:33 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($0.73 in chips) 
+Seat 2: Nina735 ($1.31 in chips) 
+Seat 3: kzncvm ($2.23 in chips) 
+Seat 4: lawlex_2 ($2.77 in chips) 
+Seat 5: ChaChaPir ($0.80 in chips) 
+Seat 6: AndrewSpB433 ($0.89 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 2s]
+AndrewSpB433: raises $0.02 to $0.04
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+*** FLOP *** [8d Jc 5h]
+ChaChaPir: bets $0.02
+AndrewSpB433: calls $0.02
+*** TURN *** [8d Jc 5h] [Ks]
+ChaChaPir: bets $0.02
+AndrewSpB433: raises $0.04 to $0.06
+ChaChaPir: folds 
+Uncalled bet ($0.04) returned to AndrewSpB433
+AndrewSpB433 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8d Jc 5h Ks]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: ChaChaPir (big blind) folded on the Turn
+Seat 6: AndrewSpB433 collected ($0.16)
+
+
+
+PokerStars Hand #213842268702:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:43:03 MSK [2020/05/14 5:43:03 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($0.73 in chips) 
+Seat 2: Nina735 ($1.31 in chips) 
+Seat 3: kzncvm ($2.23 in chips) 
+Seat 4: lawlex_2 ($2.76 in chips) 
+Seat 5: ChaChaPir ($0.72 in chips) 
+Seat 6: AndrewSpB433 ($0.97 in chips) 
+ChaChaPir: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 6s]
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: raises $0.03 to $0.05
+lawlex_2: folds 
+ChaChaPir: folds 
+AndrewSpB433: folds 
+Uncalled bet ($0.03) returned to kzncvm
+kzncvm collected $0.05 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm collected ($0.05)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ChaChaPir (small blind) folded before Flop
+Seat 6: AndrewSpB433 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213842275920:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:43:21 MSK [2020/05/14 5:43:21 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($0.73 in chips) 
+Seat 2: Nina735 ($1.31 in chips) 
+Seat 3: kzncvm ($2.26 in chips) 
+Seat 4: lawlex_2 ($2.76 in chips) 
+Seat 5: ChaChaPir ($0.71 in chips) 
+Seat 6: AndrewSpB433 ($0.95 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Qc]
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: folds 
+AndrewSpB433: folds 
+Uncalled bet ($0.01) returned to flutterbye10
+flutterbye10 collected $0.02 from pot
+flutterbye10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: flutterbye10 (big blind) collected ($0.02)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir (button) folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213842281044:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:43:34 MSK [2020/05/14 5:43:34 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($0.74 in chips) 
+Seat 2: Nina735 ($1.31 in chips) 
+Seat 3: kzncvm ($2.26 in chips) 
+Seat 4: lawlex_2 ($2.76 in chips) 
+Seat 5: ChaChaPir ($0.71 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+flutterbye10: posts small blind $0.01
+Nina735: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 6h]
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: folds 
+AndrewSpB433: folds 
+flutterbye10: raises $0.02 to $0.04
+Nina735: calls $0.02
+*** FLOP *** [2d Kc Ad]
+flutterbye10: bets $0.06
+Nina735: calls $0.06
+*** TURN *** [2d Kc Ad] [3h]
+flutterbye10: checks 
+Nina735: bets $0.02
+flutterbye10: folds 
+Uncalled bet ($0.02) returned to Nina735
+Nina735 collected $0.19 from pot
+Nina735: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2d Kc Ad 3h]
+Seat 1: flutterbye10 (small blind) folded on the Turn
+Seat 2: Nina735 (big blind) collected ($0.19)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842293868:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:44:07 MSK [2020/05/14 5:44:07 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($0.64 in chips) 
+Seat 2: Nina735 ($1.40 in chips) 
+Seat 3: kzncvm ($2.26 in chips) 
+Seat 4: lawlex_2 ($2.76 in chips) 
+Seat 5: ChaChaPir ($0.71 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+Nina735: posts small blind $0.01
+kzncvm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Kc]
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.01
+kzncvm: raises $0.09 to $0.11
+ChaChaPir: raises $0.60 to $0.71 and is all-in
+Nina735: folds 
+kzncvm: calls $0.60
+*** FLOP *** [Jc Jd Tc]
+*** TURN *** [Jc Jd Tc] [Kh]
+*** RIVER *** [Jc Jd Tc Kh] [9d]
+*** SHOW DOWN ***
+kzncvm: shows [Qs Ks] (a straight, Nine to King)
+ChaChaPir: shows [9c Jh] (a full house, Jacks full of Nines)
+ChaChaPir collected $1.39 from pot
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.05 
+Board [Jc Jd Tc Kh 9d]
+Seat 1: flutterbye10 (button) folded before Flop (didn't bet)
+Seat 2: Nina735 (small blind) folded before Flop
+Seat 3: kzncvm (big blind) showed [Qs Ks] and lost with a straight, Nine to King
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir showed [9c Jh] and won ($1.39) with a full house, Jacks full of Nines
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842315468:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:45:01 MSK [2020/05/14 5:45:01 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: flutterbye10 ($0.64 in chips) 
+Seat 2: Nina735 ($1.38 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($2.76 in chips) 
+Seat 5: ChaChaPir ($1.39 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 7s]
+ChaChaPir: folds 
+AndrewSpB433 has timed out
+AndrewSpB433: folds 
+flutterbye10: raises $0.04 to $0.06
+Nina735: calls $0.06
+kzncvm: folds 
+lawlex_2: folds 
+*** FLOP *** [2h Tc 9h]
+flutterbye10: bets $0.07
+Nina735: calls $0.07
+*** TURN *** [2h Tc 9h] [Jh]
+flutterbye10: bets $0.06
+Nina735: raises $0.20 to $0.26
+flutterbye10: raises $0.25 to $0.51 and is all-in
+Nina735: calls $0.25
+*** RIVER *** [2h Tc 9h Jh] [Ts]
+*** SHOW DOWN ***
+flutterbye10: shows [Kh 5h] (a flush, King high)
+Nina735: shows [Qs Qd] (two pair, Queens and Tens)
+flutterbye10 collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [2h Tc 9h Jh Ts]
+Seat 1: flutterbye10 showed [Kh 5h] and won ($1.26) with a flush, King high
+Seat 2: Nina735 (button) showed [Qs Qd] and lost with two pair, Queens and Tens
+Seat 3: kzncvm (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842335666:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:45:52 MSK [2020/05/14 5:45:52 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($1.26 in chips) 
+Seat 2: Nina735 ($0.74 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.74 in chips) 
+Seat 5: ChaChaPir ($1.39 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 3d]
+AndrewSpB433: folds 
+flutterbye10: folds 
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: checks 
+*** FLOP *** [Ad 8c 7d]
+ChaChaPir: bets $0.04
+Nina735: calls $0.04
+*** TURN *** [Ad 8c 7d] [3h]
+ChaChaPir: bets $0.04
+Nina735: calls $0.04
+*** RIVER *** [Ad 8c 7d 3h] [Ac]
+ChaChaPir: checks 
+Nina735: checks 
+*** SHOW DOWN ***
+ChaChaPir: shows [9s Tc] (a pair of Aces)
+Nina735: shows [Jd Ts] (a pair of Aces - Jack kicker)
+Nina735 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ad 8c 7d 3h Ac]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 showed [Jd Ts] and won ($0.20) with a pair of Aces
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: ChaChaPir (big blind) showed [9s Tc] and lost with a pair of Aces
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842347010:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:46:21 MSK [2020/05/14 5:46:21 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($1.26 in chips) 
+Seat 2: Nina735 ($0.84 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.73 in chips) 
+Seat 5: ChaChaPir ($1.29 in chips) 
+Seat 6: AndrewSpB433 ($0.94 in chips) 
+ChaChaPir: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 3s]
+flutterbye10: folds 
+Nina735: folds 
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.01
+AndrewSpB433: raises $0.04 to $0.06
+ChaChaPir: calls $0.04
+*** FLOP *** [As 7c 4h]
+ChaChaPir: checks 
+AndrewSpB433: bets $0.06
+ChaChaPir: folds 
+Uncalled bet ($0.06) returned to AndrewSpB433
+AndrewSpB433 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [As 7c 4h]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: Nina735 folded before Flop (didn't bet)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ChaChaPir (small blind) folded on the Flop
+Seat 6: AndrewSpB433 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #213842356815:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:46:46 MSK [2020/05/14 5:46:46 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($1.26 in chips) 
+Seat 2: Nina735 ($0.84 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.73 in chips) 
+Seat 5: ChaChaPir ($1.23 in chips) 
+Seat 6: AndrewSpB433 ($1 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 9s]
+Nina735: calls $0.02
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+AndrewSpB433: calls $0.01
+flutterbye10: checks 
+*** FLOP *** [3h 5h 3s]
+AndrewSpB433: bets $0.04
+flutterbye10: folds 
+Nina735: folds 
+Nina735 leaves the table
+ChaChaPir: calls $0.04
+*** TURN *** [3h 5h 3s] [4c]
+AndrewSpB433: bets $0.06
+ChaChaPir: calls $0.06
+*** RIVER *** [3h 5h 3s 4c] [8d]
+AndrewSpB433: bets $0.08
+ChaChaPir: raises $1.03 to $1.11 and is all-in
+AndrewSpB433: folds 
+Uncalled bet ($1.03) returned to ChaChaPir
+ChaChaPir collected $0.42 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [3h 5h 3s 4c 8d]
+Seat 1: flutterbye10 (big blind) folded on the Flop
+Seat 2: Nina735 folded on the Flop
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir (button) collected ($0.42)
+Seat 6: AndrewSpB433 (small blind) folded on the River
+
+
+
+PokerStars Hand #213842388099:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:48:06 MSK [2020/05/14 5:48:06 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($1.24 in chips) 
+Seat 3: kzncvm ($1.99 in chips) 
+Seat 4: lawlex_2 ($2.73 in chips) 
+Seat 5: ChaChaPir ($1.45 in chips) 
+Seat 6: AndrewSpB433 ($0.80 in chips) 
+flutterbye10: posts small blind $0.01
+kzncvm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Qh]
+lawlex_2: folds 
+ChaChaPir: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+Uncalled bet ($0.01) returned to kzncvm
+kzncvm collected $0.02 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: flutterbye10 (small blind) folded before Flop
+Seat 3: kzncvm (big blind) collected ($0.02)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842393607:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:48:20 MSK [2020/05/14 5:48:20 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($1.23 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($2.73 in chips) 
+Seat 5: ChaChaPir ($1.45 in chips) 
+Seat 6: AndrewSpB433 ($0.80 in chips) 
+kzncvm: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Qh]
+ChaChaPir: folds 
+AndrewSpB433: folds 
+flutterbye10: folds 
+kzncvm: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to kzncvm
+kzncvm collected $0.04 from pot
+kzncvm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: flutterbye10 (button) folded before Flop (didn't bet)
+Seat 3: kzncvm (small blind) collected ($0.04)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842406729:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:48:53 MSK [2020/05/14 5:48:53 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($1.23 in chips) 
+Seat 3: kzncvm ($2.02 in chips) 
+Seat 4: lawlex_2 ($2.71 in chips) 
+Seat 5: ChaChaPir ($1.45 in chips) 
+Seat 6: AndrewSpB433 ($0.80 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 9d]
+AndrewSpB433: folds 
+adidas0210 joins the table at seat #2 
+flutterbye10: raises $0.02 to $0.04
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+*** FLOP *** [5h 9h Ah]
+ChaChaPir: bets $0.06
+flutterbye10: folds 
+Uncalled bet ($0.06) returned to ChaChaPir
+ChaChaPir collected $0.09 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5h 9h Ah]
+Seat 1: flutterbye10 folded on the Flop
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: ChaChaPir (big blind) collected ($0.09)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842415804:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:49:16 MSK [2020/05/14 5:49:16 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($1.19 in chips) 
+Seat 2: adidas0210 ($2 in chips) 
+Seat 3: kzncvm ($2.02 in chips) 
+Seat 4: lawlex_2 ($2.70 in chips) 
+Seat 5: ChaChaPir ($1.50 in chips) 
+Seat 6: AndrewSpB433 ($0.80 in chips) 
+ChaChaPir: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+adidas0210: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 8d]
+flutterbye10: folds 
+adidas0210: checks 
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.01
+AndrewSpB433: raises $0.06 to $0.08
+adidas0210: calls $0.06
+ChaChaPir: folds 
+*** FLOP *** [Qc 6c Qh]
+AndrewSpB433: checks 
+adidas0210: checks 
+*** TURN *** [Qc 6c Qh] [Jc]
+AndrewSpB433: checks 
+adidas0210: checks 
+*** RIVER *** [Qc 6c Qh Jc] [Tc]
+AndrewSpB433: checks 
+adidas0210: checks 
+*** SHOW DOWN ***
+AndrewSpB433: shows [Jh Ad] (two pair, Queens and Jacks)
+adidas0210: mucks hand 
+AndrewSpB433 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Qc 6c Qh Jc Tc]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: adidas0210 mucked [2d 8h]
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ChaChaPir (small blind) folded before Flop
+Seat 6: AndrewSpB433 (big blind) showed [Jh Ad] and won ($0.17) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #213842433129:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:50:00 MSK [2020/05/14 5:50:00 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($1.19 in chips) 
+Seat 2: adidas0210 ($1.92 in chips) 
+Seat 3: kzncvm ($2.02 in chips) 
+Seat 4: lawlex_2 ($2.70 in chips) 
+Seat 5: ChaChaPir ($1.48 in chips) 
+Seat 6: AndrewSpB433 ($0.89 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Kd]
+adidas0210: calls $0.02
+kzncvm: folds 
+lawlex_2: raises $0.03 to $0.05
+ChaChaPir: calls $0.05
+AndrewSpB433: folds 
+flutterbye10: folds 
+adidas0210: calls $0.03
+*** FLOP *** [6d Jc 9h]
+adidas0210: checks 
+lawlex_2: bets $0.11
+ChaChaPir: folds 
+adidas0210: calls $0.11
+*** TURN *** [6d Jc 9h] [3c]
+adidas0210: checks 
+lawlex_2: bets $0.26
+adidas0210: calls $0.26
+*** RIVER *** [6d Jc 9h 3c] [2c]
+adidas0210: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+adidas0210: shows [5c 6h] (a pair of Sixes)
+lawlex_2: mucks hand 
+adidas0210 collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [6d Jc 9h 3c 2c]
+Seat 1: flutterbye10 (big blind) folded before Flop
+Seat 2: adidas0210 showed [5c 6h] and won ($0.89) with a pair of Sixes
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 mucked [Ad Kd]
+Seat 5: ChaChaPir (button) folded on the Flop
+Seat 6: AndrewSpB433 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213842459055:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:51:06 MSK [2020/05/14 5:51:06 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($1.17 in chips) 
+Seat 2: adidas0210 ($2.39 in chips) 
+Seat 3: kzncvm ($2.02 in chips) 
+Seat 4: lawlex_2 ($2.28 in chips) 
+Seat 5: ChaChaPir ($1.43 in chips) 
+Seat 6: AndrewSpB433 ($0.88 in chips) 
+flutterbye10: posts small blind $0.01
+adidas0210: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Jc]
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: folds 
+AndrewSpB433 is disconnected 
+AndrewSpB433 has timed out while disconnected
+AndrewSpB433: folds 
+flutterbye10: calls $0.01
+adidas0210: checks 
+*** FLOP *** [9h Th 5c]
+flutterbye10: bets $0.02
+adidas0210: calls $0.02
+*** TURN *** [9h Th 5c] [6d]
+flutterbye10: checks 
+adidas0210: checks 
+*** RIVER *** [9h Th 5c 6d] [Qh]
+flutterbye10: checks 
+adidas0210: bets $0.14
+flutterbye10: folds 
+Uncalled bet ($0.14) returned to adidas0210
+adidas0210 collected $0.08 from pot
+adidas0210: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9h Th 5c 6d Qh]
+Seat 1: flutterbye10 (small blind) folded on the River
+Seat 2: adidas0210 (big blind) collected ($0.08)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842476252:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:51:49 MSK [2020/05/14 5:51:49 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($1.13 in chips) 
+Seat 2: adidas0210 ($2.43 in chips) 
+Seat 3: kzncvm ($2.02 in chips) 
+Seat 4: lawlex_2 ($2.28 in chips) 
+Seat 5: ChaChaPir ($1.43 in chips) 
+adidas0210: posts small blind $0.01
+kzncvm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 7h]
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+flutterbye10: calls $0.02
+adidas0210: calls $0.01
+kzncvm: checks 
+*** FLOP *** [Td Qc Ks]
+adidas0210 has timed out
+adidas0210: checks 
+kzncvm: checks 
+adidas0210 is disconnected 
+ChaChaPir: checks 
+flutterbye10: bets $0.06
+adidas0210 has timed out while disconnected
+adidas0210: folds 
+kzncvm: folds 
+ChaChaPir: folds 
+Uncalled bet ($0.06) returned to flutterbye10
+flutterbye10 collected $0.08 from pot
+flutterbye10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Td Qc Ks]
+Seat 1: flutterbye10 (button) collected ($0.08)
+Seat 2: adidas0210 (small blind) folded on the Flop
+Seat 3: kzncvm (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir folded on the Flop
+
+
+
+PokerStars Hand #213842512616:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:53:22 MSK [2020/05/14 5:53:22 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($1.19 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($2.28 in chips) 
+Seat 5: ChaChaPir ($1.41 in chips) 
+Seat 6: AndrewSpB433 ($0.88 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Td]
+AndrewSpB433: raises $0.04 to $0.06
+flutterbye10: folds 
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.04
+*** FLOP *** [8s 9c 4s]
+ChaChaPir: checks 
+AndrewSpB433: checks 
+*** TURN *** [8s 9c 4s] [Qd]
+ChaChaPir: bets $0.04
+AndrewSpB433: raises $0.06 to $0.10
+ChaChaPir: calls $0.06
+*** RIVER *** [8s 9c 4s Qd] [As]
+ChaChaPir: checks 
+AndrewSpB433: checks 
+*** SHOW DOWN ***
+ChaChaPir: shows [Ks 3c] (high card Ace)
+AndrewSpB433: shows [Qh Jd] (a pair of Queens)
+AndrewSpB433 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [8s 9c 4s Qd As]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 3: kzncvm (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: ChaChaPir (big blind) showed [Ks 3c] and lost with high card Ace
+Seat 6: AndrewSpB433 showed [Qh Jd] and won ($0.32) with a pair of Queens
+
+
+
+PokerStars Hand #213842526433:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:53:57 MSK [2020/05/14 5:53:57 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($1.19 in chips) 
+Seat 2: adidas0210 ($2.41 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($2.27 in chips) 
+Seat 5: ChaChaPir ($1.25 in chips) 
+Seat 6: AndrewSpB433 ($1.04 in chips) 
+ChaChaPir: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 6h]
+flutterbye10: folds 
+adidas0210: calls $0.02
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.01
+AndrewSpB433: checks 
+*** FLOP *** [5d 4c 5h]
+ChaChaPir: bets $0.02
+AndrewSpB433: raises $0.02 to $0.04
+adidas0210: calls $0.04
+ChaChaPir: calls $0.02
+*** TURN *** [5d 4c 5h] [As]
+ChaChaPir: bets $0.06
+AndrewSpB433: folds 
+adidas0210: folds 
+Uncalled bet ($0.06) returned to ChaChaPir
+ChaChaPir collected $0.17 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5d 4c 5h As]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 2: adidas0210 folded on the Turn
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ChaChaPir (small blind) collected ($0.17)
+Seat 6: AndrewSpB433 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213842544636:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:54:43 MSK [2020/05/14 5:54:43 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($1.19 in chips) 
+Seat 2: adidas0210 ($2.35 in chips) 
+Seat 3: kzncvm ($2 in chips) 
+Seat 4: lawlex_2 ($2.27 in chips) 
+Seat 5: ChaChaPir ($1.36 in chips) 
+Seat 6: AndrewSpB433 ($0.98 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 3s]
+adidas0210 is disconnected 
+adidas0210 has timed out while disconnected
+adidas0210: folds 
+kzncvm is disconnected 
+kzncvm has timed out while disconnected
+kzncvm: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+AndrewSpB433: raises $0.06 to $0.08
+flutterbye10: folds 
+ChaChaPir: calls $0.06
+*** FLOP *** [Ad 7c 4s]
+AndrewSpB433: checks 
+ChaChaPir: bets $0.08
+AndrewSpB433: calls $0.08
+*** TURN *** [Ad 7c 4s] [7s]
+AndrewSpB433: checks 
+ChaChaPir: bets $0.10
+AndrewSpB433: calls $0.10
+*** RIVER *** [Ad 7c 4s 7s] [8s]
+AndrewSpB433: checks 
+ChaChaPir: checks 
+*** SHOW DOWN ***
+AndrewSpB433: shows [As Th] (two pair, Aces and Sevens)
+ChaChaPir: mucks hand 
+AndrewSpB433 collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [Ad 7c 4s 7s 8s]
+Seat 1: flutterbye10 (big blind) folded before Flop
+Seat 2: adidas0210 folded before Flop (didn't bet)
+Seat 3: kzncvm folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir (button) mucked [5c 2c]
+Seat 6: AndrewSpB433 (small blind) showed [As Th] and won ($0.52) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #213842563396:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:55:35 MSK [2020/05/14 5:55:35 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($1.17 in chips) 
+Seat 4: lawlex_2 ($2.27 in chips) 
+Seat 5: ChaChaPir ($1.10 in chips) 
+Seat 6: AndrewSpB433 ($1.24 in chips) 
+flutterbye10: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 8c]
+ChaChaPir: folds 
+AndrewSpB433: folds 
+flutterbye10: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [6s Qd As]
+flutterbye10: checks 
+lawlex_2: bets $0.03
+flutterbye10: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6s Qd As]
+Seat 1: flutterbye10 (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) collected ($0.04)
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842570946:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:55:57 MSK [2020/05/14 5:55:57 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($1.15 in chips) 
+Seat 4: lawlex_2 ($2.29 in chips) 
+Seat 5: ChaChaPir ($1.10 in chips) 
+Seat 6: AndrewSpB433 ($1.24 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 6c]
+AndrewSpB433: folds 
+flutterbye10: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to ChaChaPir
+ChaChaPir collected $0.02 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: flutterbye10 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: ChaChaPir (big blind) collected ($0.02)
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842573258:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:56:04 MSK [2020/05/14 5:56:04 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($1.15 in chips) 
+Seat 4: lawlex_2 ($2.28 in chips) 
+Seat 5: ChaChaPir ($1.11 in chips) 
+Seat 6: AndrewSpB433 ($1.24 in chips) 
+ChaChaPir: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 8d]
+flutterbye10: folds 
+lawlex_2: raises $0.03 to $0.05
+ChaChaPir: raises $1.06 to $1.11 and is all-in
+AndrewSpB433: folds 
+lawlex_2: folds 
+Uncalled bet ($1.06) returned to ChaChaPir
+ChaChaPir collected $0.12 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop
+Seat 5: ChaChaPir (small blind) collected ($0.12)
+Seat 6: AndrewSpB433 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213842582318:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:56:30 MSK [2020/05/14 5:56:30 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($1.15 in chips) 
+Seat 4: lawlex_2 ($2.23 in chips) 
+Seat 5: ChaChaPir ($1.18 in chips) 
+Seat 6: AndrewSpB433 ($1.22 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+kzncvm has timed out
+kzncvm: is sitting out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 4s]
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+AndrewSpB433: folds 
+kzncvm leaves the table
+flutterbye10: checks 
+*** FLOP *** [3h Ah Kh]
+flutterbye10: checks 
+ChaChaPir: bets $0.04
+flutterbye10: folds 
+Uncalled bet ($0.04) returned to ChaChaPir
+ChaChaPir collected $0.05 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h Ah Kh]
+Seat 1: flutterbye10 (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir (button) collected ($0.05)
+Seat 6: AndrewSpB433 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213842591858:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:56:58 MSK [2020/05/14 5:56:58 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($1.13 in chips) 
+Seat 4: lawlex_2 ($2.23 in chips) 
+Seat 5: ChaChaPir ($1.21 in chips) 
+Seat 6: AndrewSpB433 ($1.21 in chips) 
+flutterbye10: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d As]
+ChaChaPir: calls $0.02
+AndrewSpB433: folds 
+flutterbye10: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [7d 6h 4h]
+flutterbye10: checks 
+lawlex_2: checks 
+ChaChaPir: bets $0.06
+flutterbye10: folds 
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to ChaChaPir
+ChaChaPir collected $0.06 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7d 6h 4h]
+Seat 1: flutterbye10 (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: ChaChaPir collected ($0.06)
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842598250:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:57:17 MSK [2020/05/14 5:57:17 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($1.11 in chips) 
+Seat 4: lawlex_2 ($2.21 in chips) 
+Seat 5: ChaChaPir ($1.25 in chips) 
+Seat 6: AndrewSpB433 ($1.21 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Kc]
+AndrewSpB433: folds 
+flutterbye10: raises $0.04 to $0.06
+lawlex_2: calls $0.05
+ChaChaPir: folds 
+*** FLOP *** [7s 8c 3s]
+lawlex_2: bets $0.09
+flutterbye10: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7s 8c 3s]
+Seat 1: flutterbye10 (button) folded on the Flop
+Seat 4: lawlex_2 (small blind) collected ($0.14)
+Seat 5: ChaChaPir (big blind) folded before Flop
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842606221:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:57:40 MSK [2020/05/14 5:57:40 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($1.05 in chips) 
+Seat 4: lawlex_2 ($2.29 in chips) 
+Seat 5: ChaChaPir ($1.23 in chips) 
+Seat 6: AndrewSpB433 ($1.21 in chips) 
+ChaChaPir: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 4s]
+flutterbye10: raises $0.02 to $0.04
+lawlex_2: folds 
+ChaChaPir: calls $0.03
+AndrewSpB433: calls $0.02
+*** FLOP *** [Js 8c 6h]
+ChaChaPir: checks 
+AndrewSpB433: checks 
+flutterbye10: bets $0.08
+ChaChaPir: calls $0.08
+AndrewSpB433: folds 
+*** TURN *** [Js 8c 6h] [6s]
+ChaChaPir: checks 
+mivra69 joins the table at seat #3 
+flutterbye10: checks 
+*** RIVER *** [Js 8c 6h 6s] [5h]
+ChaChaPir: checks 
+flutterbye10: checks 
+*** SHOW DOWN ***
+ChaChaPir: shows [9d Kc] (a pair of Sixes)
+flutterbye10: shows [9c Jc] (two pair, Jacks and Sixes)
+flutterbye10 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Js 8c 6h 6s 5h]
+Seat 1: flutterbye10 showed [9c Jc] and won ($0.27) with two pair, Jacks and Sixes
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ChaChaPir (small blind) showed [9d Kc] and lost with a pair of Sixes
+Seat 6: AndrewSpB433 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213842615109:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:58:06 MSK [2020/05/14 5:58:06 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($1.20 in chips) 
+Seat 4: lawlex_2 ($2.29 in chips) 
+Seat 5: ChaChaPir ($1.11 in chips) 
+Seat 6: AndrewSpB433 ($1.17 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+mivra69: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 7d]
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+AndrewSpB433: calls $0.01
+flutterbye10: checks 
+*** FLOP *** [Qs 6s 2c]
+AndrewSpB433: checks 
+flutterbye10: bets $0.02
+ChaChaPir: calls $0.02
+AndrewSpB433: calls $0.02
+*** TURN *** [Qs 6s 2c] [Qh]
+AndrewSpB433: checks 
+flutterbye10: checks 
+ChaChaPir: bets $0.08
+AndrewSpB433: folds 
+flutterbye10: folds 
+Uncalled bet ($0.08) returned to ChaChaPir
+ChaChaPir collected $0.12 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qs 6s 2c Qh]
+Seat 1: flutterbye10 (big blind) folded on the Turn
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir (button) collected ($0.12)
+Seat 6: AndrewSpB433 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213842629938:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:58:49 MSK [2020/05/14 5:58:49 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($1.16 in chips) 
+Seat 3: mivra69 ($2 in chips) 
+Seat 4: lawlex_2 ($2.29 in chips) 
+Seat 5: ChaChaPir ($1.19 in chips) 
+Seat 6: AndrewSpB433 ($1.13 in chips) 
+flutterbye10: posts small blind $0.01
+mivra69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Kh]
+lawlex_2: raises $0.03 to $0.05
+ChaChaPir: calls $0.05
+AndrewSpB433: folds 
+flutterbye10: calls $0.04
+mivra69: calls $0.03
+*** FLOP *** [Tc Ts 3s]
+flutterbye10: checks 
+mivra69: bets $0.06
+lawlex_2: calls $0.06
+ChaChaPir: folds 
+flutterbye10: folds 
+*** TURN *** [Tc Ts 3s] [2h]
+mivra69: bets $0.22
+lawlex_2: folds 
+Uncalled bet ($0.22) returned to mivra69
+mivra69 collected $0.31 from pot
+mivra69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Tc Ts 3s 2h]
+Seat 1: flutterbye10 (small blind) folded on the Flop
+Seat 3: mivra69 (big blind) collected ($0.31)
+Seat 4: lawlex_2 folded on the Turn
+Seat 5: ChaChaPir folded on the Flop
+Seat 6: AndrewSpB433 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842646239:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:59:36 MSK [2020/05/14 5:59:36 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($1.11 in chips) 
+Seat 3: mivra69 ($2.20 in chips) 
+Seat 4: lawlex_2 ($2.18 in chips) 
+Seat 5: ChaChaPir ($1.14 in chips) 
+Seat 6: AndrewSpB433 ($1.13 in chips) 
+mivra69: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 6h]
+ChaChaPir: folds 
+AndrewSpB433: raises $0.06 to $0.08
+flutterbye10: folds 
+mivra69: folds 
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to AndrewSpB433
+AndrewSpB433 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 (button) folded before Flop (didn't bet)
+Seat 3: mivra69 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+Seat 6: AndrewSpB433 collected ($0.05)
+
+
+
+PokerStars Hand #213842650731:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 12:59:49 MSK [2020/05/14 5:59:49 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($1.11 in chips) 
+Seat 3: mivra69 ($2.19 in chips) 
+Seat 4: lawlex_2 ($2.16 in chips) 
+Seat 5: ChaChaPir ($1.14 in chips) 
+Seat 6: AndrewSpB433 ($1.16 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Ks]
+AndrewSpB433: folds 
+flutterbye10: raises $0.02 to $0.04
+mivra69: calls $0.04
+lawlex_2: raises $0.09 to $0.13
+ChaChaPir: folds 
+flutterbye10: folds 
+mivra69: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: flutterbye10 folded before Flop
+Seat 3: mivra69 (button) folded before Flop
+Seat 4: lawlex_2 (small blind) collected ($0.14)
+Seat 5: ChaChaPir (big blind) folded before Flop
+Seat 6: AndrewSpB433 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842664152:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:00:27 MSK [2020/05/14 6:00:27 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($1.07 in chips) 
+Seat 3: mivra69 ($2.15 in chips) 
+Seat 4: lawlex_2 ($2.26 in chips) 
+Seat 5: ChaChaPir ($1.12 in chips) 
+Seat 6: AndrewSpB433 ($1.16 in chips) 
+ChaChaPir: posts small blind $0.01
+AndrewSpB433: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 9s]
+flutterbye10: folds 
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.01
+AndrewSpB433: checks 
+*** FLOP *** [Th 2h Js]
+ChaChaPir: checks 
+AndrewSpB433: bets $0.04
+ChaChaPir: folds 
+Uncalled bet ($0.04) returned to AndrewSpB433
+AndrewSpB433 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Th 2h Js]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 3: mivra69 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ChaChaPir (small blind) folded on the Flop
+Seat 6: AndrewSpB433 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #213842671952:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:00:49 MSK [2020/05/14 6:00:49 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($1.07 in chips) 
+Seat 3: mivra69 ($2.15 in chips) 
+Seat 4: lawlex_2 ($2.26 in chips) 
+Seat 5: ChaChaPir ($1.10 in chips) 
+Seat 6: AndrewSpB433 ($1.18 in chips) 
+AndrewSpB433: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 5s]
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+AndrewSpB433: folds 
+flutterbye10: checks 
+*** FLOP *** [9s Ah Ad]
+flutterbye10: checks 
+ChaChaPir: bets $0.06
+flutterbye10: folds 
+Uncalled bet ($0.06) returned to ChaChaPir
+ChaChaPir collected $0.05 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9s Ah Ad]
+Seat 1: flutterbye10 (big blind) folded on the Flop
+Seat 3: mivra69 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir (button) collected ($0.05)
+Seat 6: AndrewSpB433 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213842683078:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:01:18 MSK [2020/05/14 6:01:18 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: flutterbye10 ($1.05 in chips) 
+Seat 3: mivra69 ($2.15 in chips) 
+Seat 4: lawlex_2 ($2.26 in chips) 
+Seat 5: ChaChaPir ($1.13 in chips) 
+Seat 6: AndrewSpB433 ($1.17 in chips) 
+flutterbye10: posts small blind $0.01
+mivra69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Qh]
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+AndrewSpB433: raises $0.06 to $0.08
+flutterbye10: folds 
+mivra69: folds 
+ChaChaPir: raises $1.05 to $1.13 and is all-in
+AndrewSpB433: folds 
+Uncalled bet ($1.05) returned to ChaChaPir
+ChaChaPir collected $0.19 from pot
+adidas0210 was removed from the table for failing to post
+adidas0210 leaves the table
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0 
+Seat 1: flutterbye10 (small blind) folded before Flop
+Seat 3: mivra69 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir collected ($0.19)
+Seat 6: AndrewSpB433 (button) folded before Flop
+
+
+
+PokerStars Hand #213842697952:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:01:56 MSK [2020/05/14 6:01:56 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($1.04 in chips) 
+Seat 3: mivra69 ($2.13 in chips) 
+Seat 4: lawlex_2 ($2.26 in chips) 
+Seat 5: ChaChaPir ($1.24 in chips) 
+Seat 6: AndrewSpB433 ($1.09 in chips) 
+mivra69: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 6c]
+ChaChaPir: calls $0.02
+AndrewSpB433: raises $0.06 to $0.08
+flutterbye10: folds 
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: raises $1.16 to $1.24 and is all-in
+AndrewSpB433: calls $1.01 and is all-in
+Uncalled bet ($0.15) returned to ChaChaPir
+AndrewSpB433 has timed out
+*** FLOP *** [8h 5c 3d]
+*** TURN *** [8h 5c 3d] [Ac]
+*** RIVER *** [8h 5c 3d Ac] [3c]
+*** SHOW DOWN ***
+ChaChaPir: shows [Qc Kc] (a flush, Ace high)
+AndrewSpB433: shows [Ks Qh] (a pair of Threes)
+ChaChaPir collected $2.13 from pot
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.08 
+Board [8h 5c 3d Ac 3c]
+Seat 1: flutterbye10 (button) folded before Flop (didn't bet)
+Seat 3: mivra69 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: ChaChaPir showed [Qc Kc] and won ($2.13) with a flush, Ace high
+Seat 6: AndrewSpB433 showed [Ks Qh] and lost with a pair of Threes
+
+
+
+PokerStars Hand #213842716657:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:02:43 MSK [2020/05/14 6:02:43 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($1.04 in chips) 
+Seat 3: mivra69 ($2.12 in chips) 
+Seat 4: lawlex_2 ($2.24 in chips) 
+Seat 5: ChaChaPir ($2.28 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Ks]
+flutterbye10: folds 
+mivra69: folds 
+AndrewSpB433 leaves the table
+lawlex_2: raises $0.03 to $0.05
+ChaChaPir: calls $0.03
+*** FLOP *** [9h 5c 5s]
+lawlex_2: bets $0.07
+ChaChaPir: calls $0.07
+*** TURN *** [9h 5c 5s] [2s]
+lawlex_2: bets $0.12
+ChaChaPir: folds 
+Uncalled bet ($0.12) returned to lawlex_2
+lawlex_2 collected $0.23 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9h 5c 5s 2s]
+Seat 1: flutterbye10 folded before Flop (didn't bet)
+Seat 3: mivra69 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) collected ($0.23)
+Seat 5: ChaChaPir (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213842732860:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:03:24 MSK [2020/05/14 6:03:24 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: flutterbye10 ($1.04 in chips) 
+Seat 3: mivra69 ($2.12 in chips) 
+Seat 4: lawlex_2 ($2.35 in chips) 
+Seat 5: ChaChaPir ($2.16 in chips) 
+ChaChaPir: posts small blind $0.01
+flutterbye10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 6d]
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.01
+flutterbye10: checks 
+*** FLOP *** [3c 5h 5c]
+ChaChaPir: bets $0.02
+flutterbye10: folds 
+Uncalled bet ($0.02) returned to ChaChaPir
+ChaChaPir collected $0.04 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3c 5h 5c]
+Seat 1: flutterbye10 (big blind) folded on the Flop
+Seat 3: mivra69 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ChaChaPir (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213842743190:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:03:50 MSK [2020/05/14 6:03:50 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: flutterbye10 ($1.02 in chips) 
+Seat 3: mivra69 ($2.12 in chips) 
+Seat 4: lawlex_2 ($2.35 in chips) 
+Seat 5: ChaChaPir ($2.18 in chips) 
+flutterbye10: posts small blind $0.01
+mivra69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Kc]
+lawlex_2: raises $0.03 to $0.05
+ChaChaPir: folds 
+flutterbye10: folds 
+mivra69: calls $0.03
+*** FLOP *** [6d 8c Ks]
+mivra69: checks 
+qwansy71 joins the table at seat #2 
+lawlex_2: bets $0.07
+mivra69: calls $0.07
+*** TURN *** [6d 8c Ks] [Ad]
+mivra69: checks 
+lawlex_2: bets $0.16
+mivra69: folds 
+Uncalled bet ($0.16) returned to lawlex_2
+lawlex_2 collected $0.24 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6d 8c Ks Ad]
+Seat 1: flutterbye10 (small blind) folded before Flop
+Seat 3: mivra69 (big blind) folded on the Turn
+Seat 4: lawlex_2 collected ($0.24)
+Seat 5: ChaChaPir (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842765870:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:04:47 MSK [2020/05/14 6:04:47 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: flutterbye10 ($1.01 in chips) 
+Seat 3: mivra69 ($2 in chips) 
+Seat 4: lawlex_2 ($2.47 in chips) 
+Seat 5: ChaChaPir ($2.18 in chips) 
+mivra69: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 2c]
+ChaChaPir: folds 
+flutterbye10: raises $0.02 to $0.04
+mivra69: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to flutterbye10
+flutterbye10 collected $0.05 from pot
+flutterbye10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: flutterbye10 (button) collected ($0.05)
+Seat 3: mivra69 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842769371:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:04:55 MSK [2020/05/14 6:04:55 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: flutterbye10 ($1.04 in chips) 
+Seat 3: mivra69 ($2 in chips) 
+Seat 4: lawlex_2 ($2.45 in chips) 
+Seat 5: ChaChaPir ($2.18 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+qwansy71: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 3s]
+flutterbye10: raises $0.02 to $0.04
+mivra69: calls $0.04
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+*** FLOP *** [3h 7c Th]
+ChaChaPir: bets $0.10
+flutterbye10: raises $0.90 to $1 and is all-in
+mivra69: raises $0.96 to $1.96 and is all-in
+ChaChaPir: folds 
+Uncalled bet ($0.96) returned to mivra69
+*** TURN *** [3h 7c Th] [Qc]
+*** RIVER *** [3h 7c Th Qc] [Qd]
+*** SHOW DOWN ***
+flutterbye10: shows [9h Jh] (a pair of Queens)
+mivra69: shows [Kd Kh] (two pair, Kings and Queens)
+mivra69 cashed out the hand for $1.22 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $2.23 | Rake $0.08 
+Board [3h 7c Th Qc Qd]
+Seat 1: flutterbye10 showed [9h Jh] and lost with a pair of Queens
+Seat 3: mivra69 (button) showed [Kd Kh] and won ($2.15) with two pair, Kings and Queens (pot not awarded as player cashed out)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: ChaChaPir (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213842788324:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:05:43 MSK [2020/05/14 6:05:43 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 2: qwansy71 ($2 in chips) 
+Seat 3: mivra69 ($2.18 in chips) 
+Seat 4: lawlex_2 ($2.44 in chips) 
+Seat 5: ChaChaPir ($2.04 in chips) 
+ChaChaPir: posts small blind $0.01
+qwansy71: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Jc]
+flutterbye10 leaves the table
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.01
+qwansy71: checks 
+*** FLOP *** [Td 4c 2c]
+ChaChaPir: bets $0.02
+qwansy71: calls $0.02
+*** TURN *** [Td 4c 2c] [Kd]
+ChaChaPir: checks 
+qwansy71: checks 
+*** RIVER *** [Td 4c 2c Kd] [3c]
+ChaChaPir: checks 
+qwansy71: checks 
+*** SHOW DOWN ***
+ChaChaPir: shows [5h 9s] (high card King)
+qwansy71: shows [2d Ad] (a pair of Deuces)
+qwansy71 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Td 4c 2c Kd 3c]
+Seat 2: qwansy71 (big blind) showed [2d Ad] and won ($0.08) with a pair of Deuces
+Seat 3: mivra69 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ChaChaPir (small blind) showed [5h 9s] and lost with high card King
+
+
+
+PokerStars Hand #213842804314:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:06:19 MSK [2020/05/14 6:06:19 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 2: qwansy71 ($2.04 in chips) 
+Seat 3: mivra69 ($2.18 in chips) 
+Seat 4: lawlex_2 ($2.44 in chips) 
+Seat 5: ChaChaPir ($2 in chips) 
+qwansy71: posts small blind $0.01
+mivra69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 8h]
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+qwansy71: folds 
+mivra69: checks 
+*** FLOP *** [9s 8c 3s]
+mivra69: checks 
+ChaChaPir: bets $0.04
+mivra69: calls $0.04
+*** TURN *** [9s 8c 3s] [7d]
+mivra69: checks 
+ChaChaPir: bets $0.06
+mivra69: calls $0.06
+*** RIVER *** [9s 8c 3s 7d] [Qc]
+mivra69: checks 
+ChaChaPir: bets $0.06
+mivra69: calls $0.06
+*** SHOW DOWN ***
+ChaChaPir: shows [6c 7s] (a pair of Sevens)
+mivra69: shows [9c 2h] (a pair of Nines)
+mivra69 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [9s 8c 3s 7d Qc]
+Seat 2: qwansy71 (small blind) folded before Flop
+Seat 3: mivra69 (big blind) showed [9c 2h] and won ($0.36) with a pair of Nines
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir (button) showed [6c 7s] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #213842818568:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:06:54 MSK [2020/05/14 6:06:54 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 2: qwansy71 ($2.03 in chips) 
+Seat 3: mivra69 ($2.36 in chips) 
+Seat 4: lawlex_2 ($2.44 in chips) 
+Seat 5: ChaChaPir ($1.82 in chips) 
+mivra69: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 3h]
+ChaChaPir: calls $0.02
+qwansy71: folds 
+AtomicKoo joins the table at seat #6 
+mivra69: folds 
+lawlex_2: checks 
+*** FLOP *** [6d Qs 3c]
+lawlex_2: bets $0.03
+ChaChaPir: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6d Qs 3c]
+Seat 2: qwansy71 (button) folded before Flop (didn't bet)
+Seat 3: mivra69 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.05)
+Seat 5: ChaChaPir folded on the Flop
+
+
+
+PokerStars Hand #213842826303:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:07:13 MSK [2020/05/14 6:07:13 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 2: qwansy71 ($2.03 in chips) 
+Seat 3: mivra69 ($2.35 in chips) 
+Seat 4: lawlex_2 ($2.47 in chips) 
+Seat 5: ChaChaPir ($1.80 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+AtomicKoo: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 2d]
+qwansy71: raises $0.04 to $0.06
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.04
+*** FLOP *** [6s 8s Ac]
+kac1k joins the table at seat #1 
+ChaChaPir: checks 
+qwansy71: bets $0.07
+ChaChaPir: folds 
+Uncalled bet ($0.07) returned to qwansy71
+qwansy71 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6s 8s Ac]
+Seat 2: qwansy71 collected ($0.13)
+Seat 3: mivra69 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: ChaChaPir (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213842833070:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:07:29 MSK [2020/05/14 6:07:29 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 2: qwansy71 ($2.10 in chips) 
+Seat 3: mivra69 ($2.35 in chips) 
+Seat 4: lawlex_2 ($2.46 in chips) 
+Seat 5: ChaChaPir ($1.74 in chips) 
+Seat 6: AtomicKoo ($2 in chips) 
+ChaChaPir: posts small blind $0.01
+AtomicKoo: posts big blind $0.02
+kac1k: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Ad]
+qwansy71: folds 
+mivra69: folds 
+lawlex_2: raises $0.03 to $0.05
+ChaChaPir: folds 
+AtomicKoo: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: qwansy71 folded before Flop (didn't bet)
+Seat 3: mivra69 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) collected ($0.05)
+Seat 5: ChaChaPir (small blind) folded before Flop
+Seat 6: AtomicKoo (big blind) folded before Flop
+
+
+
+PokerStars Hand #213842842548:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:07:53 MSK [2020/05/14 6:07:53 ET]
+Table 'Leo II' 6-max Seat #5 is the button
+Seat 1: kac1k ($2 in chips) 
+Seat 2: qwansy71 ($2.10 in chips) 
+Seat 3: mivra69 ($2.35 in chips) 
+Seat 4: lawlex_2 ($2.49 in chips) 
+Seat 5: ChaChaPir ($1.73 in chips) 
+Seat 6: AtomicKoo ($1.98 in chips) 
+AtomicKoo: posts small blind $0.01
+kac1k: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Jh]
+qwansy71: folds 
+mivra69: raises $0.04 to $0.06
+lawlex_2: folds 
+ChaChaPir: calls $0.06
+AtomicKoo: calls $0.05
+kac1k: folds 
+*** FLOP *** [7c Qc 6c]
+AtomicKoo: checks 
+mivra69: bets $0.13
+ChaChaPir: folds 
+AtomicKoo: calls $0.13
+*** TURN *** [7c Qc 6c] [4h]
+AtomicKoo: checks 
+mivra69: checks 
+*** RIVER *** [7c Qc 6c 4h] [2h]
+AtomicKoo: checks 
+mivra69: checks 
+*** SHOW DOWN ***
+AtomicKoo: shows [Jc Th] (high card Queen)
+mivra69: shows [Ks Qs] (a pair of Queens)
+mivra69 collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [7c Qc 6c 4h 2h]
+Seat 1: kac1k (big blind) folded before Flop
+Seat 2: qwansy71 folded before Flop (didn't bet)
+Seat 3: mivra69 showed [Ks Qs] and won ($0.44) with a pair of Queens
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir (button) folded on the Flop
+Seat 6: AtomicKoo (small blind) showed [Jc Th] and lost with high card Queen
+
+
+
+PokerStars Hand #213842873285:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:09:09 MSK [2020/05/14 6:09:09 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: kac1k ($2 in chips) 
+Seat 2: qwansy71 ($2.10 in chips) 
+Seat 3: mivra69 ($2.60 in chips) 
+Seat 4: lawlex_2 ($2.49 in chips) 
+Seat 5: ChaChaPir ($1.67 in chips) 
+Seat 6: AtomicKoo ($1.79 in chips) 
+kac1k: posts small blind $0.01
+qwansy71: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Qh]
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: folds 
+AtomicKoo: folds 
+kac1k: raises $0.05 to $0.07
+qwansy71: folds 
+Uncalled bet ($0.05) returned to kac1k
+kac1k collected $0.04 from pot
+kac1k: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: kac1k (small blind) collected ($0.04)
+Seat 2: qwansy71 (big blind) folded before Flop
+Seat 3: mivra69 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+Seat 6: AtomicKoo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842879670:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:09:24 MSK [2020/05/14 6:09:24 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: kac1k ($2.02 in chips) 
+Seat 2: qwansy71 ($2.08 in chips) 
+Seat 3: mivra69 ($2.60 in chips) 
+Seat 4: lawlex_2 ($2.49 in chips) 
+Seat 5: ChaChaPir ($1.67 in chips) 
+Seat 6: AtomicKoo ($1.79 in chips) 
+qwansy71: posts small blind $0.01
+mivra69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Th]
+lawlex_2: folds 
+ChaChaPir: folds 
+AtomicKoo: raises $0.03 to $0.05
+kac1k: folds 
+qwansy71: folds 
+mivra69: folds 
+Uncalled bet ($0.03) returned to AtomicKoo
+AtomicKoo collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kac1k (button) folded before Flop (didn't bet)
+Seat 2: qwansy71 (small blind) folded before Flop
+Seat 3: mivra69 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+Seat 6: AtomicKoo collected ($0.05)
+
+
+
+PokerStars Hand #213842889644:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:09:49 MSK [2020/05/14 6:09:49 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: kac1k ($2.02 in chips) 
+Seat 2: qwansy71 ($2.07 in chips) 
+Seat 3: mivra69 ($2.58 in chips) 
+Seat 4: lawlex_2 ($2.49 in chips) 
+Seat 5: ChaChaPir ($1.67 in chips) 
+Seat 6: AtomicKoo ($1.82 in chips) 
+mivra69: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 6d]
+ChaChaPir: calls $0.02
+AtomicKoo: folds 
+kac1k: folds 
+qwansy71: folds 
+mivra69: folds 
+lawlex_2: raises $0.03 to $0.05
+ChaChaPir: calls $0.03
+*** FLOP *** [3c 4s 9s]
+lawlex_2: checks 
+ChaChaPir: checks 
+*** TURN *** [3c 4s 9s] [4h]
+lawlex_2: checks 
+ChaChaPir: checks 
+*** RIVER *** [3c 4s 9s 4h] [7s]
+lawlex_2: bets $0.07
+ChaChaPir: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3c 4s 9s 4h 7s]
+Seat 1: kac1k folded before Flop (didn't bet)
+Seat 2: qwansy71 (button) folded before Flop (didn't bet)
+Seat 3: mivra69 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.11)
+Seat 5: ChaChaPir folded on the River
+Seat 6: AtomicKoo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842911976:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:10:44 MSK [2020/05/14 6:10:44 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: kac1k ($2.02 in chips) 
+Seat 2: qwansy71 ($2.07 in chips) 
+Seat 3: mivra69 ($2.57 in chips) 
+Seat 4: lawlex_2 ($2.55 in chips) 
+Seat 5: ChaChaPir ($1.62 in chips) 
+Seat 6: AtomicKoo ($1.82 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 7s]
+AtomicKoo: folds 
+kac1k: raises $0.02 to $0.04
+qwansy71: folds 
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+*** FLOP *** [4h 5d Td]
+ChaChaPir: checks 
+kac1k: checks 
+*** TURN *** [4h 5d Td] [6s]
+ChaChaPir: bets $0.06
+kac1k: folds 
+Uncalled bet ($0.06) returned to ChaChaPir
+ChaChaPir collected $0.09 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4h 5d Td 6s]
+Seat 1: kac1k folded on the Turn
+Seat 2: qwansy71 folded before Flop (didn't bet)
+Seat 3: mivra69 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: ChaChaPir (big blind) collected ($0.09)
+Seat 6: AtomicKoo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842930292:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:11:29 MSK [2020/05/14 6:11:29 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: kac1k ($2 in chips) 
+Seat 2: qwansy71 ($2.07 in chips) 
+Seat 3: mivra69 ($2.57 in chips) 
+Seat 4: lawlex_2 ($2.54 in chips) 
+Seat 5: ChaChaPir ($1.67 in chips) 
+Seat 6: AtomicKoo ($1.82 in chips) 
+ChaChaPir: posts small blind $0.01
+AtomicKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Qh]
+kac1k: raises $0.04 to $0.06
+qwansy71: folds 
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: raises $1.61 to $1.67 and is all-in
+AtomicKoo: calls $1.65
+kac1k: folds 
+*** FLOP *** [6d 2h 5c]
+*** TURN *** [6d 2h 5c] [Ks]
+*** RIVER *** [6d 2h 5c Ks] [Qs]
+*** SHOW DOWN ***
+ChaChaPir: shows [Ad 5d] (a pair of Fives)
+AtomicKoo: shows [Qd Qc] (three of a kind, Queens)
+AtomicKoo cashed out the hand for $2.17 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $3.40 | Rake $0.12 
+Board [6d 2h 5c Ks Qs]
+Seat 1: kac1k folded before Flop
+Seat 2: qwansy71 folded before Flop (didn't bet)
+Seat 3: mivra69 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ChaChaPir (small blind) showed [Ad 5d] and lost with a pair of Fives
+Seat 6: AtomicKoo (big blind) showed [Qd Qc] and won ($3.28) with three of a kind, Queens (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #213842946901:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:12:10 MSK [2020/05/14 6:12:10 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: kac1k ($2 in chips) 
+Seat 2: qwansy71 ($2.07 in chips) 
+Seat 3: mivra69 ($2.57 in chips) 
+Seat 4: lawlex_2 ($2.54 in chips) 
+Seat 6: AtomicKoo ($2.32 in chips) 
+kac1k: posts small blind $0.01
+qwansy71: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 6s]
+mivra69: folds 
+lawlex_2: raises $0.03 to $0.05
+AtomicKoo: folds 
+kac1k: raises $0.12 to $0.17
+qwansy71: folds 
+lawlex_2: folds 
+Uncalled bet ($0.12) returned to kac1k
+kac1k collected $0.12 from pot
+kac1k: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: kac1k (small blind) collected ($0.12)
+Seat 2: qwansy71 (big blind) folded before Flop
+Seat 3: mivra69 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop
+Seat 6: AtomicKoo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842959084:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:12:40 MSK [2020/05/14 6:12:40 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: kac1k ($2.07 in chips) 
+Seat 2: qwansy71 ($2.05 in chips) 
+Seat 3: mivra69 ($2.57 in chips) 
+Seat 4: lawlex_2 ($2.49 in chips) 
+Seat 5: ChaChaPir ($0.80 in chips) 
+Seat 6: AtomicKoo ($2.32 in chips) 
+qwansy71: posts small blind $0.01
+mivra69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Qs]
+lawlex_2 has timed out
+lawlex_2: folds 
+ChaChaPir: calls $0.02
+AtomicKoo: folds 
+kac1k: raises $0.05 to $0.07
+qwansy71: raises $0.17 to $0.24
+mivra69: folds 
+ChaChaPir: raises $0.56 to $0.80 and is all-in
+kac1k: folds 
+qwansy71: calls $0.56
+*** FLOP *** [7h 5c 3s]
+*** TURN *** [7h 5c 3s] [2c]
+*** RIVER *** [7h 5c 3s 2c] [6s]
+*** SHOW DOWN ***
+qwansy71: shows [Qh As] (high card Ace)
+ChaChaPir: shows [Jd Ah] (high card Ace - lower kicker)
+qwansy71 collected $1.63 from pot
+*** SUMMARY ***
+Total pot $1.69 | Rake $0.06 
+Board [7h 5c 3s 2c 6s]
+Seat 1: kac1k (button) folded before Flop
+Seat 2: qwansy71 (small blind) showed [Qh As] and won ($1.63) with high card Ace
+Seat 3: mivra69 (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ChaChaPir showed [Jd Ah] and lost with high card Ace
+Seat 6: AtomicKoo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842982577:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:13:37 MSK [2020/05/14 6:13:37 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: kac1k ($2 in chips) 
+Seat 2: qwansy71 ($2.88 in chips) 
+Seat 3: mivra69 ($2.55 in chips) 
+Seat 4: lawlex_2 ($2.49 in chips) 
+Seat 6: AtomicKoo ($2.32 in chips) 
+mivra69: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 7c]
+AtomicKoo: folds 
+kac1k: folds 
+qwansy71: folds 
+mivra69: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: kac1k folded before Flop (didn't bet)
+Seat 2: qwansy71 (button) folded before Flop (didn't bet)
+Seat 3: mivra69 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 6: AtomicKoo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842986378:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:13:47 MSK [2020/05/14 6:13:47 ET]
+Table 'Leo II' 6-max Seat #3 is the button
+Seat 1: kac1k ($2 in chips) 
+Seat 2: qwansy71 ($2.88 in chips) 
+Seat 3: mivra69 ($2.54 in chips) 
+Seat 4: lawlex_2 ($2.50 in chips) 
+Seat 5: ChaChaPir ($0.80 in chips) 
+Seat 6: AtomicKoo ($2.32 in chips) 
+lawlex_2: posts small blind $0.01
+ChaChaPir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 5c]
+AtomicKoo: folds 
+kac1k: folds 
+qwansy71: raises $0.03 to $0.05
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: raises $0.75 to $0.80 and is all-in
+qwansy71: folds 
+Uncalled bet ($0.75) returned to ChaChaPir
+ChaChaPir collected $0.11 from pot
+ChaChaPir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: kac1k folded before Flop (didn't bet)
+Seat 2: qwansy71 folded before Flop
+Seat 3: mivra69 (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: ChaChaPir (big blind) collected ($0.11)
+Seat 6: AtomicKoo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213842993091:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:14:03 MSK [2020/05/14 6:14:03 ET]
+Table 'Leo II' 6-max Seat #4 is the button
+Seat 1: kac1k ($2 in chips) 
+Seat 2: qwansy71 ($2.83 in chips) 
+Seat 3: mivra69 ($2.54 in chips) 
+Seat 4: lawlex_2 ($2.49 in chips) 
+Seat 5: ChaChaPir ($0.86 in chips) 
+Seat 6: AtomicKoo ($2.32 in chips) 
+ChaChaPir: posts small blind $0.01
+AtomicKoo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 6s]
+kac1k: raises $0.05 to $0.07
+qwansy71: folds 
+mivra69: folds 
+lawlex_2: folds 
+ChaChaPir: raises $0.79 to $0.86 and is all-in
+AtomicKoo: folds 
+kac1k: calls $0.79
+*** FLOP *** [Ks 4s Jh]
+*** TURN *** [Ks 4s Jh] [Jc]
+*** RIVER *** [Ks 4s Jh Jc] [Qd]
+*** SHOW DOWN ***
+ChaChaPir: shows [Ah 2c] (a pair of Jacks)
+kac1k: shows [Kd Kc] (a full house, Kings full of Jacks)
+kac1k collected $1.68 from pot
+*** SUMMARY ***
+Total pot $1.74 | Rake $0.06 
+Board [Ks 4s Jh Jc Qd]
+Seat 1: kac1k showed [Kd Kc] and won ($1.68) with a full house, Kings full of Jacks
+Seat 2: qwansy71 folded before Flop (didn't bet)
+Seat 3: mivra69 folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ChaChaPir (small blind) showed [Ah 2c] and lost with a pair of Jacks
+Seat 6: AtomicKoo (big blind) folded before Flop
+
+
+
+PokerStars Hand #213843007000:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:14:37 MSK [2020/05/14 6:14:37 ET]
+Table 'Leo II' 6-max Seat #6 is the button
+Seat 1: kac1k ($2.82 in chips) 
+Seat 2: qwansy71 ($2.83 in chips) 
+Seat 3: mivra69 ($2.54 in chips) 
+Seat 4: lawlex_2 ($2.49 in chips) 
+Seat 6: AtomicKoo ($2.30 in chips) 
+kac1k: posts small blind $0.01
+qwansy71: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 3s]
+mivra69: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+AtomicKoo: folds 
+kac1k: raises $0.05 to $0.07
+qwansy71: folds 
+Uncalled bet ($0.05) returned to kac1k
+kac1k collected $0.04 from pot
+kac1k: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: kac1k (small blind) collected ($0.04)
+Seat 2: qwansy71 (big blind) folded before Flop
+Seat 3: mivra69 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 6: AtomicKoo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213843017817:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:15:03 MSK [2020/05/14 6:15:03 ET]
+Table 'Leo II' 6-max Seat #1 is the button
+Seat 1: kac1k ($2.84 in chips) 
+Seat 2: qwansy71 ($2.81 in chips) 
+Seat 3: mivra69 ($2.54 in chips) 
+Seat 4: lawlex_2 ($2.49 in chips) 
+Seat 5: ChaChaPir ($0.80 in chips) 
+Seat 6: AtomicKoo ($2.30 in chips) 
+qwansy71: posts small blind $0.01
+mivra69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Ks]
+lawlex_2: raises $0.03 to $0.05
+ChaChaPir: calls $0.05
+AtomicKoo: raises $0.18 to $0.23
+kac1k: folds 
+qwansy71: folds 
+mivra69: folds 
+lawlex_2: calls $0.18
+ChaChaPir: raises $0.57 to $0.80 and is all-in
+AtomicKoo: raises $1.50 to $2.30 and is all-in
+lawlex_2: calls $2.07
+*** FLOP *** [Tc 6c 6s]
+*** TURN *** [Tc 6c 6s] [8c]
+*** RIVER *** [Tc 6c 6s 8c] [5s]
+*** SHOW DOWN ***
+lawlex_2: shows [Ac Ks] (a pair of Sixes)
+AtomicKoo: shows [As Ah] (two pair, Aces and Sixes)
+ChaChaPir: shows [2d 7d] (a pair of Sixes)
+ChaChaPir cashed out the hand for $0.44
+AtomicKoo cashed out the hand for $4.39 | Cash Out Fee $0.04
+*** SUMMARY ***
+Total pot $5.43 Main pot $2.34. Side pot $2.90. | Rake $0.19 
+Board [Tc 6c 6s 8c 5s]
+Seat 1: kac1k (button) folded before Flop (didn't bet)
+Seat 2: qwansy71 (small blind) folded before Flop
+Seat 3: mivra69 (big blind) folded before Flop
+Seat 4: lawlex_2 showed [Ac Ks] and lost with a pair of Sixes
+Seat 5: ChaChaPir showed [2d 7d] and lost with a pair of Sixes (cashed out).
+Seat 6: AtomicKoo showed [As Ah] and won ($5.24) with two pair, Aces and Sixes (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #213843042372:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 13:16:03 MSK [2020/05/14 6:16:03 ET]
+Table 'Leo II' 6-max Seat #2 is the button
+Seat 1: kac1k ($2.84 in chips) 
+Seat 2: qwansy71 ($2.80 in chips) 
+Seat 3: mivra69 ($2.52 in chips) 
+Seat 4: lawlex_2 ($0.19 in chips) 
+Seat 5: ChaChaPir ($0.44 in chips) 
+Seat 6: AtomicKoo ($4.39 in chips) 
+mivra69: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 3d]
+ChaChaPir: folds 
+AtomicKoo: folds 
+kac1k: raises $0.02 to $0.04
+qwansy71: calls $0.04
+mivra69: folds 
+lawlex_2: raises $0.15 to $0.19 and is all-in
+kac1k: folds 
+qwansy71: calls $0.15
+*** FLOP *** [3s 7c Kc]
+*** TURN *** [3s 7c Kc] [7s]
+*** RIVER *** [3s 7c Kc 7s] [6d]
+*** SHOW DOWN ***
+lawlex_2: shows [Kd 3d] (two pair, Kings and Sevens)
+qwansy71: shows [Jc Ks] (two pair, Kings and Sevens - Jack kicker)
+qwansy71 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [3s 7c Kc 7s 6d]
+Seat 1: kac1k folded before Flop
+Seat 2: qwansy71 (button) showed [Jc Ks] and won ($0.41) with two pair, Kings and Sevens
+Seat 3: mivra69 (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) showed [Kd 3d] and lost with two pair, Kings and Sevens
+Seat 5: ChaChaPir folded before Flop (didn't bet)
+Seat 6: AtomicKoo folded before Flop (didn't bet)
+
+
+

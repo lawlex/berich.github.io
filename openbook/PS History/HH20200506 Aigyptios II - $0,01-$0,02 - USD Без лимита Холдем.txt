@@ -1,0 +1,2535 @@
+﻿PokerStars Hand #213415232024:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:14:23 MSK [2020/05/06 22:14:23 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2 in chips) 
+Seat 2: RAPOSSS ($1.81 in chips) 
+Seat 3: lgsshadow ($1 in chips) 
+Seat 4: Canxa ($2.61 in chips) 
+Seat 6: jefezerox8 ($2.62 in chips) 
+jefezerox8: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Td]
+RAPOSSS: folds 
+lgsshadow: calls $0.02
+Canxa: folds 
+jefezerox8: folds 
+lawlex_2: checks 
+*** FLOP *** [Ts 6s 4h]
+lawlex_2: bets $0.03
+lgsshadow: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ts 6s 4h]
+Seat 1: lawlex_2 (big blind) collected ($0.05)
+Seat 2: RAPOSSS folded before Flop (didn't bet)
+Seat 3: lgsshadow folded on the Flop
+Seat 4: Canxa (button) folded before Flop (didn't bet)
+Seat 6: jefezerox8 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213415252029:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:14:57 MSK [2020/05/06 22:14:57 ET]
+Table 'Aigyptios II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.03 in chips) 
+Seat 2: RAPOSSS ($1.81 in chips) 
+Seat 3: lgsshadow ($0.98 in chips) 
+Seat 4: Canxa ($2.61 in chips) 
+Seat 6: jefezerox8 ($2.61 in chips) 
+lawlex_2: posts small blind $0.01
+RAPOSSS: posts big blind $0.02
+DenyLi: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 7d]
+lgsshadow: folds 
+Canxa: folds 
+jefezerox8: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to RAPOSSS
+RAPOSSS collected $0.02 from pot
+RAPOSSS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: RAPOSSS (big blind) collected ($0.02)
+Seat 3: lgsshadow folded before Flop (didn't bet)
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 6: jefezerox8 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415261038:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:15:11 MSK [2020/05/06 22:15:11 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.02 in chips) 
+Seat 2: RAPOSSS ($1.82 in chips) 
+Seat 3: lgsshadow ($0.98 in chips) 
+Seat 4: Canxa ($2.61 in chips) 
+Seat 6: jefezerox8 ($2.61 in chips) 
+RAPOSSS: posts small blind $0.01
+lgsshadow: posts big blind $0.02
+DenyLi: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 6c]
+Canxa: folds 
+jefezerox8: folds 
+lawlex_2: folds 
+RAPOSSS: raises $0.02 to $0.04
+lgsshadow: calls $0.02
+*** FLOP *** [5h 8s Kh]
+RAPOSSS: bets $0.08
+lgsshadow: folds 
+Uncalled bet ($0.08) returned to RAPOSSS
+RAPOSSS collected $0.08 from pot
+RAPOSSS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [5h 8s Kh]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: RAPOSSS (small blind) collected ($0.08)
+Seat 3: lgsshadow (big blind) folded on the Flop
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 6: jefezerox8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415276375:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:15:37 MSK [2020/05/06 22:15:37 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.02 in chips) 
+Seat 2: RAPOSSS ($1.86 in chips) 
+Seat 3: lgsshadow ($0.94 in chips) 
+Seat 4: Canxa ($2.61 in chips) 
+Seat 6: jefezerox8 ($2.61 in chips) 
+lgsshadow: posts small blind $0.01
+Canxa: posts big blind $0.02
+DenyLi: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 5c]
+jefezerox8: folds 
+lawlex_2: folds 
+RAPOSSS: folds 
+lgsshadow: calls $0.01
+Canxa: checks 
+*** FLOP *** [Jh 2c Jc]
+lgsshadow: checks 
+Canxa: bets $0.02
+lgsshadow: calls $0.02
+*** TURN *** [Jh 2c Jc] [9c]
+lgsshadow: checks 
+Canxa: bets $0.04
+lgsshadow: folds 
+Uncalled bet ($0.04) returned to Canxa
+Canxa collected $0.08 from pot
+Canxa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Jh 2c Jc 9c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: RAPOSSS (button) folded before Flop (didn't bet)
+Seat 3: lgsshadow (small blind) folded on the Turn
+Seat 4: Canxa (big blind) collected ($0.08)
+Seat 6: jefezerox8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415305302:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:16:26 MSK [2020/05/06 22:16:26 ET]
+Table 'Aigyptios II' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.02 in chips) 
+Seat 2: RAPOSSS ($1.86 in chips) 
+Seat 3: lgsshadow ($0.90 in chips) 
+Seat 4: Canxa ($2.65 in chips) 
+Seat 5: DenyLi ($2 in chips) 
+Seat 6: jefezerox8 ($2.61 in chips) 
+Canxa: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Ah]
+jefezerox8: folds 
+lawlex_2: raises $0.04 to $0.06
+RAPOSSS: folds 
+lgsshadow: calls $0.06
+Canxa: folds 
+DenyLi: folds 
+*** FLOP *** [5s 8s 4c]
+lawlex_2: bets $0.09
+lgsshadow: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5s 8s 4c]
+Seat 1: lawlex_2 collected ($0.14)
+Seat 2: RAPOSSS folded before Flop (didn't bet)
+Seat 3: lgsshadow (button) folded on the Flop
+Seat 4: Canxa (small blind) folded before Flop
+Seat 5: DenyLi (big blind) folded before Flop
+Seat 6: jefezerox8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415326951:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:17:02 MSK [2020/05/06 22:17:02 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.10 in chips) 
+Seat 2: RAPOSSS ($1.86 in chips) 
+Seat 3: lgsshadow ($0.84 in chips) 
+Seat 4: Canxa ($2.64 in chips) 
+Seat 5: DenyLi ($1.98 in chips) 
+Seat 6: jefezerox8 ($2.61 in chips) 
+DenyLi: posts small blind $0.01
+jefezerox8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 6d]
+lawlex_2: folds 
+RAPOSSS: folds 
+lgsshadow: calls $0.02
+Canxa: folds 
+DenyLi: folds 
+jefezerox8: checks 
+*** FLOP *** [Js 8c 3h]
+jefezerox8: checks 
+lgsshadow: checks 
+*** TURN *** [Js 8c 3h] [5d]
+jefezerox8: checks 
+lgsshadow: checks 
+*** RIVER *** [Js 8c 3h 5d] [Jc]
+jefezerox8: checks 
+lgsshadow: checks 
+*** SHOW DOWN ***
+jefezerox8: shows [7c 8h] (two pair, Jacks and Eights)
+lgsshadow: mucks hand 
+jefezerox8 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js 8c 3h 5d Jc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: RAPOSSS folded before Flop (didn't bet)
+Seat 3: lgsshadow mucked [4s Ks]
+Seat 4: Canxa (button) folded before Flop (didn't bet)
+Seat 5: DenyLi (small blind) folded before Flop
+Seat 6: jefezerox8 (big blind) showed [7c 8h] and won ($0.05) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #213415342884:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:17:29 MSK [2020/05/06 22:17:29 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.10 in chips) 
+Seat 2: RAPOSSS ($1.86 in chips) 
+Seat 3: lgsshadow ($0.82 in chips) 
+Seat 4: Canxa ($2.64 in chips) 
+Seat 5: DenyLi ($1.97 in chips) 
+Seat 6: jefezerox8 ($2.64 in chips) 
+jefezerox8: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Js]
+RAPOSSS: folds 
+lgsshadow: calls $0.02
+Canxa: folds 
+DenyLi: folds 
+jefezerox8: folds 
+lawlex_2: raises $0.04 to $0.06
+lgsshadow: calls $0.04
+*** FLOP *** [Td 2d 4h]
+lawlex_2: bets $0.09
+lgsshadow: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Td 2d 4h]
+Seat 1: lawlex_2 (big blind) collected ($0.13)
+Seat 2: RAPOSSS folded before Flop (didn't bet)
+Seat 3: lgsshadow folded on the Flop
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+Seat 6: jefezerox8 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213415359130:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:17:56 MSK [2020/05/06 22:17:56 ET]
+Table 'Aigyptios II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.17 in chips) 
+Seat 2: RAPOSSS ($1.86 in chips) 
+Seat 3: lgsshadow ($0.76 in chips) 
+Seat 4: Canxa ($2.64 in chips) 
+Seat 5: DenyLi ($1.97 in chips) 
+Seat 6: jefezerox8 ($2.63 in chips) 
+lawlex_2: posts small blind $0.01
+RAPOSSS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Ts]
+lgsshadow: folds 
+Canxa: folds 
+DenyLi: folds 
+jefezerox8: folds 
+lawlex_2: calls $0.01
+RAPOSSS: checks 
+*** FLOP *** [Ah Td 3s]
+lawlex_2: bets $0.03
+RAPOSSS: calls $0.03
+*** TURN *** [Ah Td 3s] [6d]
+lawlex_2: bets $0.07
+RAPOSSS: calls $0.07
+*** RIVER *** [Ah Td 3s 6d] [6s]
+lawlex_2: checks 
+RAPOSSS: bets $0.22
+lawlex_2: calls $0.22
+*** SHOW DOWN ***
+RAPOSSS: shows [Ac 8d] (two pair, Aces and Sixes)
+lawlex_2: mucks hand 
+RAPOSSS collected $0.66 from pot
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [Ah Td 3s 6d 6s]
+Seat 1: lawlex_2 (small blind) mucked [8h Ts]
+Seat 2: RAPOSSS (big blind) showed [Ac 8d] and won ($0.66) with two pair, Aces and Sixes
+Seat 3: lgsshadow folded before Flop (didn't bet)
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: jefezerox8 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415394106:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:18:41 MSK [2020/05/06 22:18:41 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.83 in chips) 
+Seat 2: RAPOSSS ($2.18 in chips) 
+Seat 3: lgsshadow ($0.76 in chips) 
+Seat 4: Canxa ($2.64 in chips) 
+Seat 5: DenyLi ($1.97 in chips) 
+Seat 6: jefezerox8 ($2.63 in chips) 
+RAPOSSS: posts small blind $0.01
+lgsshadow: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 4s]
+Canxa: folds 
+DenyLi: folds 
+jefezerox8: calls $0.02
+lawlex_2: folds 
+RAPOSSS: calls $0.01
+lgsshadow: checks 
+*** FLOP *** [5d Ah Kd]
+RAPOSSS: checks 
+lgsshadow: checks 
+jefezerox8: bets $0.02
+RAPOSSS: calls $0.02
+lgsshadow: folds 
+*** TURN *** [5d Ah Kd] [Tc]
+RAPOSSS: checks 
+jefezerox8: checks 
+*** RIVER *** [5d Ah Kd Tc] [Qc]
+RAPOSSS: checks 
+jefezerox8: bets $0.05
+RAPOSSS: folds 
+Uncalled bet ($0.05) returned to jefezerox8
+jefezerox8 collected $0.10 from pot
+jefezerox8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5d Ah Kd Tc Qc]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: RAPOSSS (small blind) folded on the River
+Seat 3: lgsshadow (big blind) folded on the Flop
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: jefezerox8 collected ($0.10)
+
+
+
+PokerStars Hand #213415420027:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:19:25 MSK [2020/05/06 22:19:25 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.83 in chips) 
+Seat 2: RAPOSSS ($2.14 in chips) 
+Seat 3: lgsshadow ($0.74 in chips) 
+Seat 4: Canxa ($2.64 in chips) 
+Seat 5: DenyLi ($1.97 in chips) 
+Seat 6: jefezerox8 ($2.69 in chips) 
+lgsshadow: posts small blind $0.01
+Canxa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 8h]
+DenyLi: folds 
+jefezerox8: folds 
+lawlex_2: raises $0.04 to $0.06
+RAPOSSS: raises $0.04 to $0.10
+lgsshadow: folds 
+Canxa: calls $0.08
+lawlex_2: calls $0.04
+*** FLOP *** [Jd 3c Ah]
+Canxa: checks 
+lawlex_2: bets $0.20
+RAPOSSS: calls $0.20
+Canxa: folds 
+*** TURN *** [Jd 3c Ah] [Qc]
+lawlex_2: bets $0.46
+RAPOSSS: calls $0.46
+*** RIVER *** [Jd 3c Ah Qc] [6c]
+lawlex_2: bets $1.05
+RAPOSSS: calls $1.05
+*** SHOW DOWN ***
+lawlex_2: shows [Ad 8h] (a pair of Aces)
+RAPOSSS: shows [Ks Ac] (a pair of Aces - King kicker)
+RAPOSSS collected $3.60 from pot
+*** SUMMARY ***
+Total pot $3.73 | Rake $0.13 
+Board [Jd 3c Ah Qc 6c]
+Seat 1: lawlex_2 showed [Ad 8h] and lost with a pair of Aces
+Seat 2: RAPOSSS (button) showed [Ks Ac] and won ($3.60) with a pair of Aces
+Seat 3: lgsshadow (small blind) folded before Flop
+Seat 4: Canxa (big blind) folded on the Flop
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: jefezerox8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415460544:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:20:34 MSK [2020/05/06 22:20:34 ET]
+Table 'Aigyptios II' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.02 in chips) 
+Seat 2: RAPOSSS ($3.93 in chips) 
+Seat 3: lgsshadow ($0.73 in chips) 
+Seat 4: Canxa ($2.54 in chips) 
+Seat 5: DenyLi ($1.97 in chips) 
+Seat 6: jefezerox8 ($2.69 in chips) 
+Canxa: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 3h]
+jefezerox8: folds 
+lawlex_2: calls $0.02 and is all-in
+RAPOSSS: calls $0.02
+lgsshadow: calls $0.02
+Canxa: folds 
+DenyLi: checks 
+*** FLOP *** [Qh Ac 8h]
+DenyLi: checks 
+RAPOSSS: checks 
+lgsshadow: checks 
+*** TURN *** [Qh Ac 8h] [2d]
+DenyLi: checks 
+RAPOSSS: checks 
+lgsshadow: checks 
+*** RIVER *** [Qh Ac 8h 2d] [5h]
+DenyLi: checks 
+RAPOSSS: checks 
+lgsshadow: checks 
+*** SHOW DOWN ***
+DenyLi: shows [Kc 7d] (high card Ace)
+lawlex_2: mucks hand 
+RAPOSSS: shows [Tc 5c] (a pair of Fives)
+lgsshadow: mucks hand 
+RAPOSSS collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qh Ac 8h 2d 5h]
+Seat 1: lawlex_2 mucked [7c 3h]
+Seat 2: RAPOSSS showed [Tc 5c] and won ($0.09) with a pair of Fives
+Seat 3: lgsshadow (button) mucked [Kh 9c]
+Seat 4: Canxa (small blind) folded before Flop
+Seat 5: DenyLi (big blind) showed [Kc 7d] and lost with high card Ace
+Seat 6: jefezerox8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415510924:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:21:59 MSK [2020/05/06 22:21:59 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.98 in chips) 
+Seat 2: RAPOSSS ($4 in chips) 
+Seat 3: lgsshadow ($0.71 in chips) 
+Seat 4: Canxa ($2.53 in chips) 
+Seat 5: DenyLi ($1.95 in chips) 
+Seat 6: jefezerox8 ($2.69 in chips) 
+DenyLi: posts small blind $0.01
+jefezerox8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Ac]
+lawlex_2: raises $0.04 to $0.06
+RAPOSSS: folds 
+lgsshadow: folds 
+Canxa: folds 
+DenyLi: folds 
+jefezerox8: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: RAPOSSS folded before Flop (didn't bet)
+Seat 3: lgsshadow folded before Flop (didn't bet)
+Seat 4: Canxa (button) folded before Flop (didn't bet)
+Seat 5: DenyLi (small blind) folded before Flop
+Seat 6: jefezerox8 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213415524741:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:22:22 MSK [2020/05/06 22:22:22 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.01 in chips) 
+Seat 2: RAPOSSS ($4 in chips) 
+Seat 3: lgsshadow ($0.71 in chips) 
+Seat 4: Canxa ($2.53 in chips) 
+Seat 5: DenyLi ($1.94 in chips) 
+Seat 6: jefezerox8 ($2.67 in chips) 
+jefezerox8: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 5c]
+RAPOSSS: folds 
+lgsshadow: folds 
+Canxa: raises $0.04 to $0.06
+DenyLi: folds 
+jefezerox8: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [Th Qd Ad]
+lawlex_2: checks 
+Canxa: bets $0.08
+lawlex_2: folds 
+Uncalled bet ($0.08) returned to Canxa
+Canxa collected $0.13 from pot
+Canxa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th Qd Ad]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: RAPOSSS folded before Flop (didn't bet)
+Seat 3: lgsshadow folded before Flop (didn't bet)
+Seat 4: Canxa collected ($0.13)
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+Seat 6: jefezerox8 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213415542579:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:22:52 MSK [2020/05/06 22:22:52 ET]
+Table 'Aigyptios II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.95 in chips) 
+Seat 2: RAPOSSS ($4 in chips) 
+Seat 3: lgsshadow ($0.71 in chips) 
+Seat 4: Canxa ($2.60 in chips) 
+Seat 5: DenyLi ($1.94 in chips) 
+Seat 6: jefezerox8 ($2.66 in chips) 
+lawlex_2: posts small blind $0.01
+RAPOSSS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 7s]
+lgsshadow: calls $0.02
+Canxa: folds 
+DenyLi: folds 
+jefezerox8: folds 
+lawlex_2: calls $0.01
+RAPOSSS: checks 
+*** FLOP *** [2s 8d 5d]
+lawlex_2: checks 
+RAPOSSS: checks 
+lgsshadow: checks 
+*** TURN *** [2s 8d 5d] [2h]
+lawlex_2: checks 
+RAPOSSS: checks 
+lgsshadow: checks 
+*** RIVER *** [2s 8d 5d 2h] [Qd]
+lawlex_2: checks 
+RAPOSSS: checks 
+lgsshadow: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Td 7s] (a pair of Deuces)
+RAPOSSS: shows [4c 4s] (two pair, Fours and Deuces)
+lgsshadow: mucks hand 
+RAPOSSS collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2s 8d 5d 2h Qd]
+Seat 1: lawlex_2 (small blind) showed [Td 7s] and lost with a pair of Deuces
+Seat 2: RAPOSSS (big blind) showed [4c 4s] and won ($0.06) with two pair, Fours and Deuces
+Seat 3: lgsshadow mucked [Ac 9h]
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: jefezerox8 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415568243:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:23:36 MSK [2020/05/06 22:23:36 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.93 in chips) 
+Seat 2: RAPOSSS ($4.04 in chips) 
+Seat 3: lgsshadow ($0.69 in chips) 
+Seat 4: Canxa ($2.60 in chips) 
+Seat 5: DenyLi ($1.94 in chips) 
+Seat 6: jefezerox8 ($2.66 in chips) 
+RAPOSSS: posts small blind $0.01
+lgsshadow: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 2s]
+Canxa: folds 
+DenyLi: folds 
+jefezerox8: folds 
+lawlex_2: folds 
+RAPOSSS: calls $0.01
+lgsshadow: checks 
+*** FLOP *** [7s Js 6c]
+RAPOSSS: bets $0.02
+lgsshadow: folds 
+Uncalled bet ($0.02) returned to RAPOSSS
+RAPOSSS collected $0.04 from pot
+RAPOSSS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7s Js 6c]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: RAPOSSS (small blind) collected ($0.04)
+Seat 3: lgsshadow (big blind) folded on the Flop
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: jefezerox8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415585780:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:24:05 MSK [2020/05/06 22:24:05 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.93 in chips) 
+Seat 2: RAPOSSS ($4.06 in chips) 
+Seat 3: lgsshadow ($0.67 in chips) 
+Seat 4: Canxa ($2.60 in chips) 
+Seat 5: DenyLi ($1.94 in chips) 
+Seat 6: jefezerox8 ($2.66 in chips) 
+lgsshadow: posts small blind $0.01
+Canxa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Qs]
+DenyLi: folds 
+jefezerox8: raises $0.04 to $0.06
+lawlex_2: calls $0.06
+RAPOSSS: folds 
+lgsshadow: folds 
+Canxa: folds 
+*** FLOP *** [4c 7c 3d]
+jefezerox8: checks 
+lawlex_2: bets $0.09
+jefezerox8: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4c 7c 3d]
+Seat 1: lawlex_2 collected ($0.14)
+Seat 2: RAPOSSS (button) folded before Flop (didn't bet)
+Seat 3: lgsshadow (small blind) folded before Flop
+Seat 4: Canxa (big blind) folded before Flop
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: jefezerox8 folded on the Flop
+
+
+
+PokerStars Hand #213415609247:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:24:46 MSK [2020/05/06 22:24:46 ET]
+Table 'Aigyptios II' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.01 in chips) 
+Seat 2: RAPOSSS ($4.06 in chips) 
+Seat 3: lgsshadow ($0.66 in chips) 
+Seat 4: Canxa ($2.58 in chips) 
+Seat 5: DenyLi ($1.94 in chips) 
+Seat 6: jefezerox8 ($2.60 in chips) 
+Canxa: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Jh]
+jefezerox8: folds 
+lawlex_2: folds 
+RAPOSSS: folds 
+lgsshadow: folds 
+Canxa: calls $0.01
+DenyLi: checks 
+*** FLOP *** [7d 6d Ad]
+Canxa: bets $0.02
+DenyLi: folds 
+Uncalled bet ($0.02) returned to Canxa
+Canxa collected $0.04 from pot
+Canxa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7d 6d Ad]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: RAPOSSS folded before Flop (didn't bet)
+Seat 3: lgsshadow (button) folded before Flop (didn't bet)
+Seat 4: Canxa (small blind) collected ($0.04)
+Seat 5: DenyLi (big blind) folded on the Flop
+Seat 6: jefezerox8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415623733:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:25:11 MSK [2020/05/06 22:25:11 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.01 in chips) 
+Seat 2: RAPOSSS ($4.06 in chips) 
+Seat 3: lgsshadow ($0.66 in chips) 
+Seat 4: Canxa ($2.60 in chips) 
+Seat 5: DenyLi ($1.92 in chips) 
+Seat 6: jefezerox8 ($2.60 in chips) 
+DenyLi: posts small blind $0.01
+jefezerox8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 5c]
+lawlex_2: folds 
+RAPOSSS: raises $0.02 to $0.04
+lgsshadow: folds 
+Canxa: folds 
+DenyLi: folds 
+jefezerox8: folds 
+Uncalled bet ($0.02) returned to RAPOSSS
+RAPOSSS collected $0.05 from pot
+RAPOSSS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: RAPOSSS collected ($0.05)
+Seat 3: lgsshadow folded before Flop (didn't bet)
+Seat 4: Canxa (button) folded before Flop (didn't bet)
+Seat 5: DenyLi (small blind) folded before Flop
+Seat 6: jefezerox8 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213415644149:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:25:34 MSK [2020/05/06 22:25:34 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.01 in chips) 
+Seat 2: RAPOSSS ($4.09 in chips) 
+Seat 3: lgsshadow ($0.66 in chips) 
+Seat 4: Canxa ($2.60 in chips) 
+Seat 5: DenyLi ($1.91 in chips) 
+Seat 6: jefezerox8 ($2.58 in chips) 
+jefezerox8: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 5s]
+RAPOSSS: calls $0.02
+lgsshadow: folds 
+Canxa: folds 
+DenyLi: folds 
+jefezerox8: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Qh Qd 2s]
+jefezerox8: checks 
+lawlex_2: bets $0.04
+RAPOSSS: calls $0.04
+jefezerox8: folds 
+*** TURN *** [Qh Qd 2s] [2h]
+lawlex_2: bets $0.09
+RAPOSSS: calls $0.09
+*** RIVER *** [Qh Qd 2s 2h] [7d]
+lawlex_2: bets $0.21
+RAPOSSS: folds 
+Uncalled bet ($0.21) returned to lawlex_2
+lawlex_2 collected $0.31 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Qh Qd 2s 2h 7d]
+Seat 1: lawlex_2 (big blind) collected ($0.31)
+Seat 2: RAPOSSS folded on the River
+Seat 3: lgsshadow folded before Flop (didn't bet)
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+Seat 6: jefezerox8 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213415684082:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:26:43 MSK [2020/05/06 22:26:43 ET]
+Table 'Aigyptios II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.17 in chips) 
+Seat 2: RAPOSSS ($3.94 in chips) 
+Seat 3: lgsshadow ($0.66 in chips) 
+Seat 4: Canxa ($2.60 in chips) 
+Seat 5: DenyLi ($1.91 in chips) 
+Seat 6: jefezerox8 ($2.56 in chips) 
+lawlex_2: posts small blind $0.01
+RAPOSSS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 8s]
+lgsshadow: folds 
+Canxa: folds 
+DenyLi: folds 
+jefezerox8: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to RAPOSSS
+RAPOSSS collected $0.02 from pot
+RAPOSSS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: RAPOSSS (big blind) collected ($0.02)
+Seat 3: lgsshadow folded before Flop (didn't bet)
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: jefezerox8 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415693127:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:26:56 MSK [2020/05/06 22:26:56 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.16 in chips) 
+Seat 2: RAPOSSS ($3.95 in chips) 
+Seat 3: lgsshadow ($0.66 in chips) 
+Seat 4: Canxa ($2.60 in chips) 
+Seat 5: DenyLi ($1.91 in chips) 
+Seat 6: jefezerox8 ($2.56 in chips) 
+RAPOSSS: posts small blind $0.01
+lgsshadow: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 6c]
+Canxa: raises $0.04 to $0.06
+DenyLi: folds 
+jefezerox8: folds 
+lawlex_2: folds 
+RAPOSSS: folds 
+lgsshadow: calls $0.04
+*** FLOP *** [2c 4c Kc]
+lgsshadow: checks 
+Canxa: bets $0.13
+lgsshadow: calls $0.13
+*** TURN *** [2c 4c Kc] [9d]
+lgsshadow: checks 
+Canxa: bets $0.18
+lgsshadow: calls $0.18
+*** RIVER *** [2c 4c Kc 9d] [3h]
+lgsshadow: checks 
+Canxa: bets $0.30
+lgsshadow: calls $0.29 and is all-in
+Uncalled bet ($0.01) returned to Canxa
+*** SHOW DOWN ***
+Canxa: shows [Ac 3c] (a flush, Ace high)
+lgsshadow: shows [Kh As] (a pair of Kings)
+Canxa collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.33 | Rake $0.05 
+Board [2c 4c Kc 9d 3h]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: RAPOSSS (small blind) folded before Flop
+Seat 3: lgsshadow (big blind) showed [Kh As] and lost with a pair of Kings
+Seat 4: Canxa showed [Ac 3c] and won ($1.28) with a flush, Ace high
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: jefezerox8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415721291:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:27:44 MSK [2020/05/06 22:27:44 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.16 in chips) 
+Seat 2: RAPOSSS ($3.94 in chips) 
+Seat 4: Canxa ($3.22 in chips) 
+Seat 5: DenyLi ($1.91 in chips) 
+Seat 6: jefezerox8 ($2.56 in chips) 
+Canxa: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 4d]
+jefezerox8: calls $0.02
+lawlex_2: folds 
+RAPOSSS: folds 
+Canxa: folds 
+DenyLi: checks 
+*** FLOP *** [Jd Ac Jh]
+DenyLi: checks 
+jefezerox8: checks 
+*** TURN *** [Jd Ac Jh] [Kh]
+DenyLi: checks 
+jefezerox8: bets $0.04
+DenyLi: folds 
+Uncalled bet ($0.04) returned to jefezerox8
+jefezerox8 collected $0.05 from pot
+jefezerox8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd Ac Jh Kh]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: RAPOSSS (button) folded before Flop (didn't bet)
+Seat 4: Canxa (small blind) folded before Flop
+Seat 5: DenyLi (big blind) folded on the Turn
+Seat 6: jefezerox8 collected ($0.05)
+
+
+
+PokerStars Hand #213415750490:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:28:25 MSK [2020/05/06 22:28:25 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.16 in chips) 
+Seat 2: RAPOSSS ($3.94 in chips) 
+Seat 4: Canxa ($3.21 in chips) 
+Seat 5: DenyLi ($1.89 in chips) 
+Seat 6: jefezerox8 ($2.59 in chips) 
+DenyLi: posts small blind $0.01
+jefezerox8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Kd]
+lawlex_2: raises $0.04 to $0.06
+RAPOSSS: calls $0.06
+Canxa: calls $0.06
+DenyLi: calls $0.05
+jefezerox8: folds 
+*** FLOP *** [2s 5d Ts]
+jefezerox8 leaves the table
+Rigo0190 joins the table at seat #6 
+DenyLi: checks 
+lawlex_2: bets $0.17
+RAPOSSS: calls $0.17
+Canxa: folds 
+DenyLi: folds 
+*** TURN *** [2s 5d Ts] [Kc]
+lawlex_2: bets $0.29
+RAPOSSS: folds 
+Uncalled bet ($0.29) returned to lawlex_2
+lawlex_2 collected $0.58 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [2s 5d Ts Kc]
+Seat 1: lawlex_2 collected ($0.58)
+Seat 2: RAPOSSS folded on the Turn
+Seat 4: Canxa (button) folded on the Flop
+Seat 5: DenyLi (small blind) folded on the Flop
+Seat 6: jefezerox8 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213415786046:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:29:27 MSK [2020/05/06 22:29:27 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.51 in chips) 
+Seat 2: RAPOSSS ($3.71 in chips) 
+Seat 4: Canxa ($3.15 in chips) 
+Seat 5: DenyLi ($1.83 in chips) 
+lawlex_2: posts small blind $0.01
+RAPOSSS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Tc]
+Canxa: calls $0.02
+DenyLi: folds 
+lawlex_2: folds 
+RAPOSSS: checks 
+*** FLOP *** [As Kh Qs]
+RAPOSSS has timed out
+RAPOSSS: checks 
+Canxa: bets $0.05
+RAPOSSS: folds 
+Uncalled bet ($0.05) returned to Canxa
+Canxa collected $0.05 from pot
+Canxa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As Kh Qs]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: RAPOSSS (big blind) folded on the Flop
+Seat 4: Canxa collected ($0.05)
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415811570:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:30:11 MSK [2020/05/06 22:30:11 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.50 in chips) 
+Seat 2: RAPOSSS ($3.69 in chips) 
+Seat 4: Canxa ($3.18 in chips) 
+Seat 5: DenyLi ($1.83 in chips) 
+RAPOSSS: posts small blind $0.01
+Canxa: posts big blind $0.02
+Rigo0190: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Kd]
+DenyLi: folds 
+lawlex_2: folds 
+RAPOSSS: folds 
+Uncalled bet ($0.01) returned to Canxa
+Canxa collected $0.02 from pot
+Canxa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: RAPOSSS (small blind) folded before Flop
+Seat 4: Canxa (big blind) collected ($0.02)
+Seat 5: DenyLi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415817047:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:30:20 MSK [2020/05/06 22:30:20 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.50 in chips) 
+Seat 2: RAPOSSS ($3.68 in chips) 
+Seat 4: Canxa ($3.19 in chips) 
+Seat 5: DenyLi ($1.83 in chips) 
+Canxa: posts small blind $0.01
+DenyLi: posts big blind $0.02
+Rigo0190: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 2d]
+lawlex_2: folds 
+RAPOSSS: raises $0.02 to $0.04
+Canxa: folds 
+DenyLi: folds 
+Uncalled bet ($0.02) returned to RAPOSSS
+RAPOSSS collected $0.05 from pot
+RAPOSSS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: RAPOSSS (button) collected ($0.05)
+Seat 4: Canxa (small blind) folded before Flop
+Seat 5: DenyLi (big blind) folded before Flop
+
+
+
+PokerStars Hand #213415828611:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:30:40 MSK [2020/05/06 22:30:40 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.50 in chips) 
+Seat 2: RAPOSSS ($3.71 in chips) 
+Seat 4: Canxa ($3.18 in chips) 
+Seat 5: DenyLi ($1.81 in chips) 
+Seat 6: Rigo0190 ($1 in chips) 
+DenyLi: posts small blind $0.01
+Rigo0190: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Ac]
+lawlex_2: calls $0.02
+RAPOSSS: folds 
+Canxa: raises $0.04 to $0.06
+DenyLi: folds 
+Rigo0190: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [8c 2d 2s]
+lawlex_2: checks 
+Canxa: checks 
+*** TURN *** [8c 2d 2s] [Kh]
+lawlex_2: bets $0.02
+Canxa: raises $0.08 to $0.10
+lawlex_2: calls $0.08
+*** RIVER *** [8c 2d 2s Kh] [Ks]
+lawlex_2: bets $0.34
+Canxa: folds 
+Uncalled bet ($0.34) returned to lawlex_2
+lawlex_2 collected $0.34 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [8c 2d 2s Kh Ks]
+Seat 1: lawlex_2 collected ($0.34)
+Seat 2: RAPOSSS folded before Flop (didn't bet)
+Seat 4: Canxa (button) folded on the River
+Seat 5: DenyLi (small blind) folded before Flop
+Seat 6: Rigo0190 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213415869388:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:31:51 MSK [2020/05/06 22:31:51 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.68 in chips) 
+Seat 2: RAPOSSS ($3.71 in chips) 
+Seat 4: Canxa ($3.02 in chips) 
+Seat 5: DenyLi ($1.80 in chips) 
+Seat 6: Rigo0190 ($0.98 in chips) 
+Rigo0190: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 5c]
+RAPOSSS: folds 
+RAPOSSS leaves the table
+Canxa: folds 
+DenyLi: folds 
+J_Lebowski15 joins the table at seat #2 
+Rigo0190: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Qs 7d Qd]
+Rigo0190: checks 
+lawlex_2: checks 
+*** TURN *** [Qs 7d Qd] [Jh]
+Rigo0190: bets $0.12
+lawlex_2: folds 
+Uncalled bet ($0.12) returned to Rigo0190
+Rigo0190 collected $0.04 from pot
+Rigo0190: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qs 7d Qd Jh]
+Seat 1: lawlex_2 (big blind) folded on the Turn
+Seat 2: RAPOSSS folded before Flop (didn't bet)
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+Seat 6: Rigo0190 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213415888120:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:32:24 MSK [2020/05/06 22:32:24 ET]
+Table 'Aigyptios II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.66 in chips) 
+Seat 2: J_Lebowski15 ($2 in chips) 
+Seat 4: Canxa ($3.02 in chips) 
+Seat 5: DenyLi ($1.80 in chips) 
+Seat 6: Rigo0190 ($1 in chips) 
+lawlex_2: posts small blind $0.01
+J_Lebowski15: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 3s]
+Canxa: folds 
+DenyLi: raises $0.04 to $0.06
+Rigo0190: folds 
+lawlex_2: folds 
+J_Lebowski15: folds 
+Uncalled bet ($0.04) returned to DenyLi
+DenyLi collected $0.05 from pot
+DenyLi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: J_Lebowski15 (big blind) folded before Flop
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi collected ($0.05)
+Seat 6: Rigo0190 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415893507:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:32:33 MSK [2020/05/06 22:32:33 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.65 in chips) 
+Seat 2: J_Lebowski15 ($1.98 in chips) 
+Seat 4: Canxa ($3.02 in chips) 
+Seat 5: DenyLi ($1.83 in chips) 
+Seat 6: Rigo0190 ($1 in chips) 
+J_Lebowski15: posts small blind $0.01
+Canxa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 3s]
+DenyLi: raises $0.05 to $0.07
+Rigo0190: calls $0.07
+lawlex_2: folds 
+J_Lebowski15: folds 
+Canxa: calls $0.05
+*** FLOP *** [3d Qd 8h]
+Canxa: checks 
+DenyLi: checks 
+Rigo0190: bets $0.08
+Canxa: folds 
+DenyLi: folds 
+Uncalled bet ($0.08) returned to Rigo0190
+Rigo0190 collected $0.21 from pot
+Rigo0190: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [3d Qd 8h]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: J_Lebowski15 (small blind) folded before Flop
+Seat 4: Canxa (big blind) folded on the Flop
+Seat 5: DenyLi folded on the Flop
+Seat 6: Rigo0190 collected ($0.21)
+
+
+
+PokerStars Hand #213415919496:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:33:19 MSK [2020/05/06 22:33:19 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.65 in chips) 
+Seat 2: J_Lebowski15 ($1.97 in chips) 
+Seat 4: Canxa ($2.95 in chips) 
+Seat 5: DenyLi ($1.76 in chips) 
+Seat 6: Rigo0190 ($1.14 in chips) 
+Canxa: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Qh]
+Rigo0190: folds 
+lawlex_2: folds 
+J_Lebowski15: folds 
+Canxa: raises $0.04 to $0.06
+DenyLi: folds 
+Uncalled bet ($0.04) returned to Canxa
+Canxa collected $0.04 from pot
+Canxa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: J_Lebowski15 (button) folded before Flop (didn't bet)
+Seat 4: Canxa (small blind) collected ($0.04)
+Seat 5: DenyLi (big blind) folded before Flop
+Seat 6: Rigo0190 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213415927128:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:33:32 MSK [2020/05/06 22:33:32 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.65 in chips) 
+Seat 2: J_Lebowski15 ($1.97 in chips) 
+Seat 4: Canxa ($2.97 in chips) 
+Seat 5: DenyLi ($1.74 in chips) 
+Seat 6: Rigo0190 ($1.14 in chips) 
+DenyLi: posts small blind $0.01
+Rigo0190: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 3s]
+lawlex_2 has timed out
+lawlex_2: folds 
+J_Lebowski15: folds 
+Canxa: calls $0.02
+DenyLi: raises $0.04 to $0.06
+Rigo0190: calls $0.04
+Canxa: calls $0.04
+*** FLOP *** [Kd Jc Qd]
+DenyLi: bets $0.08
+Rigo0190: calls $0.08
+Canxa: calls $0.08
+*** TURN *** [Kd Jc Qd] [Ad]
+DenyLi: checks 
+Rigo0190: checks 
+Canxa: bets $0.22
+DenyLi: folds 
+Rigo0190: folds 
+Uncalled bet ($0.22) returned to Canxa
+Canxa collected $0.41 from pot
+Canxa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Kd Jc Qd Ad]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: J_Lebowski15 folded before Flop (didn't bet)
+Seat 4: Canxa (button) collected ($0.41)
+Seat 5: DenyLi (small blind) folded on the Turn
+Seat 6: Rigo0190 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213415960505:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:34:28 MSK [2020/05/06 22:34:28 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2.65 in chips) 
+Seat 2: J_Lebowski15 ($1.97 in chips) 
+Seat 4: Canxa ($3.24 in chips) 
+Seat 5: DenyLi ($1.60 in chips) 
+Seat 6: Rigo0190 ($1 in chips) 
+Rigo0190: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc Kc]
+J_Lebowski15: folds 
+Canxa: folds 
+DenyLi: folds 
+Rigo0190: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (big blind) collected ($0.02)
+Seat 2: J_Lebowski15 folded before Flop (didn't bet)
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+Seat 6: Rigo0190 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213415965455:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:34:37 MSK [2020/05/06 22:34:37 ET]
+Table 'Aigyptios II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.66 in chips) 
+Seat 2: J_Lebowski15 ($1.97 in chips) 
+Seat 4: Canxa ($3.24 in chips) 
+Seat 5: DenyLi ($1.60 in chips) 
+Seat 6: Rigo0190 ($0.99 in chips) 
+lawlex_2: posts small blind $0.01
+J_Lebowski15: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Jc]
+Canxa: folds 
+DenyLi: raises $0.05 to $0.07
+Rigo0190: folds 
+lawlex_2: folds 
+J_Lebowski15: calls $0.05
+*** FLOP *** [Jh 7h 5d]
+J_Lebowski15: bets $0.06
+DenyLi: calls $0.06
+*** TURN *** [Jh 7h 5d] [Kc]
+J_Lebowski15: checks 
+DenyLi: bets $0.14
+J_Lebowski15: calls $0.14
+*** RIVER *** [Jh 7h 5d Kc] [8d]
+J_Lebowski15: checks 
+DenyLi: bets $0.26
+J_Lebowski15: raises $0.26 to $0.52
+DenyLi: calls $0.26
+*** SHOW DOWN ***
+J_Lebowski15: shows [7d 7c] (three of a kind, Sevens)
+DenyLi: mucks hand 
+J_Lebowski15 collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.06 
+Board [Jh 7h 5d Kc 8d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: J_Lebowski15 (big blind) showed [7d 7c] and won ($1.53) with three of a kind, Sevens
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi mucked [As Ah]
+Seat 6: Rigo0190 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416007624:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:35:51 MSK [2020/05/06 22:35:51 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.65 in chips) 
+Seat 2: J_Lebowski15 ($2.71 in chips) 
+Seat 4: Canxa ($3.24 in chips) 
+Seat 5: DenyLi ($0.81 in chips) 
+Seat 6: Rigo0190 ($0.99 in chips) 
+J_Lebowski15: posts small blind $0.01
+Canxa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Ah]
+DenyLi: folds 
+Rigo0190: folds 
+lawlex_2: raises $0.04 to $0.06
+J_Lebowski15: raises $0.04 to $0.10
+Canxa: folds 
+lawlex_2: raises $0.32 to $0.42
+J_Lebowski15: calls $0.32
+*** FLOP *** [4d 6d 6c]
+J_Lebowski15: checks 
+lawlex_2: bets $0.55
+J_Lebowski15: calls $0.55
+*** TURN *** [4d 6d 6c] [9s]
+J_Lebowski15: checks 
+lawlex_2: checks 
+*** RIVER *** [4d 6d 6c 9s] [Td]
+J_Lebowski15: bets $0.94
+lawlex_2: folds 
+Uncalled bet ($0.94) returned to J_Lebowski15
+J_Lebowski15 collected $1.89 from pot
+lgsshadow was removed from the table for failing to post
+lgsshadow leaves the table
+J_Lebowski15: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.07 
+Board [4d 6d 6c 9s Td]
+Seat 1: lawlex_2 (button) folded on the River
+Seat 2: J_Lebowski15 (small blind) collected ($1.89)
+Seat 4: Canxa (big blind) folded before Flop
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: Rigo0190 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416075293:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:37:25 MSK [2020/05/06 22:37:25 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.68 in chips) 
+Seat 2: J_Lebowski15 ($3.63 in chips) 
+Seat 4: Canxa ($3.22 in chips) 
+Seat 5: DenyLi ($0.81 in chips) 
+Seat 6: Rigo0190 ($0.99 in chips) 
+Canxa: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 6d]
+Rigo0190: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+J_Lebowski15: raises $0.04 to $0.10
+Canxa: folds 
+DenyLi: folds 
+Rigo0190: calls $0.08
+lawlex_2: calls $0.04
+*** FLOP *** [Ah Jd Qh]
+crisby82 joins the table at seat #3 
+Rigo0190: checks 
+lawlex_2: checks 
+J_Lebowski15: bets $0.16
+Rigo0190: calls $0.16
+lawlex_2: folds 
+*** TURN *** [Ah Jd Qh] [5h]
+Rigo0190: checks 
+J_Lebowski15: bets $0.32
+Rigo0190: calls $0.32
+*** RIVER *** [Ah Jd Qh 5h] [7h]
+Rigo0190: checks 
+J_Lebowski15: checks 
+*** SHOW DOWN ***
+Rigo0190: shows [Kd Ks] (a pair of Kings)
+J_Lebowski15: shows [Ac 6c] (a pair of Aces)
+J_Lebowski15 collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.29 | Rake $0.05 
+Board [Ah Jd Qh 5h 7h]
+Seat 1: lawlex_2 folded on the Flop
+Seat 2: J_Lebowski15 (button) showed [Ac 6c] and won ($1.24) with a pair of Aces
+Seat 4: Canxa (small blind) folded before Flop
+Seat 5: DenyLi (big blind) folded before Flop
+Seat 6: Rigo0190 showed [Kd Ks] and lost with a pair of Kings
+
+
+
+PokerStars Hand #213416109921:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:38:26 MSK [2020/05/06 22:38:26 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.58 in chips) 
+Seat 2: J_Lebowski15 ($4.29 in chips) 
+Seat 4: Canxa ($3.21 in chips) 
+Seat 5: DenyLi ($0.79 in chips) 
+Seat 6: Rigo0190 ($0.41 in chips) 
+DenyLi: posts small blind $0.01
+Rigo0190: posts big blind $0.02
+crisby82: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Ah]
+lawlex_2: calls $0.02
+J_Lebowski15: folds 
+Canxa: folds 
+DenyLi: folds 
+Rigo0190: checks 
+*** FLOP *** [Jd 5d Ts]
+J_Lebowski15 leaves the table
+Rigo0190: checks 
+lawlex_2: checks 
+*** TURN *** [Jd 5d Ts] [Tc]
+Rigo0190: checks 
+lawlex_2: bets $0.02
+Rigo0190: folds 
+Uncalled bet ($0.02) returned to lawlex_2
+The As97 joins the table at seat #2 
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd 5d Ts Tc]
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: J_Lebowski15 folded before Flop (didn't bet)
+Seat 4: Canxa (button) folded before Flop (didn't bet)
+Seat 5: DenyLi (small blind) folded before Flop
+Seat 6: Rigo0190 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213416127832:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:38:58 MSK [2020/05/06 22:38:58 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.61 in chips) 
+Seat 4: Canxa ($3.21 in chips) 
+Seat 5: DenyLi ($0.78 in chips) 
+Seat 6: Rigo0190 ($0.39 in chips) 
+Rigo0190: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+The As97: sits out 
+crisby82: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Kh]
+Canxa has timed out
+Canxa: folds 
+DenyLi: folds 
+Rigo0190: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [8s 9c 2c]
+Rigo0190: checks 
+lawlex_2: checks 
+*** TURN *** [8s 9c 2c] [3s]
+Rigo0190: checks 
+lawlex_2: checks 
+*** RIVER *** [8s 9c 2c 3s] [Qs]
+Rigo0190: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Rigo0190: shows [Ad Tc] (high card Ace)
+lawlex_2: mucks hand 
+Rigo0190 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8s 9c 2c 3s Qs]
+Seat 1: lawlex_2 (big blind) mucked [7h Kh]
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+Seat 6: Rigo0190 (small blind) showed [Ad Tc] and won ($0.04) with high card Ace
+
+
+
+PokerStars Hand #213416158577:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:39:52 MSK [2020/05/06 22:39:52 ET]
+Table 'Aigyptios II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.59 in chips) 
+Seat 2: The As97 ($1.60 in chips) 
+Seat 4: Canxa ($3.21 in chips) 
+Seat 5: DenyLi ($0.78 in chips) 
+Seat 6: Rigo0190 ($0.41 in chips) 
+lawlex_2: posts small blind $0.01
+The As97: posts big blind $0.02
+crisby82: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Js]
+Canxa: raises $0.04 to $0.06
+DenyLi: folds 
+Rigo0190: folds 
+lawlex_2: calls $0.05
+The As97: calls $0.04
+*** FLOP *** [Jc Qh 2s]
+lawlex_2: bets $0.11
+The As97: folds 
+Canxa: raises $0.13 to $0.24
+lawlex_2: calls $0.13
+*** TURN *** [Jc Qh 2s] [Kh]
+lawlex_2: checks 
+Canxa: bets $0.40
+lawlex_2: folds 
+Uncalled bet ($0.40) returned to Canxa
+Canxa collected $0.64 from pot
+Canxa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [Jc Qh 2s Kh]
+Seat 1: lawlex_2 (small blind) folded on the Turn
+Seat 2: The As97 (big blind) folded on the Flop
+Seat 4: Canxa collected ($0.64)
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: Rigo0190 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416192158:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:40:51 MSK [2020/05/06 22:40:51 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.29 in chips) 
+Seat 2: The As97 ($1.54 in chips) 
+Seat 3: crisby82 ($2 in chips) 
+Seat 4: Canxa ($3.55 in chips) 
+Seat 5: DenyLi ($0.78 in chips) 
+Seat 6: Rigo0190 ($0.41 in chips) 
+The As97: posts small blind $0.01
+crisby82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 8d]
+Canxa: calls $0.02
+DenyLi: folds 
+Rigo0190: calls $0.02
+lawlex_2: folds 
+The As97: calls $0.01
+crisby82: checks 
+*** FLOP *** [Ks 4s 3s]
+The As97: checks 
+crisby82: checks 
+Canxa: checks 
+Rigo0190: checks 
+*** TURN *** [Ks 4s 3s] [As]
+The As97: bets $0.04
+crisby82: folds 
+Canxa: folds 
+Rigo0190: folds 
+Uncalled bet ($0.04) returned to The As97
+The As97 collected $0.08 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ks 4s 3s As]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: The As97 (small blind) collected ($0.08)
+Seat 3: crisby82 (big blind) folded on the Turn
+Seat 4: Canxa folded on the Turn
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: Rigo0190 folded on the Turn
+
+
+
+PokerStars Hand #213416220377:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:41:41 MSK [2020/05/06 22:41:41 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.29 in chips) 
+Seat 2: The As97 ($1.60 in chips) 
+Seat 3: crisby82 ($2 in chips) 
+Seat 4: Canxa ($3.53 in chips) 
+Seat 5: DenyLi ($0.78 in chips) 
+Seat 6: Rigo0190 ($0.39 in chips) 
+crisby82: posts small blind $0.01
+Canxa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Ac]
+DenyLi: folds 
+Rigo0190: folds 
+lawlex_2: raises $0.04 to $0.06
+The As97: folds 
+crisby82: folds 
+Canxa: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: The As97 (button) folded before Flop (didn't bet)
+Seat 3: crisby82 (small blind) folded before Flop
+Seat 4: Canxa (big blind) folded before Flop
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: Rigo0190 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416245993:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:42:12 MSK [2020/05/06 22:42:12 ET]
+Table 'Aigyptios II' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.32 in chips) 
+Seat 2: The As97 ($1.60 in chips) 
+Seat 3: crisby82 ($2 in chips) 
+Seat 4: Canxa ($3.51 in chips) 
+Seat 5: DenyLi ($0.78 in chips) 
+Seat 6: Rigo0190 ($0.39 in chips) 
+Canxa: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 4s]
+Rigo0190: calls $0.02
+lawlex_2: folds 
+The As97: calls $0.02
+crisby82: raises $0.09 to $0.11
+Canxa: folds 
+DenyLi: folds 
+Rigo0190: calls $0.09
+The As97: calls $0.09
+*** FLOP *** [Tc Ac 7d]
+Rigo0190: checks 
+The As97: checks 
+crisby82: checks 
+*** TURN *** [Tc Ac 7d] [5h]
+Rigo0190: checks 
+The As97: bets $0.12
+crisby82: folds 
+Rigo0190: calls $0.12
+*** RIVER *** [Tc Ac 7d 5h] [6d]
+Rigo0190: checks 
+The As97: checks 
+*** SHOW DOWN ***
+Rigo0190: shows [Jh Js] (a pair of Jacks)
+The As97: mucks hand 
+Rigo0190 collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Tc Ac 7d 5h 6d]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: The As97 mucked [9d Kc]
+Seat 3: crisby82 (button) folded on the Turn
+Seat 4: Canxa (small blind) folded before Flop
+Seat 5: DenyLi (big blind) folded before Flop
+Seat 6: Rigo0190 showed [Jh Js] and won ($0.58) with a pair of Jacks
+
+
+
+PokerStars Hand #213416294680:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:43:39 MSK [2020/05/06 22:43:39 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.32 in chips) 
+Seat 2: The As97 ($1.37 in chips) 
+Seat 3: crisby82 ($2 in chips) 
+Seat 4: Canxa ($3.50 in chips) 
+Seat 5: DenyLi ($0.76 in chips) 
+Seat 6: Rigo0190 ($0.74 in chips) 
+DenyLi: posts small blind $0.01
+Rigo0190: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 7d]
+lawlex_2: folds 
+The As97: calls $0.02
+crisby82: raises $0.04 to $0.06
+Canxa: folds 
+DenyLi: folds 
+Rigo0190: folds 
+The As97: calls $0.04
+*** FLOP *** [Tc Qh 7c]
+The As97: checks 
+crisby82: checks 
+*** TURN *** [Tc Qh 7c] [9d]
+The As97: bets $0.06
+crisby82: folds 
+Uncalled bet ($0.06) returned to The As97
+The As97 collected $0.14 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Tc Qh 7c 9d]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: The As97 collected ($0.14)
+Seat 3: crisby82 folded on the Turn
+Seat 4: Canxa (button) folded before Flop (didn't bet)
+Seat 5: DenyLi (small blind) folded before Flop
+Seat 6: Rigo0190 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213416319291:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:44:23 MSK [2020/05/06 22:44:23 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.32 in chips) 
+Seat 2: The As97 ($1.45 in chips) 
+Seat 3: crisby82 ($2 in chips) 
+Seat 4: Canxa ($3.50 in chips) 
+Seat 5: DenyLi ($0.75 in chips) 
+Seat 6: Rigo0190 ($0.72 in chips) 
+Rigo0190: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 9h]
+The As97: folds 
+crisby82: raises $0.04 to $0.06
+Canxa: folds 
+DenyLi: folds 
+Rigo0190: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to crisby82
+crisby82 collected $0.05 from pot
+crisby82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: The As97 folded before Flop (didn't bet)
+Seat 3: crisby82 collected ($0.05)
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+Seat 6: Rigo0190 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213416339209:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:44:59 MSK [2020/05/06 22:44:59 ET]
+Table 'Aigyptios II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.30 in chips) 
+Seat 2: The As97 ($1.45 in chips) 
+Seat 3: crisby82 ($2.03 in chips) 
+Seat 4: Canxa ($3.50 in chips) 
+Seat 5: DenyLi ($0.75 in chips) 
+Seat 6: Rigo0190 ($0.71 in chips) 
+lawlex_2: posts small blind $0.01
+The As97: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 9h]
+crisby82: folds 
+Canxa: folds 
+DenyLi: folds 
+Rigo0190: folds 
+lawlex_2: calls $0.01
+The As97: checks 
+*** FLOP *** [4h 7c 3h]
+lawlex_2: checks 
+The As97: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to The As97
+The As97 collected $0.04 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4h 7c 3h]
+Seat 1: lawlex_2 (small blind) folded on the Flop
+Seat 2: The As97 (big blind) collected ($0.04)
+Seat 3: crisby82 folded before Flop (didn't bet)
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: Rigo0190 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416375939:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:46:05 MSK [2020/05/06 22:46:05 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.28 in chips) 
+Seat 2: The As97 ($1.47 in chips) 
+Seat 3: crisby82 ($2.03 in chips) 
+Seat 4: Canxa ($3.50 in chips) 
+Seat 5: DenyLi ($0.75 in chips) 
+Seat 6: Rigo0190 ($0.71 in chips) 
+The As97: posts small blind $0.01
+crisby82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 7h]
+Canxa: folds 
+DenyLi: folds 
+Rigo0190: folds 
+lawlex_2: raises $0.04 to $0.06
+The As97: calls $0.05
+crisby82: calls $0.04
+*** FLOP *** [Qh Th Kc]
+The As97: bets $0.08
+crisby82: calls $0.08
+lawlex_2: calls $0.08
+*** TURN *** [Qh Th Kc] [Qs]
+The As97: checks 
+crisby82: checks 
+lawlex_2: bets $0.27
+The As97: calls $0.27
+crisby82: folds 
+*** RIVER *** [Qh Th Kc Qs] [6d]
+The As97: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+The As97: shows [Tc Ks] (two pair, Kings and Queens)
+lawlex_2: mucks hand 
+The As97 collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.03 
+Board [Qh Th Kc Qs 6d]
+Seat 1: lawlex_2 (button) mucked [Ac 7h]
+Seat 2: The As97 (small blind) showed [Tc Ks] and won ($0.93) with two pair, Kings and Queens
+Seat 3: crisby82 (big blind) folded on the Turn
+Seat 4: Canxa folded before Flop (didn't bet)
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: Rigo0190 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416424344:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:47:32 MSK [2020/05/06 22:47:32 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.87 in chips) 
+Seat 2: The As97 ($1.99 in chips) 
+Seat 3: crisby82 ($2 in chips) 
+Seat 4: Canxa ($3.50 in chips) 
+Seat 5: DenyLi ($0.75 in chips) 
+Seat 6: Rigo0190 ($0.71 in chips) 
+crisby82: posts small blind $0.01
+Canxa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 9d]
+DenyLi: folds 
+Rigo0190: folds 
+lawlex_2: raises $0.04 to $0.06
+The As97: folds 
+crisby82: calls $0.05
+Canxa: folds 
+*** FLOP *** [3c 6s 9s]
+crisby82: checks 
+lawlex_2: bets $0.14
+crisby82: calls $0.14
+*** TURN *** [3c 6s 9s] [Qc]
+crisby82: checks 
+lawlex_2: bets $0.41
+crisby82: folds 
+Uncalled bet ($0.41) returned to lawlex_2
+lawlex_2 collected $0.41 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [3c 6s 9s Qc]
+Seat 1: lawlex_2 collected ($0.41)
+Seat 2: The As97 (button) folded before Flop (didn't bet)
+Seat 3: crisby82 (small blind) folded on the Turn
+Seat 4: Canxa (big blind) folded before Flop
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: Rigo0190 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416450349:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:48:19 MSK [2020/05/06 22:48:19 ET]
+Table 'Aigyptios II' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.08 in chips) 
+Seat 2: The As97 ($1.99 in chips) 
+Seat 3: crisby82 ($2 in chips) 
+Seat 5: DenyLi ($0.75 in chips) 
+Seat 6: Rigo0190 ($0.71 in chips) 
+DenyLi: posts small blind $0.01
+Rigo0190: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 9s]
+Canxa leaves the table
+lawlex_2: folds 
+The As97: folds 
+crisby82: folds 
+DenyLi: raises $0.04 to $0.06
+Rigo0190: folds 
+Uncalled bet ($0.04) returned to DenyLi
+DenyLi collected $0.04 from pot
+DenyLi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: The As97 folded before Flop (didn't bet)
+Seat 3: crisby82 (button) folded before Flop (didn't bet)
+Seat 5: DenyLi (small blind) collected ($0.04)
+Seat 6: Rigo0190 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213416459763:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:48:36 MSK [2020/05/06 22:48:36 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.08 in chips) 
+Seat 2: The As97 ($1.99 in chips) 
+Seat 3: crisby82 ($2 in chips) 
+Seat 5: DenyLi ($0.77 in chips) 
+Seat 6: Rigo0190 ($0.69 in chips) 
+Rigo0190: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 4s]
+The As97: raises $0.04 to $0.06
+crisby82: folds 
+DenyLi: folds 
+Rigo0190: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to The As97
+The As97 collected $0.05 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: The As97 collected ($0.05)
+Seat 3: crisby82 folded before Flop (didn't bet)
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+Seat 6: Rigo0190 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213416473377:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:49:01 MSK [2020/05/06 22:49:01 ET]
+Table 'Aigyptios II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.06 in chips) 
+Seat 2: The As97 ($2.02 in chips) 
+Seat 3: crisby82 ($2 in chips) 
+Seat 5: DenyLi ($0.77 in chips) 
+Seat 6: Rigo0190 ($0.68 in chips) 
+lawlex_2: posts small blind $0.01
+The As97: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 2d]
+crisby82: raises $0.04 to $0.06
+DenyLi: folds 
+Rigo0190: folds 
+lawlex_2: folds 
+The As97: calls $0.04
+*** FLOP *** [Qd 5h 5s]
+The As97: checks 
+crisby82: bets $0.07
+The As97: folds 
+Uncalled bet ($0.07) returned to crisby82
+01R.Ferrer joins the table at seat #4 
+crisby82 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qd 5h 5s]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: The As97 (big blind) folded on the Flop
+Seat 3: crisby82 collected ($0.13)
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: Rigo0190 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416493687:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:49:38 MSK [2020/05/06 22:49:38 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.05 in chips) 
+Seat 2: The As97 ($1.96 in chips) 
+Seat 3: crisby82 ($2.07 in chips) 
+Seat 5: DenyLi ($0.77 in chips) 
+Seat 6: Rigo0190 ($0.68 in chips) 
+The As97: posts small blind $0.01
+crisby82: posts big blind $0.02
+01R.Ferrer: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Tc]
+DenyLi: folds 
+Rigo0190: calls $0.02
+lawlex_2: calls $0.02
+The As97: calls $0.01
+crisby82: checks 
+*** FLOP *** [2h 3h 3s]
+The As97: checks 
+crisby82: checks 
+Rigo0190: checks 
+lawlex_2: checks 
+*** TURN *** [2h 3h 3s] [2s]
+The As97: bets $0.02
+crisby82 is disconnected 
+crisby82 is connected 
+crisby82 has timed out
+crisby82: folds 
+Rigo0190: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to The As97
+The As97 collected $0.08 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2h 3h 3s 2s]
+Seat 1: lawlex_2 (button) folded on the Turn
+Seat 2: The As97 (small blind) collected ($0.08)
+Seat 3: crisby82 (big blind) folded on the Turn
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: Rigo0190 folded on the Turn
+
+
+
+PokerStars Hand #213416541299:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:51:03 MSK [2020/05/06 22:51:03 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.03 in chips) 
+Seat 2: The As97 ($2.02 in chips) 
+Seat 5: DenyLi ($0.77 in chips) 
+Seat 6: Rigo0190 ($0.66 in chips) 
+DenyLi: posts small blind $0.01
+Rigo0190: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 5h]
+lawlex_2: folds 
+The As97: raises $0.04 to $0.06
+DenyLi: folds 
+Rigo0190: folds 
+Uncalled bet ($0.04) returned to The As97
+The As97 collected $0.05 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: The As97 (button) collected ($0.05)
+Seat 5: DenyLi (small blind) folded before Flop
+Seat 6: Rigo0190 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213416551754:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:51:22 MSK [2020/05/06 22:51:22 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.03 in chips) 
+Seat 2: The As97 ($2.05 in chips) 
+Seat 4: 01R.Ferrer ($2 in chips) 
+Seat 5: DenyLi ($0.76 in chips) 
+Seat 6: Rigo0190 ($0.64 in chips) 
+Rigo0190: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+crisby82: sits out 
+01R.Ferrer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Kc]
+The As97: folds 
+01R.Ferrer: checks 
+DenyLi: raises $0.07 to $0.09
+Rigo0190: folds 
+lawlex_2: raises $0.07 to $0.16
+01R.Ferrer: folds 
+DenyLi: calls $0.07
+*** FLOP *** [3h Ac Js]
+Rigo0190 leaves the table
+lawlex_2: bets $0.34
+lyn96 joins the table at seat #6 
+DenyLi: folds 
+Uncalled bet ($0.34) returned to lawlex_2
+lawlex_2 collected $0.34 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [3h Ac Js]
+Seat 1: lawlex_2 (big blind) collected ($0.34)
+Seat 2: The As97 folded before Flop (didn't bet)
+Seat 4: 01R.Ferrer folded before Flop (didn't bet)
+Seat 5: DenyLi (button) folded on the Flop
+Seat 6: Rigo0190 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213416571842:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:51:58 MSK [2020/05/06 22:51:58 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.21 in chips) 
+Seat 2: The As97 ($2.05 in chips) 
+Seat 3: crisby82 ($2.05 in chips) 
+Seat 4: 01R.Ferrer ($1.98 in chips) 
+Seat 5: DenyLi ($0.60 in chips) 
+The As97: posts small blind $0.01
+crisby82: posts big blind $0.02
+lyn96: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Th]
+01R.Ferrer: folds 
+DenyLi: folds 
+lawlex_2: folds 
+The As97: raises $0.04 to $0.06
+crisby82: folds 
+Uncalled bet ($0.04) returned to The As97
+The As97 collected $0.04 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: The As97 (small blind) collected ($0.04)
+Seat 3: crisby82 (big blind) folded before Flop
+Seat 4: 01R.Ferrer folded before Flop (didn't bet)
+Seat 5: DenyLi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416588682:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:52:21 MSK [2020/05/06 22:52:21 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.21 in chips) 
+Seat 2: The As97 ($2.07 in chips) 
+Seat 3: crisby82 ($2.03 in chips) 
+Seat 4: 01R.Ferrer ($1.98 in chips) 
+Seat 5: DenyLi ($0.60 in chips) 
+crisby82: posts small blind $0.01
+01R.Ferrer: posts big blind $0.02
+lyn96: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 7d]
+DenyLi: folds 
+lawlex_2: folds 
+The As97: folds 
+crisby82: raises $0.04 to $0.06
+01R.Ferrer: calls $0.04
+*** FLOP *** [2h 4s Ah]
+crisby82: bets $0.05
+01R.Ferrer: folds 
+Uncalled bet ($0.05) returned to crisby82
+crisby82 collected $0.12 from pot
+crisby82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2h 4s Ah]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: The As97 (button) folded before Flop (didn't bet)
+Seat 3: crisby82 (small blind) collected ($0.12)
+Seat 4: 01R.Ferrer (big blind) folded on the Flop
+Seat 5: DenyLi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416613627:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:52:57 MSK [2020/05/06 22:52:57 ET]
+Table 'Aigyptios II' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.21 in chips) 
+Seat 2: The As97 ($2.07 in chips) 
+Seat 3: crisby82 ($2.09 in chips) 
+Seat 4: 01R.Ferrer ($1.92 in chips) 
+Seat 5: DenyLi ($0.60 in chips) 
+Seat 6: lyn96 ($2 in chips) 
+01R.Ferrer: posts small blind $0.01
+DenyLi: posts big blind $0.02
+lyn96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Qc]
+lyn96: checks 
+lawlex_2: raises $0.04 to $0.06
+The As97: folds 
+crisby82: folds 
+01R.Ferrer: folds 
+DenyLi: calls $0.04
+lyn96: folds 
+*** FLOP *** [9s 4h 7h]
+DenyLi: bets $0.08
+lawlex_2: folds 
+Uncalled bet ($0.08) returned to DenyLi
+DenyLi collected $0.14 from pot
+DenyLi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9s 4h 7h]
+Seat 1: lawlex_2 folded on the Flop
+Seat 2: The As97 folded before Flop (didn't bet)
+Seat 3: crisby82 (button) folded before Flop (didn't bet)
+Seat 4: 01R.Ferrer (small blind) folded before Flop
+Seat 5: DenyLi (big blind) collected ($0.14)
+Seat 6: lyn96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416637546:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:53:42 MSK [2020/05/06 22:53:42 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.15 in chips) 
+Seat 2: The As97 ($2.07 in chips) 
+Seat 3: crisby82 ($2.09 in chips) 
+Seat 4: 01R.Ferrer ($1.91 in chips) 
+Seat 5: DenyLi ($0.68 in chips) 
+Seat 6: lyn96 ($1.98 in chips) 
+DenyLi: posts small blind $0.01
+lyn96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Ac]
+lawlex_2: raises $0.04 to $0.06
+The As97: calls $0.06
+crisby82: folds 
+01R.Ferrer: calls $0.06
+DenyLi: folds 
+lyn96: raises $0.04 to $0.10
+lawlex_2: calls $0.04
+The As97: calls $0.04
+01R.Ferrer: calls $0.04
+*** FLOP *** [3s Kh 8c]
+lyn96: bets $0.14
+lawlex_2: folds 
+The As97: calls $0.14
+01R.Ferrer: folds 
+*** TURN *** [3s Kh 8c] [6s]
+lyn96: bets $0.14
+The As97: calls $0.14
+*** RIVER *** [3s Kh 8c 6s] [Qs]
+lyn96: bets $0.16
+The As97: raises $0.28 to $0.44
+lyn96: raises $1.16 to $1.60 and is all-in
+The As97: calls $1.16
+*** SHOW DOWN ***
+lyn96: shows [7d 6d] (a pair of Sixes)
+The As97: shows [Kd Qc] (two pair, Kings and Queens)
+The As97 collected $4.02 from pot
+*** SUMMARY ***
+Total pot $4.17 | Rake $0.15 
+Board [3s Kh 8c 6s Qs]
+Seat 1: lawlex_2 folded on the Flop
+Seat 2: The As97 showed [Kd Qc] and won ($4.02) with two pair, Kings and Queens
+Seat 3: crisby82 folded before Flop (didn't bet)
+Seat 4: 01R.Ferrer (button) folded on the Flop
+Seat 5: DenyLi (small blind) folded before Flop
+Seat 6: lyn96 (big blind) showed [7d 6d] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #213416705699:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:55:58 MSK [2020/05/06 22:55:58 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.05 in chips) 
+Seat 2: The As97 ($4.11 in chips) 
+Seat 3: crisby82 ($2.09 in chips) 
+Seat 4: 01R.Ferrer ($1.81 in chips) 
+Seat 5: DenyLi ($0.67 in chips) 
+lawlex_2: posts small blind $0.01
+lyn96 leaves the table
+The As97: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Qd]
+crowalex joins the table at seat #6 
+crisby82 is disconnected 
+crisby82 has timed out while being disconnected
+crisby82: folds 
+01R.Ferrer: folds 
+DenyLi: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to The As97
+The As97 collected $0.02 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: The As97 (big blind) collected ($0.02)
+Seat 3: crisby82 folded before Flop (didn't bet)
+Seat 4: 01R.Ferrer folded before Flop (didn't bet)
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416720085:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:56:32 MSK [2020/05/06 22:56:32 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.04 in chips) 
+Seat 2: The As97 ($4.12 in chips) 
+Seat 4: 01R.Ferrer ($1.81 in chips) 
+Seat 5: DenyLi ($0.67 in chips) 
+Seat 6: crowalex ($2 in chips) 
+The As97: posts small blind $0.01
+01R.Ferrer: posts big blind $0.02
+crowalex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 3s]
+DenyLi: folds 
+crowalex: checks 
+lawlex_2: folds 
+The As97: calls $0.01
+01R.Ferrer: checks 
+*** FLOP *** [2d Th 2h]
+The As97: checks 
+01R.Ferrer: bets $0.06
+crowalex: folds 
+The As97: folds 
+Uncalled bet ($0.06) returned to 01R.Ferrer
+01R.Ferrer collected $0.06 from pot
+01R.Ferrer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2d Th 2h]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: The As97 (small blind) folded on the Flop
+Seat 4: 01R.Ferrer (big blind) collected ($0.06)
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: crowalex folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #213416739196:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:57:16 MSK [2020/05/06 22:57:16 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.04 in chips) 
+Seat 2: The As97 ($4.10 in chips) 
+Seat 4: 01R.Ferrer ($1.85 in chips) 
+Seat 5: DenyLi ($0.67 in chips) 
+Seat 6: crowalex ($2 in chips) 
+01R.Ferrer: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Th]
+crowalex: folds 
+lawlex_2: raises $0.04 to $0.06
+The As97: folds 
+01R.Ferrer: calls $0.05
+DenyLi: folds 
+*** FLOP *** [5s 2s Ac]
+01R.Ferrer: checks 
+lawlex_2: bets $0.09
+01R.Ferrer: raises $0.15 to $0.24
+lawlex_2: folds 
+Uncalled bet ($0.15) returned to 01R.Ferrer
+01R.Ferrer collected $0.31 from pot
+01R.Ferrer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [5s 2s Ac]
+Seat 1: lawlex_2 folded on the Flop
+Seat 2: The As97 (button) folded before Flop (didn't bet)
+Seat 4: 01R.Ferrer (small blind) collected ($0.31)
+Seat 5: DenyLi (big blind) folded before Flop
+Seat 6: crowalex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416756294:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:57:57 MSK [2020/05/06 22:57:57 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.89 in chips) 
+Seat 2: The As97 ($4.10 in chips) 
+Seat 4: 01R.Ferrer ($2.01 in chips) 
+Seat 5: DenyLi ($0.65 in chips) 
+Seat 6: crowalex ($2 in chips) 
+DenyLi: posts small blind $0.01
+crowalex: posts big blind $0.02
+crisby82: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Kc]
+lawlex_2: raises $0.04 to $0.06
+The As97: calls $0.06
+01R.Ferrer: folds 
+DenyLi: folds 
+crowalex: folds 
+*** FLOP *** [Kh Ah Jc]
+lawlex_2: bets $0.09
+The As97: calls $0.09
+*** TURN *** [Kh Ah Jc] [4h]
+lawlex_2: bets $0.21
+The As97: folds 
+Uncalled bet ($0.21) returned to lawlex_2
+lawlex_2 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Kh Ah Jc 4h]
+Seat 1: lawlex_2 collected ($0.32)
+Seat 2: The As97 folded on the Turn
+Seat 4: 01R.Ferrer (button) folded before Flop (didn't bet)
+Seat 5: DenyLi (small blind) folded before Flop
+Seat 6: crowalex (big blind) folded before Flop
+
+
+
+PokerStars Hand #213416780146:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:58:53 MSK [2020/05/06 22:58:53 ET]
+Table 'Aigyptios II' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.06 in chips) 
+Seat 2: The As97 ($3.95 in chips) 
+Seat 4: 01R.Ferrer ($2.01 in chips) 
+Seat 5: DenyLi ($0.64 in chips) 
+Seat 6: crowalex ($2 in chips) 
+crowalex: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+crisby82: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 9h]
+The As97: calls $0.02
+01R.Ferrer: calls $0.02
+DenyLi: folds 
+crowalex: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [4h As Ks]
+crowalex: checks 
+lawlex_2: checks 
+The As97: bets $0.04
+01R.Ferrer: folds 
+crowalex: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to The As97
+The As97 collected $0.08 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [4h As Ks]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: The As97 collected ($0.08)
+Seat 4: 01R.Ferrer folded on the Flop
+Seat 5: DenyLi (button) folded before Flop (didn't bet)
+Seat 6: crowalex (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213416805274:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 5:59:36 MSK [2020/05/06 22:59:36 ET]
+Table 'Aigyptios II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.04 in chips) 
+Seat 2: The As97 ($4.01 in chips) 
+Seat 4: 01R.Ferrer ($1.99 in chips) 
+Seat 5: DenyLi ($0.64 in chips) 
+Seat 6: crowalex ($2 in chips) 
+lawlex_2: posts small blind $0.01
+The As97: posts big blind $0.02
+crisby82: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 7h]
+01R.Ferrer: calls $0.02
+DenyLi has timed out
+DenyLi: folds 
+crowalex: folds 
+lawlex_2: folds 
+The As97: raises $0.04 to $0.06
+01R.Ferrer: calls $0.04
+*** FLOP *** [3s 4h 6h]
+The As97: checks 
+01R.Ferrer: checks 
+*** TURN *** [3s 4h 6h] [Jh]
+The As97: bets $0.06
+01R.Ferrer: calls $0.06
+*** RIVER *** [3s 4h 6h Jh] [5d]
+The As97: bets $0.16
+01R.Ferrer: folds 
+Uncalled bet ($0.16) returned to The As97
+The As97 collected $0.24 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3s 4h 6h Jh 5d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: The As97 (big blind) collected ($0.24)
+Seat 4: 01R.Ferrer folded on the River
+Seat 5: DenyLi folded before Flop (didn't bet)
+Seat 6: crowalex (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416830258:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 6:00:32 MSK [2020/05/06 23:00:32 ET]
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.03 in chips) 
+Seat 2: The As97 ($4.13 in chips) 
+Seat 3: crisby82 ($2.09 in chips) 
+Seat 4: 01R.Ferrer ($1.87 in chips) 
+Seat 5: DenyLi ($0.64 in chips) 
+Seat 6: crowalex ($2 in chips) 
+The As97: posts small blind $0.01
+crisby82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h As]
+01R.Ferrer: raises $0.04 to $0.06
+DenyLi: calls $0.06
+crowalex: folds 
+lawlex_2: folds 
+The As97: folds 
+crisby82: folds 
+*** FLOP *** [Jc Kc 4s]
+01R.Ferrer: bets $0.10
+DenyLi: calls $0.10
+*** TURN *** [Jc Kc 4s] [5h]
+01R.Ferrer: bets $0.50
+DenyLi: calls $0.48 and is all-in
+Uncalled bet ($0.02) returned to 01R.Ferrer
+*** RIVER *** [Jc Kc 4s 5h] [Qh]
+*** SHOW DOWN ***
+01R.Ferrer: shows [8s Ts] (high card King)
+DenyLi: shows [6c 7c] (high card King - lower kicker)
+01R.Ferrer collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [Jc Kc 4s 5h Qh]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: The As97 (small blind) folded before Flop
+Seat 3: crisby82 (big blind) folded before Flop
+Seat 4: 01R.Ferrer showed [8s Ts] and won ($1.26) with high card King
+Seat 5: DenyLi showed [6c 7c] and lost with high card King
+Seat 6: crowalex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416863604:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 6:01:33 MSK [2020/05/06 23:01:33 ET]
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.03 in chips) 
+Seat 2: The As97 ($4.12 in chips) 
+Seat 3: crisby82 ($2.07 in chips) 
+Seat 4: 01R.Ferrer ($2.49 in chips) 
+Seat 6: crowalex ($2 in chips) 
+crisby82: posts small blind $0.01
+01R.Ferrer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 6c]
+crowalex: folds 
+lawlex_2: raises $0.04 to $0.06
+The As97: calls $0.06
+crisby82: folds 
+01R.Ferrer: calls $0.04
+*** FLOP *** [Kc Jd Th]
+01R.Ferrer: checks 
+lawlex_2: checks 
+The As97: bets $0.06
+01R.Ferrer: calls $0.06
+lawlex_2: folds 
+*** TURN *** [Kc Jd Th] [8c]
+01R.Ferrer: checks 
+The As97: checks 
+*** RIVER *** [Kc Jd Th 8c] [7c]
+01R.Ferrer: checks 
+The As97: bets $0.22
+01R.Ferrer: folds 
+Uncalled bet ($0.22) returned to The As97
+The As97 collected $0.30 from pot
+The As97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Kc Jd Th 8c 7c]
+Seat 1: lawlex_2 folded on the Flop
+Seat 2: The As97 (button) collected ($0.30)
+Seat 3: crisby82 (small blind) folded before Flop
+Seat 4: 01R.Ferrer (big blind) folded on the River
+Seat 6: crowalex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416898630:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 6:02:40 MSK [2020/05/06 23:02:40 ET]
+Table 'Aigyptios II' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.97 in chips) 
+Seat 2: The As97 ($4.30 in chips) 
+Seat 3: crisby82 ($2.06 in chips) 
+Seat 4: 01R.Ferrer ($2.37 in chips) 
+Seat 5: DenyLi ($2 in chips) 
+Seat 6: crowalex ($2 in chips) 
+01R.Ferrer: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Kc]
+crowalex: folds 
+lawlex_2: raises $0.02 to $0.04
+The As97: calls $0.04
+crisby82: folds 
+01R.Ferrer: folds 
+DenyLi: folds 
+*** FLOP *** [Ad 7c Ts]
+lawlex_2: checks 
+The As97: checks 
+*** TURN *** [Ad 7c Ts] [Qd]
+lawlex_2: bets $0.07
+The As97: calls $0.07
+*** RIVER *** [Ad 7c Ts Qd] [Qc]
+lawlex_2: bets $0.24
+The As97: calls $0.24
+*** SHOW DOWN ***
+lawlex_2: shows [Kh Kc] (two pair, Kings and Queens)
+The As97: shows [5h Qh] (three of a kind, Queens)
+The As97 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Ad 7c Ts Qd Qc]
+Seat 1: lawlex_2 showed [Kh Kc] and lost with two pair, Kings and Queens
+Seat 2: The As97 showed [5h Qh] and won ($0.70) with three of a kind, Queens
+Seat 3: crisby82 (button) folded before Flop (didn't bet)
+Seat 4: 01R.Ferrer (small blind) folded before Flop
+Seat 5: DenyLi (big blind) folded before Flop
+Seat 6: crowalex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213416930623:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/07 6:03:42 MSK [2020/05/06 23:03:42 ET]
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.62 in chips) 
+Seat 2: The As97 ($4.65 in chips) 
+Seat 3: crisby82 ($2.06 in chips) 
+Seat 4: 01R.Ferrer ($2.36 in chips) 
+Seat 5: DenyLi ($1.98 in chips) 
+Seat 6: crowalex ($2 in chips) 
+DenyLi: posts small blind $0.01
+crowalex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 2d]
+lawlex_2: folds 
+The As97 has timed out
+The As97: folds 
+crisby82: folds 
+01R.Ferrer: calls $0.02
+DenyLi: folds 
+crowalex: checks 
+*** FLOP *** [Ah 5c 2s]
+crowalex: checks 
+01R.Ferrer: checks 
+*** TURN *** [Ah 5c 2s] [7c]
+crowalex: bets $0.04
+01R.Ferrer: folds 
+Uncalled bet ($0.04) returned to crowalex
+crowalex collected $0.05 from pot
+crowalex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ah 5c 2s 7c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: The As97 folded before Flop (didn't bet)
+Seat 3: crisby82 folded before Flop (didn't bet)
+Seat 4: 01R.Ferrer (button) folded on the Turn
+Seat 5: DenyLi (small blind) folded before Flop
+Seat 6: crowalex (big blind) collected ($0.05)
+
+
+

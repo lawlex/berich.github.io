@@ -1,0 +1,1325 @@
+﻿PokerStars Hand #213548564188:  Hold'em No Limit (50/100) - 2020/05/09 10:09:04 MSK [2020/05/09 3:09:04 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #5 is the button
+Seat 1: lawlex_2 (10000 in chips) 
+Seat 4: suiroitia (10000 in chips) 
+Seat 5: Drandalj 65 (10979 in chips) 
+Seat 6: Lisztb (8300 in chips) 
+Lisztb: posts small blind 50
+lawlex_2: posts big blind 100
+suiroitia: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 3s]
+suiroitia: checks 
+Drandalj 65: raises 100 to 200
+Lisztb: calls 150
+lawlex_2: folds 
+suiroitia: calls 100
+*** FLOP *** [Qc 3c Td]
+Lisztb: bets 100
+suiroitia: calls 100
+Drandalj 65: calls 100
+*** TURN *** [Qc 3c Td] [Js]
+Lisztb: bets 400
+suiroitia: folds 
+Drandalj 65: calls 400
+*** RIVER *** [Qc 3c Td Js] [6d]
+Lisztb: bets 300
+Drandalj 65: calls 300
+*** SHOW DOWN ***
+Lisztb: shows [Ah As] (a pair of Aces)
+Drandalj 65: mucks hand 
+Lisztb collected 2268 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 132 
+Board [Qc 3c Td Js 6d]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 4: suiroitia folded on the Turn
+Seat 5: Drandalj 65 (button) mucked [Kd Jd]
+Seat 6: Lisztb (small blind) showed [Ah As] and won (2268) with a pair of Aces
+
+
+
+PokerStars Hand #213548590093:  Hold'em No Limit (50/100) - 2020/05/09 10:09:53 MSK [2020/05/09 3:09:53 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #6 is the button
+Seat 1: lawlex_2 (9900 in chips) 
+Seat 4: suiroitia (9700 in chips) 
+Seat 5: Drandalj 65 (9979 in chips) 
+Seat 6: Lisztb (9568 in chips) 
+lawlex_2: posts small blind 50
+suiroitia: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 4c]
+Drandalj 65: calls 100
+Lisztb: calls 100
+lawlex_2: folds 
+suiroitia: checks 
+*** FLOP *** [Qc 5h As]
+suiroitia: checks 
+Drandalj 65: checks 
+Lisztb: checks 
+*** TURN *** [Qc 5h As] [3c]
+suiroitia: checks 
+Drandalj 65: checks 
+Lisztb: checks 
+*** RIVER *** [Qc 5h As 3c] [8d]
+suiroitia: checks 
+Drandalj 65: checks 
+Lisztb: bets 300
+suiroitia: folds 
+Drandalj 65: folds 
+Uncalled bet (300) returned to Lisztb
+Lisztb collected 331 from pot
+Lisztb: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 19 
+Board [Qc 5h As 3c 8d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 4: suiroitia (big blind) folded on the River
+Seat 5: Drandalj 65 folded on the River
+Seat 6: Lisztb (button) collected (331)
+
+
+
+PokerStars Hand #213548615621:  Hold'em No Limit (50/100) - 2020/05/09 10:10:51 MSK [2020/05/09 3:10:51 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #1 is the button
+Seat 1: lawlex_2 (9850 in chips) 
+Seat 4: suiroitia (9600 in chips) 
+Seat 5: Drandalj 65 (9879 in chips) 
+Seat 6: Lisztb (9799 in chips) 
+suiroitia: posts small blind 50
+Drandalj 65: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 4h]
+Lisztb: calls 100
+lawlex_2: folds 
+suiroitia: calls 50
+Drandalj 65: checks 
+*** FLOP *** [Ad 5d Tc]
+suiroitia: checks 
+Drandalj 65: bets 100
+Lisztb: calls 100
+suiroitia: calls 100
+*** TURN *** [Ad 5d Tc] [Qd]
+suiroitia: checks 
+Drandalj 65: bets 100
+Lisztb: calls 100
+suiroitia: calls 100
+*** RIVER *** [Ad 5d Tc Qd] [Jh]
+suiroitia: checks 
+Drandalj 65: bets 100
+Lisztb: raises 600 to 700
+suiroitia: folds 
+Drandalj 65: folds 
+Uncalled bet (600) returned to Lisztb
+Lisztb collected 1039 from pot
+Lisztb: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 61 
+Board [Ad 5d Tc Qd Jh]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: suiroitia (small blind) folded on the River
+Seat 5: Drandalj 65 (big blind) folded on the River
+Seat 6: Lisztb collected (1039)
+
+
+
+PokerStars Hand #213548643558:  Hold'em No Limit (50/100) - 2020/05/09 10:11:54 MSK [2020/05/09 3:11:54 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #4 is the button
+Seat 1: lawlex_2 (9850 in chips) 
+Seat 4: suiroitia (9300 in chips) 
+Seat 5: Drandalj 65 (9479 in chips) 
+Seat 6: Lisztb (10438 in chips) 
+Drandalj 65: posts small blind 50
+Lisztb: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Ks]
+lawlex_2: folds 
+suiroitia: calls 100
+Drandalj 65: calls 50
+Lisztb: checks 
+*** FLOP *** [6h Kd Th]
+Drandalj 65: bets 100
+Lisztb: calls 100
+suiroitia: calls 100
+*** TURN *** [6h Kd Th] [6s]
+Drandalj 65: bets 100
+Lisztb: folds 
+suiroitia: calls 100
+*** RIVER *** [6h Kd Th 6s] [Qs]
+Drandalj 65: bets 400
+suiroitia: calls 400
+*** SHOW DOWN ***
+Drandalj 65: shows [6c Tc] (a full house, Sixes full of Tens)
+suiroitia: shows [8h 3h] (a pair of Sixes)
+Drandalj 65 collected 1512 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 88 
+Board [6h Kd Th 6s Qs]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 4: suiroitia (button) showed [8h 3h] and lost with a pair of Sixes
+Seat 5: Drandalj 65 (small blind) showed [6c Tc] and won (1512) with a full house, Sixes full of Tens
+Seat 6: Lisztb (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213548660261:  Hold'em No Limit (50/100) - 2020/05/09 10:12:31 MSK [2020/05/09 3:12:31 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #5 is the button
+Seat 1: lawlex_2 (9850 in chips) 
+Seat 4: suiroitia (8600 in chips) 
+Seat 5: Drandalj 65 (10291 in chips) 
+Seat 6: Lisztb (10238 in chips) 
+Lisztb: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 9s]
+suiroitia: calls 100
+Drandalj 65: calls 100
+Lisztb: calls 50
+lawlex_2: checks 
+*** FLOP *** [9d 5c 8h]
+Lisztb: bets 100
+lawlex_2: raises 385 to 485
+suiroitia: calls 485
+cgns29_jk was removed from the table for failing to post
+cgns29_jk leaves the table
+Drandalj 65: folds 
+Lisztb: calls 385
+*** TURN *** [9d 5c 8h] [Qd]
+Lisztb: bets 500
+bobita2 joins the table at seat #2 
+lawlex_2: folds 
+suiroitia: calls 500
+*** RIVER *** [9d 5c 8h Qd] [4d]
+Lisztb: bets 400
+suiroitia: calls 400
+*** SHOW DOWN ***
+Lisztb: shows [7c 8c] (a pair of Eights)
+suiroitia: shows [7s 8s] (a pair of Eights)
+Lisztb collected 1727 from pot
+suiroitia collected 1727 from pot
+*** SUMMARY ***
+Total pot 3655 | Rake 201 
+Board [9d 5c 8h Qd 4d]
+Seat 1: lawlex_2 (big blind) folded on the Turn
+Seat 4: suiroitia showed [7s 8s] and won (1727) with a pair of Eights
+Seat 5: Drandalj 65 (button) folded on the Flop
+Seat 6: Lisztb (small blind) showed [7c 8c] and won (1727) with a pair of Eights
+
+
+
+PokerStars Hand #213548687498:  Hold'em No Limit (50/100) - 2020/05/09 10:13:33 MSK [2020/05/09 3:13:33 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #6 is the button
+Seat 1: lawlex_2 (9265 in chips) 
+Seat 2: bobita2 (10000 in chips) 
+Seat 4: suiroitia (8842 in chips) 
+Seat 5: Drandalj 65 (10191 in chips) 
+Seat 6: Lisztb (10480 in chips) 
+lawlex_2: posts small blind 50
+bobita2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 2s]
+suiroitia: calls 100
+Drandalj 65: calls 100
+Lisztb: calls 100
+lawlex_2: folds 
+bobita2: checks 
+*** FLOP *** [4h 9c Ac]
+bobita2: bets 100
+suiroitia: calls 100
+Drandalj 65: folds 
+Lisztb: folds 
+*** TURN *** [4h 9c Ac] [8s]
+bobita2: bets 200
+suiroitia: calls 200
+*** RIVER *** [4h 9c Ac 8s] [7s]
+bobita2: bets 200
+suiroitia: calls 200
+*** SHOW DOWN ***
+bobita2: shows [4s 9s] (two pair, Nines and Fours)
+suiroitia: shows [4c Td] (a pair of Fours)
+bobita2 collected 1370 from pot
+*** SUMMARY ***
+Total pot 1450 | Rake 80 
+Board [4h 9c Ac 8s 7s]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: bobita2 (big blind) showed [4s 9s] and won (1370) with two pair, Nines and Fours
+Seat 4: suiroitia showed [4c Td] and lost with a pair of Fours
+Seat 5: Drandalj 65 folded on the Flop
+Seat 6: Lisztb (button) folded on the Flop
+
+
+
+PokerStars Hand #213548705831:  Hold'em No Limit (50/100) - 2020/05/09 10:14:14 MSK [2020/05/09 3:14:14 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #1 is the button
+Seat 1: lawlex_2 (9215 in chips) 
+Seat 2: bobita2 (10770 in chips) 
+Seat 4: suiroitia (8242 in chips) 
+Seat 5: Drandalj 65 (10091 in chips) 
+Seat 6: Lisztb (10380 in chips) 
+bobita2: posts small blind 50
+suiroitia: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 2h]
+Drandalj 65: calls 100
+Lisztb: calls 100
+lawlex_2: folds 
+bobita2: calls 50
+suiroitia: checks 
+*** FLOP *** [7h 8s As]
+bobita2: checks 
+suiroitia: checks 
+Drandalj 65: bets 100
+Lisztb: calls 100
+bobita2: calls 100
+TioHuds464 was removed from the table for failing to post
+TioHuds464 leaves the table
+suiroitia: calls 100
+*** TURN *** [7h 8s As] [6c]
+bobita2: checks 
+suiroitia: checks 
+Drandalj 65: bets 400
+Lisztb: folds 
+bobita2: calls 400
+suiroitia: calls 400
+*** RIVER *** [7h 8s As 6c] [3d]
+bobita2: checks 
+suiroitia: checks 
+Drandalj 65: bets 900
+bobita2: folds 
+suiroitia: calls 900
+*** SHOW DOWN ***
+Drandalj 65: shows [8c Ah] (two pair, Aces and Eights)
+suiroitia: shows [Qc Ks] (high card Ace)
+Drandalj 65 collected 3591 from pot
+*** SUMMARY ***
+Total pot 3800 | Rake 209 
+Board [7h 8s As 6c 3d]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: bobita2 (small blind) folded on the River
+Seat 4: suiroitia (big blind) showed [Qc Ks] and lost with high card Ace
+Seat 5: Drandalj 65 showed [8c Ah] and won (3591) with two pair, Aces and Eights
+Seat 6: Lisztb folded on the Turn
+
+
+
+PokerStars Hand #213548730968:  Hold'em No Limit (50/100) - 2020/05/09 10:15:10 MSK [2020/05/09 3:15:10 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #2 is the button
+Seat 1: lawlex_2 (9215 in chips) 
+Seat 2: bobita2 (10170 in chips) 
+Seat 4: suiroitia (6742 in chips) 
+Seat 5: Drandalj 65 (12182 in chips) 
+Seat 6: Lisztb (10180 in chips) 
+suiroitia: posts small blind 50
+Drandalj 65: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Ah]
+Lisztb: calls 100
+frozenexe joins the table at seat #3 
+lawlex_2: raises 200 to 300
+bobita2: folds 
+suiroitia: calls 250
+Drandalj 65: calls 200
+Lisztb: calls 200
+*** FLOP *** [8c Tc Jd]
+bobita2 leaves the table
+suiroitia: checks 
+Drandalj 65: bets 100
+Lisztb: calls 100
+weißer Pelé joins the table at seat #2 
+lawlex_2: raises 956 to 1056
+suiroitia: calls 1056
+Drandalj 65: calls 956
+Lisztb: folds 
+*** TURN *** [8c Tc Jd] [Ts]
+suiroitia: checks 
+Drandalj 65: checks 
+lawlex_2: bets 2814
+suiroitia: calls 2814
+Drandalj 65: folds 
+*** RIVER *** [8c Tc Jd Ts] [Qh]
+suiroitia: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+suiroitia: shows [4s 8h] (two pair, Tens and Eights)
+lawlex_2: shows [Th Ah] (three of a kind, Tens)
+lawlex_2 collected 9541 from pot
+*** SUMMARY ***
+Total pot 10096 | Rake 555 
+Board [8c Tc Jd Ts Qh]
+Seat 1: lawlex_2 showed [Th Ah] and won (9541) with three of a kind, Tens
+Seat 2: bobita2 (button) folded before Flop (didn't bet)
+Seat 4: suiroitia (small blind) showed [4s 8h] and lost with two pair, Tens and Eights
+Seat 5: Drandalj 65 (big blind) folded on the Turn
+Seat 6: Lisztb folded on the Flop
+
+
+
+PokerStars Hand #213548757920:  Hold'em No Limit (50/100) - 2020/05/09 10:16:12 MSK [2020/05/09 3:16:12 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #4 is the button
+Seat 1: lawlex_2 (14586 in chips) 
+Seat 2: weißer Pelé (10000 in chips) 
+Seat 3: frozenexe (10000 in chips) 
+Seat 4: suiroitia (2572 in chips) 
+Seat 5: Drandalj 65 (10826 in chips) 
+Seat 6: Lisztb (9780 in chips) 
+Drandalj 65: posts small blind 50
+Lisztb: posts big blind 100
+weißer Pelé: posts big blind 100
+frozenexe: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Jc]
+lawlex_2: folds 
+weißer Pelé: checks 
+frozenexe: checks 
+suiroitia: calls 100
+Drandalj 65: calls 50
+Lisztb: checks 
+*** FLOP *** [7c Qc Kh]
+Drandalj 65: checks 
+Lisztb: checks 
+weißer Pelé: checks 
+frozenexe: checks 
+suiroitia: checks 
+*** TURN *** [7c Qc Kh] [5s]
+Drandalj 65: checks 
+Lisztb: checks 
+weißer Pelé: checks 
+frozenexe: checks 
+suiroitia: bets 100
+Drandalj 65: folds 
+Lisztb: folds 
+weißer Pelé: folds 
+frozenexe: folds 
+Uncalled bet (100) returned to suiroitia
+suiroitia collected 472 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 28 
+Board [7c Qc Kh 5s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: weißer Pelé folded on the Turn (didn't bet)
+Seat 3: frozenexe folded on the Turn (didn't bet)
+Seat 4: suiroitia (button) collected (472)
+Seat 5: Drandalj 65 (small blind) folded on the Turn
+Seat 6: Lisztb (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213548780979:  Hold'em No Limit (50/100) - 2020/05/09 10:17:04 MSK [2020/05/09 3:17:04 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #5 is the button
+Seat 1: lawlex_2 (14586 in chips) 
+Seat 2: weißer Pelé (9900 in chips) 
+Seat 3: frozenexe (9900 in chips) 
+Seat 4: suiroitia (2944 in chips) 
+Seat 5: Drandalj 65 (10726 in chips) 
+Seat 6: Lisztb (9680 in chips) 
+Lisztb: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 8c]
+weißer Pelé: calls 100
+frozenexe: calls 100
+suiroitia: calls 100
+Drandalj 65: calls 100
+Lisztb: calls 50
+lawlex_2: checks 
+*** FLOP *** [Ts 7s 9c]
+Lisztb: bets 100
+lawlex_2: raises 511 to 611
+weißer Pelé: folds 
+frozenexe: folds 
+suiroitia: calls 611
+Drandalj 65: folds 
+Lisztb: calls 511
+*** TURN *** [Ts 7s 9c] [Ks]
+Lisztb: bets 500
+lawlex_2: raises 2199 to 2699
+suiroitia: calls 2233 and is all-in
+Lisztb: calls 2199
+*** RIVER *** [Ts 7s 9c Ks] [Jh]
+Lisztb has timed out
+Lisztb: checks 
+lawlex_2: bets 9510
+Lisztb: calls 6270 and is all-in
+Uncalled bet (3240) returned to lawlex_2
+*** SHOW DOWN ***
+lawlex_2: shows [Qc 8c] (a straight, Nine to King)
+Lisztb: shows [Td As] (a pair of Tens)
+lawlex_2 collected 12731 from side pot
+suiroitia: shows [Th 6h] (a pair of Tens)
+lawlex_2 collected 8630 from main pot
+*** SUMMARY ***
+Total pot 22604 Main pot 8630. Side pot 12731. | Rake 1243 
+Board [Ts 7s 9c Ks Jh]
+Seat 1: lawlex_2 (big blind) showed [Qc 8c] and won (21361) with a straight, Nine to King
+Seat 2: weißer Pelé folded on the Flop
+Seat 3: frozenexe folded on the Flop
+Seat 4: suiroitia showed [Th 6h] and lost with a pair of Tens
+Seat 5: Drandalj 65 (button) folded on the Flop
+Seat 6: Lisztb (small blind) showed [Td As] and lost with a pair of Tens
+
+
+
+PokerStars Hand #213548818545:  Hold'em No Limit (50/100) - 2020/05/09 10:18:29 MSK [2020/05/09 3:18:29 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #1 is the button
+Seat 1: lawlex_2 (26267 in chips) 
+Seat 2: weißer Pelé (9800 in chips) 
+Seat 3: frozenexe (9800 in chips) 
+Seat 4: suiroitia (10000 in chips) 
+Seat 5: Drandalj 65 (10626 in chips) 
+weißer Pelé: posts small blind 50
+frozenexe: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Jc]
+suiroitia: calls 100
+Drandalj 65: calls 100
+lawlex_2: raises 200 to 300
+weißer Pelé: calls 250
+frozenexe: calls 200
+suiroitia: calls 200
+Drandalj 65: calls 200
+*** FLOP *** [Jd 6d 6c]
+weißer Pelé: checks 
+frozenexe: checks 
+suiroitia: checks 
+Lisztb leaves the table
+Drandalj 65: checks 
+lawlex_2: bets 944
+weißer Pelé: folds 
+frozenexe: folds 
+suiroitia: calls 944
+Drandalj 65: folds 
+*** TURN *** [Jd 6d 6c] [5s]
+suiroitia: checks 
+lawlex_2: bets 2134
+suiroitia: raises 6622 to 8756 and is all-in
+lawlex_2: calls 6622
+Lisztb joins the table at seat #6 
+*** RIVER *** [Jd 6d 6c 5s] [3d]
+*** SHOW DOWN ***
+suiroitia: shows [Kd 3h] (two pair, Sixes and Threes)
+lawlex_2: shows [Ks Jc] (two pair, Jacks and Sixes)
+lawlex_2 collected 19750 from pot
+*** SUMMARY ***
+Total pot 20900 | Rake 1150 
+Board [Jd 6d 6c 5s 3d]
+Seat 1: lawlex_2 (button) showed [Ks Jc] and won (19750) with two pair, Jacks and Sixes
+Seat 2: weißer Pelé (small blind) folded on the Flop
+Seat 3: frozenexe (big blind) folded on the Flop
+Seat 4: suiroitia showed [Kd 3h] and lost with two pair, Sixes and Threes
+Seat 5: Drandalj 65 folded on the Flop
+
+
+
+PokerStars Hand #213548842615:  Hold'em No Limit (50/100) - 2020/05/09 10:19:24 MSK [2020/05/09 3:19:24 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #2 is the button
+Seat 1: lawlex_2 (36017 in chips) 
+Seat 2: weißer Pelé (9500 in chips) 
+Seat 3: frozenexe (9500 in chips) 
+Seat 4: suiroitia (10000 in chips) 
+Seat 5: Drandalj 65 (10326 in chips) 
+Seat 6: Lisztb (10000 in chips) 
+frozenexe: posts small blind 50
+suiroitia: posts big blind 100
+Lisztb: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 5s]
+Drandalj 65: folds 
+Lisztb: checks 
+lawlex_2: folds 
+weißer Pelé: calls 100
+frozenexe: calls 50
+suiroitia: checks 
+*** FLOP *** [2h 7s 4h]
+frozenexe: checks 
+suiroitia: checks 
+Lisztb: bets 100
+weißer Pelé: calls 100
+frozenexe: calls 100
+suiroitia: calls 100
+*** TURN *** [2h 7s 4h] [6c]
+frozenexe: checks 
+suiroitia: checks 
+Lisztb: bets 300
+weißer Pelé: calls 300
+frozenexe: folds 
+suiroitia: calls 300
+*** RIVER *** [2h 7s 4h 6c] [8c]
+suiroitia: checks 
+Lisztb: bets 700
+weißer Pelé: calls 700
+suiroitia: raises 2600 to 3300
+Lisztb: calls 2600
+weißer Pelé: folds 
+*** SHOW DOWN ***
+suiroitia: shows [2c 8h] (two pair, Eights and Deuces)
+Lisztb: shows [5h Jh] (a straight, Four to Eight)
+Lisztb collected 8505 from pot
+*** SUMMARY ***
+Total pot 9000 | Rake 495 
+Board [2h 7s 4h 6c 8c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: weißer Pelé (button) folded on the River
+Seat 3: frozenexe (small blind) folded on the Turn
+Seat 4: suiroitia (big blind) showed [2c 8h] and lost with two pair, Eights and Deuces
+Seat 5: Drandalj 65 folded before Flop (didn't bet)
+Seat 6: Lisztb showed [5h Jh] and won (8505) with a straight, Four to Eight
+
+
+
+PokerStars Hand #213548871581:  Hold'em No Limit (50/100) - 2020/05/09 10:20:30 MSK [2020/05/09 3:20:30 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #3 is the button
+Seat 1: lawlex_2 (36017 in chips) 
+Seat 2: weißer Pelé (8300 in chips) 
+Seat 3: frozenexe (9300 in chips) 
+Seat 4: suiroitia (6200 in chips) 
+Seat 5: Drandalj 65 (10326 in chips) 
+Seat 6: Lisztb (14705 in chips) 
+suiroitia: posts small blind 50
+Drandalj 65: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Qd]
+Lisztb: calls 100
+lawlex_2: raises 200 to 300
+weißer Pelé: folds 
+frozenexe: calls 300
+suiroitia: raises 5900 to 6200 and is all-in
+Drandalj 65: folds 
+Lisztb: folds 
+lawlex_2: folds 
+frozenexe: calls 5900
+*** FLOP *** [5d Ks 4s]
+*** TURN *** [5d Ks 4s] [9d]
+*** RIVER *** [5d Ks 4s 9d] [Tc]
+*** SHOW DOWN ***
+suiroitia: shows [Jh 5h] (a pair of Fives)
+frozenexe: shows [As Qc] (high card Ace)
+suiroitia collected 12190 from pot
+*** SUMMARY ***
+Total pot 12900 | Rake 710 
+Board [5d Ks 4s 9d Tc]
+Seat 1: lawlex_2 folded before Flop
+Seat 2: weißer Pelé folded before Flop (didn't bet)
+Seat 3: frozenexe (button) showed [As Qc] and lost with high card Ace
+Seat 4: suiroitia (small blind) showed [Jh 5h] and won (12190) with a pair of Fives
+Seat 5: Drandalj 65 (big blind) folded before Flop
+Seat 6: Lisztb folded before Flop
+
+
+
+PokerStars Hand #213548894422:  Hold'em No Limit (50/100) - 2020/05/09 10:21:13 MSK [2020/05/09 3:21:13 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #4 is the button
+Seat 1: lawlex_2 (35717 in chips) 
+Seat 2: weißer Pelé (8300 in chips) 
+Seat 3: frozenexe (3100 in chips) 
+Seat 4: suiroitia (12190 in chips) 
+Seat 5: Drandalj 65 (10226 in chips) 
+Seat 6: Lisztb (14605 in chips) 
+Drandalj 65: posts small blind 50
+Lisztb: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 5s]
+lawlex_2: folds 
+weißer Pelé: calls 100
+frozenexe: raises 3000 to 3100 and is all-in
+suiroitia: folds 
+Drandalj 65: folds 
+Lisztb: folds 
+weißer Pelé: calls 3000
+*** FLOP *** [3h Kc Kd]
+*** TURN *** [3h Kc Kd] [Ah]
+*** RIVER *** [3h Kc Kd Ah] [2d]
+*** SHOW DOWN ***
+weißer Pelé: shows [Ad Th] (two pair, Aces and Kings)
+frozenexe: shows [Td Jc] (a pair of Kings)
+weißer Pelé collected 6001 from pot
+*** SUMMARY ***
+Total pot 6350 | Rake 349 
+Board [3h Kc Kd Ah 2d]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: weißer Pelé showed [Ad Th] and won (6001) with two pair, Aces and Kings
+Seat 3: frozenexe showed [Td Jc] and lost with a pair of Kings
+Seat 4: suiroitia (button) folded before Flop (didn't bet)
+Seat 5: Drandalj 65 (small blind) folded before Flop
+Seat 6: Lisztb (big blind) folded before Flop
+
+
+
+PokerStars Hand #213548904468:  Hold'em No Limit (50/100) - 2020/05/09 10:21:36 MSK [2020/05/09 3:21:36 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #5 is the button
+Seat 1: lawlex_2 (35717 in chips) 
+Seat 2: weißer Pelé (11201 in chips) 
+Seat 4: suiroitia (12190 in chips) 
+Seat 5: Drandalj 65 (10176 in chips) 
+Seat 6: Lisztb (14505 in chips) 
+Lisztb: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 4c]
+weißer Pelé: calls 100
+suiroitia: folds 
+Drandalj 65: calls 100
+Lisztb: calls 50
+lawlex_2: checks 
+*** FLOP *** [Ad 6s 3s]
+Lisztb: bets 300
+lawlex_2: folds 
+weißer Pelé: folds 
+Drandalj 65: folds 
+Uncalled bet (300) returned to Lisztb
+Lisztb collected 378 from pot
+Lisztb: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 22 
+Board [Ad 6s 3s]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: weißer Pelé folded on the Flop
+Seat 4: suiroitia folded before Flop (didn't bet)
+Seat 5: Drandalj 65 (button) folded on the Flop
+Seat 6: Lisztb (small blind) collected (378)
+
+
+
+PokerStars Hand #213548920015:  Hold'em No Limit (50/100) - 2020/05/09 10:22:12 MSK [2020/05/09 3:22:12 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #6 is the button
+Seat 1: lawlex_2 (35617 in chips) 
+Seat 2: weißer Pelé (11101 in chips) 
+Seat 3: frozenexe (10000 in chips) 
+Seat 4: suiroitia (12190 in chips) 
+Seat 5: Drandalj 65 (10076 in chips) 
+Seat 6: Lisztb (14783 in chips) 
+lawlex_2: posts small blind 50
+weißer Pelé: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 8s]
+frozenexe: calls 100
+suiroitia: calls 100
+Drandalj 65: calls 100
+Lisztb: calls 100
+lawlex_2: folds 
+weißer Pelé: raises 100 to 200
+frozenexe: calls 100
+suiroitia: calls 100
+Drandalj 65: calls 100
+Lisztb: calls 100
+*** FLOP *** [9d 2d Ks]
+weißer Pelé: checks 
+frozenexe: checks 
+suiroitia: bets 100
+Drandalj 65: calls 100
+Lisztb: calls 100
+weißer Pelé: calls 100
+frozenexe: folds 
+*** TURN *** [9d 2d Ks] [3s]
+weißer Pelé: checks 
+suiroitia: checks 
+Drandalj 65: bets 100
+Lisztb: raises 500 to 600
+weißer Pelé: folds 
+suiroitia: calls 600
+Drandalj 65: calls 500
+*** RIVER *** [9d 2d Ks 3s] [5h]
+suiroitia: checks 
+Drandalj 65: checks 
+Lisztb: bets 400
+suiroitia: calls 400
+Drandalj 65: folds 
+*** SHOW DOWN ***
+Lisztb: shows [8h 3h] (a pair of Threes)
+suiroitia: shows [Jc Kh] (a pair of Kings)
+suiroitia collected 3827 from pot
+*** SUMMARY ***
+Total pot 4050 | Rake 223 
+Board [9d 2d Ks 3s 5h]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: weißer Pelé (big blind) folded on the Turn
+Seat 3: frozenexe folded on the Flop
+Seat 4: suiroitia showed [Jc Kh] and won (3827) with a pair of Kings
+Seat 5: Drandalj 65 folded on the River
+Seat 6: Lisztb (button) showed [8h 3h] and lost with a pair of Threes
+
+
+
+PokerStars Hand #213548949836:  Hold'em No Limit (50/100) - 2020/05/09 10:23:20 MSK [2020/05/09 3:23:20 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #1 is the button
+Seat 1: lawlex_2 (35567 in chips) 
+Seat 2: weißer Pelé (10801 in chips) 
+Seat 3: frozenexe (9800 in chips) 
+Seat 4: suiroitia (14717 in chips) 
+Seat 5: Drandalj 65 (9176 in chips) 
+Seat 6: Lisztb (13483 in chips) 
+weißer Pelé: posts small blind 50
+frozenexe: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 7c]
+suiroitia: folds 
+Drandalj 65: calls 100
+Lisztb: calls 100
+lawlex_2: folds 
+weißer Pelé: calls 50
+frozenexe: checks 
+*** FLOP *** [Jh 6d Kd]
+weißer Pelé: checks 
+frozenexe: checks 
+Drandalj 65: checks 
+Lisztb: checks 
+*** TURN *** [Jh 6d Kd] [Kc]
+weißer Pelé: bets 100
+frozenexe: folds 
+Drandalj 65: folds 
+Lisztb: raises 100 to 200
+weißer Pelé: calls 100
+*** RIVER *** [Jh 6d Kd Kc] [Ah]
+weißer Pelé: bets 100
+Lisztb: raises 500 to 600
+weißer Pelé: calls 500
+*** SHOW DOWN ***
+Lisztb: shows [Ts 6h] (two pair, Kings and Sixes)
+weißer Pelé: shows [2d Jc] (two pair, Kings and Jacks)
+weißer Pelé collected 1890 from pot
+*** SUMMARY ***
+Total pot 2000 | Rake 110 
+Board [Jh 6d Kd Kc Ah]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: weißer Pelé (small blind) showed [2d Jc] and won (1890) with two pair, Kings and Jacks
+Seat 3: frozenexe (big blind) folded on the Turn
+Seat 4: suiroitia folded before Flop (didn't bet)
+Seat 5: Drandalj 65 folded on the Turn
+Seat 6: Lisztb showed [Ts 6h] and lost with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #213548973624:  Hold'em No Limit (50/100) - 2020/05/09 10:24:14 MSK [2020/05/09 3:24:14 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #2 is the button
+Seat 1: lawlex_2 (35567 in chips) 
+Seat 2: weißer Pelé (11791 in chips) 
+Seat 3: frozenexe (9700 in chips) 
+Seat 4: suiroitia (14717 in chips) 
+Seat 5: Drandalj 65 (9076 in chips) 
+Seat 6: Lisztb (12583 in chips) 
+frozenexe: posts small blind 50
+suiroitia: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 4h]
+Drandalj 65: calls 100
+Lisztb: calls 100
+lawlex_2: folds 
+weißer Pelé: calls 100
+frozenexe: raises 9600 to 9700 and is all-in
+suiroitia: folds 
+Drandalj 65: folds 
+Lisztb: calls 9600
+weißer Pelé: folds 
+*** FLOP *** [5d 8h 5c]
+*** TURN *** [5d 8h 5c] [2h]
+*** RIVER *** [5d 8h 5c 2h] [Tc]
+*** SHOW DOWN ***
+frozenexe: shows [Ac 4c] (a pair of Fives)
+Lisztb: shows [7h 7d] (two pair, Sevens and Fives)
+Lisztb collected 18616 from pot
+*** SUMMARY ***
+Total pot 19700 | Rake 1084 
+Board [5d 8h 5c 2h Tc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: weißer Pelé (button) folded before Flop
+Seat 3: frozenexe (small blind) showed [Ac 4c] and lost with a pair of Fives
+Seat 4: suiroitia (big blind) folded before Flop
+Seat 5: Drandalj 65 folded before Flop
+Seat 6: Lisztb showed [7h 7d] and won (18616) with two pair, Sevens and Fives
+
+
+
+PokerStars Hand #213548994461:  Hold'em No Limit (50/100) - 2020/05/09 10:24:44 MSK [2020/05/09 3:24:44 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #4 is the button
+Seat 1: lawlex_2 (35567 in chips) 
+Seat 2: weißer Pelé (11691 in chips) 
+Seat 4: suiroitia (14617 in chips) 
+Seat 5: Drandalj 65 (8976 in chips) 
+Seat 6: Lisztb (21499 in chips) 
+Drandalj 65: posts small blind 50
+Lisztb: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Ts]
+lawlex_2: raises 200 to 300
+weißer Pelé: folds 
+suiroitia: folds 
+frozenexe leaves the table
+Drandalj 65: folds 
+Lisztb: calls 200
+*** FLOP *** [8c Kh Jc]
+Lisztb: checks 
+hadz_Yaga joins the table at seat #3 
+hadz_Yaga leaves the table
+acefishnn joins the table at seat #3 
+lawlex_2: bets 409
+Lisztb: folds 
+Uncalled bet (409) returned to lawlex_2
+lawlex_2 collected 614 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 36 
+Board [8c Kh Jc]
+Seat 1: lawlex_2 collected (614)
+Seat 2: weißer Pelé folded before Flop (didn't bet)
+Seat 4: suiroitia (button) folded before Flop (didn't bet)
+Seat 5: Drandalj 65 (small blind) folded before Flop
+Seat 6: Lisztb (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213549007707:  Hold'em No Limit (50/100) - 2020/05/09 10:25:14 MSK [2020/05/09 3:25:14 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #5 is the button
+Seat 1: lawlex_2 (35881 in chips) 
+Seat 2: weißer Pelé (11691 in chips) 
+Seat 3: acefishnn (10000 in chips) 
+Seat 4: suiroitia (14617 in chips) 
+Seat 5: Drandalj 65 (8926 in chips) 
+Seat 6: Lisztb (21199 in chips) 
+Lisztb: posts small blind 50
+lawlex_2: posts big blind 100
+acefishnn: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Qc]
+weißer Pelé: calls 100
+acefishnn: checks 
+suiroitia: folds 
+Drandalj 65: calls 100
+Lisztb: calls 50
+lawlex_2: raises 200 to 300
+weißer Pelé: calls 200
+acefishnn: calls 200
+Drandalj 65: calls 200
+Lisztb: calls 200
+*** FLOP *** [3s 2h 9c]
+Lisztb: checks 
+lawlex_2: bets 944
+weißer Pelé: calls 944
+acefishnn: calls 944
+Drandalj 65: folds 
+Lisztb: folds 
+*** TURN *** [3s 2h 9c] [Js]
+suiroitia said, "Bluff card with me straight "
+lawlex_2: bets 2729
+weißer Pelé: calls 2729
+acefishnn: calls 2729
+*** RIVER *** [3s 2h 9c Js] [4s]
+lawlex_2: checks 
+weißer Pelé: bets 500
+acefishnn: calls 500
+lawlex_2: folds 
+*** SHOW DOWN ***
+weißer Pelé: shows [9h 6h] (a pair of Nines)
+acefishnn: mucks hand 
+weißer Pelé collected 12775 from pot
+*** SUMMARY ***
+Total pot 13519 | Rake 744 
+Board [3s 2h 9c Js 4s]
+Seat 1: lawlex_2 (big blind) folded on the River
+Seat 2: weißer Pelé showed [9h 6h] and won (12775) with a pair of Nines
+Seat 3: acefishnn mucked [6d 3d]
+Seat 4: suiroitia folded before Flop (didn't bet)
+Seat 5: Drandalj 65 (button) folded on the Flop
+Seat 6: Lisztb (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213549033412:  Hold'em No Limit (50/100) - 2020/05/09 10:26:14 MSK [2020/05/09 3:26:14 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #6 is the button
+Seat 1: lawlex_2 (31908 in chips) 
+Seat 3: acefishnn (5527 in chips) 
+Seat 4: suiroitia (14617 in chips) 
+Seat 5: Drandalj 65 (8626 in chips) 
+Seat 6: Lisztb (20899 in chips) 
+lawlex_2: posts small blind 50
+acefishnn: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 2c]
+suiroitia: folds 
+Drandalj 65: calls 100
+Lisztb: calls 100
+lawlex_2: folds 
+weißer Pelé leaves the table
+acefishnn: raises 350 to 450
+Drandalj 65: calls 350
+Lisztb: calls 350
+*** FLOP *** [6h 7h 4d]
+acefishnn: bets 1300
+Drandalj 65: folds 
+Lisztb: calls 1300
+*** TURN *** [6h 7h 4d] [6c]
+suiroitia said, "Sorry I dont like liar"
+acefishnn: bets 3777 and is all-in
+Lisztb: calls 3777
+suiroitia leaves the table
+*** RIVER *** [6h 7h 4d 6c] [3c]
+*** SHOW DOWN ***
+acefishnn: shows [Jd 5c] (a straight, Three to Seven)
+Lisztb: shows [Ah 7s] (two pair, Sevens and Sixes)
+acefishnn collected 10919 from pot
+*** SUMMARY ***
+Total pot 11554 | Rake 635 
+Board [6h 7h 4d 6c 3c]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 3: acefishnn (big blind) showed [Jd 5c] and won (10919) with a straight, Three to Seven
+Seat 4: suiroitia folded before Flop (didn't bet)
+Seat 5: Drandalj 65 folded on the Flop
+Seat 6: Lisztb (button) showed [Ah 7s] and lost with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #213549048956:  Hold'em No Limit (50/100) - 2020/05/09 10:26:49 MSK [2020/05/09 3:26:49 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #1 is the button
+Seat 1: lawlex_2 (31858 in chips) 
+Seat 3: acefishnn (10919 in chips) 
+Seat 5: Drandalj 65 (8176 in chips) 
+Seat 6: Lisztb (15372 in chips) 
+acefishnn: posts small blind 50
+Drandalj 65: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 6h]
+Lisztb: calls 100
+lawlex_2: folds 
+acefishnn: calls 50
+Drandalj 65: checks 
+*** FLOP *** [5h 8d 6s]
+acefishnn: bets 300
+Drandalj 65: calls 300
+BadBetNG650 joins the table at seat #2 
+Lisztb: folds 
+*** TURN *** [5h 8d 6s] [8s]
+acefishnn: bets 100
+Drandalj 65: calls 100
+*** RIVER *** [5h 8d 6s 8s] [5s]
+acefishnn: bets 100
+Drandalj 65: raises 1200 to 1300
+acefishnn: folds 
+Uncalled bet (1200) returned to Drandalj 65
+Drandalj 65 collected 1228 from pot
+Drandalj 65: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 72 
+Board [5h 8d 6s 8s 5s]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: acefishnn (small blind) folded on the River
+Seat 5: Drandalj 65 (big blind) collected (1228)
+Seat 6: Lisztb folded on the Flop
+
+
+
+PokerStars Hand #213549064224:  Hold'em No Limit (50/100) - 2020/05/09 10:27:24 MSK [2020/05/09 3:27:24 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #3 is the button
+Seat 1: lawlex_2 (31858 in chips) 
+Seat 2: BadBetNG650 (10000 in chips) 
+Seat 3: acefishnn (10319 in chips) 
+Seat 5: Drandalj 65 (8804 in chips) 
+Seat 6: Lisztb (15272 in chips) 
+Drandalj 65: posts small blind 50
+Lisztb: posts big blind 100
+BadBetNG650: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 7d]
+lawlex_2: folds 
+Cesar photo joins the table at seat #4 
+BadBetNG650: checks 
+acefishnn: calls 100
+Drandalj 65: raises 100 to 200
+Lisztb: calls 100
+BadBetNG650: calls 100
+acefishnn: calls 100
+*** FLOP *** [9d Qc 3s]
+Drandalj 65: bets 100
+Lisztb: calls 100
+BadBetNG650: calls 100
+acefishnn: calls 100
+*** TURN *** [9d Qc 3s] [4h]
+Drandalj 65: checks 
+Lisztb: bets 100
+BadBetNG650: folds 
+acefishnn: calls 100
+Drandalj 65: calls 100
+*** RIVER *** [9d Qc 3s 4h] [Jd]
+Drandalj 65: bets 100
+Lisztb: calls 100
+acefishnn: raises 1700 to 1800
+Drandalj 65: folds 
+Lisztb: folds 
+Uncalled bet (1700) returned to acefishnn
+acefishnn collected 1701 from pot
+acefishnn: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 99 
+Board [9d Qc 3s 4h Jd]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: BadBetNG650 folded on the Turn
+Seat 3: acefishnn (button) collected (1701)
+Seat 5: Drandalj 65 (small blind) folded on the River
+Seat 6: Lisztb (big blind) folded on the River
+
+
+
+PokerStars Hand #213549086654:  Hold'em No Limit (50/100) - 2020/05/09 10:28:15 MSK [2020/05/09 3:28:15 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #5 is the button
+Seat 1: lawlex_2 (31858 in chips) 
+Seat 2: BadBetNG650 (9700 in chips) 
+Seat 3: acefishnn (11520 in chips) 
+Seat 4: Cesar photo (10000 in chips) 
+Seat 5: Drandalj 65 (8304 in chips) 
+Seat 6: Lisztb (14772 in chips) 
+Lisztb: posts small blind 50
+lawlex_2: posts big blind 100
+Cesar photo: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 8h]
+BadBetNG650: calls 100
+acefishnn: calls 100
+Cesar photo: checks 
+Drandalj 65: calls 100
+Lisztb: calls 50
+lawlex_2: raises 200 to 300
+BadBetNG650: calls 200
+acefishnn: calls 200
+Cesar photo: calls 200
+Drandalj 65: calls 200
+Lisztb: folds 
+*** FLOP *** [7d Js 9c]
+lawlex_2: bets 1008
+BadBetNG650: calls 1008
+acefishnn: calls 1008
+Cesar photo: calls 1008
+Drandalj 65: calls 1008
+*** TURN *** [7d Js 9c] [8c]
+lawlex_2: bets 4183
+BadBetNG650: calls 4183
+acefishnn: folds 
+Cesar photo: raises 4509 to 8692 and is all-in
+Drandalj 65: folds 
+lawlex_2: calls 4509
+BadBetNG650: calls 4209 and is all-in
+*** RIVER *** [7d Js 9c 8c] [Kh]
+*** SHOW DOWN ***
+lawlex_2: shows [As 8h] (a pair of Eights)
+Cesar photo: shows [Td 6s] (a straight, Seven to Jack)
+Cesar photo collected 567 from side pot
+BadBetNG650: shows [7h 5d] (a pair of Sevens)
+Cesar photo collected 30066 from main pot
+*** SUMMARY ***
+Total pot 32416 Main pot 30066. Side pot 567. | Rake 1783 
+Board [7d Js 9c 8c Kh]
+Seat 1: lawlex_2 (big blind) showed [As 8h] and lost with a pair of Eights
+Seat 2: BadBetNG650 showed [7h 5d] and lost with a pair of Sevens
+Seat 3: acefishnn folded on the Turn
+Seat 4: Cesar photo showed [Td 6s] and won (30633) with a straight, Seven to Jack
+Seat 5: Drandalj 65 (button) folded on the Turn
+Seat 6: Lisztb (small blind) folded before Flop
+
+
+
+PokerStars Hand #213549111079:  Hold'em No Limit (50/100) - 2020/05/09 10:29:11 MSK [2020/05/09 3:29:11 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #6 is the button
+Seat 1: lawlex_2 (21858 in chips) 
+Seat 2: BadBetNG650 (10000 in chips) 
+Seat 3: acefishnn (10212 in chips) 
+Seat 4: Cesar photo (30633 in chips) 
+Seat 5: Drandalj 65 (6996 in chips) 
+Seat 6: Lisztb (14672 in chips) 
+lawlex_2: posts small blind 50
+BadBetNG650: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Jd]
+acefishnn: calls 100
+Cesar photo: calls 100
+Drandalj 65: calls 100
+Lisztb: calls 100
+lawlex_2: folds 
+BadBetNG650: checks 
+*** FLOP *** [5c 9s 9c]
+BadBetNG650: checks 
+acefishnn: bets 500
+Cesar photo: calls 500
+Drandalj 65: folds 
+Lisztb: calls 500
+BadBetNG650: folds 
+*** TURN *** [5c 9s 9c] [7s]
+acefishnn: checks 
+Cesar photo: checks 
+Lisztb: bets 100
+acefishnn: calls 100
+Cesar photo: calls 100
+*** RIVER *** [5c 9s 9c 7s] [Ad]
+acefishnn: checks 
+Cesar photo: checks 
+Lisztb: bets 800
+acefishnn: folds 
+Cesar photo: calls 800
+*** SHOW DOWN ***
+Lisztb: shows [Js 2h] (a pair of Nines)
+Cesar photo: shows [5h Kc] (two pair, Nines and Fives)
+Cesar photo collected 3733 from pot
+*** SUMMARY ***
+Total pot 3950 | Rake 217 
+Board [5c 9s 9c 7s Ad]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: BadBetNG650 (big blind) folded on the Flop
+Seat 3: acefishnn folded on the River
+Seat 4: Cesar photo showed [5h Kc] and won (3733) with two pair, Nines and Fives
+Seat 5: Drandalj 65 folded on the Flop
+Seat 6: Lisztb (button) showed [Js 2h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #213549132665:  Hold'em No Limit (50/100) - 2020/05/09 10:30:01 MSK [2020/05/09 3:30:01 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #1 is the button
+Seat 1: lawlex_2 (21808 in chips) 
+Seat 2: BadBetNG650 (9900 in chips) 
+Seat 3: acefishnn (9512 in chips) 
+Seat 4: Cesar photo (32866 in chips) 
+Seat 5: Drandalj 65 (6896 in chips) 
+Seat 6: Lisztb (13172 in chips) 
+BadBetNG650: posts small blind 50
+acefishnn: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Tc]
+Cesar photo: calls 100
+Drandalj 65: calls 100
+Lisztb: calls 100
+lawlex_2: calls 100
+BadBetNG650: calls 50
+acefishnn: raises 600 to 700
+Cesar photo: folds 
+Drandalj 65: calls 600
+Lisztb: folds 
+lawlex_2: folds 
+BadBetNG650: calls 600
+*** FLOP *** [Js 4h 4s]
+Lisztb leaves the table
+BadBetNG650: checks 
+acefishnn: bets 2300
+introvert522 joins the table at seat #6 
+Drandalj 65: folds 
+BadBetNG650: calls 2300
+*** TURN *** [Js 4h 4s] [Qh]
+BadBetNG650: checks 
+acefishnn: bets 6512 and is all-in
+BadBetNG650: calls 6512
+*** RIVER *** [Js 4h 4s Qh] [5h]
+*** SHOW DOWN ***
+BadBetNG650: shows [Jc 6c] (two pair, Jacks and Fours)
+acefishnn: shows [7d 3d] (a pair of Fours)
+BadBetNG650 collected 18923 from pot
+*** SUMMARY ***
+Total pot 20024 | Rake 1101 
+Board [Js 4h 4s Qh 5h]
+Seat 1: lawlex_2 (button) folded before Flop
+Seat 2: BadBetNG650 (small blind) showed [Jc 6c] and won (18923) with two pair, Jacks and Fours
+Seat 3: acefishnn (big blind) showed [7d 3d] and lost with a pair of Fours
+Seat 4: Cesar photo folded before Flop
+Seat 5: Drandalj 65 folded on the Flop
+Seat 6: Lisztb folded before Flop
+
+
+
+PokerStars Hand #213549155396:  Hold'em No Limit (50/100) - 2020/05/09 10:30:53 MSK [2020/05/09 3:30:53 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #2 is the button
+Seat 1: lawlex_2 (21708 in chips) 
+Seat 2: BadBetNG650 (19311 in chips) 
+Seat 4: Cesar photo (32766 in chips) 
+Seat 5: Drandalj 65 (6196 in chips) 
+Seat 6: introvert522 (10000 in chips) 
+Cesar photo: posts small blind 50
+Drandalj 65: posts big blind 100
+introvert522: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 3d]
+introvert522: checks 
+lawlex_2: folds 
+BadBetNG650: calls 100
+Cesar photo: calls 50
+acefishnn said, "nc"
+Drandalj 65: checks 
+*** FLOP *** [3s 7c Jc]
+Cesar photo: checks 
+Drandalj 65: bets 100
+introvert522: folds 
+BadBetNG650: calls 100
+Cesar photo: calls 100
+*** TURN *** [3s 7c Jc] [Qc]
+Cesar photo: bets 100
+Drandalj 65: folds 
+BadBetNG650: calls 100
+*** RIVER *** [3s 7c Jc Qc] [Js]
+Cesar photo: checks 
+BadBetNG650: checks 
+*** SHOW DOWN ***
+Cesar photo: shows [Kh 9h] (a pair of Jacks)
+BadBetNG650: shows [Kc Ah] (a pair of Jacks - Ace kicker)
+BadBetNG650 collected 850 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 50 
+Board [3s 7c Jc Qc Js]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: BadBetNG650 (button) showed [Kc Ah] and won (850) with a pair of Jacks
+Seat 4: Cesar photo (small blind) showed [Kh 9h] and lost with a pair of Jacks
+Seat 5: Drandalj 65 (big blind) folded on the Turn
+Seat 6: introvert522 folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #213549172823:  Hold'em No Limit (50/100) - 2020/05/09 10:31:33 MSK [2020/05/09 3:31:33 ET]
+Table 'Zeissia IV' 6-max (Play Money) Seat #4 is the button
+Seat 1: lawlex_2 (21708 in chips) 
+Seat 2: BadBetNG650 (19861 in chips) 
+Seat 3: acefishnn (10000 in chips) 
+Seat 4: Cesar photo (32466 in chips) 
+Seat 5: Drandalj 65 (5996 in chips) 
+Seat 6: introvert522 (10000 in chips) 
+Drandalj 65: posts small blind 50
+introvert522: posts big blind 100
+acefishnn: posts small blind 50
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 7h]
+lawlex_2: folds 
+BadBetNG650: calls 100
+acefishnn: calls 100
+Cesar photo: calls 100
+Drandalj 65: calls 50
+introvert522: checks 
+*** FLOP *** [Td 4d 5c]
+Drandalj 65: checks 
+introvert522: checks 
+BadBetNG650: checks 
+acefishnn: bets 500
+Cesar photo: calls 500
+Drandalj 65: calls 500
+introvert522: folds 
+BadBetNG650: calls 500
+*** TURN *** [Td 4d 5c] [Tc]
+Drandalj 65: checks 
+BadBetNG650: checks 
+acefishnn: checks 
+Cesar photo: bets 400
+Drandalj 65: calls 400
+BadBetNG650: calls 400
+acefishnn: calls 400
+*** RIVER *** [Td 4d 5c Tc] [Qs]
+Drandalj 65: checks 
+BadBetNG650: checks 
+acefishnn: checks 
+Cesar photo: checks 
+*** SHOW DOWN ***
+Drandalj 65: shows [3h Ad] (a pair of Tens)
+BadBetNG650: shows [8c 4h] (two pair, Tens and Fours)
+acefishnn: shows [7d 4c] (two pair, Tens and Fours)
+Cesar photo: mucks hand 
+BadBetNG650 collected 1961 from pot
+acefishnn collected 1961 from pot
+*** SUMMARY ***
+Total pot 4150 | Rake 228 
+Board [Td 4d 5c Tc Qs]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: BadBetNG650 showed [8c 4h] and won (1961) with two pair, Tens and Fours
+Seat 3: acefishnn showed [7d 4c] and won (1961) with two pair, Tens and Fours
+Seat 4: Cesar photo (button) mucked [6d Ac]
+Seat 5: Drandalj 65 (small blind) showed [3h Ad] and lost with a pair of Tens
+Seat 6: introvert522 (big blind) folded on the Flop
+
+
+

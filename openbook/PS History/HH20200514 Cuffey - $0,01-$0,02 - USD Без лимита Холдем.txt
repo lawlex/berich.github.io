@@ -1,0 +1,464 @@
+﻿PokerStars Hand #213835942900:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:25:00 MSK [2020/05/14 0:25:00 ET]
+Table 'Cuffey' 6-max Seat #2 is the button
+Seat 1: ferni701 ($2.09 in chips) 
+Seat 2: archibald25 ($2 in chips) 
+Seat 3: BPet553 ($3.43 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: kijuu9 ($5.64 in chips) 
+BPet553: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Jd]
+kijuu9: folds 
+ferni701: calls $0.02
+archibald25: folds 
+BPet553: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Tc Qd 4c]
+BPet553: checks 
+lawlex_2: checks 
+ersontro leaves the table
+ferni701: bets $0.03
+BPet553: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to ferni701
+ferni701 collected $0.06 from pot
+ferni701: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Tc Qd 4c]
+Seat 1: ferni701 collected ($0.06)
+Seat 2: archibald25 (button) folded before Flop (didn't bet)
+Seat 3: BPet553 (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: kijuu9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213835954683:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:25:33 MSK [2020/05/14 0:25:33 ET]
+Table 'Cuffey' 6-max Seat #3 is the button
+Seat 1: ferni701 ($2.13 in chips) 
+Seat 2: archibald25 ($2 in chips) 
+Seat 3: BPet553 ($3.41 in chips) 
+Seat 4: lawlex_2 ($1.98 in chips) 
+Seat 5: kijuu9 ($5.64 in chips) 
+lawlex_2: posts small blind $0.01
+kijuu9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Jh]
+ferni701: folds 
+archibald25: folds 
+BPet553: calls $0.02
+lawlex_2: folds 
+Katia063 joins the table at seat #6 
+kijuu9: raises $0.04 to $0.06
+BPet553: calls $0.04
+*** FLOP *** [8c Kh 5d]
+kijuu9: checks 
+BPet553: bets $0.02
+kijuu9: raises $0.11 to $0.13
+BPet553: folds 
+Uncalled bet ($0.11) returned to kijuu9
+kijuu9 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8c Kh 5d]
+Seat 1: ferni701 folded before Flop (didn't bet)
+Seat 2: archibald25 folded before Flop (didn't bet)
+Seat 3: BPet553 (button) folded on the Flop
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: kijuu9 (big blind) collected ($0.16)
+
+
+
+PokerStars Hand #213835972963:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:26:22 MSK [2020/05/14 0:26:22 ET]
+Table 'Cuffey' 6-max Seat #4 is the button
+Seat 1: ferni701 ($2.13 in chips) 
+Seat 2: archibald25 ($2 in chips) 
+Seat 3: BPet553 ($3.33 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: kijuu9 ($5.72 in chips) 
+Seat 6: Katia063 ($2 in chips) 
+kijuu9: posts small blind $0.01
+Katia063: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 8s]
+ferni701: folds 
+archibald25: folds 
+BPet553: calls $0.02
+lawlex_2: calls $0.02
+kijuu9: raises $0.04 to $0.06
+Katia063: folds 
+BPet553: calls $0.04
+lawlex_2: calls $0.04
+*** FLOP *** [7d 3c 4s]
+kijuu9: bets $0.06
+BPet553: calls $0.06
+lawlex_2: folds 
+*** TURN *** [7d 3c 4s] [4d]
+kijuu9: checks 
+BPet553: checks 
+*** RIVER *** [7d 3c 4s 4d] [5s]
+kijuu9: checks 
+BPet553: checks 
+*** SHOW DOWN ***
+kijuu9: shows [9s Ks] (a pair of Fours)
+BPet553: shows [3d 9d] (two pair, Fours and Threes)
+BPet553 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [7d 3c 4s 4d 5s]
+Seat 1: ferni701 folded before Flop (didn't bet)
+Seat 2: archibald25 folded before Flop (didn't bet)
+Seat 3: BPet553 showed [3d 9d] and won ($0.31) with two pair, Fours and Threes
+Seat 4: lawlex_2 (button) folded on the Flop
+Seat 5: kijuu9 (small blind) showed [9s Ks] and lost with a pair of Fours
+Seat 6: Katia063 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213835994491:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:27:21 MSK [2020/05/14 0:27:21 ET]
+Table 'Cuffey' 6-max Seat #5 is the button
+Seat 1: ferni701 ($2.13 in chips) 
+Seat 2: archibald25 ($2 in chips) 
+Seat 3: BPet553 ($3.52 in chips) 
+Seat 4: lawlex_2 ($1.91 in chips) 
+Seat 5: kijuu9 ($5.60 in chips) 
+Seat 6: Katia063 ($1.98 in chips) 
+Katia063: posts small blind $0.01
+ferni701: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 4h]
+archibald25: raises $0.03 to $0.05
+BPet553: folds 
+lawlex_2: folds 
+kijuu9: calls $0.05
+Katia063: folds 
+ferni701: folds 
+*** FLOP *** [7s Ah 6c]
+archibald25: bets $0.08
+kijuu9: calls $0.08
+*** TURN *** [7s Ah 6c] [Tc]
+archibald25: bets $0.18
+kijuu9: calls $0.18
+*** RIVER *** [7s Ah 6c Tc] [Td]
+archibald25: checks 
+kijuu9: bets $0.21
+archibald25: calls $0.21
+*** SHOW DOWN ***
+kijuu9: shows [4d Ac] (two pair, Aces and Tens)
+archibald25: shows [As Js] (two pair, Aces and Tens - Jack kicker)
+archibald25 collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [7s Ah 6c Tc Td]
+Seat 1: ferni701 (big blind) folded before Flop
+Seat 2: archibald25 showed [As Js] and won ($1.03) with two pair, Aces and Tens
+Seat 3: BPet553 folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: kijuu9 (button) showed [4d Ac] and lost with two pair, Aces and Tens
+Seat 6: Katia063 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213836023465:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:28:40 MSK [2020/05/14 0:28:40 ET]
+Table 'Cuffey' 6-max Seat #6 is the button
+Seat 1: ferni701 ($2.11 in chips) 
+Seat 2: archibald25 ($2.51 in chips) 
+Seat 3: BPet553 ($3.52 in chips) 
+Seat 4: lawlex_2 ($1.91 in chips) 
+Seat 5: kijuu9 ($5.08 in chips) 
+Seat 6: Katia063 ($1.97 in chips) 
+ferni701: posts small blind $0.01
+archibald25: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Ad]
+BPet553: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+kijuu9: folds 
+Katia063: folds 
+ferni701: calls $0.04
+archibald25: folds 
+BPet553: calls $0.03
+*** FLOP *** [3s 9h 2h]
+ferni701: bets $0.04
+BPet553: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to ferni701
+ferni701 collected $0.16 from pot
+ferni701: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3s 9h 2h]
+Seat 1: ferni701 (small blind) collected ($0.16)
+Seat 2: archibald25 (big blind) folded before Flop
+Seat 3: BPet553 folded on the Flop
+Seat 4: lawlex_2 folded on the Flop
+Seat 5: kijuu9 folded before Flop (didn't bet)
+Seat 6: Katia063 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213836042852:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:29:11 MSK [2020/05/14 0:29:11 ET]
+Table 'Cuffey' 6-max Seat #1 is the button
+Seat 1: ferni701 ($2.22 in chips) 
+Seat 2: archibald25 ($2.49 in chips) 
+Seat 3: BPet553 ($3.47 in chips) 
+Seat 4: lawlex_2 ($1.86 in chips) 
+Seat 5: kijuu9 ($5.08 in chips) 
+Seat 6: Katia063 ($1.97 in chips) 
+archibald25: posts small blind $0.01
+BPet553: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 2s]
+lawlex_2: folds 
+kijuu9: raises $0.04 to $0.06
+Katia063: folds 
+ferni701: calls $0.06
+archibald25: folds 
+BPet553: calls $0.04
+*** FLOP *** [8h As Kc]
+BPet553: checks 
+kijuu9: checks 
+ferni701: bets $0.09
+BPet553: calls $0.09
+kijuu9: folds 
+*** TURN *** [8h As Kc] [2h]
+BPet553: checks 
+ferni701: checks 
+*** RIVER *** [8h As Kc 2h] [2c]
+BPet553: bets $0.02
+ferni701: folds 
+Uncalled bet ($0.02) returned to BPet553
+BPet553 collected $0.36 from pot
+BPet553: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [8h As Kc 2h 2c]
+Seat 1: ferni701 (button) folded on the River
+Seat 2: archibald25 (small blind) folded before Flop
+Seat 3: BPet553 (big blind) collected ($0.36)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: kijuu9 folded on the Flop
+Seat 6: Katia063 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213836066374:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:30:15 MSK [2020/05/14 0:30:15 ET]
+Table 'Cuffey' 6-max Seat #2 is the button
+Seat 1: ferni701 ($2.07 in chips) 
+Seat 2: archibald25 ($2.48 in chips) 
+Seat 3: BPet553 ($3.68 in chips) 
+Seat 4: lawlex_2 ($1.86 in chips) 
+Seat 5: kijuu9 ($5.02 in chips) 
+Seat 6: Katia063 ($1.97 in chips) 
+BPet553: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Ad]
+kijuu9: calls $0.02
+Katia063: folds 
+ferni701: calls $0.02
+archibald25: folds 
+BPet553: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+kijuu9: calls $0.03
+ferni701: calls $0.03
+BPet553: calls $0.03
+*** FLOP *** [4d 7d Ts]
+BPet553: checks 
+lawlex_2: bets $0.13
+kijuu9: folds 
+ferni701: calls $0.13
+BPet553: folds 
+*** TURN *** [4d 7d Ts] [Kd]
+lawlex_2: bets $0.29
+ferni701: raises $0.47 to $0.76
+lawlex_2: calls $0.47
+*** RIVER *** [4d 7d Ts Kd] [8d]
+lawlex_2: bets $0.92 and is all-in
+ferni701: calls $0.92
+*** SHOW DOWN ***
+lawlex_2: shows [Tc Ad] (a flush, Ace high)
+ferni701: shows [Qd 9d] (a flush, King high)
+lawlex_2 collected $3.69 from pot
+*** SUMMARY ***
+Total pot $3.82 | Rake $0.13 
+Board [4d 7d Ts Kd 8d]
+Seat 1: ferni701 showed [Qd 9d] and lost with a flush, King high
+Seat 2: archibald25 (button) folded before Flop (didn't bet)
+Seat 3: BPet553 (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) showed [Tc Ad] and won ($3.69) with a flush, Ace high
+Seat 5: kijuu9 folded on the Flop
+Seat 6: Katia063 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213836097327:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:31:40 MSK [2020/05/14 0:31:40 ET]
+Table 'Cuffey' 6-max Seat #3 is the button
+Seat 1: ferni701 ($0.21 in chips) 
+Seat 2: archibald25 ($2.48 in chips) 
+Seat 3: BPet553 ($3.63 in chips) 
+Seat 4: lawlex_2 ($3.69 in chips) 
+Seat 5: kijuu9 ($4.97 in chips) 
+Seat 6: Katia063 ($1.97 in chips) 
+lawlex_2: posts small blind $0.01
+kijuu9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Th]
+Katia063: folds 
+ferni701: raises $0.19 to $0.21 and is all-in
+archibald25: folds 
+BPet553: calls $0.21
+lawlex_2: folds 
+kijuu9: folds 
+*** FLOP *** [Ks 4d Kc]
+*** TURN *** [Ks 4d Kc] [3h]
+*** RIVER *** [Ks 4d Kc 3h] [Jd]
+*** SHOW DOWN ***
+ferni701: shows [Qh Td] (a pair of Kings)
+BPet553: shows [7s 7h] (two pair, Kings and Sevens)
+BPet553 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ks 4d Kc 3h Jd]
+Seat 1: ferni701 showed [Qh Td] and lost with a pair of Kings
+Seat 2: archibald25 folded before Flop (didn't bet)
+Seat 3: BPet553 (button) showed [7s 7h] and won ($0.43) with two pair, Kings and Sevens
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: kijuu9 (big blind) folded before Flop
+Seat 6: Katia063 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213836108661:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:32:11 MSK [2020/05/14 0:32:11 ET]
+Table 'Cuffey' 6-max Seat #4 is the button
+Seat 2: archibald25 ($2.48 in chips) 
+Seat 3: BPet553 ($3.85 in chips) 
+Seat 4: lawlex_2 ($3.68 in chips) 
+Seat 5: kijuu9 ($4.95 in chips) 
+Seat 6: Katia063 ($1.97 in chips) 
+kijuu9: posts small blind $0.01
+Katia063: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Th]
+archibald25: folds 
+BPet553: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+ferni701 leaves the table
+kijuu9: folds 
+Katia063: folds 
+BPet553: calls $0.03
+*** FLOP *** [7s 8s 6d]
+BPet553: checks 
+lawlex_2: bets $0.09
+BPet553: calls $0.09
+*** TURN *** [7s 8s 6d] [Kh]
+BPet553: checks 
+lawlex_2: checks 
+*** RIVER *** [7s 8s 6d Kh] [4c]
+BPet553: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+BPet553: shows [8c Tc] (a pair of Eights)
+lawlex_2: shows [8h Th] (a pair of Eights)
+anarxist29 joins the table at seat #1 
+BPet553 collected $0.15 from pot
+lawlex_2 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [7s 8s 6d Kh 4c]
+Seat 2: archibald25 folded before Flop (didn't bet)
+Seat 3: BPet553 showed [8c Tc] and won ($0.15) with a pair of Eights
+Seat 4: lawlex_2 (button) showed [8h Th] and won ($0.15) with a pair of Eights
+Seat 5: kijuu9 (small blind) folded before Flop
+Seat 6: Katia063 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213836121032:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:32:45 MSK [2020/05/14 0:32:45 ET]
+Table 'Cuffey' 6-max Seat #5 is the button
+Seat 1: anarxist29 ($2 in chips) 
+Seat 2: archibald25 ($2.48 in chips) 
+Seat 3: BPet553 ($3.86 in chips) 
+Seat 4: lawlex_2 ($3.69 in chips) 
+Seat 5: kijuu9 ($4.94 in chips) 
+Seat 6: Katia063 ($1.95 in chips) 
+Katia063: posts small blind $0.01
+anarxist29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 8c]
+archibald25: folds 
+BPet553: calls $0.02
+lawlex_2: folds 
+kijuu9: raises $0.04 to $0.06
+Katia063: folds 
+anarxist29: folds 
+BPet553: calls $0.04
+*** FLOP *** [3c 7s 7c]
+BPet553: checks 
+kijuu9: bets $0.05
+BPet553: folds 
+Uncalled bet ($0.05) returned to kijuu9
+kijuu9 collected $0.14 from pot
+kijuu9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3c 7s 7c]
+Seat 1: anarxist29 (big blind) folded before Flop
+Seat 2: archibald25 folded before Flop (didn't bet)
+Seat 3: BPet553 folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: kijuu9 (button) collected ($0.14)
+Seat 6: Katia063 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213836131955:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 7:33:15 MSK [2020/05/14 0:33:15 ET]
+Table 'Cuffey' 6-max Seat #6 is the button
+Seat 1: anarxist29 ($2 in chips) 
+Seat 2: archibald25 ($2.48 in chips) 
+Seat 3: BPet553 ($3.80 in chips) 
+Seat 4: lawlex_2 ($3.69 in chips) 
+Seat 5: kijuu9 ($5.02 in chips) 
+Seat 6: Katia063 ($1.94 in chips) 
+anarxist29: posts small blind $0.01
+archibald25: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 5d]
+BPet553: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+kijuu9: folds 
+Katia063: calls $0.05
+anarxist29: folds 
+archibald25: folds 
+BPet553: calls $0.03
+*** FLOP *** [Ts 8c Qc]
+BPet553: bets $0.02
+lawlex_2: raises $0.14 to $0.16
+Katia063: calls $0.16
+BPet553: calls $0.14
+*** TURN *** [Ts 8c Qc] [Th]
+BPet553: checks 
+lawlex_2: checks 
+Katia063: checks 
+*** RIVER *** [Ts 8c Qc Th] [2s]
+BPet553: bets $0.02
+lawlex_2: calls $0.02
+Katia063: folds 
+*** SHOW DOWN ***
+BPet553: shows [Jc As] (a pair of Tens)
+lawlex_2: shows [5s 5d] (two pair, Tens and Fives)
+lawlex_2 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [Ts 8c Qc Th 2s]
+Seat 1: anarxist29 (small blind) folded before Flop
+Seat 2: archibald25 (big blind) folded before Flop
+Seat 3: BPet553 showed [Jc As] and lost with a pair of Tens
+Seat 4: lawlex_2 showed [5s 5d] and won ($0.68) with two pair, Tens and Fives
+Seat 5: kijuu9 folded before Flop (didn't bet)
+Seat 6: Katia063 (button) folded on the River
+
+
+

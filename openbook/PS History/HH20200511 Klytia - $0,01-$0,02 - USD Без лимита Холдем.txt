@@ -1,0 +1,4743 @@
+﻿PokerStars Hand #213673724742:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:51:54 MSK [2020/05/11 0:51:54 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($2.49 in chips) 
+Seat 2: JOSE VARGA5 ($2.58 in chips) 
+Seat 3: Lyonhearth ($4.62 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: MERSENARIO23 ($3.01 in chips) 
+Seat 6: elemetres ($4.89 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Jc]
+MERSENARIO23: folds 
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Lyonhearth
+Lyonhearth collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 (button) folded before Flop (didn't bet)
+Seat 3: Lyonhearth (small blind) collected ($0.04)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673731496:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:52:17 MSK [2020/05/11 0:52:17 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($2.49 in chips) 
+Seat 2: JOSE VARGA5 ($2.58 in chips) 
+Seat 3: Lyonhearth ($4.64 in chips) 
+Seat 4: lawlex_2 ($1.98 in chips) 
+Seat 5: MERSENARIO23 ($3.01 in chips) 
+Seat 6: elemetres ($4.89 in chips) 
+lawlex_2: posts small blind $0.01
+MERSENARIO23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 7s]
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to MERSENARIO23
+MERSENARIO23 collected $0.02 from pot
+MERSENARIO23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: MERSENARIO23 (big blind) collected ($0.02)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673738713:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:52:41 MSK [2020/05/11 0:52:41 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($2.49 in chips) 
+Seat 2: JOSE VARGA5 ($2.58 in chips) 
+Seat 3: Lyonhearth ($4.64 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: MERSENARIO23 ($3.02 in chips) 
+Seat 6: elemetres ($4.89 in chips) 
+MERSENARIO23: posts small blind $0.01
+elemetres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 6h]
+jerry7894561: folds 
+JOSE VARGA5: raises $0.04 to $0.06
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: calls $0.04
+*** FLOP *** [5h 3d Th]
+elemetres: checks 
+JOSE VARGA5: bets $0.06
+elemetres: calls $0.06
+*** TURN *** [5h 3d Th] [Jh]
+elemetres: checks 
+JOSE VARGA5: checks 
+*** RIVER *** [5h 3d Th Jh] [Jd]
+elemetres: checks 
+JOSE VARGA5: bets $0.08
+elemetres: calls $0.08
+*** SHOW DOWN ***
+JOSE VARGA5: shows [Ts Ad] (two pair, Jacks and Tens)
+elemetres: mucks hand 
+JOSE VARGA5 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [5h 3d Th Jh Jd]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 showed [Ts Ad] and won ($0.40) with two pair, Jacks and Tens
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 (small blind) folded before Flop
+Seat 6: elemetres (big blind) mucked [3s As]
+
+
+
+PokerStars Hand #213673751356:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:53:23 MSK [2020/05/11 0:53:23 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($2.49 in chips) 
+Seat 2: JOSE VARGA5 ($2.78 in chips) 
+Seat 3: Lyonhearth ($4.64 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: MERSENARIO23 ($3.01 in chips) 
+Seat 6: elemetres ($4.69 in chips) 
+elemetres: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 7s]
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: calls $0.01
+jerry7894561: checks 
+*** FLOP *** [5s Jc 4d]
+elemetres: checks 
+jerry7894561: checks 
+*** TURN *** [5s Jc 4d] [4s]
+elemetres: bets $0.02
+jerry7894561: folds 
+Uncalled bet ($0.02) returned to elemetres
+elemetres collected $0.04 from pot
+elemetres: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5s Jc 4d 4s]
+Seat 1: jerry7894561 (big blind) folded on the Turn
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 (button) folded before Flop (didn't bet)
+Seat 6: elemetres (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213673765314:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:54:11 MSK [2020/05/11 0:54:11 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($2.47 in chips) 
+Seat 2: JOSE VARGA5 ($2.78 in chips) 
+Seat 3: Lyonhearth ($4.64 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: MERSENARIO23 ($3.01 in chips) 
+Seat 6: elemetres ($4.71 in chips) 
+jerry7894561: posts small blind $0.01
+JOSE VARGA5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Ts]
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: raises $0.04 to $0.06
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Uncalled bet ($0.04) returned to elemetres
+elemetres collected $0.05 from pot
+elemetres: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: JOSE VARGA5 (big blind) folded before Flop
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres (button) collected ($0.05)
+
+
+
+PokerStars Hand #213673770729:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:54:29 MSK [2020/05/11 0:54:29 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($2.46 in chips) 
+Seat 2: JOSE VARGA5 ($2.76 in chips) 
+Seat 3: Lyonhearth ($4.64 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: MERSENARIO23 ($3.01 in chips) 
+Seat 6: elemetres ($4.74 in chips) 
+JOSE VARGA5: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 2d]
+lawlex_2: folds 
+MERSENARIO23: raises $0.04 to $0.06
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.04) returned to MERSENARIO23
+MERSENARIO23 collected $0.05 from pot
+MERSENARIO23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 (small blind) folded before Flop
+Seat 3: Lyonhearth (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 collected ($0.05)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673784830:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:54:51 MSK [2020/05/11 0:54:51 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($2.46 in chips) 
+Seat 2: JOSE VARGA5 ($2.75 in chips) 
+Seat 3: Lyonhearth ($4.62 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: MERSENARIO23 ($3.04 in chips) 
+Seat 6: elemetres ($4.74 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 9s]
+MERSENARIO23: folds 
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 (button) folded before Flop (didn't bet)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673789766:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:55:08 MSK [2020/05/11 0:55:08 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($2.46 in chips) 
+Seat 2: JOSE VARGA5 ($2.75 in chips) 
+Seat 3: Lyonhearth ($4.61 in chips) 
+Seat 4: lawlex_2 ($1.98 in chips) 
+Seat 5: MERSENARIO23 ($3.04 in chips) 
+Seat 6: elemetres ($4.74 in chips) 
+lawlex_2: posts small blind $0.01
+MERSENARIO23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Jh]
+elemetres: folds 
+jerry7894561 has timed out
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: raises $0.04 to $0.06
+MERSENARIO23: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) collected ($0.04)
+Seat 5: MERSENARIO23 (big blind) folded before Flop
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673797395:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:55:38 MSK [2020/05/11 0:55:38 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($2.46 in chips) 
+Seat 2: JOSE VARGA5 ($2.75 in chips) 
+Seat 3: Lyonhearth ($4.61 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: MERSENARIO23 ($3.02 in chips) 
+Seat 6: elemetres ($4.74 in chips) 
+MERSENARIO23: posts small blind $0.01
+elemetres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 3d]
+jerry7894561: raises $0.04 to $0.06
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: calls $0.04
+*** FLOP *** [2d 4s 9h]
+elemetres: bets $0.08
+jerry7894561: calls $0.08
+*** TURN *** [2d 4s 9h] [Ts]
+elemetres: checks 
+jerry7894561: bets $0.14
+elemetres: calls $0.14
+*** RIVER *** [2d 4s 9h Ts] [Th]
+elemetres: checks 
+jerry7894561: bets $0.28
+elemetres: calls $0.28
+*** SHOW DOWN ***
+jerry7894561: shows [Qh Qd] (two pair, Queens and Tens)
+elemetres: mucks hand 
+jerry7894561 collected $1.09 from pot
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.04 
+Board [2d 4s 9h Ts Th]
+Seat 1: jerry7894561 showed [Qh Qd] and won ($1.09) with two pair, Queens and Tens
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 (small blind) folded before Flop
+Seat 6: elemetres (big blind) mucked [8c 8h]
+
+
+
+PokerStars Hand #213673811471:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:56:35 MSK [2020/05/11 0:56:35 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($2.99 in chips) 
+Seat 2: JOSE VARGA5 ($2.75 in chips) 
+Seat 3: Lyonhearth ($4.61 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: MERSENARIO23 ($3.01 in chips) 
+Seat 6: elemetres ($4.18 in chips) 
+elemetres: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Kc]
+JOSE VARGA5 has timed out
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: raises $0.04 to $0.06
+jerry7894561: folds 
+Uncalled bet ($0.04) returned to elemetres
+elemetres collected $0.04 from pot
+elemetres: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jerry7894561 (big blind) folded before Flop
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 (button) folded before Flop (didn't bet)
+Seat 6: elemetres (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213673824105:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:57:26 MSK [2020/05/11 0:57:26 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($2.97 in chips) 
+Seat 2: JOSE VARGA5 ($2.75 in chips) 
+Seat 3: Lyonhearth ($4.61 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: MERSENARIO23 ($3.01 in chips) 
+Seat 6: elemetres ($4.20 in chips) 
+jerry7894561: posts small blind $0.01
+JOSE VARGA5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 2s]
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: folds 
+jerry7894561: folds 
+Uncalled bet ($0.01) returned to JOSE VARGA5
+JOSE VARGA5 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: JOSE VARGA5 (big blind) collected ($0.02)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673828994:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:57:45 MSK [2020/05/11 0:57:45 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($2.96 in chips) 
+Seat 2: JOSE VARGA5 ($2.76 in chips) 
+Seat 3: Lyonhearth ($4.61 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: MERSENARIO23 ($3.01 in chips) 
+Seat 6: elemetres ($4.20 in chips) 
+JOSE VARGA5: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 8d]
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: raises $0.02 to $0.04
+jerry7894561: folds 
+JOSE VARGA5: calls $0.03
+Lyonhearth: folds 
+*** FLOP *** [3c 8c 4h]
+JOSE VARGA5: checks 
+elemetres: bets $0.06
+JOSE VARGA5: folds 
+Uncalled bet ($0.06) returned to elemetres
+elemetres collected $0.10 from pot
+elemetres: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3c 8c 4h]
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 (small blind) folded on the Flop
+Seat 3: Lyonhearth (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres collected ($0.10)
+
+
+
+PokerStars Hand #213673842278:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:58:38 MSK [2020/05/11 0:58:38 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($2.96 in chips) 
+Seat 2: JOSE VARGA5 ($2.72 in chips) 
+Seat 3: Lyonhearth ($4.59 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: MERSENARIO23 ($3.01 in chips) 
+Seat 6: elemetres ($4.26 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 4d]
+MERSENARIO23: folds 
+elemetres: raises $0.05 to $0.07
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.05) returned to elemetres
+elemetres collected $0.05 from pot
+elemetres: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 (button) folded before Flop (didn't bet)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres collected ($0.05)
+
+
+
+PokerStars Hand #213673861780:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:59:19 MSK [2020/05/11 0:59:19 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($2.96 in chips) 
+Seat 2: JOSE VARGA5 ($2.72 in chips) 
+Seat 3: Lyonhearth ($4.58 in chips) 
+Seat 4: lawlex_2 ($1.98 in chips) 
+Seat 5: MERSENARIO23 ($3.01 in chips) 
+Seat 6: elemetres ($4.29 in chips) 
+lawlex_2: posts small blind $0.01
+MERSENARIO23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 5c]
+elemetres has timed out
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: raises $0.03 to $0.05
+lawlex_2: folds 
+MERSENARIO23: folds 
+Uncalled bet ($0.03) returned to Lyonhearth
+Lyonhearth collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth (button) collected ($0.05)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: MERSENARIO23 (big blind) folded before Flop
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673869029:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 7:59:47 MSK [2020/05/11 0:59:47 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($2.96 in chips) 
+Seat 2: JOSE VARGA5 ($2.72 in chips) 
+Seat 3: Lyonhearth ($4.61 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: MERSENARIO23 ($2.99 in chips) 
+Seat 6: elemetres ($4.29 in chips) 
+MERSENARIO23: posts small blind $0.01
+elemetres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 5h]
+jerry7894561: folds 
+JOSE VARGA5: raises $0.04 to $0.06
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: calls $0.04
+*** FLOP *** [Kd 2h 6c]
+elemetres: checks 
+JOSE VARGA5: bets $0.06
+elemetres: folds 
+Uncalled bet ($0.06) returned to JOSE VARGA5
+JOSE VARGA5 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kd 2h 6c]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 collected ($0.13)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 (small blind) folded before Flop
+Seat 6: elemetres (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213673882144:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:00:37 MSK [2020/05/11 1:00:37 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($2.96 in chips) 
+Seat 2: JOSE VARGA5 ($2.79 in chips) 
+Seat 3: Lyonhearth ($4.61 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: MERSENARIO23 ($2.98 in chips) 
+Seat 6: elemetres ($4.23 in chips) 
+elemetres: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 4d]
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: calls $0.01
+jerry7894561: checks 
+*** FLOP *** [3s Qs 5s]
+elemetres: checks 
+jerry7894561: checks 
+*** TURN *** [3s Qs 5s] [4c]
+elemetres: checks 
+jerry7894561: checks 
+*** RIVER *** [3s Qs 5s 4c] [5h]
+elemetres: checks 
+jerry7894561: bets $0.03
+elemetres: folds 
+Uncalled bet ($0.03) returned to jerry7894561
+jerry7894561 collected $0.04 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3s Qs 5s 4c 5h]
+Seat 1: jerry7894561 (big blind) collected ($0.04)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 (button) folded before Flop (didn't bet)
+Seat 6: elemetres (small blind) folded on the River
+
+
+
+PokerStars Hand #213673897160:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:01:30 MSK [2020/05/11 1:01:30 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($2.98 in chips) 
+Seat 2: JOSE VARGA5 ($2.79 in chips) 
+Seat 3: Lyonhearth ($4.61 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: MERSENARIO23 ($2.98 in chips) 
+Seat 6: elemetres ($4.21 in chips) 
+jerry7894561: posts small blind $0.01
+JOSE VARGA5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 5s]
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: raises $0.04 to $0.06
+elemetres: folds 
+jerry7894561: raises $0.12 to $0.18
+JOSE VARGA5: folds 
+MERSENARIO23: folds 
+Uncalled bet ($0.12) returned to jerry7894561
+jerry7894561 collected $0.14 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: jerry7894561 (small blind) collected ($0.14)
+Seat 2: JOSE VARGA5 (big blind) folded before Flop
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 folded before Flop
+Seat 6: elemetres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673907340:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:02:06 MSK [2020/05/11 1:02:06 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.06 in chips) 
+Seat 2: JOSE VARGA5 ($2.77 in chips) 
+Seat 3: Lyonhearth ($4.61 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: MERSENARIO23 ($2.92 in chips) 
+Seat 6: elemetres ($4.21 in chips) 
+JOSE VARGA5: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Qs]
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: folds 
+jerry7894561: raises $0.04 to $0.06
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.04) returned to jerry7894561
+jerry7894561 collected $0.05 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (button) collected ($0.05)
+Seat 2: JOSE VARGA5 (small blind) folded before Flop
+Seat 3: Lyonhearth (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673912158:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:02:22 MSK [2020/05/11 1:02:22 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.09 in chips) 
+Seat 2: JOSE VARGA5 ($2.76 in chips) 
+Seat 3: Lyonhearth ($4.59 in chips) 
+Seat 4: lawlex_2 ($1.97 in chips) 
+Seat 5: MERSENARIO23 ($2.92 in chips) 
+Seat 6: elemetres ($4.21 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 2h]
+MERSENARIO23: raises $0.04 to $0.06
+elemetres: folds 
+jerry7894561: calls $0.06
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+*** FLOP *** [6s 7s 8c]
+MERSENARIO23: checks 
+jerry7894561: bets $0.09
+MERSENARIO23: calls $0.09
+*** TURN *** [6s 7s 8c] [5s]
+MERSENARIO23: checks 
+jerry7894561: bets $0.11
+MERSENARIO23: folds 
+Uncalled bet ($0.11) returned to jerry7894561
+jerry7894561 collected $0.32 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6s 7s 8c 5s]
+Seat 1: jerry7894561 collected ($0.32)
+Seat 2: JOSE VARGA5 (button) folded before Flop (didn't bet)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: MERSENARIO23 folded on the Turn
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673933983:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:03:38 MSK [2020/05/11 1:03:38 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.26 in chips) 
+Seat 2: JOSE VARGA5 ($2.76 in chips) 
+Seat 3: Lyonhearth ($4.58 in chips) 
+Seat 4: lawlex_2 ($1.95 in chips) 
+Seat 5: MERSENARIO23 ($2.77 in chips) 
+Seat 6: elemetres ($4.21 in chips) 
+lawlex_2: posts small blind $0.01
+MERSENARIO23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Qc]
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5 has timed out
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to MERSENARIO23
+MERSENARIO23 collected $0.02 from pot
+MERSENARIO23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: MERSENARIO23 (big blind) collected ($0.02)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673940502:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:04:00 MSK [2020/05/11 1:04:00 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.26 in chips) 
+Seat 2: JOSE VARGA5 ($2.76 in chips) 
+Seat 3: Lyonhearth ($4.58 in chips) 
+Seat 4: lawlex_2 ($1.94 in chips) 
+Seat 5: MERSENARIO23 ($2.78 in chips) 
+Seat 6: elemetres ($4.21 in chips) 
+MERSENARIO23: posts small blind $0.01
+elemetres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Kh]
+jerry7894561: folds 
+JOSE VARGA5: raises $0.02 to $0.04
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: calls $0.02
+*** FLOP *** [2h 7h 2c]
+elemetres: checks 
+JOSE VARGA5: bets $0.02
+elemetres: raises $0.06 to $0.08
+JOSE VARGA5: calls $0.06
+*** TURN *** [2h 7h 2c] [As]
+elemetres: checks 
+JOSE VARGA5: bets $0.08
+elemetres: calls $0.08
+*** RIVER *** [2h 7h 2c As] [Qs]
+elemetres: checks 
+JOSE VARGA5: checks 
+*** SHOW DOWN ***
+elemetres: shows [3h 3s] (two pair, Threes and Deuces)
+JOSE VARGA5: shows [Ah 4h] (two pair, Aces and Deuces)
+JOSE VARGA5 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [2h 7h 2c As Qs]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 showed [Ah 4h] and won ($0.40) with two pair, Aces and Deuces
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 (small blind) folded before Flop
+Seat 6: elemetres (big blind) showed [3h 3s] and lost with two pair, Threes and Deuces
+
+
+
+PokerStars Hand #213673957528:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:05:00 MSK [2020/05/11 1:05:00 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($3.26 in chips) 
+Seat 2: JOSE VARGA5 ($2.96 in chips) 
+Seat 3: Lyonhearth ($4.58 in chips) 
+Seat 4: lawlex_2 ($1.94 in chips) 
+Seat 5: MERSENARIO23 ($2.77 in chips) 
+Seat 6: elemetres ($4.01 in chips) 
+elemetres: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 5d]
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: calls $0.01
+jerry7894561: checks 
+*** FLOP *** [9d 8c Td]
+elemetres: bets $0.04
+jerry7894561: folds 
+Uncalled bet ($0.04) returned to elemetres
+elemetres collected $0.04 from pot
+elemetres: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9d 8c Td]
+Seat 1: jerry7894561 (big blind) folded on the Flop
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 (button) folded before Flop (didn't bet)
+Seat 6: elemetres (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213673967847:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:05:36 MSK [2020/05/11 1:05:36 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.24 in chips) 
+Seat 2: JOSE VARGA5 ($2.96 in chips) 
+Seat 3: Lyonhearth ($4.58 in chips) 
+Seat 4: lawlex_2 ($1.94 in chips) 
+Seat 5: MERSENARIO23 ($2.77 in chips) 
+Seat 6: elemetres ($4.03 in chips) 
+jerry7894561: posts small blind $0.01
+JOSE VARGA5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 8h]
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: raises $0.04 to $0.06
+elemetres: folds 
+jerry7894561: calls $0.05
+JOSE VARGA5: folds 
+*** FLOP *** [5h 7h Tc]
+jerry7894561: bets $0.09
+MERSENARIO23: raises $0.24 to $0.33
+jerry7894561: calls $0.24
+*** TURN *** [5h 7h Tc] [2s]
+jerry7894561: checks 
+MERSENARIO23: bets $0.60
+jerry7894561: calls $0.60
+*** RIVER *** [5h 7h Tc 2s] [8s]
+jerry7894561: checks 
+MERSENARIO23: bets $1.78 and is all-in
+jerry7894561: calls $1.78
+*** SHOW DOWN ***
+MERSENARIO23: shows [5c 5s] (three of a kind, Fives)
+jerry7894561: shows [Ah Ts] (a pair of Tens)
+MERSENARIO23 collected $5.37 from pot
+*** SUMMARY ***
+Total pot $5.56 | Rake $0.19 
+Board [5h 7h Tc 2s 8s]
+Seat 1: jerry7894561 (small blind) showed [Ah Ts] and lost with a pair of Tens
+Seat 2: JOSE VARGA5 (big blind) folded before Flop
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 showed [5c 5s] and won ($5.37) with three of a kind, Fives
+Seat 6: elemetres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673989540:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:06:52 MSK [2020/05/11 1:06:52 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($2.94 in chips) 
+Seat 3: Lyonhearth ($4.58 in chips) 
+Seat 4: lawlex_2 ($1.94 in chips) 
+Seat 5: MERSENARIO23 ($5.37 in chips) 
+Seat 6: elemetres ($4.03 in chips) 
+JOSE VARGA5: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Js]
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: folds 
+jerry7894561: raises $0.04 to $0.06
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.04) returned to jerry7894561
+jerry7894561 collected $0.05 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (button) collected ($0.05)
+Seat 2: JOSE VARGA5 (small blind) folded before Flop
+Seat 3: Lyonhearth (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213673996174:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:07:15 MSK [2020/05/11 1:07:15 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($2.03 in chips) 
+Seat 2: JOSE VARGA5 ($2.93 in chips) 
+Seat 3: Lyonhearth ($4.56 in chips) 
+Seat 4: lawlex_2 ($1.94 in chips) 
+Seat 5: MERSENARIO23 ($5.37 in chips) 
+Seat 6: elemetres ($4.03 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 6c]
+MERSENARIO23: folds 
+elemetres: raises $0.05 to $0.07
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.05) returned to elemetres
+elemetres collected $0.05 from pot
+elemetres: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 (button) folded before Flop (didn't bet)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres collected ($0.05)
+
+
+
+PokerStars Hand #213674002290:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:07:36 MSK [2020/05/11 1:07:36 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($2.03 in chips) 
+Seat 2: JOSE VARGA5 ($2.93 in chips) 
+Seat 3: Lyonhearth ($4.55 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Seat 5: MERSENARIO23 ($5.37 in chips) 
+Seat 6: elemetres ($4.06 in chips) 
+lawlex_2: posts small blind $0.01
+MERSENARIO23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 4s]
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to MERSENARIO23
+MERSENARIO23 collected $0.02 from pot
+MERSENARIO23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: MERSENARIO23 (big blind) collected ($0.02)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674005584:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:07:47 MSK [2020/05/11 1:07:47 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($2.03 in chips) 
+Seat 2: JOSE VARGA5 ($2.93 in chips) 
+Seat 3: Lyonhearth ($4.55 in chips) 
+Seat 4: lawlex_2 ($1.91 in chips) 
+Seat 5: MERSENARIO23 ($5.38 in chips) 
+Seat 6: elemetres ($4.06 in chips) 
+MERSENARIO23: posts small blind $0.01
+elemetres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 8h]
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: folds 
+Uncalled bet ($0.01) returned to elemetres
+elemetres collected $0.02 from pot
+elemetres: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 (small blind) folded before Flop
+Seat 6: elemetres (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213674009266:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:08:00 MSK [2020/05/11 1:08:00 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($2.03 in chips) 
+Seat 2: JOSE VARGA5 ($2.93 in chips) 
+Seat 3: Lyonhearth ($4.55 in chips) 
+Seat 4: lawlex_2 ($1.91 in chips) 
+Seat 5: MERSENARIO23 ($5.37 in chips) 
+Seat 6: elemetres ($4.07 in chips) 
+elemetres: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Qd]
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: raises $0.04 to $0.06
+MERSENARIO23: folds 
+elemetres: folds 
+jerry7894561: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (big blind) folded before Flop
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: MERSENARIO23 (button) folded before Flop (didn't bet)
+Seat 6: elemetres (small blind) folded before Flop
+
+
+
+PokerStars Hand #213674014421:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:08:18 MSK [2020/05/11 1:08:18 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($2.01 in chips) 
+Seat 2: JOSE VARGA5 ($2.93 in chips) 
+Seat 3: Lyonhearth ($4.55 in chips) 
+Seat 4: lawlex_2 ($1.94 in chips) 
+Seat 5: MERSENARIO23 ($5.37 in chips) 
+Seat 6: elemetres ($4.06 in chips) 
+jerry7894561: posts small blind $0.01
+JOSE VARGA5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 4h]
+Lyonhearth: folds 
+lawlex_2: folds 
+MERSENARIO23: raises $0.04 to $0.06
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: calls $0.04
+*** FLOP *** [2h Ah 2d]
+JOSE VARGA5: checks 
+MERSENARIO23: bets $0.04
+JOSE VARGA5: calls $0.04
+*** TURN *** [2h Ah 2d] [8h]
+JOSE VARGA5: checks 
+MERSENARIO23: checks 
+*** RIVER *** [2h Ah 2d 8h] [Qs]
+JOSE VARGA5: checks 
+MERSENARIO23: checks 
+*** SHOW DOWN ***
+JOSE VARGA5: shows [3s 3c] (two pair, Threes and Deuces)
+MERSENARIO23: mucks hand 
+JOSE VARGA5 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2h Ah 2d 8h Qs]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: JOSE VARGA5 (big blind) showed [3s 3c] and won ($0.20) with two pair, Threes and Deuces
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 mucked [Js Kc]
+Seat 6: elemetres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674031469:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:09:18 MSK [2020/05/11 1:09:18 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($3.03 in chips) 
+Seat 3: Lyonhearth ($4.55 in chips) 
+Seat 4: lawlex_2 ($1.94 in chips) 
+Seat 5: MERSENARIO23 ($5.27 in chips) 
+Seat 6: elemetres ($4.06 in chips) 
+JOSE VARGA5: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 6s]
+lawlex_2: folds 
+MERSENARIO23: folds 
+elemetres: folds 
+jerry7894561: raises $0.04 to $0.06
+JOSE VARGA5: calls $0.05
+Lyonhearth: folds 
+*** FLOP *** [5d 4s 6d]
+JOSE VARGA5: checks 
+jerry7894561: bets $0.05
+JOSE VARGA5: calls $0.05
+*** TURN *** [5d 4s 6d] [4c]
+JOSE VARGA5: checks 
+jerry7894561: bets $0.10
+JOSE VARGA5: raises $0.10 to $0.20
+jerry7894561: calls $0.10
+*** RIVER *** [5d 4s 6d 4c] [8h]
+JOSE VARGA5: checks 
+jerry7894561: bets $0.62
+JOSE VARGA5: raises $0.62 to $1.24
+jerry7894561: calls $0.62
+*** SHOW DOWN ***
+JOSE VARGA5: shows [6h 6c] (a full house, Sixes full of Fours)
+jerry7894561: mucks hand 
+JOSE VARGA5 collected $3.01 from pot
+*** SUMMARY ***
+Total pot $3.12 | Rake $0.11 
+Board [5d 4s 6d 4c 8h]
+Seat 1: jerry7894561 (button) mucked [Kc 7c]
+Seat 2: JOSE VARGA5 (small blind) showed [6h 6c] and won ($3.01) with a full house, Sixes full of Fours
+Seat 3: Lyonhearth (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674049772:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:10:21 MSK [2020/05/11 1:10:21 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.49 in chips) 
+Seat 3: Lyonhearth ($4.53 in chips) 
+Seat 4: lawlex_2 ($1.94 in chips) 
+Seat 5: MERSENARIO23 ($5.27 in chips) 
+Seat 6: elemetres ($4.06 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 5s]
+MERSENARIO23 has timed out
+MERSENARIO23: folds 
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: raises $0.04 to $0.06
+Lyonhearth: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [8s Th 6d]
+MERSENARIO23 leaves the table
+Lyonhearth: checks 
+JOSE VARGA5: bets $0.04
+Lyonhearth: calls $0.04
+*** TURN *** [8s Th 6d] [Qc]
+andrey150866 joins the table at seat #5 
+Lyonhearth: checks 
+JOSE VARGA5: checks 
+*** RIVER *** [8s Th 6d Qc] [5c]
+Lyonhearth: bets $0.21
+JOSE VARGA5: calls $0.21
+*** SHOW DOWN ***
+Lyonhearth: shows [Qh 9h] (a pair of Queens)
+JOSE VARGA5: mucks hand 
+Lyonhearth collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [8s Th 6d Qc 5c]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 (button) mucked [Kd Ts]
+Seat 3: Lyonhearth (small blind) showed [Qh 9h] and won ($0.62) with a pair of Queens
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: MERSENARIO23 folded before Flop (didn't bet)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674065697:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:11:16 MSK [2020/05/11 1:11:16 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.18 in chips) 
+Seat 3: Lyonhearth ($4.84 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Seat 5: andrey150866 ($2 in chips) 
+Seat 6: elemetres ($4.06 in chips) 
+lawlex_2: posts small blind $0.01
+andrey150866: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 6h]
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: raises $0.04 to $0.06
+Lyonhearth: folds 
+lawlex_2: folds 
+andrey150866: folds 
+Uncalled bet ($0.04) returned to JOSE VARGA5
+JOSE VARGA5 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 collected ($0.05)
+Seat 3: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: andrey150866 (big blind) folded before Flop
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674069883:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:11:31 MSK [2020/05/11 1:11:31 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.21 in chips) 
+Seat 3: Lyonhearth ($4.84 in chips) 
+Seat 4: lawlex_2 ($1.91 in chips) 
+Seat 5: andrey150866 ($2 in chips) 
+Seat 6: elemetres ($4.06 in chips) 
+andrey150866: posts small blind $0.01
+elemetres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 3h]
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+andrey150866: folds 
+Uncalled bet ($0.01) returned to elemetres
+elemetres collected $0.02 from pot
+elemetres: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: andrey150866 (small blind) folded before Flop
+Seat 6: elemetres (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213674072888:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:11:41 MSK [2020/05/11 1:11:41 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.21 in chips) 
+Seat 3: Lyonhearth ($4.84 in chips) 
+Seat 4: lawlex_2 ($1.91 in chips) 
+Seat 5: andrey150866 ($2 in chips) 
+Seat 6: elemetres ($4.07 in chips) 
+elemetres: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 8s]
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+andrey150866: raises $0.04 to $0.06
+elemetres: calls $0.05
+jerry7894561: folds 
+*** FLOP *** [Kd 6s Tc]
+elemetres: checks 
+andrey150866: checks 
+*** TURN *** [Kd 6s Tc] [7c]
+elemetres: bets $0.06
+andrey150866: calls $0.06
+*** RIVER *** [Kd 6s Tc 7c] [3c]
+elemetres: checks 
+andrey150866: checks 
+*** SHOW DOWN ***
+elemetres: shows [Jc Qd] (high card King)
+andrey150866: shows [8c Ts] (a pair of Tens)
+andrey150866 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Kd 6s Tc 7c 3c]
+Seat 1: jerry7894561 (big blind) folded before Flop
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: andrey150866 (button) showed [8c Ts] and won ($0.25) with a pair of Tens
+Seat 6: elemetres (small blind) showed [Jc Qd] and lost with high card King
+
+
+
+PokerStars Hand #213674082982:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:12:16 MSK [2020/05/11 1:12:16 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.21 in chips) 
+Seat 3: Lyonhearth ($4.84 in chips) 
+Seat 4: lawlex_2 ($1.91 in chips) 
+Seat 5: andrey150866 ($2.13 in chips) 
+Seat 6: elemetres ($3.95 in chips) 
+jerry7894561: posts small blind $0.01
+JOSE VARGA5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Jd]
+Lyonhearth: folds 
+lawlex_2: raises $0.04 to $0.06
+andrey150866: folds 
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: calls $0.04
+*** FLOP *** [Th 7s 6d]
+JOSE VARGA5: checks 
+lawlex_2: checks 
+*** TURN *** [Th 7s 6d] [4s]
+JOSE VARGA5: checks 
+lawlex_2: checks 
+*** RIVER *** [Th 7s 6d 4s] [Qh]
+JOSE VARGA5: checks 
+lawlex_2: bets $0.02
+JOSE VARGA5: calls $0.02
+*** SHOW DOWN ***
+lawlex_2: shows [Qs Jd] (a pair of Queens)
+JOSE VARGA5: mucks hand 
+lawlex_2 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Th 7s 6d 4s Qh]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: JOSE VARGA5 (big blind) mucked [Jh Ks]
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 showed [Qs Jd] and won ($0.16) with a pair of Queens
+Seat 5: andrey150866 folded before Flop (didn't bet)
+Seat 6: elemetres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674102825:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:13:13 MSK [2020/05/11 1:13:13 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.13 in chips) 
+Seat 3: Lyonhearth ($4.84 in chips) 
+Seat 4: lawlex_2 ($1.99 in chips) 
+Seat 5: andrey150866 ($2.13 in chips) 
+Seat 6: elemetres ($3.95 in chips) 
+JOSE VARGA5: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Jh]
+lawlex_2: folds 
+andrey150866: raises $0.04 to $0.06
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.04) returned to andrey150866
+andrey150866 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 (small blind) folded before Flop
+Seat 3: Lyonhearth (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: andrey150866 collected ($0.05)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674106188:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:13:25 MSK [2020/05/11 1:13:25 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.12 in chips) 
+Seat 3: Lyonhearth ($4.82 in chips) 
+Seat 4: lawlex_2 ($1.99 in chips) 
+Seat 5: andrey150866 ($2.16 in chips) 
+Seat 6: elemetres ($3.95 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 9s]
+andrey150866: folds 
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 (button) folded before Flop (didn't bet)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 5: andrey150866 folded before Flop (didn't bet)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674109832:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:13:37 MSK [2020/05/11 1:13:37 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.12 in chips) 
+Seat 3: Lyonhearth ($4.81 in chips) 
+Seat 4: lawlex_2 ($2 in chips) 
+Seat 5: andrey150866 ($2.16 in chips) 
+Seat 6: elemetres ($3.95 in chips) 
+lawlex_2: posts small blind $0.01
+andrey150866: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 2d]
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to andrey150866
+andrey150866 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: andrey150866 (big blind) collected ($0.02)
+Seat 6: elemetres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674113134:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:13:49 MSK [2020/05/11 1:13:49 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.12 in chips) 
+Seat 3: Lyonhearth ($4.81 in chips) 
+Seat 4: lawlex_2 ($1.99 in chips) 
+Seat 5: andrey150866 ($2.17 in chips) 
+Seat 6: elemetres ($3.95 in chips) 
+andrey150866: posts small blind $0.01
+elemetres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 4s]
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: raises $0.04 to $0.06
+lawlex_2: folds 
+andrey150866: folds 
+elemetres: calls $0.04
+*** FLOP *** [Kh 6c Ah]
+elemetres: checks 
+Lyonhearth: checks 
+*** TURN *** [Kh 6c Ah] [Jd]
+elemetres: bets $0.04
+Lyonhearth: folds 
+Uncalled bet ($0.04) returned to elemetres
+elemetres collected $0.13 from pot
+elemetres: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kh 6c Ah Jd]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded on the Turn
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: andrey150866 (small blind) folded before Flop
+Seat 6: elemetres (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #213674124010:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:14:27 MSK [2020/05/11 1:14:27 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.12 in chips) 
+Seat 3: Lyonhearth ($4.75 in chips) 
+Seat 4: lawlex_2 ($1.99 in chips) 
+Seat 5: andrey150866 ($2.16 in chips) 
+Seat 6: elemetres ($4.02 in chips) 
+elemetres: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Th]
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+andrey150866: raises $0.04 to $0.06
+elemetres: folds 
+jerry7894561: calls $0.04
+*** FLOP *** [5d Tc 7d]
+jerry7894561: checks 
+andrey150866: checks 
+*** TURN *** [5d Tc 7d] [4c]
+jerry7894561: checks 
+andrey150866: checks 
+*** RIVER *** [5d Tc 7d 4c] [7c]
+jerry7894561: checks 
+andrey150866: checks 
+*** SHOW DOWN ***
+jerry7894561: shows [3s As] (a pair of Sevens)
+andrey150866: mucks hand 
+jerry7894561 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d Tc 7d 4c 7c]
+Seat 1: jerry7894561 (big blind) showed [3s As] and won ($0.13) with a pair of Sevens
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: andrey150866 (button) mucked [9d Kh]
+Seat 6: elemetres (small blind) folded before Flop
+
+
+
+PokerStars Hand #213674131844:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:14:55 MSK [2020/05/11 1:14:55 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($2.07 in chips) 
+Seat 2: JOSE VARGA5 ($4.12 in chips) 
+Seat 3: Lyonhearth ($4.75 in chips) 
+Seat 4: lawlex_2 ($1.99 in chips) 
+Seat 5: andrey150866 ($2.10 in chips) 
+Seat 6: elemetres ($4.01 in chips) 
+jerry7894561: posts small blind $0.01
+JOSE VARGA5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Td]
+Lyonhearth: folds 
+lawlex_2: raises $0.04 to $0.06
+andrey150866: folds 
+elemetres: folds 
+jerry7894561: folds 
+JOSE VARGA5: calls $0.04
+*** FLOP *** [Tc 7d Ad]
+JOSE VARGA5: checks 
+elemetres leaves the table
+lawlex_2: bets $0.09
+heehan83 joins the table at seat #6 
+JOSE VARGA5: calls $0.09
+*** TURN *** [Tc 7d Ad] [6h]
+JOSE VARGA5: checks 
+lawlex_2: checks 
+*** RIVER *** [Tc 7d Ad 6h] [9h]
+JOSE VARGA5: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+JOSE VARGA5: shows [Qc Kc] (high card Ace)
+lawlex_2: shows [Js Td] (a pair of Tens)
+lawlex_2 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Tc 7d Ad 6h 9h]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: JOSE VARGA5 (big blind) showed [Qc Kc] and lost with high card Ace
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 showed [Js Td] and won ($0.30) with a pair of Tens
+Seat 5: andrey150866 folded before Flop (didn't bet)
+Seat 6: elemetres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674142869:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:15:33 MSK [2020/05/11 1:15:33 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($2.06 in chips) 
+Seat 2: JOSE VARGA5 ($3.97 in chips) 
+Seat 3: Lyonhearth ($4.75 in chips) 
+Seat 4: lawlex_2 ($2.14 in chips) 
+Seat 5: andrey150866 ($2.10 in chips) 
+JOSE VARGA5: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+heehan83: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Jh]
+lawlex_2: raises $0.04 to $0.06
+andrey150866: calls $0.06
+jerry7894561: raises $0.18 to $0.24
+JOSE VARGA5: folds 
+Lyonhearth: raises $4.51 to $4.75 and is all-in
+lawlex_2: folds 
+andrey150866: folds 
+jerry7894561: calls $1.82 and is all-in
+Uncalled bet ($2.69) returned to Lyonhearth
+*** FLOP *** [3d Kh 5c]
+*** TURN *** [3d Kh 5c] [6d]
+*** RIVER *** [3d Kh 5c 6d] [9h]
+*** SHOW DOWN ***
+Lyonhearth: shows [As Ks] (a pair of Kings)
+jerry7894561: shows [Jc Js] (a pair of Jacks)
+Lyonhearth collected $4.10 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.15 
+Board [3d Kh 5c 6d 9h]
+Seat 1: jerry7894561 (button) showed [Jc Js] and lost with a pair of Jacks
+Seat 2: JOSE VARGA5 (small blind) folded before Flop
+Seat 3: Lyonhearth (big blind) showed [As Ks] and won ($4.10) with a pair of Kings
+Seat 4: lawlex_2 folded before Flop
+Seat 5: andrey150866 folded before Flop
+
+
+
+PokerStars Hand #213674157756:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:16:26 MSK [2020/05/11 1:16:26 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($3.96 in chips) 
+Seat 3: Lyonhearth ($6.79 in chips) 
+Seat 4: lawlex_2 ($2.08 in chips) 
+Seat 5: andrey150866 ($2.04 in chips) 
+Seat 6: heehan83 ($0.80 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+heehan83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Ah]
+andrey150866: folds 
+heehan83: checks 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: raises $0.04 to $0.06
+heehan83: calls $0.04
+*** FLOP *** [6h 5s 4h]
+lawlex_2: bets $0.09
+heehan83: raises $0.21 to $0.30
+lawlex_2: folds 
+Uncalled bet ($0.21) returned to heehan83
+heehan83 collected $0.30 from pot
+heehan83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [6h 5s 4h]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 (button) folded before Flop (didn't bet)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: andrey150866 folded before Flop (didn't bet)
+Seat 6: heehan83 collected ($0.30)
+
+
+
+PokerStars Hand #213674167829:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:17:01 MSK [2020/05/11 1:17:01 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($3.96 in chips) 
+Seat 3: Lyonhearth ($6.78 in chips) 
+Seat 4: lawlex_2 ($1.93 in chips) 
+Seat 5: andrey150866 ($2.04 in chips) 
+Seat 6: heehan83 ($0.95 in chips) 
+lawlex_2: posts small blind $0.01
+andrey150866: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 4s]
+heehan83: folds 
+jerry7894561: folds 
+JOSE VARGA5: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to andrey150866
+andrey150866 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 folded before Flop (didn't bet)
+Seat 3: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: andrey150866 (big blind) collected ($0.02)
+Seat 6: heehan83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674172692:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:17:18 MSK [2020/05/11 1:17:18 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($3.96 in chips) 
+Seat 3: Lyonhearth ($6.78 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Seat 5: andrey150866 ($2.05 in chips) 
+Seat 6: heehan83 ($0.95 in chips) 
+andrey150866: posts small blind $0.01
+heehan83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 9c]
+jerry7894561: folds 
+JOSE VARGA5: raises $0.04 to $0.06
+Lyonhearth: folds 
+lawlex_2: folds 
+andrey150866: folds 
+heehan83: calls $0.04
+*** FLOP *** [Qs 4d Ts]
+heehan83: checks 
+JOSE VARGA5: bets $0.04
+heehan83: calls $0.04
+*** TURN *** [Qs 4d Ts] [5h]
+heehan83: bets $0.08
+JOSE VARGA5: calls $0.08
+*** RIVER *** [Qs 4d Ts 5h] [Kc]
+heehan83: bets $0.77 and is all-in
+JOSE VARGA5: calls $0.77
+*** SHOW DOWN ***
+heehan83: shows [8c Qh] (a pair of Queens)
+JOSE VARGA5: shows [As Js] (a straight, Ten to Ace)
+JOSE VARGA5 collected $1.84 from pot
+*** SUMMARY ***
+Total pot $1.91 | Rake $0.07 
+Board [Qs 4d Ts 5h Kc]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: JOSE VARGA5 showed [As Js] and won ($1.84) with a straight, Ten to Ace
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: andrey150866 (small blind) folded before Flop
+Seat 6: heehan83 (big blind) showed [8c Qh] and lost with a pair of Queens
+
+
+
+PokerStars Hand #213674182998:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:17:54 MSK [2020/05/11 1:17:54 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 2: JOSE VARGA5 ($4.85 in chips) 
+Seat 3: Lyonhearth ($6.78 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Seat 5: andrey150866 ($2.04 in chips) 
+jerry7894561: posts small blind $0.01
+JOSE VARGA5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Kh]
+Lyonhearth: raises $0.04 to $0.06
+heehan83 leaves the table
+lawlex_2: folds 
+andrey150866: folds 
+jerry7894561: folds 
+andrey150866 leaves the table
+JOSE VARGA5: raises $0.14 to $0.20
+Lyonhearth: raises $0.40 to $0.60
+JOSE VARGA5: raises $1.21 to $1.81
+Lyonhearth: raises $4.97 to $6.78 and is all-in
+JOSE VARGA5: calls $3.04 and is all-in
+Uncalled bet ($1.93) returned to Lyonhearth
+*** FLOP *** [8d 2d 7c]
+*** TURN *** [8d 2d 7c] [9d]
+*** RIVER *** [8d 2d 7c 9d] [Qh]
+*** SHOW DOWN ***
+JOSE VARGA5: shows [Kd Ks] (a pair of Kings)
+Lyonhearth: shows [Ac Ad] (a pair of Aces)
+Lyonhearth collected $9.41 from pot
+*** SUMMARY ***
+Total pot $9.71 | Rake $0.30 
+Board [8d 2d 7c 9d Qh]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: JOSE VARGA5 (big blind) showed [Kd Ks] and lost with a pair of Kings
+Seat 3: Lyonhearth showed [Ac Ad] and won ($9.41) with a pair of Aces
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: andrey150866 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674198276:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:18:48 MSK [2020/05/11 1:18:48 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($2 in chips) 
+Seat 3: Lyonhearth ($11.34 in chips) 
+Seat 4: lawlex_2 ($1.92 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 7h]
+jerry7894561: raises $0.04 to $0.06
+Lyonhearth: folds 
+Fe l ET 87 joins the table at seat #5 
+lawlex_2: calls $0.04
+*** FLOP *** [Td 7c 6d]
+lawlex_2: bets $0.09
+jerry7894561: calls $0.09
+*** TURN *** [Td 7c 6d] [Qs]
+lawlex_2: bets $0.20
+jerry7894561: calls $0.20
+*** RIVER *** [Td 7c 6d Qs] [Kd]
+GoodmanAR joins the table at seat #6 
+lawlex_2: checks 
+jerry7894561: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Ah 7h] (a pair of Sevens)
+jerry7894561: shows [9c 9h] (a pair of Nines)
+jerry7894561 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [Td 7c 6d Qs Kd]
+Seat 1: jerry7894561 (button) showed [9c 9h] and won ($0.69) with a pair of Nines
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) showed [Ah 7h] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #213674208085:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:19:22 MSK [2020/05/11 1:19:22 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($2.34 in chips) 
+Seat 3: Lyonhearth ($11.33 in chips) 
+Seat 4: lawlex_2 ($1.57 in chips) 
+Seat 5: Fe l ET 87 ($0.80 in chips) 
+lawlex_2: posts small blind $0.01
+Fe l ET 87: posts big blind $0.02
+GoodmanAR: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Td]
+JOSE VARGA5 is disconnected 
+jerry7894561: raises $0.04 to $0.06
+Lyonhearth: calls $0.06
+lawlex_2: folds 
+Fe l ET 87: folds 
+*** FLOP *** [7s 5s 5d]
+jerry7894561: checks 
+Lyonhearth: checks 
+*** TURN *** [7s 5s 5d] [Qc]
+jerry7894561: checks 
+Lyonhearth: bets $0.08
+jerry7894561: calls $0.08
+*** RIVER *** [7s 5s 5d Qc] [6s]
+jerry7894561: checks 
+Lyonhearth: bets $0.30
+jerry7894561: folds 
+Uncalled bet ($0.30) returned to Lyonhearth
+Lyonhearth collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [7s 5s 5d Qc 6s]
+Seat 1: jerry7894561 folded on the River
+Seat 3: Lyonhearth (button) collected ($0.30)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Fe l ET 87 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213674228475:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:20:33 MSK [2020/05/11 1:20:33 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($2.20 in chips) 
+Seat 3: Lyonhearth ($11.49 in chips) 
+Seat 4: lawlex_2 ($1.56 in chips) 
+Seat 5: Fe l ET 87 ($0.78 in chips) 
+Seat 6: GoodmanAR ($2 in chips) 
+Fe l ET 87: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Jc]
+jerry7894561: raises $0.04 to $0.06
+Lyonhearth: folds 
+lawlex_2: folds 
+Fe l ET 87: raises $0.04 to $0.10
+GoodmanAR: folds 
+jerry7894561: calls $0.04
+*** FLOP *** [3c 7d Ks]
+Fe l ET 87: bets $0.11
+jerry7894561: calls $0.11
+*** TURN *** [3c 7d Ks] [Js]
+Fe l ET 87: checks 
+jerry7894561: checks 
+*** RIVER *** [3c 7d Ks Js] [Kc]
+Fe l ET 87: bets $0.57 and is all-in
+jerry7894561: calls $0.57
+*** SHOW DOWN ***
+Fe l ET 87: shows [Ad 2h] (a pair of Kings)
+jerry7894561: shows [Ac Qd] (a pair of Kings - Ace+Queen kicker)
+jerry7894561 collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.58 | Rake $0.06 
+Board [3c 7d Ks Js Kc]
+Seat 1: jerry7894561 showed [Ac Qd] and won ($1.52) with a pair of Kings
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Fe l ET 87 (small blind) showed [Ad 2h] and lost with a pair of Kings
+Seat 6: GoodmanAR (big blind) folded before Flop
+
+
+
+PokerStars Hand #213674241478:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:21:19 MSK [2020/05/11 1:21:19 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($2.94 in chips) 
+Seat 3: Lyonhearth ($11.49 in chips) 
+Seat 4: lawlex_2 ($1.56 in chips) 
+Seat 6: GoodmanAR ($1.98 in chips) 
+jerry7894561: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Ah]
+lawlex_2: raises $0.04 to $0.06
+Fe l ET 87 leaves the table
+GoodmanAR: calls $0.06
+jerry7894561: folds 
+Lyonhearth: folds 
+*** FLOP *** [4d 9h 6c]
+lawlex_2: bets $0.09
+leonid1399 joins the table at seat #5 
+GoodmanAR: calls $0.09
+*** TURN *** [4d 9h 6c] [Jh]
+lawlex_2: bets $0.21
+GoodmanAR: folds 
+Uncalled bet ($0.21) returned to lawlex_2
+lawlex_2 collected $0.32 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [4d 9h 6c Jh]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 3: Lyonhearth (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.32)
+Seat 6: GoodmanAR (button) folded on the Turn
+
+
+
+PokerStars Hand #213674250869:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:21:52 MSK [2020/05/11 1:21:52 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($2.93 in chips) 
+Seat 3: Lyonhearth ($11.47 in chips) 
+Seat 4: lawlex_2 ($1.73 in chips) 
+Seat 6: GoodmanAR ($1.83 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+leonid1399: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Ts]
+GoodmanAR: folds 
+jerry7894561: raises $0.04 to $0.06
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to jerry7894561
+jerry7894561 collected $0.05 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (button) collected ($0.05)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 6: GoodmanAR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674254435:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:22:05 MSK [2020/05/11 1:22:05 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($2.96 in chips) 
+Seat 3: Lyonhearth ($11.46 in chips) 
+Seat 4: lawlex_2 ($1.71 in chips) 
+Seat 5: leonid1399 ($2 in chips) 
+Seat 6: GoodmanAR ($1.83 in chips) 
+lawlex_2: posts small blind $0.01
+leonid1399: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 7d]
+GoodmanAR: folds 
+jerry7894561: folds 
+Lyonhearth: raises $0.03 to $0.05
+lawlex_2: folds 
+leonid1399: calls $0.03
+*** FLOP *** [Qs Jc 5d]
+leonid1399: checks 
+Lyonhearth: bets $0.04
+leonid1399: calls $0.04
+*** TURN *** [Qs Jc 5d] [3s]
+leonid1399: checks 
+Lyonhearth: bets $0.10
+leonid1399: calls $0.10
+*** RIVER *** [Qs Jc 5d 3s] [3c]
+leonid1399: checks 
+Lyonhearth: bets $0.38
+leonid1399: raises $0.38 to $0.76
+Lyonhearth: calls $0.38
+*** SHOW DOWN ***
+leonid1399: shows [Qd Jh] (two pair, Queens and Jacks)
+Lyonhearth: mucks hand 
+leonid1399 collected $1.84 from pot
+*** SUMMARY ***
+Total pot $1.91 | Rake $0.07 
+Board [Qs Jc 5d 3s 3c]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 3: Lyonhearth (button) mucked [Ad Qc]
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: leonid1399 (big blind) showed [Qd Jh] and won ($1.84) with two pair, Queens and Jacks
+Seat 6: GoodmanAR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674268750:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:22:52 MSK [2020/05/11 1:22:52 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($2.96 in chips) 
+Seat 3: Lyonhearth ($10.51 in chips) 
+Seat 4: lawlex_2 ($1.70 in chips) 
+Seat 5: leonid1399 ($2.89 in chips) 
+Seat 6: GoodmanAR ($1.83 in chips) 
+leonid1399: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 2s]
+jerry7894561: folds 
+Lyonhearth: folds 
+lawlex_2: raises $0.04 to $0.06
+leonid1399: folds 
+GoodmanAR: calls $0.04
+*** FLOP *** [7s 2h 6s]
+GoodmanAR: checks 
+lawlex_2: bets $0.09
+GoodmanAR: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7s 2h 6s]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) collected ($0.13)
+Seat 5: leonid1399 (small blind) folded before Flop
+Seat 6: GoodmanAR (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213674277064:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:23:21 MSK [2020/05/11 1:23:21 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($2.96 in chips) 
+Seat 3: Lyonhearth ($10.51 in chips) 
+Seat 4: lawlex_2 ($1.77 in chips) 
+Seat 5: leonid1399 ($2.88 in chips) 
+Seat 6: GoodmanAR ($2 in chips) 
+GoodmanAR: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Jc]
+Lyonhearth: folds 
+lawlex_2: folds 
+leonid1399: folds 
+GoodmanAR: raises $0.04 to $0.06
+jerry7894561: calls $0.04
+*** FLOP *** [4h 5c Kd]
+GoodmanAR: checks 
+jerry7894561: checks 
+*** TURN *** [4h 5c Kd] [8c]
+GoodmanAR: bets $0.04
+jerry7894561: calls $0.04
+*** RIVER *** [4h 5c Kd 8c] [3h]
+GoodmanAR: bets $0.14
+jerry7894561: calls $0.14
+*** SHOW DOWN ***
+GoodmanAR: shows [Ah 7h] (high card Ace)
+jerry7894561: shows [9c Kc] (a pair of Kings)
+jerry7894561 collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [4h 5c Kd 8c 3h]
+Seat 1: jerry7894561 (big blind) showed [9c Kc] and won ($0.46) with a pair of Kings
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: leonid1399 (button) folded before Flop (didn't bet)
+Seat 6: GoodmanAR (small blind) showed [Ah 7h] and lost with high card Ace
+
+
+
+PokerStars Hand #213674290686:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:24:09 MSK [2020/05/11 1:24:09 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.18 in chips) 
+Seat 3: Lyonhearth ($10.51 in chips) 
+Seat 4: lawlex_2 ($1.77 in chips) 
+Seat 5: leonid1399 ($2.88 in chips) 
+Seat 6: GoodmanAR ($2 in chips) 
+jerry7894561: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 3s]
+lawlex_2: folds 
+leonid1399: folds 
+GoodmanAR: folds 
+jerry7894561: calls $0.01
+Lyonhearth: raises $0.05 to $0.07
+jerry7894561: folds 
+Uncalled bet ($0.05) returned to Lyonhearth
+Lyonhearth collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 3: Lyonhearth (big blind) collected ($0.04)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: leonid1399 folded before Flop (didn't bet)
+Seat 6: GoodmanAR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674296966:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:24:32 MSK [2020/05/11 1:24:32 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.16 in chips) 
+Seat 3: Lyonhearth ($10.53 in chips) 
+Seat 4: lawlex_2 ($1.77 in chips) 
+Seat 5: leonid1399 ($2.88 in chips) 
+Seat 6: GoodmanAR ($2 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Td]
+leonid1399: folds 
+GoodmanAR: raises $0.04 to $0.06
+jerry7894561: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to GoodmanAR
+GoodmanAR collected $0.05 from pot
+GoodmanAR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: leonid1399 folded before Flop (didn't bet)
+Seat 6: GoodmanAR collected ($0.05)
+
+
+
+PokerStars Hand #213674300608:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:24:45 MSK [2020/05/11 1:24:45 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.16 in chips) 
+Seat 3: Lyonhearth ($10.52 in chips) 
+Seat 4: lawlex_2 ($1.75 in chips) 
+Seat 5: leonid1399 ($2.88 in chips) 
+Seat 6: GoodmanAR ($2.03 in chips) 
+lawlex_2: posts small blind $0.01
+leonid1399: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 7h]
+GoodmanAR: raises $0.04 to $0.06
+jerry7894561 has timed out
+jerry7894561: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+leonid1399: folds 
+Uncalled bet ($0.04) returned to GoodmanAR
+GoodmanAR collected $0.05 from pot
+GoodmanAR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 3: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: leonid1399 (big blind) folded before Flop
+Seat 6: GoodmanAR collected ($0.05)
+
+
+
+PokerStars Hand #213674314372:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:25:12 MSK [2020/05/11 1:25:12 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.16 in chips) 
+Seat 3: Lyonhearth ($10.52 in chips) 
+Seat 4: lawlex_2 ($1.74 in chips) 
+Seat 5: leonid1399 ($2.86 in chips) 
+Seat 6: GoodmanAR ($2.06 in chips) 
+leonid1399: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 5c]
+jerry7894561: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+leonid1399: folds 
+Uncalled bet ($0.01) returned to GoodmanAR
+GoodmanAR collected $0.02 from pot
+GoodmanAR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: leonid1399 (small blind) folded before Flop
+Seat 6: GoodmanAR (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213674316864:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:25:21 MSK [2020/05/11 1:25:21 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($3.16 in chips) 
+Seat 3: Lyonhearth ($10.52 in chips) 
+Seat 4: lawlex_2 ($1.74 in chips) 
+Seat 5: leonid1399 ($2.85 in chips) 
+Seat 6: GoodmanAR ($2.07 in chips) 
+GoodmanAR: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 7s]
+Lyonhearth: folds 
+lawlex_2: raises $0.04 to $0.06
+leonid1399: folds 
+GoodmanAR: folds 
+jerry7894561: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (big blind) folded before Flop
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.05)
+Seat 5: leonid1399 (button) folded before Flop (didn't bet)
+Seat 6: GoodmanAR (small blind) folded before Flop
+
+
+
+PokerStars Hand #213674320628:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:25:34 MSK [2020/05/11 1:25:34 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.14 in chips) 
+Seat 3: Lyonhearth ($10.52 in chips) 
+Seat 4: lawlex_2 ($1.77 in chips) 
+Seat 5: leonid1399 ($2.85 in chips) 
+Seat 6: GoodmanAR ($2.06 in chips) 
+jerry7894561: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Js]
+lawlex_2: folds 
+leonid1399: folds 
+GoodmanAR: folds 
+jerry7894561: folds 
+Uncalled bet ($0.01) returned to Lyonhearth
+Lyonhearth collected $0.02 from pot
+JOSE VARGA5 was removed from the table for failing to post
+JOSE VARGA5 leaves the table
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 3: Lyonhearth (big blind) collected ($0.02)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: leonid1399 folded before Flop (didn't bet)
+Seat 6: GoodmanAR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674323122:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:25:43 MSK [2020/05/11 1:25:43 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.13 in chips) 
+Seat 3: Lyonhearth ($10.53 in chips) 
+Seat 4: lawlex_2 ($1.77 in chips) 
+Seat 5: leonid1399 ($2.85 in chips) 
+Seat 6: GoodmanAR ($2.06 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 2h]
+leonid1399: folds 
+GoodmanAR: folds 
+jerry7894561: folds 
+tina1008 joins the table at seat #2 
+Lyonhearth: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 5: leonid1399 folded before Flop (didn't bet)
+Seat 6: GoodmanAR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674326802:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:25:56 MSK [2020/05/11 1:25:56 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.13 in chips) 
+Seat 3: Lyonhearth ($10.52 in chips) 
+Seat 4: lawlex_2 ($1.78 in chips) 
+Seat 5: leonid1399 ($2.85 in chips) 
+Seat 6: GoodmanAR ($2.06 in chips) 
+lawlex_2: posts small blind $0.01
+leonid1399: posts big blind $0.02
+tina1008: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah As]
+GoodmanAR: folds 
+jerry7894561: folds 
+Lyonhearth: folds 
+lawlex_2: calls $0.01
+leonid1399: raises $0.06 to $0.08
+lawlex_2: calls $0.06
+*** FLOP *** [Jc Qh 5s]
+lawlex_2: checks 
+leonid1399: bets $0.14
+lawlex_2: calls $0.14
+*** TURN *** [Jc Qh 5s] [7s]
+lawlex_2: checks 
+leonid1399: bets $0.28
+lawlex_2: calls $0.28
+*** RIVER *** [Jc Qh 5s 7s] [8s]
+lawlex_2: checks 
+leonid1399: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Ah As] (a pair of Aces)
+leonid1399: mucks hand 
+lawlex_2 collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Jc Qh 5s 7s 8s]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 3: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) showed [Ah As] and won ($0.96) with a pair of Aces
+Seat 5: leonid1399 (big blind) mucked [Kd Ks]
+Seat 6: GoodmanAR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674338774:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:26:39 MSK [2020/05/11 1:26:39 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.13 in chips) 
+Seat 2: tina1008 ($0.82 in chips) 
+Seat 3: Lyonhearth ($10.52 in chips) 
+Seat 4: lawlex_2 ($2.24 in chips) 
+Seat 5: leonid1399 ($2.35 in chips) 
+Seat 6: GoodmanAR ($2.06 in chips) 
+leonid1399: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+tina1008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Ac]
+jerry7894561: raises $0.06 to $0.08
+tina1008: calls $0.06
+Lyonhearth: folds 
+lawlex_2: folds 
+leonid1399: calls $0.07
+GoodmanAR: folds 
+*** FLOP *** [8c Qh Kh]
+leonid1399: checks 
+jerry7894561: bets $0.09
+tina1008: calls $0.09
+leonid1399: folds 
+*** TURN *** [8c Qh Kh] [Js]
+jerry7894561: checks 
+tina1008: checks 
+*** RIVER *** [8c Qh Kh Js] [9s]
+jerry7894561: bets $0.21
+tina1008: calls $0.21
+*** SHOW DOWN ***
+jerry7894561: shows [Tc Kd] (a straight, Nine to King)
+tina1008: mucks hand 
+jerry7894561 collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.03 
+Board [8c Qh Kh Js 9s]
+Seat 1: jerry7894561 showed [Tc Kd] and won ($0.83) with a straight, Nine to King
+Seat 2: tina1008 mucked [Kc 4h]
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: leonid1399 (small blind) folded on the Flop
+Seat 6: GoodmanAR (big blind) folded before Flop
+
+
+
+PokerStars Hand #213674350882:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:27:23 MSK [2020/05/11 1:27:23 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($3.58 in chips) 
+Seat 2: tina1008 ($0.44 in chips) 
+Seat 3: Lyonhearth ($10.52 in chips) 
+Seat 4: lawlex_2 ($2.24 in chips) 
+Seat 5: leonid1399 ($2.27 in chips) 
+Seat 6: GoodmanAR ($2.04 in chips) 
+GoodmanAR: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 5s]
+tina1008: calls $0.02
+Lyonhearth: folds 
+lawlex_2: folds 
+leonid1399: raises $0.06 to $0.08
+GoodmanAR: folds 
+jerry7894561: calls $0.06
+tina1008: calls $0.06
+*** FLOP *** [8c 6c 8d]
+jerry7894561: checks 
+tina1008: checks 
+leonid1399: checks 
+*** TURN *** [8c 6c 8d] [4d]
+jerry7894561: checks 
+tina1008: checks 
+leonid1399: bets $0.16
+jerry7894561: calls $0.16
+tina1008: folds 
+*** RIVER *** [8c 6c 8d 4d] [9h]
+jerry7894561: bets $0.32
+leonid1399: folds 
+Uncalled bet ($0.32) returned to jerry7894561
+jerry7894561 collected $0.55 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [8c 6c 8d 4d 9h]
+Seat 1: jerry7894561 (big blind) collected ($0.55)
+Seat 2: tina1008 folded on the Turn
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: leonid1399 (button) folded on the River
+Seat 6: GoodmanAR (small blind) folded before Flop
+
+
+
+PokerStars Hand #213674366973:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:28:21 MSK [2020/05/11 1:28:21 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.89 in chips) 
+Seat 2: tina1008 ($0.36 in chips) 
+Seat 3: Lyonhearth ($10.52 in chips) 
+Seat 4: lawlex_2 ($2.24 in chips) 
+Seat 5: leonid1399 ($2.03 in chips) 
+Seat 6: GoodmanAR ($2.03 in chips) 
+jerry7894561: posts small blind $0.01
+tina1008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Tc]
+Lyonhearth: folds 
+lawlex_2: folds 
+leonid1399: raises $0.03 to $0.05
+GoodmanAR: folds 
+jerry7894561: folds 
+tina1008: calls $0.03
+*** FLOP *** [6s Jd Qh]
+tina1008: checks 
+leonid1399: bets $0.08
+tina1008: folds 
+Uncalled bet ($0.08) returned to leonid1399
+leonid1399 collected $0.11 from pot
+leonid1399: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6s Jd Qh]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: tina1008 (big blind) folded on the Flop
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: leonid1399 collected ($0.11)
+Seat 6: GoodmanAR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674373039:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:28:42 MSK [2020/05/11 1:28:42 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: tina1008 ($0.31 in chips) 
+Seat 3: Lyonhearth ($10.52 in chips) 
+Seat 4: lawlex_2 ($2.24 in chips) 
+Seat 5: leonid1399 ($2.09 in chips) 
+Seat 6: GoodmanAR ($2.03 in chips) 
+tina1008: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 6s]
+lawlex_2: folds 
+leonid1399: folds 
+GoodmanAR: folds 
+jerry7894561: folds 
+tina1008: calls $0.01
+Lyonhearth: raises $0.05 to $0.07
+tina1008: calls $0.05
+*** FLOP *** [3h 5c 9h]
+tina1008: checks 
+Lyonhearth: checks 
+*** TURN *** [3h 5c 9h] [2h]
+tina1008: checks 
+Lyonhearth: checks 
+*** RIVER *** [3h 5c 9h 2h] [8d]
+tina1008: checks 
+Lyonhearth: checks 
+*** SHOW DOWN ***
+tina1008: shows [Kh 3s] (a pair of Threes)
+Lyonhearth: mucks hand 
+tina1008 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3h 5c 9h 2h 8d]
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: tina1008 (small blind) showed [Kh 3s] and won ($0.14) with a pair of Threes
+Seat 3: Lyonhearth (big blind) mucked [Jc 7c]
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: leonid1399 folded before Flop (didn't bet)
+Seat 6: GoodmanAR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674387316:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:29:34 MSK [2020/05/11 1:29:34 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: tina1008 ($0.38 in chips) 
+Seat 3: Lyonhearth ($10.45 in chips) 
+Seat 4: lawlex_2 ($2.24 in chips) 
+Seat 5: leonid1399 ($2.09 in chips) 
+Seat 6: GoodmanAR ($2.03 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 3d]
+leonid1399: folds 
+GoodmanAR: folds 
+jerry7894561: folds 
+tina1008: calls $0.02
+Lyonhearth: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [4h 7h Qc]
+Lyonhearth: bets $0.02
+lawlex_2: folds 
+tina1008: calls $0.02
+*** TURN *** [4h 7h Qc] [3c]
+Lyonhearth: bets $0.06
+tina1008: folds 
+Uncalled bet ($0.06) returned to Lyonhearth
+Lyonhearth collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4h 7h Qc 3c]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: tina1008 (button) folded on the Turn
+Seat 3: Lyonhearth (small blind) collected ($0.10)
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: leonid1399 folded before Flop (didn't bet)
+Seat 6: GoodmanAR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674398346:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:30:15 MSK [2020/05/11 1:30:15 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: tina1008 ($0.34 in chips) 
+Seat 3: Lyonhearth ($10.51 in chips) 
+Seat 4: lawlex_2 ($2.22 in chips) 
+Seat 5: leonid1399 ($2.09 in chips) 
+Seat 6: GoodmanAR ($2.03 in chips) 
+lawlex_2: posts small blind $0.01
+leonid1399: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Kh]
+GoodmanAR: folds 
+jerry7894561: folds 
+tina1008: calls $0.02
+Lyonhearth: folds 
+lawlex_2: raises $0.04 to $0.06
+leonid1399: folds 
+tina1008: calls $0.04
+*** FLOP *** [Qs 5s Kd]
+lawlex_2: bets $0.09
+tina1008: calls $0.09
+*** TURN *** [Qs 5s Kd] [Jc]
+lawlex_2: bets $0.21
+tina1008: calls $0.19 and is all-in
+Uncalled bet ($0.02) returned to lawlex_2
+*** RIVER *** [Qs 5s Kd Jc] [9d]
+*** SHOW DOWN ***
+lawlex_2: shows [Tc Kh] (a straight, Nine to King)
+tina1008: shows [Jd Jh] (three of a kind, Jacks)
+lawlex_2 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [Qs 5s Kd Jc 9d]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: tina1008 showed [Jd Jh] and lost with three of a kind, Jacks
+Seat 3: Lyonhearth (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) showed [Tc Kh] and won ($0.68) with a straight, Nine to King
+Seat 5: leonid1399 (big blind) folded before Flop
+Seat 6: GoodmanAR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674408896:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:30:53 MSK [2020/05/11 1:30:53 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 3: Lyonhearth ($10.51 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: leonid1399 ($2.07 in chips) 
+Seat 6: GoodmanAR ($2.03 in chips) 
+leonid1399: posts small blind $0.01
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 5s]
+jerry7894561: folds 
+Lyonhearth: raises $0.04 to $0.06
+lawlex_2: folds 
+tina1008 leaves the table
+leonid1399: folds 
+GoodmanAR: folds 
+Uncalled bet ($0.04) returned to Lyonhearth
+Lyonhearth collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 3: Lyonhearth collected ($0.05)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: leonid1399 (small blind) folded before Flop
+Seat 6: GoodmanAR (big blind) folded before Flop
+
+
+
+PokerStars Hand #213674412323:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:31:05 MSK [2020/05/11 1:31:05 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 3: Lyonhearth ($10.54 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: leonid1399 ($2.06 in chips) 
+Seat 6: GoodmanAR ($2.01 in chips) 
+GoodmanAR: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 9s]
+RuslanLeyman joins the table at seat #2 
+Lyonhearth: folds 
+lawlex_2: folds 
+leonid1399: raises $0.03 to $0.05
+GoodmanAR: folds 
+jerry7894561: folds 
+Uncalled bet ($0.03) returned to leonid1399
+leonid1399 collected $0.05 from pot
+leonid1399: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (big blind) folded before Flop
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: leonid1399 (button) collected ($0.05)
+Seat 6: GoodmanAR (small blind) folded before Flop
+
+
+
+PokerStars Hand #213674415968:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:31:19 MSK [2020/05/11 1:31:19 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.86 in chips) 
+Seat 2: RuslanLeyman ($0.80 in chips) 
+Seat 3: Lyonhearth ($10.54 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: leonid1399 ($2.09 in chips) 
+Seat 6: GoodmanAR ($2 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 2d]
+Lyonhearth: folds 
+lawlex_2: folds 
+leonid1399: folds 
+GoodmanAR: folds 
+jerry7894561: raises $0.04 to $0.06
+RuslanLeyman: folds 
+Uncalled bet ($0.04) returned to jerry7894561
+jerry7894561 collected $0.04 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jerry7894561 (small blind) collected ($0.04)
+Seat 2: RuslanLeyman (big blind) folded before Flop
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: leonid1399 folded before Flop (didn't bet)
+Seat 6: GoodmanAR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674421206:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:31:38 MSK [2020/05/11 1:31:38 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.78 in chips) 
+Seat 3: Lyonhearth ($10.54 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: leonid1399 ($2.09 in chips) 
+Seat 6: GoodmanAR ($2 in chips) 
+RuslanLeyman: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Kd]
+lawlex_2: folds 
+leonid1399: folds 
+GoodmanAR: folds 
+jerry7894561: folds 
+RuslanLeyman: calls $0.01
+Lyonhearth: raises $0.04 to $0.06
+RuslanLeyman: folds 
+Uncalled bet ($0.04) returned to Lyonhearth
+Lyonhearth collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 3: Lyonhearth (big blind) collected ($0.04)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: leonid1399 folded before Flop (didn't bet)
+Seat 6: GoodmanAR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674426568:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:31:57 MSK [2020/05/11 1:31:57 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.76 in chips) 
+Seat 3: Lyonhearth ($10.56 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: leonid1399 ($2.09 in chips) 
+Seat 6: GoodmanAR ($2 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Qd]
+leonid1399: folds 
+GoodmanAR: folds 
+jerry7894561: folds 
+RuslanLeyman: raises $0.05 to $0.07
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.05) returned to RuslanLeyman
+RuslanLeyman collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (button) collected ($0.05)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: leonid1399 folded before Flop (didn't bet)
+Seat 6: GoodmanAR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674434966:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:32:28 MSK [2020/05/11 1:32:28 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.79 in chips) 
+Seat 3: Lyonhearth ($10.55 in chips) 
+Seat 4: lawlex_2 ($2.54 in chips) 
+Seat 6: GoodmanAR ($2 in chips) 
+lawlex_2: posts small blind $0.01
+leonid1399: is sitting out 
+GoodmanAR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 3c]
+jerry7894561: folds 
+RuslanLeyman: calls $0.02
+Lyonhearth: raises $0.08 to $0.10
+lawlex_2: folds 
+GoodmanAR: calls $0.08
+RuslanLeyman: folds 
+*** FLOP *** [6s Th 9c]
+leonid1399 leaves the table
+GoodmanAR: checks 
+Lyonhearth: checks 
+*** TURN *** [6s Th 9c] [9h]
+GoodmanAR: bets $0.10
+Tipon joins the table at seat #5 
+Lyonhearth: calls $0.10
+*** RIVER *** [6s Th 9c 9h] [Qh]
+GoodmanAR: checks 
+Lyonhearth: bets $0.30
+GoodmanAR: calls $0.30
+*** SHOW DOWN ***
+Lyonhearth: shows [7h 8h] (a flush, Queen high)
+GoodmanAR: mucks hand 
+Lyonhearth collected $0.99 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [6s Th 9c 9h Qh]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman folded before Flop
+Seat 3: Lyonhearth (button) showed [7h 8h] and won ($0.99) with a flush, Queen high
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 6: GoodmanAR (big blind) mucked [Kc Jc]
+
+
+
+PokerStars Hand #213674453563:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:33:35 MSK [2020/05/11 1:33:35 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.77 in chips) 
+Seat 3: Lyonhearth ($11.04 in chips) 
+Seat 4: lawlex_2 ($2.53 in chips) 
+Seat 6: GoodmanAR ($2 in chips) 
+GoodmanAR: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Kd]
+RuslanLeyman: folds 
+Lyonhearth: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+GoodmanAR: folds 
+Uncalled bet ($0.01) returned to jerry7894561
+jerry7894561 collected $0.02 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (big blind) collected ($0.02)
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: GoodmanAR (small blind) folded before Flop
+
+
+
+PokerStars Hand #213674458284:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:33:52 MSK [2020/05/11 1:33:52 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.89 in chips) 
+Seat 2: RuslanLeyman ($0.77 in chips) 
+Seat 3: Lyonhearth ($11.04 in chips) 
+Seat 4: lawlex_2 ($2.53 in chips) 
+Seat 5: Tipon ($2 in chips) 
+Seat 6: GoodmanAR ($1.99 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+Tipon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Kh]
+Lyonhearth: folds 
+lawlex_2: raises $0.04 to $0.06
+Tipon: folds 
+GoodmanAR: folds 
+jerry7894561: folds 
+RuslanLeyman: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+Tipon leaves the table
+lawlex_2 collected $0.07 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) folded before Flop
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.07)
+Seat 5: Tipon folded before Flop (didn't bet)
+Seat 6: GoodmanAR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674463405:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:34:10 MSK [2020/05/11 1:34:10 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.75 in chips) 
+Seat 3: Lyonhearth ($11.04 in chips) 
+Seat 4: lawlex_2 ($2.58 in chips) 
+Seat 6: GoodmanAR ($1.99 in chips) 
+RuslanLeyman: posts small blind $0.01
+Lyonhearth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 2d]
+lawlex_2: folds 
+GoodmanAR: folds 
+jerry7894561: folds 
+RuslanLeyman: calls $0.01
+GoodmanAR leaves the table
+Lyonhearth: checks 
+*** FLOP *** [3c Qd 6d]
+RuslanLeyman: bets $0.02
+Lyonhearth: folds 
+Uncalled bet ($0.02) returned to RuslanLeyman
+RuslanLeyman collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3c Qd 6d]
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (small blind) collected ($0.04)
+Seat 3: Lyonhearth (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 6: GoodmanAR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674468594:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:34:29 MSK [2020/05/11 1:34:29 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.77 in chips) 
+Seat 3: Lyonhearth ($11.02 in chips) 
+Seat 4: lawlex_2 ($2.58 in chips) 
+Lyonhearth: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 6d]
+jerry7894561: raises $0.04 to $0.06
+RuslanLeyman: folds 
+Lyonhearth: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to jerry7894561
+jerry7894561 collected $0.05 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 collected ($0.05)
+Seat 2: RuslanLeyman (button) folded before Flop (didn't bet)
+Seat 3: Lyonhearth (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213674471677:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:34:41 MSK [2020/05/11 1:34:41 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.91 in chips) 
+Seat 2: RuslanLeyman ($0.77 in chips) 
+Seat 3: Lyonhearth ($11.01 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+lawlex_2: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 2d]
+RuslanLeyman: raises $0.04 to $0.06
+Lyonhearth: raises $0.10 to $0.16
+lawlex_2: folds 
+jerry7894561: folds 
+RuslanLeyman: folds 
+Uncalled bet ($0.10) returned to Lyonhearth
+Lyonhearth collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: jerry7894561 (big blind) folded before Flop
+Seat 2: RuslanLeyman folded before Flop
+Seat 3: Lyonhearth (button) collected ($0.15)
+Seat 4: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213674476290:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:34:58 MSK [2020/05/11 1:34:58 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.89 in chips) 
+Seat 2: RuslanLeyman ($0.71 in chips) 
+Seat 3: Lyonhearth ($11.10 in chips) 
+Seat 4: lawlex_2 ($2.55 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 3d]
+Lyonhearth: folds 
+lawlex_2: folds 
+jerry7894561: folds 
+Uncalled bet ($0.01) returned to RuslanLeyman
+RuslanLeyman collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) collected ($0.02)
+Seat 3: Lyonhearth folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674479743:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:35:10 MSK [2020/05/11 1:35:10 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.72 in chips) 
+Seat 4: lawlex_2 ($2.55 in chips) 
+RuslanLeyman: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 6s]
+jerry7894561: raises $0.04 to $0.06
+RuslanLeyman: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to jerry7894561
+jerry7894561 collected $0.05 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (button) collected ($0.05)
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213674481969:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:35:18 MSK [2020/05/11 1:35:18 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.91 in chips) 
+Seat 2: RuslanLeyman ($0.71 in chips) 
+Seat 4: lawlex_2 ($2.53 in chips) 
+lawlex_2: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Jc]
+RuslanLeyman: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to jerry7894561
+jerry7894561 collected $0.02 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (big blind) collected ($0.02)
+Seat 2: RuslanLeyman (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213674483704:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:35:25 MSK [2020/05/11 1:35:25 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.92 in chips) 
+Seat 2: RuslanLeyman ($0.71 in chips) 
+Seat 4: lawlex_2 ($2.52 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 9h]
+lawlex_2: raises $0.04 to $0.06
+jerry7894561: folds 
+RuslanLeyman: calls $0.04
+*** FLOP *** [4c 2c 2h]
+RuslanLeyman: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to RuslanLeyman
+RuslanLeyman collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c 2c 2h]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) collected ($0.13)
+Seat 4: lawlex_2 (button) folded on the Flop
+
+
+
+PokerStars Hand #213674489732:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:35:47 MSK [2020/05/11 1:35:47 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.91 in chips) 
+Seat 2: RuslanLeyman ($0.78 in chips) 
+Seat 4: lawlex_2 ($2.46 in chips) 
+RuslanLeyman: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Qh]
+jerry7894561: raises $0.04 to $0.06
+RuslanLeyman: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [8d 2h Kd]
+lawlex_2: bets $0.09
+jerry7894561: calls $0.09
+*** TURN *** [8d 2h Kd] [Jd]
+lawlex_2: checks 
+Lyonhearth leaves the table
+jerry7894561: checks 
+*** RIVER *** [8d 2h Kd Jd] [Ah]
+lawlex_2: checks 
+jerry7894561: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Qs Qh] (a pair of Queens)
+jerry7894561: mucks hand 
+lawlex_2 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [8d 2h Kd Jd Ah]
+Seat 1: jerry7894561 (button) mucked [9s 9h]
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) showed [Qs Qh] and won ($0.30) with a pair of Queens
+
+
+
+PokerStars Hand #213674498636:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:36:19 MSK [2020/05/11 1:36:19 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.76 in chips) 
+Seat 2: RuslanLeyman ($0.77 in chips) 
+Seat 4: lawlex_2 ($2.61 in chips) 
+lawlex_2: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Jh]
+RuslanLeyman: folds 
+lawlex_2: raises $0.04 to $0.06
+jerry7894561: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jerry7894561 (big blind) folded before Flop
+Seat 2: RuslanLeyman (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213674503172:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:36:36 MSK [2020/05/11 1:36:36 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.74 in chips) 
+Seat 2: RuslanLeyman ($0.77 in chips) 
+Seat 4: lawlex_2 ($2.63 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Ts]
+lawlex_2: folds 
+jerry7894561: folds 
+Uncalled bet ($0.01) returned to RuslanLeyman
+RuslanLeyman collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) collected ($0.02)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674505046:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:36:43 MSK [2020/05/11 1:36:43 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.73 in chips) 
+Seat 2: RuslanLeyman ($0.78 in chips) 
+Seat 4: lawlex_2 ($2.63 in chips) 
+RuslanLeyman: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 9h]
+jerry7894561: folds 
+RuslanLeyman: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+Aldanc joins the table at seat #3 
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213674506697:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:36:49 MSK [2020/05/11 1:36:49 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.73 in chips) 
+Seat 2: RuslanLeyman ($0.77 in chips) 
+Seat 4: lawlex_2 ($2.64 in chips) 
+lawlex_2: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 3s]
+RuslanLeyman: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+jerry7894561: folds 
+RuslanLeyman: calls $0.04
+*** FLOP *** [Jh Td 4d]
+lawlex_2: bets $0.09
+RuslanLeyman: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jh Td 4d]
+Seat 1: jerry7894561 (big blind) folded before Flop
+Seat 2: RuslanLeyman (button) folded on the Flop
+Seat 4: lawlex_2 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #213674513104:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:37:12 MSK [2020/05/11 1:37:12 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.71 in chips) 
+Seat 2: RuslanLeyman ($0.71 in chips) 
+Seat 4: lawlex_2 ($2.72 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+Aldanc: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 6s]
+lawlex_2: folds 
+jerry7894561: folds 
+Uncalled bet ($0.01) returned to RuslanLeyman
+RuslanLeyman collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) collected ($0.02)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674516106:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:37:23 MSK [2020/05/11 1:37:23 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.70 in chips) 
+Seat 2: RuslanLeyman ($0.72 in chips) 
+Seat 3: Aldanc ($2 in chips) 
+Seat 4: lawlex_2 ($2.72 in chips) 
+RuslanLeyman: posts small blind $0.01
+Aldanc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 2d]
+lawlex_2: folds 
+jerry7894561: folds 
+RuslanLeyman: folds 
+Uncalled bet ($0.01) returned to Aldanc
+Aldanc collected $0.02 from pot
+Aldanc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 3: Aldanc (big blind) collected ($0.02)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674518163:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:37:31 MSK [2020/05/11 1:37:31 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.70 in chips) 
+Seat 2: RuslanLeyman ($0.71 in chips) 
+Seat 3: Aldanc ($2.01 in chips) 
+Seat 4: lawlex_2 ($2.72 in chips) 
+Aldanc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 5d]
+ehvpsv1971 joins the table at seat #5 
+jerry7894561: raises $0.04 to $0.06
+RuslanLeyman: folds 
+Aldanc: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to jerry7894561
+jerry7894561 collected $0.05 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 collected ($0.05)
+Seat 2: RuslanLeyman (button) folded before Flop (didn't bet)
+Seat 3: Aldanc (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213674521220:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:37:42 MSK [2020/05/11 1:37:42 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.73 in chips) 
+Seat 2: RuslanLeyman ($0.71 in chips) 
+Seat 3: Aldanc ($2 in chips) 
+Seat 4: lawlex_2 ($2.70 in chips) 
+Seat 5: ehvpsv1971 ($1.33 in chips) 
+lawlex_2: posts small blind $0.01
+ehvpsv1971: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 3d]
+jerry7894561: folds 
+RuslanLeyman: raises $0.04 to $0.06
+Aldanc: folds 
+lawlex_2: folds 
+ehvpsv1971: raises $1.27 to $1.33 and is all-in
+RuslanLeyman: calls $0.65 and is all-in
+Uncalled bet ($0.62) returned to ehvpsv1971
+*** FLOP *** [4h 7s Ad]
+*** TURN *** [4h 7s Ad] [2h]
+*** RIVER *** [4h 7s Ad 2h] [8s]
+*** SHOW DOWN ***
+ehvpsv1971: shows [As 9d] (a pair of Aces)
+RuslanLeyman: shows [Kd Ks] (a pair of Kings)
+ehvpsv1971 collected $1.38 from pot
+Ronscum joins the table at seat #6 
+RuslanLeyman cashed out the hand for $0.98 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.05 
+Board [4h 7s Ad 2h 8s]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman showed [Kd Ks] and lost with a pair of Kings (cashed out).
+Seat 3: Aldanc (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: ehvpsv1971 (big blind) showed [As 9d] and won ($1.38) with a pair of Aces
+
+
+
+PokerStars Hand #213674527600:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:38:05 MSK [2020/05/11 1:38:05 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.73 in chips) 
+Seat 2: RuslanLeyman ($0.98 in chips) 
+Seat 3: Aldanc ($2 in chips) 
+Seat 4: lawlex_2 ($2.69 in chips) 
+Seat 5: ehvpsv1971 ($2 in chips) 
+Seat 6: Ronscum ($2 in chips) 
+ehvpsv1971: posts small blind $0.01
+Ronscum: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 4d]
+jerry7894561: folds 
+RuslanLeyman: calls $0.02
+Aldanc: folds 
+lawlex_2: folds 
+ehvpsv1971: raises $0.02 to $0.04
+Ronscum: folds 
+RuslanLeyman: calls $0.02
+*** FLOP *** [2d 8c 2h]
+ehvpsv1971: bets $0.08
+RuslanLeyman: raises $0.08 to $0.16
+ehvpsv1971: folds 
+Uncalled bet ($0.08) returned to RuslanLeyman
+RuslanLeyman collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [2d 8c 2h]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman collected ($0.25)
+Seat 3: Aldanc folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: ehvpsv1971 (small blind) folded on the Flop
+Seat 6: Ronscum (big blind) folded before Flop
+
+
+
+PokerStars Hand #213674534913:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:38:31 MSK [2020/05/11 1:38:31 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($3.73 in chips) 
+Seat 2: RuslanLeyman ($1.11 in chips) 
+Seat 3: Aldanc ($2 in chips) 
+Seat 4: lawlex_2 ($2.69 in chips) 
+Seat 5: ehvpsv1971 ($1.88 in chips) 
+Seat 6: Ronscum ($1.98 in chips) 
+Ronscum: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 8h]
+RuslanLeyman: folds 
+Aldanc: folds 
+lawlex_2: folds 
+ehvpsv1971: raises $0.04 to $0.06
+Ronscum: calls $0.05
+jerry7894561: folds 
+*** FLOP *** [4s Ad Kc]
+Ronscum: checks 
+ehvpsv1971: bets $0.06
+Ronscum: folds 
+Uncalled bet ($0.06) returned to ehvpsv1971
+ehvpsv1971 collected $0.14 from pot
+ehvpsv1971: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4s Ad Kc]
+Seat 1: jerry7894561 (big blind) folded before Flop
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: Aldanc folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ehvpsv1971 (button) collected ($0.14)
+Seat 6: Ronscum (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213674546975:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:39:03 MSK [2020/05/11 1:39:03 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.71 in chips) 
+Seat 2: RuslanLeyman ($1.11 in chips) 
+Seat 3: Aldanc ($2 in chips) 
+Seat 4: lawlex_2 ($2.69 in chips) 
+Seat 5: ehvpsv1971 ($1.96 in chips) 
+Seat 6: Ronscum ($1.92 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 2s]
+Aldanc: raises $0.06 to $0.08
+lawlex_2: folds 
+ehvpsv1971: folds 
+ehvpsv1971 leaves the table
+Ronscum: calls $0.08
+jerry7894561: folds 
+RuslanLeyman: folds 
+*** FLOP *** [4c 2h 5h]
+Aldanc: bets $0.10
+parkoll joins the table at seat #5 
+Ronscum: calls $0.10
+*** TURN *** [4c 2h 5h] [7c]
+Aldanc: checks 
+Ronscum: checks 
+*** RIVER *** [4c 2h 5h 7c] [Jc]
+Aldanc: checks 
+Ronscum: checks 
+*** SHOW DOWN ***
+Aldanc: shows [Ad Kc] (high card Ace)
+Ronscum: mucks hand 
+Aldanc collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [4c 2h 5h 7c Jc]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) folded before Flop
+Seat 3: Aldanc showed [Ad Kc] and won ($0.38) with high card Ace
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: ehvpsv1971 folded before Flop (didn't bet)
+Seat 6: Ronscum (button) mucked [6d Qh]
+
+
+
+PokerStars Hand #213674559420:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:39:48 MSK [2020/05/11 1:39:48 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.70 in chips) 
+Seat 2: RuslanLeyman ($1.09 in chips) 
+Seat 3: Aldanc ($2.20 in chips) 
+Seat 4: lawlex_2 ($2.69 in chips) 
+Seat 5: parkoll ($0.80 in chips) 
+Seat 6: Ronscum ($1.74 in chips) 
+RuslanLeyman: posts small blind $0.01
+Aldanc: posts big blind $0.02
+parkoll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Js]
+lawlex_2: folds 
+parkoll: checks 
+Ronscum: folds 
+jerry7894561: raises $0.06 to $0.08
+RuslanLeyman: folds 
+Aldanc: folds 
+parkoll: folds 
+Uncalled bet ($0.06) returned to jerry7894561
+jerry7894561 collected $0.07 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: jerry7894561 (button) collected ($0.07)
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 3: Aldanc (big blind) folded before Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: parkoll folded before Flop (didn't bet)
+Seat 6: Ronscum folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674564347:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:40:06 MSK [2020/05/11 1:40:06 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.75 in chips) 
+Seat 2: RuslanLeyman ($1.08 in chips) 
+Seat 3: Aldanc ($2.18 in chips) 
+Seat 4: lawlex_2 ($2.69 in chips) 
+Seat 5: parkoll ($0.78 in chips) 
+Seat 6: Ronscum ($1.74 in chips) 
+Aldanc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 9c]
+parkoll: folds 
+Ronscum: folds 
+jerry7894561: folds 
+RuslanLeyman: folds 
+Aldanc: raises $0.02 to $0.04
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to Aldanc
+Aldanc collected $0.04 from pot
+Aldanc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (button) folded before Flop (didn't bet)
+Seat 3: Aldanc (small blind) collected ($0.04)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: parkoll folded before Flop (didn't bet)
+Seat 6: Ronscum folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674569542:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:40:25 MSK [2020/05/11 1:40:25 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.75 in chips) 
+Seat 2: RuslanLeyman ($1.08 in chips) 
+Seat 3: Aldanc ($2.20 in chips) 
+Seat 4: lawlex_2 ($2.67 in chips) 
+Seat 5: parkoll ($0.78 in chips) 
+Seat 6: Ronscum ($1.74 in chips) 
+lawlex_2: posts small blind $0.01
+parkoll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d As]
+Ronscum: calls $0.02
+jerry7894561: folds 
+RuslanLeyman: calls $0.02
+Aldanc: folds 
+lawlex_2: raises $0.04 to $0.06
+parkoll: calls $0.04
+Ronscum: folds 
+RuslanLeyman: calls $0.04
+*** FLOP *** [Ad Kh 7h]
+lawlex_2: bets $0.13
+parkoll: calls $0.13
+RuslanLeyman: folds 
+*** TURN *** [Ad Kh 7h] [9d]
+lawlex_2: checks 
+parkoll: bets $0.06
+lawlex_2: calls $0.06
+*** RIVER *** [Ad Kh 7h 9d] [Qc]
+lawlex_2: checks 
+parkoll: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [6d As] (a pair of Aces)
+parkoll: shows [8h Ac] (a pair of Aces)
+lawlex_2 collected $0.28 from pot
+parkoll collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Ad Kh 7h 9d Qc]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman folded on the Flop
+Seat 3: Aldanc (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) showed [6d As] and won ($0.28) with a pair of Aces
+Seat 5: parkoll (big blind) showed [8h Ac] and won ($0.28) with a pair of Aces
+Seat 6: Ronscum folded before Flop
+
+
+
+PokerStars Hand #213674584289:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:41:19 MSK [2020/05/11 1:41:19 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.75 in chips) 
+Seat 2: RuslanLeyman ($1.02 in chips) 
+Seat 3: Aldanc ($2.20 in chips) 
+Seat 4: lawlex_2 ($2.70 in chips) 
+Seat 5: parkoll ($0.81 in chips) 
+Seat 6: Ronscum ($1.72 in chips) 
+parkoll: posts small blind $0.01
+Ronscum: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 3s]
+jerry7894561: folds 
+RuslanLeyman: folds 
+Aldanc: folds 
+lawlex_2: folds 
+parkoll: calls $0.01
+Ronscum: checks 
+*** FLOP *** [3h Ah As]
+parkoll: bets $0.04
+Ronscum: folds 
+Uncalled bet ($0.04) returned to parkoll
+parkoll collected $0.04 from pot
+parkoll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3h Ah As]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: Aldanc folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: parkoll (small blind) collected ($0.04)
+Seat 6: Ronscum (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213674589138:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:41:37 MSK [2020/05/11 1:41:37 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($3.75 in chips) 
+Seat 2: RuslanLeyman ($1.02 in chips) 
+Seat 3: Aldanc ($2.20 in chips) 
+Seat 4: lawlex_2 ($2.70 in chips) 
+Seat 5: parkoll ($0.83 in chips) 
+Seat 6: Ronscum ($1.70 in chips) 
+Ronscum: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Kh]
+RuslanLeyman: folds 
+Aldanc: folds 
+lawlex_2: calls $0.02
+parkoll: folds 
+Ronscum: calls $0.01
+jerry7894561: checks 
+*** FLOP *** [Qh Kc 8c]
+Ronscum: checks 
+jerry7894561: checks 
+lawlex_2: checks 
+*** TURN *** [Qh Kc 8c] [4h]
+Ronscum: checks 
+jerry7894561: checks 
+lawlex_2: bets $0.02
+Ronscum: folds 
+jerry7894561: folds 
+Uncalled bet ($0.02) returned to lawlex_2
+lawlex_2 collected $0.06 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qh Kc 8c 4h]
+Seat 1: jerry7894561 (big blind) folded on the Turn
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: Aldanc folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.06)
+Seat 5: parkoll (button) folded before Flop (didn't bet)
+Seat 6: Ronscum (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213674607307:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:42:08 MSK [2020/05/11 1:42:08 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.73 in chips) 
+Seat 2: RuslanLeyman ($1.02 in chips) 
+Seat 3: Aldanc ($2.20 in chips) 
+Seat 4: lawlex_2 ($2.74 in chips) 
+Seat 5: parkoll ($0.83 in chips) 
+Seat 6: Ronscum ($1.68 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 2s]
+Aldanc: raises $0.06 to $0.08
+lawlex_2: folds 
+parkoll: folds 
+Ronscum: calls $0.08
+jerry7894561: folds 
+RuslanLeyman: folds 
+*** FLOP *** [Ts 2d 6h]
+Aldanc: bets $0.09
+Ronscum: calls $0.09
+*** TURN *** [Ts 2d 6h] [7c]
+Aldanc: checks 
+Ronscum: checks 
+*** RIVER *** [Ts 2d 6h 7c] [9s]
+Aldanc: checks 
+Ronscum: bets $0.18
+Aldanc: folds 
+Uncalled bet ($0.18) returned to Ronscum
+Ronscum collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Ts 2d 6h 7c 9s]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) folded before Flop
+Seat 3: Aldanc folded on the River
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: parkoll folded before Flop (didn't bet)
+Seat 6: Ronscum (button) collected ($0.36)
+
+
+
+PokerStars Hand #213674619674:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:42:53 MSK [2020/05/11 1:42:53 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.72 in chips) 
+Seat 2: RuslanLeyman ($1 in chips) 
+Seat 3: Aldanc ($2.03 in chips) 
+Seat 4: lawlex_2 ($2.74 in chips) 
+Seat 5: parkoll ($0.83 in chips) 
+Seat 6: Ronscum ($1.87 in chips) 
+RuslanLeyman: posts small blind $0.01
+Aldanc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Qs]
+lawlex_2: folds 
+parkoll: folds 
+Ronscum: calls $0.02
+jerry7894561: folds 
+RuslanLeyman: folds 
+Aldanc: checks 
+*** FLOP *** [As 5d 5h]
+Aldanc: checks 
+Ronscum: checks 
+*** TURN *** [As 5d 5h] [5s]
+Aldanc: bets $0.05
+Ronscum: calls $0.05
+*** RIVER *** [As 5d 5h 5s] [3h]
+Aldanc: checks 
+Ronscum: checks 
+*** SHOW DOWN ***
+Aldanc: shows [3d 9s] (a full house, Fives full of Threes)
+Ronscum: mucks hand 
+Aldanc collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [As 5d 5h 5s 3h]
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 3: Aldanc (big blind) showed [3d 9s] and won ($0.14) with a full house, Fives full of Threes
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: parkoll folded before Flop (didn't bet)
+Seat 6: Ronscum mucked [Qh Tc]
+
+
+
+PokerStars Hand #213674628600:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:43:26 MSK [2020/05/11 1:43:26 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.72 in chips) 
+Seat 2: RuslanLeyman ($0.99 in chips) 
+Seat 3: Aldanc ($2.10 in chips) 
+Seat 4: lawlex_2 ($2.74 in chips) 
+Seat 5: parkoll ($0.83 in chips) 
+Seat 6: Ronscum ($1.80 in chips) 
+Aldanc: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 6c]
+parkoll: folds 
+Ronscum: folds 
+jerry7894561: raises $0.04 to $0.06
+RuslanLeyman: folds 
+Aldanc: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to jerry7894561
+jerry7894561 collected $0.05 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 collected ($0.05)
+Seat 2: RuslanLeyman (button) folded before Flop (didn't bet)
+Seat 3: Aldanc (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: parkoll folded before Flop (didn't bet)
+Seat 6: Ronscum folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674633941:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:43:46 MSK [2020/05/11 1:43:46 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.75 in chips) 
+Seat 2: RuslanLeyman ($0.99 in chips) 
+Seat 3: Aldanc ($2.09 in chips) 
+Seat 4: lawlex_2 ($2.72 in chips) 
+Seat 5: parkoll ($0.83 in chips) 
+Seat 6: Ronscum ($1.80 in chips) 
+lawlex_2: posts small blind $0.01
+parkoll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 3d]
+Ronscum: calls $0.02
+jerry7894561: folds 
+RuslanLeyman: calls $0.02
+Aldanc: raises $0.06 to $0.08
+lawlex_2: folds 
+parkoll: folds 
+Ronscum: calls $0.06
+RuslanLeyman: folds 
+*** FLOP *** [Jd 4d 8h]
+Ronscum: checks 
+Aldanc: bets $0.14
+Ronscum: folds 
+Uncalled bet ($0.14) returned to Aldanc
+Aldanc collected $0.20 from pot
+Aldanc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jd 4d 8h]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman folded before Flop
+Seat 3: Aldanc (button) collected ($0.20)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: parkoll (big blind) folded before Flop
+Seat 6: Ronscum folded on the Flop
+
+
+
+PokerStars Hand #213674643830:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:44:22 MSK [2020/05/11 1:44:22 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.75 in chips) 
+Seat 2: RuslanLeyman ($0.97 in chips) 
+Seat 3: Aldanc ($2.21 in chips) 
+Seat 4: lawlex_2 ($2.71 in chips) 
+Seat 5: parkoll ($0.81 in chips) 
+Seat 6: Ronscum ($1.72 in chips) 
+parkoll: posts small blind $0.01
+Ronscum: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Qc]
+jerry7894561: folds 
+RuslanLeyman: folds 
+Aldanc: raises $0.03 to $0.05
+lawlex_2: calls $0.05
+parkoll: folds 
+Ronscum: calls $0.03
+*** FLOP *** [Js 5d 3d]
+Ronscum: checks 
+parkoll leaves the table
+Aldanc: bets $0.10
+screatsmart joins the table at seat #5 
+lawlex_2: calls $0.10
+Ronscum: calls $0.10
+*** TURN *** [Js 5d 3d] [4d]
+Ronscum: checks 
+Aldanc: bets $0.22
+lawlex_2: folds 
+Ronscum: folds 
+Uncalled bet ($0.22) returned to Aldanc
+Aldanc collected $0.44 from pot
+Aldanc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Js 5d 3d 4d]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: Aldanc collected ($0.44)
+Seat 4: lawlex_2 (button) folded on the Turn
+Seat 5: parkoll (small blind) folded before Flop
+Seat 6: Ronscum (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213674659628:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:45:21 MSK [2020/05/11 1:45:21 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.75 in chips) 
+Seat 2: RuslanLeyman ($0.97 in chips) 
+Seat 3: Aldanc ($2.50 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: screatsmart ($2 in chips) 
+Seat 6: Ronscum ($1.57 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+screatsmart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 7d]
+Aldanc: folds 
+Aldanc leaves the table
+lawlex_2: folds 
+screatsmart: checks 
+Ronscum: calls $0.02
+jerry7894561: folds 
+RuslanLeyman: checks 
+*** FLOP *** [4d Ac 3c]
+RuslanLeyman: checks 
+screatsmart: checks 
+Ronscum: checks 
+*** TURN *** [4d Ac 3c] [Qs]
+RuslanLeyman: checks 
+screatsmart: checks 
+Ronscum: checks 
+*** RIVER *** [4d Ac 3c Qs] [4h]
+RuslanLeyman: checks 
+screatsmart: checks 
+Ronscum: checks 
+*** SHOW DOWN ***
+RuslanLeyman: shows [6d 9h] (a pair of Fours)
+screatsmart: shows [Ks Th] (a pair of Fours - Ace+King kicker)
+PokerGodURU joins the table at seat #3 
+Ronscum: mucks hand 
+screatsmart collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4d Ac 3c Qs 4h]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) showed [6d 9h] and lost with a pair of Fours
+Seat 3: Aldanc folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: screatsmart showed [Ks Th] and won ($0.07) with a pair of Fours
+Seat 6: Ronscum (button) mucked [9c 8s]
+
+
+
+PokerStars Hand #213674672842:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:46:10 MSK [2020/05/11 1:46:10 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.74 in chips) 
+Seat 2: RuslanLeyman ($0.95 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: screatsmart ($2.05 in chips) 
+Seat 6: Ronscum ($1.55 in chips) 
+RuslanLeyman: posts small blind $0.01
+PokerGodURU: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 2c]
+lawlex_2: folds 
+screatsmart: calls $0.02
+Ronscum: calls $0.02
+jerry7894561: folds 
+RuslanLeyman: folds 
+PokerGodURU: checks 
+*** FLOP *** [5h 4s Kd]
+PokerGodURU: checks 
+screatsmart: bets $0.04
+Ronscum: calls $0.04
+PokerGodURU: folds 
+*** TURN *** [5h 4s Kd] [Jd]
+screatsmart: bets $0.02
+Ronscum: calls $0.02
+*** RIVER *** [5h 4s Kd Jd] [3h]
+screatsmart: bets $0.08
+Ronscum: folds 
+Uncalled bet ($0.08) returned to screatsmart
+screatsmart collected $0.18 from pot
+screatsmart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h 4s Kd Jd 3h]
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 3: PokerGodURU (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: screatsmart collected ($0.18)
+Seat 6: Ronscum folded on the River
+
+
+
+PokerStars Hand #213674689806:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:47:12 MSK [2020/05/11 1:47:12 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.74 in chips) 
+Seat 2: RuslanLeyman ($0.94 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.56 in chips) 
+Seat 5: screatsmart ($2.15 in chips) 
+Seat 6: Ronscum ($1.47 in chips) 
+PokerGodURU: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 9s]
+screatsmart: folds 
+Ronscum: calls $0.02
+jerry7894561: raises $0.06 to $0.08
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: folds 
+Ronscum: calls $0.06
+*** FLOP *** [2s Th 4c]
+Ronscum: checks 
+jerry7894561: bets $0.06
+Ronscum: folds 
+Uncalled bet ($0.06) returned to jerry7894561
+jerry7894561 collected $0.18 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [2s Th 4c]
+Seat 1: jerry7894561 collected ($0.18)
+Seat 2: RuslanLeyman (button) folded before Flop (didn't bet)
+Seat 3: PokerGodURU (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: screatsmart folded before Flop (didn't bet)
+Seat 6: Ronscum folded on the Flop
+
+
+
+PokerStars Hand #213674699844:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:47:49 MSK [2020/05/11 1:47:49 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.84 in chips) 
+Seat 2: RuslanLeyman ($0.94 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.54 in chips) 
+Seat 5: screatsmart ($2.15 in chips) 
+Seat 6: Ronscum ($1.39 in chips) 
+lawlex_2: posts small blind $0.01
+screatsmart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 6d]
+Ronscum: raises $0.02 to $0.04
+jerry7894561: folds 
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: folds 
+screatsmart: calls $0.02
+*** FLOP *** [Kc 4h 4c]
+screatsmart: checks 
+Ronscum: bets $0.04
+screatsmart: calls $0.04
+*** TURN *** [Kc 4h 4c] [2h]
+screatsmart: bets $0.02
+Ronscum: calls $0.02
+*** RIVER *** [Kc 4h 4c 2h] [9h]
+screatsmart: bets $0.02
+Ronscum: calls $0.02
+*** SHOW DOWN ***
+screatsmart: shows [Tc Ad] (a pair of Fours)
+Ronscum: shows [Qd Ac] (a pair of Fours - Ace+King+Queen kicker)
+Ronscum collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kc 4h 4c 2h 9h]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: PokerGodURU (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: screatsmart (big blind) showed [Tc Ad] and lost with a pair of Fours
+Seat 6: Ronscum showed [Qd Ac] and won ($0.24) with a pair of Fours
+
+
+
+PokerStars Hand #213674711349:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:48:31 MSK [2020/05/11 1:48:31 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.84 in chips) 
+Seat 2: RuslanLeyman ($0.94 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.53 in chips) 
+Seat 5: screatsmart ($2.03 in chips) 
+Seat 6: Ronscum ($1.51 in chips) 
+screatsmart: posts small blind $0.01
+Ronscum: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 4d]
+jerry7894561: raises $0.04 to $0.06
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: folds 
+screatsmart: folds 
+Ronscum: calls $0.04
+*** FLOP *** [8s Ah 9s]
+Ronscum: checks 
+jerry7894561: checks 
+*** TURN *** [8s Ah 9s] [2h]
+Ronscum: checks 
+jerry7894561: bets $0.06
+Ronscum: folds 
+Uncalled bet ($0.06) returned to jerry7894561
+jerry7894561 collected $0.13 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8s Ah 9s 2h]
+Seat 1: jerry7894561 collected ($0.13)
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: screatsmart (small blind) folded before Flop
+Seat 6: Ronscum (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213674720889:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:49:06 MSK [2020/05/11 1:49:06 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($3.91 in chips) 
+Seat 2: RuslanLeyman ($0.94 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.53 in chips) 
+Seat 5: screatsmart ($2.02 in chips) 
+Seat 6: Ronscum ($1.45 in chips) 
+Ronscum: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 2s]
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: folds 
+screatsmart: calls $0.02
+Ronscum: calls $0.01
+jerry7894561: checks 
+*** FLOP *** [Kd 7c 6s]
+Ronscum: checks 
+jerry7894561: checks 
+screatsmart: checks 
+*** TURN *** [Kd 7c 6s] [Jc]
+Ronscum: checks 
+jerry7894561: checks 
+screatsmart: bets $0.04
+Ronscum: calls $0.04
+jerry7894561: folds 
+*** RIVER *** [Kd 7c 6s Jc] [Tc]
+Ronscum: checks 
+screatsmart: checks 
+*** SHOW DOWN ***
+Ronscum: shows [7d 3c] (a pair of Sevens)
+screatsmart: shows [Jh 4h] (a pair of Jacks)
+screatsmart collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Kd 7c 6s Jc Tc]
+Seat 1: jerry7894561 (big blind) folded on the Turn
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: screatsmart (button) showed [Jh 4h] and won ($0.14) with a pair of Jacks
+Seat 6: Ronscum (small blind) showed [7d 3c] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #213674735085:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:49:58 MSK [2020/05/11 1:49:58 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.89 in chips) 
+Seat 2: RuslanLeyman ($0.94 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.53 in chips) 
+Seat 5: screatsmart ($2.10 in chips) 
+Seat 6: Ronscum ($1.39 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 2d]
+PokerGodURU: folds 
+lawlex_2: folds 
+screatsmart: calls $0.02
+Ronscum: calls $0.02
+jerry7894561: folds 
+RuslanLeyman: checks 
+*** FLOP *** [4h 6d 3s]
+RuslanLeyman: checks 
+screatsmart: bets $0.06
+Ronscum: calls $0.06
+RuslanLeyman: folds 
+*** TURN *** [4h 6d 3s] [4d]
+screatsmart: checks 
+Ronscum: bets $0.02
+screatsmart: calls $0.02
+*** RIVER *** [4h 6d 3s 4d] [Qs]
+screatsmart: bets $0.04
+Ronscum: raises $0.30 to $0.34
+screatsmart: folds 
+Uncalled bet ($0.30) returned to Ronscum
+Ronscum collected $0.30 from pot
+Ronscum: shows [4c 3c] (a full house, Fours full of Threes)
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [4h 6d 3s 4d Qs]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) folded on the Flop
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: screatsmart folded on the River
+Seat 6: Ronscum (button) collected ($0.30)
+
+
+
+PokerStars Hand #213674749054:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:50:50 MSK [2020/05/11 1:50:50 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.92 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.53 in chips) 
+Seat 5: screatsmart ($1.96 in chips) 
+Seat 6: Ronscum ($1.55 in chips) 
+RuslanLeyman: posts small blind $0.01
+PokerGodURU: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 5s]
+lawlex_2: raises $0.04 to $0.06
+screatsmart: folds 
+Ronscum: calls $0.06
+jerry7894561: folds 
+RuslanLeyman: folds 
+PokerGodURU: folds 
+*** FLOP *** [7c Th Kh]
+lawlex_2: bets $0.09
+Ronscum: raises $0.09 to $0.18
+lawlex_2: calls $0.09
+*** TURN *** [7c Th Kh] [4c]
+lawlex_2: checks 
+Ronscum: bets $0.48
+lawlex_2: folds 
+Uncalled bet ($0.48) returned to Ronscum
+Ronscum collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [7c Th Kh 4c]
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 3: PokerGodURU (big blind) folded before Flop
+Seat 4: lawlex_2 folded on the Turn
+Seat 5: screatsmart folded before Flop (didn't bet)
+Seat 6: Ronscum collected ($0.49)
+
+
+
+PokerStars Hand #213674759290:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:51:28 MSK [2020/05/11 1:51:28 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.91 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.29 in chips) 
+Seat 5: screatsmart ($1.96 in chips) 
+Seat 6: Ronscum ($1.80 in chips) 
+PokerGodURU: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 3c]
+screatsmart: calls $0.02
+Ronscum: folds 
+jerry7894561: folds 
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: checks 
+*** FLOP *** [Ad 4c 7h]
+lawlex_2: checks 
+screatsmart: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to screatsmart
+screatsmart collected $0.05 from pot
+screatsmart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ad 4c 7h]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (button) folded before Flop (didn't bet)
+Seat 3: PokerGodURU (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: screatsmart collected ($0.05)
+Seat 6: Ronscum folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674764457:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:51:46 MSK [2020/05/11 1:51:46 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.91 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.27 in chips) 
+Seat 5: screatsmart ($1.99 in chips) 
+Seat 6: Ronscum ($1.80 in chips) 
+lawlex_2: posts small blind $0.01
+screatsmart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 6s]
+Ronscum: raises $0.02 to $0.04
+jerry7894561: folds 
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: folds 
+screatsmart: folds 
+Uncalled bet ($0.02) returned to Ronscum
+Ronscum collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: PokerGodURU (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: screatsmart (big blind) folded before Flop
+Seat 6: Ronscum collected ($0.05)
+
+
+
+PokerStars Hand #213674769510:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:52:05 MSK [2020/05/11 1:52:05 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.91 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.26 in chips) 
+Seat 5: screatsmart ($1.97 in chips) 
+Seat 6: Ronscum ($1.83 in chips) 
+screatsmart: posts small blind $0.01
+Ronscum: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 9h]
+jerry7894561: folds 
+RuslanLeyman: calls $0.02
+PokerGodURU: folds 
+lawlex_2: folds 
+screatsmart: calls $0.01
+Ronscum: checks 
+*** FLOP *** [Ks 3c 3h]
+screatsmart: bets $0.04
+Ronscum: raises $0.04 to $0.08
+RuslanLeyman: folds 
+screatsmart: calls $0.04
+*** TURN *** [Ks 3c 3h] [Ac]
+screatsmart: bets $0.07
+Ronscum: raises $0.07 to $0.14
+screatsmart: calls $0.07
+*** RIVER *** [Ks 3c 3h Ac] [8d]
+screatsmart: bets $0.30
+Ronscum: raises $1.29 to $1.59 and is all-in
+screatsmart: calls $1.29
+*** SHOW DOWN ***
+Ronscum: shows [8c 3s] (a full house, Threes full of Eights)
+screatsmart: shows [3d Qc] (three of a kind, Threes)
+Ronscum collected $3.55 from pot
+*** SUMMARY ***
+Total pot $3.68 | Rake $0.13 
+Board [Ks 3c 3h Ac 8d]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman folded on the Flop
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: screatsmart (small blind) showed [3d Qc] and lost with three of a kind, Threes
+Seat 6: Ronscum (big blind) showed [8c 3s] and won ($3.55) with a full house, Threes full of Eights
+
+
+
+PokerStars Hand #213674786743:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:53:09 MSK [2020/05/11 1:53:09 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($3.88 in chips) 
+Seat 2: RuslanLeyman ($0.89 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.26 in chips) 
+Seat 5: screatsmart ($0.14 in chips) 
+Seat 6: Ronscum ($3.55 in chips) 
+Ronscum: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Ac]
+RuslanLeyman: calls $0.02
+PokerGodURU: folds 
+lawlex_2: raises $0.04 to $0.06
+screatsmart: folds 
+Ronscum: calls $0.05
+jerry7894561: calls $0.04
+RuslanLeyman: folds 
+*** FLOP *** [Kd 3d Kh]
+Ronscum: checks 
+jerry7894561: checks 
+lawlex_2: checks 
+*** TURN *** [Kd 3d Kh] [3h]
+Ronscum: checks 
+jerry7894561: bets $0.04
+lawlex_2: calls $0.04
+Ronscum: folds 
+*** RIVER *** [Kd 3d Kh 3h] [Jc]
+jerry7894561: bets $0.04
+lawlex_2: calls $0.04
+*** SHOW DOWN ***
+jerry7894561: shows [7h 7s] (two pair, Kings and Sevens)
+lawlex_2: mucks hand 
+jerry7894561 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Kd 3d Kh 3h Jc]
+Seat 1: jerry7894561 (big blind) showed [7h 7s] and won ($0.35) with two pair, Kings and Sevens
+Seat 2: RuslanLeyman folded before Flop
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 mucked [9d Ac]
+Seat 5: screatsmart (button) folded before Flop (didn't bet)
+Seat 6: Ronscum (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213674799082:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:53:56 MSK [2020/05/11 1:53:56 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($4.09 in chips) 
+Seat 2: RuslanLeyman ($0.87 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.12 in chips) 
+Seat 5: screatsmart ($0.14 in chips) 
+Seat 6: Ronscum ($3.49 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 3s]
+PokerGodURU: folds 
+lawlex_2: raises $0.04 to $0.06
+screatsmart: folds 
+Ronscum: calls $0.06
+jerry7894561: folds 
+RuslanLeyman: folds 
+*** FLOP *** [2s Qc 7s]
+lawlex_2: checks 
+Ronscum: checks 
+*** TURN *** [2s Qc 7s] [7h]
+lawlex_2: checks 
+Ronscum: checks 
+*** RIVER *** [2s Qc 7s 7h] [Jc]
+lawlex_2: checks 
+Ronscum: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [3h 3s] (two pair, Sevens and Threes)
+Ronscum: mucks hand 
+lawlex_2 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2s Qc 7s 7h Jc]
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) folded before Flop
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 showed [3h 3s] and won ($0.14) with two pair, Sevens and Threes
+Seat 5: screatsmart folded before Flop (didn't bet)
+Seat 6: Ronscum (button) mucked [2h 4h]
+
+
+
+PokerStars Hand #213674810432:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:54:39 MSK [2020/05/11 1:54:39 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($4.08 in chips) 
+Seat 2: RuslanLeyman ($0.85 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.20 in chips) 
+Seat 5: screatsmart ($0.14 in chips) 
+Seat 6: Ronscum ($3.43 in chips) 
+RuslanLeyman: posts small blind $0.01
+PokerGodURU: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Ac]
+lawlex_2: raises $0.04 to $0.06
+screatsmart: calls $0.06
+Ronscum: calls $0.06
+jerry7894561: calls $0.06
+RuslanLeyman: folds 
+PokerGodURU: folds 
+*** FLOP *** [Ad Qs 8s]
+lawlex_2: bets $0.17
+screatsmart: calls $0.08 and is all-in
+Ronscum: calls $0.17
+jerry7894561: folds 
+*** TURN *** [Ad Qs 8s] [Ah]
+lawlex_2: bets $0.45
+Ronscum: folds 
+Uncalled bet ($0.45) returned to lawlex_2
+*** RIVER *** [Ad Qs 8s Ah] [3c]
+*** SHOW DOWN ***
+lawlex_2: shows [9s Ac] (three of a kind, Aces)
+lawlex_2 collected $0.18 from side pot
+screatsmart: shows [8d 7d] (two pair, Aces and Eights)
+lawlex_2 collected $0.49 from main pot
+*** SUMMARY ***
+Total pot $0.69 Main pot $0.49. Side pot $0.18. | Rake $0.02 
+Board [Ad Qs 8s Ah 3c]
+Seat 1: jerry7894561 (button) folded on the Flop
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 3: PokerGodURU (big blind) folded before Flop
+Seat 4: lawlex_2 showed [9s Ac] and won ($0.67) with three of a kind, Aces
+Seat 5: screatsmart showed [8d 7d] and lost with two pair, Aces and Eights
+Seat 6: Ronscum folded on the Turn
+
+
+
+PokerStars Hand #213674828122:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:55:22 MSK [2020/05/11 1:55:22 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($4.02 in chips) 
+Seat 2: RuslanLeyman ($0.84 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.64 in chips) 
+Seat 6: Ronscum ($3.20 in chips) 
+PokerGodURU: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 6d]
+Ronscum: calls $0.02
+jerry7894561: folds 
+RuslanLeyman: calls $0.02
+screatsmart leaves the table
+PokerGodURU: folds 
+lawlex_2: checks 
+*** FLOP *** [Ad 4h 6c]
+lawlex_2: checks 
+Ronscum: checks 
+RuslanLeyman: checks 
+*** TURN *** [Ad 4h 6c] [Jd]
+lawlex_2: checks 
+Ronscum: bets $0.04
+RuslanLeyman: calls $0.04
+lawlex_2: folds 
+*** RIVER *** [Ad 4h 6c Jd] [2h]
+Ronscum: bets $0.06
+RuslanLeyman: folds 
+Uncalled bet ($0.06) returned to Ronscum
+Ronscum collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ad 4h 6c Jd 2h]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (button) folded on the River
+Seat 3: PokerGodURU (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) folded on the Turn
+Seat 6: Ronscum collected ($0.14)
+
+
+
+PokerStars Hand #213674839895:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:56:13 MSK [2020/05/11 1:56:13 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($4.02 in chips) 
+Seat 2: RuslanLeyman ($0.78 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.62 in chips) 
+Seat 6: Ronscum ($3.28 in chips) 
+lawlex_2: posts small blind $0.01
+Ronscum: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 7d]
+jerry7894561: raises $0.04 to $0.06
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: folds 
+Ronscum: folds 
+Uncalled bet ($0.04) returned to jerry7894561
+jerry7894561 collected $0.05 from pot
+jerry7894561: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 collected ($0.05)
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: PokerGodURU (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 6: Ronscum (big blind) folded before Flop
+
+
+
+PokerStars Hand #213674844483:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:56:33 MSK [2020/05/11 1:56:33 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($4.05 in chips) 
+Seat 2: RuslanLeyman ($0.78 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.61 in chips) 
+Seat 6: Ronscum ($3.26 in chips) 
+Ronscum: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 8d]
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: raises $0.04 to $0.06
+Ronscum: calls $0.05
+jerry7894561: folds 
+*** FLOP *** [5s Qs Jh]
+Ronscum: checks 
+lawlex_2: checks 
+*** TURN *** [5s Qs Jh] [9s]
+Ronscum: checks 
+lawlex_2: checks 
+*** RIVER *** [5s Qs Jh 9s] [Tc]
+Ronscum: bets $0.06
+lawlex_2: raises $0.26 to $0.32
+Ronscum: calls $0.26
+*** SHOW DOWN ***
+lawlex_2: shows [Ah 8d] (a straight, Eight to Queen)
+Ronscum: mucks hand 
+lawlex_2 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [5s Qs Jh 9s Tc]
+Seat 1: jerry7894561 (big blind) folded before Flop
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) showed [Ah 8d] and won ($0.75) with a straight, Eight to Queen
+Seat 6: Ronscum (small blind) mucked [Ac Th]
+
+
+
+PokerStars Hand #213674855445:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:57:21 MSK [2020/05/11 1:57:21 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($4.03 in chips) 
+Seat 2: RuslanLeyman ($0.78 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($2.98 in chips) 
+Seat 6: Ronscum ($2.88 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Qd]
+PokerGodURU: folds 
+lawlex_2: raises $0.04 to $0.06
+Ronscum: folds 
+jerry7894561: folds 
+RuslanLeyman: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jerry7894561 (small blind) folded before Flop
+Seat 2: RuslanLeyman (big blind) folded before Flop
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.05)
+Seat 6: Ronscum (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674858998:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:57:36 MSK [2020/05/11 1:57:36 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($4.02 in chips) 
+Seat 2: RuslanLeyman ($0.76 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($3.01 in chips) 
+Seat 6: Ronscum ($2.88 in chips) 
+RuslanLeyman: posts small blind $0.01
+PokerGodURU: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Jh]
+lawlex_2: raises $0.04 to $0.06
+Ronscum: calls $0.06
+jerry7894561: folds 
+RuslanLeyman: folds 
+PokerGodURU: folds 
+*** FLOP *** [Td Qd 2c]
+lawlex_2: bets $0.09
+Ronscum: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Td Qd 2c]
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (small blind) folded before Flop
+Seat 3: PokerGodURU (big blind) folded before Flop
+Seat 4: lawlex_2 collected ($0.14)
+Seat 6: Ronscum folded on the Flop
+
+
+
+PokerStars Hand #213674866164:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:58:08 MSK [2020/05/11 1:58:08 ET]
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: jerry7894561 ($4.02 in chips) 
+Seat 2: RuslanLeyman ($0.75 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($3.09 in chips) 
+Seat 6: Ronscum ($2.82 in chips) 
+PokerGodURU: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Ac]
+Ronscum: raises $0.04 to $0.06
+jerry7894561: folds 
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [8s 9s 4h]
+lawlex_2: bets $0.09
+Ronscum: calls $0.09
+*** TURN *** [8s 9s 4h] [7h]
+lawlex_2: bets $0.20
+Ronscum: folds 
+Uncalled bet ($0.20) returned to lawlex_2
+lawlex_2 collected $0.30 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [8s 9s 4h 7h]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman (button) folded before Flop (didn't bet)
+Seat 3: PokerGodURU (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.30)
+Seat 6: Ronscum folded on the Turn
+
+
+
+PokerStars Hand #213674873340:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:58:38 MSK [2020/05/11 1:58:38 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($4.02 in chips) 
+Seat 2: RuslanLeyman ($0.75 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($3.24 in chips) 
+Seat 6: Ronscum ($2.67 in chips) 
+lawlex_2: posts small blind $0.01
+Ronscum: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Jd]
+jerry7894561: folds 
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Ronscum
+Ronscum collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: PokerGodURU (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 6: Ronscum (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213674877605:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:58:57 MSK [2020/05/11 1:58:57 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($4.02 in chips) 
+Seat 2: RuslanLeyman ($0.75 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($3.23 in chips) 
+Seat 6: Ronscum ($2.68 in chips) 
+Ronscum: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 4c]
+RuslanLeyman: calls $0.02
+PokerGodURU: folds 
+lawlex_2: folds 
+Ronscum: calls $0.01
+jerry7894561: raises $0.06 to $0.08
+RuslanLeyman: folds 
+Ronscum: calls $0.06
+*** FLOP *** [Jd 8s Kd]
+Ronscum: checks 
+jerry7894561: checks 
+*** TURN *** [Jd 8s Kd] [5c]
+Ronscum: bets $0.02
+jerry7894561: raises $0.07 to $0.09
+Ronscum: calls $0.07
+*** RIVER *** [Jd 8s Kd 5c] [5h]
+Ronscum: checks 
+jerry7894561: checks 
+*** SHOW DOWN ***
+Ronscum: shows [8c Qh] (two pair, Eights and Fives)
+jerry7894561: mucks hand 
+Ronscum collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Jd 8s Kd 5c 5h]
+Seat 1: jerry7894561 (big blind) mucked [Qs Ah]
+Seat 2: RuslanLeyman folded before Flop
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Ronscum (small blind) showed [8c Qh] and won ($0.35) with two pair, Eights and Fives
+
+
+
+PokerStars Hand #213674886142:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 8:59:34 MSK [2020/05/11 1:59:34 ET]
+Table 'Klytia' 6-max Seat #6 is the button
+Seat 1: jerry7894561 ($3.85 in chips) 
+Seat 2: RuslanLeyman ($0.73 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($3.23 in chips) 
+Seat 6: Ronscum ($2.86 in chips) 
+jerry7894561: posts small blind $0.01
+RuslanLeyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 4s]
+PokerGodURU: folds 
+lawlex_2: folds 
+Ronscum: calls $0.02
+jerry7894561: calls $0.01
+RuslanLeyman: raises $0.06 to $0.08
+Ronscum: calls $0.06
+jerry7894561: calls $0.06
+*** FLOP *** [9h 7s Ts]
+jerry7894561: checks 
+RuslanLeyman: bets $0.65 and is all-in
+Ronscum: calls $0.65
+jerry7894561: folds 
+*** TURN *** [9h 7s Ts] [8h]
+*** RIVER *** [9h 7s Ts 8h] [Th]
+*** SHOW DOWN ***
+RuslanLeyman: shows [Ks Kh] (two pair, Kings and Tens)
+Ronscum: shows [6d 8d] (a straight, Six to Ten)
+Ronscum collected $1.49 from pot
+*** SUMMARY ***
+Total pot $1.54 | Rake $0.05 
+Board [9h 7s Ts 8h Th]
+Seat 1: jerry7894561 (small blind) folded on the Flop
+Seat 2: RuslanLeyman (big blind) showed [Ks Kh] and lost with two pair, Kings and Tens
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Ronscum (button) showed [6d 8d] and won ($1.49) with a straight, Six to Ten
+
+
+
+PokerStars Hand #213674895078:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 9:00:12 MSK [2020/05/11 2:00:12 ET]
+Table 'Klytia' 6-max Seat #1 is the button
+Seat 1: jerry7894561 ($3.77 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($3.23 in chips) 
+Seat 6: Ronscum ($3.62 in chips) 
+PokerGodURU: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Ad]
+Ronscum: folds 
+jerry7894561: folds 
+PokerGodURU: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+Lievanoo joins the table at seat #5 
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jerry7894561 (button) folded before Flop (didn't bet)
+Seat 3: PokerGodURU (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected ($0.02)
+Seat 6: Ronscum folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674898619:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 9:00:26 MSK [2020/05/11 2:00:26 ET]
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 1: jerry7894561 ($3.77 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($3.24 in chips) 
+Seat 5: Lievanoo ($2 in chips) 
+Seat 6: Ronscum ($3.62 in chips) 
+lawlex_2: posts small blind $0.01
+Lievanoo: posts big blind $0.02
+RuslanLeyman: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 9h]
+Ronscum: folds 
+jerry7894561: folds 
+PokerGodURU: folds 
+lawlex_2: calls $0.01
+Lievanoo: checks 
+*** FLOP *** [7c 2c 7s]
+lawlex_2: bets $0.03
+Lievanoo: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7c 2c 7s]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 3: PokerGodURU (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) collected ($0.04)
+Seat 5: Lievanoo (big blind) folded on the Flop
+Seat 6: Ronscum folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213674905938:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 9:00:56 MSK [2020/05/11 2:00:56 ET]
+Table 'Klytia' 6-max Seat #4 is the button
+Seat 1: jerry7894561 ($3.77 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($3.26 in chips) 
+Seat 5: Lievanoo ($1.98 in chips) 
+Seat 6: Ronscum ($3.62 in chips) 
+Lievanoo: posts small blind $0.01
+Ronscum: posts big blind $0.02
+RuslanLeyman: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 7s]
+jerry7894561: folds 
+PokerGodURU: folds 
+lawlex_2: folds 
+Lievanoo: calls $0.01
+Ronscum: checks 
+*** FLOP *** [2d 6s Ts]
+Lievanoo: bets $0.02
+Ronscum: calls $0.02
+*** TURN *** [2d 6s Ts] [8h]
+Lievanoo: bets $0.04
+Ronscum: calls $0.04
+*** RIVER *** [2d 6s Ts 8h] [9h]
+Lievanoo: checks 
+Ronscum: checks 
+*** SHOW DOWN ***
+Lievanoo: shows [Ah Ad] (a pair of Aces)
+Ronscum: mucks hand 
+Lievanoo collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [2d 6s Ts 8h 9h]
+Seat 1: jerry7894561 folded before Flop (didn't bet)
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Lievanoo (small blind) showed [Ah Ad] and won ($0.15) with a pair of Aces
+Seat 6: Ronscum (big blind) mucked [Jc 6h]
+
+
+
+PokerStars Hand #213674915735:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/11 9:01:34 MSK [2020/05/11 2:01:34 ET]
+Table 'Klytia' 6-max Seat #5 is the button
+Seat 1: jerry7894561 ($3.77 in chips) 
+Seat 2: RuslanLeyman ($0.80 in chips) 
+Seat 3: PokerGodURU ($2 in chips) 
+Seat 4: lawlex_2 ($3.26 in chips) 
+Seat 5: Lievanoo ($2.05 in chips) 
+Seat 6: Ronscum ($3.54 in chips) 
+Ronscum: posts small blind $0.01
+jerry7894561: posts big blind $0.02
+RuslanLeyman: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Kh]
+RuslanLeyman: folds 
+PokerGodURU: folds 
+lawlex_2: raises $0.04 to $0.06
+Lievanoo: folds 
+Ronscum: calls $0.05
+jerry7894561: calls $0.04
+*** FLOP *** [8h 9c 9s]
+Ronscum: checks 
+jerry7894561: checks 
+lawlex_2: bets $0.12
+Ronscum: folds 
+jerry7894561: folds 
+Uncalled bet ($0.12) returned to lawlex_2
+lawlex_2 collected $0.18 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8h 9c 9s]
+Seat 1: jerry7894561 (big blind) folded on the Flop
+Seat 2: RuslanLeyman folded before Flop (didn't bet)
+Seat 3: PokerGodURU folded before Flop (didn't bet)
+Seat 4: lawlex_2 collected ($0.18)
+Seat 5: Lievanoo (button) folded before Flop (didn't bet)
+Seat 6: Ronscum (small blind) folded on the Flop
+
+
+

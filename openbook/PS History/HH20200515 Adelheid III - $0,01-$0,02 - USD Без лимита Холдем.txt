@@ -1,0 +1,1617 @@
+﻿PokerStars Hand #213905775184:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:28:30 MSK [2020/05/15 10:28:30 ET]
+Table 'Adelheid III' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: Werktaetiger ($1.95 in chips) 
+Seat 4: MrArrow55555 ($2.06 in chips) 
+Seat 6: manlikerich ($1.95 in chips) 
+manlikerich: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 7d]
+Werktaetiger: calls $0.02
+MrArrow55555: folds 
+manlikerich: folds 
+lawlex_2: checks 
+*** FLOP *** [Tc Jh 4s]
+lawlex_2: checks 
+Werktaetiger: checks 
+*** TURN *** [Tc Jh 4s] [4h]
+lawlex_2: bets $0.03
+Werktaetiger: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+JURA430 was removed from the table for failing to post
+JURA430 leaves the table
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Tc Jh 4s 4h]
+Seat 2: lawlex_2 (big blind) collected ($0.05)
+Seat 3: Werktaetiger folded on the Turn
+Seat 4: MrArrow55555 (button) folded before Flop (didn't bet)
+Seat 6: manlikerich (small blind) folded before Flop
+
+
+
+PokerStars Hand #213905797910:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:29:05 MSK [2020/05/15 10:29:05 ET]
+Table 'Adelheid III' 6-max Seat #6 is the button
+Seat 2: lawlex_2 ($2.03 in chips) 
+Seat 3: Werktaetiger ($1.93 in chips) 
+Seat 4: MrArrow55555 ($2.06 in chips) 
+Seat 6: manlikerich ($1.94 in chips) 
+lawlex_2: posts small blind $0.01
+Werktaetiger: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 5d]
+MrArrow55555: raises $0.04 to $0.06
+manlikerich: folds 
+ihor.petr joins the table at seat #1 
+lawlex_2: folds 
+Werktaetiger: calls $0.04
+*** FLOP *** [4h Ts Qc]
+Werktaetiger: checks 
+MrArrow55555: checks 
+*** TURN *** [4h Ts Qc] [3s]
+Werktaetiger: checks 
+kecskebéka79 joins the table at seat #5 
+MrArrow55555: checks 
+*** RIVER *** [4h Ts Qc 3s] [6c]
+Werktaetiger: checks 
+MrArrow55555: checks 
+*** SHOW DOWN ***
+Werktaetiger: shows [Ad Kc] (high card Ace)
+MrArrow55555: mucks hand 
+Werktaetiger collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4h Ts Qc 3s 6c]
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: Werktaetiger (big blind) showed [Ad Kc] and won ($0.13) with high card Ace
+Seat 4: MrArrow55555 mucked [Kd 7d]
+Seat 6: manlikerich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213905830948:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:29:56 MSK [2020/05/15 10:29:56 ET]
+Table 'Adelheid III' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($2.02 in chips) 
+Seat 3: Werktaetiger ($2 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 6: manlikerich ($1.94 in chips) 
+Werktaetiger: posts small blind $0.01
+MrArrow55555: posts big blind $0.02
+kecskebéka79: sits out 
+ihor.petr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Qh]
+manlikerich: folds 
+lawlex_2: raises $0.03 to $0.05
+Werktaetiger: folds 
+MrArrow55555: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: lawlex_2 (button) collected ($0.05)
+Seat 3: Werktaetiger (small blind) folded before Flop
+Seat 4: MrArrow55555 (big blind) folded before Flop
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213905847996:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:30:23 MSK [2020/05/15 10:30:23 ET]
+Table 'Adelheid III' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($2.05 in chips) 
+Seat 3: Werktaetiger ($1.99 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: kecskebéka79 ($0.95 in chips) 
+Seat 6: manlikerich ($1.94 in chips) 
+MrArrow55555: posts small blind $0.01
+kecskebéka79: posts big blind $0.02
+ihor.petr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 7c]
+manlikerich: raises $0.04 to $0.06
+lawlex_2: folds 
+Werktaetiger: folds 
+MrArrow55555: folds 
+kecskebéka79: calls $0.04
+*** FLOP *** [8s Td 6c]
+kecskebéka79: bets $0.13
+manlikerich: calls $0.13
+*** TURN *** [8s Td 6c] [Qc]
+kecskebéka79: bets $0.38
+manlikerich: folds 
+Uncalled bet ($0.38) returned to kecskebéka79
+kecskebéka79 collected $0.38 from pot
+kecskebéka79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [8s Td 6c Qc]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Werktaetiger (button) folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (small blind) folded before Flop
+Seat 5: kecskebéka79 (big blind) collected ($0.38)
+Seat 6: manlikerich folded on the Turn
+
+
+
+PokerStars Hand #213905874489:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:31:03 MSK [2020/05/15 10:31:03 ET]
+Table 'Adelheid III' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($2.05 in chips) 
+Seat 3: Werktaetiger ($1.99 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: kecskebéka79 ($1.14 in chips) 
+Seat 6: manlikerich ($1.75 in chips) 
+kecskebéka79: posts small blind $0.01
+manlikerich: posts big blind $0.02
+ihor.petr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d As]
+lawlex_2: raises $0.03 to $0.05
+Werktaetiger: folds 
+MrArrow55555: folds 
+kecskebéka79: calls $0.04
+manlikerich: folds 
+*** FLOP *** [Jh 8s Kc]
+kecskebéka79: bets $0.12
+lawlex_2: folds 
+Uncalled bet ($0.12) returned to kecskebéka79
+kecskebéka79 collected $0.12 from pot
+kecskebéka79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jh 8s Kc]
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (button) folded before Flop (didn't bet)
+Seat 5: kecskebéka79 (small blind) collected ($0.12)
+Seat 6: manlikerich (big blind) folded before Flop
+
+
+
+PokerStars Hand #213905896457:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:31:37 MSK [2020/05/15 10:31:37 ET]
+Table 'Adelheid III' 6-max Seat #5 is the button
+Seat 1: ihor.petr ($0.80 in chips) 
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: Werktaetiger ($1.99 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: kecskebéka79 ($1.21 in chips) 
+Seat 6: manlikerich ($1.73 in chips) 
+manlikerich: posts small blind $0.01
+ihor.petr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Ts]
+lawlex_2: folds 
+Werktaetiger: calls $0.02
+MrArrow55555: calls $0.02
+kecskebéka79: calls $0.02
+manlikerich: calls $0.01
+ihor.petr: checks 
+*** FLOP *** [6h Ah 3s]
+manlikerich: checks 
+ihor.petr: checks 
+Werktaetiger: bets $0.02
+MrArrow55555: folds 
+kecskebéka79: folds 
+manlikerich: raises $0.06 to $0.08
+ihor.petr: folds 
+Werktaetiger: calls $0.06
+*** TURN *** [6h Ah 3s] [5d]
+manlikerich: checks 
+Werktaetiger: checks 
+*** RIVER *** [6h Ah 3s 5d] [9d]
+manlikerich: bets $0.16
+Werktaetiger: folds 
+Uncalled bet ($0.16) returned to manlikerich
+manlikerich collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [6h Ah 3s 5d 9d]
+Seat 1: ihor.petr (big blind) folded on the Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Werktaetiger folded on the River
+Seat 4: MrArrow55555 folded on the Flop
+Seat 5: kecskebéka79 (button) folded on the Flop
+Seat 6: manlikerich (small blind) collected ($0.25)
+
+
+
+PokerStars Hand #213905934964:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:32:36 MSK [2020/05/15 10:32:36 ET]
+Table 'Adelheid III' 6-max Seat #6 is the button
+Seat 1: ihor.petr ($0.78 in chips) 
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: Werktaetiger ($1.89 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: kecskebéka79 ($1.19 in chips) 
+Seat 6: manlikerich ($1.88 in chips) 
+ihor.petr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 6c]
+Werktaetiger: folds 
+MrArrow55555: folds 
+kecskebéka79: calls $0.02
+manlikerich: raises $0.06 to $0.08
+ihor.petr: folds 
+lawlex_2: folds 
+kecskebéka79: calls $0.06
+*** FLOP *** [6h 5c 9s]
+kecskebéka79: bets $0.18
+manlikerich: folds 
+Uncalled bet ($0.18) returned to kecskebéka79
+kecskebéka79 collected $0.18 from pot
+kecskebéka79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6h 5c 9s]
+Seat 1: ihor.petr (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 folded before Flop (didn't bet)
+Seat 5: kecskebéka79 collected ($0.18)
+Seat 6: manlikerich (button) folded on the Flop
+
+
+
+PokerStars Hand #213905954483:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:33:05 MSK [2020/05/15 10:33:05 ET]
+Table 'Adelheid III' 6-max Seat #1 is the button
+Seat 1: ihor.petr ($0.77 in chips) 
+Seat 2: lawlex_2 ($1.98 in chips) 
+Seat 3: Werktaetiger ($1.89 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: kecskebéka79 ($1.29 in chips) 
+Seat 6: manlikerich ($1.80 in chips) 
+lawlex_2: posts small blind $0.01
+Werktaetiger: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Qd]
+MrArrow55555: folds 
+kecskebéka79: calls $0.02
+manlikerich: folds 
+ihor.petr: calls $0.02
+lawlex_2: folds 
+Werktaetiger: checks 
+*** FLOP *** [3h 4c Qc]
+Werktaetiger: checks 
+kecskebéka79: checks 
+ihor.petr: checks 
+*** TURN *** [3h 4c Qc] [8s]
+Werktaetiger: checks 
+kecskebéka79: bets $0.07
+ihor.petr: folds 
+Werktaetiger: folds 
+Uncalled bet ($0.07) returned to kecskebéka79
+kecskebéka79 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3h 4c Qc 8s]
+Seat 1: ihor.petr (button) folded on the Turn
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: Werktaetiger (big blind) folded on the Turn
+Seat 4: MrArrow55555 folded before Flop (didn't bet)
+Seat 5: kecskebéka79 collected ($0.07)
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213905972331:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:33:32 MSK [2020/05/15 10:33:32 ET]
+Table 'Adelheid III' 6-max Seat #2 is the button
+Seat 1: ihor.petr ($0.75 in chips) 
+Seat 2: lawlex_2 ($1.97 in chips) 
+Seat 3: Werktaetiger ($1.87 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: kecskebéka79 ($1.34 in chips) 
+Seat 6: manlikerich ($1.80 in chips) 
+Werktaetiger: posts small blind $0.01
+MrArrow55555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Qd]
+kecskebéka79: calls $0.02
+manlikerich: raises $0.06 to $0.08
+ihor.petr: folds 
+lawlex_2: folds 
+Werktaetiger: folds 
+MrArrow55555: calls $0.06
+kecskebéka79: calls $0.06
+*** FLOP *** [3c Jc 6c]
+MrArrow55555: checks 
+kecskebéka79: checks 
+manlikerich: bets $0.16
+MrArrow55555: folds 
+kecskebéka79: calls $0.16
+*** TURN *** [3c Jc 6c] [4h]
+kecskebéka79: checks 
+manlikerich: bets $0.34
+kecskebéka79: folds 
+Uncalled bet ($0.34) returned to manlikerich
+manlikerich collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [3c Jc 6c 4h]
+Seat 1: ihor.petr folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: Werktaetiger (small blind) folded before Flop
+Seat 4: MrArrow55555 (big blind) folded on the Flop
+Seat 5: kecskebéka79 folded on the Turn
+Seat 6: manlikerich collected ($0.55)
+
+
+
+PokerStars Hand #213906012445:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:34:34 MSK [2020/05/15 10:34:34 ET]
+Table 'Adelheid III' 6-max Seat #3 is the button
+Seat 1: ihor.petr ($0.75 in chips) 
+Seat 2: lawlex_2 ($1.97 in chips) 
+Seat 3: Werktaetiger ($1.86 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: kecskebéka79 ($1.10 in chips) 
+Seat 6: manlikerich ($2.11 in chips) 
+MrArrow55555: posts small blind $0.01
+kecskebéka79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 4h]
+manlikerich: folds 
+ihor.petr: folds 
+lawlex_2: folds 
+Werktaetiger: raises $0.02 to $0.04
+MrArrow55555: folds 
+kecskebéka79: calls $0.02
+*** FLOP *** [9d 5d Jc]
+kecskebéka79: checks 
+Werktaetiger: checks 
+*** TURN *** [9d 5d Jc] [Ad]
+kecskebéka79: checks 
+Werktaetiger: checks 
+*** RIVER *** [9d 5d Jc Ad] [Ts]
+kecskebéka79: bets $0.06
+Werktaetiger: calls $0.06
+*** SHOW DOWN ***
+kecskebéka79: shows [3d Kh] (high card Ace)
+Werktaetiger: shows [Qs Tc] (a pair of Tens)
+Werktaetiger collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9d 5d Jc Ad Ts]
+Seat 1: ihor.petr folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Werktaetiger (button) showed [Qs Tc] and won ($0.20) with a pair of Tens
+Seat 4: MrArrow55555 (small blind) folded before Flop
+Seat 5: kecskebéka79 (big blind) showed [3d Kh] and lost with high card Ace
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906037041:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:35:02 MSK [2020/05/15 10:35:02 ET]
+Table 'Adelheid III' 6-max Seat #4 is the button
+Seat 1: ihor.petr ($0.75 in chips) 
+Seat 2: lawlex_2 ($1.97 in chips) 
+Seat 3: Werktaetiger ($1.96 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: kecskebéka79 ($1 in chips) 
+Seat 6: manlikerich ($2.11 in chips) 
+kecskebéka79: posts small blind $0.01
+manlikerich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Qh]
+ihor.petr: folds 
+lawlex_2: folds 
+Werktaetiger: folds 
+MrArrow55555: folds 
+kecskebéka79: calls $0.01
+manlikerich: checks 
+*** FLOP *** [3c 9c As]
+kecskebéka79: bets $0.04
+manlikerich: folds 
+Uncalled bet ($0.04) returned to kecskebéka79
+kecskebéka79 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3c 9c As]
+Seat 1: ihor.petr folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (button) folded before Flop (didn't bet)
+Seat 5: kecskebéka79 (small blind) collected ($0.04)
+Seat 6: manlikerich (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213906052196:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:35:25 MSK [2020/05/15 10:35:25 ET]
+Table 'Adelheid III' 6-max Seat #5 is the button
+Seat 1: ihor.petr ($0.75 in chips) 
+Seat 2: lawlex_2 ($1.97 in chips) 
+Seat 3: Werktaetiger ($1.96 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: kecskebéka79 ($1.02 in chips) 
+Seat 6: manlikerich ($2.09 in chips) 
+manlikerich: posts small blind $0.01
+ihor.petr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 8h]
+lawlex_2: folds 
+Werktaetiger: calls $0.02
+MrArrow55555: folds 
+kecskebéka79: calls $0.02
+manlikerich: folds 
+ihor.petr: checks 
+*** FLOP *** [Kc Ks 8d]
+ihor.petr: checks 
+Werktaetiger: checks 
+kecskebéka79: checks 
+*** TURN *** [Kc Ks 8d] [3h]
+ihor.petr: bets $0.04
+Werktaetiger: raises $0.04 to $0.08
+kecskebéka79: folds 
+kecskebéka79 leaves the table
+ihor.petr: calls $0.04
+*** RIVER *** [Kc Ks 8d 3h] [4s]
+ihor.petr: checks 
+Werktaetiger: bets $0.02
+ihor.petr: calls $0.02
+*** SHOW DOWN ***
+Werktaetiger: shows [Jh Kh] (three of a kind, Kings)
+ihor.petr: mucks hand 
+Werktaetiger collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Kc Ks 8d 3h 4s]
+Seat 1: ihor.petr (big blind) mucked [3c Qh]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Werktaetiger showed [Jh Kh] and won ($0.26) with three of a kind, Kings
+Seat 4: MrArrow55555 folded before Flop (didn't bet)
+Seat 5: kecskebéka79 (button) folded on the Turn
+Seat 6: manlikerich (small blind) folded before Flop
+
+
+
+PokerStars Hand #213906086216:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:36:17 MSK [2020/05/15 10:36:17 ET]
+Table 'Adelheid III' 6-max Seat #6 is the button
+Seat 1: ihor.petr ($0.63 in chips) 
+Seat 2: lawlex_2 ($1.97 in chips) 
+Seat 3: Werktaetiger ($2.10 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 6: manlikerich ($2.08 in chips) 
+ihor.petr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 5s]
+Werktaetiger: folds 
+jaroslavnegrian joins the table at seat #5 
+MrArrow55555: folds 
+manlikerich: folds 
+ihor.petr: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [4c 9d Ts]
+ihor.petr: checks 
+lawlex_2: bets $0.03
+ihor.petr: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4c 9d Ts]
+Seat 1: ihor.petr (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) collected ($0.04)
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 folded before Flop (didn't bet)
+Seat 6: manlikerich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906101783:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:36:41 MSK [2020/05/15 10:36:41 ET]
+Table 'Adelheid III' 6-max Seat #1 is the button
+Seat 1: ihor.petr ($0.61 in chips) 
+Seat 2: lawlex_2 ($1.99 in chips) 
+Seat 3: Werktaetiger ($2.10 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.60 in chips) 
+Seat 6: manlikerich ($2.08 in chips) 
+lawlex_2: posts small blind $0.01
+Werktaetiger: posts big blind $0.02
+jaroslavnegrian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 6c]
+MrArrow55555: folds 
+jaroslavnegrian: checks 
+manlikerich: raises $0.06 to $0.08
+ihor.petr: folds 
+lawlex_2: folds 
+Werktaetiger: folds 
+jaroslavnegrian: folds 
+Uncalled bet ($0.06) returned to manlikerich
+manlikerich collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: ihor.petr (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: Werktaetiger (big blind) folded before Flop
+Seat 4: MrArrow55555 folded before Flop (didn't bet)
+Seat 5: jaroslavnegrian folded before Flop (didn't bet)
+Seat 6: manlikerich collected ($0.07)
+
+
+
+PokerStars Hand #213906112510:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:36:57 MSK [2020/05/15 10:36:57 ET]
+Table 'Adelheid III' 6-max Seat #2 is the button
+Seat 1: ihor.petr ($0.61 in chips) 
+Seat 2: lawlex_2 ($1.98 in chips) 
+Seat 3: Werktaetiger ($2.08 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.58 in chips) 
+Seat 6: manlikerich ($2.13 in chips) 
+Werktaetiger: posts small blind $0.01
+MrArrow55555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Jd]
+jaroslavnegrian: folds 
+manlikerich: folds 
+ihor.petr: folds 
+lawlex_2: raises $0.03 to $0.05
+Werktaetiger: calls $0.04
+MrArrow55555: folds 
+*** FLOP *** [Jc 3d 5s]
+Werktaetiger: checks 
+lawlex_2: bets $0.08
+Werktaetiger: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jc 3d 5s]
+Seat 1: ihor.petr folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) collected ($0.12)
+Seat 3: Werktaetiger (small blind) folded on the Flop
+Seat 4: MrArrow55555 (big blind) folded before Flop
+Seat 5: jaroslavnegrian folded before Flop (didn't bet)
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906132818:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:37:28 MSK [2020/05/15 10:37:28 ET]
+Table 'Adelheid III' 6-max Seat #3 is the button
+Seat 1: ihor.petr ($0.61 in chips) 
+Seat 2: lawlex_2 ($2.05 in chips) 
+Seat 3: Werktaetiger ($2.03 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.58 in chips) 
+Seat 6: manlikerich ($2.13 in chips) 
+MrArrow55555: posts small blind $0.01
+jaroslavnegrian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Ts]
+manlikerich: folds 
+ihor.petr: folds 
+lawlex_2: raises $0.03 to $0.05
+Werktaetiger: folds 
+MrArrow55555: folds 
+jaroslavnegrian: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ihor.petr folded before Flop (didn't bet)
+Seat 2: lawlex_2 collected ($0.05)
+Seat 3: Werktaetiger (button) folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (small blind) folded before Flop
+Seat 5: jaroslavnegrian (big blind) folded before Flop
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906142200:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:37:42 MSK [2020/05/15 10:37:42 ET]
+Table 'Adelheid III' 6-max Seat #4 is the button
+Seat 1: ihor.petr ($0.61 in chips) 
+Seat 2: lawlex_2 ($2.08 in chips) 
+Seat 3: Werktaetiger ($2.03 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.56 in chips) 
+Seat 6: manlikerich ($2.13 in chips) 
+jaroslavnegrian: posts small blind $0.01
+manlikerich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 4h]
+ihor.petr: folds 
+lawlex_2: folds 
+Werktaetiger: folds 
+MrArrow55555: folds 
+jaroslavnegrian: calls $0.01
+manlikerich: checks 
+*** FLOP *** [6s 9d 2s]
+jaroslavnegrian: bets $0.02
+manlikerich: raises $0.06 to $0.08
+jaroslavnegrian: folds 
+Uncalled bet ($0.06) returned to manlikerich
+manlikerich collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [6s 9d 2s]
+Seat 1: ihor.petr folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (button) folded before Flop (didn't bet)
+Seat 5: jaroslavnegrian (small blind) folded on the Flop
+Seat 6: manlikerich (big blind) collected ($0.08)
+
+
+
+PokerStars Hand #213906161706:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:38:11 MSK [2020/05/15 10:38:11 ET]
+Table 'Adelheid III' 6-max Seat #5 is the button
+Seat 1: ihor.petr ($0.61 in chips) 
+Seat 2: lawlex_2 ($2.08 in chips) 
+Seat 3: Werktaetiger ($2.03 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.52 in chips) 
+Seat 6: manlikerich ($2.17 in chips) 
+manlikerich: posts small blind $0.01
+ihor.petr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Kh]
+lawlex_2: raises $0.03 to $0.05
+Werktaetiger: folds 
+MrArrow55555: calls $0.05
+jaroslavnegrian: calls $0.05
+manlikerich: calls $0.04
+ihor.petr: calls $0.03
+*** FLOP *** [Jd Ac 4d]
+manlikerich: checks 
+ihor.petr: bets $0.06
+lawlex_2: calls $0.06
+MrArrow55555: folds 
+jaroslavnegrian: folds 
+manlikerich: folds 
+*** TURN *** [Jd Ac 4d] [3s]
+ihor.petr: bets $0.14
+lawlex_2: calls $0.14
+*** RIVER *** [Jd Ac 4d 3s] [Ts]
+ihor.petr: checks 
+lawlex_2: bets $0.42
+ihor.petr: calls $0.36 and is all-in
+Uncalled bet ($0.06) returned to lawlex_2
+*** SHOW DOWN ***
+lawlex_2: shows [Qc Kh] (a straight, Ten to Ace)
+ihor.petr: shows [Ad 7c] (a pair of Aces)
+lawlex_2 collected $1.32 from pot
+*** SUMMARY ***
+Total pot $1.37 | Rake $0.05 
+Board [Jd Ac 4d 3s Ts]
+Seat 1: ihor.petr (big blind) showed [Ad 7c] and lost with a pair of Aces
+Seat 2: lawlex_2 showed [Qc Kh] and won ($1.32) with a straight, Ten to Ace
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 folded on the Flop
+Seat 5: jaroslavnegrian (button) folded on the Flop
+Seat 6: manlikerich (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213906200570:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:39:10 MSK [2020/05/15 10:39:10 ET]
+Table 'Adelheid III' 6-max Seat #6 is the button
+Seat 2: lawlex_2 ($2.79 in chips) 
+Seat 3: Werktaetiger ($2.03 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.47 in chips) 
+Seat 6: manlikerich ($2.12 in chips) 
+lawlex_2: posts small blind $0.01
+Werktaetiger: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Jh]
+MrArrow55555: raises $0.04 to $0.06
+jaroslavnegrian: folds 
+manlikerich: folds 
+lawlex_2: calls $0.05
+Werktaetiger: folds 
+*** FLOP *** [6h Tc 9d]
+lawlex_2: bets $0.09
+MrArrow55555: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6h Tc 9d]
+Seat 2: lawlex_2 (small blind) collected ($0.14)
+Seat 3: Werktaetiger (big blind) folded before Flop
+Seat 4: MrArrow55555 folded on the Flop
+Seat 5: jaroslavnegrian folded before Flop (didn't bet)
+Seat 6: manlikerich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906224672:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:39:38 MSK [2020/05/15 10:39:38 ET]
+Table 'Adelheid III' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($2.87 in chips) 
+Seat 3: Werktaetiger ($2.01 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.47 in chips) 
+Seat 6: manlikerich ($2.12 in chips) 
+Werktaetiger: posts small blind $0.01
+MrArrow55555: posts big blind $0.02
+ihor.petr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 5c]
+jaroslavnegrian: folds 
+manlikerich: folds 
+lawlex_2: folds 
+Werktaetiger: calls $0.01
+MrArrow55555: checks 
+*** FLOP *** [5d 2s Ks]
+Werktaetiger: checks 
+MrArrow55555: checks 
+*** TURN *** [5d 2s Ks] [8h]
+Werktaetiger: checks 
+MrArrow55555: checks 
+*** RIVER *** [5d 2s Ks 8h] [4h]
+Werktaetiger: checks 
+MrArrow55555: bets $0.02
+Werktaetiger: calls $0.02
+*** SHOW DOWN ***
+MrArrow55555: shows [8s 4c] (two pair, Eights and Fours)
+Werktaetiger: mucks hand 
+MrArrow55555 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [5d 2s Ks 8h 4h]
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: Werktaetiger (small blind) mucked [2d As]
+Seat 4: MrArrow55555 (big blind) showed [8s 4c] and won ($0.08) with two pair, Eights and Fours
+Seat 5: jaroslavnegrian folded before Flop (didn't bet)
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906260511:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:40:32 MSK [2020/05/15 10:40:32 ET]
+Table 'Adelheid III' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($2.87 in chips) 
+Seat 3: Werktaetiger ($1.97 in chips) 
+Seat 4: MrArrow55555 ($2.04 in chips) 
+Seat 5: jaroslavnegrian ($1.47 in chips) 
+Seat 6: manlikerich ($2.12 in chips) 
+MrArrow55555: posts small blind $0.01
+jaroslavnegrian: posts big blind $0.02
+ihor.petr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 2d]
+manlikerich: folds 
+lawlex_2: folds 
+Werktaetiger: folds 
+MrArrow55555: folds 
+Uncalled bet ($0.01) returned to jaroslavnegrian
+jaroslavnegrian collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Werktaetiger (button) folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (small blind) folded before Flop
+Seat 5: jaroslavnegrian (big blind) collected ($0.02)
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906269500:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:40:46 MSK [2020/05/15 10:40:46 ET]
+Table 'Adelheid III' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($2.87 in chips) 
+Seat 3: Werktaetiger ($1.97 in chips) 
+Seat 4: MrArrow55555 ($2.03 in chips) 
+Seat 5: jaroslavnegrian ($1.48 in chips) 
+Seat 6: manlikerich ($2.12 in chips) 
+jaroslavnegrian: posts small blind $0.01
+manlikerich: posts big blind $0.02
+ihor.petr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Ad]
+lawlex_2: raises $0.03 to $0.05
+Werktaetiger: folds 
+MrArrow55555: folds 
+jaroslavnegrian: folds 
+manlikerich: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: lawlex_2 collected ($0.05)
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (button) folded before Flop (didn't bet)
+Seat 5: jaroslavnegrian (small blind) folded before Flop
+Seat 6: manlikerich (big blind) folded before Flop
+
+
+
+PokerStars Hand #213906283363:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:41:07 MSK [2020/05/15 10:41:07 ET]
+Table 'Adelheid III' 6-max Seat #5 is the button
+Seat 1: ihor.petr ($0.80 in chips) 
+Seat 2: lawlex_2 ($2.90 in chips) 
+Seat 3: Werktaetiger ($1.97 in chips) 
+Seat 4: MrArrow55555 ($2.03 in chips) 
+Seat 5: jaroslavnegrian ($1.47 in chips) 
+Seat 6: manlikerich ($2.10 in chips) 
+manlikerich: posts small blind $0.01
+ihor.petr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Ad]
+lawlex_2: raises $0.03 to $0.05
+Werktaetiger: folds 
+MrArrow55555: folds 
+jaroslavnegrian: folds 
+manlikerich: folds 
+ihor.petr: calls $0.03
+*** FLOP *** [7h Ks Js]
+ihor.petr: checks 
+lawlex_2: checks 
+*** TURN *** [7h Ks Js] [3h]
+ihor.petr: checks 
+lawlex_2: checks 
+*** RIVER *** [7h Ks Js 3h] [Jh]
+ihor.petr: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+ihor.petr: shows [5c Qh] (a pair of Jacks)
+lawlex_2: shows [8d Ad] (a pair of Jacks - Ace kicker)
+lawlex_2 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7h Ks Js 3h Jh]
+Seat 1: ihor.petr (big blind) showed [5c Qh] and lost with a pair of Jacks
+Seat 2: lawlex_2 showed [8d Ad] and won ($0.11) with a pair of Jacks
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 folded before Flop (didn't bet)
+Seat 5: jaroslavnegrian (button) folded before Flop (didn't bet)
+Seat 6: manlikerich (small blind) folded before Flop
+
+
+
+PokerStars Hand #213906309658:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:41:47 MSK [2020/05/15 10:41:47 ET]
+Table 'Adelheid III' 6-max Seat #6 is the button
+Seat 1: ihor.petr ($0.75 in chips) 
+Seat 2: lawlex_2 ($2.96 in chips) 
+Seat 3: Werktaetiger ($1.97 in chips) 
+Seat 4: MrArrow55555 ($2.03 in chips) 
+Seat 5: jaroslavnegrian ($1.47 in chips) 
+Seat 6: manlikerich ($2.09 in chips) 
+ihor.petr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 8s]
+Werktaetiger: folds 
+MrArrow55555: calls $0.02
+jaroslavnegrian: folds 
+manlikerich: folds 
+ihor.petr: raises $0.73 to $0.75 and is all-in
+lawlex_2: folds 
+MrArrow55555: folds 
+Uncalled bet ($0.73) returned to ihor.petr
+ihor.petr collected $0.06 from pot
+ihor.petr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: ihor.petr (small blind) collected ($0.06)
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 folded before Flop
+Seat 5: jaroslavnegrian folded before Flop (didn't bet)
+Seat 6: manlikerich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906323705:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:42:08 MSK [2020/05/15 10:42:08 ET]
+Table 'Adelheid III' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($2.94 in chips) 
+Seat 3: Werktaetiger ($1.97 in chips) 
+Seat 4: MrArrow55555 ($2.01 in chips) 
+Seat 5: jaroslavnegrian ($1.47 in chips) 
+Seat 6: manlikerich ($2.09 in chips) 
+Werktaetiger: posts small blind $0.01
+MrArrow55555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 4d]
+jaroslavnegrian: folds 
+manlikerich: folds 
+lawlex_2: folds 
+Werktaetiger: calls $0.01
+MrArrow55555: checks 
+*** FLOP *** [As 7s Qd]
+Werktaetiger: checks 
+MrArrow55555: checks 
+*** TURN *** [As 7s Qd] [Ac]
+Werktaetiger: checks 
+MrArrow55555: checks 
+*** RIVER *** [As 7s Qd Ac] [2c]
+Werktaetiger: checks 
+MrArrow55555: checks 
+*** SHOW DOWN ***
+Werktaetiger: shows [3c 2h] (two pair, Aces and Deuces)
+MrArrow55555: mucks hand 
+Werktaetiger collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [As 7s Qd Ac 2c]
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: Werktaetiger (small blind) showed [3c 2h] and won ($0.04) with two pair, Aces and Deuces
+Seat 4: MrArrow55555 (big blind) mucked [8d Js]
+Seat 5: jaroslavnegrian folded before Flop (didn't bet)
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906357855:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:43:00 MSK [2020/05/15 10:43:00 ET]
+Table 'Adelheid III' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($2.94 in chips) 
+Seat 3: Werktaetiger ($1.99 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.47 in chips) 
+Seat 6: manlikerich ($2.09 in chips) 
+MrArrow55555: posts small blind $0.01
+jaroslavnegrian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Ah]
+manlikerich: folds 
+lawlex_2: raises $0.03 to $0.05
+Werktaetiger: folds 
+MrArrow55555: folds 
+jaroslavnegrian: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: lawlex_2 collected ($0.05)
+Seat 3: Werktaetiger (button) folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (small blind) folded before Flop
+Seat 5: jaroslavnegrian (big blind) folded before Flop
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906367760:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:43:15 MSK [2020/05/15 10:43:15 ET]
+Table 'Adelheid III' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($2.97 in chips) 
+Seat 3: Werktaetiger ($1.99 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.45 in chips) 
+Seat 6: manlikerich ($2.09 in chips) 
+jaroslavnegrian: posts small blind $0.01
+manlikerich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 4d]
+lawlex_2: folds 
+Werktaetiger: folds 
+MrArrow55555: folds 
+jaroslavnegrian: folds 
+Uncalled bet ($0.01) returned to manlikerich
+manlikerich collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (button) folded before Flop (didn't bet)
+Seat 5: jaroslavnegrian (small blind) folded before Flop
+Seat 6: manlikerich (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213906376926:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:43:29 MSK [2020/05/15 10:43:29 ET]
+Table 'Adelheid III' 6-max Seat #5 is the button
+Seat 2: lawlex_2 ($2.97 in chips) 
+Seat 3: Werktaetiger ($1.99 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.44 in chips) 
+Seat 6: manlikerich ($2.10 in chips) 
+manlikerich: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Qc]
+Werktaetiger: calls $0.02
+MrArrow55555: calls $0.02
+jaroslavnegrian: calls $0.02
+manlikerich: folds 
+lawlex_2: checks 
+*** FLOP *** [2s Th 7d]
+lawlex_2: checks 
+Werktaetiger: checks 
+MrArrow55555: checks 
+jaroslavnegrian: checks 
+*** TURN *** [2s Th 7d] [3d]
+lawlex_2: checks 
+Werktaetiger: checks 
+MrArrow55555: checks 
+jaroslavnegrian: checks 
+*** RIVER *** [2s Th 7d 3d] [2d]
+lawlex_2: checks 
+Werktaetiger: checks 
+MrArrow55555: checks 
+jaroslavnegrian: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [4h Qc] (a pair of Deuces)
+Werktaetiger: shows [Ks Qh] (a pair of Deuces - King kicker)
+MrArrow55555: mucks hand 
+jaroslavnegrian: mucks hand 
+Werktaetiger collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2s Th 7d 3d 2d]
+Seat 2: lawlex_2 (big blind) showed [4h Qc] and lost with a pair of Deuces
+Seat 3: Werktaetiger showed [Ks Qh] and won ($0.09) with a pair of Deuces
+Seat 4: MrArrow55555 mucked [Kh Js]
+Seat 5: jaroslavnegrian (button) mucked [5c 6c]
+Seat 6: manlikerich (small blind) folded before Flop
+
+
+
+PokerStars Hand #213906415008:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:44:26 MSK [2020/05/15 10:44:26 ET]
+Table 'Adelheid III' 6-max Seat #6 is the button
+Seat 2: lawlex_2 ($2.95 in chips) 
+Seat 3: Werktaetiger ($2.06 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.42 in chips) 
+Seat 6: manlikerich ($2.09 in chips) 
+lawlex_2: posts small blind $0.01
+Werktaetiger: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 5d]
+MrArrow55555: folds 
+jaroslavnegrian: folds 
+manlikerich: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Werktaetiger
+Werktaetiger collected $0.02 from pot
+Werktaetiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: Werktaetiger (big blind) collected ($0.02)
+Seat 4: MrArrow55555 folded before Flop (didn't bet)
+Seat 5: jaroslavnegrian folded before Flop (didn't bet)
+Seat 6: manlikerich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906420822:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:44:35 MSK [2020/05/15 10:44:35 ET]
+Table 'Adelheid III' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($2.94 in chips) 
+Seat 3: Werktaetiger ($2.07 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.42 in chips) 
+Seat 6: manlikerich ($2.09 in chips) 
+Werktaetiger: posts small blind $0.01
+MrArrow55555: posts big blind $0.02
+ihor.petr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Th]
+jaroslavnegrian: calls $0.02
+manlikerich: raises $0.06 to $0.08
+lawlex_2: folds 
+Werktaetiger: folds 
+MrArrow55555: folds 
+jaroslavnegrian: folds 
+Uncalled bet ($0.06) returned to manlikerich
+manlikerich collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: Werktaetiger (small blind) folded before Flop
+Seat 4: MrArrow55555 (big blind) folded before Flop
+Seat 5: jaroslavnegrian folded before Flop
+Seat 6: manlikerich collected ($0.07)
+
+
+
+PokerStars Hand #213906432455:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:44:53 MSK [2020/05/15 10:44:53 ET]
+Table 'Adelheid III' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($2.94 in chips) 
+Seat 3: Werktaetiger ($2.06 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.40 in chips) 
+Seat 6: manlikerich ($2.14 in chips) 
+MrArrow55555: posts small blind $0.01
+jaroslavnegrian: posts big blind $0.02
+ihor.petr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 8h]
+manlikerich: folds 
+lawlex_2: folds 
+Werktaetiger: calls $0.02
+MrArrow55555: folds 
+jaroslavnegrian: checks 
+*** FLOP *** [7c 9c Qs]
+jaroslavnegrian: checks 
+Werktaetiger: checks 
+*** TURN *** [7c 9c Qs] [5c]
+jaroslavnegrian: bets $0.02
+Werktaetiger: raises $0.02 to $0.04
+jaroslavnegrian: calls $0.02
+*** RIVER *** [7c 9c Qs 5c] [7d]
+jaroslavnegrian: checks 
+Werktaetiger: bets $0.02
+jaroslavnegrian: folds 
+Uncalled bet ($0.02) returned to Werktaetiger
+Werktaetiger collected $0.13 from pot
+Werktaetiger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7c 9c Qs 5c 7d]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Werktaetiger (button) collected ($0.13)
+Seat 4: MrArrow55555 (small blind) folded before Flop
+Seat 5: jaroslavnegrian (big blind) folded on the River
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906456269:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:45:29 MSK [2020/05/15 10:45:29 ET]
+Table 'Adelheid III' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($2.94 in chips) 
+Seat 3: Werktaetiger ($2.13 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.34 in chips) 
+Seat 6: manlikerich ($2.14 in chips) 
+jaroslavnegrian: posts small blind $0.01
+manlikerich: posts big blind $0.02
+ihor.petr: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Kc]
+lawlex_2: raises $0.03 to $0.05
+Werktaetiger: folds 
+MrArrow55555: folds 
+jaroslavnegrian: calls $0.04
+manlikerich: folds 
+*** FLOP *** [7c 7h Ks]
+jaroslavnegrian: checks 
+lawlex_2: bets $0.08
+jaroslavnegrian: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7c 7h Ks]
+Seat 2: lawlex_2 collected ($0.12)
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (button) folded before Flop (didn't bet)
+Seat 5: jaroslavnegrian (small blind) folded on the Flop
+Seat 6: manlikerich (big blind) folded before Flop
+
+
+
+PokerStars Hand #213906474777:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:45:57 MSK [2020/05/15 10:45:57 ET]
+Table 'Adelheid III' 6-max Seat #5 is the button
+Seat 1: ihor.petr ($0.79 in chips) 
+Seat 2: lawlex_2 ($3.01 in chips) 
+Seat 3: Werktaetiger ($2.13 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.29 in chips) 
+Seat 6: manlikerich ($2.12 in chips) 
+manlikerich: posts small blind $0.01
+ihor.petr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 7h]
+lawlex_2: folds 
+Werktaetiger: folds 
+MrArrow55555: raises $0.04 to $0.06
+jaroslavnegrian: folds 
+manlikerich: folds 
+ihor.petr: folds 
+Uncalled bet ($0.04) returned to MrArrow55555
+MrArrow55555 collected $0.05 from pot
+MrArrow55555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ihor.petr (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Werktaetiger folded before Flop (didn't bet)
+Seat 4: MrArrow55555 collected ($0.05)
+Seat 5: jaroslavnegrian (button) folded before Flop (didn't bet)
+Seat 6: manlikerich (small blind) folded before Flop
+
+
+
+PokerStars Hand #213906483897:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:46:10 MSK [2020/05/15 10:46:10 ET]
+Table 'Adelheid III' 6-max Seat #6 is the button
+Seat 1: ihor.petr ($0.77 in chips) 
+Seat 2: lawlex_2 ($3.01 in chips) 
+Seat 3: Werktaetiger ($2.13 in chips) 
+Seat 4: MrArrow55555 ($2.03 in chips) 
+Seat 5: jaroslavnegrian ($1.29 in chips) 
+Seat 6: manlikerich ($2.11 in chips) 
+ihor.petr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 9c]
+Werktaetiger: calls $0.02
+MrArrow55555: folds 
+jaroslavnegrian: raises $0.02 to $0.04
+manlikerich: folds 
+ihor.petr: folds 
+lawlex_2: folds 
+Werktaetiger: calls $0.02
+*** FLOP *** [5s 7h 4c]
+Werktaetiger: checks 
+jaroslavnegrian: bets $0.06
+Werktaetiger: folds 
+Uncalled bet ($0.06) returned to jaroslavnegrian
+jaroslavnegrian collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5s 7h 4c]
+Seat 1: ihor.petr (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: Werktaetiger folded on the Flop
+Seat 4: MrArrow55555 folded before Flop (didn't bet)
+Seat 5: jaroslavnegrian collected ($0.11)
+Seat 6: manlikerich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906503278:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:46:40 MSK [2020/05/15 10:46:40 ET]
+Table 'Adelheid III' 6-max Seat #1 is the button
+Seat 1: ihor.petr ($0.76 in chips) 
+Seat 2: lawlex_2 ($2.99 in chips) 
+Seat 4: MrArrow55555 ($2.03 in chips) 
+Seat 5: jaroslavnegrian ($1.36 in chips) 
+Seat 6: manlikerich ($2.11 in chips) 
+lawlex_2: posts small blind $0.01
+Werktaetiger: is sitting out 
+MrArrow55555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 7s]
+jaroslavnegrian: folds 
+manlikerich: folds 
+ihor.petr: raises $0.74 to $0.76 and is all-in
+lawlex_2: folds 
+MrArrow55555: folds 
+Uncalled bet ($0.74) returned to ihor.petr
+ihor.petr collected $0.05 from pot
+ihor.petr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ihor.petr (button) collected ($0.05)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 4: MrArrow55555 (big blind) folded before Flop
+Seat 5: jaroslavnegrian folded before Flop (didn't bet)
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906515781:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:46:59 MSK [2020/05/15 10:46:59 ET]
+Table 'Adelheid III' 6-max Seat #2 is the button
+Seat 1: ihor.petr ($0.79 in chips) 
+Seat 2: lawlex_2 ($2.98 in chips) 
+Seat 4: MrArrow55555 ($2.01 in chips) 
+Seat 5: jaroslavnegrian ($1.36 in chips) 
+Seat 6: manlikerich ($2.11 in chips) 
+MrArrow55555: posts small blind $0.01
+jaroslavnegrian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Ah]
+manlikerich: folds 
+ihor.petr: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Werktaetiger leaves the table
+MrArrow55555: folds 
+El Mewes joins the table at seat #3 
+jaroslavnegrian: calls $0.03
+ihor.petr: calls $0.03
+*** FLOP *** [4d 8s 3s]
+jaroslavnegrian: checks 
+ihor.petr: checks 
+lawlex_2: checks 
+*** TURN *** [4d 8s 3s] [Ad]
+jaroslavnegrian: checks 
+ihor.petr: bets $0.04
+lawlex_2: calls $0.04
+jaroslavnegrian: folds 
+*** RIVER *** [4d 8s 3s Ad] [5s]
+ihor.petr: checks 
+lawlex_2: bets $0.15
+ihor.petr: folds 
+Uncalled bet ($0.15) returned to lawlex_2
+lawlex_2 collected $0.23 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4d 8s 3s Ad 5s]
+Seat 1: ihor.petr folded on the River
+Seat 2: lawlex_2 (button) collected ($0.23)
+Seat 4: MrArrow55555 (small blind) folded before Flop
+Seat 5: jaroslavnegrian (big blind) folded on the Turn
+Seat 6: manlikerich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906545998:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:47:44 MSK [2020/05/15 10:47:44 ET]
+Table 'Adelheid III' 6-max Seat #4 is the button
+Seat 1: ihor.petr ($0.70 in chips) 
+Seat 2: lawlex_2 ($3.12 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.31 in chips) 
+Seat 6: manlikerich ($2.11 in chips) 
+jaroslavnegrian: posts small blind $0.01
+manlikerich: posts big blind $0.02
+El Mewes: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Qh]
+ihor.petr: calls $0.02
+lawlex_2: folds 
+MrArrow55555: raises $0.08 to $0.10
+jaroslavnegrian: folds 
+manlikerich: folds 
+ihor.petr: raises $0.60 to $0.70 and is all-in
+MrArrow55555: folds 
+Uncalled bet ($0.60) returned to ihor.petr
+ihor.petr collected $0.23 from pot
+ihor.petr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0 
+Seat 1: ihor.petr collected ($0.23)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 4: MrArrow55555 (button) folded before Flop
+Seat 5: jaroslavnegrian (small blind) folded before Flop
+Seat 6: manlikerich (big blind) folded before Flop
+
+
+
+PokerStars Hand #213906560271:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:48:06 MSK [2020/05/15 10:48:06 ET]
+Table 'Adelheid III' 6-max Seat #5 is the button
+Seat 1: ihor.petr ($0.83 in chips) 
+Seat 2: lawlex_2 ($3.12 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.30 in chips) 
+Seat 6: manlikerich ($2.09 in chips) 
+manlikerich: posts small blind $0.01
+ihor.petr: posts big blind $0.02
+El Mewes: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 3h]
+lawlex_2: folds 
+MrArrow55555: folds 
+jaroslavnegrian: calls $0.02
+manlikerich: folds 
+ihor.petr: checks 
+*** FLOP *** [2c Jh 5h]
+ihor.petr: checks 
+jaroslavnegrian: checks 
+*** TURN *** [2c Jh 5h] [Kh]
+ihor.petr: checks 
+jaroslavnegrian: checks 
+*** RIVER *** [2c Jh 5h Kh] [9s]
+ihor.petr: checks 
+jaroslavnegrian: checks 
+*** SHOW DOWN ***
+ihor.petr: shows [6d 8s] (high card King)
+jaroslavnegrian: shows [Qs 6s] (high card King - Queen kicker)
+jaroslavnegrian collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2c Jh 5h Kh 9s]
+Seat 1: ihor.petr (big blind) showed [6d 8s] and lost with high card King
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 4: MrArrow55555 folded before Flop (didn't bet)
+Seat 5: jaroslavnegrian (button) showed [Qs 6s] and won ($0.05) with high card King
+Seat 6: manlikerich (small blind) folded before Flop
+
+
+
+PokerStars Hand #213906580948:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:48:38 MSK [2020/05/15 10:48:38 ET]
+Table 'Adelheid III' 6-max Seat #6 is the button
+Seat 1: ihor.petr ($0.81 in chips) 
+Seat 2: lawlex_2 ($3.12 in chips) 
+Seat 3: El Mewes ($2 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.33 in chips) 
+Seat 6: manlikerich ($2.08 in chips) 
+ihor.petr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+El Mewes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Kd]
+El Mewes: checks 
+MrArrow55555: folds 
+jaroslavnegrian: raises $0.02 to $0.04
+manlikerich: folds 
+ihor.petr: raises $0.77 to $0.81 and is all-in
+lawlex_2: folds 
+El Mewes: folds 
+jaroslavnegrian: folds 
+Uncalled bet ($0.77) returned to ihor.petr
+ihor.petr collected $0.12 from pot
+ihor.petr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ihor.petr (small blind) collected ($0.12)
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: El Mewes folded before Flop (didn't bet)
+Seat 4: MrArrow55555 folded before Flop (didn't bet)
+Seat 5: jaroslavnegrian folded before Flop
+Seat 6: manlikerich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213906607895:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:49:19 MSK [2020/05/15 10:49:19 ET]
+Table 'Adelheid III' 6-max Seat #1 is the button
+Seat 1: ihor.petr ($0.89 in chips) 
+Seat 2: lawlex_2 ($3.10 in chips) 
+Seat 3: El Mewes ($1.98 in chips) 
+Seat 4: MrArrow55555 ($2 in chips) 
+Seat 5: jaroslavnegrian ($1.29 in chips) 
+lawlex_2: posts small blind $0.01
+El Mewes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Tc]
+MrArrow55555: calls $0.02
+jaroslavnegrian: calls $0.02
+ihor.petr: folds 
+lawlex_2: raises $0.03 to $0.05
+El Mewes: folds 
+MrArrow55555: calls $0.03
+jaroslavnegrian: calls $0.03
+*** FLOP *** [2s As 4s]
+lawlex_2: bets $0.11
+MrArrow55555: folds 
+jaroslavnegrian: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.16 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2s As 4s]
+Seat 1: ihor.petr (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) collected ($0.16)
+Seat 3: El Mewes (big blind) folded before Flop
+Seat 4: MrArrow55555 folded on the Flop
+Seat 5: jaroslavnegrian folded on the Flop
+
+
+
+PokerStars Hand #213906632033:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:49:56 MSK [2020/05/15 10:49:56 ET]
+Table 'Adelheid III' 6-max Seat #2 is the button
+Seat 1: ihor.petr ($0.89 in chips) 
+Seat 2: lawlex_2 ($3.21 in chips) 
+Seat 3: El Mewes ($1.96 in chips) 
+Seat 5: jaroslavnegrian ($1.24 in chips) 
+El Mewes: posts small blind $0.01
+MrArrow55555: is sitting out 
+jaroslavnegrian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Ac]
+MrArrow55555 leaves the table
+ihor.petr: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+El Mewes: folds 
+jaroslavnegrian: folds 
+ihor.petr: calls $0.03
+*** FLOP *** [2s 3s Ts]
+ihor.petr: checks 
+lawlex_2: bets $0.09
+ihor.petr: raises $0.09 to $0.18
+lawlex_2: folds 
+Uncalled bet ($0.09) returned to ihor.petr
+ihor.petr collected $0.30 from pot
+ihor.petr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [2s 3s Ts]
+Seat 1: ihor.petr collected ($0.30)
+Seat 2: lawlex_2 (button) folded on the Flop
+Seat 3: El Mewes (small blind) folded before Flop
+Seat 5: jaroslavnegrian (big blind) folded before Flop
+
+
+
+PokerStars Hand #213906652410:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:50:27 MSK [2020/05/15 10:50:27 ET]
+Table 'Adelheid III' 6-max Seat #3 is the button
+Seat 1: ihor.petr ($1.05 in chips) 
+Seat 2: lawlex_2 ($3.07 in chips) 
+Seat 3: El Mewes ($1.95 in chips) 
+Seat 5: jaroslavnegrian ($1.22 in chips) 
+Seat 6: manlikerich ($2.08 in chips) 
+jaroslavnegrian: posts small blind $0.01
+manlikerich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Ad]
+voronezh59 joins the table at seat #4 
+ihor.petr: folds 
+lawlex_2: raises $0.03 to $0.05
+El Mewes: calls $0.05
+jaroslavnegrian: calls $0.04
+manlikerich: folds 
+*** FLOP *** [8s Td 9c]
+jaroslavnegrian: bets $0.08
+lawlex_2: folds 
+El Mewes: calls $0.08
+*** TURN *** [8s Td 9c] [8h]
+jaroslavnegrian: bets $0.16
+El Mewes: raises $0.16 to $0.32
+jaroslavnegrian: folds 
+Uncalled bet ($0.16) returned to El Mewes
+El Mewes collected $0.63 from pot
+El Mewes: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [8s Td 9c 8h]
+Seat 1: ihor.petr folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: El Mewes (button) collected ($0.63)
+Seat 5: jaroslavnegrian (small blind) folded on the Turn
+Seat 6: manlikerich (big blind) folded before Flop
+
+
+
+PokerStars Hand #213906674686:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:51:01 MSK [2020/05/15 10:51:01 ET]
+Table 'Adelheid III' 6-max Seat #5 is the button
+Seat 1: ihor.petr ($1.05 in chips) 
+Seat 2: lawlex_2 ($3.02 in chips) 
+Seat 3: El Mewes ($2.29 in chips) 
+Seat 5: jaroslavnegrian ($0.93 in chips) 
+Seat 6: manlikerich ($2.06 in chips) 
+manlikerich: posts small blind $0.01
+ihor.petr: posts big blind $0.02
+voronezh59: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Kc]
+lawlex_2: folds 
+El Mewes: calls $0.02
+jaroslavnegrian: calls $0.02
+manlikerich: folds 
+ihor.petr: checks 
+*** FLOP *** [4c 8h 6h]
+ihor.petr: bets $0.06
+El Mewes: folds 
+jaroslavnegrian: folds 
+Uncalled bet ($0.06) returned to ihor.petr
+ihor.petr collected $0.07 from pot
+ihor.petr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4c 8h 6h]
+Seat 1: ihor.petr (big blind) collected ($0.07)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: El Mewes folded on the Flop
+Seat 5: jaroslavnegrian (button) folded on the Flop
+Seat 6: manlikerich (small blind) folded before Flop
+
+
+
+PokerStars Hand #213906688069:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 17:51:21 MSK [2020/05/15 10:51:21 ET]
+Table 'Adelheid III' 6-max Seat #6 is the button
+Seat 1: ihor.petr ($1.10 in chips) 
+Seat 2: lawlex_2 ($3.02 in chips) 
+Seat 3: El Mewes ($2.27 in chips) 
+Seat 5: jaroslavnegrian ($0.91 in chips) 
+Seat 6: manlikerich ($2.05 in chips) 
+ihor.petr: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+voronezh59: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 6s]
+El Mewes: calls $0.02
+jaroslavnegrian: folds 
+manlikerich: folds 
+ihor.petr: folds 
+lawlex_2: checks 
+*** FLOP *** [3d 7h 4d]
+lawlex_2: checks 
+El Mewes: checks 
+*** TURN *** [3d 7h 4d] [Qd]
+lawlex_2: checks 
+El Mewes: checks 
+*** RIVER *** [3d 7h 4d Qd] [Kd]
+lawlex_2: checks 
+El Mewes: bets $0.02
+lawlex_2: calls $0.02
+*** SHOW DOWN ***
+El Mewes: shows [8c 6c] (high card King)
+lawlex_2: shows [7s 6s] (a pair of Sevens)
+lawlex_2 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3d 7h 4d Qd Kd]
+Seat 1: ihor.petr (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) showed [7s 6s] and won ($0.09) with a pair of Sevens
+Seat 3: El Mewes showed [8c 6c] and lost with high card King
+Seat 5: jaroslavnegrian folded before Flop (didn't bet)
+Seat 6: manlikerich (button) folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,4562 @@
+﻿PokerStars Hand #213854563400:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 18:54:04 MSK [2020/05/14 11:54:04 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Mrkus 9571 ($0.28 in chips) 
+Seat 2: Don-Bosco9 ($2.38 in chips) 
+Seat 3: lawlex_2 ($2 in chips) 
+Seat 4: pokerman441 ($2.67 in chips) 
+Seat 5: vdovchenko83 ($0.61 in chips) 
+Seat 6: molodtssov ($3.30 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 8s]
+pokerman441: folds 
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: folds 
+Mrkus 9571: folds 
+Don-Bosco9: folds 
+lawlex_2: calls $0.09
+*** FLOP *** [2c Qc Ac]
+lawlex_2: checks 
+vdovchenko83: bets $0.24
+lawlex_2: folds 
+Uncalled bet ($0.24) returned to vdovchenko83
+vdovchenko83 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [2c Qc Ac]
+Seat 1: Mrkus 9571 (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.22)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854581780:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 18:54:29 MSK [2020/05/14 11:54:29 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Mrkus 9571 ($0.28 in chips) 
+Seat 2: Don-Bosco9 ($2.37 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: pokerman441 ($2.67 in chips) 
+Seat 5: vdovchenko83 ($0.72 in chips) 
+Seat 6: molodtssov ($3.30 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 7d]
+vdovchenko83: folds 
+molodtssov: folds 
+Mrkus 9571: calls $0.02
+Don-Bosco9: calls $0.02
+lawlex_2: folds 
+pokerman441: checks 
+*** FLOP *** [9h Kd Qh]
+pokerman441: checks 
+Mrkus 9571: bets $0.04
+Don-Bosco9: folds 
+pokerman441: calls $0.04
+*** TURN *** [9h Kd Qh] [8d]
+pokerman441: checks 
+Mrkus 9571: checks 
+*** RIVER *** [9h Kd Qh 8d] [Kh]
+pokerman441: checks 
+Mrkus 9571: checks 
+*** SHOW DOWN ***
+pokerman441: shows [4h Qc] (two pair, Kings and Queens)
+Mrkus 9571: shows [Jc Qd] (two pair, Kings and Queens - Jack kicker)
+Mrkus 9571 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9h Kd Qh 8d Kh]
+Seat 1: Mrkus 9571 showed [Jc Qd] and won ($0.14) with two pair, Kings and Queens
+Seat 2: Don-Bosco9 (button) folded on the Flop
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) showed [4h Qc] and lost with two pair, Kings and Queens
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854603836:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 18:54:59 MSK [2020/05/14 11:54:59 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Mrkus 9571 ($0.36 in chips) 
+Seat 2: Don-Bosco9 ($2.35 in chips) 
+Seat 3: lawlex_2 ($1.88 in chips) 
+Seat 4: pokerman441 ($2.61 in chips) 
+Seat 5: vdovchenko83 ($0.72 in chips) 
+Seat 6: molodtssov ($3.30 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Ks]
+molodtssov: folds 
+Mrkus 9571: folds 
+Don-Bosco9: raises $0.03 to $0.05
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: folds 
+Uncalled bet ($0.03) returned to Don-Bosco9
+Don-Bosco9 collected $0.05 from pot
+Don-Bosco9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Mrkus 9571 folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 collected ($0.05)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) folded before Flop
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854614581:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 18:55:15 MSK [2020/05/14 11:55:15 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Mrkus 9571 ($0.36 in chips) 
+Seat 2: Don-Bosco9 ($2.38 in chips) 
+Seat 3: lawlex_2 ($1.88 in chips) 
+Seat 4: pokerman441 ($2.60 in chips) 
+Seat 5: vdovchenko83 ($0.70 in chips) 
+Seat 6: molodtssov ($3.30 in chips) 
+vdovchenko83: posts small blind $0.01
+molodtssov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 7s]
+Mrkus 9571: folds 
+Don-Bosco9: folds 
+Mrkus 9571 leaves the table
+lawlex_2 has timed out
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.10 to $0.12
+molodtssov: folds 
+Uncalled bet ($0.10) returned to vdovchenko83
+vdovchenko83 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Mrkus 9571 folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) collected ($0.04)
+Seat 6: molodtssov (big blind) folded before Flop
+
+
+
+PokerStars Hand #213854681359:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 18:57:14 MSK [2020/05/14 11:57:14 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.35 in chips) 
+Seat 3: lawlex_2 ($1.88 in chips) 
+Seat 4: pokerman441 ($2.60 in chips) 
+Seat 5: vdovchenko83 ($0.68 in chips) 
+Seat 6: molodtssov ($3.30 in chips) 
+molodtssov: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+lawlex_2: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Qd]
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: calls $0.05
+vdovchenko83: calls $0.05
+molodtssov: folds 
+Jav9sp: folds 
+*** FLOP *** [3h 6c 2d]
+lawlex_2: checks 
+pokerman441: checks 
+vdovchenko83: bets $0.10
+lawlex_2: folds 
+pokerman441: calls $0.10
+*** TURN *** [3h 6c 2d] [Ac]
+pokerman441: checks 
+vdovchenko83: checks 
+*** RIVER *** [3h 6c 2d Ac] [Ks]
+pokerman441: checks 
+vdovchenko83: bets $0.20
+pokerman441: folds 
+Uncalled bet ($0.20) returned to vdovchenko83
+vdovchenko83 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [3h 6c 2d Ac Ks]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded on the Flop
+Seat 4: pokerman441 folded on the River
+Seat 5: vdovchenko83 (button) collected ($0.38)
+Seat 6: molodtssov (small blind) folded before Flop
+
+
+
+PokerStars Hand #213854718750:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 18:58:19 MSK [2020/05/14 11:58:19 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.35 in chips) 
+Seat 3: lawlex_2 ($1.82 in chips) 
+Seat 4: pokerman441 ($2.45 in chips) 
+Seat 5: vdovchenko83 ($0.91 in chips) 
+Seat 6: molodtssov ($3.29 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 8c]
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+Uncalled bet ($0.09) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: molodtssov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854726780:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 18:58:33 MSK [2020/05/14 11:58:33 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.33 in chips) 
+Seat 3: lawlex_2 ($1.82 in chips) 
+Seat 4: pokerman441 ($2.45 in chips) 
+Seat 5: vdovchenko83 ($0.94 in chips) 
+Seat 6: molodtssov ($3.29 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 7s]
+pokerman441: folds 
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.09) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854742987:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 18:58:44 MSK [2020/05/14 11:58:44 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.32 in chips) 
+Seat 3: lawlex_2 ($1.80 in chips) 
+Seat 5: vdovchenko83 ($0.97 in chips) 
+Seat 6: molodtssov ($3.29 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: is sitting out 
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Ac]
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+vdovchenko83: calls $0.03
+*** FLOP *** [Js 4s Qd]
+lawlex_2: bets $0.07
+vdovchenko83: calls $0.07
+*** TURN *** [Js 4s Qd] [Ad]
+lawlex_2: bets $0.15
+vdovchenko83: folds 
+Uncalled bet ($0.15) returned to lawlex_2
+lawlex_2 collected $0.23 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Js 4s Qd Ad]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) collected ($0.23)
+Seat 5: vdovchenko83 (big blind) folded on the Turn
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854759492:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 18:59:13 MSK [2020/05/14 11:59:13 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.32 in chips) 
+Seat 3: lawlex_2 ($1.91 in chips) 
+Seat 5: vdovchenko83 ($0.85 in chips) 
+Seat 6: molodtssov ($3.29 in chips) 
+vdovchenko83: posts small blind $0.01
+molodtssov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Qc]
+Jav9sp: raises $0.04 to $0.06
+Don-Bosco9: folds 
+lawlex_2: calls $0.06
+vdovchenko83: folds 
+molodtssov: folds 
+*** FLOP *** [2d 7d Qd]
+Jav9sp: checks 
+lawlex_2: bets $0.09
+Jav9sp: calls $0.09
+*** TURN *** [2d 7d Qd] [7h]
+Jav9sp: checks 
+lawlex_2: bets $0.21
+Jav9sp: calls $0.21
+*** RIVER *** [2d 7d Qd 7h] [6c]
+Jav9sp: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Jav9sp: shows [Qs Kh] (two pair, Queens and Sevens)
+lawlex_2: shows [Ad Qc] (two pair, Queens and Sevens - Ace kicker)
+lawlex_2 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2d 7d Qd 7h 6c]
+Seat 1: Jav9sp showed [Qs Kh] and lost with two pair, Queens and Sevens
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) showed [Ad Qc] and won ($0.72) with two pair, Queens and Sevens
+Seat 5: vdovchenko83 (small blind) folded before Flop
+Seat 6: molodtssov (big blind) folded before Flop
+
+
+
+PokerStars Hand #213854789117:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:00:05 MSK [2020/05/14 12:00:05 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.32 in chips) 
+Seat 3: lawlex_2 ($2.27 in chips) 
+Seat 5: vdovchenko83 ($0.84 in chips) 
+Seat 6: molodtssov ($3.27 in chips) 
+molodtssov: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 5d]
+Don-Bosco9: folds 
+lawlex_2: folds 
+vdovchenko83: raises $0.11 to $0.13
+molodtssov: folds 
+Jav9sp: calls $0.11
+*** FLOP *** [3d 7d Qd]
+Jav9sp: checks 
+vdovchenko83: bets $0.26
+Jav9sp: folds 
+Uncalled bet ($0.26) returned to vdovchenko83
+vdovchenko83 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [3d 7d Qd]
+Seat 1: Jav9sp (big blind) folded on the Flop
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) collected ($0.26)
+Seat 6: molodtssov (small blind) folded before Flop
+
+
+
+PokerStars Hand #213854805450:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:00:32 MSK [2020/05/14 12:00:32 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.32 in chips) 
+Seat 3: lawlex_2 ($2.27 in chips) 
+Seat 5: vdovchenko83 ($0.97 in chips) 
+Seat 6: molodtssov ($3.26 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Qc]
+lawlex_2: folds 
+vdovchenko83: folds 
+molodtssov: raises $0.05 to $0.07
+Jav9sp: folds 
+Don-Bosco9: folds 
+Uncalled bet ($0.05) returned to molodtssov
+molodtssov collected $0.05 from pot
+molodtssov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: molodtssov (button) collected ($0.05)
+
+
+
+PokerStars Hand #213854811899:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:00:43 MSK [2020/05/14 12:00:43 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.30 in chips) 
+Seat 3: lawlex_2 ($2.27 in chips) 
+Seat 5: vdovchenko83 ($0.97 in chips) 
+Seat 6: molodtssov ($3.29 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Kh]
+vdovchenko83: folds 
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.02)
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854816564:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:00:50 MSK [2020/05/14 12:00:50 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.29 in chips) 
+Seat 3: lawlex_2 ($2.28 in chips) 
+Seat 5: vdovchenko83 ($0.97 in chips) 
+Seat 6: molodtssov ($3.29 in chips) 
+lawlex_2: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Td]
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to vdovchenko83
+vdovchenko83 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) collected ($0.02)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854820422:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:00:57 MSK [2020/05/14 12:00:57 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.29 in chips) 
+Seat 3: lawlex_2 ($2.27 in chips) 
+Seat 5: vdovchenko83 ($0.98 in chips) 
+Seat 6: molodtssov ($3.29 in chips) 
+vdovchenko83: posts small blind $0.01
+molodtssov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Jc]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+vdovchenko83: raises $0.10 to $0.12
+molodtssov: folds 
+Uncalled bet ($0.10) returned to vdovchenko83
+vdovchenko83 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) collected ($0.04)
+Seat 6: molodtssov (big blind) folded before Flop
+
+
+
+PokerStars Hand #213854830012:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:01:11 MSK [2020/05/14 12:01:11 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.29 in chips) 
+Seat 3: lawlex_2 ($2.27 in chips) 
+Seat 5: vdovchenko83 ($1 in chips) 
+Seat 6: molodtssov ($3.27 in chips) 
+molodtssov: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 5s]
+Don-Bosco9: calls $0.02
+lawlex_2: folds 
+vdovchenko83: raises $0.11 to $0.13
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: calls $0.11
+*** FLOP *** [6d Ah 9d]
+Don-Bosco9: checks 
+vdovchenko83: bets $0.28
+Don-Bosco9: folds 
+Uncalled bet ($0.28) returned to vdovchenko83
+vdovchenko83 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [6d Ah 9d]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded on the Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) collected ($0.28)
+Seat 6: molodtssov (small blind) folded before Flop
+
+
+
+PokerStars Hand #213854853273:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:01:45 MSK [2020/05/14 12:01:45 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.16 in chips) 
+Seat 3: lawlex_2 ($2.27 in chips) 
+Seat 5: vdovchenko83 ($1.15 in chips) 
+Seat 6: molodtssov ($3.26 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+pokerman441: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 2c]
+lawlex_2: folds 
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+Uncalled bet ($0.09) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: molodtssov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854862049:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:01:57 MSK [2020/05/14 12:01:57 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.14 in chips) 
+Seat 3: lawlex_2 ($2.27 in chips) 
+Seat 5: vdovchenko83 ($1.18 in chips) 
+Seat 6: molodtssov ($3.26 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+pokerman441: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Tc]
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.09) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854868969:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:02:07 MSK [2020/05/14 12:02:07 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.13 in chips) 
+Seat 3: lawlex_2 ($2.25 in chips) 
+Seat 4: pokerman441 ($2.45 in chips) 
+Seat 5: vdovchenko83 ($1.21 in chips) 
+Seat 6: molodtssov ($3.26 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 3d]
+vdovchenko83: raises $0.04 to $0.06
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: calls $0.04
+*** FLOP *** [Th 4c 2d]
+pokerman441: checks 
+vdovchenko83: bets $0.14
+pokerman441: folds 
+Uncalled bet ($0.14) returned to vdovchenko83
+vdovchenko83 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th 4c 2d]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded on the Flop
+Seat 5: vdovchenko83 collected ($0.13)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854891667:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:02:38 MSK [2020/05/14 12:02:38 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.13 in chips) 
+Seat 3: lawlex_2 ($2.24 in chips) 
+Seat 4: pokerman441 ($2.39 in chips) 
+Seat 5: vdovchenko83 ($1.28 in chips) 
+Seat 6: molodtssov ($3.26 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 2d]
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+vdovchenko83: calls $0.04
+*** FLOP *** [5c 6h Jd]
+pokerman441: bets $0.06
+vdovchenko83: raises $0.06 to $0.12
+pokerman441: calls $0.06
+*** TURN *** [5c 6h Jd] [Ts]
+pokerman441: checks 
+vdovchenko83: bets $0.34
+pokerman441: calls $0.34
+*** RIVER *** [5c 6h Jd Ts] [9s]
+pokerman441: checks 
+vdovchenko83: checks 
+*** SHOW DOWN ***
+pokerman441: shows [Kc 9d] (a pair of Nines)
+vdovchenko83: shows [Td Js] (two pair, Jacks and Tens)
+vdovchenko83 collected $1 from pot
+*** SUMMARY ***
+Total pot $1.04 | Rake $0.04 
+Board [5c 6h Jd Ts 9s]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) showed [Kc 9d] and lost with a pair of Nines
+Seat 5: vdovchenko83 (big blind) showed [Td Js] and won ($1) with two pair, Jacks and Tens
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213854926011:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:03:24 MSK [2020/05/14 12:03:24 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.13 in chips) 
+Seat 3: lawlex_2 ($2.24 in chips) 
+Seat 4: pokerman441 ($1.87 in chips) 
+Seat 5: vdovchenko83 ($1.76 in chips) 
+Seat 6: molodtssov ($3.26 in chips) 
+vdovchenko83: posts small blind $0.01
+molodtssov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Ah]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: raises $0.10 to $0.15
+molodtssov: folds 
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to vdovchenko83
+vdovchenko83 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) collected ($0.12)
+Seat 6: molodtssov (big blind) folded before Flop
+
+
+
+PokerStars Hand #213854939556:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:03:42 MSK [2020/05/14 12:03:42 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.13 in chips) 
+Seat 3: lawlex_2 ($2.19 in chips) 
+Seat 4: pokerman441 ($2 in chips) 
+Seat 5: vdovchenko83 ($1.83 in chips) 
+Seat 6: molodtssov ($3.24 in chips) 
+molodtssov: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 4s]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+vdovchenko83: folds 
+molodtssov: folds 
+Jav9sp: calls $0.04
+*** FLOP *** [Ac 5d 2c]
+Jav9sp: checks 
+pokerman441: bets $0.07
+Jav9sp: calls $0.07
+*** TURN *** [Ac 5d 2c] [Tc]
+Jav9sp: checks 
+pokerman441: checks 
+*** RIVER *** [Ac 5d 2c Tc] [3c]
+Jav9sp: bets $0.05
+pokerman441: raises $0.36 to $0.41
+Jav9sp: calls $0.36
+*** SHOW DOWN ***
+pokerman441: shows [Ks Kc] (a flush, Ace high)
+Jav9sp: mucks hand 
+pokerman441 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.04 
+Board [Ac 5d 2c Tc 3c]
+Seat 1: Jav9sp (big blind) mucked [9c Qc]
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 showed [Ks Kc] and won ($1.05) with a flush, Ace high
+Seat 5: vdovchenko83 (button) folded before Flop (didn't bet)
+Seat 6: molodtssov (small blind) folded before Flop
+
+
+
+PokerStars Hand #213854984093:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:04:41 MSK [2020/05/14 12:04:41 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.13 in chips) 
+Seat 3: lawlex_2 ($2.19 in chips) 
+Seat 4: pokerman441 ($2.51 in chips) 
+Seat 5: vdovchenko83 ($1.83 in chips) 
+Seat 6: molodtssov ($3.23 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Qs]
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: calls $0.11
+Jav9sp: folds 
+Don-Bosco9: folds 
+*** FLOP *** [Ts 9s 7c]
+vdovchenko83: checks 
+molodtssov: checks 
+*** TURN *** [Ts 9s 7c] [Qh]
+vdovchenko83: bets $0.14
+molodtssov: folds 
+Uncalled bet ($0.14) returned to vdovchenko83
+vdovchenko83 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ts 9s 7c Qh]
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.24)
+Seat 6: molodtssov (button) folded on the Turn
+
+
+
+PokerStars Hand #213855009541:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:05:15 MSK [2020/05/14 12:05:15 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.11 in chips) 
+Seat 3: lawlex_2 ($2.19 in chips) 
+Seat 4: pokerman441 ($2.51 in chips) 
+Seat 5: vdovchenko83 ($1.96 in chips) 
+Seat 6: molodtssov ($3.12 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh As]
+pokerman441: folds 
+vdovchenko83: raises $0.11 to $0.13
+molodtssov: raises $0.21 to $0.34
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+vdovchenko83: calls $0.21
+*** FLOP *** [6d 8d Js]
+vdovchenko83: checks 
+molodtssov: checks 
+*** TURN *** [6d 8d Js] [8s]
+vdovchenko83: bets $0.36
+molodtssov: raises $2.42 to $2.78 and is all-in
+vdovchenko83: folds 
+Uncalled bet ($2.42) returned to molodtssov
+molodtssov collected $1.38 from pot
+molodtssov: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.05 
+Board [6d 8d Js 8s]
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 folded on the Turn
+Seat 6: molodtssov collected ($1.38)
+
+
+
+PokerStars Hand #213855047604:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:06:06 MSK [2020/05/14 12:06:06 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.10 in chips) 
+Seat 3: lawlex_2 ($2.17 in chips) 
+Seat 4: pokerman441 ($2.51 in chips) 
+Seat 5: vdovchenko83 ($1.26 in chips) 
+Seat 6: molodtssov ($3.80 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 6c]
+vdovchenko83: raises $0.13 to $0.15
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.31 to $0.46
+vdovchenko83: folds 
+Uncalled bet ($0.31) returned to pokerman441
+pokerman441 collected $0.31 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) collected ($0.31)
+Seat 5: vdovchenko83 folded before Flop
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855068562:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:06:33 MSK [2020/05/14 12:06:33 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.10 in chips) 
+Seat 3: lawlex_2 ($2.16 in chips) 
+Seat 4: pokerman441 ($2.67 in chips) 
+Seat 5: vdovchenko83 ($1.11 in chips) 
+Seat 6: molodtssov ($3.80 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Jc]
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+vdovchenko83: calls $0.04
+*** FLOP *** [2c As Jh]
+pokerman441: checks 
+vdovchenko83: bets $0.12
+pokerman441: folds 
+Uncalled bet ($0.12) returned to vdovchenko83
+vdovchenko83 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2c As Jh]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded on the Flop
+Seat 5: vdovchenko83 (big blind) collected ($0.12)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855091734:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:07:04 MSK [2020/05/14 12:07:04 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.10 in chips) 
+Seat 3: lawlex_2 ($2.16 in chips) 
+Seat 4: pokerman441 ($2.61 in chips) 
+Seat 5: vdovchenko83 ($1.17 in chips) 
+Seat 6: molodtssov ($3.80 in chips) 
+vdovchenko83: posts small blind $0.01
+molodtssov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 8d]
+Jav9sp: raises $0.04 to $0.06
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.10
+vdovchenko83: folds 
+molodtssov: folds 
+Jav9sp: calls $0.04
+*** FLOP *** [Kd 9d Qh]
+Jav9sp: checks 
+pokerman441: bets $0.11
+Jav9sp: calls $0.11
+*** TURN *** [Kd 9d Qh] [2h]
+Jav9sp: checks 
+pokerman441: bets $0.43
+Jav9sp: folds 
+Uncalled bet ($0.43) returned to pokerman441
+pokerman441 collected $0.43 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Kd 9d Qh 2h]
+Seat 1: Jav9sp folded on the Turn
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) collected ($0.43)
+Seat 5: vdovchenko83 (small blind) folded before Flop
+Seat 6: molodtssov (big blind) folded before Flop
+
+
+
+PokerStars Hand #213855126476:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:07:50 MSK [2020/05/14 12:07:50 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.10 in chips) 
+Seat 3: lawlex_2 ($2.16 in chips) 
+Seat 4: pokerman441 ($2.83 in chips) 
+Seat 5: vdovchenko83 ($1.16 in chips) 
+Seat 6: molodtssov ($3.78 in chips) 
+molodtssov: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Qc]
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: raises $0.15 to $0.20
+molodtssov: folds 
+Jav9sp: folds 
+lawlex_2: calls $0.15
+*** FLOP *** [Js 4h 5s]
+lawlex_2: bets $0.27
+vdovchenko83: calls $0.27
+*** TURN *** [Js 4h 5s] [9h]
+lawlex_2: bets $0.62
+vdovchenko83: raises $0.07 to $0.69 and is all-in
+lawlex_2: calls $0.07
+*** RIVER *** [Js 4h 5s 9h] [8h]
+*** SHOW DOWN ***
+lawlex_2: shows [Qh Qc] (a pair of Queens)
+vdovchenko83: shows [9c 7c] (a pair of Nines)
+lawlex_2 collected $2.27 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.08 
+Board [Js 4h 5s 9h 8h]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 showed [Qh Qc] and won ($2.27) with a pair of Queens
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) showed [9c 7c] and lost with a pair of Nines
+Seat 6: molodtssov (small blind) folded before Flop
+
+
+
+PokerStars Hand #213855161830:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:08:37 MSK [2020/05/14 12:08:37 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.10 in chips) 
+Seat 3: lawlex_2 ($3.27 in chips) 
+Seat 4: pokerman441 ($2.83 in chips) 
+Seat 6: molodtssov ($3.77 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 3c]
+lawlex_2: folds 
+pokerman441: folds 
+molodtssov: folds 
+Jav9sp: folds 
+Uncalled bet ($0.01) returned to Don-Bosco9
+Don-Bosco9 collected $0.02 from pot
+Don-Bosco9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) collected ($0.02)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 6: molodtssov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855170232:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:08:48 MSK [2020/05/14 12:08:48 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.11 in chips) 
+Seat 3: lawlex_2 ($3.27 in chips) 
+Seat 4: pokerman441 ($2.83 in chips) 
+Seat 6: molodtssov ($3.77 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Ac]
+pokerman441: folds 
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.02)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855177501:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:08:57 MSK [2020/05/14 12:08:57 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.10 in chips) 
+Seat 3: lawlex_2 ($3.28 in chips) 
+Seat 4: pokerman441 ($2.83 in chips) 
+Seat 5: vdovchenko83 ($1.60 in chips) 
+Seat 6: molodtssov ($3.77 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 4h]
+vdovchenko83: raises $0.04 to $0.06
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.04) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855198804:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:09:25 MSK [2020/05/14 12:09:25 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.10 in chips) 
+Seat 3: lawlex_2 ($3.27 in chips) 
+Seat 4: pokerman441 ($2.81 in chips) 
+Seat 5: vdovchenko83 ($1.63 in chips) 
+Seat 6: molodtssov ($3.77 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Ks]
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.01) returned to vdovchenko83
+vdovchenko83 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) collected ($0.02)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855211543:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:09:42 MSK [2020/05/14 12:09:42 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.10 in chips) 
+Seat 3: lawlex_2 ($3.27 in chips) 
+Seat 4: pokerman441 ($2.80 in chips) 
+Seat 5: vdovchenko83 ($1.64 in chips) 
+Seat 6: molodtssov ($3.77 in chips) 
+vdovchenko83: posts small blind $0.01
+molodtssov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 5s]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: folds 
+molodtssov: calls $0.03
+*** FLOP *** [Tc 4h Qd]
+molodtssov: checks 
+lawlex_2: bets $0.07
+molodtssov: calls $0.07
+*** TURN *** [Tc 4h Qd] [Ac]
+molodtssov: checks 
+lawlex_2: bets $0.16
+molodtssov: calls $0.16
+*** RIVER *** [Tc 4h Qd Ac] [8d]
+molodtssov: checks 
+lawlex_2: bets $0.36
+molodtssov: folds 
+Uncalled bet ($0.36) returned to lawlex_2
+lawlex_2 collected $0.55 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Tc 4h Qd Ac 8d]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 collected ($0.55)
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) folded before Flop
+Seat 6: molodtssov (big blind) folded on the River
+
+
+
+PokerStars Hand #213855239950:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:10:19 MSK [2020/05/14 12:10:19 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.10 in chips) 
+Seat 3: lawlex_2 ($3.54 in chips) 
+Seat 4: pokerman441 ($2.80 in chips) 
+Seat 5: vdovchenko83 ($1.63 in chips) 
+Seat 6: molodtssov ($3.49 in chips) 
+molodtssov: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 3d]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+vdovchenko83: calls $0.06
+molodtssov: folds 
+Jav9sp: calls $0.04
+*** FLOP *** [Jd 9s 6s]
+Jav9sp: checks 
+pokerman441: checks 
+vdovchenko83: bets $0.18
+Jav9sp: calls $0.18
+pokerman441: calls $0.18
+*** TURN *** [Jd 9s 6s] [Td]
+Jav9sp: checks 
+pokerman441: checks 
+vdovchenko83: bets $0.34
+Jav9sp: folds 
+pokerman441: raises $0.34 to $0.68
+vdovchenko83: calls $0.34
+*** RIVER *** [Jd 9s 6s Td] [Kh]
+pokerman441: bets $1.88 and is all-in
+vdovchenko83: folds 
+Uncalled bet ($1.88) returned to pokerman441
+pokerman441 collected $2.02 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.09 | Rake $0.07 
+Board [Jd 9s 6s Td Kh]
+Seat 1: Jav9sp (big blind) folded on the Turn
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 collected ($2.02)
+Seat 5: vdovchenko83 (button) folded on the River
+Seat 6: molodtssov (small blind) folded before Flop
+
+
+
+PokerStars Hand #213855300527:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:11:40 MSK [2020/05/14 12:11:40 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.10 in chips) 
+Seat 3: lawlex_2 ($3.54 in chips) 
+Seat 4: pokerman441 ($3.90 in chips) 
+Seat 5: vdovchenko83 ($0.71 in chips) 
+Seat 6: molodtssov ($3.48 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Kc]
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: folds 
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 collected ($0.05)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: molodtssov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855308974:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:11:51 MSK [2020/05/14 12:11:51 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.08 in chips) 
+Seat 3: lawlex_2 ($3.57 in chips) 
+Seat 4: pokerman441 ($3.90 in chips) 
+Seat 5: vdovchenko83 ($0.71 in chips) 
+Seat 6: molodtssov ($3.48 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 4d]
+pokerman441: folds 
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.09) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855321367:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:12:07 MSK [2020/05/14 12:12:07 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.07 in chips) 
+Seat 3: lawlex_2 ($3.55 in chips) 
+Seat 4: pokerman441 ($3.90 in chips) 
+Seat 5: vdovchenko83 ($0.74 in chips) 
+Seat 6: molodtssov ($3.48 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 8s]
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.09) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855337374:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:12:28 MSK [2020/05/14 12:12:28 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.07 in chips) 
+Seat 3: lawlex_2 ($3.54 in chips) 
+Seat 4: pokerman441 ($3.88 in chips) 
+Seat 5: vdovchenko83 ($0.77 in chips) 
+Seat 6: molodtssov ($3.48 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h As]
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: calls $0.03
+*** FLOP *** [4h 6h Jd]
+vdovchenko83: bets $0.10
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to vdovchenko83
+vdovchenko83 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4h 6h Jd]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded on the Flop
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) collected ($0.11)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855363969:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:13:03 MSK [2020/05/14 12:13:03 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.07 in chips) 
+Seat 3: lawlex_2 ($3.49 in chips) 
+Seat 4: pokerman441 ($3.87 in chips) 
+Seat 5: vdovchenko83 ($0.83 in chips) 
+Seat 6: molodtssov ($3.48 in chips) 
+vdovchenko83: posts small blind $0.01
+molodtssov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Qh]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+vdovchenko83: calls $0.05
+molodtssov: folds 
+*** FLOP *** [Qc 7d Qs]
+vdovchenko83: bets $0.14
+pokerman441: calls $0.14
+*** TURN *** [Qc 7d Qs] [3s]
+vdovchenko83: bets $0.22
+pokerman441: calls $0.22
+*** RIVER *** [Qc 7d Qs 3s] [Ad]
+vdovchenko83: checks 
+pokerman441: bets $0.20
+vdovchenko83: folds 
+Uncalled bet ($0.20) returned to pokerman441
+pokerman441 collected $0.83 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.03 
+Board [Qc 7d Qs 3s Ad]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) collected ($0.83)
+Seat 5: vdovchenko83 (small blind) folded on the River
+Seat 6: molodtssov (big blind) folded before Flop
+
+
+
+PokerStars Hand #213855418311:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:14:14 MSK [2020/05/14 12:14:14 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.07 in chips) 
+Seat 3: lawlex_2 ($3.49 in chips) 
+Seat 4: pokerman441 ($4.28 in chips) 
+Seat 5: vdovchenko83 ($0.41 in chips) 
+Seat 6: molodtssov ($3.46 in chips) 
+molodtssov: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Ts]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.39 to $0.41 and is all-in
+molodtssov: folds 
+Jav9sp: folds 
+Uncalled bet ($0.39) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) collected ($0.05)
+Seat 6: molodtssov (small blind) folded before Flop
+
+
+
+PokerStars Hand #213855432489:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:14:33 MSK [2020/05/14 12:14:33 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2.07 in chips) 
+Seat 3: lawlex_2 ($3.49 in chips) 
+Seat 4: pokerman441 ($4.28 in chips) 
+Seat 5: vdovchenko83 ($0.44 in chips) 
+Seat 6: molodtssov ($3.45 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Qd]
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: calls $0.09
+*** FLOP *** [2c Jd Kd]
+Don-Bosco9: checks 
+vdovchenko83: bets $0.33 and is all-in
+Don-Bosco9: folds 
+Uncalled bet ($0.33) returned to vdovchenko83
+vdovchenko83 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [2c Jd Kd]
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded on the Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.22)
+Seat 6: molodtssov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855459468:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:15:08 MSK [2020/05/14 12:15:08 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.49 in chips) 
+Seat 4: pokerman441 ($4.28 in chips) 
+Seat 5: vdovchenko83 ($0.55 in chips) 
+Seat 6: molodtssov ($3.45 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 8h]
+pokerman441: folds 
+vdovchenko83: raises $0.15 to $0.17
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: calls $0.16
+lawlex_2: folds 
+*** FLOP *** [4c Ac 4d]
+Don-Bosco9: checks 
+vdovchenko83: bets $0.20
+Don-Bosco9: folds 
+Uncalled bet ($0.20) returned to vdovchenko83
+vdovchenko83 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [4c Ac 4d]
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded on the Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.35)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855478205:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:15:33 MSK [2020/05/14 12:15:33 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.47 in chips) 
+Seat 4: pokerman441 ($4.28 in chips) 
+Seat 5: vdovchenko83 ($0.73 in chips) 
+Seat 6: molodtssov ($3.45 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Kh]
+vdovchenko83: folds 
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: calls $0.03
+*** FLOP *** [9s 8c 8s]
+lawlex_2: bets $0.07
+pokerman441: calls $0.07
+*** TURN *** [9s 8c 8s] [6s]
+lawlex_2: bets $0.15
+pokerman441: folds 
+Uncalled bet ($0.15) returned to lawlex_2
+lawlex_2 collected $0.23 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9s 8c 8s 6s]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) collected ($0.23)
+Seat 4: pokerman441 (big blind) folded on the Turn
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855503225:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:16:05 MSK [2020/05/14 12:16:05 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.58 in chips) 
+Seat 4: pokerman441 ($4.16 in chips) 
+Seat 5: vdovchenko83 ($0.73 in chips) 
+Seat 6: molodtssov ($3.45 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 5d]
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.01) returned to vdovchenko83
+vdovchenko83 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) collected ($0.02)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855509225:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:16:13 MSK [2020/05/14 12:16:13 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.58 in chips) 
+Seat 4: pokerman441 ($4.15 in chips) 
+Seat 5: vdovchenko83 ($0.74 in chips) 
+Seat 6: molodtssov ($3.45 in chips) 
+vdovchenko83: posts small blind $0.01
+molodtssov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Kh]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.08 to $0.10
+molodtssov: folds 
+Uncalled bet ($0.08) returned to vdovchenko83
+vdovchenko83 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) collected ($0.04)
+Seat 6: molodtssov (big blind) folded before Flop
+
+
+
+PokerStars Hand #213855521031:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:16:28 MSK [2020/05/14 12:16:28 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.58 in chips) 
+Seat 4: pokerman441 ($4.15 in chips) 
+Seat 5: vdovchenko83 ($0.76 in chips) 
+Seat 6: molodtssov ($3.43 in chips) 
+molodtssov: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 3s]
+Don-Bosco9: raises $0.04 to $0.06
+lawlex_2: folds 
+pokerman441: calls $0.06
+vdovchenko83: calls $0.06
+molodtssov: folds 
+Jav9sp: folds 
+*** FLOP *** [Th 4c 7h]
+Don-Bosco9: checks 
+pokerman441: checks 
+vdovchenko83: bets $0.20
+Don-Bosco9: folds 
+pokerman441: calls $0.20
+*** TURN *** [Th 4c 7h] [7c]
+pokerman441: checks 
+vdovchenko83: bets $0.50 and is all-in
+pokerman441: calls $0.50
+*** RIVER *** [Th 4c 7h 7c] [Qs]
+*** SHOW DOWN ***
+pokerman441: shows [4h Ah] (two pair, Sevens and Fours)
+vdovchenko83: shows [9d Ts] (two pair, Tens and Sevens)
+vdovchenko83 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.06 
+Board [Th 4c 7h 7c Qs]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded on the Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 showed [4h Ah] and lost with two pair, Sevens and Fours
+Seat 5: vdovchenko83 (button) showed [9d Ts] and won ($1.55) with two pair, Tens and Sevens
+Seat 6: molodtssov (small blind) folded before Flop
+
+
+
+PokerStars Hand #213855567653:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:17:29 MSK [2020/05/14 12:17:29 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.58 in chips) 
+Seat 4: pokerman441 ($3.39 in chips) 
+Seat 5: vdovchenko83 ($1.55 in chips) 
+Seat 6: molodtssov ($3.42 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 4h]
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: folds 
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 collected ($0.05)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: molodtssov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855576050:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:17:40 MSK [2020/05/14 12:17:40 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.61 in chips) 
+Seat 4: pokerman441 ($3.39 in chips) 
+Seat 5: vdovchenko83 ($1.55 in chips) 
+Seat 6: molodtssov ($3.42 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc Qc]
+pokerman441: folds 
+vdovchenko83: raises $0.11 to $0.13
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.11) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855588819:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:17:56 MSK [2020/05/14 12:17:56 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.59 in chips) 
+Seat 4: pokerman441 ($3.39 in chips) 
+Seat 5: vdovchenko83 ($1.58 in chips) 
+Seat 6: molodtssov ($3.42 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Th]
+vdovchenko83: folds 
+molodtssov: folds 
+Jav9sp: raises $0.04 to $0.06
+Don-Bosco9: folds 
+lawlex_2: calls $0.05
+pokerman441: folds 
+*** FLOP *** [5s 2s 4c]
+lawlex_2: bets $0.09
+Jav9sp: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5s 2s 4c]
+Seat 1: Jav9sp folded on the Flop
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) collected ($0.14)
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855611251:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:18:25 MSK [2020/05/14 12:18:25 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.67 in chips) 
+Seat 4: pokerman441 ($3.37 in chips) 
+Seat 5: vdovchenko83 ($1.58 in chips) 
+Seat 6: molodtssov ($3.42 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Kd]
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.01) returned to vdovchenko83
+vdovchenko83 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) collected ($0.02)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855624807:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:18:43 MSK [2020/05/14 12:18:43 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.67 in chips) 
+Seat 4: pokerman441 ($3.36 in chips) 
+Seat 5: vdovchenko83 ($1.59 in chips) 
+Seat 6: molodtssov ($3.42 in chips) 
+vdovchenko83: posts small blind $0.01
+molodtssov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Ks]
+Jav9sp: raises $0.04 to $0.06
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: calls $0.06
+vdovchenko83: calls $0.05
+molodtssov: folds 
+*** FLOP *** [5c 7d As]
+vdovchenko83: checks 
+Jav9sp: bets $0.04
+pokerman441: folds 
+vdovchenko83: calls $0.04
+*** TURN *** [5c 7d As] [Tc]
+vdovchenko83: checks 
+Jav9sp: checks 
+*** RIVER *** [5c 7d As Tc] [Kc]
+vdovchenko83: bets $0.26
+Jav9sp: folds 
+Uncalled bet ($0.26) returned to vdovchenko83
+vdovchenko83 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [5c 7d As Tc Kc]
+Seat 1: Jav9sp folded on the River
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) folded on the Flop
+Seat 5: vdovchenko83 (small blind) collected ($0.27)
+Seat 6: molodtssov (big blind) folded before Flop
+
+
+
+PokerStars Hand #213855669921:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:19:41 MSK [2020/05/14 12:19:41 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.67 in chips) 
+Seat 4: pokerman441 ($3.30 in chips) 
+Seat 5: vdovchenko83 ($1.76 in chips) 
+Seat 6: molodtssov ($3.40 in chips) 
+molodtssov: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 6d]
+Don-Bosco9: raises $0.04 to $0.06
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.15 to $0.21
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: calls $0.15
+*** FLOP *** [Ts Qd 4s]
+Don-Bosco9: checks 
+vdovchenko83: bets $0.42
+Don-Bosco9: folds 
+Uncalled bet ($0.42) returned to vdovchenko83
+vdovchenko83 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ts Qd 4s]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded on the Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) collected ($0.43)
+Seat 6: molodtssov (small blind) folded before Flop
+
+
+
+PokerStars Hand #213855698365:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:20:18 MSK [2020/05/14 12:20:18 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.67 in chips) 
+Seat 4: pokerman441 ($3.30 in chips) 
+Seat 5: vdovchenko83 ($1.98 in chips) 
+Seat 6: molodtssov ($3.39 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 8d]
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.11 to $0.13
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+Uncalled bet ($0.11) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: molodtssov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855713296:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:20:38 MSK [2020/05/14 12:20:38 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.67 in chips) 
+Seat 4: pokerman441 ($3.30 in chips) 
+Seat 5: vdovchenko83 ($2.01 in chips) 
+Seat 6: molodtssov ($3.39 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 7h]
+pokerman441: folds 
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: raises $0.24 to $0.35
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+vdovchenko83: folds 
+Uncalled bet ($0.24) returned to molodtssov
+molodtssov collected $0.25 from pot
+molodtssov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 folded before Flop
+Seat 6: molodtssov collected ($0.25)
+
+
+
+PokerStars Hand #213855732776:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:21:03 MSK [2020/05/14 12:21:03 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.65 in chips) 
+Seat 4: pokerman441 ($3.30 in chips) 
+Seat 5: vdovchenko83 ($1.90 in chips) 
+Seat 6: molodtssov ($3.53 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Kd]
+vdovchenko83: folds 
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to pokerman441
+pokerman441 collected $0.02 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) collected ($0.02)
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855741627:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:21:14 MSK [2020/05/14 12:21:14 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.64 in chips) 
+Seat 4: pokerman441 ($3.31 in chips) 
+Seat 5: vdovchenko83 ($1.90 in chips) 
+Seat 6: molodtssov ($3.53 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Ad]
+molodtssov has timed out
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: calls $0.03
+*** FLOP *** [Qd Ks 9d]
+vdovchenko83: bets $0.10
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to vdovchenko83
+vdovchenko83 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qd Ks 9d]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded on the Flop
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) collected ($0.11)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855766089:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:21:46 MSK [2020/05/14 12:21:46 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.59 in chips) 
+Seat 4: pokerman441 ($3.30 in chips) 
+Seat 5: vdovchenko83 ($1.96 in chips) 
+Seat 6: molodtssov ($3.53 in chips) 
+vdovchenko83: posts small blind $0.01
+molodtssov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 6d]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+vdovchenko83: calls $0.05
+molodtssov: folds 
+*** FLOP *** [8c 9c Jc]
+vdovchenko83: bets $0.14
+pokerman441: folds 
+Uncalled bet ($0.14) returned to vdovchenko83
+vdovchenko83 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8c 9c Jc]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) folded on the Flop
+Seat 5: vdovchenko83 (small blind) collected ($0.14)
+Seat 6: molodtssov (big blind) folded before Flop
+
+
+
+PokerStars Hand #213855785131:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:22:10 MSK [2020/05/14 12:22:10 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.59 in chips) 
+Seat 4: pokerman441 ($3.24 in chips) 
+Seat 5: vdovchenko83 ($2.04 in chips) 
+Seat 6: molodtssov ($3.51 in chips) 
+molodtssov: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 2d]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.11 to $0.13
+molodtssov: folds 
+Jav9sp: folds 
+Uncalled bet ($0.11) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) collected ($0.05)
+Seat 6: molodtssov (small blind) folded before Flop
+
+
+
+PokerStars Hand #213855797118:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:22:26 MSK [2020/05/14 12:22:26 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.59 in chips) 
+Seat 4: pokerman441 ($3.24 in chips) 
+Seat 5: vdovchenko83 ($2.07 in chips) 
+Seat 6: molodtssov ($3.50 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 3h]
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.09 to $0.11
+molodtssov: folds 
+Jav9sp: raises $0.09 to $0.20
+Don-Bosco9: folds 
+vdovchenko83: calls $0.09
+*** FLOP *** [Qc 4h 8h]
+Jav9sp: bets $0.08
+vdovchenko83: raises $0.28 to $0.36
+Jav9sp: folds 
+Uncalled bet ($0.28) returned to vdovchenko83
+vdovchenko83 collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Qc 4h 8h]
+Seat 1: Jav9sp (small blind) folded on the Flop
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.56)
+Seat 6: molodtssov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855831193:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:23:10 MSK [2020/05/14 12:23:10 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.59 in chips) 
+Seat 4: pokerman441 ($3.24 in chips) 
+Seat 5: vdovchenko83 ($2.35 in chips) 
+Seat 6: molodtssov ($3.50 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Jd]
+pokerman441: raises $0.04 to $0.06
+vdovchenko83: folds 
+molodtssov: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to pokerman441
+pokerman441 collected $0.05 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 collected ($0.05)
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855843120:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:23:25 MSK [2020/05/14 12:23:25 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.57 in chips) 
+Seat 4: pokerman441 ($3.27 in chips) 
+Seat 5: vdovchenko83 ($2.35 in chips) 
+Seat 6: molodtssov ($3.50 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Ts]
+vdovchenko83: raises $0.13 to $0.15
+molodtssov: raises $0.30 to $0.45
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: folds 
+Uncalled bet ($0.30) returned to molodtssov
+molodtssov collected $0.33 from pot
+molodtssov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: vdovchenko83 folded before Flop
+Seat 6: molodtssov collected ($0.33)
+
+
+
+PokerStars Hand #213855856844:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:23:43 MSK [2020/05/14 12:23:43 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.56 in chips) 
+Seat 4: pokerman441 ($3.25 in chips) 
+Seat 5: vdovchenko83 ($2.20 in chips) 
+Seat 6: molodtssov ($3.68 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 4c]
+molodtssov: folds 
+molodtssov leaves the table
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+vdovchenko83: raises $0.12 to $0.18
+pokerman441: calls $0.12
+*** FLOP *** [Qc Ah Jd]
+pokerman441: checks 
+vdovchenko83: bets $0.34
+AceKid0 joins the table at seat #6 
+pokerman441: calls $0.34
+*** TURN *** [Qc Ah Jd] [Js]
+pokerman441: checks 
+vdovchenko83: checks 
+*** RIVER *** [Qc Ah Jd Js] [2s]
+pokerman441: bets $1
+vdovchenko83: folds 
+Uncalled bet ($1) returned to pokerman441
+pokerman441 collected $1 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.04 | Rake $0.04 
+Board [Qc Ah Jd Js 2s]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) collected ($1)
+Seat 5: vdovchenko83 (big blind) folded on the River
+Seat 6: molodtssov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213855892027:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:24:28 MSK [2020/05/14 12:24:28 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.56 in chips) 
+Seat 4: pokerman441 ($3.73 in chips) 
+Seat 5: vdovchenko83 ($1.68 in chips) 
+Seat 6: AceKid0 ($1.95 in chips) 
+vdovchenko83: posts small blind $0.01
+AceKid0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Jc]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: folds 
+AceKid0: calls $0.03
+*** FLOP *** [3c 5s 6s]
+AceKid0: checks 
+lawlex_2: bets $0.07
+AceKid0: calls $0.07
+*** TURN *** [3c 5s 6s] [Kc]
+AceKid0: bets $0.02
+lawlex_2: calls $0.02
+*** RIVER *** [3c 5s 6s Kc] [Qc]
+AceKid0: bets $0.22
+lawlex_2: calls $0.22
+*** SHOW DOWN ***
+AceKid0: shows [2s Jh] (high card King)
+lawlex_2: shows [Qs Jc] (a pair of Queens)
+lawlex_2 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [3c 5s 6s Kc Qc]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 showed [Qs Jc] and won ($0.70) with a pair of Queens
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) folded before Flop
+Seat 6: AceKid0 (big blind) showed [2s Jh] and lost with high card King
+
+
+
+PokerStars Hand #213855938424:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:25:28 MSK [2020/05/14 12:25:28 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.90 in chips) 
+Seat 4: pokerman441 ($3.73 in chips) 
+Seat 5: vdovchenko83 ($1.67 in chips) 
+Seat 6: AceKid0 ($1.59 in chips) 
+AceKid0: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 8c]
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: calls $0.05
+AceKid0: folds 
+Jav9sp: calls $0.03
+*** FLOP *** [As Qh 9h]
+Jav9sp: checks 
+lawlex_2: bets $0.10
+vdovchenko83: folds 
+Jav9sp: calls $0.10
+*** TURN *** [As Qh 9h] [Qs]
+Jav9sp: checks 
+lawlex_2: bets $0.23
+Jav9sp: calls $0.23
+*** RIVER *** [As Qh 9h Qs] [4d]
+Jav9sp: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Jav9sp: shows [Ah Td] (two pair, Aces and Queens)
+lawlex_2: mucks hand 
+Jav9sp collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [As Qh 9h Qs 4d]
+Seat 1: Jav9sp (big blind) showed [Ah Td] and won ($0.79) with two pair, Aces and Queens
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 mucked [Ac 8c]
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) folded on the Flop
+Seat 6: AceKid0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213855985236:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:26:27 MSK [2020/05/14 12:26:27 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2.41 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.52 in chips) 
+Seat 4: pokerman441 ($3.73 in chips) 
+Seat 5: vdovchenko83 ($1.62 in chips) 
+Seat 6: AceKid0 ($1.58 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Th]
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.09 to $0.11
+AceKid0: calls $0.11
+Jav9sp: raises $0.17 to $0.28
+Don-Bosco9: folds 
+vdovchenko83: folds 
+AceKid0: calls $0.17
+*** FLOP *** [Ks 5d 8d]
+Jav9sp: checks 
+AceKid0: bets $0.02
+Jav9sp: raises $0.19 to $0.21
+AceKid0: calls $0.19
+*** TURN *** [Ks 5d 8d] [5s]
+Jav9sp: bets $1.09
+AceKid0: folds 
+Uncalled bet ($1.09) returned to Jav9sp
+Jav9sp collected $1.07 from pot
+Jav9sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.04 
+Board [Ks 5d 8d 5s]
+Seat 1: Jav9sp (small blind) collected ($1.07)
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 folded before Flop
+Seat 6: AceKid0 (button) folded on the Turn
+
+
+
+PokerStars Hand #213856047999:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:27:46 MSK [2020/05/14 12:27:46 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2.99 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.52 in chips) 
+Seat 4: pokerman441 ($3.73 in chips) 
+Seat 5: vdovchenko83 ($1.51 in chips) 
+Seat 6: AceKid0 ($1.09 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 7h]
+pokerman441: raises $0.04 to $0.06
+vdovchenko83: folds 
+AceKid0: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to pokerman441
+pokerman441 collected $0.05 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 collected ($0.05)
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: AceKid0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213856075177:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:28:09 MSK [2020/05/14 12:28:09 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2.99 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($3.50 in chips) 
+Seat 4: pokerman441 ($3.76 in chips) 
+Seat 5: vdovchenko83 ($1.51 in chips) 
+Seat 6: AceKid0 ($1.09 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 4d]
+vdovchenko83: raises $0.11 to $0.13
+AceKid0: folds 
+Jav9sp: folds 
+Don-Bosco9: raises $0.19 to $0.32
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: calls $0.19
+*** FLOP *** [9d 9h Qs]
+vdovchenko83: checks 
+Don-Bosco9: bets $0.34
+vdovchenko83: calls $0.34
+*** TURN *** [9d 9h Qs] [Jh]
+vdovchenko83: checks 
+Don-Bosco9: bets $0.72
+vdovchenko83: folds 
+Uncalled bet ($0.72) returned to Don-Bosco9
+Don-Bosco9 collected $1.30 from pot
+Don-Bosco9: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [9d 9h Qs Jh]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) collected ($1.30)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: vdovchenko83 folded on the Turn
+Seat 6: AceKid0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213856116746:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:29:01 MSK [2020/05/14 12:29:01 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2.99 in chips) 
+Seat 2: Don-Bosco9 ($2.64 in chips) 
+Seat 3: lawlex_2 ($3.49 in chips) 
+Seat 4: pokerman441 ($3.74 in chips) 
+Seat 5: vdovchenko83 ($0.85 in chips) 
+Seat 6: AceKid0 ($1.09 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 9s]
+AceKid0: calls $0.02
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.17 to $0.19
+AceKid0: calls $0.17
+*** FLOP *** [Ks Ah 6h]
+vdovchenko83: bets $0.38
+AceKid0: folds 
+Uncalled bet ($0.38) returned to vdovchenko83
+vdovchenko83 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Ks Ah 6h]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) collected ($0.38)
+Seat 6: AceKid0 folded on the Flop
+
+
+
+PokerStars Hand #213856152282:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:29:45 MSK [2020/05/14 12:29:45 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2.99 in chips) 
+Seat 2: Don-Bosco9 ($2.64 in chips) 
+Seat 3: lawlex_2 ($3.49 in chips) 
+Seat 4: pokerman441 ($3.73 in chips) 
+Seat 5: vdovchenko83 ($1.04 in chips) 
+Seat 6: AceKid0 ($0.90 in chips) 
+vdovchenko83: posts small blind $0.01
+AceKid0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 2d]
+Jav9sp: raises $0.04 to $0.06
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: folds 
+AceKid0: calls $0.04
+*** FLOP *** [4s Jh 9c]
+AceKid0: checks 
+Jav9sp: bets $0.04
+AceKid0: raises $0.04 to $0.08
+Jav9sp: calls $0.04
+*** TURN *** [4s Jh 9c] [2s]
+AceKid0: bets $0.10
+Jav9sp: calls $0.10
+*** RIVER *** [4s Jh 9c 2s] [2h]
+AceKid0: bets $0.16
+Jav9sp: raises $2.59 to $2.75 and is all-in
+AceKid0: calls $0.50 and is all-in
+Uncalled bet ($2.09) returned to Jav9sp
+*** SHOW DOWN ***
+Jav9sp: shows [Qc Qs] (two pair, Queens and Deuces)
+AceKid0: shows [2c Jc] (a full house, Deuces full of Jacks)
+AceKid0 collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.81 | Rake $0.06 
+Board [4s Jh 9c 2s 2h]
+Seat 1: Jav9sp showed [Qc Qs] and lost with two pair, Queens and Deuces
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) folded before Flop
+Seat 6: AceKid0 (big blind) showed [2c Jc] and won ($1.75) with a full house, Deuces full of Jacks
+
+
+
+PokerStars Hand #213856208185:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:30:54 MSK [2020/05/14 12:30:54 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2.09 in chips) 
+Seat 2: Don-Bosco9 ($2.64 in chips) 
+Seat 3: lawlex_2 ($3.49 in chips) 
+Seat 4: pokerman441 ($3.73 in chips) 
+Seat 5: vdovchenko83 ($1.03 in chips) 
+Seat 6: AceKid0 ($1.75 in chips) 
+AceKid0: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Td]
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: raises $0.13 to $0.18
+AceKid0: calls $0.17
+Jav9sp: folds 
+lawlex_2: folds 
+*** FLOP *** [8h 7h 6h]
+AceKid0: bets $0.10
+vdovchenko83: raises $0.16 to $0.26
+AceKid0: raises $0.16 to $0.42
+vdovchenko83: folds 
+Uncalled bet ($0.16) returned to AceKid0
+AceKid0 collected $0.92 from pot
+AceKid0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.03 
+Board [8h 7h 6h]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) folded on the Flop
+Seat 6: AceKid0 (small blind) collected ($0.92)
+
+
+
+PokerStars Hand #213856248676:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:31:45 MSK [2020/05/14 12:31:45 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2.07 in chips) 
+Seat 3: lawlex_2 ($3.44 in chips) 
+Seat 4: pokerman441 ($3.73 in chips) 
+Seat 5: vdovchenko83 ($0.59 in chips) 
+Seat 6: AceKid0 ($2.23 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: is sitting out 
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Th]
+pokerman441: folds 
+vdovchenko83: folds 
+AceKid0: calls $0.02
+Jav9sp: folds 
+lawlex_2: checks 
+*** FLOP *** [7d 3d Ks]
+lawlex_2: bets $0.03
+AceKid0: raises $0.03 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to AceKid0
+AceKid0 collected $0.11 from pot
+AceKid0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7d 3d Ks]
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: AceKid0 (button) collected ($0.11)
+
+
+
+PokerStars Hand #213856277397:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:32:20 MSK [2020/05/14 12:32:20 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2.06 in chips) 
+Seat 3: lawlex_2 ($3.39 in chips) 
+Seat 4: pokerman441 ($3.73 in chips) 
+Seat 5: vdovchenko83 ($0.59 in chips) 
+Seat 6: AceKid0 ($2.29 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Kh]
+vdovchenko83: raises $0.09 to $0.11
+AceKid0: calls $0.11
+Jav9sp: folds 
+lawlex_2: folds 
+pokerman441: folds 
+*** FLOP *** [Ks 9d 9h]
+vdovchenko83: bets $0.12
+AceKid0: folds 
+Uncalled bet ($0.12) returned to vdovchenko83
+vdovchenko83 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ks 9d 9h]
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: vdovchenko83 collected ($0.24)
+Seat 6: AceKid0 folded on the Flop
+
+
+
+PokerStars Hand #213856307046:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:32:57 MSK [2020/05/14 12:32:57 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2.06 in chips) 
+Seat 3: lawlex_2 ($3.38 in chips) 
+Seat 4: pokerman441 ($3.71 in chips) 
+Seat 5: vdovchenko83 ($0.72 in chips) 
+Seat 6: AceKid0 ($2.18 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Ac]
+AceKid0: folds 
+Jav9sp: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: calls $0.04
+vdovchenko83: calls $0.03
+*** FLOP *** [Td 6h Js]
+pokerman441: checks 
+vdovchenko83: bets $0.14
+lawlex_2: raises $0.28 to $0.42
+pokerman441: folds 
+vdovchenko83: calls $0.28
+*** TURN *** [Td 6h Js] [6d]
+vdovchenko83: checks 
+lawlex_2: bets $0.48
+vdovchenko83: calls $0.25 and is all-in
+Uncalled bet ($0.23) returned to lawlex_2
+*** RIVER *** [Td 6h Js 6d] [5s]
+*** SHOW DOWN ***
+vdovchenko83: shows [Jh 8d] (two pair, Jacks and Sixes)
+lawlex_2: shows [Kc Ac] (a pair of Sixes)
+vdovchenko83 collected $1.44 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.05 
+Board [Td 6h Js 6d 5s]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) showed [Kc Ac] and lost with a pair of Sixes
+Seat 4: pokerman441 (small blind) folded on the Flop
+Seat 5: vdovchenko83 (big blind) showed [Jh 8d] and won ($1.44) with two pair, Jacks and Sixes
+Seat 6: AceKid0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213856355348:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:33:56 MSK [2020/05/14 12:33:56 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2.06 in chips) 
+Seat 3: lawlex_2 ($2.66 in chips) 
+Seat 4: pokerman441 ($3.66 in chips) 
+Seat 5: vdovchenko83 ($1.44 in chips) 
+Seat 6: AceKid0 ($2.18 in chips) 
+vdovchenko83: posts small blind $0.01
+AceKid0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 5s]
+Jav9sp: folds 
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.08 to $0.10
+AceKid0: calls $0.08
+*** FLOP *** [6s 4h Js]
+vdovchenko83: bets $0.18
+AceKid0: calls $0.18
+*** TURN *** [6s 4h Js] [3c]
+vdovchenko83: checks 
+AceKid0: checks 
+*** RIVER *** [6s 4h Js 3c] [Ac]
+vdovchenko83: bets $0.30
+AceKid0: raises $0.50 to $0.80
+vdovchenko83: folds 
+Uncalled bet ($0.50) returned to AceKid0
+AceKid0 collected $1.12 from pot
+AceKid0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.04 
+Board [6s 4h Js 3c Ac]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) folded on the River
+Seat 6: AceKid0 (big blind) collected ($1.12)
+
+
+
+PokerStars Hand #213856412987:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:35:08 MSK [2020/05/14 12:35:08 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2.06 in chips) 
+Seat 3: lawlex_2 ($2.66 in chips) 
+Seat 4: pokerman441 ($3.66 in chips) 
+Seat 5: vdovchenko83 ($0.86 in chips) 
+Seat 6: AceKid0 ($2.72 in chips) 
+AceKid0: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 4s]
+lawlex_2 has timed out
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.15 to $0.17
+AceKid0: calls $0.16
+Jav9sp: folds 
+*** FLOP *** [Qd 9c Qs]
+AceKid0: bets $0.02
+vdovchenko83: raises $0.38 to $0.40
+AceKid0: folds 
+Uncalled bet ($0.38) returned to vdovchenko83
+vdovchenko83 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Qd 9c Qs]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) collected ($0.39)
+Seat 6: AceKid0 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213856464712:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:36:12 MSK [2020/05/14 12:36:12 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2.04 in chips) 
+Seat 3: lawlex_2 ($2.66 in chips) 
+Seat 4: pokerman441 ($3.66 in chips) 
+Seat 5: vdovchenko83 ($1.06 in chips) 
+Seat 6: AceKid0 ($2.53 in chips) 
+Jav9sp: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 8d]
+pokerman441: folds 
+vdovchenko83: folds 
+AceKid0: raises $0.02 to $0.04
+Jav9sp: raises $0.12 to $0.16
+lawlex_2: folds 
+AceKid0: calls $0.12
+*** FLOP *** [Th Qs 2s]
+Jav9sp: bets $0.10
+AceKid0: raises $0.10 to $0.20
+Jav9sp: calls $0.10
+*** TURN *** [Th Qs 2s] [Js]
+Jav9sp: checks 
+AceKid0: checks 
+*** RIVER *** [Th Qs 2s Js] [Kc]
+Jav9sp: bets $0.14
+AceKid0: raises $0.14 to $0.28
+Jav9sp: raises $1.40 to $1.68 and is all-in
+AceKid0: folds 
+Uncalled bet ($1.40) returned to Jav9sp
+Jav9sp collected $1.25 from pot
+Jav9sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.05 
+Board [Th Qs 2s Js Kc]
+Seat 1: Jav9sp (small blind) collected ($1.25)
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: AceKid0 (button) folded on the River
+
+
+
+PokerStars Hand #213856571768:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:38:24 MSK [2020/05/14 12:38:24 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2.65 in chips) 
+Seat 3: lawlex_2 ($2.64 in chips) 
+Seat 4: pokerman441 ($3.66 in chips) 
+Seat 5: vdovchenko83 ($1.06 in chips) 
+Seat 6: AceKid0 ($1.89 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Ad]
+vdovchenko83: folds 
+AceKid0: folds 
+Jav9sp: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) collected ($0.04)
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: AceKid0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213856583313:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:38:38 MSK [2020/05/14 12:38:38 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2.65 in chips) 
+Seat 3: lawlex_2 ($2.66 in chips) 
+Seat 4: pokerman441 ($3.64 in chips) 
+Seat 5: vdovchenko83 ($1.06 in chips) 
+Seat 6: AceKid0 ($1.89 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Jd]
+AceKid0: calls $0.02
+Jav9sp: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: calls $0.03
+AceKid0: calls $0.03
+*** FLOP *** [2d Js 5s]
+vdovchenko83: checks 
+AceKid0: checks 
+lawlex_2: bets $0.10
+vdovchenko83: calls $0.10
+AceKid0: calls $0.10
+*** TURN *** [2d Js 5s] [3d]
+vdovchenko83: checks 
+AceKid0: bets $0.02
+lawlex_2: calls $0.02
+vdovchenko83: calls $0.02
+*** RIVER *** [2d Js 5s 3d] [4d]
+vdovchenko83: bets $0.26
+AceKid0: raises $0.26 to $0.52
+lawlex_2: folds 
+vdovchenko83: calls $0.26
+*** SHOW DOWN ***
+AceKid0: shows [Ah Qc] (a straight, Ace to Five)
+vdovchenko83: shows [6d 5c] (a straight, Deuce to Six)
+vdovchenko83 collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.05 
+Board [2d Js 5s 3d 4d]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded on the River
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) showed [6d 5c] and won ($1.51) with a straight, Deuce to Six
+Seat 6: AceKid0 showed [Ah Qc] and lost with a straight, Ace to Five
+
+
+
+PokerStars Hand #213856662786:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:40:15 MSK [2020/05/14 12:40:15 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2.65 in chips) 
+Seat 3: lawlex_2 ($2.49 in chips) 
+Seat 4: pokerman441 ($3.63 in chips) 
+Seat 5: vdovchenko83 ($1.88 in chips) 
+Seat 6: AceKid0 ($1.20 in chips) 
+vdovchenko83: posts small blind $0.01
+AceKid0: posts big blind $0.02
+Don-Bosco9: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Ac]
+Jav9sp: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.10 to $0.12
+AceKid0: calls $0.10
+*** FLOP *** [Th 8d 5d]
+vdovchenko83: bets $0.22
+AceKid0: folds 
+Uncalled bet ($0.22) returned to vdovchenko83
+vdovchenko83 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Th 8d 5d]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) collected ($0.23)
+Seat 6: AceKid0 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213856699841:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:41:01 MSK [2020/05/14 12:41:01 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2.65 in chips) 
+Seat 3: lawlex_2 ($2.49 in chips) 
+Seat 4: pokerman441 ($3.63 in chips) 
+Seat 5: vdovchenko83 ($1.99 in chips) 
+Seat 6: AceKid0 ($1.08 in chips) 
+AceKid0: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+Don-Bosco9: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 9h]
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: raises $0.13 to $0.18
+AceKid0: calls $0.17
+Jav9sp: folds 
+lawlex_2: folds 
+*** FLOP *** [6c Ts 5h]
+AceKid0: checks 
+vdovchenko83: bets $0.22
+AceKid0: calls $0.22
+*** TURN *** [6c Ts 5h] [7d]
+AceKid0: bets $0.10
+vdovchenko83: calls $0.10
+*** RIVER *** [6c Ts 5h 7d] [4d]
+AceKid0: bets $0.20
+vdovchenko83: raises $0.54 to $0.74
+AceKid0: folds 
+Uncalled bet ($0.54) returned to vdovchenko83
+vdovchenko83 collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.05 
+Board [6c Ts 5h 7d 4d]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) collected ($1.42)
+Seat 6: AceKid0 (small blind) folded on the River
+
+
+
+PokerStars Hand #213856775382:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:42:33 MSK [2020/05/14 12:42:33 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2.63 in chips) 
+Seat 2: Don-Bosco9 ($2.64 in chips) 
+Seat 3: lawlex_2 ($2.44 in chips) 
+Seat 4: pokerman441 ($3.63 in chips) 
+Seat 5: vdovchenko83 ($2.71 in chips) 
+Seat 6: AceKid0 ($0.38 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 2s]
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.13 to $0.15
+AceKid0: calls $0.15
+Jav9sp: folds 
+Don-Bosco9: folds 
+*** FLOP *** [4c Kc 7c]
+vdovchenko83: bets $0.32
+AceKid0: calls $0.23 and is all-in
+Uncalled bet ($0.09) returned to vdovchenko83
+*** TURN *** [4c Kc 7c] [Ah]
+*** RIVER *** [4c Kc 7c Ah] [Jc]
+*** SHOW DOWN ***
+vdovchenko83: shows [Ks 3d] (a pair of Kings)
+AceKid0: shows [3s 5s] (high card Ace)
+vdovchenko83 collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.03 
+Board [4c Kc 7c Ah Jc]
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 showed [Ks 3d] and won ($0.76) with a pair of Kings
+Seat 6: AceKid0 (button) showed [3s 5s] and lost with high card Ace
+
+
+
+PokerStars Hand #213856809449:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:43:15 MSK [2020/05/14 12:43:15 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2.62 in chips) 
+Seat 2: Don-Bosco9 ($2.62 in chips) 
+Seat 3: lawlex_2 ($2.44 in chips) 
+Seat 4: pokerman441 ($3.63 in chips) 
+Seat 5: vdovchenko83 ($3.09 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Ah]
+pokerman441: folds 
+AceKid0 leaves the table
+vdovchenko83: raises $0.09 to $0.11
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.09) returned to vdovchenko83
+Ollie0308 joins the table at seat #6 
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.05)
+
+
+
+PokerStars Hand #213856822058:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:43:30 MSK [2020/05/14 12:43:30 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2.62 in chips) 
+Seat 2: Don-Bosco9 ($2.61 in chips) 
+Seat 3: lawlex_2 ($2.42 in chips) 
+Seat 4: pokerman441 ($3.63 in chips) 
+Seat 5: vdovchenko83 ($3.12 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+Ollie0308: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 7d]
+vdovchenko83: raises $0.13 to $0.15
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.13) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: vdovchenko83 collected ($0.05)
+
+
+
+PokerStars Hand #213856846652:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:44:00 MSK [2020/05/14 12:44:00 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2.62 in chips) 
+Seat 2: Don-Bosco9 ($2.61 in chips) 
+Seat 3: lawlex_2 ($2.41 in chips) 
+Seat 4: pokerman441 ($3.61 in chips) 
+Seat 5: vdovchenko83 ($3.15 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+Ollie0308: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Ts]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.01) returned to vdovchenko83
+vdovchenko83 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213856884571:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:44:46 MSK [2020/05/14 12:44:46 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2.62 in chips) 
+Seat 2: Don-Bosco9 ($2.61 in chips) 
+Seat 3: lawlex_2 ($2.41 in chips) 
+Seat 4: pokerman441 ($3.60 in chips) 
+Seat 5: vdovchenko83 ($3.18 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+Ollie0308: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 2d]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: calls $0.02
+vdovchenko83: raises $0.10 to $0.12
+Ollie0308: folds 
+Jav9sp: folds 
+pokerman441: calls $0.10
+*** FLOP *** [Jc 5c Ad]
+pokerman441: checks 
+vdovchenko83: bets $0.14
+pokerman441: calls $0.14
+*** TURN *** [Jc 5c Ad] [3h]
+pokerman441: checks 
+vdovchenko83: checks 
+*** RIVER *** [Jc 5c Ad 3h] [6c]
+pokerman441: bets $0.53
+vdovchenko83: folds 
+Uncalled bet ($0.53) returned to pokerman441
+pokerman441 collected $0.53 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Jc 5c Ad 3h 6c]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 collected ($0.53)
+Seat 5: vdovchenko83 (button) folded on the River
+Seat 6: Ollie0308 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213856938229:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:45:52 MSK [2020/05/14 12:45:52 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 2: Don-Bosco9 ($2.61 in chips) 
+Seat 3: lawlex_2 ($2.41 in chips) 
+Seat 4: pokerman441 ($3.87 in chips) 
+Seat 5: vdovchenko83 ($2.92 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Ah]
+pokerman441: folds 
+vdovchenko83: raises $0.09 to $0.11
+Ollie0308: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.09) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: Ollie0308 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213856952596:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:46:09 MSK [2020/05/14 12:46:09 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 2: Don-Bosco9 ($2.60 in chips) 
+Seat 3: lawlex_2 ($2.39 in chips) 
+Seat 4: pokerman441 ($3.87 in chips) 
+Seat 5: vdovchenko83 ($2.95 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 9h]
+vdovchenko83: raises $0.11 to $0.13
+Ollie0308: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.11) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213856966957:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:46:27 MSK [2020/05/14 12:46:27 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 2: Don-Bosco9 ($2.60 in chips) 
+Seat 3: lawlex_2 ($2.38 in chips) 
+Seat 4: pokerman441 ($3.85 in chips) 
+Seat 5: vdovchenko83 ($2.98 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Ts]
+Ollie0308: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.01) returned to vdovchenko83
+vdovchenko83 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: vdovchenko83 (big blind) collected ($0.02)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213856975412:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:46:37 MSK [2020/05/14 12:46:37 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 2: Don-Bosco9 ($2.60 in chips) 
+Seat 3: lawlex_2 ($2.38 in chips) 
+Seat 4: pokerman441 ($3.84 in chips) 
+Seat 5: vdovchenko83 ($2.99 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+vdovchenko83: posts small blind $0.01
+Ollie0308: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Jh]
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: calls $0.04
+Ollie0308: folds 
+*** FLOP *** [3d Kh Ts]
+vdovchenko83: bets $0.12
+lawlex_2: calls $0.12
+*** TURN *** [3d Kh Ts] [7h]
+vdovchenko83: checks 
+lawlex_2: checks 
+*** RIVER *** [3d Kh Ts 7h] [4s]
+vdovchenko83: bets $0.22
+lawlex_2: calls $0.22
+*** SHOW DOWN ***
+vdovchenko83: shows [Ad 6s] (high card Ace)
+lawlex_2: shows [Td Jh] (a pair of Tens)
+lawlex_2 collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [3d Kh Ts 7h 4s]
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 showed [Td Jh] and won ($0.77) with a pair of Tens
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) showed [Ad 6s] and lost with high card Ace
+Seat 6: Ollie0308 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213857010701:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:47:20 MSK [2020/05/14 12:47:20 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 2: Don-Bosco9 ($2.60 in chips) 
+Seat 3: lawlex_2 ($2.76 in chips) 
+Seat 4: pokerman441 ($3.84 in chips) 
+Seat 5: vdovchenko83 ($2.60 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+Ollie0308: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 6c]
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83: raises $0.11 to $0.13
+Ollie0308: folds 
+Don-Bosco9: folds 
+Uncalled bet ($0.11) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (button) collected ($0.05)
+Seat 6: Ollie0308 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213857028324:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:47:42 MSK [2020/05/14 12:47:42 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 2: Don-Bosco9 ($2.58 in chips) 
+Seat 3: lawlex_2 ($2.76 in chips) 
+Seat 4: pokerman441 ($3.84 in chips) 
+Seat 5: vdovchenko83 ($2.63 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 6s]
+pokerman441: folds 
+vdovchenko83: raises $0.11 to $0.13
+Ollie0308: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.11) returned to vdovchenko83
+vdovchenko83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: vdovchenko83 collected ($0.05)
+Seat 6: Ollie0308 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857043374:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:48:00 MSK [2020/05/14 12:48:00 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 2: Don-Bosco9 ($2.57 in chips) 
+Seat 3: lawlex_2 ($2.74 in chips) 
+Seat 4: pokerman441 ($3.84 in chips) 
+Seat 5: vdovchenko83 ($2.66 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 3h]
+vdovchenko83: folds 
+Ollie0308: folds 
+Don-Bosco9: raises $0.02 to $0.04
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.02) returned to Don-Bosco9
+Don-Bosco9 collected $0.05 from pot
+Don-Bosco9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Don-Bosco9 (button) collected ($0.05)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: vdovchenko83 folded before Flop (didn't bet)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857054088:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:48:14 MSK [2020/05/14 12:48:14 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 2: Don-Bosco9 ($2.60 in chips) 
+Seat 3: lawlex_2 ($2.73 in chips) 
+Seat 4: pokerman441 ($3.82 in chips) 
+Seat 5: vdovchenko83 ($2.66 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+pokerman441: posts small blind $0.01
+vdovchenko83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Qc]
+Ollie0308: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: calls $0.04
+vdovchenko83: raises $0.15 to $0.20
+lawlex_2: folds 
+pokerman441: calls $0.15
+*** FLOP *** [Ad 6d 7c]
+pokerman441: checks 
+vdovchenko83: bets $0.42
+pokerman441: calls $0.42
+*** TURN *** [Ad 6d 7c] [Ts]
+pokerman441: bets $0.62
+vdovchenko83: raises $0.62 to $1.24
+pokerman441: raises $0.62 to $1.86
+vdovchenko83: calls $0.62
+*** RIVER *** [Ad 6d 7c Ts] [Tc]
+pokerman441: bets $0.02
+vdovchenko83: calls $0.02
+*** SHOW DOWN ***
+pokerman441: shows [8d 9d] (a straight, Six to Ten)
+vdovchenko83: mucks hand 
+pokerman441 collected $4.87 from pot
+*** SUMMARY ***
+Total pot $5.05 | Rake $0.18 
+Board [Ad 6d 7c Ts Tc]
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop
+Seat 4: pokerman441 (small blind) showed [8d 9d] and won ($4.87) with a straight, Six to Ten
+Seat 5: vdovchenko83 (big blind) mucked [Jd Ac]
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857097184:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:49:07 MSK [2020/05/14 12:49:07 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 2: Don-Bosco9 ($2.60 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.19 in chips) 
+Seat 5: vdovchenko83 ($0.16 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+vdovchenko83: posts small blind $0.01
+Ollie0308: posts big blind $0.02
+Jav9sp: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 3d]
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+vdovchenko83: folds 
+Ollie0308: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 collected ($0.05)
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: vdovchenko83 (small blind) folded before Flop
+Seat 6: Ollie0308 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213857120358:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:49:35 MSK [2020/05/14 12:49:35 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2.60 in chips) 
+Seat 2: Don-Bosco9 ($2.60 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.19 in chips) 
+Seat 5: vdovchenko83 ($0.15 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+Ollie0308: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 7d]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+vdovchenko83: raises $0.09 to $0.15 and is all-in
+Ollie0308: folds 
+Jav9sp: folds 
+pokerman441: calls $0.09
+*** FLOP *** [2h 8h 3d]
+*** TURN *** [2h 8h 3d] [3s]
+*** RIVER *** [2h 8h 3d 3s] [3h]
+*** SHOW DOWN ***
+pokerman441: shows [Th Tc] (a full house, Threes full of Tens)
+vdovchenko83: shows [6c Ad] (three of a kind, Threes)
+pokerman441 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [2h 8h 3d 3s 3h]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 showed [Th Tc] and won ($0.32) with a full house, Threes full of Tens
+Seat 5: vdovchenko83 (button) showed [6c Ad] and lost with three of a kind, Threes
+Seat 6: Ollie0308 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213857143004:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:50:03 MSK [2020/05/14 12:50:03 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2.58 in chips) 
+Seat 2: Don-Bosco9 ($2.60 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.36 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Qc]
+lawlex_2: folds 
+pokerman441: folds 
+vdovchenko83 leaves the table
+Ollie0308: folds 
+Jav9sp: raises $0.04 to $0.06
+HugoXRay joins the table at seat #5 
+Don-Bosco9: folds 
+Uncalled bet ($0.04) returned to Jav9sp
+Jav9sp collected $0.04 from pot
+Jav9sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Jav9sp (small blind) collected ($0.04)
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 6: Ollie0308 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857158911:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:50:22 MSK [2020/05/14 12:50:22 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2.60 in chips) 
+Seat 2: Don-Bosco9 ($2.58 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.36 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+HugoXRay: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 8s]
+pokerman441: folds 
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: raises $0.03 to $0.05
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to Don-Bosco9
+Don-Bosco9 collected $0.04 from pot
+Don-Bosco9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) collected ($0.04)
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857181494:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:50:40 MSK [2020/05/14 12:50:40 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2.60 in chips) 
+Seat 2: Don-Bosco9 ($2.60 in chips) 
+Seat 3: lawlex_2 ($2.69 in chips) 
+Seat 4: pokerman441 ($6.36 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+HugoXRay: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Ac]
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) collected ($0.04)
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857194650:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:50:56 MSK [2020/05/14 12:50:56 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2.60 in chips) 
+Seat 2: Don-Bosco9 ($2.60 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.34 in chips) 
+Seat 5: HugoXRay ($2 in chips) 
+Seat 6: Ollie0308 ($2 in chips) 
+pokerman441: posts small blind $0.01
+HugoXRay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 9d]
+Ollie0308: raises $0.04 to $0.06
+Jav9sp: folds 
+Don-Bosco9: calls $0.06
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: calls $0.04
+*** FLOP *** [7h 3h Jh]
+HugoXRay: bets $0.08
+Ollie0308: calls $0.08
+Don-Bosco9: folds 
+*** TURN *** [7h 3h Jh] [7d]
+HugoXRay: checks 
+Ollie0308: checks 
+*** RIVER *** [7h 3h Jh 7d] [Qh]
+HugoXRay: checks 
+Ollie0308: checks 
+*** SHOW DOWN ***
+HugoXRay: shows [Jc 5c] (two pair, Jacks and Sevens)
+Ollie0308: shows [Kd Ks] (two pair, Kings and Sevens)
+Ollie0308 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [7h 3h Jh 7d Qh]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded on the Flop
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: HugoXRay (big blind) showed [Jc 5c] and lost with two pair, Jacks and Sevens
+Seat 6: Ollie0308 showed [Kd Ks] and won ($0.34) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #213857231631:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:51:41 MSK [2020/05/14 12:51:41 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2.60 in chips) 
+Seat 2: Don-Bosco9 ($2.54 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.33 in chips) 
+Seat 5: HugoXRay ($1.86 in chips) 
+Seat 6: Ollie0308 ($2.20 in chips) 
+HugoXRay: posts small blind $0.01
+Ollie0308: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Qd]
+Jav9sp: raises $0.04 to $0.06
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: calls $0.06
+HugoXRay: calls $0.05
+Ollie0308: folds 
+*** FLOP *** [Ac 2d Js]
+HugoXRay: bets $0.10
+Jav9sp: calls $0.10
+pokerman441: calls $0.10
+*** TURN *** [Ac 2d Js] [4c]
+HugoXRay: checks 
+Jav9sp: checks 
+pokerman441: bets $0.24
+HugoXRay: folds 
+Jav9sp: folds 
+Uncalled bet ($0.24) returned to pokerman441
+pokerman441 collected $0.48 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Ac 2d Js 4c]
+Seat 1: Jav9sp folded on the Turn
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) collected ($0.48)
+Seat 5: HugoXRay (small blind) folded on the Turn
+Seat 6: Ollie0308 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213857277354:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:52:37 MSK [2020/05/14 12:52:37 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2.44 in chips) 
+Seat 2: Don-Bosco9 ($2.54 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.65 in chips) 
+Seat 5: HugoXRay ($1.70 in chips) 
+Seat 6: Ollie0308 ($2.18 in chips) 
+Ollie0308: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 8c]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: calls $0.02
+Ollie0308: folds 
+Jav9sp: checks 
+*** FLOP *** [9d Jc 6s]
+Jav9sp: checks 
+HugoXRay: bets $0.04
+Jav9sp: calls $0.04
+*** TURN *** [9d Jc 6s] [Jd]
+Jav9sp: checks 
+HugoXRay: checks 
+*** RIVER *** [9d Jc 6s Jd] [Qs]
+Jav9sp: bets $0.03
+HugoXRay: raises $0.19 to $0.22
+Jav9sp: folds 
+Uncalled bet ($0.19) returned to HugoXRay
+HugoXRay collected $0.18 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9d Jc 6s Jd Qs]
+Seat 1: Jav9sp (big blind) folded on the River
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay (button) collected ($0.18)
+Seat 6: Ollie0308 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213857317663:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:53:26 MSK [2020/05/14 12:53:26 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2.35 in chips) 
+Seat 2: Don-Bosco9 ($2.54 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.65 in chips) 
+Seat 5: HugoXRay ($1.79 in chips) 
+Seat 6: Ollie0308 ($2.17 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 6c]
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: folds 
+Ollie0308: raises $0.03 to $0.05
+Jav9sp: folds 
+Don-Bosco9: folds 
+Uncalled bet ($0.03) returned to Ollie0308
+Ollie0308 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay folded before Flop (didn't bet)
+Seat 6: Ollie0308 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213857335623:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:53:48 MSK [2020/05/14 12:53:48 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2.34 in chips) 
+Seat 2: Don-Bosco9 ($2.52 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.65 in chips) 
+Seat 5: HugoXRay ($1.79 in chips) 
+Seat 6: Ollie0308 ($2.20 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 3s]
+pokerman441: folds 
+HugoXRay: raises $0.02 to $0.04
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to HugoXRay
+HugoXRay collected $0.05 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay collected ($0.05)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857353852:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:54:11 MSK [2020/05/14 12:54:11 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2.34 in chips) 
+Seat 2: Don-Bosco9 ($2.51 in chips) 
+Seat 3: lawlex_2 ($2.69 in chips) 
+Seat 4: pokerman441 ($6.65 in chips) 
+Seat 5: HugoXRay ($1.82 in chips) 
+Seat 6: Ollie0308 ($2.20 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 2d]
+HugoXRay: raises $0.04 to $0.06
+Ollie0308: folds 
+Jav9sp: raises $0.12 to $0.18
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: calls $0.12
+*** FLOP *** [4d 5c 6s]
+HugoXRay: checks 
+Jav9sp: checks 
+*** TURN *** [4d 5c 6s] [3d]
+HugoXRay: bets $0.02
+Jav9sp: calls $0.02
+*** RIVER *** [4d 5c 6s 3d] [3s]
+HugoXRay: bets $0.02
+Jav9sp: calls $0.02
+*** SHOW DOWN ***
+HugoXRay: shows [Qd Ah] (a pair of Threes)
+Jav9sp: mucks hand 
+HugoXRay collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [4d 5c 6s 3d 3s]
+Seat 1: Jav9sp mucked [Js As]
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: HugoXRay showed [Qd Ah] and won ($0.45) with a pair of Threes
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857390888:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:54:56 MSK [2020/05/14 12:54:56 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2.12 in chips) 
+Seat 2: Don-Bosco9 ($2.51 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.63 in chips) 
+Seat 5: HugoXRay ($2.05 in chips) 
+Seat 6: Ollie0308 ($2.20 in chips) 
+pokerman441: posts small blind $0.01
+HugoXRay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Ks]
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+HugoXRay: calls $0.04
+*** FLOP *** [Js 4s 6d]
+pokerman441: bets $0.06
+HugoXRay: folds 
+Uncalled bet ($0.06) returned to pokerman441
+pokerman441 collected $0.12 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Js 4s 6d]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) collected ($0.12)
+Seat 5: HugoXRay (big blind) folded on the Flop
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857409455:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:55:22 MSK [2020/05/14 12:55:22 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2.12 in chips) 
+Seat 2: Don-Bosco9 ($2.51 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.69 in chips) 
+Seat 5: HugoXRay ($1.99 in chips) 
+Seat 6: Ollie0308 ($2.20 in chips) 
+HugoXRay: posts small blind $0.01
+Ollie0308: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Kc]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+HugoXRay: folds 
+Ollie0308: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 collected ($0.05)
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: HugoXRay (small blind) folded before Flop
+Seat 6: Ollie0308 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213857426266:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:55:49 MSK [2020/05/14 12:55:49 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2.12 in chips) 
+Seat 2: Don-Bosco9 ($2.51 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.69 in chips) 
+Seat 5: HugoXRay ($1.98 in chips) 
+Seat 6: Ollie0308 ($2.18 in chips) 
+Ollie0308: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 6h]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: raises $0.04 to $0.06
+Ollie0308: folds 
+Jav9sp: folds 
+Uncalled bet ($0.04) returned to HugoXRay
+HugoXRay collected $0.05 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay (button) collected ($0.05)
+Seat 6: Ollie0308 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213857444964:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:56:20 MSK [2020/05/14 12:56:20 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2.10 in chips) 
+Seat 2: Don-Bosco9 ($2.51 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.69 in chips) 
+Seat 5: HugoXRay ($2.01 in chips) 
+Seat 6: Ollie0308 ($2.17 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 9s]
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: folds 
+Ollie0308: raises $0.03 to $0.05
+Jav9sp: raises $0.15 to $0.20
+Don-Bosco9: folds 
+Ollie0308: folds 
+Uncalled bet ($0.15) returned to Jav9sp
+Jav9sp collected $0.12 from pot
+Jav9sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Jav9sp (small blind) collected ($0.12)
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay folded before Flop (didn't bet)
+Seat 6: Ollie0308 (button) folded before Flop
+
+
+
+PokerStars Hand #213857469301:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:57:00 MSK [2020/05/14 12:57:00 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2.17 in chips) 
+Seat 2: Don-Bosco9 ($2.49 in chips) 
+Seat 3: lawlex_2 ($2.71 in chips) 
+Seat 4: pokerman441 ($6.69 in chips) 
+Seat 5: HugoXRay ($2.01 in chips) 
+Seat 6: Ollie0308 ($2.12 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 9s]
+pokerman441: raises $0.04 to $0.06
+HugoXRay: calls $0.06
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+*** FLOP *** [Qs 3d 7d]
+pokerman441: bets $0.07
+HugoXRay: folds 
+Uncalled bet ($0.07) returned to pokerman441
+pokerman441 collected $0.14 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qs 3d 7d]
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 collected ($0.14)
+Seat 5: HugoXRay folded on the Flop
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857486109:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:57:27 MSK [2020/05/14 12:57:27 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2.17 in chips) 
+Seat 2: Don-Bosco9 ($2.48 in chips) 
+Seat 3: lawlex_2 ($2.69 in chips) 
+Seat 4: pokerman441 ($6.77 in chips) 
+Seat 5: HugoXRay ($1.95 in chips) 
+Seat 6: Ollie0308 ($2.12 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 2s]
+HugoXRay: raises $0.04 to $0.06
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.04) returned to HugoXRay
+HugoXRay collected $0.05 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: HugoXRay collected ($0.05)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857495882:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:57:43 MSK [2020/05/14 12:57:43 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2.17 in chips) 
+Seat 2: Don-Bosco9 ($2.48 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.75 in chips) 
+Seat 5: HugoXRay ($1.98 in chips) 
+Seat 6: Ollie0308 ($2.12 in chips) 
+pokerman441: posts small blind $0.01
+HugoXRay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 2h]
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+HugoXRay: calls $0.04
+*** FLOP *** [8d Kd 3d]
+pokerman441: bets $0.06
+HugoXRay: calls $0.06
+*** TURN *** [8d Kd 3d] [2c]
+pokerman441: checks 
+HugoXRay: bets $0.02
+pokerman441: raises $0.14 to $0.16
+HugoXRay: raises $0.14 to $0.30
+pokerman441: folds 
+Uncalled bet ($0.14) returned to HugoXRay
+HugoXRay collected $0.54 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [8d Kd 3d 2c]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded on the Turn
+Seat 5: HugoXRay (big blind) collected ($0.54)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857531404:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:58:40 MSK [2020/05/14 12:58:40 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2.17 in chips) 
+Seat 2: Don-Bosco9 ($2.48 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.47 in chips) 
+Seat 5: HugoXRay ($2.24 in chips) 
+Seat 6: Ollie0308 ($2.12 in chips) 
+HugoXRay: posts small blind $0.01
+Ollie0308: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 3h]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: calls $0.01
+Ollie0308: raises $0.04 to $0.06
+HugoXRay: folds 
+Uncalled bet ($0.04) returned to Ollie0308
+Ollie0308 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: HugoXRay (small blind) folded before Flop
+Seat 6: Ollie0308 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #213857550116:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:59:10 MSK [2020/05/14 12:59:10 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2.17 in chips) 
+Seat 2: Don-Bosco9 ($2.48 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.47 in chips) 
+Seat 5: HugoXRay ($2.22 in chips) 
+Seat 6: Ollie0308 ($2.14 in chips) 
+Ollie0308: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 7s]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: raises $0.02 to $0.04
+Ollie0308: folds 
+Jav9sp: raises $0.14 to $0.18
+HugoXRay: folds 
+Uncalled bet ($0.14) returned to Jav9sp
+Jav9sp collected $0.09 from pot
+Jav9sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Jav9sp (big blind) collected ($0.09)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay (button) folded before Flop
+Seat 6: Ollie0308 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213857575920:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 19:59:52 MSK [2020/05/14 12:59:52 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2.22 in chips) 
+Seat 2: Don-Bosco9 ($2.48 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.47 in chips) 
+Seat 5: HugoXRay ($2.18 in chips) 
+Seat 6: Ollie0308 ($2.13 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 5s]
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: calls $0.02
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: checks 
+*** FLOP *** [5h Jd As]
+Don-Bosco9: checks 
+HugoXRay: bets $0.02
+Don-Bosco9: folds 
+Uncalled bet ($0.02) returned to HugoXRay
+HugoXRay collected $0.05 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5h Jd As]
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded on the Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay collected ($0.05)
+Seat 6: Ollie0308 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857590252:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:00:13 MSK [2020/05/14 13:00:13 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2.21 in chips) 
+Seat 2: Don-Bosco9 ($2.46 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.47 in chips) 
+Seat 5: HugoXRay ($2.21 in chips) 
+Seat 6: Ollie0308 ($2.13 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 8s]
+pokerman441: folds 
+HugoXRay: calls $0.02
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: checks 
+*** FLOP *** [2d 2h Ah]
+lawlex_2: checks 
+HugoXRay: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to HugoXRay
+HugoXRay collected $0.05 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2d 2h Ah]
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay collected ($0.05)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857600949:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:00:30 MSK [2020/05/14 13:00:30 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2.21 in chips) 
+Seat 2: Don-Bosco9 ($2.45 in chips) 
+Seat 3: lawlex_2 ($2.66 in chips) 
+Seat 4: pokerman441 ($6.47 in chips) 
+Seat 5: HugoXRay ($2.24 in chips) 
+Seat 6: Ollie0308 ($2.13 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Qd]
+HugoXRay: raises $0.02 to $0.04
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: calls $0.02
+*** FLOP *** [Ks 3c 3h]
+pokerman441: checks 
+HugoXRay: bets $0.02
+pokerman441: raises $0.13 to $0.15
+HugoXRay: folds 
+Uncalled bet ($0.13) returned to pokerman441
+pokerman441 collected $0.13 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ks 3c 3h]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) collected ($0.13)
+Seat 5: HugoXRay folded on the Flop
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857617401:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:00:55 MSK [2020/05/14 13:00:55 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2.21 in chips) 
+Seat 2: Don-Bosco9 ($2.45 in chips) 
+Seat 3: lawlex_2 ($2.65 in chips) 
+Seat 4: pokerman441 ($6.54 in chips) 
+Seat 5: HugoXRay ($2.18 in chips) 
+Seat 6: Ollie0308 ($2.13 in chips) 
+pokerman441: posts small blind $0.01
+HugoXRay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 5s]
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: calls $0.01
+HugoXRay: raises $0.02 to $0.04
+pokerman441: calls $0.02
+*** FLOP *** [Ac 9h 2c]
+pokerman441: checks 
+HugoXRay: bets $0.02
+pokerman441: calls $0.02
+*** TURN *** [Ac 9h 2c] [Kc]
+pokerman441: checks 
+HugoXRay: bets $0.02
+pokerman441: folds 
+Uncalled bet ($0.02) returned to HugoXRay
+HugoXRay collected $0.12 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ac 9h 2c Kc]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: pokerman441 (small blind) folded on the Turn
+Seat 5: HugoXRay (big blind) collected ($0.12)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857638161:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:01:23 MSK [2020/05/14 13:01:23 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2.21 in chips) 
+Seat 2: Don-Bosco9 ($2.45 in chips) 
+Seat 3: lawlex_2 ($2.65 in chips) 
+Seat 4: pokerman441 ($6.48 in chips) 
+Seat 5: HugoXRay ($2.24 in chips) 
+Seat 6: Ollie0308 ($2.13 in chips) 
+HugoXRay: posts small blind $0.01
+Ollie0308: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 8d]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: raises $0.04 to $0.06
+HugoXRay: calls $0.05
+Ollie0308: folds 
+*** FLOP *** [2d 6c As]
+HugoXRay: checks 
+pokerman441: bets $0.07
+HugoXRay: folds 
+Uncalled bet ($0.07) returned to pokerman441
+pokerman441 collected $0.14 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2d 6c As]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) collected ($0.14)
+Seat 5: HugoXRay (small blind) folded on the Flop
+Seat 6: Ollie0308 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213857656144:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:01:47 MSK [2020/05/14 13:01:47 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2.21 in chips) 
+Seat 2: Don-Bosco9 ($2.45 in chips) 
+Seat 3: lawlex_2 ($2.65 in chips) 
+Seat 4: pokerman441 ($6.56 in chips) 
+Seat 5: HugoXRay ($2.18 in chips) 
+Seat 6: Ollie0308 ($2.11 in chips) 
+Ollie0308: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 3c]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: raises $0.02 to $0.04
+Ollie0308: raises $0.08 to $0.12
+Jav9sp: folds 
+HugoXRay: calls $0.08
+*** FLOP *** [3s 9d Ts]
+Ollie0308: bets $0.13
+HugoXRay: calls $0.13
+*** TURN *** [3s 9d Ts] [2s]
+Ollie0308: checks 
+HugoXRay: checks 
+*** RIVER *** [3s 9d Ts 2s] [6h]
+Ollie0308: checks 
+HugoXRay: checks 
+*** SHOW DOWN ***
+Ollie0308: shows [5d 5c] (a pair of Fives)
+HugoXRay: mucks hand 
+Ollie0308 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [3s 9d Ts 2s 6h]
+Seat 1: Jav9sp (big blind) folded before Flop
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay (button) mucked [Qc Jh]
+Seat 6: Ollie0308 (small blind) showed [5d 5c] and won ($0.50) with a pair of Fives
+
+
+
+PokerStars Hand #213857683366:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:02:21 MSK [2020/05/14 13:02:21 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2.19 in chips) 
+Seat 2: Don-Bosco9 ($2.45 in chips) 
+Seat 3: lawlex_2 ($2.65 in chips) 
+Seat 4: pokerman441 ($6.56 in chips) 
+Seat 5: HugoXRay ($1.93 in chips) 
+Seat 6: Ollie0308 ($2.36 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 4c]
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: raises $0.02 to $0.04
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: calls $0.02
+*** FLOP *** [Td 4d 3c]
+Don-Bosco9: checks 
+HugoXRay: bets $0.02
+Don-Bosco9: folds 
+Uncalled bet ($0.02) returned to HugoXRay
+HugoXRay collected $0.09 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Td 4d 3c]
+Seat 1: Jav9sp (small blind) folded before Flop
+Seat 2: Don-Bosco9 (big blind) folded on the Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay collected ($0.09)
+Seat 6: Ollie0308 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857711303:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:02:54 MSK [2020/05/14 13:02:54 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2.18 in chips) 
+Seat 2: Don-Bosco9 ($2.41 in chips) 
+Seat 3: lawlex_2 ($2.65 in chips) 
+Seat 4: pokerman441 ($6.56 in chips) 
+Seat 5: HugoXRay ($1.98 in chips) 
+Seat 6: Ollie0308 ($2.36 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 6h]
+pokerman441: folds 
+HugoXRay: raises $0.02 to $0.04
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to HugoXRay
+HugoXRay collected $0.05 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay collected ($0.05)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857726878:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:03:13 MSK [2020/05/14 13:03:13 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2.18 in chips) 
+Seat 2: Don-Bosco9 ($2.40 in chips) 
+Seat 3: lawlex_2 ($2.63 in chips) 
+Seat 4: pokerman441 ($6.56 in chips) 
+Seat 5: HugoXRay ($2.01 in chips) 
+Seat 6: Ollie0308 ($2.36 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 8s]
+HugoXRay: raises $0.02 to $0.04
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+Uncalled bet ($0.02) returned to HugoXRay
+HugoXRay collected $0.05 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) folded before Flop
+Seat 5: HugoXRay collected ($0.05)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857743902:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:03:34 MSK [2020/05/14 13:03:34 ET]
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 1: Jav9sp ($2.18 in chips) 
+Seat 2: Don-Bosco9 ($2.40 in chips) 
+Seat 3: lawlex_2 ($2.62 in chips) 
+Seat 4: pokerman441 ($6.54 in chips) 
+Seat 5: HugoXRay ($2.04 in chips) 
+Seat 6: Ollie0308 ($2.36 in chips) 
+pokerman441: posts small blind $0.01
+HugoXRay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Ad]
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: raises $0.03 to $0.05
+pokerman441: folds 
+HugoXRay: calls $0.03
+*** FLOP *** [9d 5s 3c]
+HugoXRay: checks 
+lawlex_2: bets $0.07
+HugoXRay: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9d 5s 3c]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) collected ($0.11)
+Seat 4: pokerman441 (small blind) folded before Flop
+Seat 5: HugoXRay (big blind) folded on the Flop
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857767095:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:04:02 MSK [2020/05/14 13:04:02 ET]
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 1: Jav9sp ($2.18 in chips) 
+Seat 2: Don-Bosco9 ($2.40 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.53 in chips) 
+Seat 5: HugoXRay ($1.99 in chips) 
+Seat 6: Ollie0308 ($2.36 in chips) 
+HugoXRay: posts small blind $0.01
+Ollie0308: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 4h]
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: calls $0.01
+Ollie0308: raises $0.04 to $0.06
+HugoXRay: calls $0.04
+*** FLOP *** [Js Qs 6h]
+HugoXRay: checks 
+Ollie0308: bets $0.06
+HugoXRay: folds 
+Uncalled bet ($0.06) returned to Ollie0308
+Ollie0308 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Js Qs 6h]
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 (button) folded before Flop (didn't bet)
+Seat 5: HugoXRay (small blind) folded on the Flop
+Seat 6: Ollie0308 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #213857802270:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:04:37 MSK [2020/05/14 13:04:37 ET]
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 1: Jav9sp ($2.18 in chips) 
+Seat 2: Don-Bosco9 ($2.40 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.53 in chips) 
+Seat 5: HugoXRay ($1.93 in chips) 
+Seat 6: Ollie0308 ($2.42 in chips) 
+Ollie0308: posts small blind $0.01
+Jav9sp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 4d]
+Don-Bosco9: folds 
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: calls $0.02
+Ollie0308: folds 
+Jav9sp: checks 
+*** FLOP *** [Jd 8h 9s]
+Jav9sp: checks 
+HugoXRay: bets $0.02
+Jav9sp: calls $0.02
+*** TURN *** [Jd 8h 9s] [4s]
+Jav9sp: checks 
+HugoXRay: bets $0.02
+Jav9sp: calls $0.02
+*** RIVER *** [Jd 8h 9s 4s] [Ah]
+Jav9sp: checks 
+HugoXRay: checks 
+*** SHOW DOWN ***
+Jav9sp: shows [9h Ks] (a pair of Nines)
+HugoXRay: mucks hand 
+Jav9sp collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jd 8h 9s 4s Ah]
+Seat 1: Jav9sp (big blind) showed [9h Ks] and won ($0.13) with a pair of Nines
+Seat 2: Don-Bosco9 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay (button) mucked [5d Qh]
+Seat 6: Ollie0308 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213857836710:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:05:18 MSK [2020/05/14 13:05:18 ET]
+Table 'Juewa II' 6-max Seat #6 is the button
+Seat 1: Jav9sp ($2.25 in chips) 
+Seat 2: Don-Bosco9 ($2.40 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.53 in chips) 
+Seat 5: HugoXRay ($1.87 in chips) 
+Seat 6: Ollie0308 ($2.41 in chips) 
+Jav9sp: posts small blind $0.01
+Don-Bosco9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 3d]
+lawlex_2: folds 
+pokerman441: folds 
+HugoXRay: calls $0.02
+Ollie0308: folds 
+Jav9sp: raises $0.08 to $0.10
+Don-Bosco9: folds 
+HugoXRay: calls $0.08
+*** FLOP *** [5s 5h 9s]
+Jav9sp: checks 
+HugoXRay: bets $0.02
+Jav9sp: calls $0.02
+*** TURN *** [5s 5h 9s] [2c]
+Jav9sp: checks 
+HugoXRay: bets $0.02
+Jav9sp: calls $0.02
+*** RIVER *** [5s 5h 9s 2c] [9h]
+Jav9sp: checks 
+HugoXRay: bets $0.14
+Jav9sp: folds 
+Uncalled bet ($0.14) returned to HugoXRay
+HugoXRay collected $0.29 from pot
+HugoXRay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [5s 5h 9s 2c 9h]
+Seat 1: Jav9sp (small blind) folded on the River
+Seat 2: Don-Bosco9 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: pokerman441 folded before Flop (didn't bet)
+Seat 5: HugoXRay collected ($0.29)
+Seat 6: Ollie0308 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857897149:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:06:29 MSK [2020/05/14 13:06:29 ET]
+Table 'Juewa II' 6-max Seat #1 is the button
+Seat 1: Jav9sp ($2.11 in chips) 
+Seat 2: Don-Bosco9 ($2.38 in chips) 
+Seat 3: lawlex_2 ($2.68 in chips) 
+Seat 4: pokerman441 ($6.53 in chips) 
+Seat 5: HugoXRay ($2.02 in chips) 
+Seat 6: Ollie0308 ($2.41 in chips) 
+Don-Bosco9: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Ks]
+pokerman441: raises $0.04 to $0.06
+HugoXRay: folds 
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: raises $0.19 to $0.25
+lawlex_2: folds 
+pokerman441: calls $0.19
+*** FLOP *** [Qc 2s 7c]
+Don-Bosco9: bets $0.33
+pokerman441: calls $0.33
+*** TURN *** [Qc 2s 7c] [6s]
+Don-Bosco9: checks 
+pokerman441: checks 
+*** RIVER *** [Qc 2s 7c 6s] [9h]
+Don-Bosco9: checks 
+pokerman441: checks 
+*** SHOW DOWN ***
+Don-Bosco9: shows [Ah Kh] (high card Ace)
+pokerman441: shows [Qd Ad] (a pair of Queens)
+pokerman441 collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [Qc 2s 7c 6s 9h]
+Seat 1: Jav9sp (button) folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (small blind) showed [Ah Kh] and lost with high card Ace
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: pokerman441 showed [Qd Ad] and won ($1.14) with a pair of Queens
+Seat 5: HugoXRay folded before Flop (didn't bet)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213857936212:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/14 20:07:15 MSK [2020/05/14 13:07:15 ET]
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 1: Jav9sp ($2.11 in chips) 
+Seat 2: Don-Bosco9 ($2 in chips) 
+Seat 3: lawlex_2 ($2.66 in chips) 
+Seat 4: pokerman441 ($7.09 in chips) 
+Seat 5: HugoXRay ($2.02 in chips) 
+Seat 6: Ollie0308 ($2.41 in chips) 
+lawlex_2: posts small blind $0.01
+pokerman441: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Ac]
+HugoXRay: folds 
+Ollie0308: folds 
+Jav9sp: folds 
+Don-Bosco9: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to pokerman441
+pokerman441 collected $0.02 from pot
+pokerman441: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jav9sp folded before Flop (didn't bet)
+Seat 2: Don-Bosco9 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: pokerman441 (big blind) collected ($0.02)
+Seat 5: HugoXRay folded before Flop (didn't bet)
+Seat 6: Ollie0308 folded before Flop (didn't bet)
+
+
+

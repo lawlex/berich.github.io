@@ -1,0 +1,4822 @@
+﻿PokerStars Hand #213753616773:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:18:34 MSK [2020/05/12 14:18:34 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: VascoSerg ($2 in chips) 
+Seat 2: Secret.Speed ($2.11 in chips) 
+Seat 3: IMberry ($2.30 in chips) 
+Seat 4: luiyi11 ($1.23 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($2 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 6c]
+VascoSerg: folds 
+Secret.Speed: folds 
+IMberry: raises $0.02 to $0.04
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to IMberry
+IMberry collected $0.05 from pot
+IMberry: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: IMberry collected ($0.05)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213753641475:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:18:59 MSK [2020/05/12 14:18:59 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: VascoSerg ($2 in chips) 
+Seat 2: Secret.Speed ($2.11 in chips) 
+Seat 3: IMberry ($2.33 in chips) 
+Seat 4: luiyi11 ($1.23 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($1.98 in chips) 
+lawlex_2: posts small blind $0.01
+VascoSerg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 2c]
+Secret.Speed: folds 
+IMberry: raises $0.02 to $0.04
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: calls $0.02
+*** FLOP *** [Kh 2h 6d]
+VascoSerg: checks 
+IMberry: bets $0.05
+VascoSerg: folds 
+Uncalled bet ($0.05) returned to IMberry
+IMberry collected $0.09 from pot
+IMberry: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kh 2h 6d]
+Seat 1: VascoSerg (big blind) folded on the Flop
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: IMberry collected ($0.09)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213753674904:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:19:34 MSK [2020/05/12 14:19:34 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: VascoSerg ($2 in chips) 
+Seat 2: Secret.Speed ($2.11 in chips) 
+Seat 3: IMberry ($2.38 in chips) 
+Seat 4: luiyi11 ($1.23 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($1.97 in chips) 
+VascoSerg: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 7c]
+IMberry: folds 
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: folds 
+Uncalled bet ($0.01) returned to Secret.Speed
+Secret.Speed collected $0.02 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: VascoSerg (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) collected ($0.02)
+Seat 3: IMberry folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213753690156:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:19:49 MSK [2020/05/12 14:19:49 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: VascoSerg ($2 in chips) 
+Seat 2: Secret.Speed ($2.12 in chips) 
+Seat 3: IMberry ($2.38 in chips) 
+Seat 4: luiyi11 ($1.23 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($1.97 in chips) 
+Secret.Speed: posts small blind $0.01
+IMberry: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 5c]
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: raises $0.04 to $0.06
+Secret.Speed: folds 
+IMberry: calls $0.04
+*** FLOP *** [Qh Qd 3s]
+IMberry: checks 
+VascoSerg: checks 
+*** TURN *** [Qh Qd 3s] [7h]
+IMberry: bets $0.06
+VascoSerg: raises $0.06 to $0.12
+IMberry: folds 
+Uncalled bet ($0.06) returned to VascoSerg
+VascoSerg collected $0.24 from pot
+VascoSerg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qh Qd 3s 7h]
+Seat 1: VascoSerg (button) collected ($0.24)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: IMberry (big blind) folded on the Turn
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213753752892:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:20:54 MSK [2020/05/12 14:20:54 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: VascoSerg ($2.12 in chips) 
+Seat 2: Secret.Speed ($2.11 in chips) 
+Seat 3: IMberry ($2.26 in chips) 
+Seat 4: luiyi11 ($1.23 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($1.97 in chips) 
+IMberry: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Ad]
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+VascoSerg: folds 
+Secret.Speed: folds 
+IMberry: folds 
+luiyi11: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: IMberry (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 collected ($0.05)
+
+
+
+PokerStars Hand #213753785008:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:21:27 MSK [2020/05/12 14:21:27 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: VascoSerg ($2.12 in chips) 
+Seat 2: Secret.Speed ($2.11 in chips) 
+Seat 3: IMberry ($2.25 in chips) 
+Seat 4: luiyi11 ($1.21 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($2 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 3d]
+lawlex_2: folds 
+VascoSerg: folds 
+Secret.Speed has timed out
+Secret.Speed: folds 
+IMberry: raises $0.02 to $0.04
+luiyi11: folds 
+iivan26: raises $0.16 to $0.20
+IMberry: folds 
+Uncalled bet ($0.16) returned to iivan26
+iivan26 collected $0.09 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: IMberry (button) folded before Flop
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: iivan26 (big blind) collected ($0.09)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213753820611:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:22:04 MSK [2020/05/12 14:22:04 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: VascoSerg ($2.12 in chips) 
+Seat 2: Secret.Speed ($2.11 in chips) 
+Seat 3: IMberry ($2.21 in chips) 
+Seat 4: luiyi11 ($1.20 in chips) 
+Seat 5: iivan26 ($2.05 in chips) 
+Seat 6: lawlex_2 ($2 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 2c]
+VascoSerg: folds 
+Secret.Speed: folds 
+IMberry: folds 
+IMberry leaves the table
+luiyi11: folds 
+iivan26: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: IMberry folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213753837945:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:22:22 MSK [2020/05/12 14:22:22 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: VascoSerg ($2.12 in chips) 
+Seat 2: Secret.Speed ($2.11 in chips) 
+Seat 4: luiyi11 ($1.20 in chips) 
+Seat 5: iivan26 ($2.04 in chips) 
+Seat 6: lawlex_2 ($2.01 in chips) 
+beatroon joins the table at seat #3 
+beatroon is disconnected 
+lawlex_2: posts small blind $0.01
+VascoSerg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Ah]
+Secret.Speed: folds 
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+VascoSerg: folds 
+luiyi11: calls $0.03
+*** FLOP *** [3h 2s Ts]
+lawlex_2: bets $0.08
+luiyi11: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3h 2s Ts]
+Seat 1: VascoSerg (big blind) folded before Flop
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 4: luiyi11 folded on the Flop
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #213753862475:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:22:47 MSK [2020/05/12 14:22:47 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: VascoSerg ($2.10 in chips) 
+Seat 2: Secret.Speed ($2.11 in chips) 
+Seat 4: luiyi11 ($1.15 in chips) 
+Seat 5: iivan26 ($2.04 in chips) 
+Seat 6: lawlex_2 ($2.08 in chips) 
+VascoSerg: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+beatroon has timed out
+beatroon: is sitting out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 8h]
+luiyi11: folds 
+iivan26: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+VascoSerg: folds 
+Secret.Speed: raises $0.10 to $0.15
+iivan26: folds 
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to Secret.Speed
+Secret.Speed collected $0.13 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: VascoSerg (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) collected ($0.13)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded before Flop
+Seat 6: lawlex_2 (button) folded before Flop
+
+
+
+PokerStars Hand #213753895930:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:23:22 MSK [2020/05/12 14:23:22 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: VascoSerg ($2.09 in chips) 
+Seat 2: Secret.Speed ($2.19 in chips) 
+Seat 3: beatroon ($2 in chips) 
+Seat 4: luiyi11 ($1.15 in chips) 
+Seat 5: iivan26 ($2.02 in chips) 
+Seat 6: lawlex_2 ($2.03 in chips) 
+Secret.Speed: posts small blind $0.01
+beatroon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 5d]
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: folds 
+Secret.Speed: folds 
+Uncalled bet ($0.01) returned to beatroon
+beatroon collected $0.02 from pot
+beatroon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: VascoSerg (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: beatroon (big blind) collected ($0.02)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213753906973:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:23:33 MSK [2020/05/12 14:23:33 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: VascoSerg ($2.09 in chips) 
+Seat 2: Secret.Speed ($2.18 in chips) 
+Seat 3: beatroon ($2.01 in chips) 
+Seat 4: luiyi11 ($1.15 in chips) 
+Seat 5: iivan26 ($2.02 in chips) 
+Seat 6: lawlex_2 ($2.03 in chips) 
+beatroon: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 7c]
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: folds 
+Secret.Speed: calls $0.02
+beatroon: folds 
+luiyi11: checks 
+*** FLOP *** [Kd 4h 9d]
+luiyi11: checks 
+Secret.Speed: checks 
+*** TURN *** [Kd 4h 9d] [3h]
+luiyi11: checks 
+Secret.Speed: checks 
+*** RIVER *** [Kd 4h 9d 3h] [Kc]
+luiyi11: checks 
+Secret.Speed: bets $0.02
+luiyi11: folds 
+Uncalled bet ($0.02) returned to Secret.Speed
+Secret.Speed collected $0.05 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kd 4h 9d 3h Kc]
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) collected ($0.05)
+Seat 3: beatroon (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded on the River
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213753951488:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:24:20 MSK [2020/05/12 14:24:20 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: VascoSerg ($2.09 in chips) 
+Seat 2: Secret.Speed ($2.21 in chips) 
+Seat 3: beatroon ($2 in chips) 
+Seat 4: luiyi11 ($1.13 in chips) 
+Seat 5: iivan26 ($2.02 in chips) 
+Seat 6: lawlex_2 ($2.03 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 9h]
+lawlex_2: folds 
+VascoSerg: folds 
+Secret.Speed: folds 
+beatroon: folds 
+luiyi11: calls $0.01
+iivan26: raises $0.06 to $0.08
+luiyi11: folds 
+Uncalled bet ($0.06) returned to iivan26
+iivan26 collected $0.04 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: beatroon (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: iivan26 (big blind) collected ($0.04)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213753971984:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:24:41 MSK [2020/05/12 14:24:41 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: VascoSerg ($2.09 in chips) 
+Seat 2: Secret.Speed ($2.21 in chips) 
+Seat 3: beatroon ($2 in chips) 
+Seat 4: luiyi11 ($1.11 in chips) 
+Seat 5: iivan26 ($2.04 in chips) 
+Seat 6: lawlex_2 ($2.03 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 4s]
+VascoSerg: folds 
+Secret.Speed: folds 
+beatroon: folds 
+luiyi11: folds 
+iivan26: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [6d Kh 2d]
+iivan26: checks 
+lawlex_2: checks 
+*** TURN *** [6d Kh 2d] [Qd]
+iivan26: checks 
+lawlex_2: checks 
+*** RIVER *** [6d Kh 2d Qd] [3d]
+iivan26: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+iivan26: shows [8d Qs] (a flush, Queen high)
+lawlex_2: mucks hand 
+iivan26 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6d Kh 2d Qd 3d]
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) showed [8d Qs] and won ($0.04) with a flush, Queen high
+Seat 6: lawlex_2 (big blind) mucked [9h 4s]
+
+
+
+PokerStars Hand #213754019798:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:25:31 MSK [2020/05/12 14:25:31 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: VascoSerg ($2.09 in chips) 
+Seat 2: Secret.Speed ($2.21 in chips) 
+Seat 3: beatroon ($2 in chips) 
+Seat 4: luiyi11 ($1.11 in chips) 
+Seat 5: iivan26 ($2.06 in chips) 
+Seat 6: lawlex_2 ($2.01 in chips) 
+lawlex_2: posts small blind $0.01
+VascoSerg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Jd]
+Secret.Speed: calls $0.02
+beatroon: folds 
+luiyi11: folds 
+iivan26: calls $0.02
+lawlex_2: folds 
+VascoSerg: checks 
+*** FLOP *** [7c Ad Ac]
+VascoSerg: checks 
+Secret.Speed: checks 
+iivan26: checks 
+*** TURN *** [7c Ad Ac] [3c]
+VascoSerg: checks 
+Secret.Speed: checks 
+iivan26: checks 
+*** RIVER *** [7c Ad Ac 3c] [Td]
+VascoSerg: checks 
+Secret.Speed: bets $0.04
+iivan26: folds 
+VascoSerg: folds 
+Uncalled bet ($0.04) returned to Secret.Speed
+Secret.Speed collected $0.07 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7c Ad Ac 3c Td]
+Seat 1: VascoSerg (big blind) folded on the River
+Seat 2: Secret.Speed collected ($0.07)
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 (button) folded on the River
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213754077349:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:26:30 MSK [2020/05/12 14:26:30 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: VascoSerg ($2.07 in chips) 
+Seat 2: Secret.Speed ($2.26 in chips) 
+Seat 3: beatroon ($2 in chips) 
+Seat 4: luiyi11 ($1.11 in chips) 
+Seat 5: iivan26 ($2.04 in chips) 
+Seat 6: lawlex_2 ($2 in chips) 
+VascoSerg: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 6h]
+beatroon: folds 
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: folds 
+Secret.Speed: checks 
+*** FLOP *** [Jc 8h 4d]
+Secret.Speed: checks 
+luiyi11: checks 
+*** TURN *** [Jc 8h 4d] [Qh]
+Secret.Speed: checks 
+luiyi11: checks 
+*** RIVER *** [Jc 8h 4d Qh] [Kc]
+Secret.Speed: bets $0.03
+luiyi11: folds 
+Uncalled bet ($0.03) returned to Secret.Speed
+Secret.Speed collected $0.05 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jc 8h 4d Qh Kc]
+Seat 1: VascoSerg (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) collected ($0.05)
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 folded on the River
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754116966:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:27:11 MSK [2020/05/12 14:27:11 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: VascoSerg ($2.06 in chips) 
+Seat 2: Secret.Speed ($2.29 in chips) 
+Seat 3: beatroon ($2 in chips) 
+Seat 4: luiyi11 ($1.09 in chips) 
+Seat 5: iivan26 ($2.04 in chips) 
+Seat 6: lawlex_2 ($2 in chips) 
+Secret.Speed: posts small blind $0.01
+beatroon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 9c]
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+VascoSerg: folds 
+Secret.Speed: calls $0.04
+beatroon: folds 
+*** FLOP *** [3d 2d 5h]
+Secret.Speed: checks 
+lawlex_2: checks 
+*** TURN *** [3d 2d 5h] [7h]
+Secret.Speed: checks 
+lawlex_2: checks 
+*** RIVER *** [3d 2d 5h 7h] [Th]
+Secret.Speed: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Secret.Speed: shows [Kd Qc] (high card King)
+lawlex_2: mucks hand 
+Secret.Speed collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3d 2d 5h 7h Th]
+Seat 1: VascoSerg (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) showed [Kd Qc] and won ($0.12) with high card King
+Seat 3: beatroon (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 mucked [Jc 9c]
+
+
+
+PokerStars Hand #213754151018:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:27:46 MSK [2020/05/12 14:27:46 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: VascoSerg ($2.06 in chips) 
+Seat 2: Secret.Speed ($2.36 in chips) 
+Seat 3: beatroon ($1.98 in chips) 
+Seat 4: luiyi11 ($1.09 in chips) 
+Seat 5: iivan26 ($2.04 in chips) 
+Seat 6: lawlex_2 ($1.95 in chips) 
+beatroon: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 2h]
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: folds 
+Secret.Speed: folds 
+beatroon: folds 
+Uncalled bet ($0.01) returned to luiyi11
+luiyi11 collected $0.02 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: beatroon (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) collected ($0.02)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754163850:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:28:00 MSK [2020/05/12 14:28:00 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: VascoSerg ($2.06 in chips) 
+Seat 2: Secret.Speed ($2.36 in chips) 
+Seat 3: beatroon ($1.97 in chips) 
+Seat 4: luiyi11 ($1.10 in chips) 
+Seat 5: iivan26 ($2.04 in chips) 
+Seat 6: lawlex_2 ($1.95 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Jh]
+lawlex_2 has timed out
+lawlex_2: folds 
+VascoSerg: raises $0.04 to $0.06
+Secret.Speed: folds 
+beatroon: folds 
+luiyi11: calls $0.05
+iivan26: folds 
+*** FLOP *** [As Qh Ks]
+luiyi11: checks 
+VascoSerg: bets $0.09
+luiyi11: folds 
+Uncalled bet ($0.09) returned to VascoSerg
+VascoSerg collected $0.14 from pot
+VascoSerg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [As Qh Ks]
+Seat 1: VascoSerg collected ($0.14)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: beatroon (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded on the Flop
+Seat 5: iivan26 (big blind) folded before Flop
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754199242:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:28:36 MSK [2020/05/12 14:28:36 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: VascoSerg ($2.14 in chips) 
+Seat 2: Secret.Speed ($2.36 in chips) 
+Seat 3: beatroon ($1.97 in chips) 
+Seat 4: luiyi11 ($1.04 in chips) 
+Seat 5: iivan26 ($2.02 in chips) 
+Seat 6: lawlex_2 ($1.95 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 7s]
+VascoSerg: folds 
+Secret.Speed: folds 
+beatroon: raises $0.04 to $0.06
+luiyi11: calls $0.06
+iivan26: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [9h 4s 4c]
+iivan26: checks 
+beatroon: bets $0.10
+luiyi11: folds 
+iivan26: folds 
+Uncalled bet ($0.10) returned to beatroon
+beatroon collected $0.19 from pot
+beatroon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9h 4s 4c]
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: beatroon collected ($0.19)
+Seat 4: luiyi11 (button) folded on the Flop
+Seat 5: iivan26 (small blind) folded on the Flop
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213754244292:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:29:23 MSK [2020/05/12 14:29:23 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: VascoSerg ($2.14 in chips) 
+Seat 2: Secret.Speed ($2.36 in chips) 
+Seat 3: beatroon ($2.10 in chips) 
+Seat 4: luiyi11 ($0.98 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($1.93 in chips) 
+lawlex_2: posts small blind $0.01
+VascoSerg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Jc]
+Secret.Speed has timed out
+Secret.Speed: folds 
+beatroon: folds 
+luiyi11: folds 
+iivan26: raises $0.08 to $0.10
+lawlex_2: folds 
+VascoSerg: folds 
+Uncalled bet ($0.08) returned to iivan26
+iivan26 collected $0.05 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VascoSerg (big blind) folded before Flop
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 (button) collected ($0.05)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213754269335:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:29:49 MSK [2020/05/12 14:29:49 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: VascoSerg ($2.12 in chips) 
+Seat 3: beatroon ($2.10 in chips) 
+Seat 4: luiyi11 ($0.98 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+VascoSerg: posts small blind $0.01
+beatroon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 7h]
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: folds 
+Uncalled bet ($0.01) returned to beatroon
+beatroon collected $0.02 from pot
+beatroon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: VascoSerg (small blind) folded before Flop
+Seat 3: beatroon (big blind) collected ($0.02)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754283222:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:30:03 MSK [2020/05/12 14:30:03 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: VascoSerg ($2.11 in chips) 
+Seat 3: beatroon ($2.11 in chips) 
+Seat 4: luiyi11 ($0.98 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+beatroon: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 8c]
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: raises $0.02 to $0.04
+beatroon: folds 
+luiyi11: folds 
+Uncalled bet ($0.02) returned to VascoSerg
+VascoSerg collected $0.05 from pot
+VascoSerg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VascoSerg (button) collected ($0.05)
+Seat 3: beatroon (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754308779:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:30:28 MSK [2020/05/12 14:30:28 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: VascoSerg ($2.14 in chips) 
+Seat 3: beatroon ($2.10 in chips) 
+Seat 4: luiyi11 ($0.96 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 8c]
+lawlex_2: folds 
+VascoSerg: folds 
+beatroon: folds 
+luiyi11: folds 
+Uncalled bet ($0.01) returned to iivan26
+iivan26 collected $0.02 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 3: beatroon (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: iivan26 (big blind) collected ($0.02)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754327774:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:30:48 MSK [2020/05/12 14:30:48 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: VascoSerg ($2.14 in chips) 
+Seat 3: beatroon ($2.10 in chips) 
+Seat 4: luiyi11 ($0.95 in chips) 
+Seat 5: iivan26 ($2.04 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 9s]
+VascoSerg: folds 
+beatroon: folds 
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: checks 
+*** FLOP *** [9c Js Ah]
+lawlex_2: bets $0.03
+luiyi11: calls $0.03
+*** TURN *** [9c Js Ah] [Qh]
+lawlex_2: bets $0.07
+luiyi11: calls $0.07
+*** RIVER *** [9c Js Ah Qh] [3s]
+lawlex_2: checks 
+luiyi11: bets $0.20
+lawlex_2: folds 
+Uncalled bet ($0.20) returned to luiyi11
+luiyi11 collected $0.24 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9c Js Ah Qh 3s]
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) collected ($0.24)
+Seat 5: iivan26 (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) folded on the River
+
+
+
+PokerStars Hand #213754382971:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:31:41 MSK [2020/05/12 14:31:41 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: VascoSerg ($2.14 in chips) 
+Seat 3: beatroon ($2.10 in chips) 
+Seat 4: luiyi11 ($1.07 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.80 in chips) 
+lawlex_2: posts small blind $0.01
+VascoSerg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Kd]
+beatroon: folds 
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: calls $0.01
+VascoSerg: raises $0.08 to $0.10
+luiyi11: folds 
+lawlex_2: folds 
+Uncalled bet ($0.08) returned to VascoSerg
+VascoSerg collected $0.06 from pot
+VascoSerg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: VascoSerg (big blind) collected ($0.06)
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213754414906:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:32:14 MSK [2020/05/12 14:32:14 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: VascoSerg ($2.18 in chips) 
+Seat 3: beatroon ($2.10 in chips) 
+Seat 4: luiyi11 ($1.05 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.78 in chips) 
+VascoSerg: posts small blind $0.01
+beatroon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Ac]
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+VascoSerg: folds 
+beatroon: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VascoSerg (small blind) folded before Flop
+Seat 3: beatroon (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213754428713:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:32:28 MSK [2020/05/12 14:32:28 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: VascoSerg ($2.17 in chips) 
+Seat 3: beatroon ($2.08 in chips) 
+Seat 4: luiyi11 ($1.05 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.81 in chips) 
+beatroon: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 2s]
+iivan26: calls $0.02
+lawlex_2: folds 
+VascoSerg: raises $0.06 to $0.08
+beatroon: folds 
+luiyi11: folds 
+iivan26: calls $0.06
+*** FLOP *** [8s 6c 3c]
+iivan26: checks 
+VascoSerg: checks 
+*** TURN *** [8s 6c 3c] [Kc]
+iivan26: checks 
+VascoSerg: checks 
+*** RIVER *** [8s 6c 3c Kc] [2d]
+iivan26: bets $0.09
+VascoSerg: folds 
+Uncalled bet ($0.09) returned to iivan26
+iivan26 collected $0.18 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8s 6c 3c Kc 2d]
+Seat 1: VascoSerg (button) folded on the River
+Seat 3: beatroon (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: iivan26 collected ($0.18)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754488043:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:33:28 MSK [2020/05/12 14:33:28 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: VascoSerg ($2.09 in chips) 
+Seat 2: Secret.Speed ($2.36 in chips) 
+Seat 3: beatroon ($2.07 in chips) 
+Seat 4: luiyi11 ($1.03 in chips) 
+Seat 5: iivan26 ($2.13 in chips) 
+Seat 6: lawlex_2 ($1.81 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+Secret.Speed: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Ah]
+lawlex_2: raises $0.03 to $0.05
+VascoSerg: folds 
+Secret.Speed: folds 
+beatroon: folds 
+luiyi11: folds 
+iivan26: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.08 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: beatroon (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: iivan26 (big blind) folded before Flop
+Seat 6: lawlex_2 collected ($0.08)
+
+
+
+PokerStars Hand #213754508877:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:33:49 MSK [2020/05/12 14:33:49 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: VascoSerg ($2.09 in chips) 
+Seat 2: Secret.Speed ($2.33 in chips) 
+Seat 3: beatroon ($2.07 in chips) 
+Seat 4: luiyi11 ($1.02 in chips) 
+Seat 5: iivan26 ($2.11 in chips) 
+Seat 6: lawlex_2 ($1.87 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Kd]
+VascoSerg: folds 
+Secret.Speed: folds 
+beatroon: folds 
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+luiyi11: calls $0.03
+*** FLOP *** [3c 3h 8c]
+lawlex_2: checks 
+luiyi11: checks 
+*** TURN *** [3c 3h 8c] [5s]
+lawlex_2: checks 
+luiyi11: checks 
+*** RIVER *** [3c 3h 8c 5s] [3s]
+lawlex_2: checks 
+luiyi11: bets $0.97 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.97) returned to luiyi11
+luiyi11 collected $0.11 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3c 3h 8c 5s 3s]
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) collected ($0.11)
+Seat 5: iivan26 (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) folded on the River
+
+
+
+PokerStars Hand #213754567850:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:34:48 MSK [2020/05/12 14:34:48 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: VascoSerg ($2.09 in chips) 
+Seat 2: Secret.Speed ($2.33 in chips) 
+Seat 3: beatroon ($2.07 in chips) 
+Seat 4: luiyi11 ($1.08 in chips) 
+Seat 5: iivan26 ($2.10 in chips) 
+Seat 6: lawlex_2 ($1.82 in chips) 
+lawlex_2: posts small blind $0.01
+VascoSerg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Jh]
+Secret.Speed: folds 
+beatroon: folds 
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: checks 
+*** FLOP *** [Ah 9c 6c]
+VascoSerg: checks 
+luiyi11: bets $0.08
+VascoSerg: calls $0.08
+*** TURN *** [Ah 9c 6c] [As]
+VascoSerg: checks 
+luiyi11: checks 
+*** RIVER *** [Ah 9c 6c As] [Tc]
+VascoSerg: bets $0.13
+luiyi11: raises $0.85 to $0.98 and is all-in
+VascoSerg: calls $0.85
+*** SHOW DOWN ***
+luiyi11: shows [Js Ad] (three of a kind, Aces)
+VascoSerg: shows [8s 7c] (a straight, Six to Ten)
+VascoSerg collected $2.09 from pot
+*** SUMMARY ***
+Total pot $2.17 | Rake $0.08 
+Board [Ah 9c 6c As Tc]
+Seat 1: VascoSerg (big blind) showed [8s 7c] and won ($2.09) with a straight, Six to Ten
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 showed [Js Ad] and lost with three of a kind, Aces
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213754617256:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:35:38 MSK [2020/05/12 14:35:38 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: VascoSerg ($3.10 in chips) 
+Seat 2: Secret.Speed ($2.33 in chips) 
+Seat 3: beatroon ($2.07 in chips) 
+Seat 5: iivan26 ($2.10 in chips) 
+Seat 6: lawlex_2 ($1.81 in chips) 
+VascoSerg: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Js]
+beatroon: folds 
+iivan26: calls $0.02
+lawlex_2: folds 
+VascoSerg: folds 
+Secret.Speed: raises $0.03 to $0.05
+iivan26: calls $0.03
+*** FLOP *** [Qh Ks Kc]
+Secret.Speed: checks 
+iivan26: checks 
+*** TURN *** [Qh Ks Kc] [Qd]
+Secret.Speed: bets $0.06
+iivan26: folds 
+Uncalled bet ($0.06) returned to Secret.Speed
+Secret.Speed collected $0.11 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qh Ks Kc Qd]
+Seat 1: VascoSerg (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) collected ($0.11)
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 5: iivan26 folded on the Turn
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754660515:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:36:21 MSK [2020/05/12 14:36:21 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: VascoSerg ($3.09 in chips) 
+Seat 2: Secret.Speed ($2.39 in chips) 
+Seat 3: beatroon ($2.07 in chips) 
+Seat 4: luiyi11 ($2 in chips) 
+Seat 5: iivan26 ($2.05 in chips) 
+Seat 6: lawlex_2 ($1.81 in chips) 
+Secret.Speed: posts small blind $0.01
+beatroon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 9s]
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: folds 
+VascoSerg: folds 
+Secret.Speed: folds 
+beatroon: raises $0.04 to $0.06
+luiyi11: calls $0.04
+*** FLOP *** [As 4s Ts]
+beatroon: bets $0.07
+luiyi11: raises $1.87 to $1.94 and is all-in
+beatroon: folds 
+Uncalled bet ($1.87) returned to luiyi11
+luiyi11 collected $0.26 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [As 4s Ts]
+Seat 1: VascoSerg (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: beatroon (big blind) folded on the Flop
+Seat 4: luiyi11 collected ($0.26)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754697959:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:36:55 MSK [2020/05/12 14:36:55 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: VascoSerg ($3.09 in chips) 
+Seat 2: Secret.Speed ($2.38 in chips) 
+Seat 3: beatroon ($1.94 in chips) 
+Seat 4: luiyi11 ($2.13 in chips) 
+Seat 5: iivan26 ($2.05 in chips) 
+Seat 6: lawlex_2 ($1.81 in chips) 
+beatroon: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Js]
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+VascoSerg: folds 
+Secret.Speed: folds 
+beatroon: folds 
+luiyi11: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: beatroon (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 collected ($0.05)
+
+
+
+PokerStars Hand #213754709183:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:37:06 MSK [2020/05/12 14:37:06 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: VascoSerg ($3.09 in chips) 
+Seat 2: Secret.Speed ($2.38 in chips) 
+Seat 3: beatroon ($1.93 in chips) 
+Seat 4: luiyi11 ($2.11 in chips) 
+Seat 5: iivan26 ($2.05 in chips) 
+Seat 6: lawlex_2 ($1.84 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 4h]
+lawlex_2: folds 
+VascoSerg: folds 
+Secret.Speed: calls $0.02
+beatroon: folds 
+luiyi11: folds 
+iivan26: checks 
+*** FLOP *** [Ac 7d Jd]
+iivan26: checks 
+Secret.Speed: bets $0.02
+iivan26: folds 
+Uncalled bet ($0.02) returned to Secret.Speed
+Secret.Speed collected $0.05 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac 7d Jd]
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed collected ($0.05)
+Seat 3: beatroon (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: iivan26 (big blind) folded on the Flop
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754743250:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:37:34 MSK [2020/05/12 14:37:34 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: VascoSerg ($3.09 in chips) 
+Seat 2: Secret.Speed ($2.41 in chips) 
+Seat 3: beatroon ($1.93 in chips) 
+Seat 4: luiyi11 ($2.10 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.84 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 7c]
+VascoSerg: folds 
+Secret.Speed: calls $0.02
+beatroon: folds 
+luiyi11: folds 
+iivan26: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [5d 4h 3h]
+iivan26: checks 
+lawlex_2: checks 
+Secret.Speed: checks 
+*** TURN *** [5d 4h 3h] [3d]
+iivan26: bets $0.03
+lawlex_2: folds 
+Secret.Speed: folds 
+Uncalled bet ($0.03) returned to iivan26
+iivan26 collected $0.06 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5d 4h 3h 3d]
+Seat 1: VascoSerg folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded on the Turn
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) collected ($0.06)
+Seat 6: lawlex_2 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213754804287:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:38:35 MSK [2020/05/12 14:38:35 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 2: Secret.Speed ($2.39 in chips) 
+Seat 3: beatroon ($1.93 in chips) 
+Seat 4: luiyi11 ($2.10 in chips) 
+Seat 5: iivan26 ($2.07 in chips) 
+Seat 6: lawlex_2 ($1.82 in chips) 
+lawlex_2: posts small blind $0.01
+VascoSerg: is sitting out 
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 7h]
+beatroon: folds 
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+Secret.Speed: folds 
+luiyi11: calls $0.03
+*** FLOP *** [Ac Qc 7s]
+lawlex_2: bets $0.08
+luiyi11: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ac Qc 7s]
+Seat 2: Secret.Speed (big blind) folded before Flop
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 folded on the Flop
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #213754829988:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:39:01 MSK [2020/05/12 14:39:01 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 2: Secret.Speed ($2.37 in chips) 
+Seat 3: beatroon ($1.93 in chips) 
+Seat 4: luiyi11 ($2.05 in chips) 
+Seat 5: iivan26 ($2.07 in chips) 
+Seat 6: lawlex_2 ($1.89 in chips) 
+Secret.Speed: posts small blind $0.01
+beatroon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Qs]
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+Secret.Speed: folds 
+Uncalled bet ($0.01) returned to beatroon
+beatroon collected $0.02 from pot
+beatroon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: beatroon (big blind) collected ($0.02)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754841718:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:39:13 MSK [2020/05/12 14:39:13 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 2: Secret.Speed ($2.36 in chips) 
+Seat 3: beatroon ($1.94 in chips) 
+Seat 4: luiyi11 ($2.05 in chips) 
+Seat 5: iivan26 ($2.07 in chips) 
+Seat 6: lawlex_2 ($1.89 in chips) 
+beatroon: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Jd]
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+Secret.Speed: calls $0.05
+beatroon: raises $0.03 to $0.08
+luiyi11: folds 
+lawlex_2: folds 
+Secret.Speed: calls $0.03
+*** FLOP *** [6s Td Kd]
+beatroon: checks 
+Secret.Speed: bets $0.11
+beatroon: calls $0.11
+*** TURN *** [6s Td Kd] [6d]
+beatroon: bets $0.22
+Secret.Speed: calls $0.22
+*** RIVER *** [6s Td Kd 6d] [Qc]
+beatroon: bets $0.43
+Secret.Speed: raises $1.52 to $1.95 and is all-in
+beatroon: calls $1.10 and is all-in
+Uncalled bet ($0.42) returned to Secret.Speed
+*** SHOW DOWN ***
+Secret.Speed: shows [Ad 2d] (a flush, Ace high)
+beatroon: shows [Js Qs] (two pair, Queens and Sixes)
+Secret.Speed collected $3.81 from pot
+*** SUMMARY ***
+Total pot $3.95 | Rake $0.14 
+Board [6s Td Kd 6d Qc]
+Seat 2: Secret.Speed (button) showed [Ad 2d] and won ($3.81) with a flush, Ace high
+Seat 3: beatroon (small blind) showed [Js Qs] and lost with two pair, Queens and Sixes
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop
+
+
+
+PokerStars Hand #213754912239:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:40:23 MSK [2020/05/12 14:40:23 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 2: Secret.Speed ($4.23 in chips) 
+Seat 4: luiyi11 ($2.03 in chips) 
+Seat 5: iivan26 ($2.07 in chips) 
+Seat 6: lawlex_2 ($1.84 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Kc]
+Secret.Speed: folds 
+luiyi11: folds 
+beatroon said, "wp"
+iivan26: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213754928223:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:40:39 MSK [2020/05/12 14:40:39 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 2: Secret.Speed ($4.23 in chips) 
+Seat 3: beatroon ($2 in chips) 
+Seat 4: luiyi11 ($2.03 in chips) 
+Seat 5: iivan26 ($2.06 in chips) 
+Seat 6: lawlex_2 ($1.85 in chips) 
+lawlex_2: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Jd]
+beatroon: folds 
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+Secret.Speed: folds 
+luiyi11: calls $0.03
+*** FLOP *** [4c 7c Ad]
+lawlex_2: bets $0.08
+luiyi11: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4c 7c Ad]
+Seat 2: Secret.Speed (big blind) folded before Flop
+Seat 3: beatroon folded before Flop (didn't bet)
+Seat 4: luiyi11 folded on the Flop
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #213754964964:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:41:15 MSK [2020/05/12 14:41:15 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 2: Secret.Speed ($4.21 in chips) 
+Seat 4: luiyi11 ($1.98 in chips) 
+Seat 5: iivan26 ($2.06 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+Secret.Speed: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 7h]
+iivan26: calls $0.02
+lawlex_2: folds 
+Secret.Speed: folds 
+luiyi11: checks 
+*** FLOP *** [9d Qs 3d]
+luiyi11: checks 
+iivan26: checks 
+*** TURN *** [9d Qs 3d] [2h]
+luiyi11: checks 
+iivan26: checks 
+*** RIVER *** [9d Qs 3d 2h] [8s]
+luiyi11: checks 
+iivan26: checks 
+*** SHOW DOWN ***
+luiyi11: shows [3s 5h] (a pair of Threes)
+iivan26: shows [Td 9c] (a pair of Nines)
+iivan26 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9d Qs 3d 2h 8s]
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) showed [3s 5h] and lost with a pair of Threes
+Seat 5: iivan26 showed [Td 9c] and won ($0.05) with a pair of Nines
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213754997093:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:41:47 MSK [2020/05/12 14:41:47 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 2: Secret.Speed ($4.20 in chips) 
+Seat 4: luiyi11 ($1.96 in chips) 
+Seat 5: iivan26 ($2.09 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Jh]
+lawlex_2: folds 
+Secret.Speed: folds 
+luiyi11: calls $0.01
+iivan26: checks 
+*** FLOP *** [8c 4s 2d]
+luiyi11: bets $0.06
+iivan26: folds 
+Uncalled bet ($0.06) returned to luiyi11
+luiyi11 collected $0.04 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8c 4s 2d]
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) collected ($0.04)
+Seat 5: iivan26 (big blind) folded on the Flop
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755025872:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:42:16 MSK [2020/05/12 14:42:16 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 2: Secret.Speed ($4.20 in chips) 
+Seat 4: luiyi11 ($1.98 in chips) 
+Seat 5: iivan26 ($2.07 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 5s]
+Secret.Speed: folds 
+luiyi11: folds 
+iivan26: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213755040077:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:42:30 MSK [2020/05/12 14:42:30 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 2: Secret.Speed ($4.20 in chips) 
+Seat 4: luiyi11 ($1.98 in chips) 
+Seat 5: iivan26 ($2.06 in chips) 
+Seat 6: lawlex_2 ($1.93 in chips) 
+lawlex_2: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 7s]
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Secret.Speed
+Secret.Speed collected $0.02 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Secret.Speed (big blind) collected ($0.02)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213755069035:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:42:59 MSK [2020/05/12 14:42:59 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 2: Secret.Speed ($4.21 in chips) 
+Seat 3: beatroon ($2 in chips) 
+Seat 4: luiyi11 ($1.98 in chips) 
+Seat 5: iivan26 ($2.06 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+Secret.Speed: posts small blind $0.01
+beatroon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Td]
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: folds 
+Secret.Speed: folds 
+beatroon: checks 
+*** FLOP *** [5s 2s 9h]
+beatroon: bets $0.05
+luiyi11: calls $0.05
+*** TURN *** [5s 2s 9h] [2c]
+beatroon: checks 
+luiyi11: checks 
+*** RIVER *** [5s 2s 9h 2c] [8c]
+beatroon: bets $0.14
+luiyi11: folds 
+Uncalled bet ($0.14) returned to beatroon
+beatroon collected $0.14 from pot
+beatroon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5s 2s 9h 2c 8c]
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: beatroon (big blind) collected ($0.14)
+Seat 4: luiyi11 folded on the River
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755110941:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:43:36 MSK [2020/05/12 14:43:36 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 2: Secret.Speed ($4.20 in chips) 
+Seat 3: beatroon ($2.07 in chips) 
+Seat 4: luiyi11 ($1.91 in chips) 
+Seat 5: iivan26 ($2.06 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+beatroon: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 7c]
+iivan26: folds 
+lawlex_2: folds 
+Secret.Speed: folds 
+beatroon: raises $0.04 to $0.06
+luiyi11: calls $0.04
+*** FLOP *** [5h As Kd]
+beatroon: bets $0.06
+luiyi11: folds 
+Uncalled bet ($0.06) returned to beatroon
+beatroon collected $0.12 from pot
+beatroon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5h As Kd]
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: beatroon (small blind) collected ($0.12)
+Seat 4: luiyi11 (big blind) folded on the Flop
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755143345:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:44:08 MSK [2020/05/12 14:44:08 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 2: Secret.Speed ($4.20 in chips) 
+Seat 3: beatroon ($2.13 in chips) 
+Seat 4: luiyi11 ($1.85 in chips) 
+Seat 5: iivan26 ($2.06 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 2c]
+lawlex_2: folds 
+Secret.Speed: folds 
+beatroon: folds 
+luiyi11: folds 
+Uncalled bet ($0.01) returned to iivan26
+iivan26 collected $0.02 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: beatroon (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: iivan26 (big blind) collected ($0.02)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755156511:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:44:21 MSK [2020/05/12 14:44:21 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 2: Secret.Speed ($4.20 in chips) 
+Seat 3: beatroon ($2.13 in chips) 
+Seat 4: luiyi11 ($1.84 in chips) 
+Seat 5: iivan26 ($2.07 in chips) 
+Seat 6: lawlex_2 ($1.92 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 8d]
+Secret.Speed: folds 
+beatroon: calls $0.02
+luiyi11: folds 
+iivan26: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+beatroon: folds 
+iivan26: calls $0.03
+*** FLOP *** [6s Td 2d]
+beatroon leaves the table
+iivan26: checks 
+marcio1979 joins the table at seat #3 
+lawlex_2: checks 
+*** TURN *** [6s Td 2d] [Th]
+iivan26: checks 
+lawlex_2: checks 
+*** RIVER *** [6s Td 2d Th] [Qh]
+iivan26: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to iivan26
+iivan26 collected $0.12 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6s Td 2d Th Qh]
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: beatroon folded before Flop
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) collected ($0.12)
+Seat 6: lawlex_2 (big blind) folded on the River
+
+
+
+PokerStars Hand #213755225036:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:45:29 MSK [2020/05/12 14:45:29 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 2: Secret.Speed ($4.20 in chips) 
+Seat 4: luiyi11 ($1.84 in chips) 
+Seat 5: iivan26 ($2.14 in chips) 
+Seat 6: lawlex_2 ($1.87 in chips) 
+lawlex_2: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+marcio1979: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 3c]
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Secret.Speed
+Secret.Speed collected $0.02 from pot
+VascoSerg was removed from the table for failing to post
+VascoSerg leaves the table
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Secret.Speed (big blind) collected ($0.02)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213755236412:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:45:41 MSK [2020/05/12 14:45:41 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 2: Secret.Speed ($4.21 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.84 in chips) 
+Seat 5: iivan26 ($2.14 in chips) 
+Seat 6: lawlex_2 ($1.86 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 7s]
+luiyi11: folds 
+szpaki joins the table at seat #1 
+iivan26: folds 
+lawlex_2: folds 
+Secret.Speed: raises $0.03 to $0.05
+marcio1979: folds 
+Uncalled bet ($0.03) returned to Secret.Speed
+Secret.Speed collected $0.04 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Secret.Speed (small blind) collected ($0.04)
+Seat 3: marcio1979 (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755255127:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:45:59 MSK [2020/05/12 14:45:59 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 2: Secret.Speed ($4.23 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.84 in chips) 
+Seat 5: iivan26 ($2.14 in chips) 
+Seat 6: lawlex_2 ($1.86 in chips) 
+marcio1979: posts small blind $0.01
+luiyi11: posts big blind $0.02
+szpaki: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Qh]
+iivan26: calls $0.02
+lawlex_2: folds 
+Secret.Speed: calls $0.02
+marcio1979: folds 
+luiyi11: checks 
+*** FLOP *** [4s 6h Kd]
+luiyi11: checks 
+iivan26: checks 
+Secret.Speed: bets $0.02
+luiyi11: folds 
+iivan26: calls $0.02
+*** TURN *** [4s 6h Kd] [Jc]
+iivan26: checks 
+Secret.Speed: bets $0.04
+iivan26: calls $0.04
+*** RIVER *** [4s 6h Kd Jc] [2c]
+iivan26: checks 
+Secret.Speed: bets $0.11
+iivan26: folds 
+Uncalled bet ($0.11) returned to Secret.Speed
+Secret.Speed collected $0.18 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4s 6h Kd Jc 2c]
+Seat 2: Secret.Speed (button) collected ($0.18)
+Seat 3: marcio1979 (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded on the Flop
+Seat 5: iivan26 folded on the River
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755365012:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:47:47 MSK [2020/05/12 14:47:47 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 2: Secret.Speed ($4.33 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.82 in chips) 
+Seat 5: iivan26 ($2.06 in chips) 
+Seat 6: lawlex_2 ($1.86 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+szpaki: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 9c]
+lawlex_2: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: calls $0.01
+iivan26: checks 
+*** FLOP *** [Kc Ks 6c]
+luiyi11: checks 
+iivan26: checks 
+*** TURN *** [Kc Ks 6c] [Qc]
+luiyi11: checks 
+iivan26: checks 
+*** RIVER *** [Kc Ks 6c Qc] [6s]
+luiyi11: bets $0.86
+iivan26: folds 
+Uncalled bet ($0.86) returned to luiyi11
+luiyi11 collected $0.04 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Kc Ks 6c Qc 6s]
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) collected ($0.04)
+Seat 5: iivan26 (big blind) folded on the River
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755408166:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:48:30 MSK [2020/05/12 14:48:30 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 2: Secret.Speed ($4.33 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.84 in chips) 
+Seat 5: iivan26 ($2.04 in chips) 
+Seat 6: lawlex_2 ($1.86 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+szpaki: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 6c]
+Secret.Speed: raises $0.03 to $0.05
+marcio1979: folds 
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to Secret.Speed
+Secret.Speed collected $0.05 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Secret.Speed collected ($0.05)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213755421471:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:48:43 MSK [2020/05/12 14:48:43 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.36 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.84 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.84 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 8d]
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+luiyi11: calls $0.03
+*** FLOP *** [7s 5s 9s]
+lawlex_2: bets $0.08
+luiyi11: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7s 5s 9s]
+Seat 1: szpaki (big blind) folded before Flop
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 folded on the Flop
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #213755464453:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:49:25 MSK [2020/05/12 14:49:25 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($1.98 in chips) 
+Seat 2: Secret.Speed ($4.36 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.79 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.91 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 6s]
+marcio1979: folds 
+luiyi11: folds 
+iivan26: raises $0.04 to $0.06
+lawlex_2: folds 
+szpaki: calls $0.05
+Secret.Speed: folds 
+*** FLOP *** [3s 9d Ac]
+szpaki: bets $0.02
+iivan26: raises $0.06 to $0.08
+szpaki: calls $0.06
+*** TURN *** [3s 9d Ac] [Kh]
+szpaki: bets $0.02
+iivan26: calls $0.02
+*** RIVER *** [3s 9d Ac Kh] [4h]
+szpaki: bets $0.02
+iivan26: calls $0.02
+*** SHOW DOWN ***
+szpaki: shows [Th Ah] (a pair of Aces)
+iivan26: shows [As Ts] (a pair of Aces)
+szpaki collected $0.19 from pot
+iivan26 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [3s 9d Ac Kh 4h]
+Seat 1: szpaki (small blind) showed [Th Ah] and won ($0.19) with a pair of Aces
+Seat 2: Secret.Speed (big blind) folded before Flop
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 showed [As Ts] and won ($0.18) with a pair of Aces
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755503965:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:50:04 MSK [2020/05/12 14:50:04 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.34 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.79 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.91 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Kh]
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: calls $0.03
+*** FLOP *** [Kd Qs 8c]
+luiyi11: checks 
+lawlex_2: bets $0.09
+luiyi11: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kd Qs 8c]
+Seat 1: szpaki (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: marcio1979 (big blind) folded before Flop
+Seat 4: luiyi11 folded on the Flop
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 collected ($0.13)
+
+
+
+PokerStars Hand #213755535196:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:50:35 MSK [2020/05/12 14:50:35 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.33 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.74 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($1.99 in chips) 
+marcio1979: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Tc]
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: calls $0.03
+*** FLOP *** [3s Qs Ts]
+luiyi11: checks 
+lawlex_2: bets $0.07
+luiyi11: calls $0.07
+*** TURN *** [3s Qs Ts] [4c]
+luiyi11: checks 
+lawlex_2: checks 
+*** RIVER *** [3s Qs Ts 4c] [Td]
+luiyi11: checks 
+lawlex_2: bets $0.24
+luiyi11: calls $0.24
+*** SHOW DOWN ***
+lawlex_2: shows [Qc Tc] (a full house, Tens full of Queens)
+luiyi11: mucks hand 
+lawlex_2 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [3s Qs Ts 4c Td]
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: marcio1979 (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) mucked [5h 5s]
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 showed [Qc Tc] and won ($0.70) with a full house, Tens full of Queens
+
+
+
+PokerStars Hand #213755586068:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:51:25 MSK [2020/05/12 14:51:25 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.33 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.38 in chips) 
+Seat 5: iivan26 ($2.03 in chips) 
+Seat 6: lawlex_2 ($2.33 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Qh]
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: raises $0.21 to $0.26
+iivan26: folds 
+lawlex_2: folds 
+Uncalled bet ($0.21) returned to luiyi11
+luiyi11 collected $0.12 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) collected ($0.12)
+Seat 5: iivan26 (big blind) folded before Flop
+Seat 6: lawlex_2 folded before Flop
+
+
+
+PokerStars Hand #213755605030:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:51:43 MSK [2020/05/12 14:51:43 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.33 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.45 in chips) 
+Seat 5: iivan26 ($2.01 in chips) 
+Seat 6: lawlex_2 ($2.28 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Ad]
+szpaki: calls $0.02
+Secret.Speed: calls $0.02
+marcio1979: folds 
+luiyi11: folds 
+iivan26: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+szpaki: calls $0.03
+Secret.Speed: calls $0.03
+iivan26: calls $0.03
+*** FLOP *** [Kh 2h 8s]
+iivan26: checks 
+lawlex_2: checks 
+szpaki: checks 
+Secret.Speed: bets $0.10
+iivan26: folds 
+lawlex_2: folds 
+szpaki: folds 
+Uncalled bet ($0.10) returned to Secret.Speed
+Secret.Speed collected $0.19 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kh 2h 8s]
+Seat 1: szpaki folded on the Flop
+Seat 2: Secret.Speed collected ($0.19)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) folded on the Flop
+Seat 6: lawlex_2 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213755673368:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:52:43 MSK [2020/05/12 14:52:43 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: szpaki ($1.95 in chips) 
+Seat 2: Secret.Speed ($4.47 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.45 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($2.23 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Ah]
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: szpaki (big blind) folded before Flop
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213755702052:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:53:12 MSK [2020/05/12 14:53:12 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($1.93 in chips) 
+Seat 2: Secret.Speed ($4.47 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.45 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($2.25 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 4c]
+marcio1979: folds 
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+szpaki: calls $0.01
+Secret.Speed: raises $0.02 to $0.04
+szpaki: calls $0.02
+*** FLOP *** [3c 7d Qh]
+szpaki: bets $0.02
+Secret.Speed: calls $0.02
+*** TURN *** [3c 7d Qh] [4h]
+szpaki: bets $0.02
+Secret.Speed: calls $0.02
+*** RIVER *** [3c 7d Qh 4h] [6d]
+szpaki: bets $0.15
+Secret.Speed: folds 
+Uncalled bet ($0.15) returned to szpaki
+szpaki collected $0.15 from pot
+szpaki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [3c 7d Qh 4h 6d]
+Seat 1: szpaki (small blind) collected ($0.15)
+Seat 2: Secret.Speed (big blind) folded on the River
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755749123:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:53:58 MSK [2020/05/12 14:53:58 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.39 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.45 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($2.25 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Qh]
+luiyi11: folds 
+iivan26: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: calls $0.04
+marcio1979: folds 
+iivan26: calls $0.03
+*** FLOP *** [8s Td Ad]
+Secret.Speed: checks 
+iivan26: checks 
+lawlex_2: bets $0.11
+Secret.Speed: folds 
+iivan26: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.16 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8s Td Ad]
+Seat 1: szpaki (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded on the Flop
+Seat 3: marcio1979 (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 folded on the Flop
+Seat 6: lawlex_2 collected ($0.16)
+
+
+
+PokerStars Hand #213755784091:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:54:32 MSK [2020/05/12 14:54:32 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.34 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.45 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($2.36 in chips) 
+marcio1979: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 5d]
+iivan26: folds 
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+Uncalled bet ($0.01) returned to luiyi11
+luiyi11 collected $0.02 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: marcio1979 (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) collected ($0.02)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755798399:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:54:47 MSK [2020/05/12 14:54:47 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.34 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.46 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($2.36 in chips) 
+luiyi11: posts small blind $0.01
+iivan26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 4s]
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: raises $0.03 to $0.05
+marcio1979: folds 
+luiyi11: folds 
+iivan26: folds 
+Uncalled bet ($0.03) returned to Secret.Speed
+Secret.Speed collected $0.05 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed collected ($0.05)
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: iivan26 (big blind) folded before Flop
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755829387:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:55:21 MSK [2020/05/12 14:55:21 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.37 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.45 in chips) 
+Seat 5: iivan26 ($2 in chips) 
+Seat 6: lawlex_2 ($2.36 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s As]
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: folds 
+iivan26: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+iivan26: calls $0.03
+*** FLOP *** [8c 7s 6d]
+iivan26: checks 
+lawlex_2: bets $0.07
+iivan26: raises $0.11 to $0.18
+lawlex_2: raises $0.30 to $0.48
+iivan26: raises $1.47 to $1.95 and is all-in
+lawlex_2: folds 
+Uncalled bet ($1.47) returned to iivan26
+iivan26 collected $1.02 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.04 
+Board [8c 7s 6d]
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) collected ($1.02)
+Seat 6: lawlex_2 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213755870475:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:56:18 MSK [2020/05/12 14:56:18 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.37 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.45 in chips) 
+Seat 5: iivan26 ($2.49 in chips) 
+Seat 6: lawlex_2 ($1.83 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Ks]
+Secret.Speed: folds 
+marcio1979: raises $0.04 to $0.06
+luiyi11: folds 
+iivan26: folds 
+lawlex_2: folds 
+szpaki: calls $0.04
+*** FLOP *** [3h Jc 5d]
+szpaki: bets $0.04
+marcio1979: calls $0.04
+*** TURN *** [3h Jc 5d] [9s]
+szpaki: bets $0.02
+marcio1979: calls $0.02
+*** RIVER *** [3h Jc 5d 9s] [5h]
+szpaki: bets $0.06
+marcio1979: folds 
+Uncalled bet ($0.06) returned to szpaki
+szpaki collected $0.24 from pot
+szpaki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3h Jc 5d 9s 5h]
+Seat 1: szpaki (big blind) collected ($0.24)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 folded on the River
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213755892974:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:56:48 MSK [2020/05/12 14:56:48 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($2.12 in chips) 
+Seat 2: Secret.Speed ($4.37 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.45 in chips) 
+Seat 5: iivan26 ($2.49 in chips) 
+Seat 6: lawlex_2 ($1.82 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 6d]
+marcio1979: folds 
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: folds 
+szpaki: calls $0.01
+Secret.Speed: checks 
+*** FLOP *** [Qd Kh 6h]
+szpaki: checks 
+Secret.Speed: bets $0.03
+luiyi11: calls $0.03
+szpaki: folds 
+*** TURN *** [Qd Kh 6h] [6s]
+Secret.Speed: bets $0.06
+luiyi11: calls $0.06
+*** RIVER *** [Qd Kh 6h 6s] [Ad]
+Secret.Speed: bets $0.12
+luiyi11: raises $1.22 to $1.34 and is all-in
+Secret.Speed: folds 
+Uncalled bet ($1.22) returned to luiyi11
+luiyi11 collected $0.46 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Qd Kh 6h 6s Ad]
+Seat 1: szpaki (small blind) folded on the Flop
+Seat 2: Secret.Speed (big blind) folded on the River
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 collected ($0.46)
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755934260:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:57:37 MSK [2020/05/12 14:57:37 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($2.10 in chips) 
+Seat 2: Secret.Speed ($4.14 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.68 in chips) 
+Seat 5: iivan26 ($2.49 in chips) 
+Seat 6: lawlex_2 ($1.82 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 6c]
+luiyi11: calls $0.02
+iivan26: folds 
+lawlex_2: folds 
+szpaki: calls $0.02
+Secret.Speed: calls $0.01
+marcio1979: checks 
+*** FLOP *** [2d 9d 7s]
+Secret.Speed: checks 
+marcio1979: checks 
+luiyi11: checks 
+szpaki: checks 
+*** TURN *** [2d 9d 7s] [4s]
+Secret.Speed: checks 
+marcio1979: checks 
+luiyi11: checks 
+szpaki: checks 
+*** RIVER *** [2d 9d 7s 4s] [Qs]
+Secret.Speed: checks 
+marcio1979: checks 
+luiyi11: checks 
+szpaki: checks 
+*** SHOW DOWN ***
+Secret.Speed: shows [Ah 4h] (a pair of Fours)
+marcio1979: mucks hand 
+luiyi11: mucks hand 
+szpaki: shows [6d 7d] (a pair of Sevens)
+szpaki collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2d 9d 7s 4s Qs]
+Seat 1: szpaki (button) showed [6d 7d] and won ($0.08) with a pair of Sevens
+Seat 2: Secret.Speed (small blind) showed [Ah 4h] and lost with a pair of Fours
+Seat 3: marcio1979 (big blind) mucked [3h 6h]
+Seat 4: luiyi11 mucked [Ac Kh]
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755992289:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:58:55 MSK [2020/05/12 14:58:55 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($2.16 in chips) 
+Seat 2: Secret.Speed ($4.12 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 5: iivan26 ($2.49 in chips) 
+Seat 6: lawlex_2 ($1.82 in chips) 
+marcio1979: posts small blind $0.01
+iivan26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 9d]
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+Uncalled bet ($0.01) returned to iivan26
+iivan26 collected $0.02 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: marcio1979 (small blind) folded before Flop
+Seat 5: iivan26 (big blind) collected ($0.02)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213755998992:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:59:04 MSK [2020/05/12 14:59:04 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: szpaki ($2.16 in chips) 
+Seat 2: Secret.Speed ($4.12 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 5: iivan26 ($2.50 in chips) 
+Seat 6: lawlex_2 ($1.82 in chips) 
+iivan26: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Tc]
+szpaki: folds 
+Secret.Speed: calls $0.02
+marcio1979: folds 
+iivan26: folds 
+lawlex_2: checks 
+*** FLOP *** [3c Jh 6c]
+lawlex_2: checks 
+Secret.Speed: checks 
+*** TURN *** [3c Jh 6c] [7d]
+lawlex_2: checks 
+Secret.Speed: checks 
+*** RIVER *** [3c Jh 6c 7d] [2s]
+lawlex_2: checks 
+Secret.Speed: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [2h Tc] (a pair of Deuces)
+Secret.Speed: mucks hand 
+lawlex_2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3c Jh 6c 7d 2s]
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed mucked [Qc Ts]
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 5: iivan26 (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) showed [2h Tc] and won ($0.05) with a pair of Deuces
+
+
+
+PokerStars Hand #213756021697:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 21:59:35 MSK [2020/05/12 14:59:35 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: szpaki ($2.16 in chips) 
+Seat 2: Secret.Speed ($4.10 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 5: iivan26 ($2.49 in chips) 
+Seat 6: lawlex_2 ($1.85 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 3d]
+Secret.Speed: calls $0.02
+marcio1979: folds 
+iivan26: calls $0.02
+lawlex_2: folds 
+szpaki: checks 
+*** FLOP *** [Th 9h 2h]
+szpaki: checks 
+Secret.Speed: checks 
+iivan26: checks 
+*** TURN *** [Th 9h 2h] [8c]
+szpaki: checks 
+Secret.Speed: checks 
+iivan26: bets $0.06
+szpaki: folds 
+Secret.Speed: folds 
+Uncalled bet ($0.06) returned to iivan26
+iivan26 collected $0.07 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Th 9h 2h 8c]
+Seat 1: szpaki (big blind) folded on the Turn
+Seat 2: Secret.Speed folded on the Turn
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 5: iivan26 (button) collected ($0.07)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213756052226:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:00:14 MSK [2020/05/12 15:00:14 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($2.14 in chips) 
+Seat 2: Secret.Speed ($4.08 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.66 in chips) 
+Seat 5: iivan26 ($2.54 in chips) 
+Seat 6: lawlex_2 ($1.84 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+luiyi11: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 6d]
+marcio1979: folds 
+luiyi11: raises $0.04 to $0.06
+iivan26: folds 
+lawlex_2: calls $0.06
+szpaki: calls $0.05
+Secret.Speed: folds 
+*** FLOP *** [8h 6c 9h]
+szpaki: checks 
+luiyi11: bets $0.04
+lawlex_2: calls $0.04
+szpaki: calls $0.04
+*** TURN *** [8h 6c 9h] [Tc]
+szpaki: bets $0.32
+luiyi11: folds 
+lawlex_2: calls $0.32
+*** RIVER *** [8h 6c 9h Tc] [Td]
+szpaki: checks 
+lawlex_2: bets $0.94
+szpaki: calls $0.94
+*** SHOW DOWN ***
+lawlex_2: shows [6s 6d] (a full house, Sixes full of Tens)
+szpaki: mucks hand 
+lawlex_2 collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [8h 6c 9h Tc Td]
+Seat 1: szpaki (small blind) mucked [Qd Jc]
+Seat 2: Secret.Speed (big blind) folded before Flop
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 folded on the Turn
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) showed [6s 6d] and won ($2.75) with a full house, Sixes full of Tens
+
+
+
+PokerStars Hand #213756095492:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:01:07 MSK [2020/05/12 15:01:07 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($0.78 in chips) 
+Seat 2: Secret.Speed ($4.06 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.55 in chips) 
+Seat 5: iivan26 ($2.54 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 6s]
+luiyi11: folds 
+iivan26: raises $0.08 to $0.10
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+Uncalled bet ($0.08) returned to iivan26
+iivan26 collected $0.05 from pot
+iivan26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: szpaki (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: marcio1979 (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: iivan26 collected ($0.05)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213756109898:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:01:24 MSK [2020/05/12 15:01:24 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.05 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.55 in chips) 
+Seat 5: iivan26 ($2.57 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+marcio1979: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 8s]
+iivan26: folds 
+lawlex_2: folds 
+szpaki: calls $0.02
+Secret.Speed: raises $0.03 to $0.05
+marcio1979: folds 
+iivan26 leaves the table
+luiyi11: calls $0.03
+szpaki: calls $0.03
+*** FLOP *** [Jh 5s 8d]
+luiyi11: checks 
+szpaki: checks 
+Secret.Speed: bets $0.08
+luiyi11: folds 
+szpaki: folds 
+Uncalled bet ($0.08) returned to Secret.Speed
+Secret.Speed collected $0.15 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Jh 5s 8d]
+Seat 1: szpaki folded on the Flop
+Seat 2: Secret.Speed (button) collected ($0.15)
+Seat 3: marcio1979 (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded on the Flop
+Seat 5: iivan26 folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213756131806:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:01:48 MSK [2020/05/12 15:01:48 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: szpaki ($1.95 in chips) 
+Seat 2: Secret.Speed ($4.15 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.50 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+luiyi11: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Ks]
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+Wumbs joins the table at seat #5 
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213756145595:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:02:02 MSK [2020/05/12 15:02:02 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: szpaki ($1.95 in chips) 
+Seat 2: Secret.Speed ($4.15 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.49 in chips) 
+Seat 6: lawlex_2 ($3.24 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Th]
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: calls $0.02
+lawlex_2: folds 
+szpaki: checks 
+*** FLOP *** [Ks As 9s]
+szpaki: checks 
+luiyi11: checks 
+*** TURN *** [Ks As 9s] [7d]
+szpaki: bets $0.02
+luiyi11: folds 
+Uncalled bet ($0.02) returned to szpaki
+szpaki collected $0.05 from pot
+szpaki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ks As 9s 7d]
+Seat 1: szpaki (big blind) collected ($0.05)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded on the Turn
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213756167139:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:02:23 MSK [2020/05/12 15:02:23 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($1.98 in chips) 
+Seat 2: Secret.Speed ($4.15 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.47 in chips) 
+Seat 5: Wumbs ($2 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+Wumbs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Ah]
+marcio1979: folds 
+luiyi11: folds 
+Wumbs: checks 
+lawlex_2: raises $0.03 to $0.05
+szpaki: calls $0.04
+Secret.Speed: calls $0.03
+Wumbs: folds 
+*** FLOP *** [9s Th 7h]
+szpaki: checks 
+Secret.Speed: checks 
+lawlex_2: bets $0.11
+szpaki: calls $0.11
+Secret.Speed: folds 
+*** TURN *** [9s Th 7h] [9d]
+szpaki: checks 
+lawlex_2: checks 
+*** RIVER *** [9s Th 7h 9d] [2h]
+szpaki: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+szpaki: shows [Kc 8c] (a pair of Nines)
+lawlex_2: shows [7c Ah] (two pair, Nines and Sevens)
+lawlex_2 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [9s Th 7h 9d 2h]
+Seat 1: szpaki (small blind) showed [Kc 8c] and lost with a pair of Nines
+Seat 2: Secret.Speed (big blind) folded on the Flop
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: Wumbs folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) showed [7c Ah] and won ($0.38) with two pair, Nines and Sevens
+
+
+
+PokerStars Hand #213756224335:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:03:19 MSK [2020/05/12 15:03:19 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($1.82 in chips) 
+Seat 2: Secret.Speed ($4.10 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.47 in chips) 
+Seat 5: Wumbs ($1.98 in chips) 
+Seat 6: lawlex_2 ($3.45 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 4h]
+luiyi11: calls $0.02
+Wumbs: folds 
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: calls $0.03
+*** FLOP *** [9s 3c Td]
+luiyi11: checks 
+lawlex_2: checks 
+*** TURN *** [9s 3c Td] [2s]
+luiyi11: bets $0.26
+lawlex_2: folds 
+Uncalled bet ($0.26) returned to luiyi11
+luiyi11 collected $0.13 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9s 3c Td 2s]
+Seat 1: szpaki (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: marcio1979 (big blind) folded before Flop
+Seat 4: luiyi11 collected ($0.13)
+Seat 5: Wumbs folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded on the Turn
+
+
+
+PokerStars Hand #213756256673:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:03:50 MSK [2020/05/12 15:03:50 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.09 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 5: Wumbs ($1.98 in chips) 
+Seat 6: lawlex_2 ($3.40 in chips) 
+marcio1979: posts small blind $0.01
+Wumbs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s As]
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+Wumbs: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: marcio1979 (small blind) folded before Flop
+Seat 5: Wumbs (big blind) folded before Flop
+Seat 6: lawlex_2 collected ($0.05)
+
+
+
+PokerStars Hand #213756272698:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:04:06 MSK [2020/05/12 15:04:06 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: szpaki ($2 in chips) 
+Seat 2: Secret.Speed ($4.09 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 5: Wumbs ($1.96 in chips) 
+Seat 6: lawlex_2 ($3.43 in chips) 
+Wumbs: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Jh]
+szpaki: calls $0.02
+Secret.Speed: folds 
+marcio1979: folds 
+Wumbs: folds 
+lawlex_2: checks 
+*** FLOP *** [Tc 7s 6c]
+lawlex_2: bets $0.03
+szpaki: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Tc 7s 6c]
+Seat 1: szpaki folded on the Flop
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 5: Wumbs (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #213756291935:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:04:24 MSK [2020/05/12 15:04:24 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: szpaki ($1.98 in chips) 
+Seat 2: Secret.Speed ($4.09 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 5: Wumbs ($1.95 in chips) 
+Seat 6: lawlex_2 ($3.46 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 7h]
+Secret.Speed: folds 
+marcio1979: folds 
+Wumbs: folds 
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: szpaki (big blind) folded before Flop
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 5: Wumbs (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213756306706:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:04:39 MSK [2020/05/12 15:04:39 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($1.96 in chips) 
+Seat 2: Secret.Speed ($4.09 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.55 in chips) 
+Seat 5: Wumbs ($1.95 in chips) 
+Seat 6: lawlex_2 ($3.48 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+luiyi11: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 8d]
+marcio1979: folds 
+luiyi11: checks 
+Wumbs: folds 
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+luiyi11: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.08 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: szpaki (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) folded before Flop
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: Wumbs folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) collected ($0.08)
+
+
+
+PokerStars Hand #213756325181:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:04:56 MSK [2020/05/12 15:04:56 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($1.95 in chips) 
+Seat 2: Secret.Speed ($4.07 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.52 in chips) 
+Seat 5: Wumbs ($1.95 in chips) 
+Seat 6: lawlex_2 ($3.54 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Ks]
+luiyi11 has timed out
+luiyi11: folds 
+Wumbs: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+Wumbs: calls $0.03
+*** FLOP *** [6d Ad Jd]
+Wumbs: checks 
+lawlex_2: bets $0.09
+Wumbs: calls $0.09
+*** TURN *** [6d Ad Jd] [4d]
+Wumbs: checks 
+lawlex_2: checks 
+*** RIVER *** [6d Ad Jd 4d] [2d]
+Wumbs: bets $1.81 and is all-in
+lawlex_2: folds 
+Uncalled bet ($1.81) returned to Wumbs
+Wumbs collected $0.30 from pot
+Wumbs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [6d Ad Jd 4d 2d]
+Seat 1: szpaki (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: marcio1979 (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: Wumbs collected ($0.30)
+Seat 6: lawlex_2 folded on the River
+
+
+
+PokerStars Hand #213756396121:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:06:04 MSK [2020/05/12 15:06:04 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($1.95 in chips) 
+Seat 2: Secret.Speed ($4.06 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.52 in chips) 
+Seat 5: Wumbs ($2.11 in chips) 
+Seat 6: lawlex_2 ($3.40 in chips) 
+marcio1979: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 7c]
+Wumbs: folds 
+lawlex_2: folds 
+szpaki: raises $0.04 to $0.06
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: folds 
+Uncalled bet ($0.04) returned to szpaki
+szpaki collected $0.05 from pot
+szpaki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: szpaki collected ($0.05)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: marcio1979 (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: Wumbs folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213756410660:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:06:17 MSK [2020/05/12 15:06:17 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: szpaki ($1.98 in chips) 
+Seat 2: Secret.Speed ($4.06 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.50 in chips) 
+Seat 5: Wumbs ($2.11 in chips) 
+Seat 6: lawlex_2 ($3.40 in chips) 
+luiyi11: posts small blind $0.01
+Wumbs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 6s]
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: folds 
+Wumbs: calls $0.03
+*** FLOP *** [5s Tc Kd]
+Wumbs: checks 
+lawlex_2: checks 
+*** TURN *** [5s Tc Kd] [Js]
+Wumbs: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to Wumbs
+Wumbs collected $0.11 from pot
+Wumbs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5s Tc Kd Js]
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: Wumbs (big blind) collected ($0.11)
+Seat 6: lawlex_2 folded on the Turn
+
+
+
+PokerStars Hand #213756458499:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:07:00 MSK [2020/05/12 15:07:00 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: szpaki ($1.98 in chips) 
+Seat 2: Secret.Speed ($4.06 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.49 in chips) 
+Seat 5: Wumbs ($2.17 in chips) 
+Seat 6: lawlex_2 ($3.35 in chips) 
+Wumbs: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Kc]
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: calls $0.02
+Wumbs: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [4c Jc Qd]
+Wumbs: bets $0.02
+lawlex_2: raises $0.07 to $0.09
+luiyi11: folds 
+Wumbs: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.10 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4c Jc Qd]
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded on the Flop
+Seat 5: Wumbs (small blind) folded on the Flop
+Seat 6: lawlex_2 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #213756510679:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:07:50 MSK [2020/05/12 15:07:50 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: szpaki ($1.98 in chips) 
+Seat 2: Secret.Speed ($4.06 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.47 in chips) 
+Seat 5: Wumbs ($2.13 in chips) 
+Seat 6: lawlex_2 ($3.41 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 2s]
+Secret.Speed: raises $0.03 to $0.05
+marcio1979: folds 
+luiyi11: folds 
+Wumbs: calls $0.05
+lawlex_2: folds 
+szpaki: calls $0.03
+*** FLOP *** [5h Qd Ks]
+szpaki: bets $0.02
+Secret.Speed: calls $0.02
+Wumbs: calls $0.02
+*** TURN *** [5h Qd Ks] [9c]
+szpaki: checks 
+Secret.Speed: checks 
+Wumbs: checks 
+*** RIVER *** [5h Qd Ks 9c] [2c]
+szpaki: bets $0.02
+Secret.Speed: raises $0.08 to $0.10
+Wumbs: folds 
+szpaki: folds 
+Uncalled bet ($0.08) returned to Secret.Speed
+Secret.Speed collected $0.25 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [5h Qd Ks 9c 2c]
+Seat 1: szpaki (big blind) folded on the River
+Seat 2: Secret.Speed collected ($0.25)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: Wumbs (button) folded on the River
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213756560304:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:08:36 MSK [2020/05/12 15:08:36 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($1.89 in chips) 
+Seat 2: Secret.Speed ($4.22 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.47 in chips) 
+Seat 5: Wumbs ($2.06 in chips) 
+Seat 6: lawlex_2 ($3.40 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 6d]
+marcio1979: folds 
+luiyi11: calls $0.02
+Wumbs: folds 
+lawlex_2: folds 
+szpaki: calls $0.01
+Secret.Speed: checks 
+*** FLOP *** [4d 6h 5d]
+szpaki: checks 
+Secret.Speed: bets $0.03
+luiyi11: calls $0.03
+szpaki: folds 
+*** TURN *** [4d 6h 5d] [5h]
+Secret.Speed: checks 
+luiyi11: bets $0.06
+Secret.Speed: calls $0.06
+*** RIVER *** [4d 6h 5d 5h] [Kd]
+Secret.Speed: bets $0.02
+luiyi11: calls $0.02
+*** SHOW DOWN ***
+Secret.Speed: shows [3s 4c] (two pair, Fives and Fours)
+luiyi11: shows [Qh Qc] (two pair, Queens and Fives)
+luiyi11 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [4d 6h 5d 5h Kd]
+Seat 1: szpaki (small blind) folded on the Flop
+Seat 2: Secret.Speed (big blind) showed [3s 4c] and lost with two pair, Fives and Fours
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 showed [Qh Qc] and won ($0.27) with two pair, Queens and Fives
+Seat 5: Wumbs folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213756621929:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:09:34 MSK [2020/05/12 15:09:34 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($1.87 in chips) 
+Seat 2: Secret.Speed ($4.09 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.61 in chips) 
+Seat 5: Wumbs ($2.06 in chips) 
+Seat 6: lawlex_2 ($3.40 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 2s]
+luiyi11: folds 
+Wumbs: calls $0.02
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: raises $0.03 to $0.05
+marcio1979: folds 
+Wumbs: calls $0.03
+*** FLOP *** [As Td Kh]
+Secret.Speed: bets $0.06
+Wumbs: raises $0.10 to $0.16
+Secret.Speed: calls $0.10
+*** TURN *** [As Td Kh] [7d]
+Secret.Speed: checks 
+Wumbs: bets $0.14
+Secret.Speed: calls $0.14
+*** RIVER *** [As Td Kh 7d] [3c]
+Secret.Speed: bets $0.35
+Wumbs: raises $0.65 to $1
+Secret.Speed: folds 
+Uncalled bet ($0.65) returned to Wumbs
+Wumbs collected $1.37 from pot
+Wumbs: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.42 | Rake $0.05 
+Board [As Td Kh 7d 3c]
+Seat 1: szpaki (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded on the River
+Seat 3: marcio1979 (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: Wumbs collected ($1.37)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213756698902:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:10:42 MSK [2020/05/12 15:10:42 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($1.87 in chips) 
+Seat 2: Secret.Speed ($3.39 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.61 in chips) 
+Seat 5: Wumbs ($2.73 in chips) 
+Seat 6: lawlex_2 ($3.40 in chips) 
+marcio1979: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Ah]
+Wumbs: folds 
+Wumbs leaves the table
+lawlex_2: raises $0.03 to $0.05
+szpaki: calls $0.05
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: folds 
+*** FLOP *** [4d 2d Kh]
+lawlex_2: bets $0.09
+szpaki: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4d 2d Kh]
+Seat 1: szpaki folded on the Flop
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: marcio1979 (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: Wumbs folded before Flop (didn't bet)
+Seat 6: lawlex_2 collected ($0.13)
+
+
+
+PokerStars Hand #213756726667:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:11:08 MSK [2020/05/12 15:11:08 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: szpaki ($1.95 in chips) 
+Seat 2: Secret.Speed ($3.39 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.59 in chips) 
+Seat 6: lawlex_2 ($3.48 in chips) 
+luiyi11: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 4h]
+szpaki: calls $0.02
+Secret.Speed: folds 
+marcio1979: folds 
+KeviiNewells joins the table at seat #5 
+luiyi11: folds 
+lawlex_2: checks 
+*** FLOP *** [2d Jh Qc]
+lawlex_2: checks 
+szpaki: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to szpaki
+szpaki collected $0.05 from pot
+szpaki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2d Jh Qc]
+Seat 1: szpaki collected ($0.05)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213756754780:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:11:34 MSK [2020/05/12 15:11:34 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: szpaki ($1.98 in chips) 
+Seat 2: Secret.Speed ($3.39 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.58 in chips) 
+Seat 6: lawlex_2 ($3.46 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 8d]
+Secret.Speed: raises $0.03 to $0.05
+marcio1979: calls $0.05
+luiyi11: folds 
+lawlex_2: folds 
+szpaki: folds 
+*** FLOP *** [Jh 2s 5s]
+Secret.Speed: bets $0.07
+marcio1979: calls $0.07
+*** TURN *** [Jh 2s 5s] [3d]
+Secret.Speed: bets $0.13
+marcio1979: raises $0.29 to $0.42
+Secret.Speed: raises $2.85 to $3.27 and is all-in
+marcio1979: folds 
+Uncalled bet ($2.85) returned to Secret.Speed
+Secret.Speed collected $1.07 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.04 
+Board [Jh 2s 5s 3d]
+Seat 1: szpaki (big blind) folded before Flop
+Seat 2: Secret.Speed collected ($1.07)
+Seat 3: marcio1979 folded on the Turn
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213756792074:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:12:09 MSK [2020/05/12 15:12:09 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($1.96 in chips) 
+Seat 2: Secret.Speed ($3.92 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.58 in chips) 
+Seat 5: KeviiNewells ($2 in chips) 
+Seat 6: lawlex_2 ($3.45 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+KeviiNewells: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 5h]
+marcio1979: raises $0.06 to $0.08
+luiyi11: folds 
+KeviiNewells: folds 
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: folds 
+Uncalled bet ($0.06) returned to marcio1979
+marcio1979 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: szpaki (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) folded before Flop
+Seat 3: marcio1979 collected ($0.07)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213756812775:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:12:28 MSK [2020/05/12 15:12:28 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($1.95 in chips) 
+Seat 2: Secret.Speed ($3.90 in chips) 
+Seat 3: marcio1979 ($2.05 in chips) 
+Seat 4: luiyi11 ($1.58 in chips) 
+Seat 5: KeviiNewells ($1.98 in chips) 
+Seat 6: lawlex_2 ($3.45 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Js]
+luiyi11: calls $0.02
+KeviiNewells: raises $0.02 to $0.04
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: calls $0.02
+*** FLOP *** [3s 9s 4d]
+luiyi11: checks 
+KeviiNewells: checks 
+*** TURN *** [3s 9s 4d] [7c]
+luiyi11: checks 
+KeviiNewells: bets $0.04
+luiyi11: calls $0.04
+*** RIVER *** [3s 9s 4d 7c] [Jh]
+luiyi11: checks 
+KeviiNewells: bets $0.10
+luiyi11: folds 
+Uncalled bet ($0.10) returned to KeviiNewells
+KeviiNewells collected $0.18 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [3s 9s 4d 7c Jh]
+Seat 1: szpaki (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: marcio1979 (big blind) folded before Flop
+Seat 4: luiyi11 folded on the River
+Seat 5: KeviiNewells collected ($0.18)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213756858304:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:13:11 MSK [2020/05/12 15:13:11 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($1.95 in chips) 
+Seat 2: Secret.Speed ($3.89 in chips) 
+Seat 3: marcio1979 ($2.03 in chips) 
+Seat 4: luiyi11 ($1.50 in chips) 
+Seat 5: KeviiNewells ($2.08 in chips) 
+Seat 6: lawlex_2 ($3.45 in chips) 
+marcio1979: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 7c]
+KeviiNewells: folds 
+lawlex_2: raises $0.03 to $0.05
+szpaki: calls $0.05
+Secret.Speed: folds 
+marcio1979: calls $0.04
+luiyi11: calls $0.03
+*** FLOP *** [Jc 4s Kh]
+marcio1979: checks 
+luiyi11: checks 
+lawlex_2: bets $0.13
+szpaki: folds 
+marcio1979: folds 
+luiyi11: calls $0.13
+*** TURN *** [Jc 4s Kh] [5s]
+luiyi11: checks 
+lawlex_2: checks 
+*** RIVER *** [Jc 4s Kh 5s] [4d]
+luiyi11: bets $0.78
+lawlex_2: folds 
+Uncalled bet ($0.78) returned to luiyi11
+luiyi11 collected $0.44 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Jc 4s Kh 5s 4d]
+Seat 1: szpaki folded on the Flop
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: marcio1979 (small blind) folded on the Flop
+Seat 4: luiyi11 (big blind) collected ($0.44)
+Seat 5: KeviiNewells folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded on the River
+
+
+
+PokerStars Hand #213756913438:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:14:02 MSK [2020/05/12 15:14:02 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: szpaki ($1.90 in chips) 
+Seat 2: Secret.Speed ($3.89 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.76 in chips) 
+Seat 5: KeviiNewells ($2.08 in chips) 
+Seat 6: lawlex_2 ($3.27 in chips) 
+luiyi11: posts small blind $0.01
+KeviiNewells: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Qc]
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: folds 
+Uncalled bet ($0.01) returned to KeviiNewells
+KeviiNewells collected $0.02 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: KeviiNewells (big blind) collected ($0.02)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213756932831:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:14:20 MSK [2020/05/12 15:14:20 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: szpaki ($1.90 in chips) 
+Seat 2: Secret.Speed ($3.89 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.75 in chips) 
+Seat 5: KeviiNewells ($2.09 in chips) 
+Seat 6: lawlex_2 ($3.27 in chips) 
+KeviiNewells: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 9c]
+szpaki: raises $0.02 to $0.04
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: folds 
+KeviiNewells: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to szpaki
+szpaki collected $0.05 from pot
+szpaki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: szpaki collected ($0.05)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: KeviiNewells (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213756946738:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:14:33 MSK [2020/05/12 15:14:33 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: szpaki ($1.93 in chips) 
+Seat 2: Secret.Speed ($3.89 in chips) 
+Seat 3: marcio1979 ($2 in chips) 
+Seat 4: luiyi11 ($1.75 in chips) 
+Seat 5: KeviiNewells ($2.08 in chips) 
+Seat 6: lawlex_2 ($3.25 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Kc]
+Secret.Speed: folds 
+marcio1979: raises $0.04 to $0.06
+luiyi11: calls $0.06
+KeviiNewells: calls $0.06
+lawlex_2: folds 
+szpaki: folds 
+*** FLOP *** [7c 5c 8d]
+marcio1979: bets $0.11
+luiyi11: folds 
+KeviiNewells: folds 
+Uncalled bet ($0.11) returned to marcio1979
+marcio1979 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [7c 5c 8d]
+Seat 1: szpaki (big blind) folded before Flop
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 collected ($0.20)
+Seat 4: luiyi11 folded on the Flop
+Seat 5: KeviiNewells (button) folded on the Flop
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213756968674:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:14:53 MSK [2020/05/12 15:14:53 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($1.91 in chips) 
+Seat 2: Secret.Speed ($3.89 in chips) 
+Seat 3: marcio1979 ($2.14 in chips) 
+Seat 4: luiyi11 ($1.69 in chips) 
+Seat 5: KeviiNewells ($2.02 in chips) 
+Seat 6: lawlex_2 ($3.24 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 3s]
+marcio1979: folds 
+luiyi11: folds 
+KeviiNewells: calls $0.02
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: checks 
+*** FLOP *** [3d Kd 2h]
+Secret.Speed: checks 
+KeviiNewells: bets $0.02
+Secret.Speed: folds 
+Uncalled bet ($0.02) returned to KeviiNewells
+KeviiNewells collected $0.05 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3d Kd 2h]
+Seat 1: szpaki (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) folded on the Flop
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells collected ($0.05)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213756996738:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:15:18 MSK [2020/05/12 15:15:18 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($1.90 in chips) 
+Seat 2: Secret.Speed ($3.87 in chips) 
+Seat 3: marcio1979 ($2.14 in chips) 
+Seat 5: KeviiNewells ($2.05 in chips) 
+Seat 6: lawlex_2 ($3.24 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Ah]
+KeviiNewells: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: calls $0.03
+KeviiNewells: calls $0.03
+*** FLOP *** [9d Jc 2d]
+marcio1979: checks 
+KeviiNewells: bets $0.04
+lawlex_2: folds 
+marcio1979: calls $0.04
+*** TURN *** [9d Jc 2d] [Ad]
+marcio1979: checks 
+KeviiNewells: bets $0.06
+marcio1979: raises $0.12 to $0.18
+KeviiNewells: folds 
+Uncalled bet ($0.12) returned to marcio1979
+marcio1979 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [9d Jc 2d Ad]
+Seat 1: szpaki (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: marcio1979 (big blind) collected ($0.35)
+Seat 5: KeviiNewells folded on the Turn
+Seat 6: lawlex_2 folded on the Flop
+
+
+
+PokerStars Hand #213757050159:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:16:08 MSK [2020/05/12 15:16:08 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($1.90 in chips) 
+Seat 2: Secret.Speed ($3.86 in chips) 
+Seat 3: marcio1979 ($2.34 in chips) 
+Seat 5: KeviiNewells ($1.90 in chips) 
+Seat 6: lawlex_2 ($3.19 in chips) 
+marcio1979: posts small blind $0.01
+KeviiNewells: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 6s]
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+KeviiNewells: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: marcio1979 (small blind) folded before Flop
+Seat 5: KeviiNewells (big blind) folded before Flop
+Seat 6: lawlex_2 collected ($0.05)
+
+
+
+PokerStars Hand #213757073545:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:16:27 MSK [2020/05/12 15:16:27 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: szpaki ($1.90 in chips) 
+Seat 2: Secret.Speed ($3.86 in chips) 
+Seat 3: marcio1979 ($2.33 in chips) 
+Seat 5: KeviiNewells ($1.88 in chips) 
+Seat 6: lawlex_2 ($3.22 in chips) 
+KeviiNewells: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 4s]
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+KeviiNewells: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Jd Qs 5d]
+KeviiNewells: checks 
+lawlex_2: bets $0.03
+KeviiNewells: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jd Qs 5d]
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 5: KeviiNewells (small blind) folded on the Flop
+Seat 6: lawlex_2 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #213757106404:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:16:57 MSK [2020/05/12 15:16:57 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: szpaki ($1.90 in chips) 
+Seat 2: Secret.Speed ($3.86 in chips) 
+Seat 3: marcio1979 ($2.33 in chips) 
+Seat 5: KeviiNewells ($1.86 in chips) 
+Seat 6: lawlex_2 ($3.24 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Ks]
+Secret.Speed: folds 
+marcio1979: folds 
+KeviiNewells: calls $0.02
+lawlex_2: folds 
+szpaki: checks 
+*** FLOP *** [9h Ts 7s]
+szpaki: checks 
+KeviiNewells: bets $0.04
+szpaki: folds 
+Uncalled bet ($0.04) returned to KeviiNewells
+KeviiNewells collected $0.05 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9h Ts 7s]
+Seat 1: szpaki (big blind) folded on the Flop
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 5: KeviiNewells (button) collected ($0.05)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213757124653:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:17:13 MSK [2020/05/12 15:17:13 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($1.88 in chips) 
+Seat 2: Secret.Speed ($3.86 in chips) 
+Seat 3: marcio1979 ($2.33 in chips) 
+Seat 5: KeviiNewells ($1.89 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 8d]
+marcio1979: folds 
+KeviiNewells: raises $0.02 to $0.04
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: folds 
+Uncalled bet ($0.02) returned to KeviiNewells
+KeviiNewells collected $0.05 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: szpaki (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) folded before Flop
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 5: KeviiNewells collected ($0.05)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213757142557:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:17:30 MSK [2020/05/12 15:17:30 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($1.87 in chips) 
+Seat 2: Secret.Speed ($3.84 in chips) 
+Seat 3: marcio1979 ($2.33 in chips) 
+Seat 5: KeviiNewells ($1.92 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 9s]
+KeviiNewells: calls $0.02
+lawlex_2: folds 
+szpaki: calls $0.02
+Secret.Speed: folds 
+marcio1979: checks 
+*** FLOP *** [5s 8h 4c]
+marcio1979: checks 
+KeviiNewells: bets $0.04
+szpaki: calls $0.04
+marcio1979: folds 
+*** TURN *** [5s 8h 4c] [Kc]
+KeviiNewells: bets $0.02
+szpaki: raises $0.04 to $0.06
+KeviiNewells: calls $0.04
+*** RIVER *** [5s 8h 4c Kc] [5h]
+KeviiNewells: bets $0.14
+szpaki: raises $1.61 to $1.75 and is all-in
+KeviiNewells: folds 
+Uncalled bet ($1.61) returned to szpaki
+szpaki collected $0.53 from pot
+szpaki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5s 8h 4c Kc 5h]
+Seat 1: szpaki (button) collected ($0.53)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: marcio1979 (big blind) folded on the Flop
+Seat 5: KeviiNewells folded on the River
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213757201061:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:18:22 MSK [2020/05/12 15:18:22 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($2.14 in chips) 
+Seat 2: Secret.Speed ($3.83 in chips) 
+Seat 3: marcio1979 ($2.31 in chips) 
+Seat 5: KeviiNewells ($1.66 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+marcio1979: posts small blind $0.01
+KeviiNewells: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Th]
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: raises $0.04 to $0.06
+KeviiNewells: calls $0.04
+*** FLOP *** [Jc Js Ac]
+marcio1979: checks 
+KeviiNewells: checks 
+*** TURN *** [Jc Js Ac] [7h]
+marcio1979: checks 
+KeviiNewells: checks 
+*** RIVER *** [Jc Js Ac 7h] [9c]
+marcio1979: checks 
+KeviiNewells: bets $0.06
+marcio1979: folds 
+Uncalled bet ($0.06) returned to KeviiNewells
+KeviiNewells collected $0.12 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jc Js Ac 7h 9c]
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: marcio1979 (small blind) folded on the River
+Seat 5: KeviiNewells (big blind) collected ($0.12)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213757239080:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:18:56 MSK [2020/05/12 15:18:56 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: szpaki ($2.14 in chips) 
+Seat 2: Secret.Speed ($3.83 in chips) 
+Seat 3: marcio1979 ($2.25 in chips) 
+Seat 5: KeviiNewells ($1.72 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+KeviiNewells: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 6s]
+szpaki: folds 
+Secret.Speed: raises $0.03 to $0.05
+marcio1979: folds 
+KeviiNewells: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to Secret.Speed
+Secret.Speed collected $0.05 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed collected ($0.05)
+Seat 3: marcio1979 (button) folded before Flop (didn't bet)
+Seat 5: KeviiNewells (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213757254276:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:19:10 MSK [2020/05/12 15:19:10 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: szpaki ($2.14 in chips) 
+Seat 2: Secret.Speed ($3.86 in chips) 
+Seat 3: marcio1979 ($2.25 in chips) 
+Seat 4: luiyi11 ($1.69 in chips) 
+Seat 5: KeviiNewells ($1.71 in chips) 
+Seat 6: lawlex_2 ($3.21 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+luiyi11: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 9c]
+Secret.Speed: folds 
+marcio1979: folds 
+luiyi11: checks 
+KeviiNewells: folds 
+lawlex_2: folds 
+szpaki: checks 
+*** FLOP *** [7s 8h 9d]
+szpaki: checks 
+luiyi11: checks 
+*** TURN *** [7s 8h 9d] [Kc]
+szpaki: checks 
+luiyi11: checks 
+*** RIVER *** [7s 8h 9d Kc] [3c]
+szpaki: checks 
+luiyi11: checks 
+*** SHOW DOWN ***
+szpaki: shows [Jc 2h] (high card King)
+luiyi11: shows [6s As] (high card Ace)
+luiyi11 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7s 8h 9d Kc 3c]
+Seat 1: szpaki (big blind) showed [Jc 2h] and lost with high card King
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 showed [6s As] and won ($0.06) with high card Ace
+Seat 5: KeviiNewells (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213757280279:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:19:34 MSK [2020/05/12 15:19:34 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: szpaki ($2.12 in chips) 
+Seat 2: Secret.Speed ($3.86 in chips) 
+Seat 3: marcio1979 ($2.25 in chips) 
+Seat 4: luiyi11 ($1.72 in chips) 
+Seat 5: KeviiNewells ($1.71 in chips) 
+Seat 6: lawlex_2 ($3.20 in chips) 
+szpaki: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 9c]
+marcio1979: folds 
+luiyi11: folds 
+KeviiNewells: raises $0.04 to $0.06
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: folds 
+Uncalled bet ($0.04) returned to KeviiNewells
+KeviiNewells collected $0.05 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: szpaki (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) folded before Flop
+Seat 3: marcio1979 folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells collected ($0.05)
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213757302309:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:19:54 MSK [2020/05/12 15:19:54 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: szpaki ($2.11 in chips) 
+Seat 2: Secret.Speed ($3.84 in chips) 
+Seat 3: marcio1979 ($2.25 in chips) 
+Seat 4: luiyi11 ($1.72 in chips) 
+Seat 5: KeviiNewells ($1.74 in chips) 
+Seat 6: lawlex_2 ($3.20 in chips) 
+Secret.Speed: posts small blind $0.01
+marcio1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Jc]
+luiyi11: folds 
+KeviiNewells: folds 
+lawlex_2: raises $0.03 to $0.05
+szpaki: folds 
+Secret.Speed: folds 
+marcio1979: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: szpaki (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: marcio1979 (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells folded before Flop (didn't bet)
+Seat 6: lawlex_2 collected ($0.05)
+
+
+
+PokerStars Hand #213757335123:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:20:24 MSK [2020/05/12 15:20:24 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: szpaki ($2.11 in chips) 
+Seat 2: Secret.Speed ($3.83 in chips) 
+Seat 4: luiyi11 ($1.72 in chips) 
+Seat 5: KeviiNewells ($1.74 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+luiyi11: posts small blind $0.01
+KeviiNewells: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 2s]
+lawlex_2: folds 
+szpaki: folds 
+Secret.Speed: raises $0.03 to $0.05
+luiyi11: calls $0.04
+KeviiNewells: folds 
+*** FLOP *** [7h Tc 3c]
+luiyi11: checks 
+marcio1979 leaves the table
+Secret.Speed: checks 
+*** TURN *** [7h Tc 3c] [2h]
+luiyi11: checks 
+Secret.Speed: checks 
+*** RIVER *** [7h Tc 3c 2h] [Ah]
+luiyi11: checks 
+Secret.Speed: bets $0.06
+luiyi11: folds 
+Uncalled bet ($0.06) returned to Secret.Speed
+Secret.Speed collected $0.12 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7h Tc 3c 2h Ah]
+Seat 1: szpaki folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) collected ($0.12)
+Seat 4: luiyi11 (small blind) folded on the River
+Seat 5: KeviiNewells (big blind) folded before Flop
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213757381951:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:21:00 MSK [2020/05/12 15:21:00 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: szpaki ($2.11 in chips) 
+Seat 2: Secret.Speed ($3.90 in chips) 
+Seat 4: luiyi11 ($1.67 in chips) 
+Seat 5: KeviiNewells ($1.72 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+KeviiNewells: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Jd]
+szpaki: calls $0.02
+Secret.Speed: folds 
+Lujotora joins the table at seat #3 
+luiyi11: folds 
+KeviiNewells: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [3s 7s 9c]
+KeviiNewells: bets $0.02
+lawlex_2: folds 
+szpaki: calls $0.02
+*** TURN *** [3s 7s 9c] [Kh]
+KeviiNewells: bets $0.02
+szpaki: folds 
+Uncalled bet ($0.02) returned to KeviiNewells
+KeviiNewells collected $0.10 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3s 7s 9c Kh]
+Seat 1: szpaki folded on the Turn
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: KeviiNewells (small blind) collected ($0.10)
+Seat 6: lawlex_2 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213757408788:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:21:24 MSK [2020/05/12 15:21:24 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: szpaki ($2.07 in chips) 
+Seat 2: Secret.Speed ($3.90 in chips) 
+Seat 4: luiyi11 ($1.67 in chips) 
+Seat 5: KeviiNewells ($1.78 in chips) 
+Seat 6: lawlex_2 ($3.21 in chips) 
+lawlex_2: posts small blind $0.01
+szpaki: posts big blind $0.02
+Lujotora: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 2h]
+Secret.Speed: folds 
+luiyi11: folds 
+KeviiNewells: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to szpaki
+szpaki collected $0.02 from pot
+szpaki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: szpaki (big blind) collected ($0.02)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells (button) folded before Flop (didn't bet)
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213757422008:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:21:37 MSK [2020/05/12 15:21:37 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 2: Secret.Speed ($3.90 in chips) 
+Seat 3: Lujotora ($1.04 in chips) 
+Seat 4: luiyi11 ($1.67 in chips) 
+Seat 5: KeviiNewells ($1.78 in chips) 
+Seat 6: lawlex_2 ($3.20 in chips) 
+Secret.Speed: posts small blind $0.01
+Lujotora: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js As]
+luiyi11: folds 
+KeviiNewells: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Secret.Speed: calls $0.04
+Lujotora: calls $0.03
+KeviiNewells: folds 
+*** FLOP *** [Jh 3c 9h]
+LEHIN888 joins the table at seat #1 
+Secret.Speed: bets $0.08
+Lujotora: calls $0.08
+lawlex_2: calls $0.08
+*** TURN *** [Jh 3c 9h] [4h]
+Secret.Speed: checks 
+Lujotora: bets $0.12
+lawlex_2: calls $0.12
+Secret.Speed: folds 
+*** RIVER *** [Jh 3c 9h 4h] [7h]
+Lujotora: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Lujotora: shows [Th 6h] (a flush, Jack high)
+lawlex_2: mucks hand 
+Lujotora collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [Jh 3c 9h 4h 7h]
+Seat 2: Secret.Speed (small blind) folded on the Turn
+Seat 3: Lujotora (big blind) showed [Th 6h] and won ($0.63) with a flush, Jack high
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells folded before Flop
+Seat 6: lawlex_2 (button) mucked [Js As]
+
+
+
+PokerStars Hand #213757506687:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:22:54 MSK [2020/05/12 15:22:54 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 2: Secret.Speed ($3.77 in chips) 
+Seat 3: Lujotora ($1.42 in chips) 
+Seat 4: luiyi11 ($1.67 in chips) 
+Seat 5: KeviiNewells ($1.76 in chips) 
+Seat 6: lawlex_2 ($2.95 in chips) 
+Lujotora: posts small blind $0.01
+luiyi11: posts big blind $0.02
+LEHIN888: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 7c]
+KeviiNewells: raises $0.04 to $0.06
+lawlex_2: folds 
+Secret.Speed: calls $0.06
+Lujotora: raises $0.10 to $0.16
+luiyi11: folds 
+KeviiNewells: calls $0.10
+Secret.Speed: calls $0.10
+*** FLOP *** [3h Ac Ks]
+Lujotora: bets $0.20
+KeviiNewells: calls $0.20
+Secret.Speed: folds 
+*** TURN *** [3h Ac Ks] [9c]
+Lujotora: bets $0.39
+KeviiNewells: folds 
+Uncalled bet ($0.39) returned to Lujotora
+Lujotora collected $0.87 from pot
+Lujotora: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03 
+Board [3h Ac Ks 9c]
+Seat 2: Secret.Speed (button) folded on the Flop
+Seat 3: Lujotora (small blind) collected ($0.87)
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: KeviiNewells folded on the Turn
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213757587310:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:24:08 MSK [2020/05/12 15:24:08 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: LEHIN888 ($2 in chips) 
+Seat 2: Secret.Speed ($3.61 in chips) 
+Seat 3: Lujotora ($1.93 in chips) 
+Seat 4: luiyi11 ($1.65 in chips) 
+Seat 5: KeviiNewells ($1.40 in chips) 
+Seat 6: lawlex_2 ($2.95 in chips) 
+luiyi11: posts small blind $0.01
+KeviiNewells: posts big blind $0.02
+LEHIN888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Ks]
+lawlex_2: raises $0.03 to $0.05
+LEHIN888: folds 
+Secret.Speed: folds 
+Lujotora: folds 
+luiyi11: calls $0.04
+KeviiNewells: calls $0.03
+*** FLOP *** [6s 8d 3c]
+luiyi11: checks 
+KeviiNewells: checks 
+lawlex_2: bets $0.11
+luiyi11: folds 
+KeviiNewells: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.16 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6s 8d 3c]
+Seat 1: LEHIN888 folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: Lujotora (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded on the Flop
+Seat 5: KeviiNewells (big blind) folded on the Flop
+Seat 6: lawlex_2 collected ($0.16)
+
+
+
+PokerStars Hand #213757618849:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:24:37 MSK [2020/05/12 15:24:37 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: LEHIN888 ($2 in chips) 
+Seat 2: Secret.Speed ($3.61 in chips) 
+Seat 3: Lujotora ($1.93 in chips) 
+Seat 4: luiyi11 ($1.60 in chips) 
+Seat 5: KeviiNewells ($1.35 in chips) 
+Seat 6: lawlex_2 ($3.06 in chips) 
+KeviiNewells: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 3h]
+LEHIN888: folds 
+Secret.Speed: calls $0.02
+Lujotora: calls $0.02
+luiyi11: folds 
+KeviiNewells: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [7d 3c 3d]
+KeviiNewells: checks 
+lawlex_2: checks 
+Secret.Speed: bets $0.04
+Lujotora: folds 
+KeviiNewells: folds 
+lawlex_2: raises $0.11 to $0.15
+Secret.Speed: calls $0.11
+*** TURN *** [7d 3c 3d] [Th]
+lawlex_2: bets $0.25
+Secret.Speed: folds 
+Uncalled bet ($0.25) returned to lawlex_2
+lawlex_2 collected $0.37 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [7d 3c 3d Th]
+Seat 1: LEHIN888 folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded on the Turn
+Seat 3: Lujotora folded on the Flop
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: KeviiNewells (small blind) folded on the Flop
+Seat 6: lawlex_2 (big blind) collected ($0.37)
+
+
+
+PokerStars Hand #213757675137:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:25:27 MSK [2020/05/12 15:25:27 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: LEHIN888 ($2 in chips) 
+Seat 2: Secret.Speed ($3.44 in chips) 
+Seat 3: Lujotora ($1.91 in chips) 
+Seat 4: luiyi11 ($1.60 in chips) 
+Seat 5: KeviiNewells ($1.33 in chips) 
+Seat 6: lawlex_2 ($3.26 in chips) 
+lawlex_2: posts small blind $0.01
+LEHIN888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Td]
+Secret.Speed: folds 
+Lujotora: calls $0.02
+luiyi11: folds 
+KeviiNewells: calls $0.02
+lawlex_2: folds 
+LEHIN888: checks 
+*** FLOP *** [Kh 2c 6c]
+LEHIN888: checks 
+Lujotora: checks 
+KeviiNewells: checks 
+*** TURN *** [Kh 2c 6c] [9h]
+LEHIN888: checks 
+Lujotora: bets $0.03
+KeviiNewells: calls $0.03
+LEHIN888: folds 
+*** RIVER *** [Kh 2c 6c 9h] [Qd]
+Lujotora: checks 
+KeviiNewells: checks 
+*** SHOW DOWN ***
+Lujotora: shows [7d 9d] (a pair of Nines)
+KeviiNewells: mucks hand 
+Lujotora collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kh 2c 6c 9h Qd]
+Seat 1: LEHIN888 (big blind) folded on the Turn
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: Lujotora showed [7d 9d] and won ($0.13) with a pair of Nines
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells (button) mucked [6d Ac]
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213757748303:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:26:34 MSK [2020/05/12 15:26:34 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: LEHIN888 ($2 in chips) 
+Seat 2: Secret.Speed ($3.44 in chips) 
+Seat 3: Lujotora ($1.99 in chips) 
+Seat 4: luiyi11 ($1.60 in chips) 
+Seat 5: KeviiNewells ($1.28 in chips) 
+Seat 6: lawlex_2 ($3.25 in chips) 
+LEHIN888: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 2c]
+Lujotora: folds 
+luiyi11: folds 
+KeviiNewells: calls $0.02
+lawlex_2: folds 
+LEHIN888: folds 
+Secret.Speed: checks 
+*** FLOP *** [Ad 6h 8c]
+Secret.Speed: bets $0.02
+KeviiNewells: folds 
+Uncalled bet ($0.02) returned to Secret.Speed
+Secret.Speed collected $0.05 from pot
+Secret.Speed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ad 6h 8c]
+Seat 1: LEHIN888 (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) collected ($0.05)
+Seat 3: Lujotora folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells folded on the Flop
+Seat 6: lawlex_2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213757785149:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:27:07 MSK [2020/05/12 15:27:07 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: LEHIN888 ($2 in chips) 
+Seat 2: Secret.Speed ($3.47 in chips) 
+Seat 3: Lujotora ($1.99 in chips) 
+Seat 4: luiyi11 ($1.60 in chips) 
+Seat 5: KeviiNewells ($1.26 in chips) 
+Seat 6: lawlex_2 ($3.25 in chips) 
+Secret.Speed: posts small blind $0.01
+Lujotora: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 5c]
+luiyi11: folds 
+KeviiNewells: folds 
+lawlex_2: raises $0.03 to $0.05
+LEHIN888: raises $0.13 to $0.18
+Secret.Speed: folds 
+Lujotora: calls $0.16
+lawlex_2: folds 
+*** FLOP *** [8h 3d Jc]
+Lujotora: checks 
+LEHIN888: bets $0.24
+Lujotora: folds 
+Uncalled bet ($0.24) returned to LEHIN888
+LEHIN888 collected $0.41 from pot
+LEHIN888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [8h 3d Jc]
+Seat 1: LEHIN888 (button) collected ($0.41)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: Lujotora (big blind) folded on the Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop
+
+
+
+PokerStars Hand #213757849934:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:28:07 MSK [2020/05/12 15:28:07 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: LEHIN888 ($2.23 in chips) 
+Seat 2: Secret.Speed ($3.46 in chips) 
+Seat 3: Lujotora ($1.81 in chips) 
+Seat 4: luiyi11 ($1.60 in chips) 
+Seat 5: KeviiNewells ($1.26 in chips) 
+Seat 6: lawlex_2 ($3.20 in chips) 
+Lujotora: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 6d]
+KeviiNewells: calls $0.02
+lawlex_2: folds 
+LEHIN888: folds 
+Secret.Speed: folds 
+Lujotora: folds 
+luiyi11: checks 
+*** FLOP *** [7c 4s Qd]
+luiyi11: checks 
+KeviiNewells: checks 
+*** TURN *** [7c 4s Qd] [7h]
+luiyi11: checks 
+KeviiNewells: bets $0.02
+luiyi11: folds 
+Uncalled bet ($0.02) returned to KeviiNewells
+KeviiNewells collected $0.05 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7c 4s Qd 7h]
+Seat 1: LEHIN888 folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: Lujotora (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded on the Turn
+Seat 5: KeviiNewells collected ($0.05)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213757887727:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:28:42 MSK [2020/05/12 15:28:42 ET]
+Table 'Bateson II' 6-max Seat #3 is the button
+Seat 1: LEHIN888 ($2.23 in chips) 
+Seat 2: Secret.Speed ($3.46 in chips) 
+Seat 3: Lujotora ($1.80 in chips) 
+Seat 4: luiyi11 ($1.58 in chips) 
+Seat 5: KeviiNewells ($1.29 in chips) 
+Seat 6: lawlex_2 ($3.20 in chips) 
+luiyi11: posts small blind $0.01
+KeviiNewells: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Tc]
+lawlex_2 has timed out
+lawlex_2: folds 
+LEHIN888: raises $0.04 to $0.06
+Secret.Speed: folds 
+Lujotora has timed out
+Lujotora: folds 
+luiyi11: folds 
+KeviiNewells: calls $0.04
+*** FLOP *** [8s 4s As]
+KeviiNewells: bets $0.04
+LEHIN888: folds 
+Uncalled bet ($0.04) returned to KeviiNewells
+KeviiNewells collected $0.13 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8s 4s As]
+Seat 1: LEHIN888 folded on the Flop
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: Lujotora (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: KeviiNewells (big blind) collected ($0.13)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213757944112:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:29:33 MSK [2020/05/12 15:29:33 ET]
+Table 'Bateson II' 6-max Seat #4 is the button
+Seat 1: LEHIN888 ($2.17 in chips) 
+Seat 2: Secret.Speed ($3.46 in chips) 
+Seat 3: Lujotora ($1.80 in chips) 
+Seat 4: luiyi11 ($1.57 in chips) 
+Seat 5: KeviiNewells ($1.36 in chips) 
+Seat 6: lawlex_2 ($3.20 in chips) 
+KeviiNewells: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 5h]
+LEHIN888: folds 
+Secret.Speed: folds 
+Lujotora: folds 
+luiyi11: calls $0.02
+KeviiNewells: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [7h 8s 9d]
+KeviiNewells: checks 
+Lujotora leaves the table
+lawlex_2: checks 
+luiyi11: checks 
+*** TURN *** [7h 8s 9d] [Ac]
+KeviiNewells: bets $0.04
+lawlex_2: folds 
+luiyi11: raises $0.18 to $0.22
+KeviiNewells: folds 
+Uncalled bet ($0.18) returned to luiyi11
+luiyi11 collected $0.14 from pot
+luiyi11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7h 8s 9d Ac]
+Seat 1: LEHIN888 folded before Flop (didn't bet)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 3: Lujotora folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) collected ($0.14)
+Seat 5: KeviiNewells (small blind) folded on the Turn
+Seat 6: lawlex_2 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213757986632:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:30:11 MSK [2020/05/12 15:30:11 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: LEHIN888 ($2.17 in chips) 
+Seat 2: Secret.Speed ($3.46 in chips) 
+Seat 4: luiyi11 ($1.65 in chips) 
+Seat 5: KeviiNewells ($1.30 in chips) 
+Seat 6: lawlex_2 ($3.18 in chips) 
+lawlex_2: posts small blind $0.01
+LEHIN888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 2c]
+Secret.Speed: folds 
+luiyi11: folds 
+KeviiNewells: calls $0.02
+lawlex_2: folds 
+LEHIN888: checks 
+*** FLOP *** [7h 4s Jh]
+LEHIN888: checks 
+KeviiNewells: checks 
+*** TURN *** [7h 4s Jh] [2d]
+LEHIN888: bets $0.03
+KeviiNewells: folds 
+Uncalled bet ($0.03) returned to LEHIN888
+LEHIN888 collected $0.05 from pot
+LEHIN888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7h 4s Jh 2d]
+Seat 1: LEHIN888 (big blind) collected ($0.05)
+Seat 2: Secret.Speed folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells (button) folded on the Turn
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213758012052:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:30:31 MSK [2020/05/12 15:30:31 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: LEHIN888 ($2.20 in chips) 
+Seat 2: Secret.Speed ($3.46 in chips) 
+Seat 4: luiyi11 ($1.65 in chips) 
+Seat 5: KeviiNewells ($1.28 in chips) 
+Seat 6: lawlex_2 ($3.17 in chips) 
+LEHIN888: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Td]
+luiyi11: folds 
+KeviiNewells: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+LEHIN888: folds 
+Secret.Speed: folds 
+KeviiNewells: calls $0.03
+*** FLOP *** [Qh 3s Tc]
+KeviiNewells: bets $0.04
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to KeviiNewells
+KeviiNewells collected $0.13 from pot
+KeviiNewells: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qh 3s Tc]
+Seat 1: LEHIN888 (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: KeviiNewells collected ($0.13)
+Seat 6: lawlex_2 (button) folded on the Flop
+
+
+
+PokerStars Hand #213758041130:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:30:58 MSK [2020/05/12 15:30:58 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: LEHIN888 ($2.19 in chips) 
+Seat 2: Secret.Speed ($3.44 in chips) 
+Seat 4: luiyi11 ($1.65 in chips) 
+Seat 5: KeviiNewells ($1.36 in chips) 
+Seat 6: lawlex_2 ($3.12 in chips) 
+Secret.Speed: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Ah]
+KeviiNewells: folds 
+lawlex_2: raises $0.03 to $0.05
+LEHIN888: folds 
+Secret.Speed: folds 
+luiyi11: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LEHIN888 (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: KeviiNewells folded before Flop (didn't bet)
+Seat 6: lawlex_2 collected ($0.05)
+
+
+
+PokerStars Hand #213758056410:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:31:09 MSK [2020/05/12 15:31:09 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: LEHIN888 ($2.19 in chips) 
+Seat 2: Secret.Speed ($3.43 in chips) 
+Seat 5: KeviiNewells ($1.36 in chips) 
+Seat 6: lawlex_2 ($3.15 in chips) 
+KeviiNewells: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Ks]
+LEHIN888: folds 
+Secret.Speed: calls $0.02
+KeviiNewells: folds 
+lawlex_2: raises $0.03 to $0.05
+Ramos MK joins the table at seat #3 
+Secret.Speed: calls $0.03
+*** FLOP *** [Tc 5c 4c]
+lawlex_2: bets $0.07
+Secret.Speed: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Tc 5c 4c]
+Seat 1: LEHIN888 folded before Flop (didn't bet)
+Seat 2: Secret.Speed (button) folded on the Flop
+Seat 5: KeviiNewells (small blind) folded before Flop
+Seat 6: lawlex_2 (big blind) collected ($0.11)
+
+
+
+PokerStars Hand #213758080797:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:31:32 MSK [2020/05/12 15:31:32 ET]
+Table 'Bateson II' 6-max Seat #5 is the button
+Seat 1: LEHIN888 ($2.19 in chips) 
+Seat 2: Secret.Speed ($3.38 in chips) 
+Seat 3: Ramos MK ($0.80 in chips) 
+Seat 5: KeviiNewells ($1.35 in chips) 
+Seat 6: lawlex_2 ($3.21 in chips) 
+lawlex_2: posts small blind $0.01
+LEHIN888: posts big blind $0.02
+Ramos MK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 3s]
+Secret.Speed: calls $0.02
+Ramos MK: checks 
+KeviiNewells: calls $0.02
+lawlex_2: folds 
+LEHIN888: checks 
+*** FLOP *** [3c 9d Qc]
+LEHIN888: checks 
+Secret.Speed: checks 
+Ramos MK: bets $0.04
+KeviiNewells: raises $0.04 to $0.08
+LEHIN888: folds 
+Secret.Speed: folds 
+Ramos MK: calls $0.04
+*** TURN *** [3c 9d Qc] [8d]
+Ramos MK: checks 
+KeviiNewells: checks 
+*** RIVER *** [3c 9d Qc 8d] [5d]
+Ramos MK: bets $0.14
+KeviiNewells: folds 
+Uncalled bet ($0.14) returned to Ramos MK
+Ramos MK collected $0.24 from pot
+Ramos MK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3c 9d Qc 8d 5d]
+Seat 1: LEHIN888 (big blind) folded on the Flop
+Seat 2: Secret.Speed folded on the Flop
+Seat 3: Ramos MK collected ($0.24)
+Seat 5: KeviiNewells (button) folded on the River
+Seat 6: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213758133967:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:32:20 MSK [2020/05/12 15:32:20 ET]
+Table 'Bateson II' 6-max Seat #6 is the button
+Seat 1: LEHIN888 ($2.17 in chips) 
+Seat 2: Secret.Speed ($3.36 in chips) 
+Seat 3: Ramos MK ($0.94 in chips) 
+Seat 5: KeviiNewells ($1.25 in chips) 
+Seat 6: lawlex_2 ($3.20 in chips) 
+LEHIN888: posts small blind $0.01
+Secret.Speed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Ad]
+Ramos MK: folds 
+KeviiNewells: folds 
+lawlex_2: raises $0.03 to $0.05
+LEHIN888: folds 
+Secret.Speed: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LEHIN888 (small blind) folded before Flop
+Seat 2: Secret.Speed (big blind) folded before Flop
+Seat 3: Ramos MK folded before Flop (didn't bet)
+Seat 5: KeviiNewells folded before Flop (didn't bet)
+Seat 6: lawlex_2 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213758148301:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:32:33 MSK [2020/05/12 15:32:33 ET]
+Table 'Bateson II' 6-max Seat #1 is the button
+Seat 1: LEHIN888 ($2.16 in chips) 
+Seat 2: Secret.Speed ($3.34 in chips) 
+Seat 3: Ramos MK ($0.94 in chips) 
+Seat 4: luiyi11 ($1.63 in chips) 
+Seat 5: KeviiNewells ($1.25 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+Secret.Speed: posts small blind $0.01
+Ramos MK: posts big blind $0.02
+luiyi11: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Jh]
+luiyi11: calls $0.02
+KeviiNewells has timed out
+KeviiNewells: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+LEHIN888: folds 
+Secret.Speed: folds 
+Ramos MK: checks 
+*** FLOP *** [2s 8s 8c]
+Ramos MK: checks 
+luiyi11: checks 
+*** TURN *** [2s 8s 8c] [9d]
+Ramos MK: checks 
+luiyi11: checks 
+*** RIVER *** [2s 8s 8c 9d] [4h]
+Ramos MK: bets $0.02
+luiyi11: folds 
+Uncalled bet ($0.02) returned to Ramos MK
+Ramos MK collected $0.06 from pot
+Ramos MK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2s 8s 8c 9d 4h]
+Seat 1: LEHIN888 (button) folded before Flop (didn't bet)
+Seat 2: Secret.Speed (small blind) folded before Flop
+Seat 3: Ramos MK (big blind) collected ($0.06)
+Seat 4: luiyi11 folded on the River
+Seat 5: KeviiNewells folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213758231743:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 22:33:47 MSK [2020/05/12 15:33:47 ET]
+Table 'Bateson II' 6-max Seat #2 is the button
+Seat 1: LEHIN888 ($2.16 in chips) 
+Seat 2: Secret.Speed ($3.33 in chips) 
+Seat 3: Ramos MK ($0.98 in chips) 
+Seat 4: luiyi11 ($1.60 in chips) 
+Seat 5: KeviiNewells ($1.25 in chips) 
+Seat 6: lawlex_2 ($3.23 in chips) 
+Ramos MK: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 9d]
+KeviiNewells: folds 
+lawlex_2: folds 
+LEHIN888: raises $0.04 to $0.06
+Secret.Speed: folds 
+Ramos MK: folds 
+luiyi11: calls $0.04
+*** FLOP *** [Ah 9s Qs]
+luiyi11: checks 
+LEHIN888: checks 
+*** TURN *** [Ah 9s Qs] [5s]
+luiyi11: checks 
+LEHIN888: bets $0.04
+luiyi11: folds 
+Uncalled bet ($0.04) returned to LEHIN888
+LEHIN888 collected $0.13 from pot
+LEHIN888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ah 9s Qs 5s]
+Seat 1: LEHIN888 collected ($0.13)
+Seat 2: Secret.Speed (button) folded before Flop (didn't bet)
+Seat 3: Ramos MK (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded on the Turn
+Seat 5: KeviiNewells folded before Flop (didn't bet)
+Seat 6: lawlex_2 folded before Flop (didn't bet)
+
+
+

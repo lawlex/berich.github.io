@@ -1,0 +1,1650 @@
+﻿PokerStars Hand #212991012083:  Hold'em No Limit (50/100) - 2020/04/30 13:44:26 MSK [2020/04/30 6:44:26 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #1 is the button
+Seat 1: KsRaptor1971 (54960 in chips) 
+Seat 2: ignacio0256 (8176 in chips) 
+Seat 3: pablo_84_par (10619 in chips) 
+Seat 4: lawlex_2 (10000 in chips) 
+Seat 5: Bennnar (10000 in chips) 
+ignacio0256: posts small blind 50
+pablo_84_par: posts big blind 100
+lawlex_2: posts big blind 100
+Bennnar: posts small blind 50
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Ah]
+lawlex_2: raises 200 to 300
+Bennnar: folds 
+KsRaptor1971: calls 300
+ignacio0256: calls 250
+pablo_84_par: calls 200
+*** FLOP *** [3d Ad Td]
+ignacio0256: checks 
+pablo_84_par: checks 
+lawlex_2: bets 100
+KsRaptor1971: folds 
+ignacio0256: calls 100
+pablo_84_par: folds 
+*** TURN *** [3d Ad Td] [3s]
+ignacio0256: bets 800
+lawlex_2: calls 800
+*** RIVER *** [3d Ad Td 3s] [Kh]
+ignacio0256: bets 6976 and is all-in
+lawlex_2: folds 
+Uncalled bet (6976) returned to ignacio0256
+ignacio0256 collected 2882 from pot
+ignacio0256: doesn't show hand 
+*** SUMMARY ***
+Total pot 3050 | Rake 168 
+Board [3d Ad Td 3s Kh]
+Seat 1: KsRaptor1971 (button) folded on the Flop
+Seat 2: ignacio0256 (small blind) collected (2882)
+Seat 3: pablo_84_par (big blind) folded on the Flop
+Seat 4: lawlex_2 folded on the River
+Seat 5: Bennnar folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212991050665:  Hold'em No Limit (50/100) - 2020/04/30 13:45:46 MSK [2020/04/30 6:45:46 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #2 is the button
+Seat 1: KsRaptor1971 (54660 in chips) 
+Seat 2: ignacio0256 (9858 in chips) 
+Seat 3: pablo_84_par (10319 in chips) 
+Seat 4: lawlex_2 (8800 in chips) 
+Seat 5: Bennnar (9950 in chips) 
+Seat 6: AceFoxKP479 (9522 in chips) 
+pablo_84_par: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Qd]
+Bennnar: calls 100
+AceFoxKP479: calls 100
+KsRaptor1971: raises 450 to 550
+ignacio0256: folds 
+pablo_84_par: calls 500
+lawlex_2: calls 450
+Bennnar: folds 
+AceFoxKP479: calls 450
+*** FLOP *** [8s Ah Ts]
+pablo_84_par: checks 
+lawlex_2: checks 
+AceFoxKP479: checks 
+KsRaptor1971: bets 1086
+pablo_84_par: folds 
+lawlex_2: calls 1086
+AceFoxKP479: folds 
+*** TURN *** [8s Ah Ts] [Kc]
+lawlex_2: bets 2113
+KsRaptor1971: folds 
+Uncalled bet (2113) returned to lawlex_2
+lawlex_2 collected 4226 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 4472 | Rake 246 
+Board [8s Ah Ts Kc]
+Seat 1: KsRaptor1971 folded on the Turn
+Seat 2: ignacio0256 (button) folded before Flop (didn't bet)
+Seat 3: pablo_84_par (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) collected (4226)
+Seat 5: Bennnar folded before Flop
+Seat 6: AceFoxKP479 folded on the Flop
+
+
+
+PokerStars Hand #212991080262:  Hold'em No Limit (50/100) - 2020/04/30 13:46:47 MSK [2020/04/30 6:46:47 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #3 is the button
+Seat 1: KsRaptor1971 (53024 in chips) 
+Seat 2: ignacio0256 (9858 in chips) 
+Seat 3: pablo_84_par (9769 in chips) 
+Seat 4: lawlex_2 (11390 in chips) 
+Seat 5: Bennnar (9850 in chips) 
+Seat 6: AceFoxKP479 (8972 in chips) 
+lawlex_2: posts small blind 50
+Bennnar: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 5d]
+AceFoxKP479: calls 100
+KsRaptor1971: calls 100
+ignacio0256: calls 100
+pablo_84_par: calls 100
+lawlex_2: calls 50
+Bennnar: checks 
+*** FLOP *** [9c 4d 2s]
+lawlex_2: checks 
+Bennnar: checks 
+AceFoxKP479: checks 
+KsRaptor1971: checks 
+ignacio0256: checks 
+pablo_84_par: checks 
+*** TURN *** [9c 4d 2s] [2d]
+lawlex_2: bets 283
+Bennnar: calls 283
+AceFoxKP479: calls 283
+KsRaptor1971: folds 
+ignacio0256: calls 283
+pablo_84_par: folds 
+*** RIVER *** [9c 4d 2s 2d] [2h]
+lawlex_2: checks 
+Bennnar: bets 818
+AceFoxKP479: calls 818
+ignacio0256: calls 818
+lawlex_2: folds 
+*** SHOW DOWN ***
+Bennnar: shows [7s 9d] (a full house, Deuces full of Nines)
+AceFoxKP479: shows [Ac 9s] (a full house, Deuces full of Nines)
+ignacio0256: mucks hand 
+Bennnar collected 1978 from pot
+AceFoxKP479 collected 1978 from pot
+*** SUMMARY ***
+Total pot 4186 | Rake 230 
+Board [9c 4d 2s 2d 2h]
+Seat 1: KsRaptor1971 folded on the Turn
+Seat 2: ignacio0256 mucked [Kh 3s]
+Seat 3: pablo_84_par (button) folded on the Turn
+Seat 4: lawlex_2 (small blind) folded on the River
+Seat 5: Bennnar (big blind) showed [7s 9d] and won (1978) with a full house, Deuces full of Nines
+Seat 6: AceFoxKP479 showed [Ac 9s] and won (1978) with a full house, Deuces full of Nines
+
+
+
+PokerStars Hand #212991133831:  Hold'em No Limit (50/100) - 2020/04/30 13:48:37 MSK [2020/04/30 6:48:37 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #4 is the button
+Seat 1: KsRaptor1971 (52924 in chips) 
+Seat 2: ignacio0256 (8657 in chips) 
+Seat 3: pablo_84_par (9669 in chips) 
+Seat 4: lawlex_2 (11007 in chips) 
+Seat 5: Bennnar (10627 in chips) 
+Seat 6: AceFoxKP479 (9749 in chips) 
+Bennnar: posts small blind 50
+AceFoxKP479: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Qc]
+KsRaptor1971: calls 100
+ignacio0256: calls 100
+pablo_84_par: calls 100
+lawlex_2: raises 200 to 300
+Bennnar: calls 250
+AceFoxKP479: calls 200
+KsRaptor1971: calls 200
+ignacio0256: folds 
+pablo_84_par: calls 200
+*** FLOP *** [5h 8h Ks]
+Bennnar: checks 
+AceFoxKP479: checks 
+KsRaptor1971: bets 1512
+pablo_84_par: calls 1512
+lawlex_2: folds 
+Bennnar: folds 
+AceFoxKP479: folds 
+*** TURN *** [5h 8h Ks] [5c]
+KsRaptor1971: checks 
+pablo_84_par: bets 4370
+KsRaptor1971: raises 4370 to 8740
+pablo_84_par: calls 3487 and is all-in
+Uncalled bet (883) returned to KsRaptor1971
+*** RIVER *** [5h 8h Ks 5c] [7h]
+*** SHOW DOWN ***
+KsRaptor1971: shows [5s Ac] (three of a kind, Fives)
+pablo_84_par: shows [Kc 6c] (two pair, Kings and Fives)
+KsRaptor1971 collected 19219 from pot
+*** SUMMARY ***
+Total pot 20338 | Rake 1119 
+Board [5h 8h Ks 5c 7h]
+Seat 1: KsRaptor1971 showed [5s Ac] and won (19219) with three of a kind, Fives
+Seat 2: ignacio0256 folded before Flop
+Seat 3: pablo_84_par showed [Kc 6c] and lost with two pair, Kings and Fives
+Seat 4: lawlex_2 (button) folded on the Flop
+Seat 5: Bennnar (small blind) folded on the Flop
+Seat 6: AceFoxKP479 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #212991177840:  Hold'em No Limit (50/100) - 2020/04/30 13:50:07 MSK [2020/04/30 6:50:07 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #5 is the button
+Seat 1: KsRaptor1971 (62474 in chips) 
+Seat 2: ignacio0256 (8557 in chips) 
+Seat 4: lawlex_2 (10707 in chips) 
+Seat 5: Bennnar (10327 in chips) 
+Seat 6: AceFoxKP479 (9449 in chips) 
+AceFoxKP479: posts small blind 50
+KsRaptor1971: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 3c]
+ignacio0256: calls 100
+lawlex_2: folds 
+Bennnar: folds 
+AceFoxKP479: calls 50
+KsRaptor1971: checks 
+*** FLOP *** [4s 7d 8c]
+AceFoxKP479: checks 
+KsRaptor1971: bets 100
+ignacio0256: raises 1900 to 2000
+AceFoxKP479: folds 
+KsRaptor1971: folds 
+Uncalled bet (1900) returned to ignacio0256
+ignacio0256 collected 472 from pot
+ignacio0256: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 28 
+Board [4s 7d 8c]
+Seat 1: KsRaptor1971 (big blind) folded on the Flop
+Seat 2: ignacio0256 collected (472)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bennnar (button) folded before Flop (didn't bet)
+Seat 6: AceFoxKP479 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #212991201873:  Hold'em No Limit (50/100) - 2020/04/30 13:50:56 MSK [2020/04/30 6:50:56 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #6 is the button
+Seat 1: KsRaptor1971 (62274 in chips) 
+Seat 2: ignacio0256 (8829 in chips) 
+Seat 3: pablo_84_par (10000 in chips) 
+Seat 4: lawlex_2 (10707 in chips) 
+Seat 5: Bennnar (10327 in chips) 
+Seat 6: AceFoxKP479 (9349 in chips) 
+KsRaptor1971: posts small blind 50
+ignacio0256: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 3c]
+pablo_84_par: calls 100
+lawlex_2: folds 
+Bennnar: calls 100
+AceFoxKP479: calls 100
+KsRaptor1971: calls 50
+ignacio0256: checks 
+*** FLOP *** [7s Ah Ac]
+KsRaptor1971: checks 
+ignacio0256: checks 
+pablo_84_par: checks 
+Bennnar: checks 
+AceFoxKP479: checks 
+*** TURN *** [7s Ah Ac] [2d]
+KsRaptor1971: checks 
+ignacio0256: checks 
+pablo_84_par: checks 
+Bennnar: checks 
+AceFoxKP479: bets 200
+KsRaptor1971: folds 
+ignacio0256: folds 
+pablo_84_par: calls 200
+Bennnar: folds 
+*** RIVER *** [7s Ah Ac 2d] [7h]
+pablo_84_par: checks 
+AceFoxKP479: bets 300
+pablo_84_par: calls 300
+*** SHOW DOWN ***
+AceFoxKP479: shows [2s 2c] (a full house, Deuces full of Aces)
+pablo_84_par: mucks hand 
+AceFoxKP479 collected 1417 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 83 
+Board [7s Ah Ac 2d 7h]
+Seat 1: KsRaptor1971 (small blind) folded on the Turn
+Seat 2: ignacio0256 (big blind) folded on the Turn
+Seat 3: pablo_84_par mucked [Jh Th]
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bennnar folded on the Turn
+Seat 6: AceFoxKP479 (button) showed [2s 2c] and won (1417) with a full house, Deuces full of Aces
+
+
+
+PokerStars Hand #212991241471:  Hold'em No Limit (50/100) - 2020/04/30 13:52:17 MSK [2020/04/30 6:52:17 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #1 is the button
+Seat 1: KsRaptor1971 (62174 in chips) 
+Seat 2: ignacio0256 (8729 in chips) 
+Seat 3: pablo_84_par (9400 in chips) 
+Seat 4: lawlex_2 (10707 in chips) 
+Seat 5: Bennnar (10227 in chips) 
+Seat 6: AceFoxKP479 (10166 in chips) 
+ignacio0256: posts small blind 50
+pablo_84_par: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 6s]
+lawlex_2: folds 
+Bennnar: folds 
+AceFoxKP479: calls 100
+KsRaptor1971: calls 100
+ignacio0256: calls 50
+pablo_84_par: checks 
+*** FLOP *** [Ts 3s As]
+ignacio0256: checks 
+pablo_84_par: checks 
+AceFoxKP479: checks 
+KsRaptor1971: bets 100
+ignacio0256: calls 100
+pablo_84_par: folds 
+AceFoxKP479: calls 100
+*** TURN *** [Ts 3s As] [8d]
+ignacio0256: checks 
+AceFoxKP479: checks 
+KsRaptor1971: bets 100
+ignacio0256: calls 100
+AceFoxKP479: calls 100
+*** RIVER *** [Ts 3s As 8d] [Tc]
+ignacio0256: bets 100
+AceFoxKP479: folds 
+KsRaptor1971: calls 100
+*** SHOW DOWN ***
+ignacio0256: shows [Jd 8c] (two pair, Tens and Eights)
+KsRaptor1971: mucks hand 
+ignacio0256 collected 1134 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 66 
+Board [Ts 3s As 8d Tc]
+Seat 1: KsRaptor1971 (button) mucked [5c 3d]
+Seat 2: ignacio0256 (small blind) showed [Jd 8c] and won (1134) with two pair, Tens and Eights
+Seat 3: pablo_84_par (big blind) folded on the Flop
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 5: Bennnar folded before Flop (didn't bet)
+Seat 6: AceFoxKP479 folded on the River
+
+
+
+PokerStars Hand #212991272115:  Hold'em No Limit (50/100) - 2020/04/30 13:53:20 MSK [2020/04/30 6:53:20 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #2 is the button
+Seat 1: KsRaptor1971 (61774 in chips) 
+Seat 2: ignacio0256 (9463 in chips) 
+Seat 3: pablo_84_par (9300 in chips) 
+Seat 4: lawlex_2 (10707 in chips) 
+Seat 5: Bennnar (10227 in chips) 
+Seat 6: AceFoxKP479 (9866 in chips) 
+pablo_84_par: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 5h]
+Bennnar: calls 100
+AceFoxKP479: calls 100
+KsRaptor1971: calls 100
+ignacio0256: folds 
+pablo_84_par: calls 50
+lawlex_2: checks 
+*** FLOP *** [Kh 7s Ac]
+pablo_84_par: checks 
+lawlex_2: checks 
+Bennnar: checks 
+AceFoxKP479: checks 
+KsRaptor1971: bets 472
+pablo_84_par: folds 
+lawlex_2: folds 
+Bennnar: folds 
+AceFoxKP479: folds 
+Uncalled bet (472) returned to KsRaptor1971
+KsRaptor1971 collected 472 from pot
+KsRaptor1971: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 28 
+Board [Kh 7s Ac]
+Seat 1: KsRaptor1971 collected (472)
+Seat 2: ignacio0256 (button) folded before Flop (didn't bet)
+Seat 3: pablo_84_par (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: Bennnar folded on the Flop
+Seat 6: AceFoxKP479 folded on the Flop
+
+
+
+PokerStars Hand #212991299456:  Hold'em No Limit (50/100) - 2020/04/30 13:54:15 MSK [2020/04/30 6:54:15 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #3 is the button
+Seat 1: KsRaptor1971 (62146 in chips) 
+Seat 2: ignacio0256 (9463 in chips) 
+Seat 3: pablo_84_par (9200 in chips) 
+Seat 4: lawlex_2 (10607 in chips) 
+Seat 5: Bennnar (10127 in chips) 
+Seat 6: AceFoxKP479 (9766 in chips) 
+lawlex_2: posts small blind 50
+Bennnar: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 3c]
+AceFoxKP479: calls 100
+KsRaptor1971: raises 350 to 450
+ignacio0256: calls 450
+pablo_84_par: folds 
+lawlex_2: folds 
+Bennnar: calls 350
+AceFoxKP479: calls 350
+*** FLOP *** [Jc Td Qs]
+Bennnar: checks 
+AceFoxKP479: checks 
+KsRaptor1971: bets 1748
+ignacio0256: calls 1748
+Bennnar: folds 
+AceFoxKP479: folds 
+*** TURN *** [Jc Td Qs] [4d]
+KsRaptor1971: bets 5052
+ignacio0256: raises 2213 to 7265 and is all-in
+KsRaptor1971: calls 2213
+*** RIVER *** [Jc Td Qs 4d] [7s]
+*** SHOW DOWN ***
+KsRaptor1971: shows [Ah Qh] (a pair of Queens)
+ignacio0256: shows [2c As] (high card Ace)
+KsRaptor1971 collected 18783 from pot
+*** SUMMARY ***
+Total pot 19876 | Rake 1093 
+Board [Jc Td Qs 4d 7s]
+Seat 1: KsRaptor1971 showed [Ah Qh] and won (18783) with a pair of Queens
+Seat 2: ignacio0256 showed [2c As] and lost with high card Ace
+Seat 3: pablo_84_par (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bennnar (big blind) folded on the Flop
+Seat 6: AceFoxKP479 folded on the Flop
+
+
+
+PokerStars Hand #212991338619:  Hold'em No Limit (50/100) - 2020/04/30 13:55:41 MSK [2020/04/30 6:55:41 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #4 is the button
+Seat 1: KsRaptor1971 (71466 in chips) 
+Seat 3: pablo_84_par (9200 in chips) 
+Seat 4: lawlex_2 (10557 in chips) 
+Seat 5: Bennnar (9677 in chips) 
+Seat 6: AceFoxKP479 (9316 in chips) 
+Bennnar: posts small blind 50
+AceFoxKP479: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Jd]
+KsRaptor1971: calls 100
+pablo_84_par: calls 100
+ignacio0256 leaves the table
+lawlex_2: raises 200 to 300
+Bennnar: calls 250
+AceFoxKP479: calls 200
+KsRaptor1971: calls 200
+pablo_84_par: calls 200
+*** FLOP *** [Jc 5h 6c]
+Bennnar: checks 
+Swaino98 joins the table at seat #2 
+AceFoxKP479: checks 
+KsRaptor1971: checks 
+pablo_84_par: checks 
+lawlex_2: checks 
+*** TURN *** [Jc 5h 6c] [4s]
+Bennnar: checks 
+AceFoxKP479: checks 
+KsRaptor1971: bets 1417
+pablo_84_par: folds 
+lawlex_2: calls 1417
+Swaino98 leaves the table
+Swaino98 joins the table at seat #2 
+Swaino98 leaves the table
+Bennnar has timed out
+Bennnar: folds 
+AceFoxKP479: folds 
+*** RIVER *** [Jc 5h 6c 4s] [9c]
+KsRaptor1971: bets 4096
+Skorpion G50 joins the table at seat #2 
+lawlex_2: calls 4096
+*** SHOW DOWN ***
+KsRaptor1971: shows [6h Js] (two pair, Jacks and Sixes)
+lawlex_2: shows [Jh Jd] (three of a kind, Jacks)
+lawlex_2 collected 11837 from pot
+*** SUMMARY ***
+Total pot 12526 | Rake 689 
+Board [Jc 5h 6c 4s 9c]
+Seat 1: KsRaptor1971 showed [6h Js] and lost with two pair, Jacks and Sixes
+Seat 3: pablo_84_par folded on the Turn
+Seat 4: lawlex_2 (button) showed [Jh Jd] and won (11837) with three of a kind, Jacks
+Seat 5: Bennnar (small blind) folded on the Turn
+Seat 6: AceFoxKP479 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #212991381932:  Hold'em No Limit (50/100) - 2020/04/30 13:57:22 MSK [2020/04/30 6:57:22 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #6 is the button
+Seat 1: KsRaptor1971 (65653 in chips) 
+Seat 2: Skorpion G50 (10000 in chips) 
+Seat 3: pablo_84_par (8900 in chips) 
+Seat 4: lawlex_2 (16581 in chips) 
+Seat 6: AceFoxKP479 (9016 in chips) 
+KsRaptor1971: posts small blind 50
+Skorpion G50: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 9s]
+pablo_84_par: calls 100
+lawlex_2: raises 200 to 300
+AceFoxKP479: calls 300
+KsRaptor1971: raises 4600 to 4900
+Skorpion G50: calls 4800
+pablo_84_par: folds 
+lawlex_2: folds 
+AceFoxKP479: folds 
+*** FLOP *** [8c 3d Qd]
+KsRaptor1971: bets 9922
+Skorpion G50: calls 5100 and is all-in
+Uncalled bet (4822) returned to KsRaptor1971
+*** TURN *** [8c 3d Qd] [4s]
+*** RIVER *** [8c 3d Qd 4s] [Qs]
+*** SHOW DOWN ***
+KsRaptor1971: shows [Kc Ks] (two pair, Kings and Queens)
+Skorpion G50: shows [As 4d] (two pair, Queens and Fours)
+KsRaptor1971 collected 19561 from pot
+*** SUMMARY ***
+Total pot 20700 | Rake 1139 
+Board [8c 3d Qd 4s Qs]
+Seat 1: KsRaptor1971 (small blind) showed [Kc Ks] and won (19561) with two pair, Kings and Queens
+Seat 2: Skorpion G50 (big blind) showed [As 4d] and lost with two pair, Queens and Fours
+Seat 3: pablo_84_par folded before Flop
+Seat 4: lawlex_2 folded before Flop
+Seat 6: AceFoxKP479 (button) folded before Flop
+
+
+
+PokerStars Hand #212991403698:  Hold'em No Limit (50/100) - 2020/04/30 13:58:13 MSK [2020/04/30 6:58:13 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #1 is the button
+Seat 1: KsRaptor1971 (75214 in chips) 
+Seat 3: pablo_84_par (8800 in chips) 
+Seat 4: lawlex_2 (16281 in chips) 
+Seat 5: Bennnar (9377 in chips) 
+Seat 6: AceFoxKP479 (8716 in chips) 
+pablo_84_par: posts small blind 50
+Skorpion G50 leaves the table
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 4s]
+2_takethepot joins the table at seat #2 
+Bennnar: calls 100
+AceFoxKP479: calls 100
+KsRaptor1971: raises 450 to 550
+pablo_84_par: calls 500
+lawlex_2: folds 
+Bennnar: calls 450
+AceFoxKP479: folds 
+*** FLOP *** [Kd 4d 3h]
+pablo_84_par: checks 
+Bennnar: checks 
+KsRaptor1971: checks 
+*** TURN *** [Kd 4d 3h] [7c]
+pablo_84_par: bets 1748
+Bennnar: folds 
+KsRaptor1971: folds 
+Uncalled bet (1748) returned to pablo_84_par
+pablo_84_par collected 1748 from pot
+*** SUMMARY ***
+Total pot 1850 | Rake 102 
+Board [Kd 4d 3h 7c]
+Seat 1: KsRaptor1971 (button) folded on the Turn
+Seat 3: pablo_84_par (small blind) collected (1748)
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 5: Bennnar folded on the Turn
+Seat 6: AceFoxKP479 folded before Flop
+
+
+
+PokerStars Hand #212991425747:  Hold'em No Limit (50/100) - 2020/04/30 13:59:04 MSK [2020/04/30 6:59:04 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #3 is the button
+Seat 1: KsRaptor1971 (74664 in chips) 
+Seat 2: 2_takethepot (10000 in chips) 
+Seat 3: pablo_84_par (9998 in chips) 
+Seat 4: lawlex_2 (16181 in chips) 
+Seat 5: Bennnar (8827 in chips) 
+Seat 6: AceFoxKP479 (8616 in chips) 
+lawlex_2: posts small blind 50
+Bennnar: posts big blind 100
+2_takethepot: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 2d]
+AceFoxKP479: calls 100
+KsRaptor1971: raises 450 to 550
+2_takethepot: calls 450
+pablo_84_par: calls 550
+lawlex_2: folds 
+Bennnar: folds 
+AceFoxKP479: calls 450
+*** FLOP *** [5d 4s 9d]
+AceFoxKP479: checks 
+KsRaptor1971: checks 
+2_takethepot: checks 
+pablo_84_par: checks 
+*** TURN *** [5d 4s 9d] [Kc]
+AceFoxKP479: checks 
+KsRaptor1971: bets 1110
+2_takethepot: folds 
+pablo_84_par: folds 
+AceFoxKP479: calls 1110
+*** RIVER *** [5d 4s 9d Kc] [Qh]
+AceFoxKP479: checks 
+KsRaptor1971: bets 2159
+AceFoxKP479: calls 2159
+*** SHOW DOWN ***
+KsRaptor1971: shows [Ks 2c] (a pair of Kings)
+AceFoxKP479: shows [7h Kd] (a pair of Kings - Queen+Nine+Seven kicker)
+AceFoxKP479 collected 8399 from pot
+*** SUMMARY ***
+Total pot 8888 | Rake 489 
+Board [5d 4s 9d Kc Qh]
+Seat 1: KsRaptor1971 showed [Ks 2c] and lost with a pair of Kings
+Seat 2: 2_takethepot folded on the Turn
+Seat 3: pablo_84_par (button) folded on the Turn
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 5: Bennnar (big blind) folded before Flop
+Seat 6: AceFoxKP479 showed [7h Kd] and won (8399) with a pair of Kings
+
+
+
+PokerStars Hand #212991455579:  Hold'em No Limit (50/100) - 2020/04/30 14:00:12 MSK [2020/04/30 7:00:12 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #4 is the button
+Seat 1: KsRaptor1971 (70845 in chips) 
+Seat 2: 2_takethepot (9450 in chips) 
+Seat 3: pablo_84_par (9448 in chips) 
+Seat 4: lawlex_2 (16131 in chips) 
+Seat 5: Bennnar (8727 in chips) 
+Seat 6: AceFoxKP479 (13196 in chips) 
+Bennnar: posts small blind 50
+AceFoxKP479: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Kc]
+KsRaptor1971: calls 100
+2_takethepot: calls 100
+pablo_84_par: calls 100
+lawlex_2: folds 
+Bennnar: folds 
+AceFoxKP479: checks 
+*** FLOP *** [Qh 7d 5c]
+Bennnar leaves the table
+AceFoxKP479: checks 
+KsRaptor1971: checks 
+2_takethepot: checks 
+FreeCards4J0 joins the table at seat #5 
+pablo_84_par: checks 
+*** TURN *** [Qh 7d 5c] [6h]
+AceFoxKP479: checks 
+KsRaptor1971: checks 
+2_takethepot: checks 
+pablo_84_par: checks 
+*** RIVER *** [Qh 7d 5c 6h] [4c]
+AceFoxKP479: checks 
+KsRaptor1971: checks 
+2_takethepot: checks 
+pablo_84_par: checks 
+*** SHOW DOWN ***
+AceFoxKP479: shows [Ah As] (a pair of Aces)
+KsRaptor1971: mucks hand 
+2_takethepot: mucks hand 
+pablo_84_par: mucks hand 
+AceFoxKP479 collected 425 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 25 
+Board [Qh 7d 5c 6h 4c]
+Seat 1: KsRaptor1971 mucked [Ts 2s]
+Seat 2: 2_takethepot mucked [Kd 9h]
+Seat 3: pablo_84_par mucked [7c Ks]
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: Bennnar (small blind) folded before Flop
+Seat 6: AceFoxKP479 (big blind) showed [Ah As] and won (425) with a pair of Aces
+
+
+
+PokerStars Hand #212991481387:  Hold'em No Limit (50/100) - 2020/04/30 14:01:08 MSK [2020/04/30 7:01:08 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #6 is the button
+Seat 1: KsRaptor1971 (70745 in chips) 
+Seat 2: 2_takethepot (9350 in chips) 
+Seat 3: pablo_84_par (9348 in chips) 
+Seat 4: lawlex_2 (16131 in chips) 
+Seat 5: FreeCards4J0 (10000 in chips) 
+Seat 6: AceFoxKP479 (13521 in chips) 
+KsRaptor1971: posts small blind 50
+2_takethepot: posts big blind 100
+FreeCards4J0: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 8d]
+pablo_84_par: calls 100
+lawlex_2: calls 100
+FreeCards4J0: checks 
+AceFoxKP479: calls 100
+KsRaptor1971: calls 50
+2_takethepot: checks 
+*** FLOP *** [Kc As Th]
+KsRaptor1971: bets 100
+2_takethepot: calls 100
+pablo_84_par: calls 100
+lawlex_2: calls 100
+FreeCards4J0: folds 
+AceFoxKP479: calls 100
+*** TURN *** [Kc As Th] [3d]
+KsRaptor1971: bets 100
+2_takethepot: calls 100
+pablo_84_par: calls 100
+lawlex_2: calls 100
+AceFoxKP479: calls 100
+*** RIVER *** [Kc As Th 3d] [7c]
+KsRaptor1971: bets 100
+2_takethepot: folds 
+pablo_84_par: raises 1712 to 1812
+lawlex_2: folds 
+AceFoxKP479: folds 
+KsRaptor1971: folds 
+Uncalled bet (1712) returned to pablo_84_par
+pablo_84_par collected 1701 from pot
+*** SUMMARY ***
+Total pot 1800 | Rake 99 
+Board [Kc As Th 3d 7c]
+Seat 1: KsRaptor1971 (small blind) folded on the River
+Seat 2: 2_takethepot (big blind) folded on the River
+Seat 3: pablo_84_par collected (1701)
+Seat 4: lawlex_2 folded on the River
+Seat 5: FreeCards4J0 folded on the Flop (didn't bet)
+Seat 6: AceFoxKP479 (button) folded on the River
+
+
+
+PokerStars Hand #212991519358:  Hold'em No Limit (50/100) - 2020/04/30 14:02:25 MSK [2020/04/30 7:02:25 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #1 is the button
+Seat 1: KsRaptor1971 (70345 in chips) 
+Seat 2: 2_takethepot (9050 in chips) 
+Seat 3: pablo_84_par (10649 in chips) 
+Seat 4: lawlex_2 (15831 in chips) 
+Seat 5: FreeCards4J0 (9900 in chips) 
+Seat 6: AceFoxKP479 (13221 in chips) 
+2_takethepot: posts small blind 50
+pablo_84_par: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Qd]
+lawlex_2: raises 200 to 300
+FreeCards4J0: raises 400 to 700
+AceFoxKP479: folds 
+KsRaptor1971: calls 700
+2_takethepot: folds 
+pablo_84_par: raises 2450 to 3150
+lawlex_2: folds 
+FreeCards4J0: calls 2450
+KsRaptor1971: calls 2450
+*** FLOP *** [Kd Jc As]
+pablo_84_par: bets 7499 and is all-in
+FreeCards4J0: calls 6750 and is all-in
+KsRaptor1971: calls 7499
+*** TURN *** [Kd Jc As] [6s]
+*** RIVER *** [Kd Jc As 6s] [Qc]
+*** SHOW DOWN ***
+pablo_84_par: shows [Qs Ac] (two pair, Aces and Queens)
+KsRaptor1971: shows [8h Kh] (a pair of Kings)
+pablo_84_par collected 1416 from side pot
+FreeCards4J0: shows [Js 8c] (a pair of Jacks)
+pablo_84_par collected 28397 from main pot
+*** SUMMARY ***
+Total pot 31548 Main pot 28397. Side pot 1416. | Rake 1735 
+Board [Kd Jc As 6s Qc]
+Seat 1: KsRaptor1971 (button) showed [8h Kh] and lost with a pair of Kings
+Seat 2: 2_takethepot (small blind) folded before Flop
+Seat 3: pablo_84_par (big blind) showed [Qs Ac] and won (29813) with two pair, Aces and Queens
+Seat 4: lawlex_2 folded before Flop
+Seat 5: FreeCards4J0 showed [Js 8c] and lost with a pair of Jacks
+Seat 6: AceFoxKP479 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212991543846:  Hold'em No Limit (50/100) - 2020/04/30 14:03:14 MSK [2020/04/30 7:03:14 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #2 is the button
+Seat 1: KsRaptor1971 (59696 in chips) 
+Seat 2: 2_takethepot (9000 in chips) 
+Seat 3: pablo_84_par (29813 in chips) 
+Seat 4: lawlex_2 (15531 in chips) 
+Seat 6: AceFoxKP479 (13221 in chips) 
+pablo_84_par: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Td]
+AceFoxKP479: calls 100
+KsRaptor1971: folds 
+KsRaptor1971 leaves the table
+2_takethepot: calls 100
+pablo_84_par: folds 
+lawlex_2: checks 
+*** FLOP *** [9s 5c Js]
+DRAGON7111 joins the table at seat #1 
+lawlex_2: bets 165
+AceFoxKP479: folds 
+2_takethepot: folds 
+Uncalled bet (165) returned to lawlex_2
+lawlex_2 collected 331 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 19 
+Board [9s 5c Js]
+Seat 1: KsRaptor1971 folded before Flop (didn't bet)
+Seat 2: 2_takethepot (button) folded on the Flop
+Seat 3: pablo_84_par (small blind) folded before Flop
+Seat 4: lawlex_2 (big blind) collected (331)
+Seat 6: AceFoxKP479 folded on the Flop
+
+
+
+PokerStars Hand #212991558908:  Hold'em No Limit (50/100) - 2020/04/30 14:03:43 MSK [2020/04/30 7:03:43 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #3 is the button
+Seat 1: DRAGON7111 (10000 in chips) 
+Seat 2: 2_takethepot (8900 in chips) 
+Seat 3: pablo_84_par (29763 in chips) 
+Seat 4: lawlex_2 (15762 in chips) 
+Seat 6: AceFoxKP479 (13121 in chips) 
+lawlex_2: posts small blind 50
+AceFoxKP479: posts big blind 100
+DRAGON7111: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Ts]
+DRAGON7111: checks 
+2_takethepot: calls 100
+pablo_84_par: calls 100
+lawlex_2: raises 200 to 300
+AceFoxKP479: calls 200
+DRAGON7111: raises 9700 to 10000 and is all-in
+2_takethepot: calls 8800 and is all-in
+pablo_84_par: folds 
+lawlex_2: folds 
+AceFoxKP479: folds 
+Uncalled bet (1100) returned to DRAGON7111
+*** FLOP *** [As 6h Qd]
+*** TURN *** [As 6h Qd] [7h]
+*** RIVER *** [As 6h Qd 7h] [Kd]
+*** SHOW DOWN ***
+DRAGON7111: shows [Ah 6c] (two pair, Aces and Sixes)
+2_takethepot: shows [Qs 9c] (a pair of Queens)
+DRAGON7111 collected 17482 from pot
+*** SUMMARY ***
+Total pot 18500 | Rake 1018 
+Board [As 6h Qd 7h Kd]
+Seat 1: DRAGON7111 showed [Ah 6c] and won (17482) with two pair, Aces and Sixes
+Seat 2: 2_takethepot showed [Qs 9c] and lost with a pair of Queens
+Seat 3: pablo_84_par (button) folded before Flop
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 6: AceFoxKP479 (big blind) folded before Flop
+
+
+
+PokerStars Hand #212991575584:  Hold'em No Limit (50/100) - 2020/04/30 14:04:16 MSK [2020/04/30 7:04:16 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #4 is the button
+Seat 1: DRAGON7111 (18582 in chips) 
+Seat 3: pablo_84_par (29663 in chips) 
+Seat 4: lawlex_2 (15462 in chips) 
+Seat 6: AceFoxKP479 (12821 in chips) 
+AceFoxKP479: posts small blind 50
+DRAGON7111: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 3c]
+pablo_84_par: folds 
+lawlex_2: folds 
+AceFoxKP479: calls 50
+DRAGON7111: checks 
+*** FLOP *** [7c 8c 8d]
+FreeCards4J0 leaves the table
+AceFoxKP479: checks 
+DRAGON7111: bets 700
+AceFoxKP479: folds 
+Uncalled bet (700) returned to DRAGON7111
+DRAGON7111 collected 189 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 11 
+Board [7c 8c 8d]
+Seat 1: DRAGON7111 (big blind) collected (189)
+Seat 3: pablo_84_par folded before Flop (didn't bet)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: AceFoxKP479 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #212991587726:  Hold'em No Limit (50/100) - 2020/04/30 14:04:40 MSK [2020/04/30 7:04:40 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #6 is the button
+Seat 1: DRAGON7111 (18671 in chips) 
+Seat 3: pablo_84_par (29663 in chips) 
+Seat 4: lawlex_2 (15462 in chips) 
+Seat 6: AceFoxKP479 (12721 in chips) 
+DRAGON7111: posts small blind 50
+pablo_84_par: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 6s]
+lawlex_2: calls 100
+AceFoxKP479: calls 100
+DRAGON7111: raises 400 to 500
+podagra65 joins the table at seat #5 
+pablo_84_par: calls 400
+lawlex_2: calls 400
+AceFoxKP479: calls 400
+*** FLOP *** [8h Th Js]
+DRAGON7111: checks 
+pablo_84_par: bets 1890
+lawlex_2: folds 
+AceFoxKP479: folds 
+DRAGON7111: calls 1890
+*** TURN *** [8h Th Js] [Jh]
+DRAGON7111: bets 100
+pablo_84_par: calls 100
+*** RIVER *** [8h Th Js Jh] [4c]
+DRAGON7111: bets 100
+pablo_84_par: calls 100
+*** SHOW DOWN ***
+DRAGON7111: shows [6d As] (a pair of Jacks)
+pablo_84_par: shows [Jc Ac] (three of a kind, Jacks)
+pablo_84_par collected 5840 from pot
+*** SUMMARY ***
+Total pot 6180 | Rake 340 
+Board [8h Th Js Jh 4c]
+Seat 1: DRAGON7111 (small blind) showed [6d As] and lost with a pair of Jacks
+Seat 3: pablo_84_par (big blind) showed [Jc Ac] and won (5840) with three of a kind, Jacks
+Seat 4: lawlex_2 folded on the Flop
+Seat 6: AceFoxKP479 (button) folded on the Flop
+
+
+
+PokerStars Hand #212991613742:  Hold'em No Limit (50/100) - 2020/04/30 14:05:32 MSK [2020/04/30 7:05:32 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #1 is the button
+Seat 1: DRAGON7111 (16081 in chips) 
+Seat 3: pablo_84_par (32913 in chips) 
+Seat 4: lawlex_2 (14962 in chips) 
+Seat 6: AceFoxKP479 (12221 in chips) 
+pablo_84_par: posts small blind 50
+lawlex_2: posts big blind 100
+podagra65 is disconnected 
+podagra65 has timed out while disconnected
+podagra65: is sitting out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 6h]
+AceFoxKP479: calls 100
+DRAGON7111: raises 100 to 200
+pablo_84_par: raises 600 to 800
+lawlex_2: folds 
+AceFoxKP479: folds 
+DRAGON7111: calls 600
+*** FLOP *** [3h Qh 5c]
+pablo_84_par: bets 100
+DRAGON7111: calls 100
+*** TURN *** [3h Qh 5c] [Qd]
+pablo_84_par: bets 100
+DRAGON7111: raises 1000 to 1100
+pablo_84_par: calls 1000
+*** RIVER *** [3h Qh 5c Qd] [6d]
+pablo_84_par: bets 100
+DRAGON7111: raises 2100 to 2200
+pablo_84_par: folds 
+Uncalled bet (2100) returned to DRAGON7111
+DRAGON7111 collected 4158 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 242 
+Board [3h Qh 5c Qd 6d]
+Seat 1: DRAGON7111 (button) collected (4158)
+Seat 3: pablo_84_par (small blind) folded on the River
+Seat 4: lawlex_2 (big blind) folded before Flop
+Seat 6: AceFoxKP479 folded before Flop
+
+
+
+PokerStars Hand #212991641668:  Hold'em No Limit (50/100) - 2020/04/30 14:06:26 MSK [2020/04/30 7:06:26 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #3 is the button
+Seat 1: DRAGON7111 (18139 in chips) 
+Seat 2: 2_takethepot (10000 in chips) 
+Seat 3: pablo_84_par (30813 in chips) 
+Seat 4: lawlex_2 (14862 in chips) 
+Seat 5: podagra65 (10000 in chips) 
+Seat 6: AceFoxKP479 (12121 in chips) 
+lawlex_2: posts small blind 50
+podagra65: posts big blind 100
+2_takethepot: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Ks]
+AceFoxKP479: calls 100
+DRAGON7111: calls 100
+2_takethepot: checks 
+pablo_84_par: folds 
+lawlex_2: calls 50
+podagra65: checks 
+*** FLOP *** [Js 5s 3c]
+lawlex_2: checks 
+podagra65: checks 
+AceFoxKP479: checks 
+DRAGON7111: checks 
+2_takethepot: checks 
+*** TURN *** [Js 5s 3c] [2c]
+lawlex_2: checks 
+podagra65: checks 
+AceFoxKP479: checks 
+DRAGON7111: checks 
+2_takethepot: checks 
+*** RIVER *** [Js 5s 3c 2c] [Jd]
+lawlex_2: checks 
+podagra65: checks 
+AceFoxKP479: checks 
+DRAGON7111: checks 
+2_takethepot: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [8h Ks] (a pair of Jacks)
+podagra65: shows [3h 6s] (two pair, Jacks and Threes)
+AceFoxKP479: shows [As 8d] (a pair of Jacks)
+DRAGON7111: mucks hand 
+2_takethepot: shows [8c Qh] (a pair of Jacks)
+podagra65 collected 520 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 30 
+Board [Js 5s 3c 2c Jd]
+Seat 1: DRAGON7111 mucked [7h Kd]
+Seat 2: 2_takethepot showed [8c Qh] and lost with a pair of Jacks
+Seat 3: pablo_84_par (button) folded before Flop (didn't bet)
+Seat 4: lawlex_2 (small blind) showed [8h Ks] and lost with a pair of Jacks
+Seat 5: podagra65 (big blind) showed [3h 6s] and won (520) with two pair, Jacks and Threes
+Seat 6: AceFoxKP479 showed [As 8d] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #212991671219:  Hold'em No Limit (50/100) - 2020/04/30 14:07:25 MSK [2020/04/30 7:07:25 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #4 is the button
+Seat 1: DRAGON7111 (18039 in chips) 
+Seat 2: 2_takethepot (9850 in chips) 
+Seat 3: pablo_84_par (30813 in chips) 
+Seat 4: lawlex_2 (14762 in chips) 
+Seat 5: podagra65 (10420 in chips) 
+Seat 6: AceFoxKP479 (12021 in chips) 
+podagra65: posts small blind 50
+AceFoxKP479: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Jh]
+DRAGON7111: calls 100
+2_takethepot: calls 100
+pablo_84_par: calls 100
+lawlex_2: folds 
+podagra65: calls 50
+AceFoxKP479: checks 
+*** FLOP *** [9d 9c Qh]
+podagra65: checks 
+AceFoxKP479: checks 
+DRAGON7111: bets 1500
+2_takethepot: folds 
+pablo_84_par: raises 3472 to 4972
+podagra65: folds 
+AceFoxKP479: folds 
+DRAGON7111: raises 12967 to 17939 and is all-in
+pablo_84_par: calls 12967
+*** TURN *** [9d 9c Qh] [8h]
+*** RIVER *** [9d 9c Qh 8h] [5c]
+*** SHOW DOWN ***
+DRAGON7111: shows [Ac Qc] (two pair, Queens and Nines)
+pablo_84_par: shows [Jd 9h] (three of a kind, Nines)
+pablo_84_par collected 34377 from pot
+*** SUMMARY ***
+Total pot 36378 | Rake 2001 
+Board [9d 9c Qh 8h 5c]
+Seat 1: DRAGON7111 showed [Ac Qc] and lost with two pair, Queens and Nines
+Seat 2: 2_takethepot folded on the Flop
+Seat 3: pablo_84_par showed [Jd 9h] and won (34377) with three of a kind, Nines
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: podagra65 (small blind) folded on the Flop
+Seat 6: AceFoxKP479 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #212991699980:  Hold'em No Limit (50/100) - 2020/04/30 14:08:22 MSK [2020/04/30 7:08:22 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #5 is the button
+Seat 2: 2_takethepot (9750 in chips) 
+Seat 3: pablo_84_par (47151 in chips) 
+Seat 4: lawlex_2 (14762 in chips) 
+Seat 5: podagra65 (10320 in chips) 
+Seat 6: AceFoxKP479 (11921 in chips) 
+AceFoxKP479: posts small blind 50
+2_takethepot: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Ad]
+pablo_84_par: calls 100
+lawlex_2: calls 100
+podagra65: calls 100
+AceFoxKP479: folds 
+2_takethepot: raises 9650 to 9750 and is all-in
+pablo_84_par: calls 9650
+lawlex_2: folds 
+podagra65: folds 
+*** FLOP *** [Ks Th 4h]
+*** TURN *** [Ks Th 4h] [7h]
+*** RIVER *** [Ks Th 4h 7h] [6s]
+*** SHOW DOWN ***
+2_takethepot: shows [Ah Kd] (a pair of Kings)
+pablo_84_par: shows [Qc 9d] (high card King)
+2_takethepot collected 18664 from pot
+*** SUMMARY ***
+Total pot 19750 | Rake 1086 
+Board [Ks Th 4h 7h 6s]
+Seat 2: 2_takethepot (big blind) showed [Ah Kd] and won (18664) with a pair of Kings
+Seat 3: pablo_84_par showed [Qc 9d] and lost with high card King
+Seat 4: lawlex_2 folded before Flop
+Seat 5: podagra65 (button) folded before Flop
+Seat 6: AceFoxKP479 (small blind) folded before Flop
+
+
+
+PokerStars Hand #212991720307:  Hold'em No Limit (50/100) - 2020/04/30 14:09:02 MSK [2020/04/30 7:09:02 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #2 is the button
+Seat 2: 2_takethepot (18664 in chips) 
+Seat 3: pablo_84_par (37401 in chips) 
+Seat 4: lawlex_2 (14662 in chips) 
+Seat 5: podagra65 (10220 in chips) 
+pablo_84_par: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Th]
+podagra65: folds 
+2_takethepot: calls 100
+pablo_84_par: calls 50
+lawlex_2: checks 
+*** FLOP *** [3h 4c 6c]
+pablo_84_par: checks 
+lawlex_2: checks 
+2_takethepot: bets 100
+pablo_84_par: folds 
+lawlex_2: calls 100
+*** TURN *** [3h 4c 6c] [Ks]
+pablo_84_par leaves the table
+13MONKFISH joins the table at seat #3 
+lawlex_2: checks 
+2_takethepot: bets 100
+lawlex_2: calls 100
+*** RIVER *** [3h 4c 6c Ks] [2h]
+lawlex_2: checks 
+2_takethepot: bets 100
+lawlex_2: calls 100
+*** SHOW DOWN ***
+2_takethepot: shows [Kc 7c] (a pair of Kings)
+lawlex_2: mucks hand 
+2_takethepot collected 850 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 50 
+Board [3h 4c 6c Ks 2h]
+Seat 2: 2_takethepot (button) showed [Kc 7c] and won (850) with a pair of Kings
+Seat 3: pablo_84_par (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) mucked [3c Th]
+Seat 5: podagra65 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212991749724:  Hold'em No Limit (50/100) - 2020/04/30 14:10:00 MSK [2020/04/30 7:10:00 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #4 is the button
+Seat 2: 2_takethepot (19114 in chips) 
+Seat 3: 13MONKFISH (10000 in chips) 
+Seat 4: lawlex_2 (14262 in chips) 
+Seat 5: podagra65 (10220 in chips) 
+podagra65: posts small blind 50
+2_takethepot: posts big blind 100
+13MONKFISH: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Jh]
+13MONKFISH: raises 200 to 300
+lawlex_2: folds 
+podagra65: folds 
+2_takethepot: calls 200
+*** FLOP *** [9s 6d 8h]
+2_takethepot: checks 
+13MONKFISH: bets 300
+2_takethepot: calls 300
+*** TURN *** [9s 6d 8h] [Ts]
+2_takethepot: checks 
+13MONKFISH: checks 
+*** RIVER *** [9s 6d 8h Ts] [Kd]
+2_takethepot: checks 
+13MONKFISH: checks 
+*** SHOW DOWN ***
+2_takethepot: shows [Qh 9c] (a pair of Nines)
+13MONKFISH: mucks hand 
+2_takethepot collected 1181 from pot
+*** SUMMARY ***
+Total pot 1250 | Rake 69 
+Board [9s 6d 8h Ts Kd]
+Seat 2: 2_takethepot (big blind) showed [Qh 9c] and won (1181) with a pair of Nines
+Seat 3: 13MONKFISH mucked [4d 4c]
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: podagra65 (small blind) folded before Flop
+
+
+
+PokerStars Hand #212991764659:  Hold'em No Limit (50/100) - 2020/04/30 14:10:30 MSK [2020/04/30 7:10:30 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #5 is the button
+Seat 2: 2_takethepot (19695 in chips) 
+Seat 3: 13MONKFISH (9400 in chips) 
+Seat 4: lawlex_2 (14262 in chips) 
+Seat 5: podagra65 (10170 in chips) 
+2_takethepot: posts small blind 50
+13MONKFISH: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Qh]
+lawlex_2: raises 200 to 300
+podagra65: folds 
+2_takethepot: calls 250
+13MONKFISH: calls 200
+*** FLOP *** [Kd 8h 8d]
+2_takethepot: checks 
+13MONKFISH: checks 
+lawlex_2: bets 100
+2_takethepot: folds 
+13MONKFISH: calls 100
+*** TURN *** [Kd 8h 8d] [Qc]
+13MONKFISH: checks 
+lawlex_2: bets 519
+13MONKFISH: calls 519
+*** RIVER *** [Kd 8h 8d Qc] [Th]
+13MONKFISH: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+13MONKFISH: shows [Jd 7d] (a pair of Eights)
+lawlex_2: shows [Js Qh] (two pair, Queens and Eights)
+lawlex_2 collected 2020 from pot
+*** SUMMARY ***
+Total pot 2138 | Rake 118 
+Board [Kd 8h 8d Qc Th]
+Seat 2: 2_takethepot (small blind) folded on the Flop
+Seat 3: 13MONKFISH (big blind) showed [Jd 7d] and lost with a pair of Eights
+Seat 4: lawlex_2 showed [Js Qh] and won (2020) with two pair, Queens and Eights
+Seat 5: podagra65 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212991785017:  Hold'em No Limit (50/100) - 2020/04/30 14:11:09 MSK [2020/04/30 7:11:09 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #2 is the button
+Seat 2: 2_takethepot (19395 in chips) 
+Seat 3: 13MONKFISH (8481 in chips) 
+Seat 4: lawlex_2 (15363 in chips) 
+Seat 5: podagra65 (10170 in chips) 
+13MONKFISH: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 5d]
+podagra65: folds 
+2_takethepot: calls 100
+13MONKFISH: calls 50
+lawlex_2: checks 
+*** FLOP *** [9s Qc 8s]
+13MONKFISH: bets 283
+lawlex_2: folds 
+2_takethepot: calls 283
+*** TURN *** [9s Qc 8s] [6s]
+13MONKFISH: bets 818
+2_takethepot: folds 
+Uncalled bet (818) returned to 13MONKFISH
+13MONKFISH collected 818 from pot
+13MONKFISH: doesn't show hand 
+*** SUMMARY ***
+Total pot 866 | Rake 48 
+Board [9s Qc 8s 6s]
+Seat 2: 2_takethepot (button) folded on the Turn
+Seat 3: 13MONKFISH (small blind) collected (818)
+Seat 4: lawlex_2 (big blind) folded on the Flop
+Seat 5: podagra65 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212991798611:  Hold'em No Limit (50/100) - 2020/04/30 14:11:36 MSK [2020/04/30 7:11:36 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #3 is the button
+Seat 2: 2_takethepot (19012 in chips) 
+Seat 3: 13MONKFISH (8916 in chips) 
+Seat 4: lawlex_2 (15263 in chips) 
+Seat 5: podagra65 (10170 in chips) 
+Seat 6: AceFoxKP479 (11871 in chips) 
+lawlex_2: posts small blind 50
+podagra65: posts big blind 100
+AceFoxKP479: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Ad]
+AceFoxKP479: checks 
+2_takethepot: raises 100 to 200
+13MONKFISH: calls 200
+lawlex_2: calls 150
+podagra65: calls 100
+AceFoxKP479: calls 100
+*** FLOP *** [Ts 2h 2d]
+lawlex_2: bets 100
+podagra65: calls 100
+AceFoxKP479: calls 100
+2_takethepot: calls 100
+13MONKFISH: folds 
+*** TURN *** [Ts 2h 2d] [7s]
+lawlex_2: checks 
+podagra65: checks 
+AceFoxKP479: checks 
+2_takethepot: checks 
+*** RIVER *** [Ts 2h 2d 7s] [9s]
+lawlex_2: checks 
+podagra65: checks 
+AceFoxKP479: checks 
+2_takethepot: bets 100
+lawlex_2: calls 100
+podagra65: folds 
+AceFoxKP479: folds 
+*** SHOW DOWN ***
+2_takethepot: shows [Th As] (two pair, Tens and Deuces)
+lawlex_2: mucks hand 
+2_takethepot collected 1559 from pot
+*** SUMMARY ***
+Total pot 1650 | Rake 91 
+Board [Ts 2h 2d 7s 9s]
+Seat 2: 2_takethepot showed [Th As] and won (1559) with two pair, Tens and Deuces
+Seat 3: 13MONKFISH (button) folded on the Flop
+Seat 4: lawlex_2 (small blind) mucked [Kc Ad]
+Seat 5: podagra65 (big blind) folded on the River
+Seat 6: AceFoxKP479 folded on the River
+
+
+
+PokerStars Hand #212991833970:  Hold'em No Limit (50/100) - 2020/04/30 14:12:45 MSK [2020/04/30 7:12:45 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #4 is the button
+Seat 2: 2_takethepot (20171 in chips) 
+Seat 3: 13MONKFISH (8716 in chips) 
+Seat 4: lawlex_2 (14863 in chips) 
+Seat 5: podagra65 (9870 in chips) 
+Seat 6: AceFoxKP479 (11521 in chips) 
+podagra65: posts small blind 50
+AceFoxKP479: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 2c]
+2_takethepot: calls 100
+13MONKFISH: raises 400 to 500
+lawlex_2: folds 
+podagra65: calls 450
+AceFoxKP479: calls 400
+2_takethepot: calls 400
+*** FLOP *** [4h Kc 8h]
+podagra65: checks 
+AceFoxKP479: checks 
+2_takethepot: checks 
+13MONKFISH: bets 500
+podagra65: calls 500
+AceFoxKP479: calls 500
+2_takethepot: calls 500
+*** TURN *** [4h Kc 8h] [5s]
+podagra65: checks 
+AceFoxKP479: checks 
+2_takethepot: checks 
+13MONKFISH: bets 2090
+podagra65: folds 
+AceFoxKP479: folds 
+2_takethepot: folds 
+Uncalled bet (2090) returned to 13MONKFISH
+13MONKFISH collected 3780 from pot
+13MONKFISH: doesn't show hand 
+*** SUMMARY ***
+Total pot 4000 | Rake 220 
+Board [4h Kc 8h 5s]
+Seat 2: 2_takethepot folded on the Turn
+Seat 3: 13MONKFISH collected (3780)
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: podagra65 (small blind) folded on the Turn
+Seat 6: AceFoxKP479 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #212991863525:  Hold'em No Limit (50/100) - 2020/04/30 14:13:42 MSK [2020/04/30 7:13:42 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #6 is the button
+Seat 2: 2_takethepot (19171 in chips) 
+Seat 3: 13MONKFISH (11496 in chips) 
+Seat 4: lawlex_2 (14863 in chips) 
+Seat 6: AceFoxKP479 (10521 in chips) 
+2_takethepot: posts small blind 50
+13MONKFISH: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 4h]
+lawlex_2: calls 100
+AceFoxKP479: raises 400 to 500
+2_takethepot: folds 
+13MONKFISH: calls 400
+lawlex_2: folds 
+*** FLOP *** [Td 5d Ah]
+13MONKFISH: checks 
+AceFoxKP479: checks 
+*** TURN *** [Td 5d Ah] [Jd]
+13MONKFISH: bets 543
+AceFoxKP479: raises 9478 to 10021 and is all-in
+13MONKFISH: folds 
+Uncalled bet (9478) returned to AceFoxKP479
+AceFoxKP479 collected 2113 from pot
+*** SUMMARY ***
+Total pot 2236 | Rake 123 
+Board [Td 5d Ah Jd]
+Seat 2: 2_takethepot (small blind) folded before Flop
+Seat 3: 13MONKFISH (big blind) folded on the Turn
+Seat 4: lawlex_2 folded before Flop
+Seat 6: AceFoxKP479 (button) collected (2113)
+
+
+
+PokerStars Hand #212991879019:  Hold'em No Limit (50/100) - 2020/04/30 14:14:12 MSK [2020/04/30 7:14:12 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #2 is the button
+Seat 2: 2_takethepot (19121 in chips) 
+Seat 3: 13MONKFISH (10453 in chips) 
+Seat 4: lawlex_2 (14763 in chips) 
+Seat 6: AceFoxKP479 (11591 in chips) 
+13MONKFISH: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Kd]
+AceFoxKP479: folds 
+2_takethepot: calls 100
+13MONKFISH: raises 200 to 300
+lawlex_2: calls 200
+2_takethepot: calls 200
+*** FLOP *** [7s 7d Td]
+13MONKFISH: checks 
+lawlex_2: checks 
+2_takethepot: checks 
+*** TURN *** [7s 7d Td] [5c]
+13MONKFISH: bets 425
+lawlex_2: calls 425
+2_takethepot: folds 
+*** RIVER *** [7s 7d Td 5c] [Ah]
+13MONKFISH: bets 1654
+lawlex_2: folds 
+Uncalled bet (1654) returned to 13MONKFISH
+13MONKFISH collected 1654 from pot
+13MONKFISH: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 96 
+Board [7s 7d Td 5c Ah]
+Seat 2: 2_takethepot (button) folded on the Turn
+Seat 3: 13MONKFISH (small blind) collected (1654)
+Seat 4: lawlex_2 (big blind) folded on the River
+Seat 6: AceFoxKP479 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #212991902853:  Hold'em No Limit (50/100) - 2020/04/30 14:14:58 MSK [2020/04/30 7:14:58 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #3 is the button
+Seat 2: 2_takethepot (18821 in chips) 
+Seat 3: 13MONKFISH (11382 in chips) 
+Seat 4: lawlex_2 (14038 in chips) 
+Seat 6: AceFoxKP479 (11591 in chips) 
+lawlex_2: posts small blind 50
+AceFoxKP479: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 9d]
+2_takethepot: calls 100
+13MONKFISH: calls 100
+lawlex_2: raises 200 to 300
+AceFoxKP479: calls 200
+2_takethepot: calls 200
+13MONKFISH: calls 200
+*** FLOP *** [8h 5h 5c]
+lawlex_2: checks 
+AceFoxKP479: checks 
+2_takethepot: checks 
+13MONKFISH: checks 
+*** TURN *** [8h 5h 5c] [5d]
+lawlex_2: bets 100
+AceFoxKP479: calls 100
+2_takethepot: folds 
+13MONKFISH: folds 
+*** RIVER *** [8h 5h 5c 5d] [4h]
+lawlex_2: checks 
+AceFoxKP479: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Td 9d] (three of a kind, Fives)
+AceFoxKP479: shows [7c Js] (three of a kind, Fives - Jack kicker)
+AceFoxKP479 collected 1323 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 77 
+Board [8h 5h 5c 5d 4h]
+Seat 2: 2_takethepot folded on the Turn
+Seat 3: 13MONKFISH (button) folded on the Turn
+Seat 4: lawlex_2 (small blind) showed [Td 9d] and lost with three of a kind, Fives
+Seat 6: AceFoxKP479 (big blind) showed [7c Js] and won (1323) with three of a kind, Fives
+
+
+
+PokerStars Hand #212991932965:  Hold'em No Limit (50/100) - 2020/04/30 14:15:56 MSK [2020/04/30 7:15:56 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #4 is the button
+Seat 2: 2_takethepot (18521 in chips) 
+Seat 3: 13MONKFISH (11082 in chips) 
+Seat 4: lawlex_2 (13638 in chips) 
+Seat 6: AceFoxKP479 (12514 in chips) 
+AceFoxKP479: posts small blind 50
+2_takethepot: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 8c]
+13MONKFISH: calls 100
+lawlex_2: folds 
+AceFoxKP479: calls 50
+2_takethepot: raises 100 to 200
+13MONKFISH: calls 100
+AceFoxKP479: calls 100
+*** FLOP *** [3h 8s Td]
+AceFoxKP479: checks 
+2_takethepot: checks 
+13MONKFISH: checks 
+*** TURN *** [3h 8s Td] [6h]
+AceFoxKP479: checks 
+2_takethepot: checks 
+13MONKFISH: checks 
+*** RIVER *** [3h 8s Td 6h] [Kh]
+AceFoxKP479: checks 
+2_takethepot: checks 
+13MONKFISH: checks 
+*** SHOW DOWN ***
+AceFoxKP479: shows [4h 7d] (high card King)
+2_takethepot: shows [Qh Jd] (high card King - Queen kicker)
+13MONKFISH: shows [9h As] (high card Ace)
+13MONKFISH collected 567 from pot
+DRAGON7111 was removed from the table for failing to post
+DRAGON7111 leaves the table
+*** SUMMARY ***
+Total pot 600 | Rake 33 
+Board [3h 8s Td 6h Kh]
+Seat 2: 2_takethepot (big blind) showed [Qh Jd] and lost with high card King
+Seat 3: 13MONKFISH showed [9h As] and won (567) with high card Ace
+Seat 4: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: AceFoxKP479 (small blind) showed [4h 7d] and lost with high card King
+
+
+
+PokerStars Hand #212991957208:  Hold'em No Limit (50/100) - 2020/04/30 14:16:43 MSK [2020/04/30 7:16:43 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #6 is the button
+Seat 2: 2_takethepot (18321 in chips) 
+Seat 3: 13MONKFISH (11449 in chips) 
+Seat 4: lawlex_2 (13638 in chips) 
+Seat 6: AceFoxKP479 (12314 in chips) 
+2_takethepot: posts small blind 50
+13MONKFISH: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Kh]
+lawlex_2: folds 
+AceFoxKP479: calls 100
+Thxmxs joins the table at seat #1 
+2_takethepot: calls 50
+13MONKFISH: checks 
+*** FLOP *** [Tc Ts 7d]
+2_takethepot: checks 
+13MONKFISH: checks 
+AceFoxKP479: checks 
+*** TURN *** [Tc Ts 7d] [2h]
+2_takethepot: checks 
+13MONKFISH: bets 283
+AceFoxKP479: calls 283
+2_takethepot: folds 
+*** RIVER *** [Tc Ts 7d 2h] [Ac]
+13MONKFISH: bets 1218
+AceFoxKP479: folds 
+Uncalled bet (1218) returned to 13MONKFISH
+13MONKFISH collected 818 from pot
+13MONKFISH: doesn't show hand 
+*** SUMMARY ***
+Total pot 866 | Rake 48 
+Board [Tc Ts 7d 2h Ac]
+Seat 2: 2_takethepot (small blind) folded on the Turn
+Seat 3: 13MONKFISH (big blind) collected (818)
+Seat 4: lawlex_2 folded before Flop (didn't bet)
+Seat 6: AceFoxKP479 (button) folded on the River
+
+
+
+PokerStars Hand #212991980653:  Hold'em No Limit (50/100) - 2020/04/30 14:17:28 MSK [2020/04/30 7:17:28 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #2 is the button
+Seat 1: Thxmxs (10000 in chips) 
+Seat 2: 2_takethepot (18221 in chips) 
+Seat 3: 13MONKFISH (11884 in chips) 
+Seat 4: lawlex_2 (13638 in chips) 
+Seat 6: AceFoxKP479 (11931 in chips) 
+13MONKFISH: posts small blind 50
+lawlex_2: posts big blind 100
+Thxmxs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 5d]
+AceFoxKP479: calls 100
+Thxmxs: checks 
+2_takethepot: calls 100
+13MONKFISH: calls 50
+lawlex_2: checks 
+*** FLOP *** [5h 3c 6c]
+13MONKFISH: checks 
+lawlex_2: bets 236
+AceFoxKP479: folds 
+Thxmxs: raises 236 to 472
+2_takethepot: calls 472
+13MONKFISH: folds 
+lawlex_2: raises 944 to 1416
+Thxmxs: calls 944
+2_takethepot: calls 944
+*** TURN *** [5h 3c 6c] [Jd]
+lawlex_2: checks 
+Thxmxs: bets 2200
+2_takethepot: calls 2200
+lawlex_2: calls 2200
+*** RIVER *** [5h 3c 6c Jd] [8h]
+lawlex_2: checks 
+Thxmxs: bets 6284 and is all-in
+2_takethepot: calls 6284
+lawlex_2: calls 6284
+*** SHOW DOWN ***
+Thxmxs: shows [9c Qc] (high card Queen)
+2_takethepot: shows [Jc 2c] (a pair of Jacks)
+lawlex_2: shows [6s 5d] (two pair, Sixes and Fives)
+lawlex_2 collected 28539 from pot
+*** SUMMARY ***
+Total pot 30200 | Rake 1661 
+Board [5h 3c 6c Jd 8h]
+Seat 1: Thxmxs showed [9c Qc] and lost with high card Queen
+Seat 2: 2_takethepot (button) showed [Jc 2c] and lost with a pair of Jacks
+Seat 3: 13MONKFISH (small blind) folded on the Flop
+Seat 4: lawlex_2 (big blind) showed [6s 5d] and won (28539) with two pair, Sixes and Fives
+Seat 6: AceFoxKP479 folded on the Flop
+
+
+
+PokerStars Hand #212992018730:  Hold'em No Limit (50/100) - 2020/04/30 14:18:42 MSK [2020/04/30 7:18:42 ET]
+Table 'Aaltje III' 6-max (Play Money) Seat #3 is the button
+Seat 2: 2_takethepot (8221 in chips) 
+Seat 3: 13MONKFISH (11784 in chips) 
+Seat 4: lawlex_2 (32177 in chips) 
+Seat 6: AceFoxKP479 (11831 in chips) 
+lawlex_2: posts small blind 50
+AceFoxKP479: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 6s]
+2_takethepot: calls 100
+13MONKFISH: raises 300 to 400
+lawlex_2: folds 
+AceFoxKP479: folds 
+2_takethepot: calls 300
+*** FLOP *** [8s Kh Ah]
+2_takethepot: checks 
+13MONKFISH: bets 400
+2_takethepot: calls 400
+*** TURN *** [8s Kh Ah] [4d]
+2_takethepot: checks 
+13MONKFISH: bets 1027
+2_takethepot: folds 
+Uncalled bet (1027) returned to 13MONKFISH
+13MONKFISH collected 1654 from pot
+13MONKFISH: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 96 
+Board [8s Kh Ah 4d]
+Seat 2: 2_takethepot folded on the Turn
+Seat 3: 13MONKFISH (button) collected (1654)
+Seat 4: lawlex_2 (small blind) folded before Flop
+Seat 6: AceFoxKP479 (big blind) folded before Flop
+
+
+

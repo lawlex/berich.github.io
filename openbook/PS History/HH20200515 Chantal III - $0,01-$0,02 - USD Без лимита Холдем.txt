@@ -1,0 +1,3892 @@
+﻿PokerStars Hand #213921453415:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:39:54 MSK [2020/05/15 15:39:54 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: G2cards ($2 in chips) 
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: doberman26rus ($6.24 in chips) 
+Seat 4: Verm323 ($2 in chips) 
+Seat 5: TheRealKilroy ($2.32 in chips) 
+Seat 6: CleverTK ($0.03 in chips) 
+G2cards: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Qs]
+doberman26rus: calls $0.02
+Verm323: folds 
+TheRealKilroy: folds 
+CleverTK: folds 
+G2cards: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+doberman26rus: calls $0.03
+G2cards: folds 
+*** FLOP *** [9c 4s 6h]
+lawlex_2: bets $0.08
+doberman26rus: calls $0.08
+*** TURN *** [9c 4s 6h] [5c]
+lawlex_2: bets $0.18
+doberman26rus: calls $0.18
+*** RIVER *** [9c 4s 6h 5c] [7d]
+lawlex_2: checks 
+doberman26rus: bets $0.18
+lawlex_2: calls $0.18
+*** SHOW DOWN ***
+doberman26rus: shows [Ah 9h] (a pair of Nines)
+lawlex_2: mucks hand 
+doberman26rus collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [9c 4s 6h 5c 7d]
+Seat 1: G2cards (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) mucked [Ac Qs]
+Seat 3: doberman26rus showed [Ah 9h] and won ($0.96) with a pair of Nines
+Seat 4: Verm323 folded before Flop (didn't bet)
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: CleverTK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213921522360:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:40:49 MSK [2020/05/15 15:40:49 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: G2cards ($2 in chips) 
+Seat 2: lawlex_2 ($1.51 in chips) 
+Seat 3: doberman26rus ($6.71 in chips) 
+Seat 4: Verm323 ($2 in chips) 
+Seat 5: TheRealKilroy ($2.32 in chips) 
+Seat 6: CleverTK ($0.03 in chips) 
+lawlex_2: posts small blind $0.01
+doberman26rus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Ah]
+Verm323: raises $0.04 to $0.06
+TheRealKilroy: folds 
+CleverTK: folds 
+G2cards: folds 
+lawlex_2: calls $0.05
+doberman26rus: folds 
+*** FLOP *** [5s 8h Tc]
+lawlex_2: bets $0.09
+Verm323: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5s 8h Tc]
+Seat 1: G2cards (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) collected ($0.14)
+Seat 3: doberman26rus (big blind) folded before Flop
+Seat 4: Verm323 folded on the Flop
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: CleverTK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213921552076:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:41:14 MSK [2020/05/15 15:41:14 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: G2cards ($2 in chips) 
+Seat 2: lawlex_2 ($1.59 in chips) 
+Seat 3: doberman26rus ($6.69 in chips) 
+Seat 4: Verm323 ($2 in chips) 
+Seat 5: TheRealKilroy ($2.32 in chips) 
+Seat 6: CleverTK ($0.03 in chips) 
+doberman26rus: posts small blind $0.01
+Verm323: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 5h]
+TheRealKilroy: folds 
+CleverTK: calls $0.02
+G2cards: folds 
+lawlex_2: calls $0.02
+doberman26rus: calls $0.01
+Verm323: checks 
+*** FLOP *** [9d Kc Td]
+doberman26rus: checks 
+Verm323: checks 
+CleverTK: bets $0.01 and is all-in
+lawlex_2: raises $0.07 to $0.08
+doberman26rus: folds 
+Verm323: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+*** TURN *** [9d Kc Td] [7d]
+*** RIVER *** [9d Kc Td 7d] [6h]
+*** SHOW DOWN ***
+CleverTK: shows [Ks 7h] (two pair, Kings and Sevens)
+lawlex_2: shows [5d 5h] (a pair of Fives)
+CleverTK collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9d Kc Td 7d 6h]
+Seat 1: G2cards folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) showed [5d 5h] and lost with a pair of Fives
+Seat 3: doberman26rus (small blind) folded on the Flop
+Seat 4: Verm323 (big blind) folded on the Flop
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: CleverTK showed [Ks 7h] and won ($0.10) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #213921605237:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:41:58 MSK [2020/05/15 15:41:58 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: G2cards ($2 in chips) 
+Seat 2: lawlex_2 ($1.56 in chips) 
+Seat 3: doberman26rus ($6.67 in chips) 
+Seat 4: Verm323 ($2 in chips) 
+Seat 5: TheRealKilroy ($2.32 in chips) 
+Seat 6: CleverTK ($0.10 in chips) 
+Verm323: posts small blind $0.01
+TheRealKilroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Qd]
+CleverTK: folds 
+G2cards: folds 
+lawlex_2: folds 
+doberman26rus: calls $0.02
+Verm323: folds 
+TheRealKilroy: checks 
+*** FLOP *** [Js 2h Ac]
+TheRealKilroy: checks 
+doberman26rus: bets $0.04
+TheRealKilroy: calls $0.04
+*** TURN *** [Js 2h Ac] [3h]
+TheRealKilroy: checks 
+doberman26rus: bets $0.04
+TheRealKilroy: raises $0.08 to $0.12
+G2cards leaves the table
+doberman26rus: folds 
+Uncalled bet ($0.08) returned to TheRealKilroy
+Stratonovich joins the table at seat #1 
+TheRealKilroy collected $0.20 from pot
+TheRealKilroy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Js 2h Ac 3h]
+Seat 1: G2cards folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: doberman26rus (button) folded on the Turn
+Seat 4: Verm323 (small blind) folded before Flop
+Seat 5: TheRealKilroy (big blind) collected ($0.20)
+Seat 6: CleverTK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213921650826:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:42:36 MSK [2020/05/15 15:42:36 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($1.56 in chips) 
+Seat 3: doberman26rus ($6.57 in chips) 
+Seat 4: Verm323 ($2 in chips) 
+Seat 5: TheRealKilroy ($2.42 in chips) 
+Seat 6: CleverTK ($0.10 in chips) 
+TheRealKilroy: posts small blind $0.01
+CleverTK: posts big blind $0.02
+Stratonovich: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 3h]
+lawlex_2: folds 
+doberman26rus: calls $0.02
+Verm323: folds 
+TheRealKilroy: raises $0.08 to $0.10
+CleverTK: calls $0.08 and is all-in
+doberman26rus: folds 
+*** FLOP *** [9c 5s Th]
+*** TURN *** [9c 5s Th] [Qd]
+*** RIVER *** [9c 5s Th Qd] [7h]
+*** SHOW DOWN ***
+TheRealKilroy: shows [Kd As] (high card Ace)
+CleverTK: shows [Ac 6d] (high card Ace - lower kicker)
+TheRealKilroy collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [9c 5s Th Qd 7h]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: doberman26rus folded before Flop
+Seat 4: Verm323 (button) folded before Flop (didn't bet)
+Seat 5: TheRealKilroy (small blind) showed [Kd As] and won ($0.21) with high card Ace
+Seat 6: CleverTK (big blind) showed [Ac 6d] and lost with high card Ace
+
+
+
+PokerStars Hand #213921682709:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:43:03 MSK [2020/05/15 15:43:03 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 2: lawlex_2 ($1.56 in chips) 
+Seat 3: doberman26rus ($6.55 in chips) 
+Seat 4: Verm323 ($2 in chips) 
+Seat 5: TheRealKilroy ($2.53 in chips) 
+lawlex_2: posts small blind $0.01
+doberman26rus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc Kc]
+Verm323: folds 
+TheRealKilroy: raises $0.02 to $0.04
+CleverTK leaves the table
+Q_MIX joins the table at seat #6 
+lawlex_2: calls $0.03
+doberman26rus: calls $0.02
+*** FLOP *** [Js 2c 2h]
+lawlex_2: bets $0.08
+doberman26rus: folds 
+TheRealKilroy: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Js 2c 2h]
+Seat 2: lawlex_2 (small blind) collected ($0.12)
+Seat 3: doberman26rus (big blind) folded on the Flop
+Seat 4: Verm323 folded before Flop (didn't bet)
+Seat 5: TheRealKilroy (button) folded on the Flop
+
+
+
+PokerStars Hand #213921716884:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:43:31 MSK [2020/05/15 15:43:31 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($1.64 in chips) 
+Seat 3: doberman26rus ($6.51 in chips) 
+Seat 4: Verm323 ($2 in chips) 
+Seat 5: TheRealKilroy ($2.49 in chips) 
+doberman26rus: posts small blind $0.01
+Verm323: posts big blind $0.02
+Q_MIX: sits out 
+Stratonovich: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Jd]
+TheRealKilroy: raises $0.03 to $0.05
+lawlex_2: folds 
+doberman26rus: folds 
+Verm323: folds 
+Uncalled bet ($0.03) returned to TheRealKilroy
+TheRealKilroy collected $0.05 from pot
+TheRealKilroy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: doberman26rus (small blind) folded before Flop
+Seat 4: Verm323 (big blind) folded before Flop
+Seat 5: TheRealKilroy collected ($0.05)
+
+
+
+PokerStars Hand #213921728109:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:43:41 MSK [2020/05/15 15:43:41 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($1.64 in chips) 
+Seat 3: doberman26rus ($6.50 in chips) 
+Seat 4: Verm323 ($2 in chips) 
+Seat 5: TheRealKilroy ($2.52 in chips) 
+Verm323: posts small blind $0.01
+TheRealKilroy: posts big blind $0.02
+Q_MIX: sits out 
+Stratonovich: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 9s]
+lawlex_2: folds 
+doberman26rus: folds 
+Verm323: raises $0.03 to $0.05
+TheRealKilroy: folds 
+Uncalled bet ($0.03) returned to Verm323
+Verm323 collected $0.04 from pot
+Verm323: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: doberman26rus (button) folded before Flop (didn't bet)
+Seat 4: Verm323 (small blind) collected ($0.04)
+Seat 5: TheRealKilroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #213921747064:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:43:57 MSK [2020/05/15 15:43:57 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($1.64 in chips) 
+Seat 3: doberman26rus ($6.50 in chips) 
+Seat 4: Verm323 ($2.02 in chips) 
+Seat 5: TheRealKilroy ($2.50 in chips) 
+Seat 6: Q_MIX ($2 in chips) 
+TheRealKilroy: posts small blind $0.01
+Q_MIX: posts big blind $0.02
+Stratonovich: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 3d]
+lawlex_2: folds 
+doberman26rus: folds 
+Verm323: raises $0.03 to $0.05
+TheRealKilroy: folds 
+Q_MIX: calls $0.03
+*** FLOP *** [4d 3c 6h]
+Q_MIX: checks 
+Verm323: bets $0.07
+Q_MIX: calls $0.07
+*** TURN *** [4d 3c 6h] [3s]
+Q_MIX: checks 
+Verm323: bets $0.16
+Q_MIX: folds 
+Uncalled bet ($0.16) returned to Verm323
+Verm323 collected $0.24 from pot
+Verm323: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4d 3c 6h 3s]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: doberman26rus folded before Flop (didn't bet)
+Seat 4: Verm323 (button) collected ($0.24)
+Seat 5: TheRealKilroy (small blind) folded before Flop
+Seat 6: Q_MIX (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213921779087:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:44:23 MSK [2020/05/15 15:44:23 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: Stratonovich ($2 in chips) 
+Seat 2: lawlex_2 ($1.64 in chips) 
+Seat 3: doberman26rus ($6.50 in chips) 
+Seat 4: Verm323 ($2.14 in chips) 
+Seat 5: TheRealKilroy ($2.49 in chips) 
+Seat 6: Q_MIX ($1.88 in chips) 
+Q_MIX: posts small blind $0.01
+Stratonovich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Ts]
+lawlex_2: folds 
+doberman26rus: folds 
+Verm323: folds 
+TheRealKilroy: folds 
+Q_MIX: raises $0.04 to $0.06
+Stratonovich: folds 
+Uncalled bet ($0.04) returned to Q_MIX
+Q_MIX collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Stratonovich (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: doberman26rus folded before Flop (didn't bet)
+Seat 4: Verm323 folded before Flop (didn't bet)
+Seat 5: TheRealKilroy (button) folded before Flop (didn't bet)
+Seat 6: Q_MIX (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213921795463:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:44:37 MSK [2020/05/15 15:44:37 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: Stratonovich ($2 in chips) 
+Seat 2: lawlex_2 ($1.64 in chips) 
+Seat 3: doberman26rus ($6.50 in chips) 
+Seat 4: Verm323 ($2.14 in chips) 
+Seat 5: TheRealKilroy ($2.49 in chips) 
+Seat 6: Q_MIX ($1.90 in chips) 
+Stratonovich: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 2h]
+doberman26rus: folds 
+Verm323: folds 
+TheRealKilroy: folds 
+Q_MIX: folds 
+Stratonovich: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Stratonovich (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.02)
+Seat 3: doberman26rus folded before Flop (didn't bet)
+Seat 4: Verm323 folded before Flop (didn't bet)
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: Q_MIX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213921813735:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:44:52 MSK [2020/05/15 15:44:52 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Stratonovich ($2 in chips) 
+Seat 2: lawlex_2 ($1.65 in chips) 
+Seat 3: doberman26rus ($6.50 in chips) 
+Seat 4: Verm323 ($2.14 in chips) 
+Seat 5: TheRealKilroy ($2.49 in chips) 
+Seat 6: Q_MIX ($1.90 in chips) 
+lawlex_2: posts small blind $0.01
+doberman26rus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Jc]
+Verm323: folds 
+TheRealKilroy: folds 
+Q_MIX: folds 
+Stratonovich: folds 
+lawlex_2: raises $0.03 to $0.05
+doberman26rus: calls $0.03
+*** FLOP *** [As 5s Js]
+lawlex_2: bets $0.07
+doberman26rus: calls $0.07
+*** TURN *** [As 5s Js] [Qc]
+lawlex_2: bets $0.15
+doberman26rus: calls $0.15
+*** RIVER *** [As 5s Js Qc] [9s]
+lawlex_2: checks 
+doberman26rus: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Kc Jc] (a pair of Jacks)
+doberman26rus: mucks hand 
+lawlex_2 collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [As 5s Js Qc 9s]
+Seat 1: Stratonovich (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) showed [Kc Jc] and won ($0.52) with a pair of Jacks
+Seat 3: doberman26rus (big blind) mucked [7c 7h]
+Seat 4: Verm323 folded before Flop (didn't bet)
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: Q_MIX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213921867823:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:45:37 MSK [2020/05/15 15:45:37 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: Stratonovich ($2 in chips) 
+Seat 2: lawlex_2 ($1.90 in chips) 
+Seat 3: doberman26rus ($6.23 in chips) 
+Seat 4: Verm323 ($2.14 in chips) 
+Seat 5: TheRealKilroy ($2.49 in chips) 
+Seat 6: Q_MIX ($1.90 in chips) 
+doberman26rus: posts small blind $0.01
+Verm323: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 7c]
+TheRealKilroy: raises $0.04 to $0.06
+Q_MIX: folds 
+Q_MIX leaves the table
+Stratonovich: folds 
+lawlex_2: folds 
+doberman26rus: folds 
+Verm323: folds 
+Uncalled bet ($0.04) returned to TheRealKilroy
+TheRealKilroy collected $0.05 from pot
+TheRealKilroy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Stratonovich folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: doberman26rus (small blind) folded before Flop
+Seat 4: Verm323 (big blind) folded before Flop
+Seat 5: TheRealKilroy collected ($0.05)
+Seat 6: Q_MIX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213921886991:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:45:53 MSK [2020/05/15 15:45:53 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: Stratonovich ($2 in chips) 
+Seat 2: lawlex_2 ($1.90 in chips) 
+Seat 3: doberman26rus ($6.22 in chips) 
+Seat 4: Verm323 ($2.12 in chips) 
+Seat 5: TheRealKilroy ($2.52 in chips) 
+Verm323: posts small blind $0.01
+TheRealKilroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 7s]
+Stratonovich: folds 
+Stratonovich leaves the table
+lawlex_2: folds 
+doberman26rus: folds 
+Verm323: raises $0.03 to $0.05
+doberman26rus leaves the table
+TheRealKilroy: raises $0.13 to $0.18
+Verm323: folds 
+Uncalled bet ($0.13) returned to TheRealKilroy
+TheRealKilroy collected $0.10 from pot
+TheRealKilroy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Stratonovich folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: doberman26rus (button) folded before Flop (didn't bet)
+Seat 4: Verm323 (small blind) folded before Flop
+Seat 5: TheRealKilroy (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #213921914590:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:46:08 MSK [2020/05/15 15:46:08 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($1.90 in chips) 
+Seat 4: Verm323 ($2.07 in chips) 
+Seat 5: TheRealKilroy ($2.57 in chips) 
+TheRealKilroy: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Ad]
+Verm323: raises $0.03 to $0.05
+TheRealKilroy: folds 
+lawlex_2: calls $0.03
+*** FLOP *** [6h 3h Ac]
+lawlex_2: bets $0.07
+Verm323: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.11 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6h 3h Ac]
+Seat 2: lawlex_2 (big blind) collected ($0.11)
+Seat 4: Verm323 (button) folded on the Flop
+Seat 5: TheRealKilroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #213921937439:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:46:27 MSK [2020/05/15 15:46:27 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 5: TheRealKilroy ($2.56 in chips) 
+lawlex_2: posts small blind $0.01
+Verm323: is sitting out 
+TheRealKilroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 7d]
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to TheRealKilroy
+Verm323 leaves the table
+TheRealKilroy collected $0.02 from pot
+TheRealKilroy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: lawlex_2 (button) (small blind) folded before Flop
+Seat 5: TheRealKilroy (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213921944811:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:46:33 MSK [2020/05/15 15:46:33 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 2: lawlex_2 ($1.95 in chips) 
+Seat 5: TheRealKilroy ($2.57 in chips) 
+TheRealKilroy: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 5h]
+TheRealKilroy: raises $0.02 to $0.04
+ovchina84 joins the table at seat #6 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to TheRealKilroy
+TheRealKilroy collected $0.04 from pot
+Pimych13 joins the table at seat #1 
+TheRealKilroy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 5: TheRealKilroy (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213921952710:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:46:40 MSK [2020/05/15 15:46:40 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($1.93 in chips) 
+Seat 5: TheRealKilroy ($2.59 in chips) 
+Seat 6: ovchina84 ($1.60 in chips) 
+TheRealKilroy: posts small blind $0.01
+ovchina84: posts big blind $0.02
+Pimych13: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 9h]
+Vikki61 joins the table at seat #3 
+lawlex_2: raises $0.03 to $0.05
+TheRealKilroy: raises $0.17 to $0.22
+ovchina84: folds 
+lawlex_2: folds 
+Uncalled bet ($0.17) returned to TheRealKilroy
+TheRealKilroy collected $0.12 from pot
+TheRealKilroy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: lawlex_2 (button) folded before Flop
+Seat 5: TheRealKilroy (small blind) collected ($0.12)
+Seat 6: ovchina84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213921970987:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:46:55 MSK [2020/05/15 15:46:55 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: Pimych13 ($1.60 in chips) 
+Seat 2: lawlex_2 ($1.88 in chips) 
+Seat 5: TheRealKilroy ($2.66 in chips) 
+Seat 6: ovchina84 ($1.58 in chips) 
+ovchina84: posts small blind $0.01
+Pimych13: posts big blind $0.02
+Strepsils_228 joins the table at seat #4 
+Vikki61: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 9c]
+lawlex_2: folds 
+TheRealKilroy: folds 
+ovchina84: calls $0.01
+Pimych13: checks 
+*** FLOP *** [4h Qh Ah]
+Strepsils_228 leaves the table
+ovchina84: bets $0.06
+Pimych13: calls $0.06
+*** TURN *** [4h Qh Ah] [4c]
+Hollywoodhails joins the table at seat #4 
+ovchina84: checks 
+Pimych13: checks 
+*** RIVER *** [4h Qh Ah 4c] [Jc]
+ovchina84: bets $0.12
+Pimych13: calls $0.12
+*** SHOW DOWN ***
+ovchina84: shows [7d 6s] (a pair of Fours)
+Pimych13: shows [Ks Ad] (two pair, Aces and Fours)
+Pimych13 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [4h Qh Ah 4c Jc]
+Seat 1: Pimych13 (big blind) showed [Ks Ad] and won ($0.39) with two pair, Aces and Fours
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 5: TheRealKilroy (button) folded before Flop (didn't bet)
+Seat 6: ovchina84 (small blind) showed [7d 6s] and lost with a pair of Fours
+
+
+
+PokerStars Hand #213922018468:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:47:34 MSK [2020/05/15 15:47:34 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: Pimych13 ($1.79 in chips) 
+Seat 2: lawlex_2 ($1.88 in chips) 
+Seat 4: Hollywoodhails ($1.60 in chips) 
+Seat 5: TheRealKilroy ($2.66 in chips) 
+Seat 6: ovchina84 ($1.38 in chips) 
+Pimych13: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Vikki61: sits out 
+Hollywoodhails: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 5h]
+Hollywoodhails: checks 
+TheRealKilroy: folds 
+ovchina84: folds 
+Pimych13: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [4h Qh Js]
+Pimych13: checks 
+lawlex_2: bets $0.04
+Hollywoodhails: folds 
+Pimych13: calls $0.04
+*** TURN *** [4h Qh Js] [Tc]
+Pimych13: checks 
+lawlex_2: bets $0.09
+Pimych13: calls $0.09
+*** RIVER *** [4h Qh Js Tc] [9s]
+Pimych13: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Pimych13: shows [Jd 8d] (a straight, Eight to Queen)
+lawlex_2: mucks hand 
+Pimych13 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [4h Qh Js Tc 9s]
+Seat 1: Pimych13 (small blind) showed [Jd 8d] and won ($0.31) with a straight, Eight to Queen
+Seat 2: lawlex_2 (big blind) mucked [7h 5h]
+Seat 4: Hollywoodhails folded on the Flop (didn't bet)
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922086815:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:48:31 MSK [2020/05/15 15:48:31 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Pimych13 ($1.95 in chips) 
+Seat 2: lawlex_2 ($1.73 in chips) 
+Seat 3: Vikki61 ($2 in chips) 
+Seat 4: Hollywoodhails ($1.58 in chips) 
+Seat 5: TheRealKilroy ($2.66 in chips) 
+Seat 6: ovchina84 ($1.38 in chips) 
+lawlex_2: posts small blind $0.01
+Vikki61: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Td]
+Hollywoodhails: folds 
+TheRealKilroy: folds 
+ovchina84: raises $0.02 to $0.04
+Pimych13: folds 
+lawlex_2: calls $0.03
+Vikki61: calls $0.02
+*** FLOP *** [Ah 3s Kd]
+lawlex_2: bets $0.08
+Vikki61: folds 
+ovchina84: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ah 3s Kd]
+Seat 1: Pimych13 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) collected ($0.12)
+Seat 3: Vikki61 (big blind) folded on the Flop
+Seat 4: Hollywoodhails folded before Flop (didn't bet)
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 folded on the Flop
+
+
+
+PokerStars Hand #213922113002:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:48:52 MSK [2020/05/15 15:48:52 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: Pimych13 ($1.95 in chips) 
+Seat 2: lawlex_2 ($1.81 in chips) 
+Seat 3: Vikki61 ($2 in chips) 
+Seat 4: Hollywoodhails ($1.58 in chips) 
+Seat 5: TheRealKilroy ($2.66 in chips) 
+Seat 6: ovchina84 ($1.34 in chips) 
+Vikki61: posts small blind $0.01
+Hollywoodhails: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Qd]
+TheRealKilroy: folds 
+ovchina84: calls $0.02
+Pimych13: folds 
+lawlex_2: raises $0.03 to $0.05
+Vikki61: calls $0.04
+Hollywoodhails: calls $0.03
+ovchina84: calls $0.03
+*** FLOP *** [9h Ad Kd]
+Vikki61: bets $0.14
+Hollywoodhails: folds 
+ovchina84: calls $0.14
+lawlex_2: calls $0.14
+*** TURN *** [9h Ad Kd] [4h]
+Vikki61: bets $0.45
+ovchina84: calls $0.45
+lawlex_2: calls $0.45
+*** RIVER *** [9h Ad Kd 4h] [8c]
+Vikki61: bets $0.63
+ovchina84: raises $0.07 to $0.70 and is all-in
+lawlex_2: folds 
+Vikki61: calls $0.07
+*** SHOW DOWN ***
+ovchina84: shows [As 8d] (two pair, Aces and Eights)
+Vikki61: shows [Ac Jc] (a pair of Aces)
+ovchina84 collected $3.25 from pot
+*** SUMMARY ***
+Total pot $3.37 | Rake $0.12 
+Board [9h Ad Kd 4h 8c]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded on the River
+Seat 3: Vikki61 (small blind) showed [Ac Jc] and lost with a pair of Aces
+Seat 4: Hollywoodhails (big blind) folded on the Flop
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 showed [As 8d] and won ($3.25) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #213922195991:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:50:01 MSK [2020/05/15 15:50:01 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: Pimych13 ($1.95 in chips) 
+Seat 2: lawlex_2 ($1.17 in chips) 
+Seat 3: Vikki61 ($2 in chips) 
+Seat 4: Hollywoodhails ($1.53 in chips) 
+Seat 5: TheRealKilroy ($2.66 in chips) 
+Seat 6: ovchina84 ($3.25 in chips) 
+Hollywoodhails: posts small blind $0.01
+TheRealKilroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Js]
+ovchina84: folds 
+Pimych13: folds 
+lawlex_2: folds 
+Vikki61: folds 
+Hollywoodhails: calls $0.01
+TheRealKilroy: checks 
+*** FLOP *** [2c Th 2s]
+Hollywoodhails: checks 
+TheRealKilroy: checks 
+*** TURN *** [2c Th 2s] [5s]
+Hollywoodhails: checks 
+TheRealKilroy: checks 
+*** RIVER *** [2c Th 2s 5s] [3h]
+Hollywoodhails: bets $0.10
+TheRealKilroy: folds 
+Uncalled bet ($0.10) returned to Hollywoodhails
+Hollywoodhails collected $0.04 from pot
+Hollywoodhails: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2c Th 2s 5s 3h]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Vikki61 (button) folded before Flop (didn't bet)
+Seat 4: Hollywoodhails (small blind) collected ($0.04)
+Seat 5: TheRealKilroy (big blind) folded on the River
+Seat 6: ovchina84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922226545:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:50:27 MSK [2020/05/15 15:50:27 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: Pimych13 ($1.95 in chips) 
+Seat 2: lawlex_2 ($1.17 in chips) 
+Seat 3: Vikki61 ($2 in chips) 
+Seat 4: Hollywoodhails ($1.55 in chips) 
+Seat 5: TheRealKilroy ($2.64 in chips) 
+Seat 6: ovchina84 ($3.25 in chips) 
+TheRealKilroy: posts small blind $0.01
+ovchina84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Th]
+Pimych13: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Vikki61: calls $0.05
+Hollywoodhails: calls $0.05
+TheRealKilroy: calls $0.04
+ovchina84: folds 
+Pimych13: calls $0.03
+*** FLOP *** [2h 9d 6s]
+TheRealKilroy: checks 
+Pimych13: checks 
+lawlex_2: bets $0.17
+Vikki61: raises $0.90 to $1.07
+Hollywoodhails: folds 
+TheRealKilroy: folds 
+Pimych13: folds 
+lawlex_2: folds 
+Uncalled bet ($0.90) returned to Vikki61
+Vikki61 collected $0.59 from pot
+Vikki61: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [2h 9d 6s]
+Seat 1: Pimych13 folded on the Flop
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: Vikki61 collected ($0.59)
+Seat 4: Hollywoodhails (button) folded on the Flop
+Seat 5: TheRealKilroy (small blind) folded on the Flop
+Seat 6: ovchina84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213922280114:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:51:12 MSK [2020/05/15 15:51:12 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: Pimych13 ($1.90 in chips) 
+Seat 2: lawlex_2 ($0.95 in chips) 
+Seat 3: Vikki61 ($2.37 in chips) 
+Seat 4: Hollywoodhails ($1.50 in chips) 
+Seat 5: TheRealKilroy ($2.59 in chips) 
+Seat 6: ovchina84 ($3.23 in chips) 
+ovchina84: posts small blind $0.01
+Pimych13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 8h]
+lawlex_2: folds 
+Vikki61: folds 
+Hollywoodhails: folds 
+TheRealKilroy: folds 
+ovchina84: calls $0.01
+Pimych13: checks 
+*** FLOP *** [Jh Ad Qc]
+ovchina84: checks 
+Pimych13: bets $0.02
+ovchina84: folds 
+Uncalled bet ($0.02) returned to Pimych13
+Pimych13 collected $0.04 from pot
+Pimych13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jh Ad Qc]
+Seat 1: Pimych13 (big blind) collected ($0.04)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Vikki61 folded before Flop (didn't bet)
+Seat 4: Hollywoodhails folded before Flop (didn't bet)
+Seat 5: TheRealKilroy (button) folded before Flop (didn't bet)
+Seat 6: ovchina84 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213922313855:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:51:40 MSK [2020/05/15 15:51:40 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: Pimych13 ($1.92 in chips) 
+Seat 2: lawlex_2 ($0.95 in chips) 
+Seat 3: Vikki61 ($2.37 in chips) 
+Seat 4: Hollywoodhails ($1.50 in chips) 
+Seat 5: TheRealKilroy ($2.59 in chips) 
+Seat 6: ovchina84 ($3.21 in chips) 
+Pimych13: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 7d]
+Vikki61: folds 
+Hollywoodhails: calls $0.02
+TheRealKilroy: folds 
+ovchina84: folds 
+Pimych13: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Qc 7s Kc]
+Pimych13: checks 
+lawlex_2: checks 
+Hollywoodhails: checks 
+*** TURN *** [Qc 7s Kc] [7h]
+Pimych13: checks 
+lawlex_2: bets $0.04
+Hollywoodhails: folds 
+Pimych13: calls $0.04
+*** RIVER *** [Qc 7s Kc 7h] [4d]
+Pimych13: bets $0.06
+lawlex_2: raises $0.26 to $0.32
+Pimych13: folds 
+Uncalled bet ($0.26) returned to lawlex_2
+lawlex_2 collected $0.25 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Qc 7s Kc 7h 4d]
+Seat 1: Pimych13 (small blind) folded on the River
+Seat 2: lawlex_2 (big blind) collected ($0.25)
+Seat 3: Vikki61 folded before Flop (didn't bet)
+Seat 4: Hollywoodhails folded on the Turn
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922390448:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:52:43 MSK [2020/05/15 15:52:43 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Pimych13 ($1.80 in chips) 
+Seat 2: lawlex_2 ($1.08 in chips) 
+Seat 3: Vikki61 ($2.37 in chips) 
+Seat 4: Hollywoodhails ($1.48 in chips) 
+Seat 5: TheRealKilroy ($2.59 in chips) 
+Seat 6: ovchina84 ($3.21 in chips) 
+lawlex_2: posts small blind $0.01
+Vikki61: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 4s]
+Hollywoodhails: calls $0.02
+TheRealKilroy: folds 
+ovchina84: calls $0.02
+Pimych13: folds 
+lawlex_2: raises $0.03 to $0.05
+Vikki61: folds 
+Hollywoodhails: calls $0.03
+ovchina84: calls $0.03
+*** FLOP *** [7s Th Jd]
+lawlex_2: bets $0.11
+Hollywoodhails: folds 
+ovchina84: calls $0.11
+*** TURN *** [7s Th Jd] [Ad]
+lawlex_2: checks 
+ovchina84: bets $0.08
+lawlex_2: calls $0.08
+*** RIVER *** [7s Th Jd Ad] [6s]
+lawlex_2: checks 
+ovchina84: bets $0.26
+lawlex_2: calls $0.26
+*** SHOW DOWN ***
+ovchina84: shows [Qs Ks] (a straight, Ten to Ace)
+lawlex_2: mucks hand 
+ovchina84 collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [7s Th Jd Ad 6s]
+Seat 1: Pimych13 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) mucked [4h 4s]
+Seat 3: Vikki61 (big blind) folded before Flop
+Seat 4: Hollywoodhails folded on the Flop
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 showed [Qs Ks] and won ($1.03) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #213922460962:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:53:41 MSK [2020/05/15 15:53:41 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: Pimych13 ($1.80 in chips) 
+Seat 2: lawlex_2 ($0.58 in chips) 
+Seat 3: Vikki61 ($2.35 in chips) 
+Seat 4: Hollywoodhails ($1.43 in chips) 
+Seat 5: TheRealKilroy ($2.59 in chips) 
+Seat 6: ovchina84 ($3.74 in chips) 
+Vikki61: posts small blind $0.01
+Hollywoodhails: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 8c]
+TheRealKilroy: folds 
+ovchina84: folds 
+Pimych13: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+Vikki61: folds 
+Hollywoodhails: calls $0.03
+Pimych13: calls $0.03
+*** FLOP *** [Ac 2c 4s]
+Hollywoodhails: checks 
+Pimych13: checks 
+lawlex_2: bets $0.10
+Hollywoodhails: folds 
+Pimych13: raises $0.10 to $0.20
+lawlex_2: raises $0.33 to $0.53 and is all-in
+Pimych13: calls $0.33
+*** TURN *** [Ac 2c 4s] [Jc]
+*** RIVER *** [Ac 2c 4s Jc] [6d]
+*** SHOW DOWN ***
+Pimych13: shows [Ad Kd] (a pair of Aces)
+lawlex_2: shows [7c 8c] (a flush, Ace high)
+lawlex_2 collected $1.18 from pot
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.04 
+Board [Ac 2c 4s Jc 6d]
+Seat 1: Pimych13 showed [Ad Kd] and lost with a pair of Aces
+Seat 2: lawlex_2 (button) showed [7c 8c] and won ($1.18) with a flush, Ace high
+Seat 3: Vikki61 (small blind) folded before Flop
+Seat 4: Hollywoodhails (big blind) folded on the Flop
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922520140:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:54:31 MSK [2020/05/15 15:54:31 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: Pimych13 ($1.22 in chips) 
+Seat 2: lawlex_2 ($1.18 in chips) 
+Seat 3: Vikki61 ($2.34 in chips) 
+Seat 4: Hollywoodhails ($1.38 in chips) 
+Seat 5: TheRealKilroy ($2.59 in chips) 
+Seat 6: ovchina84 ($3.74 in chips) 
+Hollywoodhails: posts small blind $0.01
+TheRealKilroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Js]
+ovchina84: folds 
+Pimych13: folds 
+lawlex_2: folds 
+Vikki61: folds 
+Hollywoodhails: calls $0.01
+TheRealKilroy: checks 
+*** FLOP *** [Ah Qs 7h]
+Hollywoodhails: checks 
+TheRealKilroy: checks 
+*** TURN *** [Ah Qs 7h] [5s]
+Hollywoodhails: checks 
+TheRealKilroy: bets $0.05
+Hollywoodhails: folds 
+Uncalled bet ($0.05) returned to TheRealKilroy
+TheRealKilroy collected $0.04 from pot
+TheRealKilroy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ah Qs 7h 5s]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Vikki61 (button) folded before Flop (didn't bet)
+Seat 4: Hollywoodhails (small blind) folded on the Turn
+Seat 5: TheRealKilroy (big blind) collected ($0.04)
+Seat 6: ovchina84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922550889:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:54:56 MSK [2020/05/15 15:54:56 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: Pimych13 ($1.22 in chips) 
+Seat 2: lawlex_2 ($1.18 in chips) 
+Seat 3: Vikki61 ($2.34 in chips) 
+Seat 4: Hollywoodhails ($1.36 in chips) 
+Seat 5: TheRealKilroy ($2.61 in chips) 
+Seat 6: ovchina84 ($3.74 in chips) 
+TheRealKilroy: posts small blind $0.01
+ovchina84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 7d]
+Pimych13: folds 
+lawlex_2: raises $0.03 to $0.05
+Vikki61: folds 
+Hollywoodhails: folds 
+TheRealKilroy: folds 
+ovchina84: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 collected ($0.05)
+Seat 3: Vikki61 folded before Flop (didn't bet)
+Seat 4: Hollywoodhails (button) folded before Flop (didn't bet)
+Seat 5: TheRealKilroy (small blind) folded before Flop
+Seat 6: ovchina84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213922567235:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:55:11 MSK [2020/05/15 15:55:11 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: Pimych13 ($1.22 in chips) 
+Seat 2: lawlex_2 ($1.21 in chips) 
+Seat 3: Vikki61 ($2.34 in chips) 
+Seat 4: Hollywoodhails ($1.36 in chips) 
+Seat 5: TheRealKilroy ($2.60 in chips) 
+Seat 6: ovchina84 ($3.72 in chips) 
+ovchina84: posts small blind $0.01
+Pimych13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 4s]
+lawlex_2: folds 
+Vikki61: folds 
+Hollywoodhails: calls $0.02
+TheRealKilroy: folds 
+ovchina84: folds 
+Pimych13: checks 
+*** FLOP *** [4h 6h Qs]
+Pimych13: checks 
+Hollywoodhails: checks 
+*** TURN *** [4h 6h Qs] [Qh]
+Pimych13: checks 
+Hollywoodhails: checks 
+*** RIVER *** [4h 6h Qs Qh] [Tc]
+Pimych13: checks 
+Hollywoodhails: bets $0.20
+Pimych13: folds 
+Uncalled bet ($0.20) returned to Hollywoodhails
+Hollywoodhails collected $0.05 from pot
+Hollywoodhails: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4h 6h Qs Qh Tc]
+Seat 1: Pimych13 (big blind) folded on the River
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Vikki61 folded before Flop (didn't bet)
+Seat 4: Hollywoodhails collected ($0.05)
+Seat 5: TheRealKilroy (button) folded before Flop (didn't bet)
+Seat 6: ovchina84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213922594808:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:55:48 MSK [2020/05/15 15:55:48 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: Pimych13 ($1.20 in chips) 
+Seat 2: lawlex_2 ($1.21 in chips) 
+Seat 3: Vikki61 ($2.34 in chips) 
+Seat 4: Hollywoodhails ($1.39 in chips) 
+Seat 5: TheRealKilroy ($2.60 in chips) 
+Seat 6: ovchina84 ($3.71 in chips) 
+Pimych13: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 9d]
+Vikki61: folds 
+Hollywoodhails: folds 
+TheRealKilroy: folds 
+ovchina84: folds 
+Pimych13: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+Pimych13: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Pimych13 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.04)
+Seat 3: Vikki61 folded before Flop (didn't bet)
+Seat 4: Hollywoodhails folded before Flop (didn't bet)
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922613208:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:56:13 MSK [2020/05/15 15:56:13 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Pimych13 ($1.18 in chips) 
+Seat 2: lawlex_2 ($1.23 in chips) 
+Seat 3: Vikki61 ($2.34 in chips) 
+Seat 4: Hollywoodhails ($1.39 in chips) 
+Seat 5: TheRealKilroy ($2.60 in chips) 
+Seat 6: ovchina84 ($3.71 in chips) 
+lawlex_2: posts small blind $0.01
+Vikki61: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 9d]
+Hollywoodhails: folds 
+TheRealKilroy: folds 
+ovchina84: folds 
+Pimych13: folds 
+lawlex_2: raises $0.03 to $0.05
+Vikki61: calls $0.03
+*** FLOP *** [Qh Ac Kd]
+lawlex_2: bets $0.07
+Vikki61: calls $0.07
+*** TURN *** [Qh Ac Kd] [Ah]
+lawlex_2: bets $0.15
+Vikki61: folds 
+Uncalled bet ($0.15) returned to lawlex_2
+lawlex_2 collected $0.23 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Qh Ac Kd Ah]
+Seat 1: Pimych13 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) collected ($0.23)
+Seat 3: Vikki61 (big blind) folded on the Turn
+Seat 4: Hollywoodhails folded before Flop (didn't bet)
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922638613:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:56:47 MSK [2020/05/15 15:56:47 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: Pimych13 ($1.18 in chips) 
+Seat 2: lawlex_2 ($1.34 in chips) 
+Seat 3: Vikki61 ($2.22 in chips) 
+Seat 4: Hollywoodhails ($1.39 in chips) 
+Seat 5: TheRealKilroy ($2.60 in chips) 
+Seat 6: ovchina84 ($3.71 in chips) 
+Vikki61: posts small blind $0.01
+Hollywoodhails: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 2d]
+TheRealKilroy: folds 
+ovchina84: folds 
+Pimych13: folds 
+lawlex_2: folds 
+Vikki61: folds 
+Uncalled bet ($0.01) returned to Hollywoodhails
+Hollywoodhails collected $0.02 from pot
+Hollywoodhails: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: Vikki61 (small blind) folded before Flop
+Seat 4: Hollywoodhails (big blind) collected ($0.02)
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922645454:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:56:56 MSK [2020/05/15 15:56:56 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: Pimych13 ($1.18 in chips) 
+Seat 2: lawlex_2 ($1.34 in chips) 
+Seat 3: Vikki61 ($2.21 in chips) 
+Seat 4: Hollywoodhails ($1.40 in chips) 
+Seat 5: TheRealKilroy ($2.60 in chips) 
+Seat 6: ovchina84 ($3.71 in chips) 
+Hollywoodhails: posts small blind $0.01
+TheRealKilroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Qc]
+ovchina84: folds 
+Pimych13: folds 
+lawlex_2: folds 
+Vikki61: folds 
+Hollywoodhails: calls $0.01
+TheRealKilroy: raises $0.06 to $0.08
+Hollywoodhails: folds 
+Uncalled bet ($0.06) returned to TheRealKilroy
+TheRealKilroy collected $0.04 from pot
+TheRealKilroy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Vikki61 (button) folded before Flop (didn't bet)
+Seat 4: Hollywoodhails (small blind) folded before Flop
+Seat 5: TheRealKilroy (big blind) collected ($0.04)
+Seat 6: ovchina84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922658223:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:57:12 MSK [2020/05/15 15:57:12 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: Pimych13 ($1.18 in chips) 
+Seat 2: lawlex_2 ($1.34 in chips) 
+Seat 3: Vikki61 ($2.21 in chips) 
+Seat 4: Hollywoodhails ($1.38 in chips) 
+Seat 5: TheRealKilroy ($2.62 in chips) 
+Seat 6: ovchina84 ($3.71 in chips) 
+TheRealKilroy: posts small blind $0.01
+ovchina84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Th]
+Pimych13: folds 
+lawlex_2: raises $0.03 to $0.05
+Vikki61: calls $0.05
+Hollywoodhails: calls $0.05
+TheRealKilroy: folds 
+ovchina84: folds 
+*** FLOP *** [8d 4s Kc]
+lawlex_2: bets $0.11
+Vikki61: folds 
+Hollywoodhails: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.17 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [8d 4s Kc]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 collected ($0.17)
+Seat 3: Vikki61 folded on the Flop
+Seat 4: Hollywoodhails (button) folded on the Flop
+Seat 5: TheRealKilroy (small blind) folded before Flop
+Seat 6: ovchina84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213922678625:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:57:38 MSK [2020/05/15 15:57:38 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: Pimych13 ($1.18 in chips) 
+Seat 2: lawlex_2 ($1.46 in chips) 
+Seat 3: Vikki61 ($2.16 in chips) 
+Seat 4: Hollywoodhails ($1.33 in chips) 
+Seat 5: TheRealKilroy ($2.61 in chips) 
+Seat 6: ovchina84 ($3.69 in chips) 
+ovchina84: posts small blind $0.01
+Pimych13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 9d]
+lawlex_2: folds 
+Vikki61: raises $0.04 to $0.06
+Hollywoodhails: calls $0.06
+TheRealKilroy: folds 
+ovchina84: folds 
+Pimych13: folds 
+*** FLOP *** [5h 8c 9s]
+Vikki61: checks 
+Hollywoodhails: checks 
+*** TURN *** [5h 8c 9s] [6d]
+Vikki61: checks 
+Hollywoodhails: checks 
+*** RIVER *** [5h 8c 9s 6d] [Jc]
+Vikki61: checks 
+Hollywoodhails: checks 
+*** SHOW DOWN ***
+Vikki61: shows [Ah Th] (high card Ace)
+Hollywoodhails: shows [Ad Qc] (high card Ace - Queen kicker)
+Hollywoodhails collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5h 8c 9s 6d Jc]
+Seat 1: Pimych13 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: Vikki61 showed [Ah Th] and lost with high card Ace
+Seat 4: Hollywoodhails showed [Ad Qc] and won ($0.14) with high card Ace
+Seat 5: TheRealKilroy (button) folded before Flop (didn't bet)
+Seat 6: ovchina84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213922708638:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:58:17 MSK [2020/05/15 15:58:17 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: Pimych13 ($1.16 in chips) 
+Seat 2: lawlex_2 ($1.46 in chips) 
+Seat 3: Vikki61 ($2.10 in chips) 
+Seat 4: Hollywoodhails ($1.41 in chips) 
+Seat 5: TheRealKilroy ($2.61 in chips) 
+Seat 6: ovchina84 ($3.68 in chips) 
+Pimych13: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Jh]
+Vikki61: folds 
+Hollywoodhails: calls $0.02
+TheRealKilroy: folds 
+Vikki61 leaves the table
+ovchina84: calls $0.02
+Pimych13: raises $0.02 to $0.04
+lawlex_2: folds 
+Hollywoodhails: calls $0.02
+ovchina84: calls $0.02
+*** FLOP *** [9c 3c As]
+Pimych13: bets $0.02
+Hollywoodhails: calls $0.02
+ovchina84: folds 
+*** TURN *** [9c 3c As] [Kh]
+Pimych13: bets $0.02
+Hollywoodhails: calls $0.02
+*** RIVER *** [9c 3c As Kh] [Jd]
+Pimych13: bets $0.02
+Hollywoodhails: raises $0.08 to $0.10
+Pimych13: calls $0.08
+*** SHOW DOWN ***
+Hollywoodhails: shows [Qc 9h] (a pair of Nines)
+Pimych13: mucks hand 
+Hollywoodhails collected $0.41 from pot
+gettem29 joins the table at seat #3 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [9c 3c As Kh Jd]
+Seat 1: Pimych13 (small blind) mucked [4c 4d]
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: Vikki61 folded before Flop (didn't bet)
+Seat 4: Hollywoodhails showed [Qc 9h] and won ($0.41) with a pair of Nines
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 (button) folded on the Flop
+
+
+
+PokerStars Hand #213922743884:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:59:02 MSK [2020/05/15 15:59:02 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Pimych13 ($0.98 in chips) 
+Seat 2: lawlex_2 ($1.44 in chips) 
+Seat 3: gettem29 ($0.80 in chips) 
+Seat 4: Hollywoodhails ($1.64 in chips) 
+Seat 5: TheRealKilroy ($2.61 in chips) 
+Seat 6: ovchina84 ($3.64 in chips) 
+lawlex_2: posts small blind $0.01
+gettem29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 5s]
+Hollywoodhails: folds 
+TheRealKilroy: folds 
+ovchina84: calls $0.02
+Pimych13: folds 
+lawlex_2: folds 
+gettem29: raises $0.78 to $0.80 and is all-in
+ovchina84: folds 
+Uncalled bet ($0.78) returned to gettem29
+gettem29 collected $0.05 from pot
+gettem29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Pimych13 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: gettem29 (big blind) collected ($0.05)
+Seat 4: Hollywoodhails folded before Flop (didn't bet)
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 folded before Flop
+
+
+
+PokerStars Hand #213922764603:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:59:29 MSK [2020/05/15 15:59:29 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: Pimych13 ($0.98 in chips) 
+Seat 2: lawlex_2 ($1.43 in chips) 
+Seat 3: gettem29 ($0.83 in chips) 
+Seat 4: Hollywoodhails ($1.64 in chips) 
+Seat 5: TheRealKilroy ($2.61 in chips) 
+Seat 6: ovchina84 ($3.62 in chips) 
+gettem29: posts small blind $0.01
+Hollywoodhails: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Ts]
+TheRealKilroy: folds 
+ovchina84: folds 
+Pimych13: folds 
+lawlex_2: raises $0.03 to $0.05
+gettem29: folds 
+Hollywoodhails: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) collected ($0.05)
+Seat 3: gettem29 (small blind) folded before Flop
+Seat 4: Hollywoodhails (big blind) folded before Flop
+Seat 5: TheRealKilroy folded before Flop (didn't bet)
+Seat 6: ovchina84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922776730:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 22:59:44 MSK [2020/05/15 15:59:44 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: Pimych13 ($0.98 in chips) 
+Seat 2: lawlex_2 ($1.46 in chips) 
+Seat 3: gettem29 ($0.82 in chips) 
+Seat 4: Hollywoodhails ($1.62 in chips) 
+Seat 5: TheRealKilroy ($2.61 in chips) 
+Seat 6: ovchina84 ($3.62 in chips) 
+Hollywoodhails: posts small blind $0.01
+TheRealKilroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 5d]
+ovchina84: folds 
+Pimych13: calls $0.02
+lawlex_2: folds 
+ovchina84 leaves the table
+gettem29: folds 
+Hollywoodhails: calls $0.01
+TheRealKilroy: checks 
+*** FLOP *** [7s 4d 8h]
+iwinfirstAAAA joins the table at seat #6 
+Hollywoodhails: checks 
+TheRealKilroy: checks 
+Pimych13: checks 
+*** TURN *** [7s 4d 8h] [5s]
+Hollywoodhails: checks 
+TheRealKilroy: bets $0.04
+Pimych13: raises $0.04 to $0.08
+Hollywoodhails: calls $0.08
+TheRealKilroy: calls $0.04
+*** RIVER *** [7s 4d 8h 5s] [Kd]
+Hollywoodhails: bets $0.20
+TheRealKilroy: folds 
+TheRealKilroy leaves the table
+Pimych13: calls $0.20
+*** SHOW DOWN ***
+Hollywoodhails: shows [9h 6s] (a straight, Five to Nine)
+Pimych13: mucks hand 
+Hollywoodhails collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [7s 4d 8h 5s Kd]
+Seat 1: Pimych13 mucked [Ac Ah]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: gettem29 (button) folded before Flop (didn't bet)
+Seat 4: Hollywoodhails (small blind) showed [9h 6s] and won ($0.68) with a straight, Five to Nine
+Seat 5: TheRealKilroy (big blind) folded on the River
+Seat 6: ovchina84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213922822402:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:00:39 MSK [2020/05/15 16:00:39 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: Pimych13 ($0.68 in chips) 
+Seat 2: lawlex_2 ($1.46 in chips) 
+Seat 3: gettem29 ($0.82 in chips) 
+Seat 4: Hollywoodhails ($2 in chips) 
+Pimych13: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Ts]
+gettem29: raises $0.02 to $0.04
+Mr_Matsen joins the table at seat #5 
+Hollywoodhails: calls $0.04
+Pimych13: folds 
+lawlex_2: calls $0.02
+*** FLOP *** [Th 7s 3s]
+lawlex_2: bets $0.09
+gettem29: calls $0.09
+Hollywoodhails: calls $0.09
+*** TURN *** [Th 7s 3s] [Jc]
+Mr_Matsen leaves the table
+lawlex_2: bets $0.26
+gettem29: calls $0.26
+Hollywoodhails: calls $0.26
+*** RIVER *** [Th 7s 3s Jc] [8d]
+lawlex_2: checks 
+gettem29: bets $0.43 and is all-in
+Hollywoodhails: folds 
+lawlex_2: folds 
+Uncalled bet ($0.43) returned to gettem29
+gettem29 collected $1.14 from pot
+gettem29: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [Th 7s 3s Jc 8d]
+Seat 1: Pimych13 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the River
+Seat 3: gettem29 collected ($1.14)
+Seat 4: Hollywoodhails (button) folded on the River
+
+
+
+PokerStars Hand #213922897342:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:01:52 MSK [2020/05/15 16:01:52 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Pimych13 ($0.67 in chips) 
+Seat 2: lawlex_2 ($1.07 in chips) 
+Seat 3: gettem29 ($1.57 in chips) 
+Seat 4: Hollywoodhails ($1.61 in chips) 
+Seat 6: iwinfirstAAAA ($0.80 in chips) 
+lawlex_2: posts small blind $0.01
+gettem29: posts big blind $0.02
+iwinfirstAAAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 2d]
+Hollywoodhails: calls $0.02
+iwinfirstAAAA: raises $0.02 to $0.04
+Pimych13: folds 
+lawlex_2: folds 
+gettem29: calls $0.02
+Hollywoodhails: calls $0.02
+*** FLOP *** [Ad 4d As]
+gettem29: checks 
+Hollywoodhails: checks 
+iwinfirstAAAA: bets $0.06
+gettem29: calls $0.06
+Hollywoodhails: calls $0.06
+*** TURN *** [Ad 4d As] [3s]
+gettem29: checks 
+Hollywoodhails: checks 
+iwinfirstAAAA: bets $0.08
+gettem29: calls $0.08
+Hollywoodhails: calls $0.08
+*** RIVER *** [Ad 4d As 3s] [Th]
+gettem29: checks 
+Hollywoodhails: checks 
+iwinfirstAAAA: checks 
+*** SHOW DOWN ***
+gettem29: shows [Ks 7s] (a pair of Aces)
+Hollywoodhails: shows [2h Ac] (three of a kind, Aces)
+iwinfirstAAAA: mucks hand 
+Hollywoodhails collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Ad 4d As 3s Th]
+Seat 1: Pimych13 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: gettem29 (big blind) showed [Ks 7s] and lost with a pair of Aces
+Seat 4: Hollywoodhails showed [2h Ac] and won ($0.53) with three of a kind, Aces
+Seat 6: iwinfirstAAAA mucked [6s 6h]
+
+
+
+PokerStars Hand #213922978953:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:02:56 MSK [2020/05/15 16:02:56 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: Pimych13 ($0.67 in chips) 
+Seat 2: lawlex_2 ($1.06 in chips) 
+Seat 3: gettem29 ($1.39 in chips) 
+Seat 4: Hollywoodhails ($1.96 in chips) 
+Seat 6: iwinfirstAAAA ($0.62 in chips) 
+gettem29: posts small blind $0.01
+Hollywoodhails: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 4d]
+MaaxyCe joins the table at seat #5 
+iwinfirstAAAA: calls $0.02
+Pimych13: folds 
+lawlex_2: folds 
+gettem29: raises $0.06 to $0.08
+Hollywoodhails: calls $0.06
+iwinfirstAAAA: calls $0.06
+*** FLOP *** [8s Td Kc]
+gettem29: bets $0.12
+Hollywoodhails: calls $0.12
+iwinfirstAAAA: calls $0.12
+*** TURN *** [8s Td Kc] [7c]
+gettem29: checks 
+Hollywoodhails: checks 
+iwinfirstAAAA: bets $0.28
+gettem29: calls $0.28
+Hollywoodhails: folds 
+*** RIVER *** [8s Td Kc 7c] [5d]
+gettem29: checks 
+iwinfirstAAAA: bets $0.14 and is all-in
+gettem29: calls $0.14
+*** SHOW DOWN ***
+iwinfirstAAAA: shows [7h Th] (two pair, Tens and Sevens)
+gettem29: shows [5s 6s] (a pair of Fives)
+iwinfirstAAAA collected $1.39 from pot
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.05 
+Board [8s Td Kc 7c 5d]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: gettem29 (small blind) showed [5s 6s] and lost with a pair of Fives
+Seat 4: Hollywoodhails (big blind) folded on the Turn
+Seat 6: iwinfirstAAAA showed [7h Th] and won ($1.39) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #213923045348:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:03:51 MSK [2020/05/15 16:03:51 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: Pimych13 ($0.67 in chips) 
+Seat 2: lawlex_2 ($1.06 in chips) 
+Seat 3: gettem29 ($0.77 in chips) 
+Seat 4: Hollywoodhails ($1.76 in chips) 
+Seat 5: MaaxyCe ($1.60 in chips) 
+Seat 6: iwinfirstAAAA ($1.39 in chips) 
+Hollywoodhails: posts small blind $0.01
+MaaxyCe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 2c]
+iwinfirstAAAA: calls $0.02
+Pimych13: folds 
+lawlex_2: folds 
+gettem29: raises $0.75 to $0.77 and is all-in
+Hollywoodhails: folds 
+MaaxyCe: folds 
+iwinfirstAAAA: folds 
+Uncalled bet ($0.75) returned to gettem29
+gettem29 collected $0.07 from pot
+gettem29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: gettem29 (button) collected ($0.07)
+Seat 4: Hollywoodhails (small blind) folded before Flop
+Seat 5: MaaxyCe (big blind) folded before Flop
+Seat 6: iwinfirstAAAA folded before Flop
+
+
+
+PokerStars Hand #213923068516:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:04:10 MSK [2020/05/15 16:04:10 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: Pimych13 ($0.67 in chips) 
+Seat 2: lawlex_2 ($1.06 in chips) 
+Seat 3: gettem29 ($0.82 in chips) 
+Seat 4: Hollywoodhails ($1.75 in chips) 
+Seat 5: MaaxyCe ($1.58 in chips) 
+Seat 6: iwinfirstAAAA ($1.37 in chips) 
+MaaxyCe: posts small blind $0.01
+iwinfirstAAAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 7d]
+Pimych13: folds 
+lawlex_2: folds 
+gettem29: raises $0.05 to $0.07
+Hollywoodhails: folds 
+MaaxyCe: folds 
+iwinfirstAAAA: folds 
+Uncalled bet ($0.05) returned to gettem29
+gettem29 collected $0.05 from pot
+gettem29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: gettem29 collected ($0.05)
+Seat 4: Hollywoodhails (button) folded before Flop (didn't bet)
+Seat 5: MaaxyCe (small blind) folded before Flop
+Seat 6: iwinfirstAAAA (big blind) folded before Flop
+
+
+
+PokerStars Hand #213923083982:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:04:23 MSK [2020/05/15 16:04:23 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: Pimych13 ($0.67 in chips) 
+Seat 2: lawlex_2 ($1.06 in chips) 
+Seat 3: gettem29 ($0.85 in chips) 
+Seat 4: Hollywoodhails ($1.75 in chips) 
+Seat 5: MaaxyCe ($1.57 in chips) 
+Seat 6: iwinfirstAAAA ($1.35 in chips) 
+iwinfirstAAAA: posts small blind $0.01
+Pimych13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Ah]
+lawlex_2: raises $0.03 to $0.05
+gettem29: folds 
+Hollywoodhails: calls $0.05
+MaaxyCe: folds 
+iwinfirstAAAA: folds 
+Pimych13: folds 
+*** FLOP *** [8s 7c 7d]
+lawlex_2: bets $0.09
+Hollywoodhails: calls $0.09
+*** TURN *** [8s 7c 7d] [3d]
+lawlex_2: bets $0.20
+Hollywoodhails: calls $0.20
+*** RIVER *** [8s 7c 7d 3d] [Td]
+lawlex_2: checks 
+Hollywoodhails: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [8h Ah] (two pair, Eights and Sevens)
+Hollywoodhails: shows [9c 9h] (two pair, Nines and Sevens)
+Hollywoodhails collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [8s 7c 7d 3d Td]
+Seat 1: Pimych13 (big blind) folded before Flop
+Seat 2: lawlex_2 showed [8h Ah] and lost with two pair, Eights and Sevens
+Seat 3: gettem29 folded before Flop (didn't bet)
+Seat 4: Hollywoodhails showed [9c 9h] and won ($0.69) with two pair, Nines and Sevens
+Seat 5: MaaxyCe (button) folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (small blind) folded before Flop
+
+
+
+PokerStars Hand #213923123536:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:04:55 MSK [2020/05/15 16:04:55 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: Pimych13 ($0.65 in chips) 
+Seat 2: lawlex_2 ($0.72 in chips) 
+Seat 3: gettem29 ($0.85 in chips) 
+Seat 4: Hollywoodhails ($2.10 in chips) 
+Seat 5: MaaxyCe ($1.57 in chips) 
+Seat 6: iwinfirstAAAA ($1.34 in chips) 
+Pimych13: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd As]
+gettem29: calls $0.02
+Hollywoodhails: calls $0.02
+MaaxyCe: folds 
+iwinfirstAAAA: folds 
+Pimych13: calls $0.01
+lawlex_2: raises $0.05 to $0.07
+gettem29: raises $0.18 to $0.25
+Hollywoodhails: calls $0.23
+Pimych13: folds 
+lawlex_2: raises $0.47 to $0.72 and is all-in
+gettem29: raises $0.13 to $0.85 and is all-in
+Hollywoodhails: folds 
+Uncalled bet ($0.13) returned to gettem29
+*** FLOP *** [2d 9c Ah]
+*** TURN *** [2d 9c Ah] [Ks]
+*** RIVER *** [2d 9c Ah Ks] [9h]
+*** SHOW DOWN ***
+lawlex_2: shows [Kd As] (two pair, Aces and Kings)
+gettem29: shows [Qs Kh] (two pair, Kings and Nines)
+lawlex_2 collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.06 
+Board [2d 9c Ah Ks 9h]
+Seat 1: Pimych13 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) showed [Kd As] and won ($1.65) with two pair, Aces and Kings
+Seat 3: gettem29 showed [Qs Kh] and lost with two pair, Kings and Nines
+Seat 4: Hollywoodhails folded before Flop
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213923188290:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:05:44 MSK [2020/05/15 16:05:44 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Pimych13 ($0.63 in chips) 
+Seat 2: lawlex_2 ($1.65 in chips) 
+Seat 3: gettem29 ($0.13 in chips) 
+Seat 4: Hollywoodhails ($1.85 in chips) 
+Seat 5: MaaxyCe ($1.57 in chips) 
+Seat 6: iwinfirstAAAA ($1.34 in chips) 
+lawlex_2: posts small blind $0.01
+gettem29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Qd]
+Hollywoodhails: calls $0.02
+MaaxyCe: calls $0.02
+iwinfirstAAAA: folds 
+Pimych13: folds 
+lawlex_2: raises $0.03 to $0.05
+gettem29: calls $0.03
+Hollywoodhails: calls $0.03
+MaaxyCe: calls $0.03
+*** FLOP *** [3c 9s 5h]
+lawlex_2: checks 
+gettem29: checks 
+Hollywoodhails: checks 
+MaaxyCe: checks 
+*** TURN *** [3c 9s 5h] [6s]
+lawlex_2: checks 
+gettem29: checks 
+Hollywoodhails: checks 
+MaaxyCe: checks 
+*** RIVER *** [3c 9s 5h 6s] [8c]
+lawlex_2: checks 
+gettem29: bets $0.08 and is all-in
+Hollywoodhails: calls $0.08
+MaaxyCe: folds 
+lawlex_2: folds 
+*** SHOW DOWN ***
+gettem29: shows [6c 8s] (two pair, Eights and Sixes)
+Hollywoodhails: shows [3s Jc] (a pair of Threes)
+gettem29 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [3c 9s 5h 6s 8c]
+Seat 1: Pimych13 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded on the River
+Seat 3: gettem29 (big blind) showed [6c 8s] and won ($0.35) with two pair, Eights and Sixes
+Seat 4: Hollywoodhails showed [3s Jc] and lost with a pair of Threes
+Seat 5: MaaxyCe folded on the River
+Seat 6: iwinfirstAAAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213923270153:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:06:51 MSK [2020/05/15 16:06:51 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: Pimych13 ($0.63 in chips) 
+Seat 2: lawlex_2 ($1.60 in chips) 
+Seat 3: gettem29 ($0.35 in chips) 
+Seat 4: Hollywoodhails ($1.72 in chips) 
+Seat 5: MaaxyCe ($1.52 in chips) 
+Seat 6: iwinfirstAAAA ($1.34 in chips) 
+gettem29: posts small blind $0.01
+Hollywoodhails: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 6d]
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.02
+Pimych13: folds 
+lawlex_2: calls $0.02
+gettem29: raises $0.33 to $0.35 and is all-in
+Hollywoodhails: folds 
+iwinfirstAAAA: calls $0.33
+lawlex_2: folds 
+*** FLOP *** [6s Ac 2d]
+*** TURN *** [6s Ac 2d] [Ad]
+*** RIVER *** [6s Ac 2d Ad] [Qs]
+*** SHOW DOWN ***
+gettem29: shows [9h Kd] (a pair of Aces)
+iwinfirstAAAA: shows [4h Ah] (three of a kind, Aces)
+iwinfirstAAAA cashed out the hand for $0.43
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [6s Ac 2d Ad Qs]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop
+Seat 3: gettem29 (small blind) showed [9h Kd] and lost with a pair of Aces
+Seat 4: Hollywoodhails (big blind) folded before Flop
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA showed [4h Ah] and won ($0.71) with three of a kind, Aces (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #213923301260:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:07:16 MSK [2020/05/15 16:07:16 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: Pimych13 ($0.63 in chips) 
+Seat 2: lawlex_2 ($1.58 in chips) 
+Seat 4: Hollywoodhails ($1.70 in chips) 
+Seat 5: MaaxyCe ($1.52 in chips) 
+Seat 6: iwinfirstAAAA ($1.42 in chips) 
+MaaxyCe: posts small blind $0.01
+iwinfirstAAAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Qd]
+gettem29 leaves the table
+Pimych13: folds 
+lawlex_2: folds 
+Hollywoodhails: calls $0.02
+MaaxyCe: calls $0.01
+iwinfirstAAAA: checks 
+*** FLOP *** [Th 4d Qh]
+ovid222 joins the table at seat #3 
+MaaxyCe: checks 
+iwinfirstAAAA: checks 
+Hollywoodhails: checks 
+*** TURN *** [Th 4d Qh] [2d]
+MaaxyCe is disconnected 
+MaaxyCe is connected 
+MaaxyCe: checks 
+iwinfirstAAAA: bets $0.02
+Hollywoodhails: calls $0.02
+MaaxyCe: folds 
+*** RIVER *** [Th 4d Qh 2d] [5d]
+iwinfirstAAAA: bets $0.02
+Hollywoodhails: raises $0.08 to $0.10
+iwinfirstAAAA: calls $0.08
+*** SHOW DOWN ***
+Hollywoodhails: shows [8s Qs] (a pair of Queens)
+iwinfirstAAAA: mucks hand 
+Hollywoodhails collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Th 4d Qh 2d 5d]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Hollywoodhails (button) showed [8s Qs] and won ($0.29) with a pair of Queens
+Seat 5: MaaxyCe (small blind) folded on the Turn
+Seat 6: iwinfirstAAAA (big blind) mucked [4s 3d]
+
+
+
+PokerStars Hand #213923400957:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:08:37 MSK [2020/05/15 16:08:37 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: Pimych13 ($0.63 in chips) 
+Seat 2: lawlex_2 ($1.58 in chips) 
+Seat 3: ovid222 ($2 in chips) 
+Seat 4: Hollywoodhails ($1.85 in chips) 
+Seat 5: MaaxyCe ($1.50 in chips) 
+Seat 6: iwinfirstAAAA ($1.28 in chips) 
+iwinfirstAAAA: posts small blind $0.01
+Pimych13: posts big blind $0.02
+ovid222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Ks]
+lawlex_2: raises $0.03 to $0.05
+ovid222: calls $0.03
+Hollywoodhails: folds 
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.04
+Pimych13: folds 
+*** FLOP *** [8s 7h 6h]
+iwinfirstAAAA: bets $0.02
+lawlex_2: raises $0.13 to $0.15
+ovid222: calls $0.15
+iwinfirstAAAA: folds 
+*** TURN *** [8s 7h 6h] [Td]
+lawlex_2: bets $0.31
+ovid222: calls $0.31
+*** RIVER *** [8s 7h 6h Td] [Th]
+lawlex_2: bets $0.71
+ovid222: calls $0.71
+*** SHOW DOWN ***
+lawlex_2: shows [Kh Ks] (two pair, Kings and Tens)
+ovid222: shows [3h Qh] (a flush, Queen high)
+ovid222 collected $2.44 from pot
+*** SUMMARY ***
+Total pot $2.53 | Rake $0.09 
+Board [8s 7h 6h Td Th]
+Seat 1: Pimych13 (big blind) folded before Flop
+Seat 2: lawlex_2 showed [Kh Ks] and lost with two pair, Kings and Tens
+Seat 3: ovid222 showed [3h Qh] and won ($2.44) with a flush, Queen high
+Seat 4: Hollywoodhails folded before Flop (didn't bet)
+Seat 5: MaaxyCe (button) folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213923465321:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:09:30 MSK [2020/05/15 16:09:30 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: Pimych13 ($0.61 in chips) 
+Seat 2: lawlex_2 ($0.36 in chips) 
+Seat 3: ovid222 ($3.22 in chips) 
+Seat 4: Hollywoodhails ($1.85 in chips) 
+Seat 5: MaaxyCe ($1.50 in chips) 
+Seat 6: iwinfirstAAAA ($1.21 in chips) 
+Pimych13: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 7c]
+ovid222: calls $0.02
+Hollywoodhails: calls $0.02
+MaaxyCe: raises $0.04 to $0.06
+iwinfirstAAAA: calls $0.06
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: calls $0.04
+Hollywoodhails: calls $0.04
+*** FLOP *** [Qc 2d 6d]
+ovid222: checks 
+Hollywoodhails: checks 
+MaaxyCe: checks 
+iwinfirstAAAA: bets $0.12
+ovid222: folds 
+Hollywoodhails: folds 
+MaaxyCe: folds 
+Uncalled bet ($0.12) returned to iwinfirstAAAA
+iwinfirstAAAA collected $0.26 from pot
+iwinfirstAAAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qc 2d 6d]
+Seat 1: Pimych13 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ovid222 folded on the Flop
+Seat 4: Hollywoodhails folded on the Flop
+Seat 5: MaaxyCe folded on the Flop
+Seat 6: iwinfirstAAAA (button) collected ($0.26)
+
+
+
+PokerStars Hand #213923549490:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:10:40 MSK [2020/05/15 16:10:40 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Pimych13 ($0.60 in chips) 
+Seat 2: lawlex_2 ($0.34 in chips) 
+Seat 3: ovid222 ($3.16 in chips) 
+Seat 4: Hollywoodhails ($1.79 in chips) 
+Seat 5: MaaxyCe ($1.44 in chips) 
+Seat 6: iwinfirstAAAA ($1.41 in chips) 
+lawlex_2: posts small blind $0.01
+ovid222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 5d]
+Hollywoodhails: calls $0.02
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.02
+Pimych13: calls $0.02
+lawlex_2: folds 
+ovid222: checks 
+*** FLOP *** [Kd Jd Ks]
+ovid222: checks 
+Hollywoodhails: checks 
+iwinfirstAAAA: bets $0.02
+Pimych13: raises $0.02 to $0.04
+ovid222: folds 
+Hollywoodhails: calls $0.04
+iwinfirstAAAA: calls $0.02
+*** TURN *** [Kd Jd Ks] [8d]
+Hollywoodhails: checks 
+iwinfirstAAAA: checks 
+Pimych13: bets $0.08
+Hollywoodhails: calls $0.08
+iwinfirstAAAA: folds 
+*** RIVER *** [Kd Jd Ks 8d] [5s]
+Hollywoodhails: checks 
+Pimych13: bets $0.20
+Hollywoodhails: calls $0.20
+*** SHOW DOWN ***
+Pimych13: shows [Ah Kc] (three of a kind, Kings)
+Hollywoodhails: mucks hand 
+Pimych13 collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Kd Jd Ks 8d 5s]
+Seat 1: Pimych13 (button) showed [Ah Kc] and won ($0.74) with three of a kind, Kings
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ovid222 (big blind) folded on the Flop
+Seat 4: Hollywoodhails mucked [Ad Jc]
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA folded on the Turn
+
+
+
+PokerStars Hand #213923639663:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:11:54 MSK [2020/05/15 16:11:54 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: Pimych13 ($1 in chips) 
+Seat 2: lawlex_2 ($0.33 in chips) 
+Seat 3: ovid222 ($3.14 in chips) 
+Seat 4: Hollywoodhails ($1.45 in chips) 
+Seat 5: MaaxyCe ($1.44 in chips) 
+Seat 6: iwinfirstAAAA ($1.35 in chips) 
+ovid222: posts small blind $0.01
+Hollywoodhails: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Ks]
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.02
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: raises $0.04 to $0.06
+Hollywoodhails: folds 
+iwinfirstAAAA: calls $0.04
+*** FLOP *** [9s Ad 6s]
+ovid222: bets $0.06
+iwinfirstAAAA: folds 
+Uncalled bet ($0.06) returned to ovid222
+ovid222 collected $0.14 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9s Ad 6s]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ovid222 (small blind) collected ($0.14)
+Seat 4: Hollywoodhails (big blind) folded before Flop
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA folded on the Flop
+
+
+
+PokerStars Hand #213923695928:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:12:40 MSK [2020/05/15 16:12:40 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: Pimych13 ($1 in chips) 
+Seat 2: lawlex_2 ($0.33 in chips) 
+Seat 3: ovid222 ($3.22 in chips) 
+Seat 4: Hollywoodhails ($1.43 in chips) 
+Seat 5: MaaxyCe ($1.44 in chips) 
+Seat 6: iwinfirstAAAA ($1.29 in chips) 
+Hollywoodhails: posts small blind $0.01
+MaaxyCe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 9d]
+iwinfirstAAAA: folds 
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: calls $0.02
+Hollywoodhails: calls $0.01
+MaaxyCe: checks 
+*** FLOP *** [Kc 3d As]
+Hollywoodhails: checks 
+MaaxyCe: checks 
+ovid222: checks 
+*** TURN *** [Kc 3d As] [9c]
+Hollywoodhails: checks 
+MaaxyCe: checks 
+ovid222: checks 
+*** RIVER *** [Kc 3d As 9c] [7h]
+Hollywoodhails: checks 
+MaaxyCe: checks 
+ovid222: checks 
+*** SHOW DOWN ***
+Hollywoodhails: shows [8d Qd] (high card Ace)
+MaaxyCe: mucks hand 
+ovid222: shows [Qh 8c] (high card Ace)
+Hollywoodhails collected $0.03 from pot
+ovid222 collected $0.03 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kc 3d As 9c 7h]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 (button) showed [Qh 8c] and won ($0.03) with high card Ace
+Seat 4: Hollywoodhails (small blind) showed [8d Qd] and won ($0.03) with high card Ace
+Seat 5: MaaxyCe (big blind) mucked [5c Td]
+Seat 6: iwinfirstAAAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213923750480:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:13:25 MSK [2020/05/15 16:13:25 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: Pimych13 ($1 in chips) 
+Seat 2: lawlex_2 ($0.33 in chips) 
+Seat 3: ovid222 ($3.23 in chips) 
+Seat 4: Hollywoodhails ($1.44 in chips) 
+Seat 5: MaaxyCe ($1.42 in chips) 
+Seat 6: iwinfirstAAAA ($1.29 in chips) 
+MaaxyCe: posts small blind $0.01
+iwinfirstAAAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Ah]
+Pimych13: folds 
+lawlex_2: raises $0.03 to $0.05
+ovid222: calls $0.05
+Hollywoodhails: calls $0.05
+MaaxyCe: calls $0.04
+iwinfirstAAAA: calls $0.03
+*** FLOP *** [As 2c 5c]
+MaaxyCe: checks 
+iwinfirstAAAA: checks 
+lawlex_2: bets $0.16
+ovid222: calls $0.16
+Hollywoodhails: calls $0.16
+MaaxyCe: folds 
+iwinfirstAAAA: folds 
+*** TURN *** [As 2c 5c] [Qd]
+lawlex_2: bets $0.12 and is all-in
+ovid222: calls $0.12
+Hollywoodhails: calls $0.12
+*** RIVER *** [As 2c 5c Qd] [Ac]
+ovid222: bets $0.50
+Hollywoodhails: raises $0.61 to $1.11 and is all-in
+ovid222: calls $0.61
+*** SHOW DOWN ***
+Hollywoodhails: shows [3h Ad] (three of a kind, Aces)
+ovid222: shows [9c Qc] (a flush, Ace high)
+ovid222 collected $2.14 from side pot
+lawlex_2: shows [Qh Ah] (a full house, Aces full of Queens)
+lawlex_2 collected $1.05 from main pot
+*** SUMMARY ***
+Total pot $3.31 Main pot $1.05. Side pot $2.14. | Rake $0.12 
+Board [As 2c 5c Qd Ac]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 showed [Qh Ah] and won ($1.05) with a full house, Aces full of Queens
+Seat 3: ovid222 showed [9c Qc] and won ($2.14) with a flush, Ace high
+Seat 4: Hollywoodhails (button) showed [3h Ad] and lost with three of a kind, Aces
+Seat 5: MaaxyCe (small blind) folded on the Flop
+Seat 6: iwinfirstAAAA (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213923879944:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:15:09 MSK [2020/05/15 16:15:09 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: Pimych13 ($1 in chips) 
+Seat 2: lawlex_2 ($1.05 in chips) 
+Seat 3: ovid222 ($3.93 in chips) 
+Seat 5: MaaxyCe ($1.37 in chips) 
+Seat 6: iwinfirstAAAA ($1.24 in chips) 
+iwinfirstAAAA: posts small blind $0.01
+Pimych13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 2h]
+lawlex_2: folds 
+ovid222: calls $0.02
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.01
+Pimych13: checks 
+*** FLOP *** [Jh 8h Qh]
+iwinfirstAAAA: checks 
+Pimych13: checks 
+ovid222: bets $0.02
+iwinfirstAAAA: calls $0.02
+Pimych13: calls $0.02
+*** TURN *** [Jh 8h Qh] [9d]
+iwinfirstAAAA: checks 
+Hollywoodhails leaves the table
+Pimych13: bets $0.08
+ovid222: calls $0.08
+iwinfirstAAAA: calls $0.08
+*** RIVER *** [Jh 8h Qh 9d] [3d]
+iwinfirstAAAA: checks 
+Pimych13: bets $0.28
+ovid222: folds 
+iwinfirstAAAA: calls $0.28
+*** SHOW DOWN ***
+Pimych13: shows [Th Ac] (a straight, Eight to Queen)
+iwinfirstAAAA: mucks hand 
+Pimych13 collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [Jh 8h Qh 9d 3d]
+Seat 1: Pimych13 (big blind) showed [Th Ac] and won ($0.89) with a straight, Eight to Queen
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 folded on the River
+Seat 5: MaaxyCe (button) folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (small blind) mucked [Qs 3s]
+
+
+
+PokerStars Hand #213923956237:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:16:10 MSK [2020/05/15 16:16:10 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: Pimych13 ($1.49 in chips) 
+Seat 2: lawlex_2 ($1.05 in chips) 
+Seat 3: ovid222 ($3.81 in chips) 
+Seat 5: MaaxyCe ($1.37 in chips) 
+Seat 6: iwinfirstAAAA ($0.84 in chips) 
+Pimych13: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Jc]
+ovid222: calls $0.02
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.02
+Pimych13: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+ovid222: calls $0.03
+iwinfirstAAAA: calls $0.03
+Pimych13: folds 
+*** FLOP *** [Ts 3c 4s]
+lawlex_2: bets $0.11
+Astroworm joins the table at seat #4 
+ovid222: folds 
+iwinfirstAAAA: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.16 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ts 3c 4s]
+Seat 1: Pimych13 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.16)
+Seat 3: ovid222 folded on the Flop
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (button) folded on the Flop
+
+
+
+PokerStars Hand #213924003803:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:16:48 MSK [2020/05/15 16:16:48 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Pimych13 ($1.47 in chips) 
+Seat 2: lawlex_2 ($1.16 in chips) 
+Seat 3: ovid222 ($3.76 in chips) 
+Seat 5: MaaxyCe ($1.37 in chips) 
+Seat 6: iwinfirstAAAA ($0.79 in chips) 
+lawlex_2: posts small blind $0.01
+ovid222: posts big blind $0.02
+Astroworm: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Jc]
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.02
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: checks 
+*** FLOP *** [6s 9d 7c]
+ovid222: checks 
+iwinfirstAAAA: checks 
+*** TURN *** [6s 9d 7c] [9h]
+ovid222: bets $0.02
+iwinfirstAAAA: folds 
+Uncalled bet ($0.02) returned to ovid222
+ovid222 collected $0.05 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6s 9d 7c 9h]
+Seat 1: Pimych13 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ovid222 (big blind) collected ($0.05)
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA folded on the Turn
+
+
+
+PokerStars Hand #213924034327:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:17:13 MSK [2020/05/15 16:17:13 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: Pimych13 ($1.47 in chips) 
+Seat 2: lawlex_2 ($1.15 in chips) 
+Seat 3: ovid222 ($3.79 in chips) 
+Seat 4: Astroworm ($2 in chips) 
+Seat 5: MaaxyCe ($1.37 in chips) 
+Seat 6: iwinfirstAAAA ($0.77 in chips) 
+ovid222: posts small blind $0.01
+Astroworm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 5h]
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.02
+Pimych13: folds 
+lawlex_2: raises $0.03 to $0.05
+ovid222: calls $0.04
+Astroworm: folds 
+iwinfirstAAAA: calls $0.03
+*** FLOP *** [Th Kc Kh]
+ovid222: checks 
+iwinfirstAAAA: checks 
+lawlex_2: bets $0.11
+ovid222: calls $0.11
+iwinfirstAAAA: folds 
+*** TURN *** [Th Kc Kh] [9s]
+ovid222: checks 
+lawlex_2: checks 
+*** RIVER *** [Th Kc Kh 9s] [Ac]
+ovid222: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+ovid222: shows [7d 7h] (two pair, Kings and Sevens)
+lawlex_2: mucks hand 
+ovid222 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Th Kc Kh 9s Ac]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) mucked [5s 5h]
+Seat 3: ovid222 (small blind) showed [7d 7h] and won ($0.38) with two pair, Kings and Sevens
+Seat 4: Astroworm (big blind) folded before Flop
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA folded on the Flop
+
+
+
+PokerStars Hand #213924151628:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:18:48 MSK [2020/05/15 16:18:48 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: Pimych13 ($1.47 in chips) 
+Seat 2: lawlex_2 ($0.99 in chips) 
+Seat 3: ovid222 ($4.01 in chips) 
+Seat 4: Astroworm ($2 in chips) 
+Seat 5: MaaxyCe ($1.37 in chips) 
+Seat 6: iwinfirstAAAA ($0.72 in chips) 
+Astroworm: posts small blind $0.01
+MaaxyCe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Js]
+iwinfirstAAAA: calls $0.02
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: folds 
+Astroworm: calls $0.01
+MaaxyCe: checks 
+*** FLOP *** [3d Ts 7h]
+Astroworm: checks 
+MaaxyCe: checks 
+iwinfirstAAAA: bets $0.02
+Astroworm: folds 
+MaaxyCe: calls $0.02
+*** TURN *** [3d Ts 7h] [Ah]
+MaaxyCe: checks 
+iwinfirstAAAA: bets $0.02
+MaaxyCe: calls $0.02
+*** RIVER *** [3d Ts 7h Ah] [Qd]
+MaaxyCe: checks 
+iwinfirstAAAA: checks 
+*** SHOW DOWN ***
+MaaxyCe: shows [Qh Jh] (a pair of Queens)
+iwinfirstAAAA: mucks hand 
+MaaxyCe collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3d Ts 7h Ah Qd]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 (button) folded before Flop (didn't bet)
+Seat 4: Astroworm (small blind) folded on the Flop
+Seat 5: MaaxyCe (big blind) showed [Qh Jh] and won ($0.14) with a pair of Queens
+Seat 6: iwinfirstAAAA mucked [8d 9c]
+
+
+
+PokerStars Hand #213924227812:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:19:49 MSK [2020/05/15 16:19:49 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: Pimych13 ($1.47 in chips) 
+Seat 2: lawlex_2 ($0.99 in chips) 
+Seat 3: ovid222 ($4.01 in chips) 
+Seat 4: Astroworm ($2 in chips) 
+Seat 5: MaaxyCe ($1.45 in chips) 
+Seat 6: iwinfirstAAAA ($0.66 in chips) 
+MaaxyCe: posts small blind $0.01
+iwinfirstAAAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d As]
+Pimych13: folds 
+lawlex_2: raises $0.03 to $0.05
+ovid222: folds 
+Astroworm: calls $0.05
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.03
+*** FLOP *** [Qh 2s Jd]
+iwinfirstAAAA: checks 
+lawlex_2: bets $0.10
+Astroworm: raises $0.20 to $0.30
+iwinfirstAAAA: folds 
+lawlex_2: folds 
+Uncalled bet ($0.20) returned to Astroworm
+Astroworm collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Qh 2s Jd]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: ovid222 folded before Flop (didn't bet)
+Seat 4: Astroworm (button) collected ($0.35)
+Seat 5: MaaxyCe (small blind) folded before Flop
+Seat 6: iwinfirstAAAA (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213924292064:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:20:34 MSK [2020/05/15 16:20:34 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: Pimych13 ($1.47 in chips) 
+Seat 2: lawlex_2 ($0.84 in chips) 
+Seat 3: ovid222 ($4.01 in chips) 
+Seat 4: Astroworm ($2.20 in chips) 
+Seat 5: MaaxyCe ($1.44 in chips) 
+Seat 6: iwinfirstAAAA ($0.61 in chips) 
+iwinfirstAAAA: posts small blind $0.01
+Pimych13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 2h]
+lawlex_2: folds 
+ovid222: calls $0.02
+Astroworm: folds 
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.01
+Pimych13: checks 
+*** FLOP *** [8h 3c 4c]
+iwinfirstAAAA: bets $0.02
+Pimych13: folds 
+ovid222: raises $0.04 to $0.06
+iwinfirstAAAA: calls $0.04
+*** TURN *** [8h 3c 4c] [9h]
+iwinfirstAAAA: bets $0.02
+ovid222: calls $0.02
+*** RIVER *** [8h 3c 4c 9h] [5d]
+iwinfirstAAAA: bets $0.08
+ovid222: calls $0.08
+*** SHOW DOWN ***
+iwinfirstAAAA: shows [Ac 2d] (a straight, Ace to Five)
+ovid222: mucks hand 
+iwinfirstAAAA collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [8h 3c 4c 9h 5d]
+Seat 1: Pimych13 (big blind) folded on the Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 mucked [6d 6s]
+Seat 4: Astroworm folded before Flop (didn't bet)
+Seat 5: MaaxyCe (button) folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (small blind) showed [Ac 2d] and won ($0.37) with a straight, Ace to Five
+
+
+
+PokerStars Hand #213924357217:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:21:26 MSK [2020/05/15 16:21:26 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: Pimych13 ($1.45 in chips) 
+Seat 2: lawlex_2 ($0.84 in chips) 
+Seat 3: ovid222 ($3.83 in chips) 
+Seat 4: Astroworm ($2.20 in chips) 
+Seat 5: MaaxyCe ($1.44 in chips) 
+Seat 6: iwinfirstAAAA ($0.80 in chips) 
+Pimych13: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 9h]
+ovid222: calls $0.02
+Astroworm: folds 
+MaaxyCe: raises $0.04 to $0.06
+iwinfirstAAAA: calls $0.06
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: calls $0.04
+*** FLOP *** [2c 5s Ad]
+ovid222: checks 
+MaaxyCe: checks 
+iwinfirstAAAA: checks 
+*** TURN *** [2c 5s Ad] [Qc]
+ovid222: checks 
+MaaxyCe: bets $0.08
+iwinfirstAAAA: folds 
+ovid222: folds 
+Uncalled bet ($0.08) returned to MaaxyCe
+MaaxyCe collected $0.20 from pot
+MaaxyCe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2c 5s Ad Qc]
+Seat 1: Pimych13 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ovid222 folded on the Turn
+Seat 4: Astroworm folded before Flop (didn't bet)
+Seat 5: MaaxyCe collected ($0.20)
+Seat 6: iwinfirstAAAA (button) folded on the Turn
+
+
+
+PokerStars Hand #213924407056:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:22:07 MSK [2020/05/15 16:22:07 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Pimych13 ($1.44 in chips) 
+Seat 2: lawlex_2 ($0.82 in chips) 
+Seat 3: ovid222 ($3.77 in chips) 
+Seat 4: Astroworm ($2.20 in chips) 
+Seat 5: MaaxyCe ($1.58 in chips) 
+Seat 6: iwinfirstAAAA ($0.74 in chips) 
+lawlex_2: posts small blind $0.01
+ovid222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 3h]
+Astroworm: folds 
+MaaxyCe: folds 
+iwinfirstAAAA: folds 
+Pimych13 is disconnected 
+Pimych13 has timed out while being disconnected
+Pimych13: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to ovid222
+ovid222 collected $0.02 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Pimych13 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ovid222 (big blind) collected ($0.02)
+Seat 4: Astroworm folded before Flop (didn't bet)
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213924441990:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:22:35 MSK [2020/05/15 16:22:35 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($0.81 in chips) 
+Seat 3: ovid222 ($3.78 in chips) 
+Seat 4: Astroworm ($2.20 in chips) 
+Seat 5: MaaxyCe ($1.58 in chips) 
+Seat 6: iwinfirstAAAA ($0.74 in chips) 
+ovid222: posts small blind $0.01
+Astroworm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Kd]
+MaaxyCe: raises $0.04 to $0.06
+iwinfirstAAAA: folds 
+lawlex_2: folds 
+ovid222: calls $0.05
+Astroworm: folds 
+*** FLOP *** [5h Jh Td]
+ovid222: checks 
+MaaxyCe: checks 
+*** TURN *** [5h Jh Td] [6s]
+ovid222: checks 
+MaaxyCe: checks 
+*** RIVER *** [5h Jh Td 6s] [Qh]
+ovid222: checks 
+MaaxyCe: bets $0.10
+ovid222: folds 
+Uncalled bet ($0.10) returned to MaaxyCe
+MaaxyCe collected $0.14 from pot
+MaaxyCe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5h Jh Td 6s Qh]
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ovid222 (small blind) folded on the River
+Seat 4: Astroworm (big blind) folded before Flop
+Seat 5: MaaxyCe collected ($0.14)
+Seat 6: iwinfirstAAAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213924480654:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:23:07 MSK [2020/05/15 16:23:07 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: Pimych13 ($1.44 in chips) 
+Seat 2: lawlex_2 ($0.81 in chips) 
+Seat 3: ovid222 ($3.72 in chips) 
+Seat 4: Astroworm ($2.18 in chips) 
+Seat 5: MaaxyCe ($1.66 in chips) 
+Seat 6: iwinfirstAAAA ($0.74 in chips) 
+Astroworm: posts small blind $0.01
+MaaxyCe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 5c]
+iwinfirstAAAA: calls $0.02
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: calls $0.02
+Astroworm: folds 
+MaaxyCe: checks 
+*** FLOP *** [Ts 3s 3h]
+MaaxyCe: checks 
+iwinfirstAAAA: bets $0.02
+ovid222: folds 
+MaaxyCe: folds 
+Uncalled bet ($0.02) returned to iwinfirstAAAA
+iwinfirstAAAA collected $0.07 from pot
+iwinfirstAAAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Ts 3s 3h]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 (button) folded on the Flop
+Seat 4: Astroworm (small blind) folded before Flop
+Seat 5: MaaxyCe (big blind) folded on the Flop
+Seat 6: iwinfirstAAAA collected ($0.07)
+
+
+
+PokerStars Hand #213924536965:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:23:53 MSK [2020/05/15 16:23:53 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: Pimych13 ($1.44 in chips) 
+Seat 2: lawlex_2 ($0.81 in chips) 
+Seat 3: ovid222 ($3.70 in chips) 
+Seat 4: Astroworm ($2.17 in chips) 
+Seat 5: MaaxyCe ($1.64 in chips) 
+Seat 6: iwinfirstAAAA ($0.79 in chips) 
+MaaxyCe: posts small blind $0.01
+iwinfirstAAAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 8c]
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: folds 
+Astroworm: raises $0.04 to $0.06
+MaaxyCe: folds 
+iwinfirstAAAA: folds 
+Uncalled bet ($0.04) returned to Astroworm
+Astroworm collected $0.05 from pot
+Astroworm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 folded before Flop (didn't bet)
+Seat 4: Astroworm (button) collected ($0.05)
+Seat 5: MaaxyCe (small blind) folded before Flop
+Seat 6: iwinfirstAAAA (big blind) folded before Flop
+
+
+
+PokerStars Hand #213924553746:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:24:06 MSK [2020/05/15 16:24:06 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: Pimych13 ($1.44 in chips) 
+Seat 2: lawlex_2 ($0.81 in chips) 
+Seat 3: ovid222 ($3.70 in chips) 
+Seat 4: Astroworm ($2.20 in chips) 
+Seat 6: iwinfirstAAAA ($0.77 in chips) 
+Pimych13: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 4s]
+ovid222: calls $0.02
+Astroworm: folds 
+iwinfirstAAAA: calls $0.02
+Pimych13: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [3h Kd Jd]
+Pimych13: checks 
+lawlex_2: checks 
+ovid222: checks 
+iwinfirstAAAA: bets $0.08
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: calls $0.08
+*** TURN *** [3h Kd Jd] [3c]
+ovid222: checks 
+iwinfirstAAAA: bets $0.10
+ovid222: raises $0.30 to $0.40
+iwinfirstAAAA: calls $0.30
+*** RIVER *** [3h Kd Jd 3c] [Ac]
+ovid222: bets $0.24
+iwinfirstAAAA: folds 
+Uncalled bet ($0.24) returned to ovid222
+ovid222 collected $1 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.04 | Rake $0.04 
+Board [3h Kd Jd 3c Ac]
+Seat 1: Pimych13 (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: ovid222 collected ($1)
+Seat 4: Astroworm folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (button) folded on the River
+
+
+
+PokerStars Hand #213924618502:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:25:00 MSK [2020/05/15 16:25:00 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: Pimych13 ($1.42 in chips) 
+Seat 2: lawlex_2 ($0.79 in chips) 
+Seat 3: ovid222 ($4.20 in chips) 
+Seat 4: Astroworm ($2.20 in chips) 
+Seat 6: iwinfirstAAAA ($0.27 in chips) 
+lawlex_2: posts small blind $0.01
+ovid222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 5c]
+Astroworm: folds 
+iwinfirstAAAA: calls $0.02
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: checks 
+*** FLOP *** [Js Ts Kc]
+ovid222: checks 
+iwinfirstAAAA: checks 
+*** TURN *** [Js Ts Kc] [Qc]
+ovid222: bets $0.24
+iwinfirstAAAA: calls $0.24
+*** RIVER *** [Js Ts Kc Qc] [Qh]
+ovid222: bets $0.02
+iwinfirstAAAA: calls $0.01 and is all-in
+Uncalled bet ($0.01) returned to ovid222
+*** SHOW DOWN ***
+ovid222: shows [4c Ad] (a straight, Ten to Ace)
+iwinfirstAAAA: shows [8c 2c] (a pair of Queens)
+ovid222 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Js Ts Kc Qc Qh]
+Seat 1: Pimych13 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ovid222 (big blind) showed [4c Ad] and won ($0.53) with a straight, Ten to Ace
+Seat 4: Astroworm folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA showed [8c 2c] and lost with a pair of Queens
+
+
+
+PokerStars Hand #213924661331:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:25:35 MSK [2020/05/15 16:25:35 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: Pimych13 ($1.42 in chips) 
+Seat 2: lawlex_2 ($0.78 in chips) 
+Seat 3: ovid222 ($4.46 in chips) 
+Seat 4: Astroworm ($2.20 in chips) 
+ovid222: posts small blind $0.01
+Astroworm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Kh]
+Pimych13: folds 
+lawlex_2: folds 
+ovid222: calls $0.01
+Astroworm: raises $0.08 to $0.10
+ovid222: calls $0.08
+*** FLOP *** [7s 4d 9s]
+ovid222: checks 
+Astroworm: bets $0.15
+ovid222: calls $0.15
+*** TURN *** [7s 4d 9s] [Qh]
+ovid222: checks 
+Astroworm: bets $1.95 and is all-in
+ovid222: folds 
+Uncalled bet ($1.95) returned to Astroworm
+Astroworm collected $0.48 from pot
+Astroworm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [7s 4d 9s Qh]
+Seat 1: Pimych13 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ovid222 (small blind) folded on the Turn
+Seat 4: Astroworm (big blind) collected ($0.48)
+
+
+
+PokerStars Hand #213924759175:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:26:56 MSK [2020/05/15 16:26:56 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: Pimych13 ($1.42 in chips) 
+Seat 2: lawlex_2 ($0.78 in chips) 
+Seat 3: ovid222 ($4.21 in chips) 
+Seat 4: Astroworm ($2.43 in chips) 
+Seat 5: MaaxyCe ($1.63 in chips) 
+Seat 6: iwinfirstAAAA ($0.80 in chips) 
+Astroworm: posts small blind $0.01
+MaaxyCe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 4c]
+iwinfirstAAAA: folds 
+Pimych13: raises $0.02 to $0.04
+lawlex_2: folds 
+ovid222: calls $0.04
+Astroworm: folds 
+MaaxyCe: calls $0.02
+*** FLOP *** [9s 7h Kc]
+MaaxyCe: checks 
+Pimych13: bets $0.14
+ovid222: calls $0.14
+MaaxyCe: folds 
+*** TURN *** [9s 7h Kc] [9h]
+Pimych13: bets $0.32
+ovid222: raises $3.71 to $4.03 and is all-in
+Pimych13: calls $0.92 and is all-in
+Uncalled bet ($2.79) returned to ovid222
+*** RIVER *** [9s 7h Kc 9h] [7d]
+*** SHOW DOWN ***
+Pimych13: shows [8d 8c] (two pair, Nines and Eights)
+ovid222: shows [Kd Qh] (two pair, Kings and Nines)
+ovid222 collected $2.79 from pot
+*** SUMMARY ***
+Total pot $2.89 | Rake $0.10 
+Board [9s 7h Kc 9h 7d]
+Seat 1: Pimych13 showed [8d 8c] and lost with two pair, Nines and Eights
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 (button) showed [Kd Qh] and won ($2.79) with two pair, Kings and Nines
+Seat 4: Astroworm (small blind) folded before Flop
+Seat 5: MaaxyCe (big blind) folded on the Flop
+Seat 6: iwinfirstAAAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213924849138:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:28:11 MSK [2020/05/15 16:28:11 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($0.78 in chips) 
+Seat 3: ovid222 ($5.58 in chips) 
+Seat 4: Astroworm ($2.42 in chips) 
+Seat 5: MaaxyCe ($1.59 in chips) 
+Seat 6: iwinfirstAAAA ($0.80 in chips) 
+MaaxyCe: posts small blind $0.01
+iwinfirstAAAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 8s]
+lawlex_2: raises $0.03 to $0.05
+ovid222: calls $0.05
+Pimych13 leaves the table
+Astroworm: folds 
+MaaxyCe: calls $0.04
+AKsergio joins the table at seat #1 
+iwinfirstAAAA: calls $0.03
+*** FLOP *** [5c 9c Ac]
+MaaxyCe: checks 
+iwinfirstAAAA: bets $0.02
+lawlex_2: folds 
+AKsergio leaves the table
+ovid222: folds 
+nehochuha001 joins the table at seat #1 
+MaaxyCe: raises $0.14 to $0.16
+iwinfirstAAAA: calls $0.14
+*** TURN *** [5c 9c Ac] [8c]
+MaaxyCe: bets $0.38
+iwinfirstAAAA: folds 
+Uncalled bet ($0.38) returned to MaaxyCe
+MaaxyCe collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [5c 9c Ac 8c]
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: ovid222 folded on the Flop
+Seat 4: Astroworm (button) folded before Flop (didn't bet)
+Seat 5: MaaxyCe (small blind) collected ($0.50)
+Seat 6: iwinfirstAAAA (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213924928324:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:29:15 MSK [2020/05/15 16:29:15 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: nehochuha001 ($2 in chips) 
+Seat 2: lawlex_2 ($0.73 in chips) 
+Seat 3: ovid222 ($5.53 in chips) 
+Seat 4: Astroworm ($2.42 in chips) 
+Seat 5: MaaxyCe ($1.88 in chips) 
+Seat 6: iwinfirstAAAA ($0.59 in chips) 
+iwinfirstAAAA: posts small blind $0.01
+nehochuha001: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 7h]
+lawlex_2: folds 
+ovid222: calls $0.02
+Astroworm: folds 
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.01
+nehochuha001: checks 
+*** FLOP *** [6h 8d 2s]
+iwinfirstAAAA: checks 
+nehochuha001: bets $0.03
+ovid222: calls $0.03
+iwinfirstAAAA: folds 
+*** TURN *** [6h 8d 2s] [2c]
+nehochuha001: bets $0.05
+ovid222: calls $0.05
+*** RIVER *** [6h 8d 2s 2c] [Td]
+nehochuha001: checks 
+ovid222: checks 
+*** SHOW DOWN ***
+nehochuha001: shows [8s Jd] (two pair, Eights and Deuces)
+ovid222: mucks hand 
+nehochuha001 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [6h 8d 2s 2c Td]
+Seat 1: nehochuha001 (big blind) showed [8s Jd] and won ($0.21) with two pair, Eights and Deuces
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 mucked [Kh 6d]
+Seat 4: Astroworm folded before Flop (didn't bet)
+Seat 5: MaaxyCe (button) folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213925010542:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:30:24 MSK [2020/05/15 16:30:24 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: nehochuha001 ($2.11 in chips) 
+Seat 2: lawlex_2 ($0.73 in chips) 
+Seat 3: ovid222 ($5.43 in chips) 
+Seat 4: Astroworm ($2.42 in chips) 
+Seat 5: MaaxyCe ($1.88 in chips) 
+Seat 6: iwinfirstAAAA ($0.57 in chips) 
+nehochuha001: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 8d]
+ovid222: calls $0.02
+Astroworm: folds 
+MaaxyCe: folds 
+iwinfirstAAAA has timed out
+iwinfirstAAAA: folds 
+nehochuha001: folds 
+lawlex_2: checks 
+*** FLOP *** [2c 7c 3h]
+lawlex_2: checks 
+ovid222: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to ovid222
+ovid222 collected $0.05 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2c 7c 3h]
+Seat 1: nehochuha001 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: ovid222 collected ($0.05)
+Seat 4: Astroworm folded before Flop (didn't bet)
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213925097052:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:31:36 MSK [2020/05/15 16:31:36 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: nehochuha001 ($2.10 in chips) 
+Seat 2: lawlex_2 ($0.71 in chips) 
+Seat 3: ovid222 ($5.46 in chips) 
+Seat 4: Astroworm ($2.42 in chips) 
+Seat 5: MaaxyCe ($1.88 in chips) 
+Seat 6: iwinfirstAAAA ($0.57 in chips) 
+lawlex_2: posts small blind $0.01
+ovid222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 4c]
+Astroworm: folds 
+MaaxyCe: raises $0.02 to $0.04
+iwinfirstAAAA: calls $0.04
+nehochuha001: calls $0.04
+lawlex_2: folds 
+ovid222: calls $0.02
+*** FLOP *** [9s Jh 9h]
+ovid222: checks 
+MaaxyCe: checks 
+iwinfirstAAAA: bets $0.02
+Astroworm leaves the table
+nehochuha001: calls $0.02
+AKsergio joins the table at seat #4 
+ovid222: calls $0.02
+MaaxyCe: folds 
+*** TURN *** [9s Jh 9h] [Kd]
+ovid222: checks 
+iwinfirstAAAA: bets $0.06
+nehochuha001: folds 
+ovid222: folds 
+Uncalled bet ($0.06) returned to iwinfirstAAAA
+iwinfirstAAAA collected $0.22 from pot
+iwinfirstAAAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [9s Jh 9h Kd]
+Seat 1: nehochuha001 (button) folded on the Turn
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ovid222 (big blind) folded on the Turn
+Seat 4: Astroworm folded before Flop (didn't bet)
+Seat 5: MaaxyCe folded on the Flop
+Seat 6: iwinfirstAAAA collected ($0.22)
+
+
+
+PokerStars Hand #213925214136:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:33:13 MSK [2020/05/15 16:33:13 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: nehochuha001 ($2.04 in chips) 
+Seat 2: lawlex_2 ($0.70 in chips) 
+Seat 3: ovid222 ($5.40 in chips) 
+Seat 4: AKsergio ($2 in chips) 
+Seat 5: MaaxyCe ($1.84 in chips) 
+Seat 6: iwinfirstAAAA ($0.73 in chips) 
+ovid222: posts small blind $0.01
+AKsergio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 5d]
+MaaxyCe: folds 
+iwinfirstAAAA: folds 
+nehochuha001: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+ovid222: calls $0.01
+AKsergio: raises $0.06 to $0.08
+ovid222: folds 
+Uncalled bet ($0.06) returned to AKsergio
+AKsergio collected $0.04 from pot
+AKsergio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: nehochuha001 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ovid222 (small blind) folded before Flop
+Seat 4: AKsergio (big blind) collected ($0.04)
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213925246417:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:33:40 MSK [2020/05/15 16:33:40 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($0.70 in chips) 
+Seat 3: ovid222 ($5.38 in chips) 
+Seat 4: AKsergio ($2.02 in chips) 
+Seat 5: MaaxyCe ($1.84 in chips) 
+Seat 6: iwinfirstAAAA ($0.73 in chips) 
+AKsergio: posts small blind $0.01
+MaaxyCe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Ad]
+iwinfirstAAAA: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+ovid222: folds 
+AKsergio: folds 
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.03
+*** FLOP *** [9c 3d Kc]
+iwinfirstAAAA: checks 
+lawlex_2: bets $0.09
+iwinfirstAAAA: calls $0.09
+*** TURN *** [9c 3d Kc] [Jh]
+iwinfirstAAAA: checks 
+lawlex_2: checks 
+*** RIVER *** [9c 3d Kc Jh] [3h]
+iwinfirstAAAA: bets $0.20
+lawlex_2: folds 
+Uncalled bet ($0.20) returned to iwinfirstAAAA
+iwinfirstAAAA collected $0.30 from pot
+iwinfirstAAAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9c 3d Kc Jh 3h]
+Seat 2: lawlex_2 folded on the River
+Seat 3: ovid222 (button) folded before Flop (didn't bet)
+Seat 4: AKsergio (small blind) folded before Flop
+Seat 5: MaaxyCe (big blind) folded before Flop
+Seat 6: iwinfirstAAAA collected ($0.30)
+
+
+
+PokerStars Hand #213925312571:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:34:35 MSK [2020/05/15 16:34:35 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($0.56 in chips) 
+Seat 3: ovid222 ($5.38 in chips) 
+Seat 4: AKsergio ($2.01 in chips) 
+Seat 5: MaaxyCe ($1.82 in chips) 
+Seat 6: iwinfirstAAAA ($0.89 in chips) 
+MaaxyCe: posts small blind $0.01
+iwinfirstAAAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Qs]
+lawlex_2 has timed out
+lawlex_2: folds 
+ovid222: calls $0.02
+AKsergio: folds 
+MaaxyCe: calls $0.01
+iwinfirstAAAA: checks 
+*** FLOP *** [Ad 2s 2d]
+MaaxyCe: checks 
+iwinfirstAAAA: checks 
+ovid222: checks 
+*** TURN *** [Ad 2s 2d] [Qc]
+MaaxyCe: checks 
+iwinfirstAAAA: checks 
+ovid222: bets $0.04
+MaaxyCe: folds 
+iwinfirstAAAA: folds 
+Uncalled bet ($0.04) returned to ovid222
+ovid222 collected $0.06 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ad 2s 2d Qc]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 collected ($0.06)
+Seat 4: AKsergio (button) folded before Flop (didn't bet)
+Seat 5: MaaxyCe (small blind) folded on the Turn
+Seat 6: iwinfirstAAAA (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213925373875:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:35:26 MSK [2020/05/15 16:35:26 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 2: lawlex_2 ($0.56 in chips) 
+Seat 3: ovid222 ($5.42 in chips) 
+Seat 4: AKsergio ($2.01 in chips) 
+Seat 5: MaaxyCe ($1.80 in chips) 
+Seat 6: iwinfirstAAAA ($0.87 in chips) 
+iwinfirstAAAA: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 9d]
+ovid222: calls $0.02
+AKsergio: raises $0.06 to $0.08
+MaaxyCe: folds 
+iwinfirstAAAA: calls $0.07
+lawlex_2 has timed out
+lawlex_2: folds 
+ovid222: calls $0.06
+*** FLOP *** [7s 7c Qh]
+iwinfirstAAAA: bets $0.16
+ovid222: folds 
+AKsergio: raises $1.77 to $1.93 and is all-in
+iwinfirstAAAA: calls $0.63 and is all-in
+Uncalled bet ($1.14) returned to AKsergio
+*** TURN *** [7s 7c Qh] [5c]
+*** RIVER *** [7s 7c Qh 5c] [Ac]
+*** SHOW DOWN ***
+iwinfirstAAAA: shows [Qd Tc] (two pair, Queens and Sevens)
+AKsergio: shows [Kh Ks] (two pair, Kings and Sevens)
+AKsergio collected $1.78 from pot
+iwinfirstAAAA cashed out the hand for $0.16
+*** SUMMARY ***
+Total pot $1.84 | Rake $0.06 
+Board [7s 7c Qh 5c Ac]
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ovid222 folded on the Flop
+Seat 4: AKsergio showed [Kh Ks] and won ($1.78) with two pair, Kings and Sevens
+Seat 5: MaaxyCe (button) folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (small blind) showed [Qd Tc] and lost with two pair, Queens and Sevens (cashed out).
+
+
+
+PokerStars Hand #213925500943:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:37:06 MSK [2020/05/15 16:37:06 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 2: lawlex_2 ($0.54 in chips) 
+Seat 3: ovid222 ($5.34 in chips) 
+Seat 4: AKsergio ($2.92 in chips) 
+Seat 5: MaaxyCe ($1.80 in chips) 
+Seat 6: iwinfirstAAAA ($0.16 in chips) 
+lawlex_2: posts small blind $0.01
+ovid222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 9d]
+AKsergio: folds 
+MaaxyCe: folds 
+iwinfirstAAAA: raises $0.14 to $0.16 and is all-in
+lawlex_2: folds 
+ovid222: folds 
+Uncalled bet ($0.14) returned to iwinfirstAAAA
+iwinfirstAAAA collected $0.05 from pot
+iwinfirstAAAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ovid222 (big blind) folded before Flop
+Seat 4: AKsergio folded before Flop (didn't bet)
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA (button) collected ($0.05)
+
+
+
+PokerStars Hand #213925522636:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:37:24 MSK [2020/05/15 16:37:24 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($0.53 in chips) 
+Seat 3: ovid222 ($5.32 in chips) 
+Seat 4: AKsergio ($2.92 in chips) 
+Seat 5: MaaxyCe ($1.80 in chips) 
+Seat 6: iwinfirstAAAA ($0.19 in chips) 
+ovid222: posts small blind $0.01
+AKsergio: posts big blind $0.02
+nehochuha001: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 8c]
+MaaxyCe: folds 
+iwinfirstAAAA: raises $0.17 to $0.19 and is all-in
+lawlex_2: folds 
+ovid222: calls $0.18
+AKsergio: folds 
+*** FLOP *** [3c 7d Ts]
+*** TURN *** [3c 7d Ts] [Ac]
+*** RIVER *** [3c 7d Ts Ac] [9c]
+*** SHOW DOWN ***
+ovid222: shows [Jh Qd] (high card Ace)
+iwinfirstAAAA: shows [7h 5s] (a pair of Sevens)
+iwinfirstAAAA cashed out the hand for $0.13
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [3c 7d Ts Ac 9c]
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ovid222 (small blind) showed [Jh Qd] and lost with high card Ace
+Seat 4: AKsergio (big blind) folded before Flop
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: iwinfirstAAAA showed [7h 5s] and won ($0.39) with a pair of Sevens (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #213925568914:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:38:03 MSK [2020/05/15 16:38:03 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($0.53 in chips) 
+Seat 3: ovid222 ($5.13 in chips) 
+Seat 4: AKsergio ($2.90 in chips) 
+Seat 5: MaaxyCe ($1.80 in chips) 
+Seat 6: iwinfirstAAAA ($0.13 in chips) 
+AKsergio: posts small blind $0.01
+MaaxyCe: posts big blind $0.02
+nehochuha001: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 4c]
+iwinfirstAAAA: calls $0.02
+lawlex_2: folds 
+ovid222: calls $0.02
+AKsergio: folds 
+MaaxyCe: checks 
+*** FLOP *** [5h Qc 3s]
+MaaxyCe: checks 
+iwinfirstAAAA: checks 
+ovid222: bets $0.04
+MaaxyCe: calls $0.04
+iwinfirstAAAA: folds 
+*** TURN *** [5h Qc 3s] [3d]
+MaaxyCe: bets $0.08
+ovid222: calls $0.08
+*** RIVER *** [5h Qc 3s 3d] [Ad]
+MaaxyCe: bets $0.24
+iwinfirstAAAA leaves the table
+ovid222: folds 
+Uncalled bet ($0.24) returned to MaaxyCe
+MaaxyCe collected $0.30 from pot
+MaaxyCe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [5h Qc 3s 3d Ad]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 (button) folded on the River
+Seat 4: AKsergio (small blind) folded before Flop
+Seat 5: MaaxyCe (big blind) collected ($0.30)
+Seat 6: iwinfirstAAAA folded on the Flop
+
+
+
+PokerStars Hand #213925659887:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:39:18 MSK [2020/05/15 16:39:18 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: nehochuha001 ($2.04 in chips) 
+Seat 2: lawlex_2 ($0.53 in chips) 
+Seat 3: ovid222 ($4.99 in chips) 
+Seat 4: AKsergio ($2.89 in chips) 
+Seat 5: MaaxyCe ($1.96 in chips) 
+MaaxyCe: posts small blind $0.01
+nehochuha001: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 9s]
+lawlex_2: raises $0.03 to $0.05
+ovid222: calls $0.05
+MNP1007 joins the table at seat #6 
+AKsergio: folds 
+MaaxyCe: folds 
+nehochuha001: folds 
+*** FLOP *** [4d 2s 6h]
+lawlex_2: bets $0.09
+ovid222: calls $0.09
+*** TURN *** [4d 2s 6h] [Kc]
+lawlex_2: bets $0.20
+ovid222: raises $0.42 to $0.62
+lawlex_2: calls $0.19 and is all-in
+Uncalled bet ($0.23) returned to ovid222
+*** RIVER *** [4d 2s 6h Kc] [6s]
+*** SHOW DOWN ***
+lawlex_2: shows [9d 9s] (two pair, Nines and Sixes)
+ovid222: shows [Jh Qd] (a pair of Sixes)
+lawlex_2 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.04 
+Board [4d 2s 6h Kc 6s]
+Seat 1: nehochuha001 (big blind) folded before Flop
+Seat 2: lawlex_2 showed [9d 9s] and won ($1.05) with two pair, Nines and Sixes
+Seat 3: ovid222 showed [Jh Qd] and lost with a pair of Sixes
+Seat 4: AKsergio (button) folded before Flop (didn't bet)
+Seat 5: MaaxyCe (small blind) folded before Flop
+
+
+
+PokerStars Hand #213925720071:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:40:08 MSK [2020/05/15 16:40:08 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: nehochuha001 ($2.02 in chips) 
+Seat 2: lawlex_2 ($1.05 in chips) 
+Seat 3: ovid222 ($4.46 in chips) 
+Seat 4: AKsergio ($2.89 in chips) 
+Seat 5: MaaxyCe ($1.95 in chips) 
+nehochuha001: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 6c]
+ovid222: calls $0.02
+AKsergio: folds 
+MaaxyCe: folds 
+nehochuha001: folds 
+lawlex_2: checks 
+*** FLOP *** [5h Ks 9h]
+lawlex_2: checks 
+ovid222: bets $0.04
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to ovid222
+ovid222 collected $0.05 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5h Ks 9h]
+Seat 1: nehochuha001 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: ovid222 collected ($0.05)
+Seat 4: AKsergio folded before Flop (didn't bet)
+Seat 5: MaaxyCe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213925767487:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:40:48 MSK [2020/05/15 16:40:48 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: nehochuha001 ($2.01 in chips) 
+Seat 2: lawlex_2 ($1.03 in chips) 
+Seat 3: ovid222 ($4.49 in chips) 
+Seat 4: AKsergio ($2.89 in chips) 
+Seat 5: MaaxyCe ($1.95 in chips) 
+Seat 6: MNP1007 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+ovid222: posts big blind $0.02
+MNP1007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 5c]
+AKsergio: folds 
+MaaxyCe: folds 
+MNP1007: checks 
+nehochuha001: folds 
+lawlex_2: folds 
+ovid222: checks 
+*** FLOP *** [8h 8c Ts]
+ovid222: bets $0.04
+MNP1007: folds 
+Uncalled bet ($0.04) returned to ovid222
+ovid222 collected $0.05 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h 8c Ts]
+Seat 1: nehochuha001 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ovid222 (big blind) collected ($0.05)
+Seat 4: AKsergio folded before Flop (didn't bet)
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: MNP1007 folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #213925790554:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:41:07 MSK [2020/05/15 16:41:07 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: nehochuha001 ($2.01 in chips) 
+Seat 2: lawlex_2 ($1.02 in chips) 
+Seat 3: ovid222 ($4.52 in chips) 
+Seat 4: AKsergio ($2.89 in chips) 
+Seat 5: MaaxyCe ($1.95 in chips) 
+Seat 6: MNP1007 ($1.98 in chips) 
+ovid222: posts small blind $0.01
+AKsergio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Jd]
+MaaxyCe: folds 
+MNP1007: calls $0.02
+nehochuha001: folds 
+lawlex_2: raises $0.03 to $0.05
+ovid222: calls $0.04
+AKsergio: folds 
+MNP1007: calls $0.03
+*** FLOP *** [Qh 4d 3s]
+ovid222: checks 
+MNP1007: checks 
+lawlex_2: bets $0.11
+ovid222: calls $0.11
+MNP1007: folds 
+*** TURN *** [Qh 4d 3s] [7d]
+ovid222: checks 
+lawlex_2: checks 
+*** RIVER *** [Qh 4d 3s 7d] [8s]
+ovid222: bets $0.32
+lawlex_2: folds 
+Uncalled bet ($0.32) returned to ovid222
+ovid222 collected $0.38 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Qh 4d 3s 7d 8s]
+Seat 1: nehochuha001 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded on the River
+Seat 3: ovid222 (small blind) collected ($0.38)
+Seat 4: AKsergio (big blind) folded before Flop
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: MNP1007 folded on the Flop
+
+
+
+PokerStars Hand #213925884451:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:42:27 MSK [2020/05/15 16:42:27 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: nehochuha001 ($2.01 in chips) 
+Seat 2: lawlex_2 ($0.86 in chips) 
+Seat 3: ovid222 ($4.74 in chips) 
+Seat 4: AKsergio ($2.87 in chips) 
+Seat 5: MaaxyCe ($1.95 in chips) 
+Seat 6: MNP1007 ($1.93 in chips) 
+AKsergio: posts small blind $0.01
+MaaxyCe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 6h]
+MNP1007: calls $0.02
+nehochuha001: folds 
+lawlex_2: folds 
+ovid222: calls $0.02
+AKsergio: raises $0.06 to $0.08
+MaaxyCe: folds 
+MNP1007: calls $0.06
+ovid222: calls $0.06
+*** FLOP *** [Th Kh 6d]
+AKsergio: checks 
+MNP1007: bets $0.05
+ovid222: folds 
+AKsergio: calls $0.05
+*** TURN *** [Th Kh 6d] [6s]
+AKsergio: checks 
+MNP1007: bets $0.10
+AKsergio: folds 
+Uncalled bet ($0.10) returned to MNP1007
+MNP1007 collected $0.35 from pot
+MNP1007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Th Kh 6d 6s]
+Seat 1: nehochuha001 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 (button) folded on the Flop
+Seat 4: AKsergio (small blind) folded on the Turn
+Seat 5: MaaxyCe (big blind) folded before Flop
+Seat 6: MNP1007 collected ($0.35)
+
+
+
+PokerStars Hand #213925955322:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:43:22 MSK [2020/05/15 16:43:22 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: nehochuha001 ($2.01 in chips) 
+Seat 2: lawlex_2 ($0.86 in chips) 
+Seat 3: ovid222 ($4.66 in chips) 
+Seat 4: AKsergio ($2.74 in chips) 
+Seat 5: MaaxyCe ($1.93 in chips) 
+Seat 6: MNP1007 ($2.15 in chips) 
+MaaxyCe: posts small blind $0.01
+MNP1007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 7d]
+nehochuha001: raises $0.04 to $0.06
+lawlex_2: calls $0.06
+ovid222: calls $0.06
+AKsergio: folds 
+MaaxyCe: folds 
+MNP1007: calls $0.04
+*** FLOP *** [Tc Ac Kc]
+MNP1007: checks 
+nehochuha001: bets $0.12
+lawlex_2: raises $0.12 to $0.24
+ovid222: folds 
+MNP1007: folds 
+nehochuha001: calls $0.12
+*** TURN *** [Tc Ac Kc] [4d]
+nehochuha001: checks 
+lawlex_2: bets $0.56 and is all-in
+nehochuha001: folds 
+Uncalled bet ($0.56) returned to lawlex_2
+lawlex_2 collected $0.70 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Tc Ac Kc 4d]
+Seat 1: nehochuha001 folded on the Turn
+Seat 2: lawlex_2 collected ($0.70)
+Seat 3: ovid222 folded on the Flop
+Seat 4: AKsergio (button) folded before Flop (didn't bet)
+Seat 5: MaaxyCe (small blind) folded before Flop
+Seat 6: MNP1007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213926055214:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:44:48 MSK [2020/05/15 16:44:48 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: nehochuha001 ($2 in chips) 
+Seat 2: lawlex_2 ($1.26 in chips) 
+Seat 3: ovid222 ($4.60 in chips) 
+Seat 4: AKsergio ($2.74 in chips) 
+Seat 5: MaaxyCe ($1.92 in chips) 
+Seat 6: MNP1007 ($2.09 in chips) 
+MNP1007: posts small blind $0.01
+nehochuha001: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 6s]
+lawlex_2: raises $0.02 to $0.04
+ovid222: calls $0.04
+AKsergio: folds 
+MaaxyCe: folds 
+MNP1007: calls $0.03
+nehochuha001: folds 
+*** FLOP *** [9c 5c 8h]
+MNP1007: checks 
+lawlex_2: checks 
+ovid222: bets $0.04
+MNP1007: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to ovid222
+ovid222 collected $0.14 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9c 5c 8h]
+Seat 1: nehochuha001 (big blind) folded before Flop
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: ovid222 collected ($0.14)
+Seat 4: AKsergio folded before Flop (didn't bet)
+Seat 5: MaaxyCe (button) folded before Flop (didn't bet)
+Seat 6: MNP1007 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213926102901:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:45:27 MSK [2020/05/15 16:45:27 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: nehochuha001 ($2 in chips) 
+Seat 2: lawlex_2 ($1.22 in chips) 
+Seat 3: ovid222 ($4.70 in chips) 
+Seat 4: AKsergio ($2.74 in chips) 
+Seat 5: MaaxyCe ($1.92 in chips) 
+Seat 6: MNP1007 ($2.05 in chips) 
+nehochuha001: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 3d]
+ovid222: calls $0.02
+AKsergio: folds 
+MaaxyCe: folds 
+MNP1007: calls $0.02
+nehochuha001: raises $0.04 to $0.06
+lawlex_2: folds 
+ovid222: calls $0.04
+MNP1007: calls $0.04
+*** FLOP *** [4d Qc 7s]
+nehochuha001: checks 
+ovid222: bets $0.20
+MNP1007: folds 
+nehochuha001: folds 
+Uncalled bet ($0.20) returned to ovid222
+ovid222 collected $0.19 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4d Qc 7s]
+Seat 1: nehochuha001 (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ovid222 collected ($0.19)
+Seat 4: AKsergio folded before Flop (didn't bet)
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: MNP1007 (button) folded on the Flop
+
+
+
+PokerStars Hand #213926184359:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:46:36 MSK [2020/05/15 16:46:36 ET]
+Table 'Chantal III' 6-max Seat #1 is the button
+Seat 1: nehochuha001 ($2 in chips) 
+Seat 2: lawlex_2 ($1.20 in chips) 
+Seat 3: ovid222 ($4.83 in chips) 
+Seat 4: AKsergio ($2.74 in chips) 
+Seat 5: MaaxyCe ($1.92 in chips) 
+Seat 6: MNP1007 ($1.99 in chips) 
+lawlex_2: posts small blind $0.01
+ovid222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 2s]
+AKsergio: raises $0.04 to $0.06
+MaaxyCe: folds 
+MNP1007: folds 
+nehochuha001: folds 
+lawlex_2: folds 
+ovid222: calls $0.04
+*** FLOP *** [4c 4d Kd]
+ovid222: checks 
+AKsergio: checks 
+*** TURN *** [4c 4d Kd] [5s]
+ovid222: bets $0.08
+AKsergio: folds 
+Uncalled bet ($0.08) returned to ovid222
+ovid222 collected $0.13 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c 4d Kd 5s]
+Seat 1: nehochuha001 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ovid222 (big blind) collected ($0.13)
+Seat 4: AKsergio folded on the Turn
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: MNP1007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213926230320:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:47:14 MSK [2020/05/15 16:47:14 ET]
+Table 'Chantal III' 6-max Seat #2 is the button
+Seat 1: nehochuha001 ($2 in chips) 
+Seat 2: lawlex_2 ($1.19 in chips) 
+Seat 3: ovid222 ($4.90 in chips) 
+Seat 4: AKsergio ($2.68 in chips) 
+Seat 5: MaaxyCe ($1.92 in chips) 
+Seat 6: MNP1007 ($1.99 in chips) 
+ovid222: posts small blind $0.01
+AKsergio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 7h]
+MaaxyCe: folds 
+MNP1007: calls $0.02
+nehochuha001: folds 
+lawlex_2: folds 
+ovid222: calls $0.01
+AKsergio: checks 
+*** FLOP *** [5c 4s Kh]
+ovid222: checks 
+AKsergio: checks 
+MNP1007: checks 
+*** TURN *** [5c 4s Kh] [3s]
+ovid222: bets $0.08
+AKsergio: folds 
+MNP1007: folds 
+Uncalled bet ($0.08) returned to ovid222
+ovid222 collected $0.06 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5c 4s Kh 3s]
+Seat 1: nehochuha001 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ovid222 (small blind) collected ($0.06)
+Seat 4: AKsergio (big blind) folded on the Turn
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: MNP1007 folded on the Turn
+
+
+
+PokerStars Hand #213926268218:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:47:45 MSK [2020/05/15 16:47:45 ET]
+Table 'Chantal III' 6-max Seat #3 is the button
+Seat 1: nehochuha001 ($2 in chips) 
+Seat 2: lawlex_2 ($1.19 in chips) 
+Seat 3: ovid222 ($4.94 in chips) 
+Seat 4: AKsergio ($2.66 in chips) 
+Seat 5: MaaxyCe ($1.92 in chips) 
+Seat 6: MNP1007 ($1.97 in chips) 
+AKsergio: posts small blind $0.01
+MaaxyCe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 6h]
+MNP1007: folds 
+nehochuha001: folds 
+lawlex_2: folds 
+ovid222: calls $0.02
+AKsergio: calls $0.01
+MaaxyCe: checks 
+*** FLOP *** [Js 2h 7c]
+AKsergio: checks 
+MaaxyCe: checks 
+ovid222: bets $0.06
+AKsergio: folds 
+MaaxyCe: folds 
+Uncalled bet ($0.06) returned to ovid222
+ovid222 collected $0.06 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Js 2h 7c]
+Seat 1: nehochuha001 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ovid222 (button) collected ($0.06)
+Seat 4: AKsergio (small blind) folded on the Flop
+Seat 5: MaaxyCe (big blind) folded on the Flop
+Seat 6: MNP1007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213926309300:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:48:20 MSK [2020/05/15 16:48:20 ET]
+Table 'Chantal III' 6-max Seat #4 is the button
+Seat 1: nehochuha001 ($2 in chips) 
+Seat 2: lawlex_2 ($1.19 in chips) 
+Seat 3: ovid222 ($4.98 in chips) 
+Seat 4: AKsergio ($2.64 in chips) 
+Seat 5: MaaxyCe ($1.90 in chips) 
+Seat 6: MNP1007 ($1.97 in chips) 
+MaaxyCe: posts small blind $0.01
+MNP1007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Ad]
+nehochuha001: folds 
+lawlex_2: raises $0.03 to $0.05
+ovid222: calls $0.05
+AKsergio: folds 
+MaaxyCe: folds 
+MNP1007: calls $0.03
+*** FLOP *** [5s 2c 2h]
+MNP1007: checks 
+lawlex_2: bets $0.10
+ovid222: calls $0.10
+MNP1007: folds 
+*** TURN *** [5s 2c 2h] [3s]
+lawlex_2: bets $0.23
+ovid222: calls $0.23
+*** RIVER *** [5s 2c 2h 3s] [5d]
+lawlex_2: bets $0.52
+ovid222: calls $0.52
+*** SHOW DOWN ***
+lawlex_2: shows [4d Ad] (a straight, Ace to Five)
+ovid222: mucks hand 
+lawlex_2 collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.86 | Rake $0.07 
+Board [5s 2c 2h 3s 5d]
+Seat 1: nehochuha001 folded before Flop (didn't bet)
+Seat 2: lawlex_2 showed [4d Ad] and won ($1.79) with a straight, Ace to Five
+Seat 3: ovid222 mucked [6s As]
+Seat 4: AKsergio (button) folded before Flop (didn't bet)
+Seat 5: MaaxyCe (small blind) folded before Flop
+Seat 6: MNP1007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213926392272:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:49:29 MSK [2020/05/15 16:49:29 ET]
+Table 'Chantal III' 6-max Seat #5 is the button
+Seat 1: nehochuha001 ($2 in chips) 
+Seat 2: lawlex_2 ($2.08 in chips) 
+Seat 3: ovid222 ($4.08 in chips) 
+Seat 4: AKsergio ($2.64 in chips) 
+Seat 5: MaaxyCe ($1.89 in chips) 
+Seat 6: MNP1007 ($1.92 in chips) 
+MNP1007: posts small blind $0.01
+nehochuha001: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Th]
+lawlex_2: raises $0.03 to $0.05
+ovid222: folds 
+AKsergio: folds 
+MaaxyCe: folds 
+MNP1007: folds 
+nehochuha001: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nehochuha001 (big blind) folded before Flop
+Seat 2: lawlex_2 collected ($0.05)
+Seat 3: ovid222 folded before Flop (didn't bet)
+Seat 4: AKsergio folded before Flop (didn't bet)
+Seat 5: MaaxyCe (button) folded before Flop (didn't bet)
+Seat 6: MNP1007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213926417182:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/15 23:49:50 MSK [2020/05/15 16:49:50 ET]
+Table 'Chantal III' 6-max Seat #6 is the button
+Seat 1: nehochuha001 ($2 in chips) 
+Seat 2: lawlex_2 ($2.11 in chips) 
+Seat 3: ovid222 ($4.08 in chips) 
+Seat 4: AKsergio ($2.64 in chips) 
+Seat 5: MaaxyCe ($1.89 in chips) 
+Seat 6: MNP1007 ($1.91 in chips) 
+nehochuha001: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 4c]
+ovid222: calls $0.02
+AKsergio: folds 
+MaaxyCe: folds 
+MNP1007: calls $0.02
+nehochuha001: folds 
+lawlex_2: checks 
+*** FLOP *** [9h Ac Qs]
+lawlex_2: checks 
+ovid222: bets $0.02
+MNP1007: calls $0.02
+lawlex_2: folds 
+*** TURN *** [9h Ac Qs] [7s]
+ovid222: bets $0.04
+MNP1007: folds 
+Uncalled bet ($0.04) returned to ovid222
+ovid222 collected $0.11 from pot
+ovid222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9h Ac Qs 7s]
+Seat 1: nehochuha001 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: ovid222 collected ($0.11)
+Seat 4: AKsergio folded before Flop (didn't bet)
+Seat 5: MaaxyCe folded before Flop (didn't bet)
+Seat 6: MNP1007 (button) folded on the Turn
+
+
+

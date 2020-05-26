@@ -1,0 +1,1896 @@
+﻿PokerStars Hand #213726133949:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:26:23 MSK [2020/05/11 23:26:23 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: oldmanXIII ($2 in chips) 
+Seat 2: Fireball31122 ($1.71 in chips) 
+Seat 3: lawlex_2 ($2 in chips) 
+Seat 4: JO'Meara ($2.77 in chips) 
+Seat 5: tacoloco45 ($1.92 in chips) 
+Seat 6: MultipleCash ($3.29 in chips) 
+Fireball31122: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 5s]
+JO'Meara: folds 
+tacoloco45: folds 
+MultipleCash: raises $0.03 to $0.05
+oldmanXIII: calls $0.05
+Fireball31122: folds 
+lawlex_2: folds 
+*** FLOP *** [2h Qd 7c]
+MultipleCash: checks 
+oldmanXIII: checks 
+*** TURN *** [2h Qd 7c] [Jd]
+MultipleCash: bets $0.04
+oldmanXIII: calls $0.04
+*** RIVER *** [2h Qd 7c Jd] [6c]
+MultipleCash: bets $0.13
+oldmanXIII: calls $0.13
+*** SHOW DOWN ***
+MultipleCash: shows [7s 8s] (a pair of Sevens)
+oldmanXIII: shows [Qs 9s] (a pair of Queens)
+oldmanXIII collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [2h Qd 7c Jd 6c]
+Seat 1: oldmanXIII (button) showed [Qs 9s] and won ($0.45) with a pair of Queens
+Seat 2: Fireball31122 (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: tacoloco45 folded before Flop (didn't bet)
+Seat 6: MultipleCash showed [7s 8s] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #213726160330:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:27:26 MSK [2020/05/11 23:27:26 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: oldmanXIII ($2.23 in chips) 
+Seat 2: Fireball31122 ($1.70 in chips) 
+Seat 3: lawlex_2 ($1.98 in chips) 
+Seat 4: JO'Meara ($2.77 in chips) 
+Seat 5: tacoloco45 ($2 in chips) 
+Seat 6: MultipleCash ($3.07 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 4h]
+tacoloco45 has timed out
+tacoloco45: folds 
+MultipleCash: raises $0.03 to $0.05
+oldmanXIII: calls $0.05
+Fireball31122: folds 
+lawlex_2: calls $0.04
+JO'Meara: calls $0.03
+*** FLOP *** [8s Tc 8h]
+lawlex_2: bets $0.13
+JO'Meara: folds 
+MultipleCash: folds 
+oldmanXIII: folds 
+Uncalled bet ($0.13) returned to lawlex_2
+lawlex_2 collected $0.19 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [8s Tc 8h]
+Seat 1: oldmanXIII folded on the Flop
+Seat 2: Fireball31122 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) collected ($0.19)
+Seat 4: JO'Meara (big blind) folded on the Flop
+Seat 5: tacoloco45 folded before Flop (didn't bet)
+Seat 6: MultipleCash folded on the Flop
+
+
+
+PokerStars Hand #213726178790:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:28:11 MSK [2020/05/11 23:28:11 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: oldmanXIII ($2.18 in chips) 
+Seat 2: Fireball31122 ($1.70 in chips) 
+Seat 3: lawlex_2 ($2.12 in chips) 
+Seat 4: JO'Meara ($2.72 in chips) 
+Seat 5: tacoloco45 ($2 in chips) 
+Seat 6: MultipleCash ($3.02 in chips) 
+JO'Meara: posts small blind $0.01
+tacoloco45: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 8c]
+MultipleCash: folds 
+oldmanXIII: folds 
+Fireball31122: calls $0.02
+lawlex_2: folds 
+JO'Meara: calls $0.01
+tacoloco45: checks 
+*** FLOP *** [Ad Qs 8s]
+JO'Meara: checks 
+tacoloco45: checks 
+Fireball31122: checks 
+*** TURN *** [Ad Qs 8s] [Js]
+JO'Meara: checks 
+tacoloco45: checks 
+Fireball31122: checks 
+*** RIVER *** [Ad Qs 8s Js] [2s]
+JO'Meara: bets $0.04
+tacoloco45: folds 
+Fireball31122: folds 
+Uncalled bet ($0.04) returned to JO'Meara
+JO'Meara collected $0.06 from pot
+JO'Meara: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ad Qs 8s Js 2s]
+Seat 1: oldmanXIII folded before Flop (didn't bet)
+Seat 2: Fireball31122 folded on the River
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: JO'Meara (small blind) collected ($0.06)
+Seat 5: tacoloco45 (big blind) folded on the River
+Seat 6: MultipleCash folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726197912:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:28:58 MSK [2020/05/11 23:28:58 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: oldmanXIII ($2.18 in chips) 
+Seat 2: Fireball31122 ($1.68 in chips) 
+Seat 3: lawlex_2 ($2.12 in chips) 
+Seat 4: JO'Meara ($2.76 in chips) 
+Seat 5: tacoloco45 ($1.98 in chips) 
+Seat 6: MultipleCash ($3.02 in chips) 
+tacoloco45: posts small blind $0.01
+MultipleCash: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 7s]
+oldmanXIII: folds 
+Fireball31122 has timed out
+Fireball31122: folds 
+lawlex_2: folds 
+JO'Meara: raises $0.05 to $0.07
+tacoloco45: folds 
+MultipleCash: raises $0.21 to $0.28
+JO'Meara: folds 
+Uncalled bet ($0.21) returned to MultipleCash
+MultipleCash collected $0.15 from pot
+MultipleCash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: oldmanXIII folded before Flop (didn't bet)
+Seat 2: Fireball31122 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara (button) folded before Flop
+Seat 5: tacoloco45 (small blind) folded before Flop
+Seat 6: MultipleCash (big blind) collected ($0.15)
+
+
+
+PokerStars Hand #213726218215:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:29:47 MSK [2020/05/11 23:29:47 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: oldmanXIII ($2.18 in chips) 
+Seat 2: Fireball31122 ($1.68 in chips) 
+Seat 3: lawlex_2 ($2.12 in chips) 
+Seat 4: JO'Meara ($2.69 in chips) 
+Seat 5: tacoloco45 ($1.97 in chips) 
+Seat 6: MultipleCash ($3.10 in chips) 
+MultipleCash: posts small blind $0.01
+oldmanXIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Ah]
+Fireball31122: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+JO'Meara: folds 
+tacoloco45: folds 
+MultipleCash: folds 
+oldmanXIII: raises $0.04 to $0.10
+Fireball31122: calls $0.08
+lawlex_2: folds 
+*** FLOP *** [7d Ac 4c]
+oldmanXIII: checks 
+Fireball31122: bets $0.04
+oldmanXIII: calls $0.04
+*** TURN *** [7d Ac 4c] [4d]
+oldmanXIII: checks 
+Fireball31122: checks 
+*** RIVER *** [7d Ac 4c 4d] [5d]
+oldmanXIII: checks 
+Fireball31122: checks 
+*** SHOW DOWN ***
+oldmanXIII: shows [Qc Qs] (two pair, Queens and Fours)
+Fireball31122: mucks hand 
+oldmanXIII collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [7d Ac 4c 4d 5d]
+Seat 1: oldmanXIII (big blind) showed [Qc Qs] and won ($0.34) with two pair, Queens and Fours
+Seat 2: Fireball31122 mucked [5h Kh]
+Seat 3: lawlex_2 folded before Flop
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: tacoloco45 (button) folded before Flop (didn't bet)
+Seat 6: MultipleCash (small blind) folded before Flop
+
+
+
+PokerStars Hand #213726246707:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:30:40 MSK [2020/05/11 23:30:40 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: oldmanXIII ($2.38 in chips) 
+Seat 2: Fireball31122 ($1.54 in chips) 
+Seat 3: lawlex_2 ($2.06 in chips) 
+Seat 4: JO'Meara ($2.69 in chips) 
+Seat 5: tacoloco45 ($1.97 in chips) 
+Seat 6: MultipleCash ($3.09 in chips) 
+oldmanXIII: posts small blind $0.01
+Fireball31122: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Qs]
+lawlex_2: folds 
+JO'Meara: folds 
+tacoloco45: raises $0.02 to $0.04
+MultipleCash: raises $0.11 to $0.15
+oldmanXIII: folds 
+Fireball31122: folds 
+tacoloco45: calls $0.11
+*** FLOP *** [As Ah 2h]
+tacoloco45: checks 
+MultipleCash: bets $0.11
+tacoloco45: calls $0.11
+*** TURN *** [As Ah 2h] [5d]
+tacoloco45: checks 
+MultipleCash: checks 
+*** RIVER *** [As Ah 2h 5d] [7h]
+tacoloco45: checks 
+MultipleCash: checks 
+*** SHOW DOWN ***
+tacoloco45: shows [4h 4s] (two pair, Aces and Fours)
+MultipleCash: shows [Kc Ks] (two pair, Aces and Kings)
+MultipleCash collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [As Ah 2h 5d 7h]
+Seat 1: oldmanXIII (small blind) folded before Flop
+Seat 2: Fireball31122 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: tacoloco45 showed [4h 4s] and lost with two pair, Aces and Fours
+Seat 6: MultipleCash (button) showed [Kc Ks] and won ($0.53) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #213726282974:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:32:10 MSK [2020/05/11 23:32:10 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: oldmanXIII ($2.37 in chips) 
+Seat 2: Fireball31122 ($1.52 in chips) 
+Seat 3: lawlex_2 ($2.06 in chips) 
+Seat 4: JO'Meara ($2.69 in chips) 
+Seat 5: tacoloco45 ($1.71 in chips) 
+Seat 6: MultipleCash ($3.36 in chips) 
+Fireball31122: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 4s]
+JO'Meara: calls $0.02
+tacoloco45: folds 
+MultipleCash: folds 
+oldmanXIII: calls $0.02
+Fireball31122: calls $0.01
+tacoloco45 leaves the table
+lawlex_2: checks 
+*** FLOP *** [4c Js 3d]
+Fireball31122: checks 
+LoboMaia57 joins the table at seat #5 
+lawlex_2: bets $0.05
+JO'Meara: calls $0.05
+oldmanXIII: folds 
+Fireball31122: folds 
+*** TURN *** [4c Js 3d] [8s]
+lawlex_2: bets $0.11
+JO'Meara: raises $2.51 to $2.62 and is all-in
+lawlex_2: folds 
+Uncalled bet ($2.51) returned to JO'Meara
+JO'Meara collected $0.39 from pot
+JO'Meara: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [4c Js 3d 8s]
+Seat 1: oldmanXIII (button) folded on the Flop
+Seat 2: Fireball31122 (small blind) folded on the Flop
+Seat 3: lawlex_2 (big blind) folded on the Turn
+Seat 4: JO'Meara collected ($0.39)
+Seat 5: tacoloco45 folded before Flop (didn't bet)
+Seat 6: MultipleCash folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726308773:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:33:13 MSK [2020/05/11 23:33:13 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: oldmanXIII ($2.35 in chips) 
+Seat 2: Fireball31122 ($1.50 in chips) 
+Seat 3: lawlex_2 ($1.88 in chips) 
+Seat 4: JO'Meara ($2.90 in chips) 
+Seat 6: MultipleCash ($3.36 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+LoboMaia57: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 9d]
+MultipleCash: folds 
+oldmanXIII: calls $0.02
+Fireball31122 has timed out
+Fireball31122: folds 
+lawlex_2: raises $0.04 to $0.06
+JO'Meara: folds 
+oldmanXIII: calls $0.04
+*** FLOP *** [Qs 7h 7c]
+lawlex_2: bets $0.09
+oldmanXIII: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qs 7h 7c]
+Seat 1: oldmanXIII folded on the Flop
+Seat 2: Fireball31122 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) collected ($0.14)
+Seat 4: JO'Meara (big blind) folded before Flop
+Seat 6: MultipleCash folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726323690:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:33:50 MSK [2020/05/11 23:33:50 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: oldmanXIII ($2.29 in chips) 
+Seat 2: Fireball31122 ($1.50 in chips) 
+Seat 3: lawlex_2 ($1.96 in chips) 
+Seat 4: JO'Meara ($2.88 in chips) 
+Seat 5: LoboMaia57 ($2 in chips) 
+Seat 6: MultipleCash ($3.36 in chips) 
+JO'Meara: posts small blind $0.01
+LoboMaia57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 5d]
+MultipleCash: folds 
+oldmanXIII: calls $0.02
+Fireball31122: folds 
+lawlex_2: folds 
+JO'Meara: calls $0.01
+LoboMaia57: checks 
+*** FLOP *** [Kc Qs Qc]
+JO'Meara: checks 
+LoboMaia57: checks 
+oldmanXIII: checks 
+*** TURN *** [Kc Qs Qc] [Jh]
+JO'Meara: checks 
+LoboMaia57: checks 
+oldmanXIII: checks 
+*** RIVER *** [Kc Qs Qc Jh] [Qh]
+JO'Meara: checks 
+LoboMaia57: checks 
+oldmanXIII: checks 
+*** SHOW DOWN ***
+JO'Meara: shows [Jd 4c] (a full house, Queens full of Jacks)
+LoboMaia57: mucks hand 
+oldmanXIII: shows [Js Th] (a full house, Queens full of Jacks)
+JO'Meara collected $0.03 from pot
+oldmanXIII collected $0.03 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kc Qs Qc Jh Qh]
+Seat 1: oldmanXIII showed [Js Th] and won ($0.03) with a full house, Queens full of Jacks
+Seat 2: Fireball31122 folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: JO'Meara (small blind) showed [Jd 4c] and won ($0.03) with a full house, Queens full of Jacks
+Seat 5: LoboMaia57 (big blind) mucked [2s 9d]
+Seat 6: MultipleCash folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726345752:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:34:45 MSK [2020/05/11 23:34:45 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: oldmanXIII ($2.30 in chips) 
+Seat 2: Fireball31122 ($1.50 in chips) 
+Seat 3: lawlex_2 ($1.96 in chips) 
+Seat 4: JO'Meara ($2.89 in chips) 
+Seat 5: LoboMaia57 ($1.98 in chips) 
+Seat 6: MultipleCash ($3.36 in chips) 
+LoboMaia57: posts small blind $0.01
+MultipleCash: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Jh]
+oldmanXIII: calls $0.02
+Fireball31122: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+JO'Meara: folds 
+LoboMaia57: folds 
+MultipleCash: folds 
+oldmanXIII: calls $0.04
+Fireball31122: calls $0.04
+*** FLOP *** [Qh Ad Qc]
+oldmanXIII: checks 
+Fireball31122: bets $0.04
+lawlex_2: calls $0.04
+oldmanXIII: folds 
+*** TURN *** [Qh Ad Qc] [9c]
+Fireball31122: checks 
+lawlex_2: bets $0.19
+Fireball31122: folds 
+Uncalled bet ($0.19) returned to lawlex_2
+lawlex_2 collected $0.28 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qh Ad Qc 9c]
+Seat 1: oldmanXIII folded on the Flop
+Seat 2: Fireball31122 folded on the Turn
+Seat 3: lawlex_2 collected ($0.28)
+Seat 4: JO'Meara (button) folded before Flop (didn't bet)
+Seat 5: LoboMaia57 (small blind) folded before Flop
+Seat 6: MultipleCash (big blind) folded before Flop
+
+
+
+PokerStars Hand #213726369690:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:35:45 MSK [2020/05/11 23:35:45 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: oldmanXIII ($2.24 in chips) 
+Seat 2: Fireball31122 ($1.40 in chips) 
+Seat 3: lawlex_2 ($2.14 in chips) 
+Seat 4: JO'Meara ($2.89 in chips) 
+Seat 5: LoboMaia57 ($1.97 in chips) 
+Seat 6: MultipleCash ($3.34 in chips) 
+MultipleCash: posts small blind $0.01
+oldmanXIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 2s]
+Fireball31122: folds 
+lawlex_2: folds 
+JO'Meara: folds 
+LoboMaia57: folds 
+MultipleCash: raises $0.04 to $0.06
+oldmanXIII: folds 
+Uncalled bet ($0.04) returned to MultipleCash
+MultipleCash collected $0.04 from pot
+MultipleCash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: oldmanXIII (big blind) folded before Flop
+Seat 2: Fireball31122 folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: LoboMaia57 (button) folded before Flop (didn't bet)
+Seat 6: MultipleCash (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213726382892:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:36:02 MSK [2020/05/11 23:36:02 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: oldmanXIII ($2.22 in chips) 
+Seat 2: Fireball31122 ($1.40 in chips) 
+Seat 3: lawlex_2 ($2.14 in chips) 
+Seat 4: JO'Meara ($2.89 in chips) 
+Seat 5: LoboMaia57 ($1.97 in chips) 
+Seat 6: MultipleCash ($3.36 in chips) 
+oldmanXIII: posts small blind $0.01
+Fireball31122: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 6h]
+lawlex_2: raises $0.04 to $0.06
+JO'Meara has timed out
+JO'Meara: folds 
+LoboMaia57: folds 
+MultipleCash: raises $0.16 to $0.22
+oldmanXIII: folds 
+Fireball31122: folds 
+lawlex_2: folds 
+Uncalled bet ($0.16) returned to MultipleCash
+MultipleCash collected $0.15 from pot
+MultipleCash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: oldmanXIII (small blind) folded before Flop
+Seat 2: Fireball31122 (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: LoboMaia57 folded before Flop (didn't bet)
+Seat 6: MultipleCash (button) collected ($0.15)
+
+
+
+PokerStars Hand #213726397824:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:36:39 MSK [2020/05/11 23:36:39 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: oldmanXIII ($2.21 in chips) 
+Seat 2: Fireball31122 ($1.38 in chips) 
+Seat 3: lawlex_2 ($2.08 in chips) 
+Seat 4: JO'Meara ($2.89 in chips) 
+Seat 5: LoboMaia57 ($1.97 in chips) 
+Seat 6: MultipleCash ($3.45 in chips) 
+Fireball31122: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Jh]
+JO'Meara: folds 
+LoboMaia57: folds 
+MultipleCash: folds 
+oldmanXIII: calls $0.02
+Fireball31122: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Qs 4s 3h]
+Fireball31122: checks 
+lawlex_2: bets $0.04
+oldmanXIII: folds 
+Fireball31122: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.06 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qs 4s 3h]
+Seat 1: oldmanXIII (button) folded on the Flop
+Seat 2: Fireball31122 (small blind) folded on the Flop
+Seat 3: lawlex_2 (big blind) collected ($0.06)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: LoboMaia57 folded before Flop (didn't bet)
+Seat 6: MultipleCash folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726410464:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:37:11 MSK [2020/05/11 23:37:11 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: oldmanXIII ($2.19 in chips) 
+Seat 2: Fireball31122 ($1.36 in chips) 
+Seat 3: lawlex_2 ($2.12 in chips) 
+Seat 4: JO'Meara ($2.89 in chips) 
+Seat 5: LoboMaia57 ($1.97 in chips) 
+Seat 6: MultipleCash ($3.45 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 6h]
+LoboMaia57: folds 
+MultipleCash: raises $0.03 to $0.05
+oldmanXIII: folds 
+Fireball31122: folds 
+lawlex_2: folds 
+JO'Meara: calls $0.03
+*** FLOP *** [Qs 6d Qc]
+JO'Meara: checks 
+MultipleCash: bets $0.04
+JO'Meara: raises $0.12 to $0.16
+MultipleCash: calls $0.12
+*** TURN *** [Qs 6d Qc] [Ad]
+JO'Meara: checks 
+MultipleCash: bets $0.21
+JO'Meara: calls $0.21
+*** RIVER *** [Qs 6d Qc Ad] [9s]
+JO'Meara: bets $0.53
+MultipleCash: raises $2.50 to $3.03 and is all-in
+JO'Meara: folds 
+Uncalled bet ($2.50) returned to MultipleCash
+MultipleCash collected $1.84 from pot
+MultipleCash: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.91 | Rake $0.07 
+Board [Qs 6d Qc Ad 9s]
+Seat 1: oldmanXIII folded before Flop (didn't bet)
+Seat 2: Fireball31122 (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: JO'Meara (big blind) folded on the River
+Seat 5: LoboMaia57 folded before Flop (didn't bet)
+Seat 6: MultipleCash collected ($1.84)
+
+
+
+PokerStars Hand #213726440045:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:38:26 MSK [2020/05/11 23:38:26 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: oldmanXIII ($2.19 in chips) 
+Seat 3: lawlex_2 ($2.11 in chips) 
+Seat 4: JO'Meara ($1.94 in chips) 
+Seat 5: LoboMaia57 ($1.97 in chips) 
+Seat 6: MultipleCash ($4.34 in chips) 
+JO'Meara: posts small blind $0.01
+LoboMaia57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 7s]
+MultipleCash: folds 
+oldmanXIII: calls $0.02
+MultipleCash leaves the table
+lawlex_2: raises $0.04 to $0.06
+Marine0624 joins the table at seat #6 
+JO'Meara: folds 
+Fireball31122 leaves the table
+LoboMaia57: folds 
+oldmanXIII: calls $0.04
+*** FLOP *** [8d Qh 4s]
+oldmanXIII: checks 
+lawlex_2: bets $0.09
+oldmanXIII: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8d Qh 4s]
+Seat 1: oldmanXIII folded on the Flop
+Seat 3: lawlex_2 (button) collected ($0.14)
+Seat 4: JO'Meara (small blind) folded before Flop
+Seat 5: LoboMaia57 (big blind) folded before Flop
+Seat 6: MultipleCash folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726463737:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:39:01 MSK [2020/05/11 23:39:01 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: oldmanXIII ($2.13 in chips) 
+Seat 3: lawlex_2 ($2.19 in chips) 
+Seat 4: JO'Meara ($1.93 in chips) 
+Seat 5: LoboMaia57 ($1.95 in chips) 
+Seat 6: Marine0624 ($0.80 in chips) 
+LoboMaia57: posts small blind $0.01
+Marine0624: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Qh]
+oldmanXIII: folds 
+lawlex_2: folds 
+JO'Meara: folds 
+LoboMaia57: calls $0.01
+Marine0624: checks 
+*** FLOP *** [2s 9d 8s]
+LoboMaia57: checks 
+Marine0624: checks 
+*** TURN *** [2s 9d 8s] [6d]
+LoboMaia57: bets $0.14
+Marine0624: folds 
+Uncalled bet ($0.14) returned to LoboMaia57
+LoboMaia57 collected $0.04 from pot
+LoboMaia57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2s 9d 8s 6d]
+Seat 1: oldmanXIII folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara (button) folded before Flop (didn't bet)
+Seat 5: LoboMaia57 (small blind) collected ($0.04)
+Seat 6: Marine0624 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213726473454:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:39:25 MSK [2020/05/11 23:39:25 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: oldmanXIII ($2.13 in chips) 
+Seat 3: lawlex_2 ($2.19 in chips) 
+Seat 4: JO'Meara ($1.93 in chips) 
+Seat 5: LoboMaia57 ($1.97 in chips) 
+Seat 6: Marine0624 ($0.78 in chips) 
+Marine0624: posts small blind $0.01
+oldmanXIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Ts]
+lawlex_2: folds 
+JO'Meara: folds 
+LoboMaia57: raises $0.02 to $0.04
+Marine0624: folds 
+oldmanXIII: folds 
+Uncalled bet ($0.02) returned to LoboMaia57
+LoboMaia57 collected $0.05 from pot
+LoboMaia57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: oldmanXIII (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: LoboMaia57 (button) collected ($0.05)
+Seat 6: Marine0624 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213726478350:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:39:38 MSK [2020/05/11 23:39:38 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: oldmanXIII ($2.11 in chips) 
+Seat 3: lawlex_2 ($2.19 in chips) 
+Seat 4: JO'Meara ($1.93 in chips) 
+Seat 5: LoboMaia57 ($2 in chips) 
+Seat 6: Marine0624 ($0.77 in chips) 
+oldmanXIII: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 2c]
+JO'Meara: folds 
+LoboMaia57: folds 
+Marine0624: folds 
+ace8eight joins the table at seat #2 
+oldmanXIII: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [6c Qd Ks]
+oldmanXIII: checks 
+lawlex_2: checks 
+*** TURN *** [6c Qd Ks] [Qh]
+oldmanXIII: checks 
+lawlex_2: checks 
+*** RIVER *** [6c Qd Ks Qh] [5h]
+oldmanXIII: checks 
+lawlex_2: bets $0.03
+oldmanXIII: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6c Qd Ks Qh 5h]
+Seat 1: oldmanXIII (small blind) folded on the River
+Seat 3: lawlex_2 (big blind) collected ($0.04)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: LoboMaia57 folded before Flop (didn't bet)
+Seat 6: Marine0624 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726489566:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:40:06 MSK [2020/05/11 23:40:06 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: oldmanXIII ($2.09 in chips) 
+Seat 3: lawlex_2 ($2.21 in chips) 
+Seat 4: JO'Meara ($1.93 in chips) 
+Seat 5: LoboMaia57 ($2 in chips) 
+Seat 6: Marine0624 ($0.77 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 3d]
+LoboMaia57: folds 
+Marine0624: folds 
+oldmanXIII: calls $0.02
+lawlex_2: folds 
+JO'Meara: checks 
+*** FLOP *** [3c As 9c]
+JO'Meara: checks 
+oldmanXIII: checks 
+*** TURN *** [3c As 9c] [5s]
+JO'Meara: checks 
+oldmanXIII: checks 
+*** RIVER *** [3c As 9c 5s] [Qs]
+JO'Meara: checks 
+oldmanXIII: bets $0.04
+JO'Meara: calls $0.04
+*** SHOW DOWN ***
+oldmanXIII: shows [9s Qd] (two pair, Queens and Nines)
+JO'Meara: mucks hand 
+oldmanXIII collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3c As 9c 5s Qs]
+Seat 1: oldmanXIII (button) showed [9s Qd] and won ($0.13) with two pair, Queens and Nines
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: JO'Meara (big blind) mucked [Qh 4s]
+Seat 5: LoboMaia57 folded before Flop (didn't bet)
+Seat 6: Marine0624 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726502183:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:40:38 MSK [2020/05/11 23:40:38 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: oldmanXIII ($2.16 in chips) 
+Seat 2: ace8eight ($1.60 in chips) 
+Seat 3: lawlex_2 ($2.20 in chips) 
+Seat 4: JO'Meara ($1.87 in chips) 
+Seat 5: LoboMaia57 ($2 in chips) 
+Seat 6: Marine0624 ($0.77 in chips) 
+JO'Meara: posts small blind $0.01
+LoboMaia57: posts big blind $0.02
+ace8eight: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 6s]
+Marine0624: folds 
+oldmanXIII: calls $0.02
+ace8eight: checks 
+lawlex_2: folds 
+JO'Meara: raises $0.12 to $0.14
+LoboMaia57: folds 
+oldmanXIII: folds 
+ace8eight: calls $0.12
+*** FLOP *** [Tc Js 4s]
+JO'Meara: bets $0.09
+ace8eight: folds 
+Uncalled bet ($0.09) returned to JO'Meara
+JO'Meara collected $0.31 from pot
+JO'Meara: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Tc Js 4s]
+Seat 1: oldmanXIII folded before Flop
+Seat 2: ace8eight folded on the Flop
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: JO'Meara (small blind) collected ($0.31)
+Seat 5: LoboMaia57 (big blind) folded before Flop
+Seat 6: Marine0624 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726515917:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:41:13 MSK [2020/05/11 23:41:13 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: oldmanXIII ($2.14 in chips) 
+Seat 2: ace8eight ($1.46 in chips) 
+Seat 3: lawlex_2 ($2.20 in chips) 
+Seat 4: JO'Meara ($2.04 in chips) 
+Seat 5: LoboMaia57 ($1.98 in chips) 
+Seat 6: Marine0624 ($0.77 in chips) 
+LoboMaia57: posts small blind $0.01
+Marine0624: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 4c]
+oldmanXIII: folds 
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara: folds 
+LoboMaia57: calls $0.01
+Marine0624: checks 
+*** FLOP *** [5c Qd 8s]
+LoboMaia57: checks 
+Marine0624: checks 
+*** TURN *** [5c Qd 8s] [Tc]
+LoboMaia57: checks 
+Marine0624: checks 
+*** RIVER *** [5c Qd 8s Tc] [6d]
+LoboMaia57: bets $0.02
+Marine0624: folds 
+Uncalled bet ($0.02) returned to LoboMaia57
+LoboMaia57 collected $0.04 from pot
+LoboMaia57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5c Qd 8s Tc 6d]
+Seat 1: oldmanXIII folded before Flop (didn't bet)
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara (button) folded before Flop (didn't bet)
+Seat 5: LoboMaia57 (small blind) collected ($0.04)
+Seat 6: Marine0624 (big blind) folded on the River
+
+
+
+PokerStars Hand #213726532590:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:41:56 MSK [2020/05/11 23:41:56 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: oldmanXIII ($2.14 in chips) 
+Seat 2: ace8eight ($1.46 in chips) 
+Seat 3: lawlex_2 ($2.20 in chips) 
+Seat 4: JO'Meara ($2.04 in chips) 
+Seat 5: LoboMaia57 ($2 in chips) 
+Seat 6: Marine0624 ($0.75 in chips) 
+Marine0624: posts small blind $0.01
+oldmanXIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 4s]
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara: folds 
+LoboMaia57: folds 
+Marine0624: folds 
+Uncalled bet ($0.01) returned to oldmanXIII
+oldmanXIII collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: oldmanXIII (big blind) collected ($0.02)
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: LoboMaia57 (button) folded before Flop (didn't bet)
+Seat 6: Marine0624 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213726537115:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:42:07 MSK [2020/05/11 23:42:07 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: oldmanXIII ($2.15 in chips) 
+Seat 2: ace8eight ($1.46 in chips) 
+Seat 3: lawlex_2 ($2.20 in chips) 
+Seat 4: JO'Meara ($2.04 in chips) 
+Seat 5: LoboMaia57 ($2 in chips) 
+Seat 6: Marine0624 ($0.74 in chips) 
+oldmanXIII: posts small blind $0.01
+ace8eight: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Jc]
+lawlex_2: folds 
+JO'Meara: folds 
+LoboMaia57: folds 
+Marine0624: calls $0.02
+oldmanXIII: calls $0.01
+ace8eight: checks 
+*** FLOP *** [Ts 3d Qs]
+oldmanXIII: checks 
+ace8eight: bets $0.02
+Marine0624: folds 
+oldmanXIII: calls $0.02
+*** TURN *** [Ts 3d Qs] [6c]
+oldmanXIII: checks 
+ace8eight: bets $0.05
+oldmanXIII: folds 
+Uncalled bet ($0.05) returned to ace8eight
+ace8eight collected $0.10 from pot
+ace8eight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Ts 3d Qs 6c]
+Seat 1: oldmanXIII (small blind) folded on the Turn
+Seat 2: ace8eight (big blind) collected ($0.10)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: LoboMaia57 folded before Flop (didn't bet)
+Seat 6: Marine0624 (button) folded on the Flop
+
+
+
+PokerStars Hand #213726550774:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:42:42 MSK [2020/05/11 23:42:42 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: oldmanXIII ($2.11 in chips) 
+Seat 2: ace8eight ($1.52 in chips) 
+Seat 3: lawlex_2 ($2.20 in chips) 
+Seat 4: JO'Meara ($2.04 in chips) 
+Seat 5: LoboMaia57 ($2 in chips) 
+Seat 6: Marine0624 ($0.72 in chips) 
+ace8eight: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Ts]
+JO'Meara: folds 
+LoboMaia57: folds 
+Marine0624: folds 
+oldmanXIII: folds 
+ace8eight: calls $0.01
+lawlex_2: raises $0.04 to $0.06
+ace8eight: calls $0.04
+*** FLOP *** [8h 4s Qs]
+ace8eight: checks 
+lawlex_2: bets $0.08
+ace8eight: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8h 4s Qs]
+Seat 1: oldmanXIII (button) folded before Flop (didn't bet)
+Seat 2: ace8eight (small blind) folded on the Flop
+Seat 3: lawlex_2 (big blind) collected ($0.12)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: LoboMaia57 folded before Flop (didn't bet)
+Seat 6: Marine0624 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726563609:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:43:15 MSK [2020/05/11 23:43:15 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: oldmanXIII ($2.11 in chips) 
+Seat 2: ace8eight ($1.46 in chips) 
+Seat 3: lawlex_2 ($2.26 in chips) 
+Seat 4: JO'Meara ($2.04 in chips) 
+Seat 5: LoboMaia57 ($2 in chips) 
+Seat 6: Marine0624 ($0.72 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Jd]
+LoboMaia57: calls $0.02
+Marine0624: raises $0.02 to $0.04
+oldmanXIII: folds 
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara: calls $0.02
+LoboMaia57: calls $0.02
+*** FLOP *** [4s 2d Kd]
+JO'Meara: checks 
+LoboMaia57: bets $0.07
+Marine0624: raises $0.61 to $0.68 and is all-in
+JO'Meara: folds 
+LoboMaia57: folds 
+Uncalled bet ($0.61) returned to Marine0624
+Marine0624 collected $0.26 from pot
+Marine0624: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [4s 2d Kd]
+Seat 1: oldmanXIII folded before Flop (didn't bet)
+Seat 2: ace8eight (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: JO'Meara (big blind) folded on the Flop
+Seat 5: LoboMaia57 folded on the Flop
+Seat 6: Marine0624 collected ($0.26)
+
+
+
+PokerStars Hand #213726579661:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:43:56 MSK [2020/05/11 23:43:56 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: oldmanXIII ($2.11 in chips) 
+Seat 2: ace8eight ($1.46 in chips) 
+Seat 3: lawlex_2 ($2.25 in chips) 
+Seat 4: JO'Meara ($2 in chips) 
+Seat 5: LoboMaia57 ($1.89 in chips) 
+Seat 6: Marine0624 ($0.87 in chips) 
+JO'Meara: posts small blind $0.01
+LoboMaia57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Kh]
+Marine0624: raises $0.02 to $0.04
+oldmanXIII: calls $0.04
+ace8eight: folds 
+lawlex_2: calls $0.04
+JO'Meara: calls $0.03
+LoboMaia57: calls $0.02
+*** FLOP *** [Th 5c Js]
+JO'Meara: checks 
+LoboMaia57: checks 
+Marine0624: bets $0.18
+oldmanXIII: folds 
+lawlex_2: folds 
+JO'Meara: folds 
+LoboMaia57: calls $0.18
+*** TURN *** [Th 5c Js] [Qh]
+LoboMaia57: checks 
+Marine0624: bets $0.65 and is all-in
+LoboMaia57: calls $0.65
+*** RIVER *** [Th 5c Js Qh] [Qs]
+*** SHOW DOWN ***
+LoboMaia57: shows [5h 5s] (a full house, Fives full of Queens)
+Marine0624: shows [Ks Kc] (two pair, Kings and Queens)
+LoboMaia57 collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.86 | Rake $0.07 
+Board [Th 5c Js Qh Qs]
+Seat 1: oldmanXIII folded on the Flop
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded on the Flop
+Seat 4: JO'Meara (small blind) folded on the Flop
+Seat 5: LoboMaia57 (big blind) showed [5h 5s] and won ($1.79) with a full house, Fives full of Queens
+Seat 6: Marine0624 showed [Ks Kc] and lost with two pair, Kings and Queens
+
+
+
+PokerStars Hand #213726598272:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:44:44 MSK [2020/05/11 23:44:44 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: oldmanXIII ($2.07 in chips) 
+Seat 2: ace8eight ($1.46 in chips) 
+Seat 3: lawlex_2 ($2.21 in chips) 
+Seat 4: JO'Meara ($1.96 in chips) 
+Seat 5: LoboMaia57 ($2.81 in chips) 
+LoboMaia57: posts small blind $0.01
+oldmanXIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Kc]
+Marine0624 leaves the table
+ace8eight: folds 
+lawlex_2: folds 
+13-kit-13 joins the table at seat #6 
+JO'Meara has timed out
+JO'Meara: folds 
+LoboMaia57: calls $0.01
+oldmanXIII: checks 
+*** FLOP *** [Ah 3h Qh]
+LoboMaia57: checks 
+oldmanXIII: checks 
+*** TURN *** [Ah 3h Qh] [5h]
+LoboMaia57: bets $0.02
+oldmanXIII: folds 
+Uncalled bet ($0.02) returned to LoboMaia57
+LoboMaia57 collected $0.04 from pot
+LoboMaia57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ah 3h Qh 5h]
+Seat 1: oldmanXIII (big blind) folded on the Turn
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara (button) folded before Flop (didn't bet)
+Seat 5: LoboMaia57 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213726611569:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:45:18 MSK [2020/05/11 23:45:18 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: oldmanXIII ($2.05 in chips) 
+Seat 2: ace8eight ($1.46 in chips) 
+Seat 3: lawlex_2 ($2.21 in chips) 
+Seat 4: JO'Meara ($1.96 in chips) 
+Seat 5: LoboMaia57 ($2.83 in chips) 
+oldmanXIII: posts small blind $0.01
+ace8eight: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 8c]
+lawlex_2: folds 
+JO'Meara: folds 
+LoboMaia57: folds 
+oldmanXIII: calls $0.01
+ace8eight: checks 
+*** FLOP *** [Js Ks 2s]
+oldmanXIII: checks 
+ace8eight: checks 
+*** TURN *** [Js Ks 2s] [9h]
+oldmanXIII: checks 
+ace8eight: bets $0.02
+oldmanXIII: calls $0.02
+*** RIVER *** [Js Ks 2s 9h] [7s]
+oldmanXIII: checks 
+ace8eight: bets $0.08
+oldmanXIII: folds 
+Uncalled bet ($0.08) returned to ace8eight
+ace8eight collected $0.08 from pot
+ace8eight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Js Ks 2s 9h 7s]
+Seat 1: oldmanXIII (small blind) folded on the River
+Seat 2: ace8eight (big blind) collected ($0.08)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: LoboMaia57 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726629166:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:46:03 MSK [2020/05/11 23:46:03 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: oldmanXIII ($2.01 in chips) 
+Seat 2: ace8eight ($1.50 in chips) 
+Seat 3: lawlex_2 ($2.21 in chips) 
+Seat 4: JO'Meara ($1.96 in chips) 
+Seat 5: LoboMaia57 ($2.83 in chips) 
+ace8eight: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+13-kit-13: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Kc]
+JO'Meara: calls $0.02
+LoboMaia57: folds 
+oldmanXIII: folds 
+ace8eight: raises $0.04 to $0.06
+lawlex_2: folds 
+JO'Meara: calls $0.04
+*** FLOP *** [Qh Kh 4h]
+ace8eight: bets $0.07
+JO'Meara: calls $0.07
+*** TURN *** [Qh Kh 4h] [6c]
+ace8eight: bets $0.14
+JO'Meara: folds 
+Uncalled bet ($0.14) returned to ace8eight
+ace8eight collected $0.27 from pot
+ace8eight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Qh Kh 4h 6c]
+Seat 1: oldmanXIII (button) folded before Flop (didn't bet)
+Seat 2: ace8eight (small blind) collected ($0.27)
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: JO'Meara folded on the Turn
+Seat 5: LoboMaia57 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726644367:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:46:42 MSK [2020/05/11 23:46:42 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: oldmanXIII ($2.01 in chips) 
+Seat 2: ace8eight ($1.64 in chips) 
+Seat 3: lawlex_2 ($2.19 in chips) 
+Seat 4: JO'Meara ($1.83 in chips) 
+Seat 5: LoboMaia57 ($2.83 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+13-kit-13: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 5h]
+LoboMaia57: folds 
+oldmanXIII: folds 
+ace8eight: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to JO'Meara
+JO'Meara collected $0.02 from pot
+JO'Meara: doesn't show hand 
+LoboMaia57 leaves the table
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: oldmanXIII folded before Flop (didn't bet)
+Seat 2: ace8eight (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: JO'Meara (big blind) collected ($0.02)
+Seat 5: LoboMaia57 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726648670:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:46:53 MSK [2020/05/11 23:46:53 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: oldmanXIII ($2.01 in chips) 
+Seat 2: ace8eight ($1.64 in chips) 
+Seat 3: lawlex_2 ($2.18 in chips) 
+Seat 4: JO'Meara ($1.84 in chips) 
+Seat 6: 13-kit-13 ($2 in chips) 
+JO'Meara: posts small blind $0.01
+13-kit-13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d As]
+oldmanXIII: calls $0.02
+oscarbagre joins the table at seat #5 
+ace8eight: folds 
+lawlex_2: raises $0.03 to $0.05
+JO'Meara: calls $0.04
+13-kit-13: folds 
+oldmanXIII: calls $0.03
+*** FLOP *** [Jd 3h 2c]
+JO'Meara: checks 
+oldmanXIII: checks 
+lawlex_2: bets $0.11
+JO'Meara: calls $0.11
+oldmanXIII: folds 
+*** TURN *** [Jd 3h 2c] [4d]
+JO'Meara: checks 
+lawlex_2: checks 
+*** RIVER *** [Jd 3h 2c 4d] [Ac]
+JO'Meara: checks 
+lawlex_2: bets $0.25
+JO'Meara: folds 
+Uncalled bet ($0.25) returned to lawlex_2
+lawlex_2 collected $0.38 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Jd 3h 2c 4d Ac]
+Seat 1: oldmanXIII folded on the Flop
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) collected ($0.38)
+Seat 4: JO'Meara (small blind) folded on the River
+Seat 6: 13-kit-13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213726666442:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:47:39 MSK [2020/05/11 23:47:39 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: oldmanXIII ($1.96 in chips) 
+Seat 2: ace8eight ($1.64 in chips) 
+Seat 3: lawlex_2 ($2.40 in chips) 
+Seat 4: JO'Meara ($1.68 in chips) 
+Seat 6: 13-kit-13 ($1.98 in chips) 
+13-kit-13: posts small blind $0.01
+oldmanXIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Kh]
+ace8eight: folds 
+lawlex_2: calls $0.02
+JO'Meara: folds 
+13-kit-13: calls $0.01
+oldmanXIII: checks 
+*** FLOP *** [9c 3c Td]
+13-kit-13: checks 
+oldmanXIII: checks 
+lawlex_2: bets $0.04
+13-kit-13: folds 
+oldmanXIII: calls $0.04
+*** TURN *** [9c 3c Td] [5c]
+oldmanXIII: checks 
+lawlex_2: bets $0.09
+oldmanXIII: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9c 3c Td 5c]
+Seat 1: oldmanXIII (big blind) folded on the Turn
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 collected ($0.14)
+Seat 4: JO'Meara (button) folded before Flop (didn't bet)
+Seat 6: 13-kit-13 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213726680261:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:48:15 MSK [2020/05/11 23:48:15 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: oldmanXIII ($1.90 in chips) 
+Seat 2: ace8eight ($1.64 in chips) 
+Seat 3: lawlex_2 ($2.48 in chips) 
+Seat 4: JO'Meara ($1.68 in chips) 
+Seat 6: 13-kit-13 ($1.96 in chips) 
+oldmanXIII: posts small blind $0.01
+ace8eight: posts big blind $0.02
+oscarbagre: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Tc]
+lawlex_2: folds 
+JO'Meara: raises $0.05 to $0.07
+13-kit-13: folds 
+oldmanXIII: folds 
+ace8eight: calls $0.05
+*** FLOP *** [Jh 4h 2c]
+ace8eight: checks 
+JO'Meara: bets $0.09
+ace8eight: folds 
+Uncalled bet ($0.09) returned to JO'Meara
+JO'Meara collected $0.14 from pot
+JO'Meara: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jh 4h 2c]
+Seat 1: oldmanXIII (small blind) folded before Flop
+Seat 2: ace8eight (big blind) folded on the Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara collected ($0.14)
+Seat 6: 13-kit-13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726691136:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:48:43 MSK [2020/05/11 23:48:43 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: oldmanXIII ($1.89 in chips) 
+Seat 2: ace8eight ($1.57 in chips) 
+Seat 3: lawlex_2 ($2.48 in chips) 
+Seat 4: JO'Meara ($1.75 in chips) 
+Seat 6: 13-kit-13 ($1.96 in chips) 
+ace8eight: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+oscarbagre: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 3c]
+JO'Meara: calls $0.02
+13-kit-13: calls $0.02
+oldmanXIII: folds 
+ace8eight: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [6s Ks 7s]
+ace8eight: checks 
+lawlex_2: bets $0.05
+JO'Meara: folds 
+13-kit-13: calls $0.05
+ace8eight: folds 
+*** TURN *** [6s Ks 7s] [4d]
+lawlex_2: bets $0.11
+13-kit-13: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.17 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6s Ks 7s 4d]
+Seat 1: oldmanXIII (button) folded before Flop (didn't bet)
+Seat 2: ace8eight (small blind) folded on the Flop
+Seat 3: lawlex_2 (big blind) collected ($0.17)
+Seat 4: JO'Meara folded on the Flop
+Seat 6: 13-kit-13 folded on the Turn
+
+
+
+PokerStars Hand #213726708484:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:49:29 MSK [2020/05/11 23:49:29 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: oldmanXIII ($1.89 in chips) 
+Seat 2: ace8eight ($1.55 in chips) 
+Seat 3: lawlex_2 ($2.58 in chips) 
+Seat 4: JO'Meara ($1.73 in chips) 
+Seat 6: 13-kit-13 ($1.89 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+oscarbagre: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 7s]
+13-kit-13: folds 
+oldmanXIII: calls $0.02
+ace8eight: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+JO'Meara: calls $0.03
+oldmanXIII: calls $0.03
+ace8eight: calls $0.03
+*** FLOP *** [6c 9h 4c]
+lawlex_2: bets $0.13
+JO'Meara: folds 
+oldmanXIII: calls $0.13
+ace8eight: calls $0.13
+*** TURN *** [6c 9h 4c] [9c]
+lawlex_2: checks 
+oldmanXIII: bets $0.28
+ace8eight: calls $0.28
+lawlex_2: folds 
+*** RIVER *** [6c 9h 4c 9c] [7d]
+oldmanXIII: checks 
+ace8eight: bets $0.56
+oldmanXIII: calls $0.56
+*** SHOW DOWN ***
+ace8eight: shows [8c Jc] (a flush, Jack high)
+oldmanXIII: mucks hand 
+ace8eight collected $2.19 from pot
+*** SUMMARY ***
+Total pot $2.27 | Rake $0.08 
+Board [6c 9h 4c 9c 7d]
+Seat 1: oldmanXIII mucked [8s 9s]
+Seat 2: ace8eight (button) showed [8c Jc] and won ($2.19) with a flush, Jack high
+Seat 3: lawlex_2 (small blind) folded on the Turn
+Seat 4: JO'Meara (big blind) folded on the Flop
+Seat 6: 13-kit-13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726735156:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:50:38 MSK [2020/05/11 23:50:38 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: oldmanXIII ($0.87 in chips) 
+Seat 2: ace8eight ($2.72 in chips) 
+Seat 3: lawlex_2 ($2.40 in chips) 
+Seat 4: JO'Meara ($1.68 in chips) 
+Seat 6: 13-kit-13 ($1.89 in chips) 
+JO'Meara: posts small blind $0.01
+oscarbagre has timed out
+oscarbagre: is sitting out 
+13-kit-13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 7c]
+oldmanXIII: calls $0.02
+ace8eight: folds 
+oscarbagre is disconnected 
+lawlex_2: raises $0.03 to $0.05
+JO'Meara: raises $0.14 to $0.19
+13-kit-13: folds 
+oldmanXIII: raises $0.14 to $0.33
+lawlex_2: folds 
+JO'Meara: calls $0.14
+*** FLOP *** [3s 9d 6c]
+JO'Meara: bets $0.46
+oldmanXIII: raises $0.08 to $0.54 and is all-in
+JO'Meara: calls $0.08
+*** TURN *** [3s 9d 6c] [Ah]
+*** RIVER *** [3s 9d 6c Ah] [Kh]
+*** SHOW DOWN ***
+JO'Meara: shows [Kc Ks] (three of a kind, Kings)
+oldmanXIII: shows [Td Th] (a pair of Tens)
+JO'Meara collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.81 | Rake $0.06 
+Board [3s 9d 6c Ah Kh]
+Seat 1: oldmanXIII showed [Td Th] and lost with a pair of Tens
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop
+Seat 4: JO'Meara (small blind) showed [Kc Ks] and won ($1.75) with three of a kind, Kings
+Seat 6: 13-kit-13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213726768709:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:51:41 MSK [2020/05/11 23:51:41 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 2: ace8eight ($2.72 in chips) 
+Seat 3: lawlex_2 ($2.35 in chips) 
+Seat 4: JO'Meara ($2.56 in chips) 
+Seat 6: 13-kit-13 ($1.87 in chips) 
+13-kit-13: posts small blind $0.01
+ace8eight: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Ks]
+lawlex_2: raises $0.03 to $0.05
+oldmanXIII leaves the table
+JO'Meara: folds 
+13-kit-13: folds 
+ace8eight: calls $0.03
+*** FLOP *** [3c 3h 6d]
+DenysPS780 joins the table at seat #1 
+ace8eight: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to ace8eight
+ace8eight collected $0.11 from pot
+ace8eight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3c 3h 6d]
+Seat 2: ace8eight (big blind) collected ($0.11)
+Seat 3: lawlex_2 folded on the Flop
+Seat 4: JO'Meara (button) folded before Flop (didn't bet)
+Seat 6: 13-kit-13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213726778922:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:52:08 MSK [2020/05/11 23:52:08 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 2: ace8eight ($2.78 in chips) 
+Seat 3: lawlex_2 ($2.30 in chips) 
+Seat 4: JO'Meara ($2.56 in chips) 
+Seat 6: 13-kit-13 ($1.86 in chips) 
+ace8eight: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+oscarbagre: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Ah]
+JO'Meara: folds 
+13-kit-13: calls $0.02
+ace8eight: calls $0.01
+lawlex_2: raises $0.03 to $0.05
+13-kit-13: calls $0.03
+ace8eight: calls $0.03
+*** FLOP *** [4c Kc Ac]
+ace8eight: checks 
+lawlex_2: bets $0.09
+13-kit-13: folds 
+ace8eight: calls $0.09
+*** TURN *** [4c Kc Ac] [4s]
+ace8eight: checks 
+lawlex_2: bets $0.21
+ace8eight: calls $0.21
+*** RIVER *** [4c Kc Ac 4s] [Tc]
+ace8eight: bets $0.36
+lawlex_2: folds 
+Uncalled bet ($0.36) returned to ace8eight
+ace8eight collected $0.72 from pot
+ace8eight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [4c Kc Ac 4s Tc]
+Seat 2: ace8eight (small blind) collected ($0.72)
+Seat 3: lawlex_2 (big blind) folded on the River
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 6: 13-kit-13 (button) folded on the Flop
+
+
+
+PokerStars Hand #213726809354:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:53:04 MSK [2020/05/11 23:53:04 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: DenysPS780 ($2 in chips) 
+Seat 2: ace8eight ($3.15 in chips) 
+Seat 3: lawlex_2 ($1.95 in chips) 
+Seat 4: JO'Meara ($2.56 in chips) 
+Seat 6: 13-kit-13 ($1.81 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+oscarbagre: sits out 
+DenysPS780: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 4s]
+13-kit-13: calls $0.02
+DenysPS780: checks 
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara: checks 
+*** FLOP *** [3c As 3d]
+JO'Meara: checks 
+13-kit-13: checks 
+DenysPS780: checks 
+*** TURN *** [3c As 3d] [Jd]
+JO'Meara: checks 
+13-kit-13: bets $0.02
+DenysPS780: folds 
+JO'Meara: folds 
+Uncalled bet ($0.02) returned to 13-kit-13
+13-kit-13 collected $0.07 from pot
+13-kit-13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3c As 3d Jd]
+Seat 1: DenysPS780 folded on the Turn (didn't bet)
+Seat 2: ace8eight (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: JO'Meara (big blind) folded on the Turn
+Seat 6: 13-kit-13 collected ($0.07)
+
+
+
+PokerStars Hand #213726824128:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:53:43 MSK [2020/05/11 23:53:43 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: DenysPS780 ($1.98 in chips) 
+Seat 2: ace8eight ($3.15 in chips) 
+Seat 3: lawlex_2 ($1.94 in chips) 
+Seat 4: JO'Meara ($2.54 in chips) 
+Seat 5: oscarbagre ($0.80 in chips) 
+Seat 6: 13-kit-13 ($1.86 in chips) 
+JO'Meara: posts small blind $0.01
+oscarbagre: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Qs]
+13-kit-13: calls $0.02
+DenysPS780: raises $0.06 to $0.08
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara: folds 
+oscarbagre: folds 
+13-kit-13: folds 
+Uncalled bet ($0.06) returned to DenysPS780
+DenysPS780 collected $0.07 from pot
+DenysPS780: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: DenysPS780 collected ($0.07)
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: JO'Meara (small blind) folded before Flop
+Seat 5: oscarbagre (big blind) folded before Flop
+Seat 6: 13-kit-13 folded before Flop
+
+
+
+PokerStars Hand #213726835883:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:54:14 MSK [2020/05/11 23:54:14 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: DenysPS780 ($2.03 in chips) 
+Seat 2: ace8eight ($3.15 in chips) 
+Seat 3: lawlex_2 ($1.94 in chips) 
+Seat 4: JO'Meara ($2.53 in chips) 
+Seat 5: oscarbagre ($0.78 in chips) 
+Seat 6: 13-kit-13 ($1.84 in chips) 
+oscarbagre: posts small blind $0.01
+13-kit-13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 2s]
+DenysPS780: calls $0.02
+ace8eight: raises $0.04 to $0.06
+lawlex_2: folds 
+JO'Meara: calls $0.06
+oscarbagre: folds 
+13-kit-13: calls $0.04
+DenysPS780: calls $0.04
+*** FLOP *** [4c Js 2c]
+13-kit-13: bets $0.02
+DenysPS780: calls $0.02
+ace8eight: calls $0.02
+JO'Meara: folds 
+*** TURN *** [4c Js 2c] [9d]
+13-kit-13: bets $0.06
+DenysPS780: folds 
+ace8eight: calls $0.06
+*** RIVER *** [4c Js 2c 9d] [4s]
+13-kit-13: bets $0.08
+ace8eight: calls $0.08
+*** SHOW DOWN ***
+13-kit-13: shows [Ah Jc] (two pair, Jacks and Fours)
+ace8eight: mucks hand 
+13-kit-13 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [4c Js 2c 9d 4s]
+Seat 1: DenysPS780 folded on the Turn
+Seat 2: ace8eight mucked [8d 8h]
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara (button) folded on the Flop
+Seat 5: oscarbagre (small blind) folded before Flop
+Seat 6: 13-kit-13 (big blind) showed [Ah Jc] and won ($0.57) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #213726859534:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:55:19 MSK [2020/05/11 23:55:19 ET]
+Table 'Cimmeria' 6-max Seat #5 is the button
+Seat 1: DenysPS780 ($1.95 in chips) 
+Seat 2: ace8eight ($2.93 in chips) 
+Seat 3: lawlex_2 ($1.94 in chips) 
+Seat 4: JO'Meara ($2.47 in chips) 
+Seat 5: oscarbagre ($0.77 in chips) 
+Seat 6: 13-kit-13 ($2.19 in chips) 
+13-kit-13: posts small blind $0.01
+DenysPS780: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 8h]
+ace8eight: folds 
+lawlex_2: raises $0.03 to $0.05
+JO'Meara: folds 
+oscarbagre: folds 
+13-kit-13: folds 
+DenysPS780: calls $0.03
+*** FLOP *** [As Td Ad]
+DenysPS780: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to DenysPS780
+DenysPS780 collected $0.11 from pot
+DenysPS780: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [As Td Ad]
+Seat 1: DenysPS780 (big blind) collected ($0.11)
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded on the Flop
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: oscarbagre (button) folded before Flop (didn't bet)
+Seat 6: 13-kit-13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213726870760:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:55:55 MSK [2020/05/11 23:55:55 ET]
+Table 'Cimmeria' 6-max Seat #6 is the button
+Seat 1: DenysPS780 ($2.01 in chips) 
+Seat 2: ace8eight ($2.93 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: JO'Meara ($2.47 in chips) 
+Seat 5: oscarbagre ($0.77 in chips) 
+Seat 6: 13-kit-13 ($2.18 in chips) 
+DenysPS780: posts small blind $0.01
+ace8eight: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 7c]
+lawlex_2: folds 
+JO'Meara: calls $0.02
+oscarbagre: folds 
+13-kit-13: folds 
+DenysPS780: calls $0.01
+ace8eight: checks 
+*** FLOP *** [6h Ah 3h]
+DenysPS780: bets $0.04
+ace8eight: folds 
+JO'Meara: calls $0.04
+*** TURN *** [6h Ah 3h] [Th]
+DenysPS780: bets $0.06
+JO'Meara: raises $0.12 to $0.18
+DenysPS780: calls $0.12
+*** RIVER *** [6h Ah 3h Th] [Jc]
+DenysPS780: bets $0.16
+JO'Meara: raises $0.24 to $0.40
+DenysPS780: calls $0.24
+*** SHOW DOWN ***
+JO'Meara: shows [Kh Ts] (a flush, Ace high)
+DenysPS780: mucks hand 
+JO'Meara collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.05 
+Board [6h Ah 3h Th Jc]
+Seat 1: DenysPS780 (small blind) mucked [8h Qs]
+Seat 2: ace8eight (big blind) folded on the Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara showed [Kh Ts] and won ($1.25) with a flush, Ace high
+Seat 5: oscarbagre folded before Flop (didn't bet)
+Seat 6: 13-kit-13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726890625:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:56:59 MSK [2020/05/11 23:56:59 ET]
+Table 'Cimmeria' 6-max Seat #1 is the button
+Seat 1: DenysPS780 ($1.37 in chips) 
+Seat 2: ace8eight ($2.91 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: JO'Meara ($3.08 in chips) 
+Seat 5: oscarbagre ($0.77 in chips) 
+Seat 6: 13-kit-13 ($2.18 in chips) 
+ace8eight: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Qc]
+JO'Meara: folds 
+oscarbagre: folds 
+13-kit-13: calls $0.02
+DenysPS780: raises $0.08 to $0.10
+ace8eight: folds 
+lawlex_2: calls $0.08
+13-kit-13: folds 
+*** FLOP *** [Ts 8s 8h]
+lawlex_2: bets $0.15
+DenysPS780: calls $0.15
+*** TURN *** [Ts 8s 8h] [4s]
+lawlex_2: checks 
+DenysPS780: bets $0.12
+lawlex_2: folds 
+Uncalled bet ($0.12) returned to DenysPS780
+DenysPS780 collected $0.51 from pot
+DenysPS780: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Ts 8s 8h 4s]
+Seat 1: DenysPS780 (button) collected ($0.51)
+Seat 2: ace8eight (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the Turn
+Seat 4: JO'Meara folded before Flop (didn't bet)
+Seat 5: oscarbagre folded before Flop (didn't bet)
+Seat 6: 13-kit-13 folded before Flop
+
+
+
+PokerStars Hand #213726905841:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:57:49 MSK [2020/05/11 23:57:49 ET]
+Table 'Cimmeria' 6-max Seat #2 is the button
+Seat 1: DenysPS780 ($1.63 in chips) 
+Seat 2: ace8eight ($2.90 in chips) 
+Seat 3: lawlex_2 ($1.64 in chips) 
+Seat 4: JO'Meara ($3.08 in chips) 
+Seat 5: oscarbagre ($0.77 in chips) 
+Seat 6: 13-kit-13 ($2.16 in chips) 
+lawlex_2: posts small blind $0.01
+JO'Meara: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 8c]
+oscarbagre: calls $0.02
+13-kit-13: folds 
+DenysPS780: calls $0.02
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara: checks 
+*** FLOP *** [8s 9s As]
+JO'Meara: checks 
+oscarbagre: checks 
+DenysPS780: checks 
+*** TURN *** [8s 9s As] [2d]
+JO'Meara: checks 
+oscarbagre: checks 
+DenysPS780: checks 
+*** RIVER *** [8s 9s As 2d] [2c]
+JO'Meara: checks 
+oscarbagre: bets $0.02
+DenysPS780: folds 
+JO'Meara: folds 
+Uncalled bet ($0.02) returned to oscarbagre
+oscarbagre collected $0.07 from pot
+oscarbagre: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [8s 9s As 2d 2c]
+Seat 1: DenysPS780 folded on the River
+Seat 2: ace8eight (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: JO'Meara (big blind) folded on the River
+Seat 5: oscarbagre collected ($0.07)
+Seat 6: 13-kit-13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726924542:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:58:50 MSK [2020/05/11 23:58:50 ET]
+Table 'Cimmeria' 6-max Seat #3 is the button
+Seat 1: DenysPS780 ($1.61 in chips) 
+Seat 2: ace8eight ($2.90 in chips) 
+Seat 3: lawlex_2 ($1.63 in chips) 
+Seat 4: JO'Meara ($3.06 in chips) 
+Seat 5: oscarbagre ($0.82 in chips) 
+Seat 6: 13-kit-13 ($2.16 in chips) 
+JO'Meara: posts small blind $0.01
+oscarbagre: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 9h]
+13-kit-13: folds 
+13-kit-13 leaves the table
+DenysPS780: calls $0.02
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara: calls $0.01
+oscarbagre: checks 
+*** FLOP *** [Ts 7s Qc]
+JO'Meara: checks 
+oscarbagre: checks 
+DenysPS780: checks 
+*** TURN *** [Ts 7s Qc] [9s]
+JO'Meara: checks 
+lexx8000 joins the table at seat #6 
+oscarbagre: checks 
+DenysPS780: checks 
+*** RIVER *** [Ts 7s Qc 9s] [5c]
+JO'Meara: checks 
+oscarbagre: checks 
+DenysPS780: checks 
+*** SHOW DOWN ***
+JO'Meara: shows [Jc 2h] (high card Queen)
+oscarbagre: shows [2d 9d] (a pair of Nines)
+DenysPS780: mucks hand 
+oscarbagre collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ts 7s Qc 9s 5c]
+Seat 1: DenysPS780 mucked [Jd 6s]
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: JO'Meara (small blind) showed [Jc 2h] and lost with high card Queen
+Seat 5: oscarbagre (big blind) showed [2d 9d] and won ($0.06) with a pair of Nines
+Seat 6: 13-kit-13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213726944125:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/12 6:59:55 MSK [2020/05/11 23:59:55 ET]
+Table 'Cimmeria' 6-max Seat #4 is the button
+Seat 1: DenysPS780 ($1.59 in chips) 
+Seat 2: ace8eight ($2.90 in chips) 
+Seat 3: lawlex_2 ($1.63 in chips) 
+Seat 4: JO'Meara ($3.04 in chips) 
+Seat 5: oscarbagre ($0.86 in chips) 
+Seat 6: lexx8000 ($2 in chips) 
+oscarbagre: posts small blind $0.01
+lexx8000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Td]
+DenysPS780: calls $0.02
+ace8eight: folds 
+lawlex_2: folds 
+JO'Meara has timed out
+JO'Meara: folds 
+oscarbagre: calls $0.01
+lexx8000: checks 
+*** FLOP *** [5c Qd 9h]
+oscarbagre: checks 
+lexx8000: checks 
+DenysPS780: checks 
+*** TURN *** [5c Qd 9h] [Qs]
+oscarbagre: checks 
+lexx8000: checks 
+DenysPS780: checks 
+*** RIVER *** [5c Qd 9h Qs] [3d]
+oscarbagre: bets $0.26
+lexx8000: folds 
+DenysPS780: folds 
+Uncalled bet ($0.26) returned to oscarbagre
+oscarbagre collected $0.06 from pot
+oscarbagre: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5c Qd 9h Qs 3d]
+Seat 1: DenysPS780 folded on the River
+Seat 2: ace8eight folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: JO'Meara (button) folded before Flop (didn't bet)
+Seat 5: oscarbagre (small blind) collected ($0.06)
+Seat 6: lexx8000 (big blind) folded on the River
+
+
+

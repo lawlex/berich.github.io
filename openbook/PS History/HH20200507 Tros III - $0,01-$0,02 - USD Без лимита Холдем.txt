@@ -1,0 +1,960 @@
+﻿PokerStars Hand #213473249955:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:00:56 MSK [2020/05/07 22:00:56 ET]
+Table 'Tros III' 6-max Seat #1 is the button
+Seat 1: silzim ($1.55 in chips) 
+Seat 2: DSilver ($2 in chips) 
+Seat 3: lawlex_2 ($2 in chips) 
+Seat 4: 96Javerage ($5.44 in chips) 
+Seat 5: OakleyGuy16 ($0.89 in chips) 
+Seat 6: ppivot10 ($2.31 in chips) 
+DSilver: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Qd]
+96Javerage: folds 
+OakleyGuy16: calls $0.02
+ppivot10: folds 
+silzim: folds 
+DSilver: folds 
+lawlex_2: checks 
+*** FLOP *** [3s Kh 6h]
+lawlex_2: checks 
+OakleyGuy16: checks 
+*** TURN *** [3s Kh 6h] [3d]
+lawlex_2: checks 
+OakleyGuy16: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to OakleyGuy16
+OakleyGuy16 collected $0.05 from pot
+OakleyGuy16: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3s Kh 6h 3d]
+Seat 1: silzim (button) folded before Flop (didn't bet)
+Seat 2: DSilver (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the Turn
+Seat 4: 96Javerage folded before Flop (didn't bet)
+Seat 5: OakleyGuy16 collected ($0.05)
+Seat 6: ppivot10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473272292:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:01:31 MSK [2020/05/07 22:01:31 ET]
+Table 'Tros III' 6-max Seat #2 is the button
+Seat 1: silzim ($1.55 in chips) 
+Seat 2: DSilver ($2 in chips) 
+Seat 3: lawlex_2 ($1.98 in chips) 
+Seat 4: 96Javerage ($5.44 in chips) 
+Seat 5: OakleyGuy16 ($0.92 in chips) 
+Seat 6: ppivot10 ($2.31 in chips) 
+lawlex_2: posts small blind $0.01
+96Javerage: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 2d]
+OakleyGuy16: raises $0.02 to $0.04
+ppivot10: folds 
+silzim: folds 
+DSilver: folds 
+lawlex_2: folds 
+96Javerage: calls $0.02
+*** FLOP *** [7s As 8s]
+96Javerage: checks 
+OakleyGuy16: bets $0.06
+96Javerage: folds 
+Uncalled bet ($0.06) returned to OakleyGuy16
+OakleyGuy16 collected $0.09 from pot
+OakleyGuy16: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7s As 8s]
+Seat 1: silzim folded before Flop (didn't bet)
+Seat 2: DSilver (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: 96Javerage (big blind) folded on the Flop
+Seat 5: OakleyGuy16 collected ($0.09)
+Seat 6: ppivot10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473291057:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:01:59 MSK [2020/05/07 22:01:59 ET]
+Table 'Tros III' 6-max Seat #3 is the button
+Seat 1: silzim ($1.55 in chips) 
+Seat 2: DSilver ($2 in chips) 
+Seat 3: lawlex_2 ($1.97 in chips) 
+Seat 4: 96Javerage ($5.40 in chips) 
+Seat 5: OakleyGuy16 ($0.97 in chips) 
+Seat 6: ppivot10 ($2.31 in chips) 
+96Javerage: posts small blind $0.01
+OakleyGuy16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 8s]
+ppivot10: folds 
+silzim: folds 
+DSilver: folds 
+lawlex_2: folds 
+96Javerage: folds 
+Uncalled bet ($0.01) returned to OakleyGuy16
+OakleyGuy16 collected $0.02 from pot
+OakleyGuy16: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: silzim folded before Flop (didn't bet)
+Seat 2: DSilver folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: 96Javerage (small blind) folded before Flop
+Seat 5: OakleyGuy16 (big blind) collected ($0.02)
+Seat 6: ppivot10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473309443:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:02:15 MSK [2020/05/07 22:02:15 ET]
+Table 'Tros III' 6-max Seat #4 is the button
+Seat 1: silzim ($1.55 in chips) 
+Seat 2: DSilver ($2 in chips) 
+Seat 3: lawlex_2 ($1.97 in chips) 
+Seat 4: 96Javerage ($5.39 in chips) 
+Seat 5: OakleyGuy16 ($0.98 in chips) 
+Seat 6: ppivot10 ($2.31 in chips) 
+OakleyGuy16: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 2h]
+silzim: folds 
+DSilver: folds 
+lawlex_2: folds 
+96Javerage: raises $0.04 to $0.06
+OakleyGuy16: calls $0.05
+ppivot10: calls $0.04
+*** FLOP *** [9s As 2d]
+OakleyGuy16: checks 
+ppivot10: checks 
+96Javerage: checks 
+*** TURN *** [9s As 2d] [Jc]
+OakleyGuy16: checks 
+ppivot10: bets $0.06
+96Javerage: calls $0.06
+OakleyGuy16 has timed out
+OakleyGuy16: folds 
+*** RIVER *** [9s As 2d Jc] [4d]
+ppivot10: bets $0.12
+96Javerage: folds 
+Uncalled bet ($0.12) returned to ppivot10
+ppivot10 collected $0.29 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [9s As 2d Jc 4d]
+Seat 1: silzim folded before Flop (didn't bet)
+Seat 2: DSilver folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: 96Javerage (button) folded on the River
+Seat 5: OakleyGuy16 (small blind) folded on the Turn
+Seat 6: ppivot10 (big blind) collected ($0.29)
+
+
+
+PokerStars Hand #213473382424:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:03:52 MSK [2020/05/07 22:03:52 ET]
+Table 'Tros III' 6-max Seat #6 is the button
+Seat 1: silzim ($1.55 in chips) 
+Seat 2: DSilver ($2 in chips) 
+Seat 3: lawlex_2 ($1.97 in chips) 
+Seat 4: 96Javerage ($5.27 in chips) 
+Seat 6: ppivot10 ($2.48 in chips) 
+silzim: posts small blind $0.01
+DSilver: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 3d]
+lawlex_2: folds 
+96Javerage: calls $0.02
+ppivot10: raises $0.10 to $0.12
+silzim: calls $0.11
+DSilver: folds 
+96Javerage: calls $0.10
+*** FLOP *** [4h 2c Qd]
+silzim: checks 
+96Javerage: bets $0.12
+ppivot10: calls $0.12
+silzim: calls $0.12
+*** TURN *** [4h 2c Qd] [8d]
+silzim: checks 
+96Javerage: checks 
+ppivot10: bets $0.28
+silzim: folds 
+96Javerage: folds 
+Uncalled bet ($0.28) returned to ppivot10
+ppivot10 collected $0.71 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [4h 2c Qd 8d]
+Seat 1: silzim (small blind) folded on the Turn
+Seat 2: DSilver (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: 96Javerage folded on the Turn
+Seat 6: ppivot10 (button) collected ($0.71)
+
+
+
+PokerStars Hand #213473424134:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:04:54 MSK [2020/05/07 22:04:54 ET]
+Table 'Tros III' 6-max Seat #1 is the button
+Seat 1: silzim ($1.31 in chips) 
+Seat 2: DSilver ($2 in chips) 
+Seat 3: lawlex_2 ($1.97 in chips) 
+Seat 4: 96Javerage ($5.03 in chips) 
+Seat 6: ppivot10 ($2.95 in chips) 
+DSilver: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 2s]
+96Javerage: folds 
+96Javerage leaves the table
+ppivot10: folds 
+silzim: folds 
+DSilver: raises $0.04 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to DSilver
+DSilver collected $0.04 from pot
+DSilver: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: silzim (button) folded before Flop (didn't bet)
+Seat 2: DSilver (small blind) collected ($0.04)
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: 96Javerage folded before Flop (didn't bet)
+Seat 6: ppivot10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473434918:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:05:10 MSK [2020/05/07 22:05:10 ET]
+Table 'Tros III' 6-max Seat #2 is the button
+Seat 1: silzim ($1.31 in chips) 
+Seat 2: DSilver ($2.02 in chips) 
+Seat 3: lawlex_2 ($1.95 in chips) 
+Seat 6: ppivot10 ($2.95 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 5h]
+silzim: folds 
+DSilver: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to ppivot10
+ppivot10 collected $0.02 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: silzim folded before Flop (didn't bet)
+Seat 2: DSilver (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 6: ppivot10 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213473440906:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:05:19 MSK [2020/05/07 22:05:19 ET]
+Table 'Tros III' 6-max Seat #3 is the button
+Seat 1: silzim ($1.31 in chips) 
+Seat 2: DSilver ($2.02 in chips) 
+Seat 3: lawlex_2 ($1.94 in chips) 
+Seat 6: ppivot10 ($2.96 in chips) 
+ppivot10: posts small blind $0.01
+silzim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Qs]
+DSilver: folds 
+lawlex_2: folds 
+ppivot10: raises $0.04 to $0.06
+silzim: calls $0.04
+*** FLOP *** [Ad 8d 7d]
+io203 joins the table at seat #4 
+ppivot10: bets $0.06
+silzim: calls $0.06
+*** TURN *** [Ad 8d 7d] [5h]
+ppivot10: checks 
+silzim: checks 
+*** RIVER *** [Ad 8d 7d 5h] [Kc]
+ppivot10: checks 
+silzim: bets $0.23
+ppivot10: folds 
+Uncalled bet ($0.23) returned to silzim
+silzim collected $0.23 from pot
+silzim: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Ad 8d 7d 5h Kc]
+Seat 1: silzim (big blind) collected ($0.23)
+Seat 2: DSilver folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: ppivot10 (small blind) folded on the River
+
+
+
+PokerStars Hand #213473458978:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:05:46 MSK [2020/05/07 22:05:46 ET]
+Table 'Tros III' 6-max Seat #6 is the button
+Seat 1: silzim ($1.42 in chips) 
+Seat 2: DSilver ($2.02 in chips) 
+Seat 3: lawlex_2 ($1.94 in chips) 
+Seat 6: ppivot10 ($2.84 in chips) 
+silzim: posts small blind $0.01
+DSilver: posts big blind $0.02
+io203: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Kh]
+lawlex_2: raises $0.04 to $0.06
+ppivot10: folds 
+silzim: folds 
+DSilver: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: silzim (small blind) folded before Flop
+Seat 2: DSilver (big blind) folded before Flop
+Seat 3: lawlex_2 collected ($0.05)
+Seat 6: ppivot10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473468796:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:06:01 MSK [2020/05/07 22:06:01 ET]
+Table 'Tros III' 6-max Seat #1 is the button
+Seat 1: silzim ($1.41 in chips) 
+Seat 2: DSilver ($2 in chips) 
+Seat 3: lawlex_2 ($1.97 in chips) 
+Seat 6: ppivot10 ($2.84 in chips) 
+DSilver: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+io203: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 5d]
+ppivot10: folds 
+silzim: folds 
+DSilver: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: silzim (button) folded before Flop (didn't bet)
+Seat 2: DSilver (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.02)
+Seat 6: ppivot10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473475133:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:06:11 MSK [2020/05/07 22:06:11 ET]
+Table 'Tros III' 6-max Seat #2 is the button
+Seat 1: silzim ($1.41 in chips) 
+Seat 2: DSilver ($2 in chips) 
+Seat 3: lawlex_2 ($1.98 in chips) 
+Seat 4: io203 ($2 in chips) 
+Seat 6: ppivot10 ($2.84 in chips) 
+lawlex_2: posts small blind $0.01
+io203: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Js]
+ppivot10: raises $0.04 to $0.06
+silzim: folds 
+DSilver: folds 
+lawlex_2: folds 
+io203: folds 
+Uncalled bet ($0.04) returned to ppivot10
+ppivot10 collected $0.05 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: silzim folded before Flop (didn't bet)
+Seat 2: DSilver (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: io203 (big blind) folded before Flop
+Seat 6: ppivot10 collected ($0.05)
+
+
+
+PokerStars Hand #213473483443:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:06:23 MSK [2020/05/07 22:06:23 ET]
+Table 'Tros III' 6-max Seat #3 is the button
+Seat 1: silzim ($1.41 in chips) 
+Seat 2: DSilver ($2 in chips) 
+Seat 3: lawlex_2 ($1.97 in chips) 
+Seat 4: io203 ($1.98 in chips) 
+Seat 6: ppivot10 ($2.87 in chips) 
+io203: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 5d]
+silzim: folds 
+DSilver: raises $0.05 to $0.07
+lawlex_2: folds 
+io203: folds 
+ppivot10: folds 
+Uncalled bet ($0.05) returned to DSilver
+DSilver collected $0.05 from pot
+DSilver: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: silzim folded before Flop (didn't bet)
+Seat 2: DSilver collected ($0.05)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: io203 (small blind) folded before Flop
+Seat 6: ppivot10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213473489719:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:06:33 MSK [2020/05/07 22:06:33 ET]
+Table 'Tros III' 6-max Seat #4 is the button
+Seat 1: silzim ($1.41 in chips) 
+Seat 2: DSilver ($2.03 in chips) 
+Seat 3: lawlex_2 ($1.97 in chips) 
+Seat 4: io203 ($1.97 in chips) 
+Seat 6: ppivot10 ($2.85 in chips) 
+ppivot10: posts small blind $0.01
+silzim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Td]
+DSilver: folds 
+lawlex_2: folds 
+io203: folds 
+ppivot10: folds 
+Uncalled bet ($0.01) returned to silzim
+silzim collected $0.02 from pot
+silzim: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: silzim (big blind) collected ($0.02)
+Seat 2: DSilver folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: io203 (button) folded before Flop (didn't bet)
+Seat 6: ppivot10 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213473495651:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:06:42 MSK [2020/05/07 22:06:42 ET]
+Table 'Tros III' 6-max Seat #6 is the button
+Seat 1: silzim ($1.42 in chips) 
+Seat 2: DSilver ($2.03 in chips) 
+Seat 3: lawlex_2 ($1.97 in chips) 
+Seat 4: io203 ($1.97 in chips) 
+Seat 6: ppivot10 ($2.84 in chips) 
+silzim: posts small blind $0.01
+DSilver: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 6d]
+lawlex_2: folds 
+io203: folds 
+ppivot10: folds 
+silzim: folds 
+Uncalled bet ($0.01) returned to DSilver
+DSilver collected $0.02 from pot
+DSilver: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: silzim (small blind) folded before Flop
+Seat 2: DSilver (big blind) collected ($0.02)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: io203 folded before Flop (didn't bet)
+Seat 6: ppivot10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473502277:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:06:52 MSK [2020/05/07 22:06:52 ET]
+Table 'Tros III' 6-max Seat #1 is the button
+Seat 1: silzim ($1.41 in chips) 
+Seat 2: DSilver ($2.04 in chips) 
+Seat 3: lawlex_2 ($1.97 in chips) 
+Seat 4: io203 ($1.97 in chips) 
+Seat 6: ppivot10 ($2.84 in chips) 
+DSilver: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 9h]
+io203: folds 
+ppivot10: raises $0.04 to $0.06
+silzim: calls $0.06
+DSilver: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [Js 2h Th]
+DSilver: checks 
+ppivot10: bets $0.08
+silzim: folds 
+DSilver: raises $0.22 to $0.30
+ppivot10: calls $0.22
+*** TURN *** [Js 2h Th] [7h]
+DSilver: bets $0.77
+ppivot10: folds 
+Uncalled bet ($0.77) returned to DSilver
+DSilver collected $0.77 from pot
+DSilver: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [Js 2h Th 7h]
+Seat 1: silzim (button) folded on the Flop
+Seat 2: DSilver (small blind) collected ($0.77)
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: io203 folded before Flop (didn't bet)
+Seat 6: ppivot10 folded on the Turn
+
+
+
+PokerStars Hand #213473542054:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:07:52 MSK [2020/05/07 22:07:52 ET]
+Table 'Tros III' 6-max Seat #2 is the button
+Seat 1: silzim ($1.35 in chips) 
+Seat 2: DSilver ($2.45 in chips) 
+Seat 3: lawlex_2 ($1.95 in chips) 
+Seat 4: io203 ($1.97 in chips) 
+Seat 6: ppivot10 ($2.48 in chips) 
+lawlex_2: posts small blind $0.01
+io203: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 7s]
+ppivot10: folds 
+silzim: calls $0.02
+DSilver: folds 
+lawlex_2: folds 
+io203: checks 
+*** FLOP *** [9h Jh Th]
+io203: bets $0.05
+silzim: calls $0.05
+*** TURN *** [9h Jh Th] [Ad]
+io203: checks 
+silzim: checks 
+*** RIVER *** [9h Jh Th Ad] [Qh]
+io203: bets $0.07
+silzim: raises $0.07 to $0.14
+io203: folds 
+Uncalled bet ($0.07) returned to silzim
+silzim collected $0.28 from pot
+silzim: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [9h Jh Th Ad Qh]
+Seat 1: silzim collected ($0.28)
+Seat 2: DSilver (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: io203 (big blind) folded on the River
+Seat 6: ppivot10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473561721:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:08:22 MSK [2020/05/07 22:08:22 ET]
+Table 'Tros III' 6-max Seat #3 is the button
+Seat 1: silzim ($1.49 in chips) 
+Seat 2: DSilver ($2.45 in chips) 
+Seat 3: lawlex_2 ($1.94 in chips) 
+Seat 4: io203 ($1.83 in chips) 
+Seat 6: ppivot10 ($2.48 in chips) 
+io203: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 6d]
+silzim: calls $0.02
+DSilver: raises $0.08 to $0.10
+lawlex_2: folds 
+io203: folds 
+ppivot10: folds 
+silzim: folds 
+Uncalled bet ($0.08) returned to DSilver
+DSilver collected $0.07 from pot
+DSilver: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: silzim folded before Flop
+Seat 2: DSilver collected ($0.07)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: io203 (small blind) folded before Flop
+Seat 6: ppivot10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213473572381:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:08:38 MSK [2020/05/07 22:08:38 ET]
+Table 'Tros III' 6-max Seat #4 is the button
+Seat 1: silzim ($1.47 in chips) 
+Seat 2: DSilver ($2.50 in chips) 
+Seat 3: lawlex_2 ($1.94 in chips) 
+Seat 4: io203 ($1.82 in chips) 
+Seat 6: ppivot10 ($2.46 in chips) 
+ppivot10: posts small blind $0.01
+silzim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Th]
+DSilver: raises $0.05 to $0.07
+lawlex_2: calls $0.07
+io203: folds 
+ppivot10: folds 
+silzim: folds 
+*** FLOP *** [3h 6c Jc]
+DSilver: checks 
+lawlex_2: checks 
+*** TURN *** [3h 6c Jc] [Ks]
+DSilver: bets $0.12
+lawlex_2: folds 
+Uncalled bet ($0.12) returned to DSilver
+DSilver collected $0.16 from pot
+DSilver: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3h 6c Jc Ks]
+Seat 1: silzim (big blind) folded before Flop
+Seat 2: DSilver collected ($0.16)
+Seat 3: lawlex_2 folded on the Turn
+Seat 4: io203 (button) folded before Flop (didn't bet)
+Seat 6: ppivot10 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213473598482:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:09:18 MSK [2020/05/07 22:09:18 ET]
+Table 'Tros III' 6-max Seat #6 is the button
+Seat 1: silzim ($1.45 in chips) 
+Seat 2: DSilver ($2.59 in chips) 
+Seat 3: lawlex_2 ($1.87 in chips) 
+Seat 4: io203 ($1.82 in chips) 
+Seat 6: ppivot10 ($2.45 in chips) 
+silzim: posts small blind $0.01
+DSilver: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Qs]
+lawlex_2: raises $0.04 to $0.06
+io203: folds 
+ppivot10: folds 
+silzim: folds 
+DSilver: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: silzim (small blind) folded before Flop
+Seat 2: DSilver (big blind) folded before Flop
+Seat 3: lawlex_2 collected ($0.05)
+Seat 4: io203 folded before Flop (didn't bet)
+Seat 6: ppivot10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473609481:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:09:35 MSK [2020/05/07 22:09:35 ET]
+Table 'Tros III' 6-max Seat #1 is the button
+Seat 1: silzim ($1.44 in chips) 
+Seat 2: DSilver ($2.57 in chips) 
+Seat 3: lawlex_2 ($1.90 in chips) 
+Seat 4: io203 ($1.82 in chips) 
+Seat 6: ppivot10 ($2.45 in chips) 
+DSilver: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 9c]
+io203: calls $0.02
+ppivot10: folds 
+silzim: folds 
+DSilver: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Td Ac Kc]
+DSilver: checks 
+lawlex_2: checks 
+io203: checks 
+*** TURN *** [Td Ac Kc] [8c]
+DSilver: checks 
+lawlex_2: checks 
+io203: checks 
+*** RIVER *** [Td Ac Kc 8c] [4d]
+DSilver: checks 
+lawlex_2: checks 
+io203: bets $0.03
+DSilver: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to io203
+io203 collected $0.06 from pot
+io203: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Td Ac Kc 8c 4d]
+Seat 1: silzim (button) folded before Flop (didn't bet)
+Seat 2: DSilver (small blind) folded on the River
+Seat 3: lawlex_2 (big blind) folded on the River
+Seat 4: io203 collected ($0.06)
+Seat 6: ppivot10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473631817:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:10:08 MSK [2020/05/07 22:10:08 ET]
+Table 'Tros III' 6-max Seat #2 is the button
+Seat 1: silzim ($1.44 in chips) 
+Seat 2: DSilver ($2.55 in chips) 
+Seat 3: lawlex_2 ($1.88 in chips) 
+Seat 4: io203 ($1.86 in chips) 
+Seat 6: ppivot10 ($2.45 in chips) 
+lawlex_2: posts small blind $0.01
+io203: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 8h]
+ppivot10: folds 
+silzim: folds 
+DSilver: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to io203
+io203 collected $0.02 from pot
+io203: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: silzim folded before Flop (didn't bet)
+Seat 2: DSilver (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: io203 (big blind) collected ($0.02)
+Seat 6: ppivot10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473639102:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:10:19 MSK [2020/05/07 22:10:19 ET]
+Table 'Tros III' 6-max Seat #3 is the button
+Seat 1: silzim ($1.44 in chips) 
+Seat 2: DSilver ($2.55 in chips) 
+Seat 3: lawlex_2 ($1.87 in chips) 
+Seat 4: io203 ($1.87 in chips) 
+Seat 6: ppivot10 ($2.45 in chips) 
+io203: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 6d]
+silzim: folds 
+DSilver: folds 
+lawlex_2: folds 
+io203: folds 
+Uncalled bet ($0.01) returned to ppivot10
+ppivot10 collected $0.02 from pot
+OakleyGuy16 was removed from the table for failing to post
+OakleyGuy16 leaves the table
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: silzim folded before Flop (didn't bet)
+Seat 2: DSilver folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: io203 (small blind) folded before Flop
+Seat 6: ppivot10 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213473645689:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:10:29 MSK [2020/05/07 22:10:29 ET]
+Table 'Tros III' 6-max Seat #4 is the button
+Seat 1: silzim ($1.44 in chips) 
+Seat 2: DSilver ($2.55 in chips) 
+Seat 3: lawlex_2 ($1.87 in chips) 
+Seat 4: io203 ($1.86 in chips) 
+Seat 6: ppivot10 ($2.46 in chips) 
+ppivot10: posts small blind $0.01
+silzim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 8h]
+DSilver: folds 
+lawlex_2: folds 
+io203: folds 
+ppivot10: raises $0.04 to $0.06
+silzim: folds 
+Uncalled bet ($0.04) returned to ppivot10
+ppivot10 collected $0.04 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: silzim (big blind) folded before Flop
+Seat 2: DSilver folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: io203 (button) folded before Flop (didn't bet)
+Seat 6: ppivot10 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213473653503:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:10:41 MSK [2020/05/07 22:10:41 ET]
+Table 'Tros III' 6-max Seat #6 is the button
+Seat 1: silzim ($1.42 in chips) 
+Seat 2: DSilver ($2.55 in chips) 
+Seat 3: lawlex_2 ($1.87 in chips) 
+Seat 4: io203 ($1.86 in chips) 
+Seat 6: ppivot10 ($2.48 in chips) 
+silzim: posts small blind $0.01
+DSilver: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 5s]
+lawlex_2: raises $0.04 to $0.06
+io203: folds 
+ppivot10: calls $0.06
+silzim: folds 
+DSilver: folds 
+*** FLOP *** [8s Qc Js]
+lawlex_2: bets $0.09
+ppivot10: calls $0.09
+*** TURN *** [8s Qc Js] [Jd]
+lawlex_2: bets $0.21
+Bernabeu3a1 joins the table at seat #5 
+ppivot10: calls $0.21
+*** RIVER *** [8s Qc Js Jd] [6d]
+lawlex_2: checks 
+ppivot10: bets $0.30
+lawlex_2: calls $0.30
+*** SHOW DOWN ***
+ppivot10: shows [Qd Ks] (two pair, Queens and Jacks)
+lawlex_2: mucks hand 
+ppivot10 collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [8s Qc Js Jd 6d]
+Seat 1: silzim (small blind) folded before Flop
+Seat 2: DSilver (big blind) folded before Flop
+Seat 3: lawlex_2 mucked [5d 5s]
+Seat 4: io203 folded before Flop (didn't bet)
+Seat 6: ppivot10 (button) showed [Qd Ks] and won ($1.30) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #213473702232:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:11:42 MSK [2020/05/07 22:11:42 ET]
+Table 'Tros III' 6-max Seat #1 is the button
+Seat 1: silzim ($1.41 in chips) 
+Seat 2: DSilver ($2.53 in chips) 
+Seat 3: lawlex_2 ($1.21 in chips) 
+Seat 4: io203 ($1.86 in chips) 
+Seat 6: ppivot10 ($3.12 in chips) 
+DSilver: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Bernabeu3a1: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s As]
+io203: folds 
+ppivot10: folds 
+silzim: folds 
+DSilver: raises $0.06 to $0.08
+lawlex_2: calls $0.06
+*** FLOP *** [Ac 4d 7d]
+DSilver: checks 
+lawlex_2: bets $0.10
+DSilver: folds 
+Uncalled bet ($0.10) returned to lawlex_2
+lawlex_2 collected $0.15 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ac 4d 7d]
+Seat 1: silzim (button) folded before Flop (didn't bet)
+Seat 2: DSilver (small blind) folded on the Flop
+Seat 3: lawlex_2 (big blind) collected ($0.15)
+Seat 4: io203 folded before Flop (didn't bet)
+Seat 6: ppivot10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473728635:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:12:22 MSK [2020/05/07 22:12:22 ET]
+Table 'Tros III' 6-max Seat #2 is the button
+Seat 2: DSilver ($2.45 in chips) 
+Seat 3: lawlex_2 ($1.28 in chips) 
+Seat 4: io203 ($1.86 in chips) 
+Seat 6: ppivot10 ($3.12 in chips) 
+lawlex_2: posts small blind $0.01
+io203: posts big blind $0.02
+Bernabeu3a1: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Tc]
+ppivot10: folds 
+DSilver: folds 
+lawlex_2: raises $0.04 to $0.06
+io203: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: DSilver (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) collected ($0.04)
+Seat 4: io203 (big blind) folded before Flop
+Seat 6: ppivot10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473744870:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:12:47 MSK [2020/05/07 22:12:47 ET]
+Table 'Tros III' 6-max Seat #3 is the button
+Seat 1: silzim ($1.41 in chips) 
+Seat 2: DSilver ($2.45 in chips) 
+Seat 3: lawlex_2 ($1.30 in chips) 
+Seat 4: io203 ($1.84 in chips) 
+Seat 5: Bernabeu3a1 ($2 in chips) 
+Seat 6: ppivot10 ($3.12 in chips) 
+io203: posts small blind $0.01
+Bernabeu3a1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 9h]
+ppivot10: raises $0.04 to $0.06
+silzim: calls $0.06
+DSilver: folds 
+lawlex_2: calls $0.06
+io203: folds 
+Bernabeu3a1: folds 
+*** FLOP *** [Jh 7h 6d]
+ppivot10: checks 
+silzim: checks 
+lawlex_2: checks 
+*** TURN *** [Jh 7h 6d] [7s]
+ppivot10: bets $0.10
+silzim: calls $0.10
+lawlex_2: calls $0.10
+*** RIVER *** [Jh 7h 6d 7s] [Kh]
+ppivot10: checks 
+silzim: bets $0.54
+lawlex_2: folds 
+ppivot10: folds 
+Uncalled bet ($0.54) returned to silzim
+silzim collected $0.49 from pot
+silzim: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Jh 7h 6d 7s Kh]
+Seat 1: silzim collected ($0.49)
+Seat 2: DSilver folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded on the River
+Seat 4: io203 (small blind) folded before Flop
+Seat 5: Bernabeu3a1 (big blind) folded before Flop
+Seat 6: ppivot10 folded on the River
+
+
+
+PokerStars Hand #213473793302:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:14:01 MSK [2020/05/07 22:14:01 ET]
+Table 'Tros III' 6-max Seat #4 is the button
+Seat 1: silzim ($1.74 in chips) 
+Seat 2: DSilver ($2.45 in chips) 
+Seat 3: lawlex_2 ($1.14 in chips) 
+Seat 4: io203 ($1.83 in chips) 
+Seat 5: Bernabeu3a1 ($2 in chips) 
+Seat 6: ppivot10 ($2.96 in chips) 
+Bernabeu3a1: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 7c]
+silzim: calls $0.02
+DSilver: folds 
+lawlex_2: raises $0.04 to $0.06
+io203: folds 
+Bernabeu3a1: folds 
+ppivot10: calls $0.04
+silzim: calls $0.04
+*** FLOP *** [9d 3d 7d]
+ppivot10: checks 
+silzim: checks 
+lawlex_2: bets $0.12
+ppivot10: folds 
+silzim: calls $0.12
+*** TURN *** [9d 3d 7d] [Jc]
+silzim: checks 
+lawlex_2: bets $0.27
+silzim: calls $0.27
+*** RIVER *** [9d 3d 7d Jc] [7s]
+silzim: bets $0.94
+lawlex_2: calls $0.69 and is all-in
+Uncalled bet ($0.25) returned to silzim
+*** SHOW DOWN ***
+silzim: shows [8d Tc] (a straight, Seven to Jack)
+lawlex_2: shows [Qh 7c] (three of a kind, Sevens)
+silzim collected $2.27 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.08 
+Board [9d 3d 7d Jc 7s]
+Seat 1: silzim showed [8d Tc] and won ($2.27) with a straight, Seven to Jack
+Seat 2: DSilver folded before Flop (didn't bet)
+Seat 3: lawlex_2 showed [Qh 7c] and lost with three of a kind, Sevens
+Seat 4: io203 (button) folded before Flop (didn't bet)
+Seat 5: Bernabeu3a1 (small blind) folded before Flop
+Seat 6: ppivot10 (big blind) folded on the Flop
+
+
+

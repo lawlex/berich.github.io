@@ -1,0 +1,2551 @@
+﻿PokerStars Hand #213047854316:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 8:59:35 MSK [2020/05/01 1:59:35 ET]
+Table 'Ani III' 6-max Seat #1 is the button
+Seat 1: kennyolo666 ($2.24 in chips) 
+Seat 2: jonny_jono ($2 in chips) 
+Seat 3: lawlex_2 ($2 in chips) 
+Seat 4: Rigel1975 ($4.88 in chips) 
+Seat 5: fantasticxone ($3.55 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 5c]
+Rigel1975: folds 
+fantasticxone: raises $0.03 to $0.05
+poseidoporunbot: folds 
+kennyolo666: folds 
+jonny_jono: folds 
+lawlex_2: calls $0.03
+*** FLOP *** [2c 9d 3s]
+lawlex_2: checks 
+fantasticxone: bets $0.07
+lawlex_2: folds 
+Uncalled bet ($0.07) returned to fantasticxone
+fantasticxone collected $0.11 from pot
+fantasticxone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2c 9d 3s]
+Seat 1: kennyolo666 (button) folded before Flop (didn't bet)
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the Flop
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: fantasticxone collected ($0.11)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047865611:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:00:07 MSK [2020/05/01 2:00:07 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 1: kennyolo666 ($2.24 in chips) 
+Seat 2: jonny_jono ($2 in chips) 
+Seat 3: lawlex_2 ($1.95 in chips) 
+Seat 4: Rigel1975 ($4.88 in chips) 
+Seat 5: fantasticxone ($3.61 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 8d]
+fantasticxone: folds 
+poseidoporunbot: raises $0.04 to $0.06
+kennyolo666: folds 
+jonny_jono: calls $0.06
+lawlex_2: calls $0.05
+Rigel1975: folds 
+*** FLOP *** [Ks Js 4d]
+lawlex_2: checks 
+poseidoporunbot: checks 
+jonny_jono: bets $0.13
+lawlex_2: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.13) returned to jonny_jono
+jonny_jono collected $0.19 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ks Js 4d]
+Seat 1: kennyolo666 folded before Flop (didn't bet)
+Seat 2: jonny_jono (button) collected ($0.19)
+Seat 3: lawlex_2 (small blind) folded on the Flop
+Seat 4: Rigel1975 (big blind) folded before Flop
+Seat 5: fantasticxone folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded on the Flop
+
+
+
+PokerStars Hand #213047883668:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:00:54 MSK [2020/05/01 2:00:54 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 1: kennyolo666 ($2.24 in chips) 
+Seat 2: jonny_jono ($2.13 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: Rigel1975 ($4.86 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+Rigel1975: posts small blind $0.01
+fantasticxone: is sitting out 
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Qs]
+fantasticxone leaves the table
+kennyolo666: folds 
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+Uncalled bet ($0.01) returned to poseidoporunbot
+poseidoporunbot collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: kennyolo666 folded before Flop (didn't bet)
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213047889102:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:01:08 MSK [2020/05/01 2:01:08 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 1: kennyolo666 ($2.24 in chips) 
+Seat 2: jonny_jono ($2.13 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: Rigel1975 ($4.85 in chips) 
+Seat 6: poseidoporunbot ($2.01 in chips) 
+poseidoporunbot: posts small blind $0.01
+kennyolo666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 7c]
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+poseidoporunbot: raises $0.04 to $0.06
+kennyolo666: folds 
+Uncalled bet ($0.04) returned to poseidoporunbot
+poseidoporunbot collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: kennyolo666 (big blind) folded before Flop
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213047896608:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:01:28 MSK [2020/05/01 2:01:28 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 1: kennyolo666 ($2.22 in chips) 
+Seat 2: jonny_jono ($2.13 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: Rigel1975 ($4.85 in chips) 
+Seat 6: poseidoporunbot ($2.03 in chips) 
+kennyolo666: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Js]
+lawlex_2: folds 
+Rigel1975: folds 
+poseidoporunbot: raises $0.03 to $0.05
+kennyolo666: folds 
+jonny_jono: folds 
+Uncalled bet ($0.03) returned to poseidoporunbot
+poseidoporunbot collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kennyolo666 (small blind) folded before Flop
+Seat 2: jonny_jono (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) collected ($0.05)
+
+
+
+PokerStars Hand #213047904654:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:01:49 MSK [2020/05/01 2:01:49 ET]
+Table 'Ani III' 6-max Seat #1 is the button
+Seat 1: kennyolo666 ($2.21 in chips) 
+Seat 2: jonny_jono ($2.11 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: Rigel1975 ($4.85 in chips) 
+Seat 6: poseidoporunbot ($2.06 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Ad]
+Rigel1975: folds 
+poseidoporunbot: folds 
+kennyolo666: folds 
+jonny_jono: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: kennyolo666 (button) folded before Flop (didn't bet)
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.02)
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047909873:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:02:01 MSK [2020/05/01 2:02:01 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 1: kennyolo666 ($2.21 in chips) 
+Seat 2: jonny_jono ($2.10 in chips) 
+Seat 3: lawlex_2 ($1.90 in chips) 
+Seat 4: Rigel1975 ($4.85 in chips) 
+Seat 6: poseidoporunbot ($2.06 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Ts]
+poseidoporunbot: folds 
+kennyolo666: calls $0.02
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: folds 
+Rigel1975: folds 
+kennyolo666: calls $0.06
+*** FLOP *** [Jd 8h 7s]
+kennyolo666: checks 
+jonny_jono: bets $0.12
+kennyolo666: folds 
+Uncalled bet ($0.12) returned to jonny_jono
+jonny_jono collected $0.18 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Jd 8h 7s]
+Seat 1: kennyolo666 folded on the Flop
+Seat 2: jonny_jono (button) collected ($0.18)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: Rigel1975 (big blind) folded before Flop
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047923252:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:02:35 MSK [2020/05/01 2:02:35 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 1: kennyolo666 ($2.13 in chips) 
+Seat 2: jonny_jono ($2.20 in chips) 
+Seat 3: lawlex_2 ($1.89 in chips) 
+Seat 4: Rigel1975 ($4.83 in chips) 
+Seat 6: poseidoporunbot ($2.06 in chips) 
+Rigel1975: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Js]
+kennyolo666: folds 
+jonny_jono: folds 
+lawlex_2: raises $0.04 to $0.06
+Rigel1975: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kennyolo666 folded before Flop (didn't bet)
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) collected ($0.05)
+Seat 4: Rigel1975 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) folded before Flop
+
+
+
+PokerStars Hand #213047931590:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:02:56 MSK [2020/05/01 2:02:56 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 1: kennyolo666 ($2.13 in chips) 
+Seat 2: jonny_jono ($2.20 in chips) 
+Seat 3: lawlex_2 ($1.92 in chips) 
+Seat 4: Rigel1975 ($4.82 in chips) 
+Seat 6: poseidoporunbot ($2.04 in chips) 
+poseidoporunbot: posts small blind $0.01
+kennyolo666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 2s]
+K10000924 joins the table at seat #5 
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: raises $0.04 to $0.06
+poseidoporunbot: folds 
+kennyolo666: folds 
+Uncalled bet ($0.04) returned to Rigel1975
+Rigel1975 collected $0.05 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kennyolo666 (big blind) folded before Flop
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) collected ($0.05)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #213047941613:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:03:21 MSK [2020/05/01 2:03:21 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 1: kennyolo666 ($2.11 in chips) 
+Seat 2: jonny_jono ($2.20 in chips) 
+Seat 3: lawlex_2 ($1.92 in chips) 
+Seat 4: Rigel1975 ($4.85 in chips) 
+Seat 5: K10000924 ($1.60 in chips) 
+Seat 6: poseidoporunbot ($2.03 in chips) 
+kennyolo666: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+K10000924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 7c]
+lawlex_2: folds 
+Rigel1975: folds 
+K10000924: checks 
+poseidoporunbot: raises $0.08 to $0.10
+kennyolo666: folds 
+jonny_jono: folds 
+K10000924: folds 
+Uncalled bet ($0.08) returned to poseidoporunbot
+poseidoporunbot collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: kennyolo666 (small blind) folded before Flop
+Seat 2: jonny_jono (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: K10000924 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) collected ($0.07)
+
+
+
+PokerStars Hand #213047952039:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:03:48 MSK [2020/05/01 2:03:48 ET]
+Table 'Ani III' 6-max Seat #1 is the button
+Seat 1: kennyolo666 ($2.10 in chips) 
+Seat 2: jonny_jono ($2.18 in chips) 
+Seat 3: lawlex_2 ($1.92 in chips) 
+Seat 4: Rigel1975 ($4.85 in chips) 
+Seat 5: K10000924 ($1.58 in chips) 
+Seat 6: poseidoporunbot ($2.08 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Td]
+Rigel1975: folds 
+K10000924: folds 
+poseidoporunbot: folds 
+kennyolo666: folds 
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: calls $0.06
+*** FLOP *** [Ks Js 7s]
+jonny_jono: bets $0.10
+lawlex_2: calls $0.10
+*** TURN *** [Ks Js 7s] [Qd]
+jonny_jono: bets $0.20
+lawlex_2: calls $0.20
+*** RIVER *** [Ks Js 7s Qd] [7c]
+jonny_jono: bets $0.55
+lawlex_2: calls $0.55
+*** SHOW DOWN ***
+jonny_jono: shows [Qc Qs] (a full house, Queens full of Sevens)
+lawlex_2: mucks hand 
+jonny_jono collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.86 | Rake $0.07 
+Board [Ks Js 7s Qd 7c]
+Seat 1: kennyolo666 (button) folded before Flop (didn't bet)
+Seat 2: jonny_jono (small blind) showed [Qc Qs] and won ($1.79) with a full house, Queens full of Sevens
+Seat 3: lawlex_2 (big blind) mucked [Th Td]
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: K10000924 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047966292:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:04:23 MSK [2020/05/01 2:04:23 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 1: kennyolo666 ($2.10 in chips) 
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($0.99 in chips) 
+Seat 4: Rigel1975 ($4.85 in chips) 
+Seat 5: K10000924 ($1.58 in chips) 
+Seat 6: poseidoporunbot ($2.08 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 5h]
+K10000924: calls $0.02
+poseidoporunbot: folds 
+kennyolo666: folds 
+jonny_jono: folds 
+lawlex_2: calls $0.01
+Rigel1975: checks 
+*** FLOP *** [6d 6c 3h]
+lawlex_2: checks 
+Rigel1975: checks 
+K10000924: checks 
+*** TURN *** [6d 6c 3h] [9h]
+lawlex_2: checks 
+Rigel1975: checks 
+K10000924: checks 
+*** RIVER *** [6d 6c 3h 9h] [Ah]
+lawlex_2: bets $0.03
+Rigel1975: folds 
+K10000924: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.06 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6d 6c 3h 9h Ah]
+Seat 1: kennyolo666 folded before Flop (didn't bet)
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) collected ($0.06)
+Seat 4: Rigel1975 (big blind) folded on the River
+Seat 5: K10000924 folded on the River
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213047982618:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:05:04 MSK [2020/05/01 2:05:04 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 1: kennyolo666 ($2.10 in chips) 
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($1.03 in chips) 
+Seat 4: Rigel1975 ($4.83 in chips) 
+Seat 5: K10000924 ($1.56 in chips) 
+Seat 6: poseidoporunbot ($2.08 in chips) 
+Rigel1975: posts small blind $0.01
+K10000924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 8d]
+poseidoporunbot: raises $0.04 to $0.06
+kennyolo666: folds 
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: calls $0.05
+K10000924: folds 
+*** FLOP *** [3h Kd 3d]
+Rigel1975: checks 
+poseidoporunbot: bets $0.07
+Rigel1975: calls $0.07
+*** TURN *** [3h Kd 3d] [8s]
+Rigel1975: checks 
+poseidoporunbot: checks 
+*** RIVER *** [3h Kd 3d 8s] [7c]
+Rigel1975: bets $0.27
+poseidoporunbot: folds 
+Uncalled bet ($0.27) returned to Rigel1975
+Rigel1975 collected $0.27 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [3h Kd 3d 8s 7c]
+Seat 1: kennyolo666 folded before Flop (didn't bet)
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) collected ($0.27)
+Seat 5: K10000924 (big blind) folded before Flop
+Seat 6: poseidoporunbot folded on the River
+
+
+
+PokerStars Hand #213048004264:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:05:58 MSK [2020/05/01 2:05:58 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 1: kennyolo666 ($2.10 in chips) 
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($1.03 in chips) 
+Seat 4: Rigel1975 ($4.97 in chips) 
+Seat 5: K10000924 ($1.54 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+K10000924: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 8s]
+kennyolo666: folds 
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+K10000924: folds 
+Uncalled bet ($0.01) returned to poseidoporunbot
+poseidoporunbot collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: kennyolo666 folded before Flop (didn't bet)
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) folded before Flop (didn't bet)
+Seat 5: K10000924 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213048008080:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:06:08 MSK [2020/05/01 2:06:08 ET]
+Table 'Ani III' 6-max Seat #5 is the button
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($1.03 in chips) 
+Seat 4: Rigel1975 ($4.97 in chips) 
+Seat 5: K10000924 ($1.53 in chips) 
+Seat 6: poseidoporunbot ($2.01 in chips) 
+poseidoporunbot: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 2d]
+lawlex_2: folds 
+Rigel1975: folds 
+K10000924: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.01) returned to jonny_jono
+jonny_jono collected $0.02 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jonny_jono (big blind) collected ($0.02)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: K10000924 (button) folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048012645:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:06:19 MSK [2020/05/01 2:06:19 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 2: jonny_jono ($3.05 in chips) 
+Seat 3: lawlex_2 ($1.03 in chips) 
+Seat 4: Rigel1975 ($4.97 in chips) 
+Seat 5: K10000924 ($1.53 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s Qs]
+Rigel1975: folds 
+K10000924: calls $0.02
+poseidoporunbot: folds 
+jonny_jono: folds 
+lawlex_2: checks 
+*** FLOP *** [Qh 5h Ad]
+lawlex_2: bets $0.03
+K10000924: calls $0.03
+*** TURN *** [Qh 5h Ad] [Kc]
+lawlex_2: bets $0.06
+K10000924: calls $0.06
+*** RIVER *** [Qh 5h Ad Kc] [Th]
+lawlex_2: checks 
+K10000924: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [8s Qs] (a pair of Queens)
+K10000924: shows [Ac 8d] (a pair of Aces)
+K10000924 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Qh 5h Ad Kc Th]
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) showed [8s Qs] and lost with a pair of Queens
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: K10000924 showed [Ac 8d] and won ($0.22) with a pair of Aces
+Seat 6: poseidoporunbot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048025277:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:06:51 MSK [2020/05/01 2:06:51 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($0.92 in chips) 
+Seat 4: Rigel1975 ($4.97 in chips) 
+Seat 5: K10000924 ($1.64 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Th]
+K10000924: folds 
+poseidoporunbot: folds 
+jonny_jono: folds 
+lawlex_2: raises $0.04 to $0.06
+Rigel1975: calls $0.04
+*** FLOP *** [Qc 8d 2c]
+lawlex_2: checks 
+Rigel1975: bets $0.08
+lawlex_2: calls $0.08
+*** TURN *** [Qc 8d 2c] [3d]
+lawlex_2: checks 
+Rigel1975: checks 
+*** RIVER *** [Qc 8d 2c 3d] [Jc]
+lawlex_2: bets $0.14
+Rigel1975: folds 
+Uncalled bet ($0.14) returned to lawlex_2
+lawlex_2 collected $0.27 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Qc 8d 2c 3d Jc]
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) collected ($0.27)
+Seat 4: Rigel1975 (big blind) folded on the River
+Seat 5: K10000924 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048042376:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:07:35 MSK [2020/05/01 2:07:35 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($1.05 in chips) 
+Seat 4: Rigel1975 ($4.83 in chips) 
+Seat 5: K10000924 ($1.64 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+Rigel1975: posts small blind $0.01
+K10000924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 7s]
+poseidoporunbot: folds 
+jonny_jono: folds 
+lawlex_2: raises $0.04 to $0.06
+Rigel1975: folds 
+K10000924: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) collected ($0.05)
+Seat 4: Rigel1975 (small blind) folded before Flop
+Seat 5: K10000924 (big blind) folded before Flop
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048048343:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:07:50 MSK [2020/05/01 2:07:50 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($1.08 in chips) 
+Seat 4: Rigel1975 ($4.82 in chips) 
+Seat 5: K10000924 ($1.62 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+K10000924: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 3c]
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+K10000924: folds 
+Uncalled bet ($0.01) returned to poseidoporunbot
+poseidoporunbot collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) folded before Flop (didn't bet)
+Seat 5: K10000924 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213048052744:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:08:01 MSK [2020/05/01 2:08:01 ET]
+Table 'Ani III' 6-max Seat #5 is the button
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($1.08 in chips) 
+Seat 4: Rigel1975 ($4.82 in chips) 
+Seat 5: K10000924 ($1.61 in chips) 
+Seat 6: poseidoporunbot ($2.01 in chips) 
+poseidoporunbot: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 5d]
+lawlex_2: folds 
+Rigel1975: folds 
+K10000924: raises $0.04 to $0.06
+poseidoporunbot: folds 
+jonny_jono: folds 
+Uncalled bet ($0.04) returned to K10000924
+K10000924 collected $0.05 from pot
+K10000924: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: K10000924 (button) collected ($0.05)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048058440:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:08:16 MSK [2020/05/01 2:08:16 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 2: jonny_jono ($3.02 in chips) 
+Seat 3: lawlex_2 ($1.08 in chips) 
+Seat 4: Rigel1975 ($4.82 in chips) 
+Seat 5: K10000924 ($1.64 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Kc]
+Rigel1975: folds 
+K10000924: folds 
+poseidoporunbot: raises $0.03 to $0.05
+jonny_jono: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to poseidoporunbot
+poseidoporunbot collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: K10000924 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) collected ($0.05)
+
+
+
+PokerStars Hand #213048064251:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:08:30 MSK [2020/05/01 2:08:30 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 2: jonny_jono ($3.01 in chips) 
+Seat 3: lawlex_2 ($1.06 in chips) 
+Seat 4: Rigel1975 ($4.82 in chips) 
+Seat 5: K10000924 ($1.64 in chips) 
+Seat 6: poseidoporunbot ($2.03 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 4d]
+K10000924: folds 
+poseidoporunbot: folds 
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: folds 
+Rigel1975: folds 
+Uncalled bet ($0.06) returned to jonny_jono
+jonny_jono collected $0.05 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono (button) collected ($0.05)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: Rigel1975 (big blind) folded before Flop
+Seat 5: K10000924 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048072122:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:08:50 MSK [2020/05/01 2:08:50 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($1.05 in chips) 
+Seat 4: Rigel1975 ($4.80 in chips) 
+Seat 5: K10000924 ($1.64 in chips) 
+Seat 6: poseidoporunbot ($2.03 in chips) 
+Rigel1975: posts small blind $0.01
+K10000924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 8d]
+poseidoporunbot: raises $0.04 to $0.06
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+K10000924: folds 
+Uncalled bet ($0.04) returned to poseidoporunbot
+poseidoporunbot collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) folded before Flop
+Seat 5: K10000924 (big blind) folded before Flop
+Seat 6: poseidoporunbot collected ($0.05)
+
+
+
+PokerStars Hand #213048078448:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:09:06 MSK [2020/05/01 2:09:06 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($1.05 in chips) 
+Seat 4: Rigel1975 ($4.79 in chips) 
+Seat 5: K10000924 ($1.62 in chips) 
+Seat 6: poseidoporunbot ($2.06 in chips) 
+K10000924: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 4d]
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: calls $0.02
+K10000924: raises $0.02 to $0.04
+poseidoporunbot: folds 
+Rigel1975: calls $0.02
+*** FLOP *** [Jc 2s 2h]
+K10000924: checks 
+Rigel1975: bets $0.06
+K10000924: calls $0.06
+*** TURN *** [Jc 2s 2h] [Tc]
+K10000924: checks 
+Rigel1975: checks 
+*** RIVER *** [Jc 2s 2h Tc] [7d]
+K10000924: checks 
+Rigel1975: bets $0.06
+K10000924: folds 
+Uncalled bet ($0.06) returned to Rigel1975
+Rigel1975 collected $0.21 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Jc 2s 2h Tc 7d]
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) collected ($0.21)
+Seat 5: K10000924 (small blind) folded on the River
+Seat 6: poseidoporunbot (big blind) folded before Flop
+
+
+
+PokerStars Hand #213048098277:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:09:57 MSK [2020/05/01 2:09:57 ET]
+Table 'Ani III' 6-max Seat #5 is the button
+Seat 2: jonny_jono ($3.04 in chips) 
+Seat 3: lawlex_2 ($1.05 in chips) 
+Seat 4: Rigel1975 ($4.90 in chips) 
+Seat 5: K10000924 ($1.52 in chips) 
+Seat 6: poseidoporunbot ($2.04 in chips) 
+poseidoporunbot: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Ts]
+lawlex_2: folds 
+Rigel1975: raises $0.04 to $0.06
+K10000924: folds 
+poseidoporunbot: folds 
+jonny_jono: folds 
+Uncalled bet ($0.04) returned to Rigel1975
+Rigel1975 collected $0.05 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 collected ($0.05)
+Seat 5: K10000924 (button) folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048107999:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:10:21 MSK [2020/05/01 2:10:21 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 2: jonny_jono ($3.02 in chips) 
+Seat 3: lawlex_2 ($1.05 in chips) 
+Seat 4: Rigel1975 ($4.93 in chips) 
+Seat 5: K10000924 ($1.52 in chips) 
+Seat 6: poseidoporunbot ($2.03 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Ah]
+Rigel1975: folds 
+K10000924: raises $0.02 to $0.04
+poseidoporunbot: folds 
+jonny_jono: folds 
+lawlex_2: calls $0.02
+*** FLOP *** [9d As Tc]
+lawlex_2: checks 
+K10000924: checks 
+*** TURN *** [9d As Tc] [4c]
+lawlex_2: bets $0.02
+K10000924: calls $0.02
+*** RIVER *** [9d As Tc 4c] [Ad]
+lawlex_2: bets $0.13
+K10000924: folds 
+Uncalled bet ($0.13) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9d As Tc 4c Ad]
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.13)
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: K10000924 folded on the River
+Seat 6: poseidoporunbot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048123694:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:11:01 MSK [2020/05/01 2:11:01 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 2: jonny_jono ($3.01 in chips) 
+Seat 3: lawlex_2 ($1.12 in chips) 
+Seat 4: Rigel1975 ($4.93 in chips) 
+Seat 5: K10000924 ($1.46 in chips) 
+Seat 6: poseidoporunbot ($2.03 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 7c]
+K10000924: folds 
+poseidoporunbot: raises $0.04 to $0.06
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+Uncalled bet ($0.04) returned to poseidoporunbot
+poseidoporunbot collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: Rigel1975 (big blind) folded before Flop
+Seat 5: K10000924 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot collected ($0.05)
+
+
+
+PokerStars Hand #213048129562:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:11:16 MSK [2020/05/01 2:11:16 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 2: jonny_jono ($3.01 in chips) 
+Seat 3: lawlex_2 ($1.11 in chips) 
+Seat 4: Rigel1975 ($4.91 in chips) 
+Seat 5: K10000924 ($1.46 in chips) 
+Seat 6: poseidoporunbot ($2.06 in chips) 
+Rigel1975: posts small blind $0.01
+K10000924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 3h]
+poseidoporunbot: folds 
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: folds 
+Rigel1975: folds 
+K10000924: calls $0.06
+*** FLOP *** [Qd 4d 7c]
+K10000924: checks 
+jonny_jono: bets $0.10
+K10000924: folds 
+Uncalled bet ($0.10) returned to jonny_jono
+jonny_jono collected $0.16 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qd 4d 7c]
+Seat 2: jonny_jono collected ($0.16)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) folded before Flop
+Seat 5: K10000924 (big blind) folded on the Flop
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048140716:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:11:44 MSK [2020/05/01 2:11:44 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 2: jonny_jono ($3.09 in chips) 
+Seat 3: lawlex_2 ($1.11 in chips) 
+Seat 4: Rigel1975 ($4.90 in chips) 
+Seat 5: K10000924 ($1.38 in chips) 
+Seat 6: poseidoporunbot ($2.06 in chips) 
+K10000924: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 8d]
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: folds 
+Rigel1975: calls $0.08
+K10000924: folds 
+poseidoporunbot: folds 
+*** FLOP *** [Ks 6h 2s]
+jonny_jono: bets $0.12
+Rigel1975: calls $0.12
+*** TURN *** [Ks 6h 2s] [Qs]
+jonny_jono: checks 
+Rigel1975: bets $0.27
+jonny_jono: folds 
+Uncalled bet ($0.27) returned to Rigel1975
+Rigel1975 collected $0.41 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Ks 6h 2s Qs]
+Seat 2: jonny_jono folded on the Turn
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) collected ($0.41)
+Seat 5: K10000924 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) folded before Flop
+
+
+
+PokerStars Hand #213048159015:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:12:30 MSK [2020/05/01 2:12:30 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 2: jonny_jono ($2.89 in chips) 
+Seat 3: lawlex_2 ($1.11 in chips) 
+Seat 4: Rigel1975 ($5.11 in chips) 
+Seat 6: poseidoporunbot ($2.04 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 8d]
+Rigel1975: folds 
+poseidoporunbot: folds 
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to jonny_jono
+jonny_jono collected $0.04 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: jonny_jono (small blind) collected ($0.04)
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048167954:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:12:53 MSK [2020/05/01 2:12:53 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 2: jonny_jono ($2.91 in chips) 
+Seat 3: lawlex_2 ($1.09 in chips) 
+Seat 4: Rigel1975 ($5.11 in chips) 
+Seat 6: poseidoporunbot ($2.04 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Jh]
+poseidoporunbot: folds 
+jonny_jono: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Rigel1975
+Rigel1975 collected $0.02 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: Rigel1975 (big blind) collected ($0.02)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048174274:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:13:09 MSK [2020/05/01 2:13:09 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 2: jonny_jono ($2.91 in chips) 
+Seat 3: lawlex_2 ($1.08 in chips) 
+Seat 4: Rigel1975 ($5.12 in chips) 
+Seat 6: poseidoporunbot ($2.04 in chips) 
+Rigel1975: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c Kc]
+jonny_jono: folds 
+lawlex_2: raises $0.04 to $0.06
+Rigel1975: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) collected ($0.05)
+Seat 4: Rigel1975 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) folded before Flop
+
+
+
+PokerStars Hand #213048180598:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:13:25 MSK [2020/05/01 2:13:25 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 2: jonny_jono ($2.91 in chips) 
+Seat 3: lawlex_2 ($1.11 in chips) 
+Seat 4: Rigel1975 ($5.11 in chips) 
+Seat 6: poseidoporunbot ($2.02 in chips) 
+poseidoporunbot: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 8s]
+lawlex_2: raises $0.04 to $0.06
+Rigel1975: folds 
+poseidoporunbot: folds 
+jonny_jono: calls $0.04
+*** FLOP *** [8h 5h Qd]
+jonny_jono: checks 
+lawlex_2: checks 
+*** TURN *** [8h 5h Qd] [Jd]
+jonny_jono: checks 
+lawlex_2: checks 
+*** RIVER *** [8h 5h Qd Jd] [3c]
+jonny_jono: bets $0.10
+lawlex_2: calls $0.10
+*** SHOW DOWN ***
+jonny_jono: shows [6s 4s] (high card Queen)
+lawlex_2: shows [Kd 8s] (a pair of Eights)
+lawlex_2 collected $0.32 from pot
+kennyolo666 was removed from the table for failing to post
+kennyolo666 leaves the table
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [8h 5h Qd Jd 3c]
+Seat 2: jonny_jono (big blind) showed [6s 4s] and lost with high card Queen
+Seat 3: lawlex_2 showed [Kd 8s] and won ($0.32) with a pair of Eights
+Seat 4: Rigel1975 (button) folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048198387:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:14:00 MSK [2020/05/01 2:14:00 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 2: jonny_jono ($2.75 in chips) 
+Seat 3: lawlex_2 ($1.27 in chips) 
+Seat 4: Rigel1975 ($5.11 in chips) 
+Seat 6: poseidoporunbot ($2.01 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 4d]
+Rigel1975: folds 
+poseidoporunbot: raises $0.03 to $0.05
+jonny_jono: folds 
+lawlex_2: calls $0.03
+*** FLOP *** [7c Ks 8s]
+lawlex_2: checks 
+poseidoporunbot: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to poseidoporunbot
+poseidoporunbot collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7c Ks 8s]
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the Flop
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) collected ($0.11)
+
+
+
+PokerStars Hand #213048216781:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:14:46 MSK [2020/05/01 2:14:46 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 2: jonny_jono ($2.74 in chips) 
+Seat 3: lawlex_2 ($1.22 in chips) 
+Seat 4: Rigel1975 ($5.11 in chips) 
+Seat 6: poseidoporunbot ($2.07 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 6c]
+poseidoporunbot: folds 
+jonny_jono: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Rigel1975
+Rigel1975 collected $0.02 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: Rigel1975 (big blind) collected ($0.02)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048219940:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:14:54 MSK [2020/05/01 2:14:54 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 2: jonny_jono ($2.74 in chips) 
+Seat 3: lawlex_2 ($1.21 in chips) 
+Seat 4: Rigel1975 ($5.12 in chips) 
+Seat 6: poseidoporunbot ($2.07 in chips) 
+Rigel1975: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Qd]
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+Uncalled bet ($0.01) returned to poseidoporunbot
+poseidoporunbot collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213048223720:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:15:04 MSK [2020/05/01 2:15:04 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 2: jonny_jono ($2.74 in chips) 
+Seat 3: lawlex_2 ($1.21 in chips) 
+Seat 4: Rigel1975 ($5.11 in chips) 
+Seat 6: poseidoporunbot ($2.08 in chips) 
+poseidoporunbot: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 5h]
+lawlex_2: raises $0.04 to $0.06
+Rigel1975: calls $0.06
+poseidoporunbot: folds 
+jonny_jono: calls $0.04
+*** FLOP *** [7d Kh 2d]
+jonny_jono: checks 
+lawlex_2: checks 
+Rigel1975: bets $0.12
+jonny_jono: folds 
+lawlex_2: folds 
+Uncalled bet ($0.12) returned to Rigel1975
+Rigel1975 collected $0.18 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7d Kh 2d]
+Seat 2: jonny_jono (big blind) folded on the Flop
+Seat 3: lawlex_2 folded on the Flop
+Seat 4: Rigel1975 (button) collected ($0.18)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048237889:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:15:40 MSK [2020/05/01 2:15:40 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 2: jonny_jono ($2.68 in chips) 
+Seat 3: lawlex_2 ($1.15 in chips) 
+Seat 4: Rigel1975 ($5.23 in chips) 
+Seat 6: poseidoporunbot ($2.07 in chips) 
+Leonid AK74 joins the table at seat #1 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Jc]
+Rigel1975: raises $0.04 to $0.06
+poseidoporunbot: folds 
+jonny_jono: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Rigel1975
+Rigel1975 collected $0.05 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: Rigel1975 collected ($0.05)
+Seat 6: poseidoporunbot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048243474:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:15:54 MSK [2020/05/01 2:15:54 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 1: Leonid AK74 ($2 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($1.13 in chips) 
+Seat 4: Rigel1975 ($5.26 in chips) 
+Seat 6: poseidoporunbot ($2.07 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+Leonid AK74: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Qc]
+poseidoporunbot: folds 
+Leonid AK74: checks 
+jonny_jono: folds 
+lawlex_2: raises $0.04 to $0.06
+Rigel1975: folds 
+Leonid AK74: calls $0.04
+*** FLOP *** [2s 4h Kd]
+lawlex_2: bets $0.07
+Leonid AK74: calls $0.07
+*** TURN *** [2s 4h Kd] [9c]
+lawlex_2: checks 
+Leonid AK74: bets $0.16
+lawlex_2: calls $0.16
+*** RIVER *** [2s 4h Kd 9c] [3c]
+lawlex_2: checks 
+Leonid AK74: bets $1.71 and is all-in
+lawlex_2: calls $0.84 and is all-in
+Uncalled bet ($0.87) returned to Leonid AK74
+*** SHOW DOWN ***
+Leonid AK74: shows [2c Jc] (a pair of Deuces)
+lawlex_2: shows [Ks Qc] (a pair of Kings)
+lawlex_2 collected $2.20 from pot
+*** SUMMARY ***
+Total pot $2.28 | Rake $0.08 
+Board [2s 4h Kd 9c 3c]
+Seat 1: Leonid AK74 showed [2c Jc] and lost with a pair of Deuces
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) showed [Ks Qc] and won ($2.20) with a pair of Kings
+Seat 4: Rigel1975 (big blind) folded before Flop
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048270061:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:16:48 MSK [2020/05/01 2:16:48 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 1: Leonid AK74 ($0.87 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.20 in chips) 
+Seat 4: Rigel1975 ($5.24 in chips) 
+Seat 6: poseidoporunbot ($2.07 in chips) 
+Rigel1975: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 2d]
+Leonid AK74: raises $0.85 to $0.87 and is all-in
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.85) returned to Leonid AK74
+Leonid AK74 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Leonid AK74 collected ($0.05)
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) folded before Flop
+
+
+
+PokerStars Hand #213048278475:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:17:09 MSK [2020/05/01 2:17:09 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 1: Leonid AK74 ($0.90 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.20 in chips) 
+Seat 4: Rigel1975 ($5.23 in chips) 
+Seat 6: poseidoporunbot ($2.05 in chips) 
+poseidoporunbot: posts small blind $0.01
+Leonid AK74: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 3s]
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+poseidoporunbot: raises $0.04 to $0.06
+Leonid AK74: raises $0.10 to $0.16
+poseidoporunbot: folds 
+Uncalled bet ($0.10) returned to Leonid AK74
+Leonid AK74 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Leonid AK74 (big blind) collected ($0.12)
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048288112:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:17:34 MSK [2020/05/01 2:17:34 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 1: Leonid AK74 ($0.96 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.20 in chips) 
+Seat 4: Rigel1975 ($5.23 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+Leonid AK74: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Tc]
+lawlex_2: folds 
+Rigel1975: folds 
+poseidoporunbot: folds 
+Leonid AK74: folds 
+Uncalled bet ($0.01) returned to jonny_jono
+jonny_jono collected $0.02 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Leonid AK74 (small blind) folded before Flop
+Seat 2: jonny_jono (big blind) collected ($0.02)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048293188:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:17:48 MSK [2020/05/01 2:17:48 ET]
+Table 'Ani III' 6-max Seat #1 is the button
+Seat 1: Leonid AK74 ($0.95 in chips) 
+Seat 2: jonny_jono ($2.68 in chips) 
+Seat 3: lawlex_2 ($2.20 in chips) 
+Seat 4: Rigel1975 ($5.23 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Qc]
+Rigel1975: folds 
+poseidoporunbot: raises $0.04 to $0.06
+Leonid AK74: folds 
+jonny_jono: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to poseidoporunbot
+poseidoporunbot collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Leonid AK74 (button) folded before Flop (didn't bet)
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot collected ($0.05)
+
+
+
+PokerStars Hand #213048299186:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:18:03 MSK [2020/05/01 2:18:03 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 1: Leonid AK74 ($0.95 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.18 in chips) 
+Seat 4: Rigel1975 ($5.23 in chips) 
+Seat 6: poseidoporunbot ($2.03 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 7c]
+poseidoporunbot: folds 
+Leonid AK74: folds 
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: folds 
+Rigel1975: folds 
+Uncalled bet ($0.06) returned to jonny_jono
+jonny_jono collected $0.05 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Leonid AK74 folded before Flop (didn't bet)
+Seat 2: jonny_jono (button) collected ($0.05)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: Rigel1975 (big blind) folded before Flop
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048306623:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:18:22 MSK [2020/05/01 2:18:22 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 1: Leonid AK74 ($0.95 in chips) 
+Seat 2: jonny_jono ($2.70 in chips) 
+Seat 3: lawlex_2 ($2.17 in chips) 
+Seat 4: Rigel1975 ($5.21 in chips) 
+Seat 6: poseidoporunbot ($2.03 in chips) 
+Rigel1975: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 6d]
+Leonid AK74: raises $0.04 to $0.06
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.04) returned to Leonid AK74
+Leonid AK74 collected $0.05 from pot
+K10000924 was removed from the table for failing to post
+K10000924 leaves the table
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Leonid AK74 collected ($0.05)
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) folded before Flop
+
+
+
+PokerStars Hand #213048311974:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:18:36 MSK [2020/05/01 2:18:36 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 1: Leonid AK74 ($0.98 in chips) 
+Seat 2: jonny_jono ($2.70 in chips) 
+Seat 3: lawlex_2 ($2.17 in chips) 
+Seat 4: Rigel1975 ($5.20 in chips) 
+Seat 6: poseidoporunbot ($2.01 in chips) 
+poseidoporunbot: posts small blind $0.01
+Leonid AK74: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Js]
+jonny_jono: folds 
+lawlex_2: folds 
+zely1979 joins the table at seat #5 
+Rigel1975: raises $0.04 to $0.06
+poseidoporunbot: folds 
+Leonid AK74: calls $0.04
+*** FLOP *** [8c 9d 7h]
+Leonid AK74: checks 
+Rigel1975: bets $0.09
+Leonid AK74: folds 
+Uncalled bet ($0.09) returned to Rigel1975
+Rigel1975 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8c 9d 7h]
+Seat 1: Leonid AK74 (big blind) folded on the Flop
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) collected ($0.13)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048324900:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:19:09 MSK [2020/05/01 2:19:09 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 1: Leonid AK74 ($0.92 in chips) 
+Seat 2: jonny_jono ($2.70 in chips) 
+Seat 3: lawlex_2 ($2.17 in chips) 
+Seat 4: Rigel1975 ($5.27 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+Leonid AK74: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+zely1979: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Qh]
+lawlex_2: folds 
+Rigel1975: folds 
+poseidoporunbot: raises $0.03 to $0.05
+Leonid AK74: calls $0.04
+jonny_jono: folds 
+*** FLOP *** [7h 8d Ah]
+Leonid AK74: checks 
+poseidoporunbot: bets $0.06
+Leonid AK74: raises $0.16 to $0.22
+poseidoporunbot: folds 
+Uncalled bet ($0.16) returned to Leonid AK74
+Leonid AK74 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7h 8d Ah]
+Seat 1: Leonid AK74 (small blind) collected ($0.23)
+Seat 2: jonny_jono (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) folded on the Flop
+
+
+
+PokerStars Hand #213048342835:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:19:55 MSK [2020/05/01 2:19:55 ET]
+Table 'Ani III' 6-max Seat #1 is the button
+Seat 1: Leonid AK74 ($1.04 in chips) 
+Seat 2: jonny_jono ($2.68 in chips) 
+Seat 3: lawlex_2 ($2.17 in chips) 
+Seat 4: Rigel1975 ($5.27 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+zely1979: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 5h]
+Rigel1975: raises $0.04 to $0.06
+poseidoporunbot: folds 
+Leonid AK74: folds 
+jonny_jono: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Rigel1975
+Rigel1975 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Leonid AK74 (button) folded before Flop (didn't bet)
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: Rigel1975 collected ($0.05)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048348201:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:20:09 MSK [2020/05/01 2:20:09 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 1: Leonid AK74 ($1.04 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.15 in chips) 
+Seat 4: Rigel1975 ($5.30 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+zely1979: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 3d]
+poseidoporunbot: folds 
+Leonid AK74: folds 
+jonny_jono: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to Rigel1975
+Rigel1975 collected $0.02 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Leonid AK74 folded before Flop (didn't bet)
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: Rigel1975 (big blind) collected ($0.02)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048352652:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:20:20 MSK [2020/05/01 2:20:20 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 1: Leonid AK74 ($1.04 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.14 in chips) 
+Seat 4: Rigel1975 ($5.31 in chips) 
+Seat 5: zely1979 ($2 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+Rigel1975: posts small blind $0.01
+zely1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Jd]
+poseidoporunbot: folds 
+Leonid AK74: raises $0.02 to $0.04
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+zely1979: raises $0.12 to $0.16
+Leonid AK74: calls $0.12
+*** FLOP *** [5s 7c Qh]
+zely1979: bets $0.24
+Leonid AK74: calls $0.24
+*** TURN *** [5s 7c Qh] [Js]
+zely1979: bets $0.78
+Leonid AK74: folds 
+Uncalled bet ($0.78) returned to zely1979
+zely1979 collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [5s 7c Qh Js]
+Seat 1: Leonid AK74 folded on the Turn
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) folded before Flop
+Seat 5: zely1979 (big blind) collected ($0.78)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048368790:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:21:01 MSK [2020/05/01 2:21:01 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 1: Leonid AK74 ($0.64 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.14 in chips) 
+Seat 4: Rigel1975 ($5.30 in chips) 
+Seat 5: zely1979 ($2.38 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+zely1979: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Kh]
+Leonid AK74: raises $0.62 to $0.64 and is all-in
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+zely1979: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.62) returned to Leonid AK74
+Leonid AK74 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Leonid AK74 collected ($0.05)
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) folded before Flop (didn't bet)
+Seat 5: zely1979 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) folded before Flop
+
+
+
+PokerStars Hand #213048376783:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:21:22 MSK [2020/05/01 2:21:22 ET]
+Table 'Ani III' 6-max Seat #5 is the button
+Seat 1: Leonid AK74 ($0.67 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.14 in chips) 
+Seat 4: Rigel1975 ($5.30 in chips) 
+Seat 5: zely1979 ($2.37 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+poseidoporunbot: posts small blind $0.01
+Leonid AK74: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Kh]
+jonny_jono: folds 
+lawlex_2: raises $0.04 to $0.06
+Rigel1975: folds 
+zely1979: folds 
+poseidoporunbot: calls $0.05
+Leonid AK74: calls $0.04
+*** FLOP *** [Kc 5h Ks]
+poseidoporunbot: checks 
+Leonid AK74: checks 
+lawlex_2: checks 
+*** TURN *** [Kc 5h Ks] [2h]
+poseidoporunbot: bets $0.09
+Leonid AK74: folds 
+lawlex_2: calls $0.09
+*** RIVER *** [Kc 5h Ks 2h] [6s]
+poseidoporunbot: checks 
+lawlex_2: bets $0.18
+poseidoporunbot: calls $0.18
+*** SHOW DOWN ***
+lawlex_2: shows [Td Kh] (three of a kind, Kings)
+poseidoporunbot: mucks hand 
+lawlex_2 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [Kc 5h Ks 2h 6s]
+Seat 1: Leonid AK74 (big blind) folded on the Turn
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 showed [Td Kh] and won ($0.69) with three of a kind, Kings
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: zely1979 (button) folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (small blind) mucked [9h 9s]
+
+
+
+PokerStars Hand #213048411214:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:22:50 MSK [2020/05/01 2:22:50 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 1: Leonid AK74 ($0.61 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.50 in chips) 
+Seat 4: Rigel1975 ($5.30 in chips) 
+Seat 5: zely1979 ($2.37 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+Leonid AK74: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Qs]
+lawlex_2: folds 
+Rigel1975: folds 
+zely1979: folds 
+poseidoporunbot: folds 
+Leonid AK74: folds 
+Uncalled bet ($0.01) returned to jonny_jono
+jonny_jono collected $0.02 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Leonid AK74 (small blind) folded before Flop
+Seat 2: jonny_jono (big blind) collected ($0.02)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: zely1979 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048418928:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:23:10 MSK [2020/05/01 2:23:10 ET]
+Table 'Ani III' 6-max Seat #1 is the button
+Seat 1: Leonid AK74 ($0.60 in chips) 
+Seat 2: jonny_jono ($2.68 in chips) 
+Seat 3: lawlex_2 ($2.50 in chips) 
+Seat 4: Rigel1975 ($5.30 in chips) 
+Seat 5: zely1979 ($2.37 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 3s]
+Rigel1975: folds 
+zely1979: raises $0.04 to $0.06
+poseidoporunbot: folds 
+Leonid AK74: calls $0.06
+jonny_jono: folds 
+lawlex_2: folds 
+*** FLOP *** [Ts 6h 6s]
+zely1979: checks 
+Leonid AK74: bets $0.14
+zely1979: folds 
+Uncalled bet ($0.14) returned to Leonid AK74
+Leonid AK74 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ts 6h 6s]
+Seat 1: Leonid AK74 (button) collected ($0.14)
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 5: zely1979 folded on the Flop
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048432328:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:23:44 MSK [2020/05/01 2:23:44 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 1: Leonid AK74 ($0.68 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.48 in chips) 
+Seat 5: zely1979 ($2.31 in chips) 
+Seat 6: poseidoporunbot ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: is sitting out 
+zely1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 9h]
+poseidoporunbot: raises $0.04 to $0.06
+Leonid AK74: calls $0.06
+jonny_jono: folds 
+lawlex_2: folds 
+zely1979: folds 
+*** FLOP *** [Ad 3d Js]
+poseidoporunbot: bets $0.07
+Leonid AK74: calls $0.07
+*** TURN *** [Ad 3d Js] [6s]
+poseidoporunbot: checks 
+Leonid AK74: checks 
+*** RIVER *** [Ad 3d Js 6s] [Kc]
+poseidoporunbot: checks 
+Leonid AK74: checks 
+*** SHOW DOWN ***
+poseidoporunbot: shows [Qd Ks] (a pair of Kings)
+Leonid AK74: mucks hand 
+poseidoporunbot collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ad 3d Js 6s Kc]
+Seat 1: Leonid AK74 mucked [Td 9s]
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 5: zely1979 (big blind) folded before Flop
+Seat 6: poseidoporunbot showed [Qd Ks] and won ($0.28) with a pair of Kings
+
+
+
+PokerStars Hand #213048450324:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:24:30 MSK [2020/05/01 2:24:30 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 1: Leonid AK74 ($0.55 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.47 in chips) 
+Seat 5: zely1979 ($2.29 in chips) 
+Seat 6: poseidoporunbot ($2.15 in chips) 
+zely1979: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 6h]
+Leonid AK74: calls $0.02
+jonny_jono: folds 
+lawlex_2: calls $0.02
+zely1979: folds 
+poseidoporunbot: checks 
+*** FLOP *** [3h 6c 8c]
+poseidoporunbot: checks 
+Leonid AK74: bets $0.04
+lawlex_2: calls $0.04
+poseidoporunbot: folds 
+*** TURN *** [3h 6c 8c] [4s]
+Leonid AK74: checks 
+lawlex_2: checks 
+*** RIVER *** [3h 6c 8c 4s] [5c]
+Leonid AK74: checks 
+lawlex_2: bets $0.14
+Leonid AK74: folds 
+Uncalled bet ($0.14) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3h 6c 8c 4s 5c]
+Seat 1: Leonid AK74 folded on the River
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) collected ($0.14)
+Seat 5: zely1979 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213048479660:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:25:45 MSK [2020/05/01 2:25:45 ET]
+Table 'Ani III' 6-max Seat #5 is the button
+Seat 1: Leonid AK74 ($0.49 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.55 in chips) 
+Seat 5: zely1979 ($2.28 in chips) 
+Seat 6: poseidoporunbot ($2.13 in chips) 
+poseidoporunbot: posts small blind $0.01
+Leonid AK74: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 8c]
+jonny_jono: folds 
+lawlex_2: calls $0.02
+zely1979: folds 
+poseidoporunbot: folds 
+Leonid AK74: checks 
+*** FLOP *** [6h 7h 3s]
+Leonid AK74: checks 
+lawlex_2: bets $0.03
+Leonid AK74: calls $0.03
+*** TURN *** [6h 7h 3s] [2h]
+Leonid AK74: checks 
+lawlex_2: checks 
+*** RIVER *** [6h 7h 3s 2h] [Jc]
+Leonid AK74: bets $0.44 and is all-in
+lawlex_2: folds 
+Uncalled bet ($0.44) returned to Leonid AK74
+Leonid AK74 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6h 7h 3s 2h Jc]
+Seat 1: Leonid AK74 (big blind) collected ($0.11)
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded on the River
+Seat 5: zely1979 (button) folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048499934:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:26:36 MSK [2020/05/01 2:26:36 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 1: Leonid AK74 ($0.55 in chips) 
+Seat 2: jonny_jono ($2.67 in chips) 
+Seat 3: lawlex_2 ($2.50 in chips) 
+Seat 5: zely1979 ($2.28 in chips) 
+Seat 6: poseidoporunbot ($2.12 in chips) 
+Leonid AK74: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h 9d]
+lawlex_2: folds 
+zely1979: folds 
+poseidoporunbot: raises $0.03 to $0.05
+Leonid AK74: folds 
+jonny_jono: folds 
+Uncalled bet ($0.03) returned to poseidoporunbot
+poseidoporunbot collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Leonid AK74 (small blind) folded before Flop
+Seat 2: jonny_jono (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 5: zely1979 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) collected ($0.05)
+
+
+
+PokerStars Hand #213048507122:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:26:54 MSK [2020/05/01 2:26:54 ET]
+Table 'Ani III' 6-max Seat #1 is the button
+Seat 1: Leonid AK74 ($0.54 in chips) 
+Seat 2: jonny_jono ($2.65 in chips) 
+Seat 3: lawlex_2 ($2.50 in chips) 
+Seat 5: zely1979 ($2.28 in chips) 
+Seat 6: poseidoporunbot ($2.15 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 4d]
+zely1979: folds 
+poseidoporunbot: folds 
+Leonid AK74: calls $0.02
+jonny_jono: folds 
+lawlex_2: checks 
+*** FLOP *** [Ah 3c 6s]
+lawlex_2: checks 
+Leonid AK74: checks 
+*** TURN *** [Ah 3c 6s] [Ac]
+lawlex_2: checks 
+Leonid AK74: checks 
+*** RIVER *** [Ah 3c 6s Ac] [8s]
+lawlex_2: checks 
+Leonid AK74: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Th 4d] (a pair of Aces)
+Leonid AK74: shows [Qd 2d] (a pair of Aces - Queen kicker)
+Leonid AK74 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ah 3c 6s Ac 8s]
+Seat 1: Leonid AK74 (button) showed [Qd 2d] and won ($0.05) with a pair of Aces
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) showed [Th 4d] and lost with a pair of Aces
+Seat 5: zely1979 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048525683:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:27:42 MSK [2020/05/01 2:27:42 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 1: Leonid AK74 ($0.57 in chips) 
+Seat 2: jonny_jono ($2.64 in chips) 
+Seat 3: lawlex_2 ($2.48 in chips) 
+Seat 5: zely1979 ($2.28 in chips) 
+Seat 6: poseidoporunbot ($2.15 in chips) 
+lawlex_2: posts small blind $0.01
+zely1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 4d]
+poseidoporunbot: raises $0.04 to $0.06
+Leonid AK74: folds 
+jonny_jono has timed out
+jonny_jono: folds 
+lawlex_2: folds 
+zely1979: folds 
+Uncalled bet ($0.04) returned to poseidoporunbot
+poseidoporunbot collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Leonid AK74 folded before Flop (didn't bet)
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 5: zely1979 (big blind) folded before Flop
+Seat 6: poseidoporunbot collected ($0.05)
+
+
+
+PokerStars Hand #213048537673:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:28:09 MSK [2020/05/01 2:28:09 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 1: Leonid AK74 ($0.57 in chips) 
+Seat 3: lawlex_2 ($2.47 in chips) 
+Seat 5: zely1979 ($2.26 in chips) 
+zely1979: posts small blind $0.01
+poseidoporunbot: is sitting out 
+Leonid AK74: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Kd]
+lawlex_2: folds 
+zely1979: folds 
+Uncalled bet ($0.01) returned to Leonid AK74
+Leonid AK74 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Leonid AK74 (big blind) collected ($0.02)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: zely1979 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048542665:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:28:22 MSK [2020/05/01 2:28:22 ET]
+Table 'Ani III' 6-max Seat #5 is the button
+Seat 1: Leonid AK74 ($0.58 in chips) 
+Seat 2: jonny_jono ($2.64 in chips) 
+Seat 3: lawlex_2 ($2.47 in chips) 
+Seat 5: zely1979 ($2.25 in chips) 
+Leonid AK74: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 5c]
+lawlex_2: folds 
+zely1979: raises $0.03 to $0.05
+Leonid AK74: raises $0.25 to $0.30
+jonny_jono: folds 
+zely1979: raises $0.64 to $0.94
+Leonid AK74: calls $0.28 and is all-in
+Uncalled bet ($0.36) returned to zely1979
+*** FLOP *** [Qh Ts 6c]
+*** TURN *** [Qh Ts 6c] [2c]
+*** RIVER *** [Qh Ts 6c 2c] [4h]
+*** SHOW DOWN ***
+Leonid AK74: shows [3s As] (high card Ace)
+zely1979: shows [Ah 9h] (high card Ace - Queen+Ten+Nine kicker)
+zely1979 collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [Qh Ts 6c 2c 4h]
+Seat 1: Leonid AK74 (small blind) showed [3s As] and lost with high card Ace
+Seat 2: jonny_jono (big blind) folded before Flop
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 5: zely1979 (button) showed [Ah 9h] and won ($1.14) with high card Ace
+
+
+
+PokerStars Hand #213048556339:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:28:57 MSK [2020/05/01 2:28:57 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 2: jonny_jono ($2.62 in chips) 
+Seat 3: lawlex_2 ($2.47 in chips) 
+Seat 4: Rigel1975 ($5.30 in chips) 
+Seat 5: zely1979 ($2.81 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 5d]
+zely1979: folds 
+Leonid AK74 leaves the table
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: calls $0.07
+Rigel1975: folds 
+*** FLOP *** [As Th 8c]
+lawlex_2: checks 
+jonny_jono: checks 
+*** TURN *** [As Th 8c] [9h]
+lawlex_2: checks 
+jonny_jono: checks 
+*** RIVER *** [As Th 8c 9h] [5s]
+lawlex_2: bets $0.17
+jonny_jono: folds 
+Uncalled bet ($0.17) returned to lawlex_2
+lawlex_2 collected $0.17 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [As Th 8c 9h 5s]
+Seat 2: jonny_jono (button) folded on the River
+Seat 3: lawlex_2 (small blind) collected ($0.17)
+Seat 4: Rigel1975 (big blind) folded before Flop
+Seat 5: zely1979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048574183:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:29:43 MSK [2020/05/01 2:29:43 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 2: jonny_jono ($2.54 in chips) 
+Seat 3: lawlex_2 ($2.56 in chips) 
+Seat 4: Rigel1975 ($5.28 in chips) 
+Rigel1975: posts small blind $0.01
+zely1979: is sitting out 
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 6d]
+zely1979 leaves the table
+lawlex_2: folds 
+Rigel1975: folds 
+Uncalled bet ($0.01) returned to jonny_jono
+jonny_jono collected $0.02 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jonny_jono (big blind) collected ($0.02)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048580144:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:29:58 MSK [2020/05/01 2:29:58 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 2: jonny_jono ($2.55 in chips) 
+Seat 3: lawlex_2 ($2.56 in chips) 
+Seat 4: Rigel1975 ($5.27 in chips) 
+jonny_jono: posts small blind $0.01
+poseidoporunbot leaves the table
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 8c]
+Rigel1975: raises $0.04 to $0.06
+jonny_jono: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Rigel1975
+Rigel1975 collected $0.05 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded before Flop
+Seat 4: Rigel1975 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213048584560:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:30:09 MSK [2020/05/01 2:30:09 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 2: jonny_jono ($2.54 in chips) 
+Seat 3: lawlex_2 ($2.54 in chips) 
+Seat 4: Rigel1975 ($5.30 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Kh]
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: calls $0.07
+Rigel1975: folds 
+*** FLOP *** [6h 3s 8h]
+lawlex_2: checks 
+jonny_jono: bets $0.13
+lawlex_2: folds 
+Uncalled bet ($0.13) returned to jonny_jono
+jonny_jono collected $0.17 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6h 3s 8h]
+Seat 2: jonny_jono (button) collected ($0.17)
+Seat 3: lawlex_2 (small blind) folded on the Flop
+Seat 4: Rigel1975 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213048596985:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:30:41 MSK [2020/05/01 2:30:41 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 2: jonny_jono ($2.63 in chips) 
+Seat 3: lawlex_2 ($2.46 in chips) 
+Seat 4: Rigel1975 ($5.28 in chips) 
+Rigel1975: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Td]
+lawlex_2 has timed out
+lawlex_2: folds 
+Rigel1975: folds 
+Uncalled bet ($0.01) returned to jonny_jono
+jonny_jono collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jonny_jono (big blind) collected ($0.02)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048608426:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:31:11 MSK [2020/05/01 2:31:11 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 2: jonny_jono ($2.63 in chips) 
+Seat 3: lawlex_2 ($2.46 in chips) 
+Seat 4: Rigel1975 ($5.28 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 3s]
+Rigel1975: folds 
+jonny_jono: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.02)
+Seat 4: Rigel1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048613046:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:31:23 MSK [2020/05/01 2:31:23 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 2: jonny_jono ($2.62 in chips) 
+Seat 3: lawlex_2 ($2.47 in chips) 
+Seat 4: Rigel1975 ($5.28 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 4c]
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: folds 
+Rigel1975: folds 
+Uncalled bet ($0.06) returned to jonny_jono
+jonny_jono collected $0.05 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jonny_jono (button) collected ($0.05)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: Rigel1975 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213048618203:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:31:36 MSK [2020/05/01 2:31:36 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 2: jonny_jono ($2.65 in chips) 
+Seat 3: lawlex_2 ($2.46 in chips) 
+Seat 4: Rigel1975 ($5.26 in chips) 
+Rigel1975: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Kd]
+lawlex_2: folds 
+Rigel1975: raises $0.04 to $0.06
+jonny_jono: folds 
+Uncalled bet ($0.04) returned to Rigel1975
+Rigel1975 collected $0.04 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: jonny_jono (big blind) folded before Flop
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213048622428:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:31:46 MSK [2020/05/01 2:31:46 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 2: jonny_jono ($2.63 in chips) 
+Seat 3: lawlex_2 ($2.46 in chips) 
+Seat 4: Rigel1975 ($5.28 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 6d]
+Rigel1975: folds 
+jonny_jono: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) collected ($0.02)
+Seat 4: Rigel1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213048624833:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:31:53 MSK [2020/05/01 2:31:53 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 2: jonny_jono ($2.62 in chips) 
+Seat 3: lawlex_2 ($2.47 in chips) 
+Seat 4: Rigel1975 ($5.28 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 9c]
+jonny_jono: folds 
+lawlex_2: calls $0.01
+Rigel1975: checks 
+*** FLOP *** [3s Ts Kc]
+lawlex_2: checks 
+COBRA AL AKI joins the table at seat #6 
+Rigel1975: checks 
+*** TURN *** [3s Ts Kc] [2d]
+lawlex_2: checks 
+Rigel1975: checks 
+*** RIVER *** [3s Ts Kc 2d] [4h]
+lawlex_2: checks 
+Rigel1975: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Jc 9c] (high card King)
+Rigel1975: mucks hand 
+lawlex_2 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3s Ts Kc 2d 4h]
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) showed [Jc 9c] and won ($0.04) with high card King
+Seat 4: Rigel1975 (big blind) mucked [7d 9d]
+
+
+
+PokerStars Hand #213048646616:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:32:25 MSK [2020/05/01 2:32:25 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 2: jonny_jono ($2.62 in chips) 
+Seat 3: lawlex_2 ($2.49 in chips) 
+Seat 4: Rigel1975 ($5.26 in chips) 
+Seat 6: COBRA AL AKI ($0.84 in chips) 
+Rigel1975: posts small blind $0.01
+COBRA AL AKI: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 4d]
+jonny_jono: folds 
+lawlex_2: folds 
+kompotka11 joins the table at seat #1 
+Rigel1975: raises $0.04 to $0.06
+COBRA AL AKI: calls $0.04
+*** FLOP *** [9h Ad 6s]
+Rigel1975: bets $0.08
+COBRA AL AKI: folds 
+Uncalled bet ($0.08) returned to Rigel1975
+Rigel1975 collected $0.12 from pot
+Rigel1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9h Ad 6s]
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 4: Rigel1975 (small blind) collected ($0.12)
+Seat 6: COBRA AL AKI (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213048655345:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:32:48 MSK [2020/05/01 2:32:48 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 1: kompotka11 ($1.60 in chips) 
+Seat 2: jonny_jono ($2.62 in chips) 
+Seat 3: lawlex_2 ($2.49 in chips) 
+Seat 4: Rigel1975 ($5.32 in chips) 
+Seat 6: COBRA AL AKI ($0.78 in chips) 
+COBRA AL AKI: posts small blind $0.01
+kompotka11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 6h]
+jonny_jono: raises $0.06 to $0.08
+lawlex_2: folds 
+Rigel1975: folds 
+anton 6013 joins the table at seat #5 
+COBRA AL AKI: folds 
+kompotka11: folds 
+Uncalled bet ($0.06) returned to jonny_jono
+jonny_jono collected $0.05 from pot
+jonny_jono: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kompotka11 (big blind) folded before Flop
+Seat 2: jonny_jono collected ($0.05)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) folded before Flop (didn't bet)
+Seat 6: COBRA AL AKI (small blind) folded before Flop
+
+
+
+PokerStars Hand #213048660495:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:33:01 MSK [2020/05/01 2:33:01 ET]
+Table 'Ani III' 6-max Seat #6 is the button
+Seat 1: kompotka11 ($1.58 in chips) 
+Seat 2: jonny_jono ($2.65 in chips) 
+Seat 3: lawlex_2 ($2.49 in chips) 
+Seat 4: Rigel1975 ($5.32 in chips) 
+Seat 6: COBRA AL AKI ($0.77 in chips) 
+kompotka11: posts small blind $0.01
+jonny_jono: posts big blind $0.02
+anton 6013: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 6c]
+lawlex_2: raises $0.04 to $0.06
+Rigel1975: folds 
+COBRA AL AKI: calls $0.06
+kompotka11: folds 
+jonny_jono: folds 
+*** FLOP *** [Ks 7s 8c]
+lawlex_2: bets $0.07
+COBRA AL AKI: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ks 7s 8c]
+Seat 1: kompotka11 (small blind) folded before Flop
+Seat 2: jonny_jono (big blind) folded before Flop
+Seat 3: lawlex_2 collected ($0.14)
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 6: COBRA AL AKI (button) folded on the Flop
+
+
+
+PokerStars Hand #213048685211:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:34:04 MSK [2020/05/01 2:34:04 ET]
+Table 'Ani III' 6-max Seat #1 is the button
+Seat 1: kompotka11 ($1.57 in chips) 
+Seat 2: jonny_jono ($2.63 in chips) 
+Seat 3: lawlex_2 ($2.57 in chips) 
+Seat 4: Rigel1975 ($5.32 in chips) 
+Seat 6: COBRA AL AKI ($0.71 in chips) 
+jonny_jono: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+anton 6013: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 6s]
+Rigel1975: folds 
+COBRA AL AKI: calls $0.02
+kompotka11: folds 
+jonny_jono: folds 
+lawlex_2: checks 
+*** FLOP *** [Ts Ad Td]
+lawlex_2: checks 
+COBRA AL AKI: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to COBRA AL AKI
+COBRA AL AKI collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ts Ad Td]
+Seat 1: kompotka11 (button) folded before Flop (didn't bet)
+Seat 2: jonny_jono (small blind) folded before Flop
+Seat 3: lawlex_2 (big blind) folded on the Flop
+Seat 4: Rigel1975 folded before Flop (didn't bet)
+Seat 6: COBRA AL AKI collected ($0.05)
+
+
+
+PokerStars Hand #213048701091:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:34:45 MSK [2020/05/01 2:34:45 ET]
+Table 'Ani III' 6-max Seat #2 is the button
+Seat 1: kompotka11 ($1.57 in chips) 
+Seat 2: jonny_jono ($2.62 in chips) 
+Seat 3: lawlex_2 ($2.55 in chips) 
+Seat 4: Rigel1975 ($5.32 in chips) 
+Seat 6: COBRA AL AKI ($0.74 in chips) 
+lawlex_2: posts small blind $0.01
+Rigel1975: posts big blind $0.02
+anton 6013: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Tc]
+COBRA AL AKI: calls $0.02
+kompotka11: calls $0.02
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: raises $0.08 to $0.10
+COBRA AL AKI: folds 
+kompotka11: raises $0.08 to $0.18
+Rigel1975: calls $0.08
+*** FLOP *** [3d Jd 8d]
+Rigel1975: bets $0.38
+kompotka11: calls $0.38
+*** TURN *** [3d Jd 8d] [9s]
+Rigel1975: checks 
+kompotka11: bets $0.22
+Rigel1975: calls $0.22
+*** RIVER *** [3d Jd 8d 9s] [6s]
+Rigel1975: checks 
+kompotka11: checks 
+*** SHOW DOWN ***
+Rigel1975: shows [Jc Qc] (a pair of Jacks)
+kompotka11: shows [Kc Ks] (a pair of Kings)
+kompotka11 collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.06 
+Board [3d Jd 8d 9s 6s]
+Seat 1: kompotka11 showed [Kc Ks] and won ($1.53) with a pair of Kings
+Seat 2: jonny_jono (button) folded before Flop (didn't bet)
+Seat 3: lawlex_2 (small blind) folded before Flop
+Seat 4: Rigel1975 (big blind) showed [Jc Qc] and lost with a pair of Jacks
+Seat 6: COBRA AL AKI folded before Flop
+
+
+
+PokerStars Hand #213048729801:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:35:59 MSK [2020/05/01 2:35:59 ET]
+Table 'Ani III' 6-max Seat #3 is the button
+Seat 1: kompotka11 ($2.32 in chips) 
+Seat 2: jonny_jono ($2.62 in chips) 
+Seat 3: lawlex_2 ($2.54 in chips) 
+Seat 4: Rigel1975 ($4.54 in chips) 
+Seat 5: anton 6013 ($2 in chips) 
+Seat 6: COBRA AL AKI ($0.72 in chips) 
+Rigel1975: posts small blind $0.01
+anton 6013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Jc]
+COBRA AL AKI: calls $0.02
+kompotka11: calls $0.02
+jonny_jono: folds 
+lawlex_2: raises $0.04 to $0.06
+Rigel1975: calls $0.05
+anton 6013: calls $0.04
+COBRA AL AKI: calls $0.04
+kompotka11: calls $0.04
+*** FLOP *** [Qd Jd Jh]
+Rigel1975: checks 
+anton 6013: checks 
+COBRA AL AKI: checks 
+kompotka11: checks 
+lawlex_2: checks 
+*** TURN *** [Qd Jd Jh] [3c]
+Rigel1975: checks 
+anton 6013: bets $0.29
+COBRA AL AKI: folds 
+kompotka11: folds 
+lawlex_2: calls $0.29
+Rigel1975: folds 
+*** RIVER *** [Qd Jd Jh 3c] [Ah]
+anton 6013: bets $0.43
+lawlex_2: calls $0.43
+*** SHOW DOWN ***
+anton 6013: shows [Js 9h] (three of a kind, Jacks)
+lawlex_2: shows [Kc Jc] (three of a kind, Jacks - Ace+King kicker)
+lawlex_2 collected $1.68 from pot
+*** SUMMARY ***
+Total pot $1.74 | Rake $0.06 
+Board [Qd Jd Jh 3c Ah]
+Seat 1: kompotka11 folded on the Turn
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 (button) showed [Kc Jc] and won ($1.68) with three of a kind, Jacks
+Seat 4: Rigel1975 (small blind) folded on the Turn
+Seat 5: anton 6013 (big blind) showed [Js 9h] and lost with three of a kind, Jacks
+Seat 6: COBRA AL AKI folded on the Turn
+
+
+
+PokerStars Hand #213048758698:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 9:37:12 MSK [2020/05/01 2:37:12 ET]
+Table 'Ani III' 6-max Seat #4 is the button
+Seat 1: kompotka11 ($2.26 in chips) 
+Seat 2: jonny_jono ($2.62 in chips) 
+Seat 3: lawlex_2 ($3.44 in chips) 
+Seat 4: Rigel1975 ($4.48 in chips) 
+Seat 5: anton 6013 ($1.22 in chips) 
+Seat 6: COBRA AL AKI ($0.66 in chips) 
+anton 6013: posts small blind $0.01
+COBRA AL AKI: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 8s]
+kompotka11: folds 
+jonny_jono: folds 
+lawlex_2: folds 
+Rigel1975: folds 
+anton 6013: calls $0.01
+COBRA AL AKI: raises $0.02 to $0.04
+anton 6013: calls $0.02
+*** FLOP *** [As Ts Jc]
+anton 6013: checks 
+COBRA AL AKI: checks 
+*** TURN *** [As Ts Jc] [5c]
+anton 6013: checks 
+COBRA AL AKI: checks 
+*** RIVER *** [As Ts Jc 5c] [9c]
+anton 6013: checks 
+COBRA AL AKI: checks 
+*** SHOW DOWN ***
+anton 6013: shows [Jh Qd] (a pair of Jacks)
+COBRA AL AKI: mucks hand 
+anton 6013 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [As Ts Jc 5c 9c]
+Seat 1: kompotka11 folded before Flop (didn't bet)
+Seat 2: jonny_jono folded before Flop (didn't bet)
+Seat 3: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Rigel1975 (button) folded before Flop (didn't bet)
+Seat 5: anton 6013 (small blind) showed [Jh Qd] and won ($0.08) with a pair of Jacks
+Seat 6: COBRA AL AKI (big blind) mucked [6c Qh]
+
+
+

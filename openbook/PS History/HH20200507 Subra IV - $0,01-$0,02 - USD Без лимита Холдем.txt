@@ -1,0 +1,4948 @@
+﻿PokerStars Hand #213473879153:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:16:05 MSK [2020/05/07 22:16:05 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2 in chips) 
+Seat 2: JLGriffen ($1.37 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 4: The Kusher ($0.65 in chips) 
+Seat 5: eljouflu ($0.85 in chips) 
+Seat 6: paylover7777 ($3.63 in chips) 
+leproso3843: posts small blind $0.01
+The Kusher: posts big blind $0.02
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 6c]
+eljouflu: folds 
+paylover7777: folds 
+lawlex_2: raises $0.04 to $0.06
+JLGriffen: folds 
+leproso3843: folds 
+The Kusher: calls $0.04
+*** FLOP *** [8s 8c Qs]
+The Kusher: checks 
+lawlex_2: bets $0.09
+The Kusher: calls $0.09
+*** TURN *** [8s 8c Qs] [2h]
+The Kusher: checks 
+lawlex_2: bets $0.30
+The Kusher: calls $0.30
+*** RIVER *** [8s 8c Qs 2h] [3s]
+The Kusher: bets $0.20 and is all-in
+lawlex_2: calls $0.20
+*** SHOW DOWN ***
+The Kusher: shows [Ts 7s] (a flush, Queen high)
+lawlex_2: shows [Qc 6c] (two pair, Queens and Eights)
+The Kusher collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [8s 8c Qs 2h 3s]
+Seat 1: lawlex_2 showed [Qc 6c] and lost with two pair, Queens and Eights
+Seat 2: JLGriffen (button) folded before Flop (didn't bet)
+Seat 3: leproso3843 (small blind) folded before Flop
+Seat 4: The Kusher (big blind) showed [Ts 7s] and won ($1.26) with a flush, Queen high
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: paylover7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473907245:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:16:48 MSK [2020/05/07 22:16:48 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.35 in chips) 
+Seat 2: JLGriffen ($1.37 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 4: The Kusher ($1.26 in chips) 
+Seat 5: eljouflu ($0.85 in chips) 
+Seat 6: paylover7777 ($3.63 in chips) 
+The Kusher: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Kd]
+paylover7777: folds 
+lawlex_2: folds 
+JLGriffen: folds 
+leproso3843: folds 
+The Kusher: folds 
+Uncalled bet ($0.01) returned to eljouflu
+eljouflu collected $0.02 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: JLGriffen folded before Flop (didn't bet)
+Seat 3: leproso3843 (button) folded before Flop (didn't bet)
+Seat 4: The Kusher (small blind) folded before Flop
+Seat 5: eljouflu (big blind) collected ($0.02)
+Seat 6: paylover7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473918003:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:17:04 MSK [2020/05/07 22:17:04 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.35 in chips) 
+Seat 2: JLGriffen ($1.37 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 4: The Kusher ($1.25 in chips) 
+Seat 5: eljouflu ($0.86 in chips) 
+Seat 6: paylover7777 ($3.63 in chips) 
+eljouflu: posts small blind $0.01
+paylover7777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 4h]
+lawlex_2: folds 
+JLGriffen: raises $0.02 to $0.04
+leproso3843: folds 
+The Kusher: folds 
+eljouflu: calls $0.03
+The Kusher leaves the table
+paylover7777: calls $0.02
+*** FLOP *** [6d Ks As]
+eljouflu: checks 
+magva joins the table at seat #4 
+paylover7777: checks 
+JLGriffen: checks 
+*** TURN *** [6d Ks As] [2d]
+eljouflu: checks 
+paylover7777: checks 
+JLGriffen: bets $0.06
+eljouflu: folds 
+paylover7777: folds 
+Uncalled bet ($0.06) returned to JLGriffen
+JLGriffen collected $0.12 from pot
+JLGriffen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6d Ks As 2d]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: JLGriffen collected ($0.12)
+Seat 3: leproso3843 folded before Flop (didn't bet)
+Seat 4: The Kusher (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) folded on the Turn
+Seat 6: paylover7777 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213473947926:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:17:50 MSK [2020/05/07 22:17:50 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.35 in chips) 
+Seat 2: JLGriffen ($1.45 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 5: eljouflu ($0.82 in chips) 
+Seat 6: paylover7777 ($3.59 in chips) 
+paylover7777: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+magva: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Ks]
+JLGriffen: folds 
+leproso3843: folds 
+eljouflu: calls $0.02
+paylover7777: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Ad Tc 4d]
+paylover7777: checks 
+lawlex_2: checks 
+eljouflu: bets $0.04
+paylover7777: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to eljouflu
+eljouflu collected $0.06 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ad Tc 4d]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: JLGriffen folded before Flop (didn't bet)
+Seat 3: leproso3843 folded before Flop (didn't bet)
+Seat 5: eljouflu (button) collected ($0.06)
+Seat 6: paylover7777 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213473967676:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:18:21 MSK [2020/05/07 22:18:21 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.33 in chips) 
+Seat 2: JLGriffen ($1.45 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 5: eljouflu ($0.86 in chips) 
+Seat 6: paylover7777 ($3.57 in chips) 
+lawlex_2: posts small blind $0.01
+JLGriffen: posts big blind $0.02
+magva: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 8c]
+leproso3843: folds 
+eljouflu: calls $0.02
+paylover7777: folds 
+lawlex_2: folds 
+JLGriffen: checks 
+*** FLOP *** [Js 3c 3s]
+JLGriffen: bets $0.02
+eljouflu: folds 
+Uncalled bet ($0.02) returned to JLGriffen
+JLGriffen collected $0.05 from pot
+JLGriffen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js 3c 3s]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: JLGriffen (big blind) collected ($0.05)
+Seat 3: leproso3843 folded before Flop (didn't bet)
+Seat 5: eljouflu folded on the Flop
+Seat 6: paylover7777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213473982649:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:18:44 MSK [2020/05/07 22:18:44 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.32 in chips) 
+Seat 2: JLGriffen ($1.48 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 5: eljouflu ($0.84 in chips) 
+Seat 6: paylover7777 ($3.57 in chips) 
+JLGriffen: posts small blind $0.01
+leproso3843: posts big blind $0.02
+magva: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 2s]
+eljouflu: folds 
+paylover7777 has timed out
+paylover7777: folds 
+lawlex_2: folds 
+JLGriffen is disconnected 
+JLGriffen has timed out while disconnected
+JLGriffen: folds 
+Uncalled bet ($0.01) returned to leproso3843
+leproso3843 collected $0.02 from pot
+leproso3843: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: JLGriffen (small blind) folded before Flop
+Seat 3: leproso3843 (big blind) collected ($0.02)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: paylover7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474024226:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:19:43 MSK [2020/05/07 22:19:43 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.32 in chips) 
+Seat 3: leproso3843 ($2.01 in chips) 
+Seat 5: eljouflu ($0.84 in chips) 
+Seat 6: paylover7777 ($3.57 in chips) 
+eljouflu: posts small blind $0.01
+paylover7777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 9h]
+lawlex_2: raises $0.04 to $0.06
+leproso3843: folds 
+eljouflu: folds 
+paylover7777: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 3: leproso3843 (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) folded before Flop
+Seat 6: paylover7777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213474032813:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:19:56 MSK [2020/05/07 22:19:56 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.35 in chips) 
+Seat 3: leproso3843 ($2.01 in chips) 
+Seat 5: eljouflu ($0.83 in chips) 
+Seat 6: paylover7777 ($3.55 in chips) 
+paylover7777: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+magva: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 2h]
+leproso3843: folds 
+eljouflu: calls $0.02
+paylover7777: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [6s 9h Qh]
+paylover7777: bets $0.02
+lawlex_2: raises $0.10 to $0.12
+eljouflu: folds 
+paylover7777: folds 
+Uncalled bet ($0.10) returned to lawlex_2
+lawlex_2 collected $0.10 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6s 9h Qh]
+Seat 1: lawlex_2 (big blind) collected ($0.10)
+Seat 3: leproso3843 folded before Flop (didn't bet)
+Seat 5: eljouflu (button) folded on the Flop
+Seat 6: paylover7777 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213474048525:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:20:21 MSK [2020/05/07 22:20:21 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.41 in chips) 
+Seat 3: leproso3843 ($2.01 in chips) 
+Seat 5: eljouflu ($0.81 in chips) 
+Seat 6: paylover7777 ($3.51 in chips) 
+lawlex_2: posts small blind $0.01
+leproso3843: posts big blind $0.02
+magva: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 9s]
+eljouflu: folds 
+paylover7777: folds 
+lawlex_2: calls $0.01
+leproso3843: checks 
+*** FLOP *** [4c 6c 3h]
+lawlex_2: checks 
+leproso3843: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to leproso3843
+leproso3843 collected $0.04 from pot
+leproso3843: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4c 6c 3h]
+Seat 1: lawlex_2 (small blind) folded on the Flop
+Seat 3: leproso3843 (big blind) collected ($0.04)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: paylover7777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474058440:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:20:36 MSK [2020/05/07 22:20:36 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.39 in chips) 
+Seat 3: leproso3843 ($2.03 in chips) 
+Seat 4: magva ($2 in chips) 
+Seat 5: eljouflu ($0.81 in chips) 
+Seat 6: paylover7777 ($3.51 in chips) 
+leproso3843: posts small blind $0.01
+magva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Jh]
+eljouflu: raises $0.05 to $0.07
+paylover7777: folds 
+lawlex_2: folds 
+leproso3843: folds 
+magva: folds 
+Uncalled bet ($0.05) returned to eljouflu
+eljouflu collected $0.05 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: leproso3843 (small blind) folded before Flop
+Seat 4: magva (big blind) folded before Flop
+Seat 5: eljouflu collected ($0.05)
+Seat 6: paylover7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474067297:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:20:50 MSK [2020/05/07 22:20:50 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.39 in chips) 
+Seat 3: leproso3843 ($2.02 in chips) 
+Seat 4: magva ($2 in chips) 
+Seat 5: eljouflu ($0.84 in chips) 
+Seat 6: paylover7777 ($3.51 in chips) 
+magva: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 4s]
+paylover7777: raises $0.04 to $0.06
+lawlex_2: folds 
+leproso3843: folds 
+magva: raises $0.12 to $0.18
+eljouflu: folds 
+paylover7777: calls $0.12
+*** FLOP *** [Jh 4h 2d]
+magva: bets $0.28
+paylover7777: calls $0.28
+*** TURN *** [Jh 4h 2d] [9h]
+magva: bets $0.54
+paylover7777: calls $0.54
+*** RIVER *** [Jh 4h 2d 9h] [9s]
+magva: checks 
+paylover7777: checks 
+*** SHOW DOWN ***
+magva: shows [Qs Qd] (two pair, Queens and Nines)
+paylover7777: mucks hand 
+magva collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2.02 | Rake $0.07 
+Board [Jh 4h 2d 9h 9s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 3: leproso3843 (button) folded before Flop (didn't bet)
+Seat 4: magva (small blind) showed [Qs Qd] and won ($1.95) with two pair, Queens and Nines
+Seat 5: eljouflu (big blind) folded before Flop
+Seat 6: paylover7777 mucked [Jd Qh]
+
+
+
+PokerStars Hand #213474097193:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:21:36 MSK [2020/05/07 22:21:36 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.39 in chips) 
+Seat 2: JLGriffen ($1.47 in chips) 
+Seat 3: leproso3843 ($2.02 in chips) 
+Seat 4: magva ($2.95 in chips) 
+Seat 5: eljouflu ($0.82 in chips) 
+Seat 6: paylover7777 ($2.51 in chips) 
+eljouflu: posts small blind $0.01
+paylover7777: posts big blind $0.02
+JLGriffen: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 2h]
+lawlex_2: folds 
+JLGriffen: checks 
+leproso3843: folds 
+magva: calls $0.02
+eljouflu: calls $0.01
+paylover7777: checks 
+*** FLOP *** [5d Jh Jc]
+eljouflu: checks 
+paylover7777: checks 
+JLGriffen: bets $0.05
+magva: folds 
+eljouflu: calls $0.05
+paylover7777: folds 
+*** TURN *** [5d Jh Jc] [Kc]
+eljouflu: checks 
+JLGriffen: bets $0.02
+eljouflu: raises $0.11 to $0.13
+JLGriffen: folds 
+Uncalled bet ($0.11) returned to eljouflu
+eljouflu collected $0.22 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [5d Jh Jc Kc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: JLGriffen folded on the Turn
+Seat 3: leproso3843 folded before Flop (didn't bet)
+Seat 4: magva (button) folded on the Flop
+Seat 5: eljouflu (small blind) collected ($0.22)
+Seat 6: paylover7777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213474145658:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:22:36 MSK [2020/05/07 22:22:36 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.39 in chips) 
+Seat 2: JLGriffen ($1.37 in chips) 
+Seat 3: leproso3843 ($2.02 in chips) 
+Seat 4: magva ($2.93 in chips) 
+Seat 5: eljouflu ($0.95 in chips) 
+Seat 6: paylover7777 ($2.49 in chips) 
+paylover7777: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 4h]
+JLGriffen: calls $0.02
+leproso3843: folds 
+magva: calls $0.02
+eljouflu: calls $0.02
+paylover7777: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Kh Ad Js]
+paylover7777: checks 
+lawlex_2: checks 
+JLGriffen: checks 
+magva: checks 
+eljouflu: checks 
+*** TURN *** [Kh Ad Js] [4d]
+paylover7777: checks 
+lawlex_2: checks 
+JLGriffen: checks 
+magva: checks 
+eljouflu: bets $0.04
+paylover7777: folds 
+lawlex_2: folds 
+JLGriffen: folds 
+magva: folds 
+Uncalled bet ($0.04) returned to eljouflu
+eljouflu collected $0.10 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Kh Ad Js 4d]
+Seat 1: lawlex_2 (big blind) folded on the Turn
+Seat 2: JLGriffen folded on the Turn
+Seat 3: leproso3843 folded before Flop (didn't bet)
+Seat 4: magva folded on the Turn
+Seat 5: eljouflu (button) collected ($0.10)
+Seat 6: paylover7777 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213474201390:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:23:52 MSK [2020/05/07 22:23:52 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.37 in chips) 
+Seat 2: JLGriffen ($1.35 in chips) 
+Seat 3: leproso3843 ($2.02 in chips) 
+Seat 4: magva ($2.91 in chips) 
+Seat 5: eljouflu ($1.03 in chips) 
+Seat 6: paylover7777 ($2.47 in chips) 
+lawlex_2: posts small blind $0.01
+JLGriffen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Jh]
+leproso3843: folds 
+magva: folds 
+eljouflu: folds 
+paylover7777: raises $0.02 to $0.04
+lawlex_2: folds 
+JLGriffen: calls $0.02
+*** FLOP *** [Jc 2s Kh]
+JLGriffen: bets $0.05
+paylover7777: folds 
+Uncalled bet ($0.05) returned to JLGriffen
+JLGriffen collected $0.09 from pot
+JLGriffen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Jc 2s Kh]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: JLGriffen (big blind) collected ($0.09)
+Seat 3: leproso3843 folded before Flop (didn't bet)
+Seat 4: magva folded before Flop (didn't bet)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: paylover7777 (button) folded on the Flop
+
+
+
+PokerStars Hand #213474218596:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:24:19 MSK [2020/05/07 22:24:19 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.36 in chips) 
+Seat 2: JLGriffen ($1.40 in chips) 
+Seat 3: leproso3843 ($2.02 in chips) 
+Seat 4: magva ($2.91 in chips) 
+Seat 5: eljouflu ($1.03 in chips) 
+Seat 6: paylover7777 ($2.43 in chips) 
+JLGriffen: posts small blind $0.01
+leproso3843: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Kd]
+magva: folds 
+eljouflu: folds 
+paylover7777: raises $0.02 to $0.04
+lawlex_2: calls $0.04
+JLGriffen: calls $0.03
+leproso3843: calls $0.02
+*** FLOP *** [Kc 9d Qd]
+JLGriffen: checks 
+leproso3843: checks 
+paylover7777: checks 
+lawlex_2: bets $0.10
+JLGriffen: folds 
+leproso3843: folds 
+paylover7777: folds 
+Uncalled bet ($0.10) returned to lawlex_2
+lawlex_2 collected $0.15 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Kc 9d Qd]
+Seat 1: lawlex_2 (button) collected ($0.15)
+Seat 2: JLGriffen (small blind) folded on the Flop
+Seat 3: leproso3843 (big blind) folded on the Flop
+Seat 4: magva folded before Flop (didn't bet)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: paylover7777 folded on the Flop
+
+
+
+PokerStars Hand #213474239067:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:24:51 MSK [2020/05/07 22:24:51 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.47 in chips) 
+Seat 2: JLGriffen ($1.36 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 4: magva ($2.91 in chips) 
+Seat 5: eljouflu ($1.03 in chips) 
+Seat 6: paylover7777 ($2.39 in chips) 
+leproso3843: posts small blind $0.01
+magva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 2c]
+eljouflu: folds 
+paylover7777: folds 
+lawlex_2: folds 
+JLGriffen: raises $0.02 to $0.04
+leproso3843: folds 
+magva: raises $0.16 to $0.20
+JLGriffen: folds 
+Uncalled bet ($0.16) returned to magva
+magva collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: JLGriffen (button) folded before Flop
+Seat 3: leproso3843 (small blind) folded before Flop
+Seat 4: magva (big blind) collected ($0.09)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: paylover7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474251635:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:25:10 MSK [2020/05/07 22:25:10 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.47 in chips) 
+Seat 2: JLGriffen ($1.32 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 4: magva ($2.96 in chips) 
+Seat 5: eljouflu ($1.03 in chips) 
+Seat 6: paylover7777 ($2.39 in chips) 
+magva: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 3c]
+paylover7777: folds 
+lawlex_2: folds 
+JLGriffen: folds 
+leproso3843: raises $0.04 to $0.06
+magva: raises $0.12 to $0.18
+eljouflu: folds 
+leproso3843: folds 
+Uncalled bet ($0.12) returned to magva
+magva collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: JLGriffen folded before Flop (didn't bet)
+Seat 3: leproso3843 (button) folded before Flop
+Seat 4: magva (small blind) collected ($0.14)
+Seat 5: eljouflu (big blind) folded before Flop
+Seat 6: paylover7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474263205:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:25:28 MSK [2020/05/07 22:25:28 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.47 in chips) 
+Seat 2: JLGriffen ($1.32 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 4: magva ($3.04 in chips) 
+Seat 5: eljouflu ($1.01 in chips) 
+Seat 6: paylover7777 ($2.39 in chips) 
+eljouflu: posts small blind $0.01
+paylover7777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Ac]
+lawlex_2: raises $0.04 to $0.06
+JLGriffen: folds 
+leproso3843: folds 
+magva: folds 
+eljouflu: folds 
+paylover7777: calls $0.04
+*** FLOP *** [Ad 4s 6h]
+paylover7777: checks 
+lawlex_2: checks 
+*** TURN *** [Ad 4s 6h] [Jc]
+paylover7777: bets $0.04
+lawlex_2: raises $0.14 to $0.18
+paylover7777: calls $0.14
+*** RIVER *** [Ad 4s 6h Jc] [Ks]
+paylover7777: checks 
+lawlex_2: bets $0.31
+paylover7777: folds 
+Uncalled bet ($0.31) returned to lawlex_2
+lawlex_2 collected $0.47 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Ad 4s 6h Jc Ks]
+Seat 1: lawlex_2 collected ($0.47)
+Seat 2: JLGriffen folded before Flop (didn't bet)
+Seat 3: leproso3843 folded before Flop (didn't bet)
+Seat 4: magva (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) folded before Flop
+Seat 6: paylover7777 (big blind) folded on the River
+
+
+
+PokerStars Hand #213474293269:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:26:15 MSK [2020/05/07 22:26:15 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.70 in chips) 
+Seat 2: JLGriffen ($1.32 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 4: magva ($3.04 in chips) 
+Seat 5: eljouflu ($1 in chips) 
+Seat 6: paylover7777 ($2.15 in chips) 
+paylover7777: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 2c]
+JLGriffen: calls $0.02
+leproso3843: raises $0.06 to $0.08
+magva: folds 
+eljouflu: folds 
+paylover7777: folds 
+lawlex_2: folds 
+JLGriffen: calls $0.06
+*** FLOP *** [5s As 8s]
+JLGriffen: bets $0.09
+paylover7777 leaves the table
+leproso3843: calls $0.09
+*** TURN *** [5s As 8s] [9d]
+JLGriffen: bets $0.18
+leproso3843: folds 
+Uncalled bet ($0.18) returned to JLGriffen
+JLGriffen collected $0.36 from pot
+JLGriffen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [5s As 8s 9d]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: JLGriffen collected ($0.36)
+Seat 3: leproso3843 folded on the Turn
+Seat 4: magva folded before Flop (didn't bet)
+Seat 5: eljouflu (button) folded before Flop (didn't bet)
+Seat 6: paylover7777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213474317604:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:26:53 MSK [2020/05/07 22:26:53 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.68 in chips) 
+Seat 2: JLGriffen ($1.51 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 4: magva ($3.04 in chips) 
+Seat 5: eljouflu ($1 in chips) 
+JLGriffen: posts small blind $0.01
+leproso3843: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Ts]
+magva: raises $0.04 to $0.06
+eljouflu: folds 
+lawlex_2: folds 
+JLGriffen: folds 
+leproso3843: folds 
+Uncalled bet ($0.04) returned to magva
+magva collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: JLGriffen (small blind) folded before Flop
+Seat 3: leproso3843 (big blind) folded before Flop
+Seat 4: magva collected ($0.05)
+Seat 5: eljouflu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474324517:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:27:04 MSK [2020/05/07 22:27:04 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.68 in chips) 
+Seat 2: JLGriffen ($1.50 in chips) 
+Seat 3: leproso3843 ($2 in chips) 
+Seat 4: magva ($3.07 in chips) 
+Seat 5: eljouflu ($1 in chips) 
+leproso3843: posts small blind $0.01
+magva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Jc]
+eljouflu: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+JLGriffen: calls $0.02
+leproso3843: raises $0.06 to $0.08
+magva: folds 
+JLGriffen: folds 
+Uncalled bet ($0.06) returned to leproso3843
+leproso3843 collected $0.06 from pot
+leproso3843: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: JLGriffen (button) folded before Flop
+Seat 3: leproso3843 (small blind) collected ($0.06)
+Seat 4: magva (big blind) folded before Flop
+Seat 5: eljouflu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474374853:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:28:23 MSK [2020/05/07 22:28:23 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.68 in chips) 
+Seat 3: leproso3843 ($2.18 in chips) 
+Seat 4: magva ($3.11 in chips) 
+Seat 5: eljouflu ($0.97 in chips) 
+Seat 6: Mudder1975 ($1.94 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Kh]
+leproso3843: folds 
+magva: raises $0.04 to $0.06
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to magva
+magva collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 3: leproso3843 folded before Flop (didn't bet)
+Seat 4: magva collected ($0.05)
+Seat 5: eljouflu (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213474391608:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:28:49 MSK [2020/05/07 22:28:49 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.66 in chips) 
+Seat 4: magva ($3.14 in chips) 
+Seat 5: eljouflu ($0.97 in chips) 
+Seat 6: Mudder1975 ($1.93 in chips) 
+lawlex_2: posts small blind $0.01
+leproso3843: is sitting out 
+magva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 8c]
+leproso3843 leaves the table
+eljouflu: calls $0.02
+Mudder1975: calls $0.02
+lawlex_2: folds 
+magva: checks 
+*** FLOP *** [Js 6h 4d]
+magva: checks 
+eljouflu: bets $0.04
+Mudder1975: folds 
+magva: folds 
+Uncalled bet ($0.04) returned to eljouflu
+eljouflu collected $0.07 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Js 6h 4d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 4: magva (big blind) folded on the Flop
+Seat 5: eljouflu collected ($0.07)
+Seat 6: Mudder1975 (button) folded on the Flop
+
+
+
+PokerStars Hand #213474410177:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:29:18 MSK [2020/05/07 22:29:18 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.65 in chips) 
+Seat 5: eljouflu ($1.02 in chips) 
+Seat 6: Mudder1975 ($1.91 in chips) 
+magva: is sitting out 
+magva leaves the table
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 8c]
+lawlex_2: folds 
+eljouflu: raises $0.02 to $0.04
+Mudder1975: calls $0.02
+*** FLOP *** [6d 2s 3h]
+eljouflu: checks 
+Mudder1975: checks 
+*** TURN *** [6d 2s 3h] [9d]
+eljouflu: bets $0.04
+Mudder1975: calls $0.04
+*** RIVER *** [6d 2s 3h 9d] [Ah]
+eljouflu: bets $0.08
+Mudder1975: folds 
+Uncalled bet ($0.08) returned to eljouflu
+eljouflu collected $0.15 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6d 2s 3h 9d Ah]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) collected ($0.15)
+Seat 6: Mudder1975 (big blind) folded on the River
+
+
+
+PokerStars Hand #213474425964:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:29:43 MSK [2020/05/07 22:29:43 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.65 in chips) 
+Seat 5: eljouflu ($1.09 in chips) 
+Seat 6: Mudder1975 ($1.83 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc Th]
+eljouflu: calls $0.02
+Mudder1975: calls $0.01
+ANSHE96 joins the table at seat #4 
+lawlex_2: raises $0.04 to $0.06
+eljouflu: calls $0.04
+Mudder1975: calls $0.04
+*** FLOP *** [5h Qh 6c]
+Mudder1975: checks 
+lawlex_2: checks 
+eljouflu: checks 
+*** TURN *** [5h Qh 6c] [2c]
+Mudder1975: checks 
+lawlex_2: bets $0.11
+eljouflu: calls $0.11
+Mudder1975: folds 
+*** RIVER *** [5h Qh 6c 2c] [Ah]
+lawlex_2: checks 
+cambaguaso joins the table at seat #2 
+eljouflu: bets $0.20
+lawlex_2: folds 
+Uncalled bet ($0.20) returned to eljouflu
+eljouflu collected $0.39 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [5h Qh 6c 2c Ah]
+Seat 1: lawlex_2 (big blind) folded on the River
+Seat 5: eljouflu (button) collected ($0.39)
+Seat 6: Mudder1975 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213474460430:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:30:31 MSK [2020/05/07 22:30:31 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.48 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 4: ANSHE96 ($2 in chips) 
+Seat 5: eljouflu ($1.31 in chips) 
+Seat 6: Mudder1975 ($1.77 in chips) 
+lawlex_2: posts small blind $0.01
+cambaguaso: posts big blind $0.02
+ANSHE96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Qd]
+BrunoPelli14 joins the table at seat #3 
+ANSHE96: checks 
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+cambaguaso: folds 
+ANSHE96: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.06 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: lawlex_2 (small blind) collected ($0.06)
+Seat 2: cambaguaso (big blind) folded before Flop
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474472769:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:30:51 MSK [2020/05/07 22:30:51 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.52 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($0.98 in chips) 
+Seat 4: ANSHE96 ($1.98 in chips) 
+Seat 5: eljouflu ($1.31 in chips) 
+Seat 6: Mudder1975 ($1.77 in chips) 
+cambaguaso: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Qs]
+ANSHE96: folds 
+eljouflu: raises $0.02 to $0.04
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: folds 
+Uncalled bet ($0.02) returned to eljouflu
+eljouflu collected $0.05 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: cambaguaso (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 5: eljouflu collected ($0.05)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474486165:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:31:12 MSK [2020/05/07 22:31:12 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.52 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($0.96 in chips) 
+Seat 4: ANSHE96 ($1.98 in chips) 
+Seat 5: eljouflu ($1.34 in chips) 
+Seat 6: Mudder1975 ($1.77 in chips) 
+BrunoPelli14: posts small blind $0.01
+ANSHE96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 7h]
+eljouflu: folds 
+Mudder1975: calls $0.02
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: checks 
+*** FLOP *** [As 8d 4s]
+ANSHE96: checks 
+Mudder1975: checks 
+*** TURN *** [As 8d 4s] [3d]
+ANSHE96: checks 
+Mudder1975: checks 
+*** RIVER *** [As 8d 4s 3d] [5h]
+ANSHE96: bets $0.03
+Mudder1975: folds 
+Uncalled bet ($0.03) returned to ANSHE96
+ANSHE96 collected $0.05 from pot
+ANSHE96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As 8d 4s 3d 5h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso (button) folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: ANSHE96 (big blind) collected ($0.05)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded on the River
+
+
+
+PokerStars Hand #213474500963:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:31:36 MSK [2020/05/07 22:31:36 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.52 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($0.95 in chips) 
+Seat 4: ANSHE96 ($2.01 in chips) 
+Seat 5: eljouflu ($1.34 in chips) 
+Seat 6: Mudder1975 ($1.75 in chips) 
+ANSHE96: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 3s]
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: raises $0.03 to $0.05
+ANSHE96: folds 
+eljouflu: calls $0.03
+*** FLOP *** [8d Ah Kh]
+eljouflu: checks 
+BrunoPelli14: bets $0.04
+eljouflu: calls $0.04
+*** TURN *** [8d Ah Kh] [Jd]
+eljouflu: checks 
+BrunoPelli14: checks 
+*** RIVER *** [8d Ah Kh Jd] [Jc]
+eljouflu: bets $0.04
+BrunoPelli14: calls $0.04
+*** SHOW DOWN ***
+eljouflu: shows [Ac 7s] (two pair, Aces and Jacks)
+BrunoPelli14: mucks hand 
+eljouflu collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8d Ah Kh Jd Jc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) mucked [8s 6s]
+Seat 4: ANSHE96 (small blind) folded before Flop
+Seat 5: eljouflu (big blind) showed [Ac 7s] and won ($0.26) with two pair, Aces and Jacks
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474523379:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:32:11 MSK [2020/05/07 22:32:11 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.52 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($0.82 in chips) 
+Seat 4: ANSHE96 ($2 in chips) 
+Seat 5: eljouflu ($1.47 in chips) 
+Seat 6: Mudder1975 ($1.75 in chips) 
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 2d]
+lawlex_2: folds 
+cambaguaso: raises $0.04 to $0.06
+BrunoPelli14: raises $0.12 to $0.18
+ANSHE96: folds 
+eljouflu: folds 
+Mudder1975: folds 
+cambaguaso: folds 
+Uncalled bet ($0.12) returned to BrunoPelli14
+BrunoPelli14 collected $0.15 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso folded before Flop
+Seat 3: BrunoPelli14 collected ($0.15)
+Seat 4: ANSHE96 (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) folded before Flop
+Seat 6: Mudder1975 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213474550907:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:32:55 MSK [2020/05/07 22:32:55 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.52 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($0.91 in chips) 
+Seat 4: ANSHE96 ($2 in chips) 
+Seat 5: eljouflu ($1.46 in chips) 
+Seat 6: Mudder1975 ($1.73 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 4c]
+cambaguaso: folds 
+BrunoPelli14: raises $0.04 to $0.06
+ANSHE96: calls $0.06
+eljouflu: folds 
+Mudder1975: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [6c 9d Kc]
+Mudder1975: bets $0.02
+BrunoPelli14: raises $0.08 to $0.10
+ANSHE96: calls $0.10
+Mudder1975: folds 
+*** TURN *** [6c 9d Kc] [8c]
+BrunoPelli14: bets $0.10
+ANSHE96: calls $0.10
+*** RIVER *** [6c 9d Kc 8c] [Jc]
+BrunoPelli14: checks 
+ANSHE96: bets $0.60
+BrunoPelli14: folds 
+Uncalled bet ($0.60) returned to ANSHE96
+ANSHE96 collected $0.60 from pot
+ANSHE96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [6c 9d Kc 8c Jc]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded on the River
+Seat 4: ANSHE96 collected ($0.60)
+Seat 5: eljouflu (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213474602024:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:33:54 MSK [2020/05/07 22:33:54 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.50 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($0.65 in chips) 
+Seat 4: ANSHE96 ($2.34 in chips) 
+Seat 5: eljouflu ($1.46 in chips) 
+Seat 6: Mudder1975 ($1.65 in chips) 
+lawlex_2: posts small blind $0.01
+cambaguaso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 9s]
+BrunoPelli14: raises $0.04 to $0.06
+ANSHE96: calls $0.06
+eljouflu: calls $0.06
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: folds 
+*** FLOP *** [2c 8h Qh]
+BrunoPelli14: checks 
+ANSHE96: bets $0.06
+eljouflu: calls $0.06
+BrunoPelli14: folds 
+*** TURN *** [2c 8h Qh] [Ah]
+ANSHE96: checks 
+eljouflu: checks 
+*** RIVER *** [2c 8h Qh Ah] [Js]
+ANSHE96: bets $0.16
+eljouflu: calls $0.16
+*** SHOW DOWN ***
+ANSHE96: shows [Tc Qc] (a pair of Queens)
+eljouflu: shows [Jh Jd] (three of a kind, Jacks)
+eljouflu collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [2c 8h Qh Ah Js]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: cambaguaso (big blind) folded before Flop
+Seat 3: BrunoPelli14 folded on the Flop
+Seat 4: ANSHE96 showed [Tc Qc] and lost with a pair of Queens
+Seat 5: eljouflu showed [Jh Jd] and won ($0.63) with three of a kind, Jacks
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474629485:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:34:38 MSK [2020/05/07 22:34:38 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.49 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($0.59 in chips) 
+Seat 4: ANSHE96 ($2.06 in chips) 
+Seat 5: eljouflu ($1.81 in chips) 
+Seat 6: Mudder1975 ($1.65 in chips) 
+cambaguaso: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 5d]
+ANSHE96: folds 
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+cambaguaso: folds 
+BrunoPelli14: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) collected ($0.05)
+Seat 2: cambaguaso (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474649531:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:35:09 MSK [2020/05/07 22:35:09 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.52 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($0.57 in chips) 
+Seat 4: ANSHE96 ($2.06 in chips) 
+Seat 5: eljouflu ($1.81 in chips) 
+Seat 6: Mudder1975 ($1.65 in chips) 
+BrunoPelli14: posts small blind $0.01
+ANSHE96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Ts]
+eljouflu: calls $0.02
+Mudder1975: calls $0.02
+lawlex_2: raises $0.09 to $0.11
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+eljouflu: folds 
+Mudder1975: calls $0.09
+*** FLOP *** [Qh Ks 4d]
+Mudder1975: bets $0.02
+lawlex_2: raises $0.20 to $0.22
+Mudder1975: folds 
+Uncalled bet ($0.20) returned to lawlex_2
+lawlex_2 collected $0.30 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Qh Ks 4d]
+Seat 1: lawlex_2 collected ($0.30)
+Seat 2: cambaguaso (button) folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: ANSHE96 (big blind) folded before Flop
+Seat 5: eljouflu folded before Flop
+Seat 6: Mudder1975 folded on the Flop
+
+
+
+PokerStars Hand #213474673638:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:35:48 MSK [2020/05/07 22:35:48 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.69 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.56 in chips) 
+Seat 4: ANSHE96 ($2.04 in chips) 
+Seat 5: eljouflu ($1.79 in chips) 
+Seat 6: Mudder1975 ($1.52 in chips) 
+ANSHE96: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Th]
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: calls $0.05
+eljouflu: calls $0.04
+*** FLOP *** [5d 4s Kh]
+ANSHE96: checks 
+eljouflu: checks 
+lawlex_2: checks 
+*** TURN *** [5d 4s Kh] [4c]
+ANSHE96: checks 
+eljouflu: checks 
+lawlex_2: bets $0.11
+ANSHE96: folds 
+eljouflu: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.17 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5d 4s Kh 4c]
+Seat 1: lawlex_2 collected ($0.17)
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: ANSHE96 (small blind) folded on the Turn
+Seat 5: eljouflu (big blind) folded on the Turn
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474706387:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:36:40 MSK [2020/05/07 22:36:40 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.80 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.56 in chips) 
+Seat 4: ANSHE96 ($1.98 in chips) 
+Seat 5: eljouflu ($1.73 in chips) 
+Seat 6: Mudder1975 ($1.52 in chips) 
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 2d]
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+eljouflu: calls $0.01
+Mudder1975: checks 
+*** FLOP *** [6h Jc 6s]
+eljouflu: checks 
+Mudder1975: checks 
+*** TURN *** [6h Jc 6s] [5s]
+eljouflu: bets $0.02
+Mudder1975: calls $0.02
+*** RIVER *** [6h Jc 6s 5s] [Qc]
+eljouflu: bets $0.02
+Mudder1975: folds 
+Uncalled bet ($0.02) returned to eljouflu
+eljouflu collected $0.08 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [6h Jc 6s 5s Qc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) collected ($0.08)
+Seat 6: Mudder1975 (big blind) folded on the River
+
+
+
+PokerStars Hand #213474721973:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:37:05 MSK [2020/05/07 22:37:05 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.80 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.56 in chips) 
+Seat 4: ANSHE96 ($1.98 in chips) 
+Seat 5: eljouflu ($1.77 in chips) 
+Seat 6: Mudder1975 ($1.48 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 4s]
+cambaguaso: folds 
+BrunoPelli14: raises $0.04 to $0.06
+ANSHE96: folds 
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to BrunoPelli14
+BrunoPelli14 collected $0.05 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 collected ($0.05)
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 5: eljouflu (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213474737122:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:37:30 MSK [2020/05/07 22:37:30 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.78 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.59 in chips) 
+Seat 4: ANSHE96 ($1.98 in chips) 
+Seat 5: eljouflu ($1.77 in chips) 
+Seat 6: Mudder1975 ($1.47 in chips) 
+lawlex_2: posts small blind $0.01
+cambaguaso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 5c]
+BrunoPelli14: folds 
+ANSHE96: folds 
+eljouflu: folds 
+Mudder1975: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+cambaguaso: folds 
+Mudder1975: calls $0.04
+*** FLOP *** [2d 5d 5h]
+lawlex_2: checks 
+Mudder1975: checks 
+*** TURN *** [2d 5d 5h] [6d]
+lawlex_2: checks 
+Mudder1975: checks 
+*** RIVER *** [2d 5d 5h 6d] [9h]
+lawlex_2: bets $0.09
+Mudder1975: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2d 5d 5h 6d 9h]
+Seat 1: lawlex_2 (small blind) collected ($0.14)
+Seat 2: cambaguaso (big blind) folded before Flop
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded on the River
+
+
+
+PokerStars Hand #213474754591:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:37:58 MSK [2020/05/07 22:37:58 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.86 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.59 in chips) 
+Seat 4: ANSHE96 ($1.98 in chips) 
+Seat 5: eljouflu ($1.77 in chips) 
+Seat 6: Mudder1975 ($1.41 in chips) 
+cambaguaso: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 2d]
+ANSHE96: raises $0.04 to $0.06
+eljouflu: folds 
+Mudder1975: calls $0.06
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: folds 
+*** FLOP *** [6h Tc 4h]
+ANSHE96: bets $0.06
+Mudder1975: calls $0.06
+*** TURN *** [6h Tc 4h] [9d]
+ANSHE96: checks 
+Mudder1975: checks 
+*** RIVER *** [6h Tc 4h 9d] [8s]
+ANSHE96: bets $0.74
+Mudder1975: folds 
+Uncalled bet ($0.74) returned to ANSHE96
+ANSHE96 collected $0.26 from pot
+ANSHE96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6h Tc 4h 9d 8s]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: cambaguaso (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: ANSHE96 collected ($0.26)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded on the River
+
+
+
+PokerStars Hand #213474791793:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:38:54 MSK [2020/05/07 22:38:54 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.86 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.57 in chips) 
+Seat 4: ANSHE96 ($2.12 in chips) 
+Seat 5: eljouflu ($1.77 in chips) 
+Seat 6: Mudder1975 ($1.29 in chips) 
+BrunoPelli14: posts small blind $0.01
+ANSHE96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 7s]
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: raises $0.04 to $0.06
+ANSHE96: calls $0.04
+*** FLOP *** [4d As 6s]
+BrunoPelli14: bets $0.06
+ANSHE96: calls $0.06
+*** TURN *** [4d As 6s] [Ah]
+BrunoPelli14: bets $0.12
+ANSHE96: folds 
+Uncalled bet ($0.12) returned to BrunoPelli14
+BrunoPelli14 collected $0.23 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4d As 6s Ah]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso (button) folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (small blind) collected ($0.23)
+Seat 4: ANSHE96 (big blind) folded on the Turn
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474814616:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:39:31 MSK [2020/05/07 22:39:31 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.86 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.68 in chips) 
+Seat 4: ANSHE96 ($2 in chips) 
+Seat 5: eljouflu ($1.77 in chips) 
+Seat 6: Mudder1975 ($1.29 in chips) 
+ANSHE96: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 5s]
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+eljouflu: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: ANSHE96 (small blind) folded before Flop
+Seat 5: eljouflu (big blind) folded before Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474823209:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:39:45 MSK [2020/05/07 22:39:45 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.89 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.68 in chips) 
+Seat 4: ANSHE96 ($1.99 in chips) 
+Seat 5: eljouflu ($1.75 in chips) 
+Seat 6: Mudder1975 ($1.29 in chips) 
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 8h]
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+eljouflu: calls $0.01
+Mudder1975: raises $0.02 to $0.04
+eljouflu: calls $0.02
+*** FLOP *** [Tc 6d Qd]
+eljouflu: checks 
+Mudder1975: checks 
+*** TURN *** [Tc 6d Qd] [3h]
+eljouflu: checks 
+Mudder1975: checks 
+*** RIVER *** [Tc 6d Qd 3h] [7h]
+eljouflu: checks 
+Mudder1975: checks 
+*** SHOW DOWN ***
+eljouflu: shows [8s Ks] (high card King)
+Mudder1975: shows [As 5s] (high card Ace)
+Mudder1975 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Tc 6d Qd 3h 7h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) showed [8s Ks] and lost with high card King
+Seat 6: Mudder1975 (big blind) showed [As 5s] and won ($0.08) with high card Ace
+
+
+
+PokerStars Hand #213474840039:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:40:12 MSK [2020/05/07 22:40:12 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.89 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.68 in chips) 
+Seat 4: ANSHE96 ($1.99 in chips) 
+Seat 5: eljouflu ($1.71 in chips) 
+Seat 6: Mudder1975 ($1.33 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 9d]
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: raises $0.04 to $0.06
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [Ac Qc 5d]
+lawlex_2: bets $0.09
+ANSHE96: calls $0.09
+*** TURN *** [Ac Qc 5d] [8s]
+lawlex_2: checks 
+ANSHE96: checks 
+*** RIVER *** [Ac Qc 5d 8s] [Ah]
+lawlex_2: checks 
+ANSHE96: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Jd 9d] (a pair of Aces)
+ANSHE96: shows [Jh Qh] (two pair, Aces and Queens)
+ANSHE96 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Ac Qc 5d 8s Ah]
+Seat 1: lawlex_2 (big blind) showed [Jd 9d] and lost with a pair of Aces
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 showed [Jh Qh] and won ($0.30) with two pair, Aces and Queens
+Seat 5: eljouflu (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213474857375:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:40:40 MSK [2020/05/07 22:40:40 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.74 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.68 in chips) 
+Seat 4: ANSHE96 ($2.14 in chips) 
+Seat 5: eljouflu ($1.71 in chips) 
+Seat 6: Mudder1975 ($1.32 in chips) 
+lawlex_2: posts small blind $0.01
+cambaguaso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 4d]
+BrunoPelli14: raises $0.04 to $0.06
+ANSHE96: folds 
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: folds 
+Uncalled bet ($0.04) returned to BrunoPelli14
+BrunoPelli14 collected $0.05 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: cambaguaso (big blind) folded before Flop
+Seat 3: BrunoPelli14 collected ($0.05)
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474866280:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:40:55 MSK [2020/05/07 22:40:55 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.73 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.71 in chips) 
+Seat 4: ANSHE96 ($2.14 in chips) 
+Seat 5: eljouflu ($1.71 in chips) 
+Seat 6: Mudder1975 ($1.32 in chips) 
+cambaguaso: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 7c]
+ANSHE96: folds 
+eljouflu: raises $0.04 to $0.06
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: folds 
+Uncalled bet ($0.04) returned to eljouflu
+eljouflu collected $0.05 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: cambaguaso (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 5: eljouflu collected ($0.05)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474888893:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:41:25 MSK [2020/05/07 22:41:25 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.73 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.69 in chips) 
+Seat 4: ANSHE96 ($2.14 in chips) 
+Seat 5: eljouflu ($1.74 in chips) 
+Seat 6: Mudder1975 ($1.32 in chips) 
+BrunoPelli14: posts small blind $0.01
+ANSHE96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s Tc]
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: raises $0.04 to $0.06
+ANSHE96: calls $0.04
+*** FLOP *** [7c Kd Qd]
+BrunoPelli14: bets $0.04
+ANSHE96: calls $0.04
+*** TURN *** [7c Kd Qd] [As]
+BrunoPelli14: checks 
+ANSHE96: bets $0.10
+BrunoPelli14: folds 
+Uncalled bet ($0.10) returned to ANSHE96
+ANSHE96 collected $0.19 from pot
+ANSHE96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7c Kd Qd As]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso (button) folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (small blind) folded on the Turn
+Seat 4: ANSHE96 (big blind) collected ($0.19)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474913636:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:42:06 MSK [2020/05/07 22:42:06 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.73 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.59 in chips) 
+Seat 4: ANSHE96 ($2.23 in chips) 
+Seat 6: Mudder1975 ($1.32 in chips) 
+ANSHE96: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Qd]
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+Uncalled bet ($0.01) returned to Mudder1975
+Mudder1975 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: ANSHE96 (small blind) folded before Flop
+Seat 6: Mudder1975 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213474919754:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:42:16 MSK [2020/05/07 22:42:16 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.73 in chips) 
+Seat 2: cambaguaso ($2 in chips) 
+Seat 3: BrunoPelli14 ($1.59 in chips) 
+Seat 4: ANSHE96 ($2.22 in chips) 
+Seat 6: Mudder1975 ($1.33 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d 3h]
+cambaguaso: raises $0.04 to $0.06
+BrunoPelli14: folds 
+ANSHE96: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to cambaguaso
+cambaguaso collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: cambaguaso collected ($0.05)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213474927072:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:42:27 MSK [2020/05/07 22:42:27 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.71 in chips) 
+Seat 2: cambaguaso ($2.03 in chips) 
+Seat 3: BrunoPelli14 ($1.59 in chips) 
+Seat 4: ANSHE96 ($2.22 in chips) 
+Seat 6: Mudder1975 ($1.32 in chips) 
+lawlex_2: posts small blind $0.01
+cambaguaso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s 2c]
+BrunoPelli14: folds 
+ANSHE96: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to cambaguaso
+cambaguaso collected $0.02 from pot
+cambaguaso: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: cambaguaso (big blind) collected ($0.02)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474933650:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:42:38 MSK [2020/05/07 22:42:38 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.70 in chips) 
+Seat 2: cambaguaso ($2.04 in chips) 
+Seat 3: BrunoPelli14 ($1.59 in chips) 
+Seat 4: ANSHE96 ($2.22 in chips) 
+Seat 6: Mudder1975 ($1.32 in chips) 
+cambaguaso: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8s 3s]
+ANSHE96: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: folds 
+Uncalled bet ($0.01) returned to BrunoPelli14
+BrunoPelli14 collected $0.02 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: cambaguaso (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) collected ($0.02)
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213474944169:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:42:55 MSK [2020/05/07 22:42:55 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.70 in chips) 
+Seat 2: cambaguaso ($2.03 in chips) 
+Seat 3: BrunoPelli14 ($1.60 in chips) 
+Seat 4: ANSHE96 ($2.22 in chips) 
+Seat 6: Mudder1975 ($1.32 in chips) 
+BrunoPelli14: posts small blind $0.01
+ANSHE96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Jd]
+Mudder1975: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: calls $0.04
+Mudder1975: calls $0.04
+*** FLOP *** [Kh 4d 8h]
+ANSHE96: checks 
+Mudder1975: checks 
+lawlex_2: checks 
+*** TURN *** [Kh 4d 8h] [6s]
+ANSHE96: checks 
+Mudder1975: checks 
+lawlex_2: checks 
+*** RIVER *** [Kh 4d 8h 6s] [9s]
+ANSHE96: bets $0.09
+Mudder1975: folds 
+lawlex_2: folds 
+Uncalled bet ($0.09) returned to ANSHE96
+ANSHE96 collected $0.18 from pot
+ANSHE96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kh 4d 8h 6s 9s]
+Seat 1: lawlex_2 folded on the River
+Seat 2: cambaguaso (button) folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: ANSHE96 (big blind) collected ($0.18)
+Seat 6: Mudder1975 folded on the River
+
+
+
+PokerStars Hand #213474962562:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:43:25 MSK [2020/05/07 22:43:25 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.64 in chips) 
+Seat 2: cambaguaso ($2.03 in chips) 
+Seat 3: BrunoPelli14 ($1.59 in chips) 
+Seat 4: ANSHE96 ($2.34 in chips) 
+Seat 6: Mudder1975 ($1.26 in chips) 
+ANSHE96: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Kd]
+lawlex_2: raises $0.04 to $0.06
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+Mudder1975: calls $0.04
+*** FLOP *** [3d 4d Ks]
+Mudder1975: bets $0.02
+lawlex_2: calls $0.02
+*** TURN *** [3d 4d Ks] [Js]
+Mudder1975: bets $0.02
+lawlex_2: raises $0.13 to $0.15
+Mudder1975: folds 
+Uncalled bet ($0.13) returned to lawlex_2
+lawlex_2 collected $0.20 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3d 4d Ks Js]
+Seat 1: lawlex_2 collected ($0.20)
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: ANSHE96 (small blind) folded before Flop
+Seat 6: Mudder1975 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213474982115:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:43:57 MSK [2020/05/07 22:43:57 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.74 in chips) 
+Seat 2: cambaguaso ($2.03 in chips) 
+Seat 3: BrunoPelli14 ($1.59 in chips) 
+Seat 4: ANSHE96 ($2.33 in chips) 
+Seat 6: Mudder1975 ($1.16 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 4h]
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+Mudder1975: raises $0.02 to $0.04
+lawlex_2: calls $0.02
+*** FLOP *** [2s Qh 9d]
+Mudder1975: bets $0.02
+lawlex_2: calls $0.02
+*** TURN *** [2s Qh 9d] [Kc]
+Mudder1975: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to Mudder1975
+Mudder1975 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2s Qh 9d Kc]
+Seat 1: lawlex_2 (big blind) folded on the Turn
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #213474996565:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:44:21 MSK [2020/05/07 22:44:21 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.68 in chips) 
+Seat 2: cambaguaso ($2.03 in chips) 
+Seat 3: BrunoPelli14 ($1.59 in chips) 
+Seat 4: ANSHE96 ($2.33 in chips) 
+Seat 6: Mudder1975 ($1.22 in chips) 
+lawlex_2: posts small blind $0.01
+cambaguaso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 6c]
+BrunoPelli14: folds 
+ANSHE96: folds 
+Mudder1975: calls $0.02
+lawlex_2: folds 
+cambaguaso: raises $0.16 to $0.18
+Mudder1975: folds 
+Uncalled bet ($0.16) returned to cambaguaso
+cambaguaso collected $0.05 from pot
+cambaguaso: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: cambaguaso (big blind) collected ($0.05)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded before Flop
+
+
+
+PokerStars Hand #213475009344:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:44:39 MSK [2020/05/07 22:44:39 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.67 in chips) 
+Seat 2: cambaguaso ($2.06 in chips) 
+Seat 3: BrunoPelli14 ($1.59 in chips) 
+Seat 4: ANSHE96 ($2.33 in chips) 
+Seat 6: Mudder1975 ($1.20 in chips) 
+cambaguaso: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 8h]
+ANSHE96: calls $0.02
+Mudder1975: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: calls $0.04
+Mudder1975: calls $0.04
+*** FLOP *** [4h 3c 8c]
+ANSHE96: bets $0.10
+Mudder1975: folds 
+lawlex_2: calls $0.10
+*** TURN *** [4h 3c 8c] [Td]
+ANSHE96: bets $0.20
+lawlex_2: calls $0.20
+*** RIVER *** [4h 3c 8c Td] [4d]
+ANSHE96: bets $0.78
+lawlex_2: calls $0.78
+*** SHOW DOWN ***
+ANSHE96: shows [3s 3d] (a full house, Threes full of Fours)
+lawlex_2: mucks hand 
+ANSHE96 collected $2.29 from pot
+*** SUMMARY ***
+Total pot $2.37 | Rake $0.08 
+Board [4h 3c 8c Td 4d]
+Seat 1: lawlex_2 (button) mucked [9h 8h]
+Seat 2: cambaguaso (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: ANSHE96 showed [3s 3d] and won ($2.29) with a full house, Threes full of Fours
+Seat 6: Mudder1975 folded on the Flop
+
+
+
+PokerStars Hand #213475041837:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:45:32 MSK [2020/05/07 22:45:32 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.53 in chips) 
+Seat 2: cambaguaso ($2.05 in chips) 
+Seat 3: BrunoPelli14 ($1.57 in chips) 
+Seat 4: ANSHE96 ($3.48 in chips) 
+Seat 6: Mudder1975 ($1.14 in chips) 
+BrunoPelli14: posts small blind $0.01
+ANSHE96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 4d]
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: folds 
+Uncalled bet ($0.01) returned to ANSHE96
+ANSHE96 collected $0.02 from pot
+ANSHE96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso (button) folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: ANSHE96 (big blind) collected ($0.02)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475048497:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:45:43 MSK [2020/05/07 22:45:43 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.53 in chips) 
+Seat 2: cambaguaso ($2.05 in chips) 
+Seat 3: BrunoPelli14 ($1.56 in chips) 
+Seat 4: ANSHE96 ($3.49 in chips) 
+Seat 6: Mudder1975 ($1.14 in chips) 
+ANSHE96: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 6d]
+lawlex_2: folds 
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+Uncalled bet ($0.01) returned to Mudder1975
+Mudder1975 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: ANSHE96 (small blind) folded before Flop
+Seat 6: Mudder1975 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #213475061151:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:45:59 MSK [2020/05/07 22:45:59 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.53 in chips) 
+Seat 2: cambaguaso ($2.05 in chips) 
+Seat 3: BrunoPelli14 ($1.56 in chips) 
+Seat 4: ANSHE96 ($3.48 in chips) 
+Seat 6: Mudder1975 ($1.15 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 4c]
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+Mudder1975: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [8s 6h 7d]
+Mudder1975: checks 
+lawlex_2: bets $0.04
+Mudder1975: calls $0.04
+*** TURN *** [8s 6h 7d] [Qd]
+Mudder1975: checks 
+lawlex_2: bets $0.12
+Mudder1975: folds 
+Uncalled bet ($0.12) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8s 6h 7d Qd]
+Seat 1: lawlex_2 (big blind) collected ($0.12)
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213475076934:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:46:25 MSK [2020/05/07 22:46:25 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.59 in chips) 
+Seat 2: cambaguaso ($2.05 in chips) 
+Seat 3: BrunoPelli14 ($1.56 in chips) 
+Seat 4: ANSHE96 ($3.48 in chips) 
+Seat 6: Mudder1975 ($1.09 in chips) 
+lawlex_2: posts small blind $0.01
+cambaguaso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 8d]
+BrunoPelli14: folds 
+ANSHE96: raises $0.02 to $0.04
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: folds 
+Uncalled bet ($0.02) returned to ANSHE96
+ANSHE96 collected $0.05 from pot
+ANSHE96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: cambaguaso (big blind) folded before Flop
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 collected ($0.05)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475084234:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:46:37 MSK [2020/05/07 22:46:37 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.58 in chips) 
+Seat 2: cambaguaso ($2.03 in chips) 
+Seat 3: BrunoPelli14 ($1.56 in chips) 
+Seat 4: ANSHE96 ($3.51 in chips) 
+Seat 6: Mudder1975 ($1.09 in chips) 
+cambaguaso: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Qd]
+ANSHE96: folds 
+Mudder1975: folds 
+lawlex_2: calls $0.02
+cambaguaso: folds 
+BrunoPelli14: checks 
+*** FLOP *** [Ad Jh 2h]
+BrunoPelli14: checks 
+lawlex_2: bets $0.03
+BrunoPelli14: raises $0.07 to $0.10
+lawlex_2: calls $0.07
+*** TURN *** [Ad Jh 2h] [7h]
+BrunoPelli14: checks 
+lawlex_2: bets $0.16
+BrunoPelli14: folds 
+Uncalled bet ($0.16) returned to lawlex_2
+lawlex_2 collected $0.24 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ad Jh 2h 7h]
+Seat 1: lawlex_2 (button) collected ($0.24)
+Seat 2: cambaguaso (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded on the Turn
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475104885:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:47:10 MSK [2020/05/07 22:47:10 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.70 in chips) 
+Seat 2: cambaguaso ($2.02 in chips) 
+Seat 3: BrunoPelli14 ($1.44 in chips) 
+Seat 4: ANSHE96 ($3.51 in chips) 
+Seat 6: Mudder1975 ($1.09 in chips) 
+BrunoPelli14: posts small blind $0.01
+ANSHE96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 5s]
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: raises $0.03 to $0.05
+BrunoPelli14: raises $0.11 to $0.16
+ANSHE96: folds 
+cambaguaso: raises $0.25 to $0.41
+BrunoPelli14: folds 
+Uncalled bet ($0.25) returned to cambaguaso
+cambaguaso collected $0.34 from pot
+cambaguaso: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso (button) collected ($0.34)
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: ANSHE96 (big blind) folded before Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475136280:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:48:03 MSK [2020/05/07 22:48:03 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.70 in chips) 
+Seat 2: cambaguaso ($2.20 in chips) 
+Seat 3: BrunoPelli14 ($1.28 in chips) 
+Seat 4: ANSHE96 ($3.49 in chips) 
+Seat 5: eljouflu ($1.74 in chips) 
+Seat 6: Mudder1975 ($1.09 in chips) 
+ANSHE96: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Kd]
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: calls $0.05
+eljouflu: folds 
+*** FLOP *** [9s Tc 2h]
+ANSHE96: checks 
+lawlex_2: checks 
+*** TURN *** [9s Tc 2h] [6c]
+ANSHE96: checks 
+lawlex_2: checks 
+*** RIVER *** [9s Tc 2h 6c] [4c]
+ANSHE96: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+ANSHE96: shows [Ah 3d] (high card Ace)
+lawlex_2: shows [6d Kd] (a pair of Sixes)
+lawlex_2 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9s Tc 2h 6c 4c]
+Seat 1: lawlex_2 showed [6d Kd] and won ($0.14) with a pair of Sixes
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: ANSHE96 (small blind) showed [Ah 3d] and lost with high card Ace
+Seat 5: eljouflu (big blind) folded before Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475164002:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:48:49 MSK [2020/05/07 22:48:49 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.78 in chips) 
+Seat 2: cambaguaso ($2.20 in chips) 
+Seat 3: BrunoPelli14 ($1.28 in chips) 
+Seat 4: ANSHE96 ($3.43 in chips) 
+Seat 5: eljouflu ($1.72 in chips) 
+Seat 6: Mudder1975 ($1.09 in chips) 
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Jc]
+lawlex_2: calls $0.02
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+eljouflu: folds 
+Mudder1975: checks 
+*** FLOP *** [6d Qs 7h]
+Mudder1975: checks 
+lawlex_2: checks 
+*** TURN *** [6d Qs 7h] [Kh]
+Mudder1975: checks 
+lawlex_2: checks 
+*** RIVER *** [6d Qs 7h Kh] [5s]
+Mudder1975: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Mudder1975: shows [8s 2c] (high card King)
+lawlex_2: shows [Jd Jc] (a pair of Jacks)
+lawlex_2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6d Qs 7h Kh 5s]
+Seat 1: lawlex_2 showed [Jd Jc] and won ($0.05) with a pair of Jacks
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) folded before Flop
+Seat 6: Mudder1975 (big blind) showed [8s 2c] and lost with high card King
+
+
+
+PokerStars Hand #213475191372:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:49:19 MSK [2020/05/07 22:49:19 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($0.81 in chips) 
+Seat 2: cambaguaso ($2.20 in chips) 
+Seat 3: BrunoPelli14 ($1.28 in chips) 
+Seat 4: ANSHE96 ($3.43 in chips) 
+Seat 5: eljouflu ($1.71 in chips) 
+Seat 6: Mudder1975 ($1.07 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 8d]
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: raises $0.02 to $0.04
+eljouflu: raises $0.08 to $0.12
+Mudder1975: folds 
+lawlex_2: folds 
+ANSHE96: calls $0.08
+*** FLOP *** [Th 5d Qh]
+ANSHE96: bets $0.13
+eljouflu: raises $0.52 to $0.65
+ANSHE96: folds 
+Uncalled bet ($0.52) returned to eljouflu
+eljouflu collected $0.51 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Th 5d Qh]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 folded on the Flop
+Seat 5: eljouflu (button) collected ($0.51)
+Seat 6: Mudder1975 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213475212951:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:49:55 MSK [2020/05/07 22:49:55 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.79 in chips) 
+Seat 2: cambaguaso ($2.20 in chips) 
+Seat 3: BrunoPelli14 ($1.28 in chips) 
+Seat 4: ANSHE96 ($3.18 in chips) 
+Seat 5: eljouflu ($1.97 in chips) 
+Seat 6: Mudder1975 ($1.06 in chips) 
+lawlex_2: posts small blind $0.01
+cambaguaso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 9s]
+BrunoPelli14: folds 
+ANSHE96 has timed out
+ANSHE96: folds 
+eljouflu: folds 
+Mudder1975: calls $0.02
+lawlex_2: folds 
+cambaguaso: checks 
+*** FLOP *** [7s 5s Jd]
+cambaguaso: checks 
+Mudder1975: checks 
+*** TURN *** [7s 5s Jd] [Qc]
+cambaguaso: bets $0.03
+Mudder1975: folds 
+Uncalled bet ($0.03) returned to cambaguaso
+cambaguaso collected $0.05 from pot
+cambaguaso: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7s 5s Jd Qc]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: cambaguaso (big blind) collected ($0.05)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 folded before Flop (didn't bet)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded on the Turn
+
+
+
+PokerStars Hand #213475240835:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:50:40 MSK [2020/05/07 22:50:40 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.78 in chips) 
+Seat 2: cambaguaso ($2.23 in chips) 
+Seat 3: BrunoPelli14 ($1.28 in chips) 
+Seat 4: ANSHE96 ($3.18 in chips) 
+Seat 5: eljouflu ($1.97 in chips) 
+Seat 6: Mudder1975 ($1.04 in chips) 
+cambaguaso: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 8h]
+ANSHE96: raises $0.02 to $0.04
+eljouflu: calls $0.04
+Mudder1975: folds 
+lawlex_2: raises $0.15 to $0.19
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+eljouflu: folds 
+Uncalled bet ($0.15) returned to lawlex_2
+lawlex_2 collected $0.15 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: lawlex_2 (button) collected ($0.15)
+Seat 2: cambaguaso (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: ANSHE96 folded before Flop
+Seat 5: eljouflu folded before Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475256257:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:51:06 MSK [2020/05/07 22:51:06 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.89 in chips) 
+Seat 2: cambaguaso ($2.22 in chips) 
+Seat 3: BrunoPelli14 ($1.26 in chips) 
+Seat 4: ANSHE96 ($3.14 in chips) 
+Seat 5: eljouflu ($1.93 in chips) 
+Seat 6: Mudder1975 ($1.04 in chips) 
+BrunoPelli14: posts small blind $0.01
+ANSHE96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 2s]
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+cambaguaso: raises $0.03 to $0.05
+BrunoPelli14: folds 
+ANSHE96: calls $0.03
+*** FLOP *** [5h 8c 5d]
+ANSHE96: checks 
+cambaguaso: bets $0.05
+ANSHE96: folds 
+Uncalled bet ($0.05) returned to cambaguaso
+cambaguaso collected $0.11 from pot
+cambaguaso: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5h 8c 5d]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso (button) collected ($0.11)
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: ANSHE96 (big blind) folded on the Flop
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475276893:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:51:41 MSK [2020/05/07 22:51:41 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.89 in chips) 
+Seat 2: cambaguaso ($2.28 in chips) 
+Seat 3: BrunoPelli14 ($1.25 in chips) 
+Seat 4: ANSHE96 ($3.09 in chips) 
+Seat 5: eljouflu ($1.93 in chips) 
+Seat 6: Mudder1975 ($1.04 in chips) 
+ANSHE96: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Qd]
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+cambaguaso: folds 
+BrunoPelli14: folds 
+ANSHE96: folds 
+eljouflu: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: ANSHE96 (small blind) folded before Flop
+Seat 5: eljouflu (big blind) folded before Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475306526:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:52:21 MSK [2020/05/07 22:52:21 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.92 in chips) 
+Seat 2: cambaguaso ($2.28 in chips) 
+Seat 3: BrunoPelli14 ($1.25 in chips) 
+Seat 4: ANSHE96 ($3.08 in chips) 
+Seat 5: eljouflu ($1.91 in chips) 
+Seat 6: Mudder1975 ($1.04 in chips) 
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Tc]
+lawlex_2: folds 
+cambaguaso: raises $0.04 to $0.06
+BrunoPelli14: folds 
+ANSHE96: folds 
+eljouflu: folds 
+Mudder1975: calls $0.04
+*** FLOP *** [5c 9s 4s]
+Mudder1975: checks 
+ANSHE96 leaves the table
+cambaguaso: bets $0.05
+Mudder1975: calls $0.05
+*** TURN *** [5c 9s 4s] [8s]
+Mudder1975: checks 
+cambaguaso: bets $0.28
+Mudder1975: folds 
+Uncalled bet ($0.28) returned to cambaguaso
+cambaguaso collected $0.22 from pot
+cambaguaso: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [5c 9s 4s 8s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: cambaguaso collected ($0.22)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: ANSHE96 (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) folded before Flop
+Seat 6: Mudder1975 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213475328310:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:52:58 MSK [2020/05/07 22:52:58 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($0.92 in chips) 
+Seat 2: cambaguaso ($2.39 in chips) 
+Seat 3: BrunoPelli14 ($1.25 in chips) 
+Seat 5: eljouflu ($1.90 in chips) 
+Seat 6: Mudder1975 ($0.93 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 4s]
+cambaguaso: folds 
+BrunoPelli14: raises $0.04 to $0.06
+eljouflu: folds 
+TheDoctor1979 joins the table at seat #4 
+Mudder1975: folds 
+lawlex_2: calls $0.04
+*** FLOP *** [5d 2h 2s]
+lawlex_2: checks 
+BrunoPelli14: checks 
+*** TURN *** [5d 2h 2s] [8s]
+lawlex_2: checks 
+BrunoPelli14: checks 
+*** RIVER *** [5d 2h 2s 8s] [7c]
+lawlex_2: checks 
+BrunoPelli14: bets $0.07
+lawlex_2: folds 
+Uncalled bet ($0.07) returned to BrunoPelli14
+BrunoPelli14 collected $0.13 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d 2h 2s 8s 7c]
+Seat 1: lawlex_2 (big blind) folded on the River
+Seat 2: cambaguaso folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 collected ($0.13)
+Seat 5: eljouflu (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213475362266:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:53:54 MSK [2020/05/07 22:53:54 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.86 in chips) 
+Seat 3: BrunoPelli14 ($1.32 in chips) 
+Seat 4: TheDoctor1979 ($2 in chips) 
+Seat 5: eljouflu ($1.90 in chips) 
+Seat 6: Mudder1975 ($0.92 in chips) 
+lawlex_2: posts small blind $0.01
+cambaguaso: is sitting out 
+BrunoPelli14: posts big blind $0.02
+TheDoctor1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 6s]
+TheDoctor1979: checks 
+cambaguaso leaves the table
+eljouflu: calls $0.02
+Mudder1975: folds 
+lawlex_2: folds 
+BrunoPelli14: checks 
+*** FLOP *** [Ah Ts 4s]
+BrunoPelli14: checks 
+TheDoctor1979: checks 
+eljouflu: bets $0.04
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+Uncalled bet ($0.04) returned to eljouflu
+eljouflu collected $0.07 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Ah Ts 4s]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded on the Flop
+Seat 4: TheDoctor1979 folded on the Flop (didn't bet)
+Seat 5: eljouflu collected ($0.07)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475378943:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:54:22 MSK [2020/05/07 22:54:22 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.85 in chips) 
+Seat 3: BrunoPelli14 ($1.30 in chips) 
+Seat 4: TheDoctor1979 ($1.98 in chips) 
+Seat 5: eljouflu ($1.95 in chips) 
+Seat 6: Mudder1975 ($0.92 in chips) 
+BrunoPelli14: posts small blind $0.01
+TheDoctor1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 9h]
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+BrunoPelli14: folds 
+Uncalled bet ($0.01) returned to TheDoctor1979
+TheDoctor1979 collected $0.02 from pot
+TheDoctor1979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: TheDoctor1979 (big blind) collected ($0.02)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475388888:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:54:39 MSK [2020/05/07 22:54:39 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.85 in chips) 
+Seat 3: BrunoPelli14 ($1.29 in chips) 
+Seat 4: TheDoctor1979 ($1.99 in chips) 
+Seat 5: eljouflu ($1.95 in chips) 
+Seat 6: Mudder1975 ($0.92 in chips) 
+TheDoctor1979: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Ks]
+Mudder1975: folds 
+lawlex_2: folds 
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.01
+eljouflu: checks 
+*** FLOP *** [Jc 6d 3h]
+TheDoctor1979: checks 
+eljouflu: checks 
+*** TURN *** [Jc 6d 3h] [5c]
+TheDoctor1979: checks 
+eljouflu: checks 
+*** RIVER *** [Jc 6d 3h 5c] [Js]
+subman77 joins the table at seat #2 
+TheDoctor1979: checks 
+eljouflu: checks 
+subman77 leaves the table
+*** SHOW DOWN ***
+TheDoctor1979: shows [8c Qd] (a pair of Jacks)
+eljouflu: shows [Th Kd] (a pair of Jacks - King kicker)
+eljouflu collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jc 6d 3h 5c Js]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (small blind) showed [8c Qd] and lost with a pair of Jacks
+Seat 5: eljouflu (big blind) showed [Th Kd] and won ($0.04) with a pair of Jacks
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475407977:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:55:12 MSK [2020/05/07 22:55:12 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.85 in chips) 
+Seat 3: BrunoPelli14 ($1.29 in chips) 
+Seat 4: TheDoctor1979 ($1.97 in chips) 
+Seat 5: eljouflu ($1.97 in chips) 
+Seat 6: Mudder1975 ($0.92 in chips) 
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc Ac]
+lawlex_2 has timed out
+lawlex_2: folds 
+BrunoPelli14: raises $0.04 to $0.06
+TheDoctor1979: folds 
+eljouflu: calls $0.05
+Mudder1975: folds 
+*** FLOP *** [9h 4h 2s]
+rodela_silva joins the table at seat #2 
+eljouflu: checks 
+BrunoPelli14: bets $0.05
+eljouflu: calls $0.05
+*** TURN *** [9h 4h 2s] [Kh]
+eljouflu: checks 
+BrunoPelli14: checks 
+*** RIVER *** [9h 4h 2s Kh] [Ad]
+eljouflu: checks 
+BrunoPelli14: checks 
+*** SHOW DOWN ***
+eljouflu: shows [8s 8c] (a pair of Eights)
+BrunoPelli14: shows [Qc Qd] (a pair of Queens)
+BrunoPelli14 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9h 4h 2s Kh Ad]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 showed [Qc Qd] and won ($0.23) with a pair of Queens
+Seat 4: TheDoctor1979 (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) showed [8s 8c] and lost with a pair of Eights
+Seat 6: Mudder1975 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213475423608:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:55:45 MSK [2020/05/07 22:55:45 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($0.85 in chips) 
+Seat 3: BrunoPelli14 ($1.41 in chips) 
+Seat 4: TheDoctor1979 ($1.97 in chips) 
+Seat 5: eljouflu ($1.86 in chips) 
+Seat 6: Mudder1975 ($0.90 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+rodela_silva: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Qs]
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+eljouflu: calls $0.02
+Mudder1975: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Ac 7d Td]
+Mudder1975: checks 
+lawlex_2: checks 
+TheDoctor1979: bets $0.02
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to TheDoctor1979
+TheDoctor1979 collected $0.08 from pot
+TheDoctor1979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ac 7d Td]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 collected ($0.08)
+Seat 5: eljouflu (button) folded on the Flop
+Seat 6: Mudder1975 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213475436553:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:56:13 MSK [2020/05/07 22:56:13 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.83 in chips) 
+Seat 2: rodela_silva ($0.80 in chips) 
+Seat 3: BrunoPelli14 ($1.41 in chips) 
+Seat 4: TheDoctor1979 ($2.03 in chips) 
+Seat 5: eljouflu ($1.84 in chips) 
+Seat 6: Mudder1975 ($0.88 in chips) 
+lawlex_2: posts small blind $0.01
+rodela_silva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Qd]
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+eljouflu: calls $0.02
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: checks 
+*** FLOP *** [Tc 7d 9h]
+rodela_silva: checks 
+TheDoctor1979: checks 
+eljouflu: checks 
+*** TURN *** [Tc 7d 9h] [9d]
+rodela_silva: checks 
+TheDoctor1979: checks 
+eljouflu: checks 
+*** RIVER *** [Tc 7d 9h 9d] [6c]
+rodela_silva: checks 
+TheDoctor1979: checks 
+eljouflu: checks 
+*** SHOW DOWN ***
+rodela_silva: shows [2h 6d] (two pair, Nines and Sixes)
+TheDoctor1979: mucks hand 
+eljouflu: mucks hand 
+rodela_silva collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Tc 7d 9h 9d 6c]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: rodela_silva (big blind) showed [2h 6d] and won ($0.07) with two pair, Nines and Sixes
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 mucked [4d 5s]
+Seat 5: eljouflu mucked [Ac 2c]
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475457284:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:56:56 MSK [2020/05/07 22:56:56 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.82 in chips) 
+Seat 2: rodela_silva ($0.85 in chips) 
+Seat 3: BrunoPelli14 ($1.41 in chips) 
+Seat 4: TheDoctor1979 ($2.01 in chips) 
+Seat 5: eljouflu ($1.82 in chips) 
+Seat 6: Mudder1975 ($0.88 in chips) 
+rodela_silva: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Th]
+TheDoctor1979: calls $0.02
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.04
+*** FLOP *** [Ac 8s 5d]
+TheDoctor1979: checks 
+lawlex_2: checks 
+*** TURN *** [Ac 8s 5d] [5h]
+TheDoctor1979: checks 
+lawlex_2: bets $0.09
+TheDoctor1979: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ac 8s 5d 5h]
+Seat 1: lawlex_2 (button) collected ($0.14)
+Seat 2: rodela_silva (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: TheDoctor1979 folded on the Turn
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475473808:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:57:32 MSK [2020/05/07 22:57:32 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.90 in chips) 
+Seat 2: rodela_silva ($0.84 in chips) 
+Seat 3: BrunoPelli14 ($1.39 in chips) 
+Seat 4: TheDoctor1979 ($1.95 in chips) 
+Seat 5: eljouflu ($1.82 in chips) 
+Seat 6: Mudder1975 ($0.88 in chips) 
+BrunoPelli14: posts small blind $0.01
+TheDoctor1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Ts]
+eljouflu: raises $0.02 to $0.04
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: calls $0.04
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+*** FLOP *** [9h Ah 8h]
+eljouflu: bets $0.11
+rodela_silva: folds 
+Uncalled bet ($0.11) returned to eljouflu
+eljouflu collected $0.11 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9h Ah 8h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva (button) folded on the Flop
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: TheDoctor1979 (big blind) folded before Flop
+Seat 5: eljouflu collected ($0.11)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475493356:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:58:13 MSK [2020/05/07 22:58:13 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.90 in chips) 
+Seat 2: rodela_silva ($0.80 in chips) 
+Seat 3: BrunoPelli14 ($1.38 in chips) 
+Seat 4: TheDoctor1979 ($1.93 in chips) 
+Seat 5: eljouflu ($1.89 in chips) 
+Seat 6: Mudder1975 ($0.88 in chips) 
+TheDoctor1979: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 9d]
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+eljouflu: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: lawlex_2 collected ($0.05)
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (small blind) folded before Flop
+Seat 5: eljouflu (big blind) folded before Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475508719:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:58:46 MSK [2020/05/07 22:58:46 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.93 in chips) 
+Seat 2: rodela_silva ($0.80 in chips) 
+Seat 3: BrunoPelli14 ($1.38 in chips) 
+Seat 4: TheDoctor1979 ($1.92 in chips) 
+Seat 5: eljouflu ($1.87 in chips) 
+Seat 6: Mudder1975 ($0.88 in chips) 
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 4d]
+lawlex_2: folds 
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+eljouflu: calls $0.01
+Mudder1975: checks 
+*** FLOP *** [Jh Ks 7d]
+eljouflu: bets $0.02
+Mudder1975: calls $0.02
+*** TURN *** [Jh Ks 7d] [2h]
+eljouflu: bets $0.02
+Mudder1975: calls $0.02
+*** RIVER *** [Jh Ks 7d 2h] [Ac]
+eljouflu: bets $0.02
+Mudder1975: calls $0.02
+*** SHOW DOWN ***
+eljouflu: shows [8c Jd] (a pair of Jacks)
+Mudder1975: mucks hand 
+eljouflu collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Jh Ks 7d 2h Ac]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) showed [8c Jd] and won ($0.15) with a pair of Jacks
+Seat 6: Mudder1975 (big blind) mucked [6d 7c]
+
+
+
+PokerStars Hand #213475520806:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:59:12 MSK [2020/05/07 22:59:12 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($0.93 in chips) 
+Seat 2: rodela_silva ($0.80 in chips) 
+Seat 3: BrunoPelli14 ($1.38 in chips) 
+Seat 4: TheDoctor1979 ($1.92 in chips) 
+Seat 5: eljouflu ($1.94 in chips) 
+Seat 6: Mudder1975 ($0.80 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 5d]
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+eljouflu: calls $0.02
+Mudder1975: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [3c 8c 3s]
+Mudder1975: checks 
+lawlex_2: checks 
+TheDoctor1979: checks 
+eljouflu: checks 
+*** TURN *** [3c 8c 3s] [5c]
+Mudder1975: checks 
+lawlex_2: bets $0.05
+TheDoctor1979: folds 
+eljouflu: folds 
+Mudder1975: folds 
+Uncalled bet ($0.05) returned to lawlex_2
+lawlex_2 collected $0.08 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [3c 8c 3s 5c]
+Seat 1: lawlex_2 (big blind) collected ($0.08)
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 folded on the Turn
+Seat 5: eljouflu (button) folded on the Turn
+Seat 6: Mudder1975 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213475542403:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 5:59:45 MSK [2020/05/07 22:59:45 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.99 in chips) 
+Seat 2: rodela_silva ($0.80 in chips) 
+Seat 3: BrunoPelli14 ($1.38 in chips) 
+Seat 4: TheDoctor1979 ($1.90 in chips) 
+Seat 5: eljouflu ($1.92 in chips) 
+Seat 6: Mudder1975 ($0.78 in chips) 
+lawlex_2: posts small blind $0.01
+rodela_silva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 4s]
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: checks 
+*** FLOP *** [6s 7c Qc]
+rodela_silva: checks 
+TheDoctor1979: checks 
+*** TURN *** [6s 7c Qc] [5s]
+rodela_silva: checks 
+TheDoctor1979: bets $0.02
+rodela_silva: folds 
+Uncalled bet ($0.02) returned to TheDoctor1979
+TheDoctor1979 collected $0.05 from pot
+TheDoctor1979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6s 7c Qc 5s]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: rodela_silva (big blind) folded on the Turn
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 collected ($0.05)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475558181:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:00:16 MSK [2020/05/07 23:00:16 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.98 in chips) 
+Seat 2: rodela_silva ($0.78 in chips) 
+Seat 3: BrunoPelli14 ($1.38 in chips) 
+Seat 4: TheDoctor1979 ($1.93 in chips) 
+Seat 5: eljouflu ($1.92 in chips) 
+Seat 6: Mudder1975 ($0.78 in chips) 
+rodela_silva: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 2h]
+TheDoctor1979: calls $0.02
+eljouflu: raises $0.04 to $0.06
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: calls $0.05
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.04
+*** FLOP *** [7h 6s 7c]
+rodela_silva: checks 
+TheDoctor1979: checks 
+eljouflu: bets $0.10
+rodela_silva: folds 
+TheDoctor1979: folds 
+Uncalled bet ($0.10) returned to eljouflu
+eljouflu collected $0.19 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7h 6s 7c]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: rodela_silva (small blind) folded on the Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: TheDoctor1979 folded on the Flop
+Seat 5: eljouflu collected ($0.19)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475583023:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:01:02 MSK [2020/05/07 23:01:02 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.98 in chips) 
+Seat 2: rodela_silva ($0.72 in chips) 
+Seat 3: BrunoPelli14 ($1.36 in chips) 
+Seat 4: TheDoctor1979 ($1.87 in chips) 
+Seat 5: eljouflu ($2.05 in chips) 
+Seat 6: Mudder1975 ($0.78 in chips) 
+BrunoPelli14: posts small blind $0.01
+TheDoctor1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 2c]
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: raises $0.06 to $0.08
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.06
+*** FLOP *** [4d Th Jc]
+TheDoctor1979: checks 
+rodela_silva: bets $0.14
+TheDoctor1979: calls $0.14
+*** TURN *** [4d Th Jc] [5d]
+TheDoctor1979: checks 
+rodela_silva: checks 
+*** RIVER *** [4d Th Jc 5d] [Jh]
+TheDoctor1979: checks 
+rodela_silva: bets $0.50 and is all-in
+TheDoctor1979: folds 
+Uncalled bet ($0.50) returned to rodela_silva
+rodela_silva collected $0.43 from pot
+rodela_silva: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [4d Th Jc 5d Jh]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva (button) collected ($0.43)
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: TheDoctor1979 (big blind) folded on the River
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475607158:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:01:44 MSK [2020/05/07 23:01:44 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.98 in chips) 
+Seat 2: rodela_silva ($0.93 in chips) 
+Seat 3: BrunoPelli14 ($1.35 in chips) 
+Seat 4: TheDoctor1979 ($1.65 in chips) 
+Seat 5: eljouflu ($2.05 in chips) 
+Seat 6: Mudder1975 ($0.78 in chips) 
+TheDoctor1979: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 2d]
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: calls $0.02
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.01
+BrunoPelli14 said, "."
+eljouflu: checks 
+*** FLOP *** [8c 2s Kd]
+TheDoctor1979: checks 
+BrunoPelli14 said, "."
+eljouflu: bets $0.02
+rodela_silva: folds 
+TheDoctor1979: folds 
+Uncalled bet ($0.02) returned to eljouflu
+eljouflu collected $0.06 from pot
+eljouflu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8c 2s Kd]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva folded on the Flop
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (small blind) folded on the Flop
+Seat 5: eljouflu (big blind) collected ($0.06)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475620190:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:02:07 MSK [2020/05/07 23:02:07 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.98 in chips) 
+Seat 2: rodela_silva ($0.91 in chips) 
+Seat 3: BrunoPelli14 ($1.35 in chips) 
+Seat 4: TheDoctor1979 ($1.63 in chips) 
+Seat 5: eljouflu ($2.09 in chips) 
+Seat 6: Mudder1975 ($0.78 in chips) 
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 9c]
+lawlex_2: folds 
+rodela_silva: raises $0.02 to $0.04
+BrunoPelli14: raises $0.12 to $0.16
+TheDoctor1979: calls $0.16
+eljouflu: folds 
+Mudder1975: folds 
+rodela_silva: calls $0.12
+*** FLOP *** [Kh 9s 6h]
+rodela_silva: checks 
+BrunoPelli14: checks 
+TheDoctor1979: checks 
+*** TURN *** [Kh 9s 6h] [Td]
+rodela_silva: bets $0.14
+BrunoPelli14: calls $0.14
+TheDoctor1979: folds 
+*** RIVER *** [Kh 9s 6h Td] [Tc]
+rodela_silva: bets $0.38
+BrunoPelli14: calls $0.38
+*** SHOW DOWN ***
+rodela_silva: shows [Js Qh] (a straight, Nine to King)
+BrunoPelli14: mucks hand 
+rodela_silva collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.05 
+Board [Kh 9s 6h Td Tc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva showed [Js Qh] and won ($1.50) with a straight, Nine to King
+Seat 3: BrunoPelli14 mucked [Qs Qc]
+Seat 4: TheDoctor1979 (button) folded on the Turn
+Seat 5: eljouflu (small blind) folded before Flop
+Seat 6: Mudder1975 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213475656775:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:02:58 MSK [2020/05/07 23:02:58 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($0.98 in chips) 
+Seat 2: rodela_silva ($1.73 in chips) 
+Seat 3: BrunoPelli14 ($0.67 in chips) 
+Seat 4: TheDoctor1979 ($1.47 in chips) 
+Seat 5: eljouflu ($2.08 in chips) 
+Seat 6: Mudder1975 ($0.76 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 5s]
+rodela_silva: calls $0.02
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+eljouflu: calls $0.02
+Mudder1975: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [7h 8s 2s]
+Mudder1975: checks 
+lawlex_2: checks 
+rodela_silva: checks 
+eljouflu: checks 
+*** TURN *** [7h 8s 2s] [Ac]
+Mudder1975: checks 
+lawlex_2: checks 
+rodela_silva: checks 
+eljouflu: checks 
+*** RIVER *** [7h 8s 2s Ac] [9s]
+Mudder1975: checks 
+lawlex_2: checks 
+rodela_silva: checks 
+eljouflu: checks 
+*** SHOW DOWN ***
+Mudder1975: shows [5c 4h] (high card Ace)
+lawlex_2: shows [Ts 5s] (a flush, Ten high)
+rodela_silva: mucks hand 
+eljouflu: mucks hand 
+lawlex_2 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7h 8s 2s Ac 9s]
+Seat 1: lawlex_2 (big blind) showed [Ts 5s] and won ($0.08) with a flush, Ten high
+Seat 2: rodela_silva mucked [3c Ah]
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 5: eljouflu (button) mucked [Qc Jd]
+Seat 6: Mudder1975 (small blind) showed [5c 4h] and lost with high card Ace
+
+
+
+PokerStars Hand #213475692999:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:04:00 MSK [2020/05/07 23:04:00 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.04 in chips) 
+Seat 2: rodela_silva ($1.71 in chips) 
+Seat 3: BrunoPelli14 ($0.67 in chips) 
+Seat 4: TheDoctor1979 ($1.47 in chips) 
+Seat 5: eljouflu ($2.06 in chips) 
+Seat 6: Mudder1975 ($0.74 in chips) 
+lawlex_2: posts small blind $0.01
+rodela_silva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 9s]
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+rodela_silva: folds 
+TheDoctor1979: calls $0.04
+*** FLOP *** [8s 6d 5s]
+lawlex_2: checks 
+TheDoctor1979: checks 
+*** TURN *** [8s 6d 5s] [8d]
+lawlex_2: checks 
+TheDoctor1979: checks 
+*** RIVER *** [8s 6d 5s 8d] [9d]
+lawlex_2: bets $0.09
+TheDoctor1979: raises $0.09 to $0.18
+lawlex_2: calls $0.09
+*** SHOW DOWN ***
+TheDoctor1979: shows [Ks 9h] (two pair, Nines and Eights)
+lawlex_2: shows [Kh 9s] (two pair, Nines and Eights)
+lawlex_2 collected $0.24 from pot
+TheDoctor1979 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [8s 6d 5s 8d 9d]
+Seat 1: lawlex_2 (small blind) showed [Kh 9s] and won ($0.24) with two pair, Nines and Eights
+Seat 2: rodela_silva (big blind) folded before Flop
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 showed [Ks 9h] and won ($0.24) with two pair, Nines and Eights
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475720219:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:04:47 MSK [2020/05/07 23:04:47 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.04 in chips) 
+Seat 2: rodela_silva ($1.69 in chips) 
+Seat 3: BrunoPelli14 ($0.67 in chips) 
+Seat 4: TheDoctor1979 ($1.47 in chips) 
+Seat 5: eljouflu ($2.06 in chips) 
+Seat 6: Mudder1975 ($0.74 in chips) 
+rodela_silva: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Jd]
+TheDoctor1979: folds 
+eljouflu: folds 
+Mudder1975: raises $0.02 to $0.04
+lawlex_2 has timed out
+lawlex_2: folds 
+rodela_silva: folds 
+BrunoPelli14: calls $0.02
+*** FLOP *** [5s 7c 7h]
+BrunoPelli14: bets $0.04
+Mudder1975: calls $0.04
+*** TURN *** [5s 7c 7h] [Ad]
+BrunoPelli14: checks 
+Mudder1975: checks 
+*** RIVER *** [5s 7c 7h Ad] [4d]
+BrunoPelli14: bets $0.11
+Mudder1975: calls $0.11
+*** SHOW DOWN ***
+BrunoPelli14: shows [Qd Js] (a pair of Sevens)
+Mudder1975: shows [Qh Qc] (two pair, Queens and Sevens)
+Mudder1975 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [5s 7c 7h Ad 4d]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: rodela_silva (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) showed [Qd Js] and lost with a pair of Sevens
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 showed [Qh Qc] and won ($0.38) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #213475748987:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:05:36 MSK [2020/05/07 23:05:36 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.04 in chips) 
+Seat 2: rodela_silva ($1.68 in chips) 
+Seat 3: BrunoPelli14 ($0.48 in chips) 
+Seat 4: TheDoctor1979 ($1.47 in chips) 
+Seat 5: eljouflu ($2.06 in chips) 
+Seat 6: Mudder1975 ($0.93 in chips) 
+BrunoPelli14: posts small blind $0.01
+TheDoctor1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 7c]
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: calls $0.02
+BrunoPelli14: folds 
+TheDoctor1979: checks 
+*** FLOP *** [Td 5s 8s]
+TheDoctor1979: checks 
+rodela_silva: checks 
+*** TURN *** [Td 5s 8s] [5h]
+TheDoctor1979: checks 
+rodela_silva: checks 
+*** RIVER *** [Td 5s 8s 5h] [9c]
+TheDoctor1979: checks 
+rodela_silva: checks 
+*** SHOW DOWN ***
+TheDoctor1979: shows [3d Qd] (a pair of Fives)
+rodela_silva: shows [4d Ad] (a pair of Fives - Ace kicker)
+rodela_silva collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Td 5s 8s 5h 9c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva (button) showed [4d Ad] and won ($0.05) with a pair of Fives
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: TheDoctor1979 (big blind) showed [3d Qd] and lost with a pair of Fives
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475777417:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:06:15 MSK [2020/05/07 23:06:15 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.04 in chips) 
+Seat 2: rodela_silva ($1.71 in chips) 
+Seat 3: BrunoPelli14 ($0.47 in chips) 
+Seat 4: TheDoctor1979 ($1.45 in chips) 
+Seat 5: eljouflu ($2.06 in chips) 
+Seat 6: Mudder1975 ($0.93 in chips) 
+TheDoctor1979: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 6c]
+Mudder1975: calls $0.02
+lawlex_2 has timed out
+lawlex_2: folds 
+rodela_silva: calls $0.02
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.01
+eljouflu: checks 
+*** FLOP *** [6d 9c Ks]
+TheDoctor1979: bets $0.02
+eljouflu: folds 
+Mudder1975: calls $0.02
+rodela_silva: folds 
+*** TURN *** [6d 9c Ks] [Ah]
+TheDoctor1979: bets $0.02
+Mudder1975: calls $0.02
+*** RIVER *** [6d 9c Ks Ah] [Jc]
+TheDoctor1979: bets $0.02
+Mudder1975: calls $0.02
+*** SHOW DOWN ***
+TheDoctor1979: shows [Qc Kh] (a pair of Kings)
+Mudder1975: shows [4h Ad] (a pair of Aces)
+Mudder1975 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6d 9c Ks Ah Jc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva folded on the Flop
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (small blind) showed [Qc Kh] and lost with a pair of Kings
+Seat 5: eljouflu (big blind) folded on the Flop
+Seat 6: Mudder1975 showed [4h Ad] and won ($0.19) with a pair of Aces
+
+
+
+PokerStars Hand #213475805020:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:07:03 MSK [2020/05/07 23:07:03 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.04 in chips) 
+Seat 2: rodela_silva ($1.69 in chips) 
+Seat 3: BrunoPelli14 ($0.47 in chips) 
+Seat 4: TheDoctor1979 ($1.37 in chips) 
+Seat 5: eljouflu ($2.04 in chips) 
+Seat 6: Mudder1975 ($1.04 in chips) 
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 9s]
+lawlex_2: folds 
+rodela_silva: calls $0.02
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+eljouflu: calls $0.01
+Mudder1975: checks 
+*** FLOP *** [Jh Th Js]
+eljouflu: bets $0.06
+Mudder1975: folds 
+rodela_silva: calls $0.06
+*** TURN *** [Jh Th Js] [4s]
+eljouflu: bets $0.02
+rodela_silva: raises $0.06 to $0.08
+eljouflu: calls $0.06
+*** RIVER *** [Jh Th Js 4s] [Qs]
+eljouflu: bets $0.04
+rodela_silva: calls $0.04
+*** SHOW DOWN ***
+eljouflu: shows [Ts 7s] (a flush, Queen high)
+rodela_silva: mucks hand 
+eljouflu collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Jh Th Js 4s Qs]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva mucked [Kd Qh]
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (button) folded before Flop (didn't bet)
+Seat 5: eljouflu (small blind) showed [Ts 7s] and won ($0.41) with a flush, Queen high
+Seat 6: Mudder1975 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213475822741:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:07:33 MSK [2020/05/07 23:07:33 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.04 in chips) 
+Seat 2: rodela_silva ($1.49 in chips) 
+Seat 3: BrunoPelli14 ($0.47 in chips) 
+Seat 4: TheDoctor1979 ($1.37 in chips) 
+Seat 5: eljouflu ($2.25 in chips) 
+Seat 6: Mudder1975 ($1.02 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Ts]
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+eljouflu: calls $0.02
+Mudder1975: calls $0.01
+lawlex_2: raises $0.04 to $0.06
+TheDoctor1979: calls $0.04
+eljouflu: calls $0.04
+Mudder1975: folds 
+*** FLOP *** [5c Jd 4h]
+lawlex_2: checks 
+TheDoctor1979: checks 
+eljouflu: checks 
+*** TURN *** [5c Jd 4h] [6c]
+lawlex_2: bets $0.13
+TheDoctor1979: folds 
+eljouflu: calls $0.13
+*** RIVER *** [5c Jd 4h 6c] [3s]
+lawlex_2: checks 
+eljouflu: checks 
+*** SHOW DOWN ***
+lawlex_2: shows [Kh Ts] (high card King)
+eljouflu: shows [4d 6d] (two pair, Sixes and Fours)
+eljouflu collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [5c Jd 4h 6c 3s]
+Seat 1: lawlex_2 (big blind) showed [Kh Ts] and lost with high card King
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 folded on the Turn
+Seat 5: eljouflu (button) showed [4d 6d] and won ($0.44) with two pair, Sixes and Fours
+Seat 6: Mudder1975 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213475853643:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:08:26 MSK [2020/05/07 23:08:26 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.85 in chips) 
+Seat 2: rodela_silva ($1.49 in chips) 
+Seat 3: BrunoPelli14 ($0.85 in chips) 
+Seat 4: TheDoctor1979 ($1.31 in chips) 
+Seat 5: eljouflu ($2.50 in chips) 
+Seat 6: Mudder1975 ($1 in chips) 
+lawlex_2: posts small blind $0.01
+rodela_silva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s Qd]
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+eljouflu: calls $0.02
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: checks 
+*** FLOP *** [8s Ts 2h]
+rodela_silva: checks 
+TheDoctor1979: checks 
+eljouflu: checks 
+*** TURN *** [8s Ts 2h] [6s]
+rodela_silva: checks 
+TheDoctor1979: checks 
+eljouflu: checks 
+*** RIVER *** [8s Ts 2h 6s] [Ad]
+rodela_silva: checks 
+TheDoctor1979: bets $0.02
+eljouflu: folds 
+rodela_silva: folds 
+Uncalled bet ($0.02) returned to TheDoctor1979
+TheDoctor1979 collected $0.07 from pot
+TheDoctor1979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [8s Ts 2h 6s Ad]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: rodela_silva (big blind) folded on the River
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 collected ($0.07)
+Seat 5: eljouflu folded on the River
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475873449:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:09:01 MSK [2020/05/07 23:09:01 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.84 in chips) 
+Seat 2: rodela_silva ($1.47 in chips) 
+Seat 3: BrunoPelli14 ($0.85 in chips) 
+Seat 4: TheDoctor1979 ($1.36 in chips) 
+Seat 5: eljouflu ($2.48 in chips) 
+Seat 6: Mudder1975 ($1 in chips) 
+rodela_silva: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 9h]
+TheDoctor1979: folds 
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+rodela_silva: calls $0.05
+BrunoPelli14: folds 
+*** FLOP *** [4h Jd Ts]
+rodela_silva: checks 
+lawlex_2: bets $0.09
+rodela_silva: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4h Jd Ts]
+Seat 1: lawlex_2 (button) collected ($0.14)
+Seat 2: rodela_silva (small blind) folded on the Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475891835:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:09:32 MSK [2020/05/07 23:09:32 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.92 in chips) 
+Seat 2: rodela_silva ($1.41 in chips) 
+Seat 3: BrunoPelli14 ($0.83 in chips) 
+Seat 4: TheDoctor1979 ($1.36 in chips) 
+Seat 5: eljouflu ($2.48 in chips) 
+Seat 6: Mudder1975 ($1 in chips) 
+BrunoPelli14: posts small blind $0.01
+TheDoctor1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Ac]
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: calls $0.02
+BrunoPelli14: folds 
+TheDoctor1979: checks 
+*** FLOP *** [6c Ks Jc]
+TheDoctor1979: bets $0.02
+rodela_silva: folds 
+Uncalled bet ($0.02) returned to TheDoctor1979
+TheDoctor1979 collected $0.05 from pot
+TheDoctor1979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6c Ks Jc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva (button) folded on the Flop
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: TheDoctor1979 (big blind) collected ($0.05)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475905080:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:09:55 MSK [2020/05/07 23:09:55 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.92 in chips) 
+Seat 2: rodela_silva ($1.39 in chips) 
+Seat 3: BrunoPelli14 ($0.82 in chips) 
+Seat 4: TheDoctor1979 ($1.39 in chips) 
+Seat 5: eljouflu ($2.48 in chips) 
+Seat 6: Mudder1975 ($1 in chips) 
+TheDoctor1979: posts small blind $0.01
+eljouflu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 6s]
+Mudder1975: folds 
+lawlex_2 has timed out
+lawlex_2: folds 
+rodela_silva: calls $0.02
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.01
+eljouflu: checks 
+*** FLOP *** [2s 8d Qc]
+TheDoctor1979: bets $0.02
+eljouflu: folds 
+rodela_silva: raises $0.06 to $0.08
+TheDoctor1979: calls $0.06
+*** TURN *** [2s 8d Qc] [5h]
+TheDoctor1979: checks 
+rodela_silva: bets $0.20
+TheDoctor1979: folds 
+Uncalled bet ($0.20) returned to rodela_silva
+rodela_silva collected $0.21 from pot
+rodela_silva: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [2s 8d Qc 5h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva collected ($0.21)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (small blind) folded on the Turn
+Seat 5: eljouflu (big blind) folded on the Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213475931853:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:10:42 MSK [2020/05/07 23:10:42 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.92 in chips) 
+Seat 2: rodela_silva ($1.50 in chips) 
+Seat 3: BrunoPelli14 ($0.82 in chips) 
+Seat 4: TheDoctor1979 ($1.29 in chips) 
+Seat 5: eljouflu ($2.46 in chips) 
+Seat 6: Mudder1975 ($1 in chips) 
+eljouflu: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad Kh]
+lawlex_2: raises $0.04 to $0.06
+rodela_silva: folds 
+BrunoPelli14: calls $0.06
+TheDoctor1979: calls $0.06
+eljouflu: folds 
+Mudder1975: folds 
+*** FLOP *** [6s 8d Td]
+lawlex_2: checks 
+BrunoPelli14: checks 
+TheDoctor1979: bets $0.02
+lawlex_2: calls $0.02
+BrunoPelli14: calls $0.02
+*** TURN *** [6s 8d Td] [Kc]
+lawlex_2: checks 
+BrunoPelli14: checks 
+TheDoctor1979: bets $0.02
+lawlex_2: raises $0.20 to $0.22
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+Uncalled bet ($0.20) returned to lawlex_2
+lawlex_2 collected $0.30 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [6s 8d Td Kc]
+Seat 1: lawlex_2 collected ($0.30)
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded on the Turn
+Seat 4: TheDoctor1979 (button) folded on the Turn
+Seat 5: eljouflu (small blind) folded before Flop
+Seat 6: Mudder1975 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213475967300:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:11:44 MSK [2020/05/07 23:11:44 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($1.12 in chips) 
+Seat 2: rodela_silva ($1.50 in chips) 
+Seat 3: BrunoPelli14 ($0.74 in chips) 
+Seat 4: TheDoctor1979 ($1.19 in chips) 
+Seat 5: eljouflu ($2.45 in chips) 
+Seat 6: Mudder1975 ($0.98 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 7h]
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+eljouflu: folds 
+Mudder1975: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [3s 5c 9d]
+Mudder1975: checks 
+lawlex_2: checks 
+*** TURN *** [3s 5c 9d] [4d]
+Mudder1975: bets $0.02
+lawlex_2: raises $0.05 to $0.07
+Mudder1975: folds 
+Uncalled bet ($0.05) returned to lawlex_2
+lawlex_2 collected $0.08 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [3s 5c 9d 4d]
+Seat 1: lawlex_2 (big blind) collected ($0.08)
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 5: eljouflu (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213475988085:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:12:06 MSK [2020/05/07 23:12:06 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.16 in chips) 
+Seat 2: rodela_silva ($1.50 in chips) 
+Seat 3: BrunoPelli14 ($0.74 in chips) 
+Seat 4: TheDoctor1979 ($1.19 in chips) 
+Seat 5: eljouflu ($2.45 in chips) 
+Seat 6: Mudder1975 ($0.94 in chips) 
+lawlex_2: posts small blind $0.01
+rodela_silva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Tc]
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: checks 
+*** FLOP *** [9c Kh 6c]
+rodela_silva: checks 
+TheDoctor1979: checks 
+*** TURN *** [9c Kh 6c] [6d]
+rodela_silva: bets $0.08
+TheDoctor1979: calls $0.08
+*** RIVER *** [9c Kh 6c 6d] [9d]
+rodela_silva: bets $0.20
+TheDoctor1979: folds 
+Uncalled bet ($0.20) returned to rodela_silva
+rodela_silva collected $0.20 from pot
+rodela_silva: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9c Kh 6c 6d 9d]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: rodela_silva (big blind) collected ($0.20)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 folded on the River
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476011590:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:12:47 MSK [2020/05/07 23:12:47 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($1.15 in chips) 
+Seat 2: rodela_silva ($1.60 in chips) 
+Seat 3: BrunoPelli14 ($0.74 in chips) 
+Seat 4: TheDoctor1979 ($1.09 in chips) 
+Seat 5: eljouflu ($2.45 in chips) 
+Seat 6: Mudder1975 ($0.94 in chips) 
+rodela_silva: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Kd]
+TheDoctor1979: calls $0.02
+eljouflu: folds 
+Mudder1975: calls $0.02
+lawlex_2: folds 
+rodela_silva: calls $0.01
+BrunoPelli14: checks 
+*** FLOP *** [8s Td 5s]
+rodela_silva: checks 
+BrunoPelli14: checks 
+TheDoctor1979: bets $0.02
+Mudder1975: calls $0.02
+rodela_silva: folds 
+BrunoPelli14: folds 
+*** TURN *** [8s Td 5s] [Ac]
+TheDoctor1979: bets $0.02
+Mudder1975: raises $0.02 to $0.04
+TheDoctor1979: calls $0.02
+*** RIVER *** [8s Td 5s Ac] [7c]
+TheDoctor1979: bets $0.10
+Mudder1975: calls $0.10
+*** SHOW DOWN ***
+TheDoctor1979: shows [7d 5d] (two pair, Sevens and Fives)
+Mudder1975: mucks hand 
+TheDoctor1979 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [8s Td 5s Ac 7c]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: rodela_silva (small blind) folded on the Flop
+Seat 3: BrunoPelli14 (big blind) folded on the Flop
+Seat 4: TheDoctor1979 showed [7d 5d] and won ($0.39) with two pair, Sevens and Fives
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 mucked [Ad 9d]
+
+
+
+PokerStars Hand #213476047166:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:13:49 MSK [2020/05/07 23:13:49 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($1.15 in chips) 
+Seat 2: rodela_silva ($1.58 in chips) 
+Seat 3: BrunoPelli14 ($0.72 in chips) 
+Seat 4: TheDoctor1979 ($1.30 in chips) 
+Seat 5: eljouflu ($2.45 in chips) 
+Seat 6: Mudder1975 ($0.76 in chips) 
+BrunoPelli14: posts small blind $0.01
+TheDoctor1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 3h]
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: folds 
+BrunoPelli14: raises $0.04 to $0.06
+TheDoctor1979: folds 
+Uncalled bet ($0.04) returned to BrunoPelli14
+BrunoPelli14 collected $0.04 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva (button) folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (small blind) collected ($0.04)
+Seat 4: TheDoctor1979 (big blind) folded before Flop
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476055593:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:14:04 MSK [2020/05/07 23:14:04 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($1.15 in chips) 
+Seat 2: rodela_silva ($1.58 in chips) 
+Seat 3: BrunoPelli14 ($0.74 in chips) 
+Seat 4: TheDoctor1979 ($1.28 in chips) 
+Seat 6: Mudder1975 ($0.76 in chips) 
+TheDoctor1979: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 3d]
+lawlex_2: folds 
+rodela_silva: raises $0.04 to $0.06
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.05
+Mudder1975: calls $0.04
+*** FLOP *** [Js 9h 6c]
+TheDoctor1979: checks 
+Mudder1975: bets $0.02
+rodela_silva: raises $0.08 to $0.10
+TheDoctor1979: calls $0.10
+Mudder1975: calls $0.08
+*** TURN *** [Js 9h 6c] [8h]
+TheDoctor1979: bets $0.12
+Mudder1975: calls $0.12
+rodela_silva: raises $0.12 to $0.24
+TheDoctor1979: calls $0.12
+Mudder1975: calls $0.12
+*** RIVER *** [Js 9h 6c 8h] [4h]
+TheDoctor1979: checks 
+Mudder1975: checks 
+rodela_silva: bets $0.50
+TheDoctor1979: calls $0.50
+Mudder1975: folds 
+*** SHOW DOWN ***
+rodela_silva: shows [Ah Ac] (a pair of Aces)
+TheDoctor1979: shows [8d 9d] (two pair, Nines and Eights)
+TheDoctor1979 collected $2.12 from pot
+*** SUMMARY ***
+Total pot $2.20 | Rake $0.08 
+Board [Js 9h 6c 8h 4h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva showed [Ah Ac] and lost with a pair of Aces
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (small blind) showed [8d 9d] and won ($2.12) with two pair, Nines and Eights
+Seat 6: Mudder1975 (big blind) folded on the River
+
+
+
+PokerStars Hand #213476091805:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:15:07 MSK [2020/05/07 23:15:07 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($1.15 in chips) 
+Seat 2: rodela_silva ($0.68 in chips) 
+Seat 3: BrunoPelli14 ($0.74 in chips) 
+Seat 4: TheDoctor1979 ($2.50 in chips) 
+Seat 6: Mudder1975 ($0.36 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 5s]
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+Mudder1975: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Kc 5h Jd]
+Mudder1975: checks 
+lawlex_2: checks 
+TheDoctor1979: checks 
+*** TURN *** [Kc 5h Jd] [Qc]
+Mudder1975: checks 
+lawlex_2: checks 
+TheDoctor1979: checks 
+*** RIVER *** [Kc 5h Jd Qc] [Tc]
+Mudder1975: bets $0.02
+lawlex_2: calls $0.02
+TheDoctor1979: folds 
+*** SHOW DOWN ***
+Mudder1975: shows [9d 3c] (a straight, Nine to King)
+lawlex_2: mucks hand 
+Mudder1975 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Kc 5h Jd Qc Tc]
+Seat 1: lawlex_2 (big blind) mucked [Ks 5s]
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (button) folded on the River
+Seat 6: Mudder1975 (small blind) showed [9d 3c] and won ($0.10) with a straight, Nine to King
+
+
+
+PokerStars Hand #213476122395:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:15:44 MSK [2020/05/07 23:15:44 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.11 in chips) 
+Seat 2: rodela_silva ($0.68 in chips) 
+Seat 3: BrunoPelli14 ($0.74 in chips) 
+Seat 4: TheDoctor1979 ($2.48 in chips) 
+Seat 5: eljouflu ($2.45 in chips) 
+Seat 6: Mudder1975 ($0.42 in chips) 
+lawlex_2: posts small blind $0.01
+rodela_silva: posts big blind $0.02
+eljouflu: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Ts]
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+eljouflu: checks 
+Mudder1975: folds 
+lawlex_2: calls $0.01
+rodela_silva: checks 
+*** FLOP *** [Qs Ac 6c]
+lawlex_2: bets $0.06
+rodela_silva: folds 
+TheDoctor1979: calls $0.06
+eljouflu: folds 
+*** TURN *** [Qs Ac 6c] [Jh]
+lawlex_2: bets $0.13
+TheDoctor1979: calls $0.13
+*** RIVER *** [Qs Ac 6c Jh] [2h]
+lawlex_2: checks 
+TheDoctor1979: bets $0.18
+lawlex_2: calls $0.18
+*** SHOW DOWN ***
+TheDoctor1979: shows [3s Ad] (a pair of Aces)
+lawlex_2: mucks hand 
+TheDoctor1979 collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [Qs Ac 6c Jh 2h]
+Seat 1: lawlex_2 (small blind) mucked [Td Ts]
+Seat 2: rodela_silva (big blind) folded on the Flop
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 showed [3s Ad] and won ($0.80) with a pair of Aces
+Seat 5: eljouflu folded on the Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476153247:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:16:38 MSK [2020/05/07 23:16:38 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.72 in chips) 
+Seat 2: rodela_silva ($0.66 in chips) 
+Seat 3: BrunoPelli14 ($0.74 in chips) 
+Seat 4: TheDoctor1979 ($2.89 in chips) 
+Seat 5: eljouflu ($2.42 in chips) 
+Seat 6: Mudder1975 ($0.42 in chips) 
+rodela_silva: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 2s]
+TheDoctor1979: folds 
+eljouflu: folds 
+Mudder1975: calls $0.02
+lawlex_2: folds 
+rodela_silva: raises $0.02 to $0.04
+BrunoPelli14: calls $0.02
+Mudder1975: calls $0.02
+*** FLOP *** [9c 3d 4s]
+rodela_silva: checks 
+BrunoPelli14: bets $0.04
+Mudder1975: calls $0.04
+rodela_silva: folds 
+*** TURN *** [9c 3d 4s] [7h]
+BrunoPelli14: bets $0.08
+Mudder1975: calls $0.08
+*** RIVER *** [9c 3d 4s 7h] [4d]
+BrunoPelli14: checks 
+Mudder1975: checks 
+*** SHOW DOWN ***
+BrunoPelli14: shows [Kh 9h] (two pair, Nines and Fours)
+Mudder1975: mucks hand 
+BrunoPelli14 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [9c 3d 4s 7h 4d]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: rodela_silva (small blind) folded on the Flop
+Seat 3: BrunoPelli14 (big blind) showed [Kh 9h] and won ($0.35) with two pair, Nines and Fours
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 mucked [7d Ad]
+
+
+
+PokerStars Hand #213476181420:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:17:27 MSK [2020/05/07 23:17:27 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.72 in chips) 
+Seat 2: rodela_silva ($0.62 in chips) 
+Seat 3: BrunoPelli14 ($0.93 in chips) 
+Seat 4: TheDoctor1979 ($2.89 in chips) 
+Seat 5: eljouflu ($2.42 in chips) 
+Seat 6: Mudder1975 ($0.26 in chips) 
+BrunoPelli14: posts small blind $0.01
+TheDoctor1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 8s]
+eljouflu: folds 
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+rodela_silva: calls $0.06
+eljouflu leaves the table
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.04
+*** FLOP *** [Kd Td Ah]
+TheDoctor1979: checks 
+lawlex_2: bets $0.12
+rodela_silva: calls $0.12
+TheDoctor1979: folds 
+*** TURN *** [Kd Td Ah] [4h]
+lawlex_2: checks 
+rodela_silva: checks 
+*** RIVER *** [Kd Td Ah 4h] [2h]
+lawlex_2: checks 
+rodela_silva: bets $0.16
+lawlex_2: folds 
+Uncalled bet ($0.16) returned to rodela_silva
+rodela_silva collected $0.41 from pot
+rodela_silva: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Kd Td Ah 4h 2h]
+Seat 1: lawlex_2 folded on the River
+Seat 2: rodela_silva (button) collected ($0.41)
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: TheDoctor1979 (big blind) folded on the Flop
+Seat 5: eljouflu folded before Flop (didn't bet)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476205891:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:18:10 MSK [2020/05/07 23:18:10 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.54 in chips) 
+Seat 2: rodela_silva ($0.85 in chips) 
+Seat 3: BrunoPelli14 ($0.92 in chips) 
+Seat 4: TheDoctor1979 ($2.83 in chips) 
+Seat 6: Mudder1975 ($0.26 in chips) 
+TheDoctor1979: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Th]
+PBPablito joins the table at seat #5 
+lawlex_2: folds 
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.01
+Mudder1975: checks 
+*** FLOP *** [4h 7s Qh]
+TheDoctor1979: checks 
+Mudder1975: bets $0.02
+TheDoctor1979: folds 
+Uncalled bet ($0.02) returned to Mudder1975
+Mudder1975 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4h 7s Qh]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (small blind) folded on the Flop
+Seat 6: Mudder1975 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #213476219907:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:18:35 MSK [2020/05/07 23:18:35 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.54 in chips) 
+Seat 2: rodela_silva ($0.85 in chips) 
+Seat 3: BrunoPelli14 ($0.92 in chips) 
+Seat 4: TheDoctor1979 ($2.81 in chips) 
+Seat 6: Mudder1975 ($0.28 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 5d]
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+Mudder1975: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [9d Kc 3s]
+Mudder1975: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to Mudder1975
+Mudder1975 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9d Kc 3s]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #213476227223:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:18:48 MSK [2020/05/07 23:18:48 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.52 in chips) 
+Seat 2: rodela_silva ($0.85 in chips) 
+Seat 3: BrunoPelli14 ($0.92 in chips) 
+Seat 4: TheDoctor1979 ($2.81 in chips) 
+Seat 6: Mudder1975 ($0.30 in chips) 
+lawlex_2: posts small blind $0.01
+rodela_silva: posts big blind $0.02
+PBPablito: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s As]
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+rodela_silva: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 (small blind) collected ($0.04)
+Seat 2: rodela_silva (big blind) folded before Flop
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476237426:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:19:06 MSK [2020/05/07 23:19:06 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.54 in chips) 
+Seat 2: rodela_silva ($0.83 in chips) 
+Seat 3: BrunoPelli14 ($0.92 in chips) 
+Seat 4: TheDoctor1979 ($2.81 in chips) 
+Seat 6: Mudder1975 ($0.30 in chips) 
+rodela_silva: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+PBPablito: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 3c]
+TheDoctor1979: calls $0.02
+Mudder1975: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.04
+Mudder1975: calls $0.04
+*** FLOP *** [Ts Js Tc]
+TheDoctor1979: checks 
+Mudder1975: bets $0.02
+lawlex_2: folds 
+TheDoctor1979: folds 
+Uncalled bet ($0.02) returned to Mudder1975
+Mudder1975 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ts Js Tc]
+Seat 1: lawlex_2 (button) folded on the Flop
+Seat 2: rodela_silva (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: TheDoctor1979 folded on the Flop
+Seat 6: Mudder1975 collected ($0.20)
+
+
+
+PokerStars Hand #213476260729:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:19:47 MSK [2020/05/07 23:19:47 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.48 in chips) 
+Seat 2: rodela_silva ($0.82 in chips) 
+Seat 3: BrunoPelli14 ($0.90 in chips) 
+Seat 4: TheDoctor1979 ($2.75 in chips) 
+Seat 6: Mudder1975 ($0.44 in chips) 
+BrunoPelli14: posts small blind $0.01
+TheDoctor1979: posts big blind $0.02
+PBPablito: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 8h]
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: folds 
+BrunoPelli14: raises $0.04 to $0.06
+TheDoctor1979: folds 
+Uncalled bet ($0.04) returned to BrunoPelli14
+BrunoPelli14 collected $0.04 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva (button) folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (small blind) collected ($0.04)
+Seat 4: TheDoctor1979 (big blind) folded before Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476268161:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:20:00 MSK [2020/05/07 23:20:00 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.48 in chips) 
+Seat 2: rodela_silva ($0.82 in chips) 
+Seat 3: BrunoPelli14 ($0.92 in chips) 
+Seat 4: TheDoctor1979 ($2.73 in chips) 
+Seat 5: PBPablito ($1.60 in chips) 
+Seat 6: Mudder1975 ($0.44 in chips) 
+TheDoctor1979: posts small blind $0.01
+PBPablito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Td]
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: raises $0.02 to $0.04
+BrunoPelli14: calls $0.04
+TheDoctor1979: folds 
+PBPablito: calls $0.02
+*** FLOP *** [Qh 5s 9h]
+PBPablito: checks 
+rodela_silva: bets $0.08
+BrunoPelli14: raises $0.14 to $0.22
+PBPablito: folds 
+rodela_silva: folds 
+Uncalled bet ($0.14) returned to BrunoPelli14
+BrunoPelli14 collected $0.28 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qh 5s 9h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva folded on the Flop
+Seat 3: BrunoPelli14 (button) collected ($0.28)
+Seat 4: TheDoctor1979 (small blind) folded before Flop
+Seat 5: PBPablito (big blind) folded on the Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476300572:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:20:41 MSK [2020/05/07 23:20:41 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.48 in chips) 
+Seat 2: rodela_silva ($0.70 in chips) 
+Seat 3: BrunoPelli14 ($1.08 in chips) 
+Seat 4: TheDoctor1979 ($2.72 in chips) 
+Seat 5: PBPablito ($1.56 in chips) 
+Seat 6: Mudder1975 ($0.44 in chips) 
+PBPablito: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Qs]
+lawlex_2: folds 
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+PBPablito: folds 
+Mudder1975: checks 
+*** FLOP *** [Jc 3h 3d]
+Mudder1975: checks 
+TheDoctor1979: checks 
+*** TURN *** [Jc 3h 3d] [9d]
+Mudder1975: checks 
+TheDoctor1979: checks 
+*** RIVER *** [Jc 3h 3d 9d] [6s]
+Mudder1975: checks 
+TheDoctor1979: checks 
+*** SHOW DOWN ***
+Mudder1975: shows [Ks 7s] (a pair of Threes)
+TheDoctor1979: shows [Kd Tc] (a pair of Threes - King+Jack+Ten kicker)
+TheDoctor1979 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jc 3h 3d 9d 6s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (button) showed [Kd Tc] and won ($0.05) with a pair of Threes
+Seat 5: PBPablito (small blind) folded before Flop
+Seat 6: Mudder1975 (big blind) showed [Ks 7s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #213476314834:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:21:06 MSK [2020/05/07 23:21:06 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($0.48 in chips) 
+Seat 2: rodela_silva ($0.70 in chips) 
+Seat 3: BrunoPelli14 ($1.08 in chips) 
+Seat 4: TheDoctor1979 ($2.75 in chips) 
+Seat 5: PBPablito ($1.55 in chips) 
+Seat 6: Mudder1975 ($0.42 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h Js]
+rodela_silva: raises $0.02 to $0.04
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.04
+PBPablito: folds 
+Mudder1975: calls $0.03
+lawlex_2: folds 
+*** FLOP *** [Ah 9c 3c]
+Mudder1975: checks 
+rodela_silva: checks 
+TheDoctor1979: bets $0.02
+Mudder1975: folds 
+rodela_silva: calls $0.02
+*** TURN *** [Ah 9c 3c] [Ac]
+rodela_silva: checks 
+TheDoctor1979: bets $0.09
+rodela_silva: folds 
+Uncalled bet ($0.09) returned to TheDoctor1979
+TheDoctor1979 collected $0.17 from pot
+TheDoctor1979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ah 9c 3c Ac]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: rodela_silva folded on the Turn
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 collected ($0.17)
+Seat 5: PBPablito (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213476334927:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:21:42 MSK [2020/05/07 23:21:42 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.46 in chips) 
+Seat 2: rodela_silva ($0.64 in chips) 
+Seat 3: BrunoPelli14 ($1.08 in chips) 
+Seat 4: TheDoctor1979 ($2.86 in chips) 
+Seat 5: PBPablito ($1.55 in chips) 
+Seat 6: Mudder1975 ($0.38 in chips) 
+lawlex_2: posts small blind $0.01
+rodela_silva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 3c]
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+PBPablito: raises $0.04 to $0.06
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: folds 
+TheDoctor1979: calls $0.04
+*** FLOP *** [6c Kh Js]
+TheDoctor1979: checks 
+PBPablito: checks 
+*** TURN *** [6c Kh Js] [Th]
+TheDoctor1979: checks 
+PBPablito: checks 
+*** RIVER *** [6c Kh Js Th] [9c]
+TheDoctor1979: checks 
+PBPablito: checks 
+*** SHOW DOWN ***
+TheDoctor1979: shows [3d 4c] (high card King)
+PBPablito: shows [8s 8h] (a pair of Eights)
+PBPablito collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6c Kh Js Th 9c]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: rodela_silva (big blind) folded before Flop
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 showed [3d 4c] and lost with high card King
+Seat 5: PBPablito showed [8s 8h] and won ($0.14) with a pair of Eights
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476356125:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:22:19 MSK [2020/05/07 23:22:19 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.45 in chips) 
+Seat 2: rodela_silva ($0.62 in chips) 
+Seat 3: BrunoPelli14 ($1.08 in chips) 
+Seat 4: TheDoctor1979 ($2.80 in chips) 
+Seat 5: PBPablito ($1.63 in chips) 
+Seat 6: Mudder1975 ($0.38 in chips) 
+rodela_silva: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 9s]
+TheDoctor1979: calls $0.02
+PBPablito: calls $0.02
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: raises $0.02 to $0.04
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+PBPablito: calls $0.02
+*** FLOP *** [Kc 9d 2h]
+rodela_silva: checks 
+TheDoctor1979: bets $0.02
+PBPablito: folds 
+rodela_silva: folds 
+Uncalled bet ($0.02) returned to TheDoctor1979
+TheDoctor1979 collected $0.14 from pot
+TheDoctor1979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Kc 9d 2h]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: rodela_silva (small blind) folded on the Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: TheDoctor1979 collected ($0.14)
+Seat 5: PBPablito folded on the Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476371536:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:22:47 MSK [2020/05/07 23:22:47 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.45 in chips) 
+Seat 2: rodela_silva ($0.58 in chips) 
+Seat 3: BrunoPelli14 ($1.06 in chips) 
+Seat 4: TheDoctor1979 ($2.90 in chips) 
+Seat 5: PBPablito ($1.59 in chips) 
+Seat 6: Mudder1975 ($0.38 in chips) 
+BrunoPelli14: posts small blind $0.01
+TheDoctor1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 3d]
+PBPablito: raises $0.04 to $0.06
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: folds 
+BrunoPelli14: calls $0.05
+TheDoctor1979: folds 
+*** FLOP *** [5s 6s 8c]
+BrunoPelli14: checks 
+PBPablito: bets $0.14
+BrunoPelli14: folds 
+Uncalled bet ($0.14) returned to PBPablito
+PBPablito collected $0.14 from pot
+PBPablito: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5s 6s 8c]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva (button) folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (small blind) folded on the Flop
+Seat 4: TheDoctor1979 (big blind) folded before Flop
+Seat 5: PBPablito collected ($0.14)
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476390641:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:23:21 MSK [2020/05/07 23:23:21 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.45 in chips) 
+Seat 2: rodela_silva ($0.58 in chips) 
+Seat 3: BrunoPelli14 ($1 in chips) 
+Seat 4: TheDoctor1979 ($2.88 in chips) 
+Seat 5: PBPablito ($1.67 in chips) 
+Seat 6: Mudder1975 ($0.38 in chips) 
+TheDoctor1979: posts small blind $0.01
+PBPablito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Jc]
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: folds 
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.01
+PBPablito: checks 
+*** FLOP *** [8h 6d Th]
+TheDoctor1979: bets $0.04
+PBPablito: calls $0.04
+*** TURN *** [8h 6d Th] [3d]
+TheDoctor1979: bets $0.12
+PBPablito: calls $0.12
+*** RIVER *** [8h 6d Th 3d] [Ad]
+TheDoctor1979: bets $0.18
+PBPablito: raises $0.71 to $0.89
+TheDoctor1979: raises $0.71 to $1.60
+PBPablito: calls $0.60 and is all-in
+Uncalled bet ($0.11) returned to TheDoctor1979
+*** SHOW DOWN ***
+TheDoctor1979: shows [8s 8d] (three of a kind, Eights)
+PBPablito: shows [Qd 7d] (a flush, Ace high)
+PBPablito collected $3.22 from pot
+*** SUMMARY ***
+Total pot $3.34 | Rake $0.12 
+Board [8h 6d Th 3d Ad]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 (small blind) showed [8s 8d] and lost with three of a kind, Eights
+Seat 5: PBPablito (big blind) showed [Qd 7d] and won ($3.22) with a flush, Ace high
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476424300:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:24:21 MSK [2020/05/07 23:24:21 ET]
+Table 'Subra IV' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($0.45 in chips) 
+Seat 2: rodela_silva ($0.58 in chips) 
+Seat 3: BrunoPelli14 ($1 in chips) 
+Seat 4: TheDoctor1979 ($1.21 in chips) 
+Seat 5: PBPablito ($3.22 in chips) 
+Seat 6: Mudder1975 ($0.38 in chips) 
+PBPablito: posts small blind $0.01
+Mudder1975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 6d]
+lawlex_2: folds 
+rodela_silva: calls $0.02
+BrunoPelli14: raises $0.06 to $0.08
+TheDoctor1979: calls $0.08
+PBPablito: folds 
+Mudder1975: folds 
+rodela_silva: calls $0.06
+*** FLOP *** [7s 5h Tc]
+rodela_silva: checks 
+BrunoPelli14: bets $0.09
+TheDoctor1979: folds 
+rodela_silva: folds 
+Uncalled bet ($0.09) returned to BrunoPelli14
+BrunoPelli14 collected $0.26 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [7s 5h Tc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva folded on the Flop
+Seat 3: BrunoPelli14 collected ($0.26)
+Seat 4: TheDoctor1979 (button) folded on the Flop
+Seat 5: PBPablito (small blind) folded before Flop
+Seat 6: Mudder1975 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213476443940:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:24:56 MSK [2020/05/07 23:24:56 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($0.45 in chips) 
+Seat 2: rodela_silva ($0.50 in chips) 
+Seat 3: BrunoPelli14 ($1.18 in chips) 
+Seat 4: TheDoctor1979 ($1.13 in chips) 
+Seat 5: PBPablito ($3.21 in chips) 
+Seat 6: Mudder1975 ($0.36 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s Kd]
+rodela_silva: calls $0.02
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.02
+PBPablito: calls $0.02
+Mudder1975: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [9c 9d Ac]
+Mudder1975: checks 
+lawlex_2: checks 
+rodela_silva: bets $0.06
+TheDoctor1979: raises $0.06 to $0.12
+PBPablito: calls $0.12
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: calls $0.06
+*** TURN *** [9c 9d Ac] [Js]
+rodela_silva: checks 
+TheDoctor1979: bets $0.02
+PBPablito: raises $0.48 to $0.50
+rodela_silva: folds 
+TheDoctor1979: calls $0.48
+*** RIVER *** [9c 9d Ac Js] [4c]
+TheDoctor1979: checks 
+PBPablito: checks 
+*** SHOW DOWN ***
+TheDoctor1979: shows [As Tc] (two pair, Aces and Nines)
+PBPablito: shows [4h 9h] (a full house, Nines full of Fours)
+PBPablito collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [9c 9d Ac Js 4c]
+Seat 1: lawlex_2 (big blind) folded on the Flop
+Seat 2: rodela_silva folded on the Turn
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 showed [As Tc] and lost with two pair, Aces and Nines
+Seat 5: PBPablito (button) showed [4h 9h] and won ($1.41) with a full house, Nines full of Fours
+Seat 6: Mudder1975 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213476478848:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:26:00 MSK [2020/05/07 23:26:00 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($0.43 in chips) 
+Seat 2: rodela_silva ($0.36 in chips) 
+Seat 3: BrunoPelli14 ($1.18 in chips) 
+Seat 4: TheDoctor1979 ($0.49 in chips) 
+Seat 5: PBPablito ($3.98 in chips) 
+Seat 6: Mudder1975 ($0.34 in chips) 
+lawlex_2: posts small blind $0.01
+rodela_silva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d Td]
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+PBPablito: folds 
+Mudder1975: folds 
+lawlex_2: calls $0.01
+rodela_silva: checks 
+*** FLOP *** [Jc 7h 8c]
+lawlex_2: bets $0.03
+rodela_silva: calls $0.03
+*** TURN *** [Jc 7h 8c] [Ah]
+lawlex_2: bets $0.07
+rodela_silva: folds 
+Uncalled bet ($0.07) returned to lawlex_2
+lawlex_2 collected $0.10 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jc 7h 8c Ah]
+Seat 1: lawlex_2 (small blind) collected ($0.10)
+Seat 2: rodela_silva (big blind) folded on the Turn
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 5: PBPablito folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476497267:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:26:33 MSK [2020/05/07 23:26:33 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($0.48 in chips) 
+Seat 2: rodela_silva ($0.31 in chips) 
+Seat 3: BrunoPelli14 ($1.18 in chips) 
+Seat 4: TheDoctor1979 ($0.49 in chips) 
+Seat 5: PBPablito ($3.98 in chips) 
+Seat 6: Mudder1975 ($0.34 in chips) 
+rodela_silva: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d Qc]
+TheDoctor1979: folds 
+PBPablito: raises $0.02 to $0.04
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: folds 
+BrunoPelli14: calls $0.02
+*** FLOP *** [6s 3d 3c]
+BrunoPelli14: bets $0.05
+PBPablito: calls $0.05
+*** TURN *** [6s 3d 3c] [4s]
+BrunoPelli14: bets $0.09
+PBPablito: folds 
+Uncalled bet ($0.09) returned to BrunoPelli14
+BrunoPelli14 collected $0.18 from pot
+BrunoPelli14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6s 3d 3c 4s]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: rodela_silva (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) collected ($0.18)
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 5: PBPablito folded on the Turn
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476525765:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:27:24 MSK [2020/05/07 23:27:24 ET]
+Table 'Subra IV' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($0.48 in chips) 
+Seat 2: rodela_silva ($0.30 in chips) 
+Seat 3: BrunoPelli14 ($1.27 in chips) 
+Seat 4: TheDoctor1979 ($0.49 in chips) 
+Seat 5: PBPablito ($3.89 in chips) 
+Seat 6: Mudder1975 ($0.34 in chips) 
+BrunoPelli14: posts small blind $0.01
+TheDoctor1979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 4h]
+PBPablito: calls $0.02
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: raises $0.28 to $0.30 and is all-in
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+PBPablito: calls $0.28
+*** FLOP *** [3d 8h 7h]
+*** TURN *** [3d 8h 7h] [5h]
+*** RIVER *** [3d 8h 7h 5h] [6h]
+*** SHOW DOWN ***
+PBPablito: shows [Jd 9d] (a straight, Five to Nine)
+rodela_silva: shows [Ah Kd] (a flush, Ace high)
+rodela_silva collected $0.61 from pot
+PBPablito cashed out the hand for $0.24
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [3d 8h 7h 5h 6h]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: rodela_silva (button) showed [Ah Kd] and won ($0.61) with a flush, Ace high
+Seat 3: BrunoPelli14 (small blind) folded before Flop
+Seat 4: TheDoctor1979 (big blind) folded before Flop
+Seat 5: PBPablito showed [Jd 9d] and lost with a straight, Five to Nine (cashed out).
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476548113:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:28:04 MSK [2020/05/07 23:28:04 ET]
+Table 'Subra IV' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($0.48 in chips) 
+Seat 2: rodela_silva ($0.61 in chips) 
+Seat 3: BrunoPelli14 ($1.26 in chips) 
+Seat 4: TheDoctor1979 ($0.47 in chips) 
+Seat 5: PBPablito ($3.83 in chips) 
+Seat 6: Mudder1975 ($0.34 in chips) 
+TheDoctor1979: posts small blind $0.01
+PBPablito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Kh]
+Mudder1975: folds 
+lawlex_2: raises $0.04 to $0.06
+rodela_silva: folds 
+BrunoPelli14: calls $0.06
+TheDoctor1979: calls $0.05
+PBPablito: folds 
+*** FLOP *** [6c Kc 4h]
+TheDoctor1979: bets $0.02
+lawlex_2: raises $0.23 to $0.25
+BrunoPelli14: folds 
+TheDoctor1979: calls $0.23
+*** TURN *** [6c Kc 4h] [9d]
+TheDoctor1979: checks 
+lawlex_2: bets $0.17 and is all-in
+TheDoctor1979: calls $0.16 and is all-in
+Uncalled bet ($0.01) returned to lawlex_2
+*** RIVER *** [6c Kc 4h 9d] [As]
+*** SHOW DOWN ***
+TheDoctor1979: shows [Ad Ks] (two pair, Aces and Kings)
+lawlex_2: shows [Qs Kh] (a pair of Kings)
+TheDoctor1979 collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [6c Kc 4h 9d As]
+Seat 1: lawlex_2 showed [Qs Kh] and lost with a pair of Kings
+Seat 2: rodela_silva folded before Flop (didn't bet)
+Seat 3: BrunoPelli14 (button) folded on the Flop
+Seat 4: TheDoctor1979 (small blind) showed [Ad Ks] and won ($0.98) with two pair, Aces and Kings
+Seat 5: PBPablito (big blind) folded before Flop
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213476611906:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:30:00 MSK [2020/05/07 23:30:00 ET]
+Table 'Subra IV' 6-max Seat #5 is the button
+Seat 1: lawlex_2 ($2 in chips) 
+Seat 2: rodela_silva ($0.61 in chips) 
+Seat 3: BrunoPelli14 ($1.14 in chips) 
+Seat 4: TheDoctor1979 ($0.72 in chips) 
+Seat 5: PBPablito ($4.13 in chips) 
+Seat 6: Mudder1975 ($0.32 in chips) 
+Mudder1975: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d 6h]
+rodela_silva: calls $0.02
+BrunoPelli14: raises $0.06 to $0.08
+TheDoctor1979: folds 
+PBPablito: folds 
+Mudder1975: folds 
+lawlex_2: folds 
+rodela_silva: calls $0.06
+*** FLOP *** [2h 5h 3s]
+rodela_silva: bets $0.08
+BrunoPelli14: calls $0.08
+*** TURN *** [2h 5h 3s] [6c]
+rodela_silva: bets $0.08
+BrunoPelli14: raises $0.12 to $0.20
+rodela_silva: raises $0.25 to $0.45 and is all-in
+BrunoPelli14: folds 
+Uncalled bet ($0.25) returned to rodela_silva
+rodela_silva collected $0.72 from pot
+rodela_silva: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2h 5h 3s 6c]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: rodela_silva collected ($0.72)
+Seat 3: BrunoPelli14 folded on the Turn
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 5: PBPablito (button) folded before Flop (didn't bet)
+Seat 6: Mudder1975 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213476651921:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:31:01 MSK [2020/05/07 23:31:01 ET]
+Table 'Subra IV' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($1.98 in chips) 
+Seat 2: rodela_silva ($0.97 in chips) 
+Seat 3: BrunoPelli14 ($0.78 in chips) 
+Seat 4: TheDoctor1979 ($0.72 in chips) 
+Seat 5: PBPablito ($4.13 in chips) 
+Seat 6: Mudder1975 ($0.31 in chips) 
+lawlex_2: posts small blind $0.01
+rodela_silva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 5c]
+BrunoPelli14: folds 
+TheDoctor1979: folds 
+PBPablito: folds 
+Mudder1975: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+rodela_silva: folds 
+Mudder1975: calls $0.04
+*** FLOP *** [Jd 2h 8h]
+lawlex_2: bets $0.09
+Mudder1975: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jd 2h 8h]
+Seat 1: lawlex_2 (small blind) collected ($0.14)
+Seat 2: rodela_silva (big blind) folded before Flop
+Seat 3: BrunoPelli14 folded before Flop (didn't bet)
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 5: PBPablito folded before Flop (didn't bet)
+Seat 6: Mudder1975 (button) folded on the Flop
+
+
+
+PokerStars Hand #213476669751:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/08 6:31:34 MSK [2020/05/07 23:31:34 ET]
+Table 'Subra IV' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.06 in chips) 
+Seat 2: rodela_silva ($0.95 in chips) 
+Seat 3: BrunoPelli14 ($0.78 in chips) 
+Seat 4: TheDoctor1979 ($0.72 in chips) 
+Seat 5: PBPablito ($4.13 in chips) 
+Seat 6: Mudder1975 ($0.25 in chips) 
+rodela_silva: posts small blind $0.01
+BrunoPelli14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Ts]
+TheDoctor1979: folds 
+PBPablito: raises $0.04 to $0.06
+Mudder1975: folds 
+lawlex_2: raises $0.15 to $0.21
+rodela_silva: folds 
+BrunoPelli14: folds 
+PBPablito: calls $0.15
+*** FLOP *** [Kh 8d Ac]
+PBPablito: bets $0.22
+lawlex_2: raises $1.63 to $1.85 and is all-in
+PBPablito: calls $1.63
+*** TURN *** [Kh 8d Ac] [6s]
+*** RIVER *** [Kh 8d Ac 6s] [Td]
+*** SHOW DOWN ***
+PBPablito: shows [Ad Qh] (a pair of Aces)
+lawlex_2: shows [Th Ts] (three of a kind, Tens)
+lawlex_2 collected $4 from pot
+*** SUMMARY ***
+Total pot $4.15 | Rake $0.15 
+Board [Kh 8d Ac 6s Td]
+Seat 1: lawlex_2 (button) showed [Th Ts] and won ($4) with three of a kind, Tens
+Seat 2: rodela_silva (small blind) folded before Flop
+Seat 3: BrunoPelli14 (big blind) folded before Flop
+Seat 4: TheDoctor1979 folded before Flop (didn't bet)
+Seat 5: PBPablito showed [Ad Qh] and lost with a pair of Aces
+Seat 6: Mudder1975 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,217 @@
+﻿PokerStars Hand #212990889263:  Hold'em No Limit (50/100) - 2020/04/30 13:40:28 MSK [2020/04/30 6:40:28 ET]
+Table 'Cohnia III' 6-max (Play Money) Seat #5 is the button
+Seat 1: lawlex_2 (10000 in chips) 
+Seat 2: DaNotes (7500 in chips) 
+Seat 3: miromelo100 (9900 in chips) 
+Seat 4: Baliii (7800 in chips) 
+Seat 5: monac418 (10247 in chips) 
+Seat 6: FunNova8J401 (19918 in chips) 
+FunNova8J401: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Qs]
+DaNotes: calls 100
+miromelo100: folds 
+Baliii: calls 100
+monac418: calls 100
+FunNova8J401: raises 1150 to 1250
+lawlex_2: folds 
+DaNotes: folds 
+Baliii: folds 
+monac418: calls 1150
+*** FLOP *** [Ac Td Qd]
+FunNova8J401: bets 18668 and is all-in
+monac418: calls 8997 and is all-in
+Uncalled bet (9671) returned to FunNova8J401
+*** TURN *** [Ac Td Qd] [Tc]
+*** RIVER *** [Ac Td Qd Tc] [Js]
+*** SHOW DOWN ***
+FunNova8J401: shows [4s 2h] (a pair of Tens)
+monac418: shows [Ks Ts] (a straight, Ten to Ace)
+monac418 collected 19650 from pot
+*** SUMMARY ***
+Total pot 20794 | Rake 1144 
+Board [Ac Td Qd Tc Js]
+Seat 1: lawlex_2 (big blind) folded before Flop
+Seat 2: DaNotes folded before Flop
+Seat 3: miromelo100 folded before Flop (didn't bet)
+Seat 4: Baliii folded before Flop
+Seat 5: monac418 (button) showed [Ks Ts] and won (19650) with a straight, Ten to Ace
+Seat 6: FunNova8J401 (small blind) showed [4s 2h] and lost with a pair of Tens
+
+
+
+PokerStars Hand #212990915129:  Hold'em No Limit (50/100) - 2020/04/30 13:41:21 MSK [2020/04/30 6:41:21 ET]
+Table 'Cohnia III' 6-max (Play Money) Seat #6 is the button
+Seat 1: lawlex_2 (9900 in chips) 
+Seat 2: DaNotes (7400 in chips) 
+Seat 3: miromelo100 (9900 in chips) 
+Seat 4: Baliii (7700 in chips) 
+Seat 5: monac418 (19650 in chips) 
+Seat 6: FunNova8J401 (9671 in chips) 
+lawlex_2: posts small blind 50
+DaNotes: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Jc]
+miromelo100: folds 
+Baliii: calls 100
+monac418: calls 100
+FunNova8J401: raises 9571 to 9671 and is all-in
+lawlex_2: folds 
+DaNotes: calls 7300 and is all-in
+Baliii: folds 
+monac418: calls 9571
+*** FLOP *** [Td 9h 7c]
+*** TURN *** [Td 9h 7c] [8s]
+*** RIVER *** [Td 9h 7c 8s] [Kd]
+*** SHOW DOWN ***
+monac418: shows [Kh Ah] (a pair of Kings)
+FunNova8J401: shows [2d Qd] (high card King)
+monac418 collected 4292 from side pot
+DaNotes: shows [Jd Kc] (a straight, Seven to Jack)
+DaNotes collected 21121 from main pot
+*** SUMMARY ***
+Total pot 26892 Main pot 21121. Side pot 4292. | Rake 1479 
+Board [Td 9h 7c 8s Kd]
+Seat 1: lawlex_2 (small blind) folded before Flop
+Seat 2: DaNotes (big blind) showed [Jd Kc] and won (21121) with a straight, Seven to Jack
+Seat 3: miromelo100 folded before Flop (didn't bet)
+Seat 4: Baliii folded before Flop
+Seat 5: monac418 showed [Kh Ah] and won (4292) with a pair of Kings
+Seat 6: FunNova8J401 (button) showed [2d Qd] and lost with high card King
+
+
+
+PokerStars Hand #212990933676:  Hold'em No Limit (50/100) - 2020/04/30 13:42:00 MSK [2020/04/30 6:42:00 ET]
+Table 'Cohnia III' 6-max (Play Money) Seat #1 is the button
+Seat 1: lawlex_2 (9850 in chips) 
+Seat 2: DaNotes (21121 in chips) 
+Seat 3: miromelo100 (9900 in chips) 
+Seat 4: Baliii (7600 in chips) 
+Seat 5: monac418 (14271 in chips) 
+DaNotes: posts small blind 50
+miromelo100: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 2s]
+Baliii: folds 
+monac418: calls 100
+lawlex_2: folds 
+DaNotes: calls 50
+miromelo100: checks 
+*** FLOP *** [4d 4h Qc]
+DaNotes: checks 
+miromelo100: checks 
+monac418: checks 
+*** TURN *** [4d 4h Qc] [3d]
+DaNotes: checks 
+miromelo100: checks 
+monac418: checks 
+*** RIVER *** [4d 4h Qc 3d] [8h]
+DaNotes: checks 
+miromelo100: checks 
+monac418: bets 200
+DaNotes: calls 200
+miromelo100: folds 
+*** SHOW DOWN ***
+monac418: shows [9d 8c] (two pair, Eights and Fours)
+DaNotes: shows [8d 6s] (two pair, Eights and Fours)
+DaNotes collected 331 from pot
+monac418 collected 330 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 39 
+Board [4d 4h Qc 3d 8h]
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: DaNotes (small blind) showed [8d 6s] and won (331) with two pair, Eights and Fours
+Seat 3: miromelo100 (big blind) folded on the River
+Seat 4: Baliii folded before Flop (didn't bet)
+Seat 5: monac418 showed [9d 8c] and won (330) with two pair, Eights and Fours
+
+
+
+PokerStars Hand #212990969420:  Hold'em No Limit (50/100) - 2020/04/30 13:42:58 MSK [2020/04/30 6:42:58 ET]
+Table 'Cohnia III' 6-max (Play Money) Seat #2 is the button
+Seat 1: lawlex_2 (9850 in chips) 
+Seat 2: DaNotes (21152 in chips) 
+Seat 3: miromelo100 (9800 in chips) 
+Seat 4: Baliii (7600 in chips) 
+Seat 5: monac418 (14301 in chips) 
+miromelo100: posts small blind 50
+Baliii: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 5s]
+monac418: raises 3000 to 3100
+lawlex_2: folds 
+DaNotes: folds 
+miromelo100: folds 
+Baliii: calls 3000
+*** FLOP *** [Jh Kd 9s]
+Baliii: checks 
+monac418: checks 
+*** TURN *** [Jh Kd 9s] [Qc]
+Baliii: checks 
+monac418: bets 4800
+miromelo100 leaves the table
+Baliii: folds 
+Uncalled bet (4800) returned to monac418
+monac418 collected 5906 from pot
+monac418: doesn't show hand 
+*** SUMMARY ***
+Total pot 6250 | Rake 344 
+Board [Jh Kd 9s Qc]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: DaNotes (button) folded before Flop (didn't bet)
+Seat 3: miromelo100 (small blind) folded before Flop
+Seat 4: Baliii (big blind) folded on the Turn
+Seat 5: monac418 collected (5906)
+
+
+
+PokerStars Hand #212990990473:  Hold'em No Limit (50/100) - 2020/04/30 13:43:42 MSK [2020/04/30 6:43:42 ET]
+Table 'Cohnia III' 6-max (Play Money) Seat #4 is the button
+Seat 1: lawlex_2 (9850 in chips) 
+Seat 2: DaNotes (21152 in chips) 
+Seat 4: Baliii (4500 in chips) 
+Seat 5: monac418 (17107 in chips) 
+monac418: posts small blind 50
+lawlex_2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Jd]
+URAGAN525 joins the table at seat #3 
+DaNotes: calls 100
+Baliii: calls 100
+monac418: calls 50
+lawlex_2: raises 200 to 300
+DaNotes: calls 200
+Baliii: calls 200
+monac418: calls 200
+*** FLOP *** [Qs Ks Qc]
+monac418: checks 
+lawlex_2: checks 
+DaNotes: checks 
+Baliii: checks 
+*** TURN *** [Qs Ks Qc] [Jh]
+monac418: checks 
+lawlex_2: checks 
+DaNotes: checks 
+Baliii: checks 
+*** RIVER *** [Qs Ks Qc Jh] [Ts]
+monac418: checks 
+lawlex_2: checks 
+DaNotes: checks 
+Baliii: checks 
+*** SHOW DOWN ***
+monac418: shows [8s 2c] (a pair of Queens)
+lawlex_2: shows [Td Jd] (two pair, Queens and Jacks)
+DaNotes: mucks hand 
+Baliii: shows [Kc 5s] (two pair, Kings and Queens)
+Baliii collected 1134 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 66 
+Board [Qs Ks Qc Jh Ts]
+Seat 1: lawlex_2 (big blind) showed [Td Jd] and lost with two pair, Queens and Jacks
+Seat 2: DaNotes mucked [6h 7d]
+Seat 4: Baliii (button) showed [Kc 5s] and won (1134) with two pair, Kings and Queens
+Seat 5: monac418 (small blind) showed [8s 2c] and lost with a pair of Queens
+
+
+

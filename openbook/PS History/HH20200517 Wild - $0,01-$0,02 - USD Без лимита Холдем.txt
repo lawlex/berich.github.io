@@ -1,0 +1,5207 @@
+﻿PokerStars Hand #214009402801:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:51:42 MSK [2020/05/17 1:51:42 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Mike115Li ($2.41 in chips) 
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: simmo5050 ($3.19 in chips) 
+Seat 4: Term1nallyCh1ll ($0.89 in chips) 
+Seat 5: thesaltypup ($1.86 in chips) 
+Seat 6: SportageIII ($0.44 in chips) 
+Mike115Li: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 7c]
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+thesaltypup: calls $0.02
+SportageIII: folds 
+Mike115Li: folds 
+lawlex_2: checks 
+*** FLOP *** [Td 4s 5h]
+lawlex_2: bets $0.03
+thesaltypup: raises $0.03 to $0.06
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to thesaltypup
+thesaltypup collected $0.11 from pot
+thesaltypup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Td 4s 5h]
+Seat 1: Mike115Li (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: thesaltypup collected ($0.11)
+Seat 6: SportageIII (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214009417917:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:52:20 MSK [2020/05/17 1:52:20 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Mike115Li ($2.40 in chips) 
+Seat 2: lawlex_2 ($1.95 in chips) 
+Seat 3: simmo5050 ($3.19 in chips) 
+Seat 4: Term1nallyCh1ll ($0.89 in chips) 
+Seat 5: thesaltypup ($1.92 in chips) 
+Seat 6: SportageIII ($0.44 in chips) 
+lawlex_2: posts small blind $0.01
+simmo5050: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc 7h]
+Term1nallyCh1ll: folds 
+thesaltypup: raises $0.04 to $0.06
+SportageIII: folds 
+Mike115Li: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Uncalled bet ($0.04) returned to thesaltypup
+thesaltypup collected $0.05 from pot
+thesaltypup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Mike115Li (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: simmo5050 (big blind) folded before Flop
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: thesaltypup collected ($0.05)
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214009429511:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:52:49 MSK [2020/05/17 1:52:49 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Mike115Li ($2.40 in chips) 
+Seat 2: lawlex_2 ($1.94 in chips) 
+Seat 3: simmo5050 ($3.17 in chips) 
+Seat 4: Term1nallyCh1ll ($0.89 in chips) 
+Seat 5: thesaltypup ($1.95 in chips) 
+Seat 6: SportageIII ($0.44 in chips) 
+simmo5050: posts small blind $0.01
+Term1nallyCh1ll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Jc]
+thesaltypup: raises $0.02 to $0.04
+SportageIII: raises $0.02 to $0.06
+Mike115Li: folds 
+lawlex_2: calls $0.06
+simmo5050: calls $0.05
+Term1nallyCh1ll: folds 
+thesaltypup: raises $0.06 to $0.12
+SportageIII: calls $0.06
+lawlex_2: calls $0.06
+simmo5050: calls $0.06
+*** FLOP *** [6c 2h Kc]
+simmo5050: checks 
+thesaltypup: checks 
+SportageIII: checks 
+lawlex_2: bets $0.24
+simmo5050: folds 
+thesaltypup: folds 
+SportageIII: folds 
+Uncalled bet ($0.24) returned to lawlex_2
+lawlex_2 collected $0.48 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [6c 2h Kc]
+Seat 1: Mike115Li folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) collected ($0.48)
+Seat 3: simmo5050 (small blind) folded on the Flop
+Seat 4: Term1nallyCh1ll (big blind) folded before Flop
+Seat 5: thesaltypup folded on the Flop
+Seat 6: SportageIII folded on the Flop
+
+
+
+PokerStars Hand #214009456448:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:53:58 MSK [2020/05/17 1:53:58 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: Mike115Li ($2.40 in chips) 
+Seat 2: lawlex_2 ($2.30 in chips) 
+Seat 3: simmo5050 ($3.05 in chips) 
+Seat 4: Term1nallyCh1ll ($0.87 in chips) 
+Seat 5: thesaltypup ($1.83 in chips) 
+Seat 6: SportageIII ($0.32 in chips) 
+Term1nallyCh1ll: posts small blind $0.01
+thesaltypup: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3d Td]
+SportageIII: raises $0.04 to $0.06
+Mike115Li: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+thesaltypup: raises $0.12 to $0.18
+SportageIII: raises $0.14 to $0.32 and is all-in
+thesaltypup: calls $0.14
+*** FLOP *** [Jc 3h 5c]
+*** TURN *** [Jc 3h 5c] [9d]
+*** RIVER *** [Jc 3h 5c 9d] [Ad]
+*** SHOW DOWN ***
+thesaltypup: shows [Ac 4c] (a pair of Aces)
+SportageIII: shows [Ah Tc] (a pair of Aces - Jack+Ten kicker)
+SportageIII collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [Jc 3h 5c 9d Ad]
+Seat 1: Mike115Li folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 (button) folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (small blind) folded before Flop
+Seat 5: thesaltypup (big blind) showed [Ac 4c] and lost with a pair of Aces
+Seat 6: SportageIII showed [Ah Tc] and won ($0.63) with a pair of Aces
+
+
+
+PokerStars Hand #214009475527:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:54:46 MSK [2020/05/17 1:54:46 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Mike115Li ($2.40 in chips) 
+Seat 2: lawlex_2 ($2.30 in chips) 
+Seat 3: simmo5050 ($3.05 in chips) 
+Seat 4: Term1nallyCh1ll ($0.86 in chips) 
+Seat 5: thesaltypup ($1.51 in chips) 
+Seat 6: SportageIII ($0.63 in chips) 
+thesaltypup: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c Qc]
+Mike115Li: folds 
+lawlex_2: raises $0.03 to $0.05
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+thesaltypup: folds 
+SportageIII: calls $0.03
+*** FLOP *** [2h 6s Js]
+SportageIII: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to SportageIII
+SportageIII collected $0.11 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2h 6s Js]
+Seat 1: Mike115Li folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (button) folded before Flop (didn't bet)
+Seat 5: thesaltypup (small blind) folded before Flop
+Seat 6: SportageIII (big blind) collected ($0.11)
+
+
+
+PokerStars Hand #214009488886:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:55:23 MSK [2020/05/17 1:55:23 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Mike115Li ($2.40 in chips) 
+Seat 2: lawlex_2 ($2.25 in chips) 
+Seat 3: simmo5050 ($3.05 in chips) 
+Seat 4: Term1nallyCh1ll ($0.86 in chips) 
+Seat 5: thesaltypup ($1.50 in chips) 
+Seat 6: SportageIII ($0.69 in chips) 
+SportageIII: posts small blind $0.01
+Mike115Li: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Ks]
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+thesaltypup: raises $0.04 to $0.06
+SportageIII: calls $0.05
+Mike115Li: calls $0.04
+*** FLOP *** [Kc Jd 8h]
+SportageIII: bets $0.02
+Mike115Li: calls $0.02
+thesaltypup: raises $0.12 to $0.14
+SportageIII: calls $0.12
+Mike115Li: folds 
+*** TURN *** [Kc Jd 8h] [8d]
+SportageIII: checks 
+thesaltypup: bets $0.48
+SportageIII: folds 
+Uncalled bet ($0.48) returned to thesaltypup
+thesaltypup collected $0.46 from pot
+thesaltypup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Kc Jd 8h 8d]
+Seat 1: Mike115Li (big blind) folded on the Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: thesaltypup (button) collected ($0.46)
+Seat 6: SportageIII (small blind) folded on the Turn
+
+
+
+PokerStars Hand #214009506549:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:56:19 MSK [2020/05/17 1:56:19 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Mike115Li ($2.32 in chips) 
+Seat 2: lawlex_2 ($2.25 in chips) 
+Seat 3: simmo5050 ($3.05 in chips) 
+Seat 4: Term1nallyCh1ll ($0.86 in chips) 
+Seat 5: thesaltypup ($1.76 in chips) 
+Seat 6: SportageIII ($0.49 in chips) 
+Mike115Li: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 8c]
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+thesaltypup: folds 
+SportageIII: folds 
+Mike115Li: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Mike115Li (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.02)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: thesaltypup folded before Flop (didn't bet)
+Seat 6: SportageIII (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214009511416:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:56:34 MSK [2020/05/17 1:56:34 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Mike115Li ($2.31 in chips) 
+Seat 2: lawlex_2 ($2.26 in chips) 
+Seat 3: simmo5050 ($3.05 in chips) 
+Seat 4: Term1nallyCh1ll ($0.86 in chips) 
+Seat 5: thesaltypup ($1.76 in chips) 
+Seat 6: SportageIII ($0.49 in chips) 
+lawlex_2: posts small blind $0.01
+simmo5050: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 5h]
+Term1nallyCh1ll: folds 
+thesaltypup: folds 
+SportageIII: folds 
+Mike115Li: raises $0.03 to $0.05
+lawlex_2: folds 
+simmo5050: folds 
+Uncalled bet ($0.03) returned to Mike115Li
+Mike115Li collected $0.05 from pot
+Mike115Li: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Mike115Li (button) collected ($0.05)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: simmo5050 (big blind) folded before Flop
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: thesaltypup folded before Flop (didn't bet)
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214009516335:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:56:49 MSK [2020/05/17 1:56:49 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Mike115Li ($2.34 in chips) 
+Seat 2: lawlex_2 ($2.25 in chips) 
+Seat 3: simmo5050 ($3.03 in chips) 
+Seat 4: Term1nallyCh1ll ($0.86 in chips) 
+Seat 5: thesaltypup ($1.76 in chips) 
+Seat 6: SportageIII ($0.49 in chips) 
+simmo5050: posts small blind $0.01
+Term1nallyCh1ll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts Ks]
+thesaltypup: raises $0.06 to $0.08
+SportageIII: folds 
+Mike115Li: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+Uncalled bet ($0.06) returned to thesaltypup
+thesaltypup collected $0.05 from pot
+thesaltypup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Mike115Li folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: simmo5050 (small blind) folded before Flop
+Seat 4: Term1nallyCh1ll (big blind) folded before Flop
+Seat 5: thesaltypup collected ($0.05)
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214009524738:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:57:16 MSK [2020/05/17 1:57:16 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: Mike115Li ($2.34 in chips) 
+Seat 2: lawlex_2 ($2.25 in chips) 
+Seat 3: simmo5050 ($3.02 in chips) 
+Seat 4: Term1nallyCh1ll ($0.84 in chips) 
+Seat 5: thesaltypup ($1.79 in chips) 
+Seat 6: SportageIII ($0.49 in chips) 
+Term1nallyCh1ll: posts small blind $0.01
+thesaltypup: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Qd]
+SportageIII: folds 
+Mike115Li: folds 
+lawlex_2: folds 
+simmo5050: raises $0.04 to $0.06
+Term1nallyCh1ll: folds 
+thesaltypup: raises $0.06 to $0.12
+simmo5050: calls $0.06
+*** FLOP *** [2s Ac Kh]
+thesaltypup: checks 
+simmo5050: checks 
+*** TURN *** [2s Ac Kh] [9s]
+thesaltypup: bets $0.18
+simmo5050: folds 
+Uncalled bet ($0.18) returned to thesaltypup
+thesaltypup collected $0.24 from pot
+thesaltypup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2s Ac Kh 9s]
+Seat 1: Mike115Li folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 (button) folded on the Turn
+Seat 4: Term1nallyCh1ll (small blind) folded before Flop
+Seat 5: thesaltypup (big blind) collected ($0.24)
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214009541761:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:58:09 MSK [2020/05/17 1:58:09 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Mike115Li ($2.34 in chips) 
+Seat 2: lawlex_2 ($2.25 in chips) 
+Seat 3: simmo5050 ($2.90 in chips) 
+Seat 4: Term1nallyCh1ll ($0.83 in chips) 
+Seat 5: thesaltypup ($1.91 in chips) 
+Seat 6: SportageIII ($0.49 in chips) 
+thesaltypup: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Ad]
+Mike115Li: folds 
+lawlex_2: raises $0.03 to $0.05
+simmo5050: folds 
+Term1nallyCh1ll: calls $0.05
+thesaltypup: raises $0.03 to $0.08
+SportageIII: folds 
+lawlex_2: calls $0.03
+Term1nallyCh1ll: calls $0.03
+*** FLOP *** [Ks Js 3h]
+thesaltypup: bets $0.25
+lawlex_2: folds 
+Term1nallyCh1ll: calls $0.25
+*** TURN *** [Ks Js 3h] [8h]
+thesaltypup: checks 
+Term1nallyCh1ll: bets $0.36
+thesaltypup: calls $0.36
+*** RIVER *** [Ks Js 3h 8h] [9d]
+thesaltypup: checks 
+Term1nallyCh1ll: bets $0.14 and is all-in
+thesaltypup: folds 
+Uncalled bet ($0.14) returned to Term1nallyCh1ll
+Term1nallyCh1ll collected $1.43 from pot
+Term1nallyCh1ll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.48 | Rake $0.05 
+Board [Ks Js 3h 8h 9d]
+Seat 1: Mike115Li folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (button) collected ($1.43)
+Seat 5: thesaltypup (small blind) folded on the River
+Seat 6: SportageIII (big blind) folded before Flop
+
+
+
+PokerStars Hand #214009568561:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:59:18 MSK [2020/05/17 1:59:18 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Mike115Li ($2.34 in chips) 
+Seat 2: lawlex_2 ($2.17 in chips) 
+Seat 3: simmo5050 ($2.90 in chips) 
+Seat 4: Term1nallyCh1ll ($1.57 in chips) 
+Seat 5: thesaltypup ($1.22 in chips) 
+Seat 6: SportageIII ($0.47 in chips) 
+SportageIII: posts small blind $0.01
+Mike115Li: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d Js]
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+thesaltypup: folds 
+SportageIII: raises $0.10 to $0.12
+Mike115Li: folds 
+Uncalled bet ($0.10) returned to SportageIII
+SportageIII collected $0.04 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Mike115Li (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: thesaltypup (button) folded before Flop (didn't bet)
+Seat 6: SportageIII (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #214009576610:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 8:59:42 MSK [2020/05/17 1:59:42 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Mike115Li ($2.32 in chips) 
+Seat 2: lawlex_2 ($2.17 in chips) 
+Seat 3: simmo5050 ($2.90 in chips) 
+Seat 4: Term1nallyCh1ll ($1.57 in chips) 
+Seat 5: thesaltypup ($1.22 in chips) 
+Seat 6: SportageIII ($0.49 in chips) 
+Mike115Li: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Jd]
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+thesaltypup: raises $0.04 to $0.06
+SportageIII: calls $0.06
+Mike115Li: raises $0.18 to $0.24
+lawlex_2: folds 
+thesaltypup: raises $0.18 to $0.42
+SportageIII: raises $0.07 to $0.49 and is all-in
+Mike115Li: raises $1.83 to $2.32 and is all-in
+thesaltypup: calls $0.80 and is all-in
+Uncalled bet ($1.10) returned to Mike115Li
+*** FLOP *** [3c Kd 5s]
+*** TURN *** [3c Kd 5s] [Js]
+*** RIVER *** [3c Kd 5s Js] [4d]
+*** SHOW DOWN ***
+Mike115Li: shows [As Kh] (a pair of Kings)
+thesaltypup: shows [Td Th] (a pair of Tens)
+Mike115Li collected $1.41 from side pot
+SportageIII: shows [4s Ah] (a pair of Fours)
+Mike115Li collected $1.44 from main pot
+SportageIII cashed out the hand for $0.14
+*** SUMMARY ***
+Total pot $2.95 Main pot $1.44. Side pot $1.41. | Rake $0.10 
+Board [3c Kd 5s Js 4d]
+Seat 1: Mike115Li (small blind) showed [As Kh] and won ($2.85) with a pair of Kings
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: thesaltypup showed [Td Th] and lost with a pair of Tens
+Seat 6: SportageIII (button) showed [4s Ah] and lost with a pair of Fours (cashed out).
+
+
+
+PokerStars Hand #214009597264:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:00:41 MSK [2020/05/17 2:00:41 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Mike115Li ($3.95 in chips) 
+Seat 2: lawlex_2 ($2.15 in chips) 
+Seat 3: simmo5050 ($2.90 in chips) 
+Seat 4: Term1nallyCh1ll ($1.57 in chips) 
+Seat 6: SportageIII ($0.14 in chips) 
+lawlex_2: posts small blind $0.01
+simmo5050: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Kd]
+Term1nallyCh1ll: folds 
+SportageIII: raises $0.12 to $0.14 and is all-in
+Mike115Li: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Uncalled bet ($0.12) returned to SportageIII
+SportageIII collected $0.05 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Mike115Li (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: simmo5050 (big blind) folded before Flop
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 6: SportageIII collected ($0.05)
+
+
+
+PokerStars Hand #214009602345:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:00:54 MSK [2020/05/17 2:00:54 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Mike115Li ($3.95 in chips) 
+Seat 2: lawlex_2 ($2.14 in chips) 
+Seat 3: simmo5050 ($2.88 in chips) 
+Seat 4: Term1nallyCh1ll ($1.57 in chips) 
+Seat 6: SportageIII ($0.17 in chips) 
+simmo5050: posts small blind $0.01
+Term1nallyCh1ll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 5s]
+SportageIII: folds 
+Mike115Li: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Uncalled bet ($0.01) returned to Term1nallyCh1ll
+Term1nallyCh1ll collected $0.02 from pot
+Term1nallyCh1ll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Mike115Li folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: simmo5050 (small blind) folded before Flop
+Seat 4: Term1nallyCh1ll (big blind) collected ($0.02)
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214009606149:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:01:04 MSK [2020/05/17 2:01:04 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: Mike115Li ($3.95 in chips) 
+Seat 2: lawlex_2 ($2.14 in chips) 
+Seat 3: simmo5050 ($2.87 in chips) 
+Seat 4: Term1nallyCh1ll ($1.58 in chips) 
+Seat 6: SportageIII ($0.17 in chips) 
+Term1nallyCh1ll: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 6d]
+Mike115Li: folds 
+lawlex_2: raises $0.03 to $0.05
+simmo5050: calls $0.05
+Term1nallyCh1ll: calls $0.04
+SportageIII: calls $0.03
+*** FLOP *** [2c 8h Ks]
+Term1nallyCh1ll: checks 
+SportageIII: checks 
+lawlex_2: bets $0.13
+thesaltypup leaves the table
+simmo5050: calls $0.13
+Term1nallyCh1ll: folds 
+SaintMx joins the table at seat #5 
+SportageIII: folds 
+*** TURN *** [2c 8h Ks] [5d]
+lawlex_2: checks 
+simmo5050: bets $0.34
+lawlex_2: folds 
+Uncalled bet ($0.34) returned to simmo5050
+simmo5050 collected $0.44 from pot
+simmo5050: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [2c 8h Ks 5d]
+Seat 1: Mike115Li folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded on the Turn
+Seat 3: simmo5050 (button) collected ($0.44)
+Seat 4: Term1nallyCh1ll (small blind) folded on the Flop
+Seat 6: SportageIII (big blind) folded on the Flop
+
+
+
+PokerStars Hand #214009623153:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:01:49 MSK [2020/05/17 2:01:49 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Mike115Li ($3.95 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: simmo5050 ($3.13 in chips) 
+Seat 4: Term1nallyCh1ll ($1.53 in chips) 
+Seat 6: SportageIII ($0.12 in chips) 
+SportageIII: posts small blind $0.01
+Mike115Li: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Ks]
+lawlex_2: raises $0.03 to $0.05
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SportageIII: raises $0.07 to $0.12 and is all-in
+Mike115Li: folds 
+lawlex_2: calls $0.07
+SportageIII has timed out
+*** FLOP *** [Qs Tc 8h]
+*** TURN *** [Qs Tc 8h] [Ac]
+*** RIVER *** [Qs Tc 8h Ac] [Ah]
+*** SHOW DOWN ***
+SportageIII: shows [Ad Jc] (three of a kind, Aces)
+lawlex_2: shows [Qd Ks] (two pair, Aces and Queens)
+SportageIII collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Qs Tc 8h Ac Ah]
+Seat 1: Mike115Li (big blind) folded before Flop
+Seat 2: lawlex_2 showed [Qd Ks] and lost with two pair, Aces and Queens
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (button) folded before Flop (didn't bet)
+Seat 6: SportageIII (small blind) showed [Ad Jc] and won ($0.25) with three of a kind, Aces
+
+
+
+PokerStars Hand #214009639352:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:02:30 MSK [2020/05/17 2:02:30 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Mike115Li ($3.93 in chips) 
+Seat 2: lawlex_2 ($1.84 in chips) 
+Seat 3: simmo5050 ($3.13 in chips) 
+Seat 4: Term1nallyCh1ll ($1.53 in chips) 
+Seat 6: SportageIII ($0.25 in chips) 
+Mike115Li: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+SaintMx: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 6d]
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SportageIII: calls $0.02
+Mike115Li: folds 
+lawlex_2: checks 
+*** FLOP *** [Ac Ah Tc]
+Mike115Li leaves the table
+lawlex_2: bets $0.03
+SportageIII: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac Ah Tc]
+Seat 1: Mike115Li (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.05)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 6: SportageIII (button) folded on the Flop
+
+
+
+PokerStars Hand #214009648034:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:02:53 MSK [2020/05/17 2:02:53 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($1.87 in chips) 
+Seat 3: simmo5050 ($3.13 in chips) 
+Seat 4: Term1nallyCh1ll ($1.53 in chips) 
+Seat 6: SportageIII ($0.23 in chips) 
+simmo5050: posts small blind $0.01
+Term1nallyCh1ll: posts big blind $0.02
+SaintMx: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 3d]
+SportageIII: calls $0.02
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: raises $0.06 to $0.08
+SportageIII: calls $0.06
+*** FLOP *** [8d 9h 6d]
+Term1nallyCh1ll: bets $0.06
+SportageIII: raises $0.09 to $0.15 and is all-in
+Term1nallyCh1ll: calls $0.09
+*** TURN *** [8d 9h 6d] [Tc]
+*** RIVER *** [8d 9h 6d Tc] [2s]
+*** SHOW DOWN ***
+Term1nallyCh1ll: shows [Js Qh] (a straight, Eight to Queen)
+SportageIII: shows [7d Qs] (a straight, Six to Ten)
+Term1nallyCh1ll cashed out the hand for $0.32
+SportageIII cashed out the hand for $0.13
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [8d 9h 6d Tc 2s]
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: simmo5050 (small blind) folded before Flop
+Seat 4: Term1nallyCh1ll (big blind) showed [Js Qh] and won ($0.45) with a straight, Eight to Queen (pot not awarded as player cashed out)
+Seat 6: SportageIII showed [7d Qs] and lost with a straight, Six to Ten (cashed out).
+
+
+
+PokerStars Hand #214009666234:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:03:39 MSK [2020/05/17 2:03:39 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($1.87 in chips) 
+Seat 3: simmo5050 ($3.12 in chips) 
+Seat 4: Term1nallyCh1ll ($1.62 in chips) 
+Seat 5: SaintMx ($2 in chips) 
+Seat 6: SportageIII ($0.13 in chips) 
+Term1nallyCh1ll: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 4c]
+SportageIII: folds 
+lawlex_2: folds 
+simmo5050: raises $0.04 to $0.06
+Term1nallyCh1ll: calls $0.05
+SaintMx: folds 
+*** FLOP *** [Ah 2d Th]
+Term1nallyCh1ll: checks 
+simmo5050: checks 
+*** TURN *** [Ah 2d Th] [5h]
+Term1nallyCh1ll: bets $0.10
+simmo5050: folds 
+Uncalled bet ($0.10) returned to Term1nallyCh1ll
+Term1nallyCh1ll collected $0.14 from pot
+Term1nallyCh1ll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ah 2d Th 5h]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 (button) folded on the Turn
+Seat 4: Term1nallyCh1ll (small blind) collected ($0.14)
+Seat 5: SaintMx (big blind) folded before Flop
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214009678966:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:04:12 MSK [2020/05/17 2:04:12 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($1.87 in chips) 
+Seat 3: simmo5050 ($3.06 in chips) 
+Seat 4: Term1nallyCh1ll ($1.70 in chips) 
+Seat 5: SaintMx ($2 in chips) 
+Seat 6: SportageIII ($0.13 in chips) 
+SaintMx: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 3c]
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: raises $0.04 to $0.06
+SportageIII: calls $0.04
+*** FLOP *** [Jh Ks 3d]
+SaintMx: checks 
+SportageIII: checks 
+*** TURN *** [Jh Ks 3d] [Tc]
+SaintMx: checks 
+SportageIII: checks 
+*** RIVER *** [Jh Ks 3d Tc] [7d]
+SaintMx: checks 
+Brisolanga joins the table at seat #1 
+SportageIII: checks 
+*** SHOW DOWN ***
+SaintMx: shows [5d 6s] (high card King)
+SportageIII: shows [8s 2s] (high card King - Jack+Ten+Eight kicker)
+SportageIII collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jh Ks 3d Tc 7d]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) showed [5d 6s] and lost with high card King
+Seat 6: SportageIII (big blind) showed [8s 2s] and won ($0.12) with high card King
+
+
+
+PokerStars Hand #214009690577:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:04:42 MSK [2020/05/17 2:04:42 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Brisolanga ($2 in chips) 
+Seat 2: lawlex_2 ($1.87 in chips) 
+Seat 3: simmo5050 ($3.06 in chips) 
+Seat 4: Term1nallyCh1ll ($1.70 in chips) 
+Seat 5: SaintMx ($2 in chips) 
+Seat 6: SportageIII ($0.19 in chips) 
+SportageIII: posts small blind $0.01
+Brisolanga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 2s]
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: calls $0.01
+Brisolanga: raises $0.05 to $0.07
+SportageIII: calls $0.05
+*** FLOP *** [Qs 6s Ad]
+SportageIII: checks 
+Brisolanga: bets $1.93 and is all-in
+SportageIII: folds 
+Uncalled bet ($1.93) returned to Brisolanga
+Brisolanga collected $0.14 from pot
+Brisolanga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qs 6s Ad]
+Seat 1: Brisolanga (big blind) collected ($0.14)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: SportageIII (small blind) folded on the Flop
+
+
+
+PokerStars Hand #214009710585:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:05:34 MSK [2020/05/17 2:05:34 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Brisolanga ($2.07 in chips) 
+Seat 2: lawlex_2 ($1.87 in chips) 
+Seat 3: simmo5050 ($3.06 in chips) 
+Seat 4: Term1nallyCh1ll ($1.70 in chips) 
+Seat 5: SaintMx ($2 in chips) 
+Seat 6: SportageIII ($0.12 in chips) 
+Brisolanga: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d 4h]
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: raises $0.10 to $0.12 and is all-in
+Brisolanga: raises $0.66 to $0.78
+lawlex_2: folds 
+Uncalled bet ($0.66) returned to Brisolanga
+*** FLOP *** [Ts Tc Th]
+*** TURN *** [Ts Tc Th] [2h]
+*** RIVER *** [Ts Tc Th 2h] [4c]
+*** SHOW DOWN ***
+Brisolanga: shows [Kh Ac] (three of a kind, Tens)
+SportageIII: shows [Td 5d] (four of a kind, Tens)
+SportageIII cashed out the hand for $0.09
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Ts Tc Th 2h 4c]
+Seat 1: Brisolanga (small blind) showed [Kh Ac] and lost with three of a kind, Tens
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII (button) showed [Td 5d] and won ($0.25) with four of a kind, Tens (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #214009722431:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:06:04 MSK [2020/05/17 2:06:04 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Brisolanga ($1.95 in chips) 
+Seat 2: lawlex_2 ($1.85 in chips) 
+Seat 3: simmo5050 ($3.06 in chips) 
+Seat 4: Term1nallyCh1ll ($1.70 in chips) 
+Seat 5: SaintMx ($2 in chips) 
+Seat 6: SportageIII ($0.09 in chips) 
+lawlex_2: posts small blind $0.01
+simmo5050: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Qs]
+Term1nallyCh1ll said, "lol"
+Term1nallyCh1ll: raises $0.04 to $0.06
+SaintMx: folds 
+SportageIII: folds 
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Uncalled bet ($0.04) returned to Term1nallyCh1ll
+Term1nallyCh1ll collected $0.05 from pot
+Term1nallyCh1ll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brisolanga (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: simmo5050 (big blind) folded before Flop
+Seat 4: Term1nallyCh1ll collected ($0.05)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214009730803:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:06:25 MSK [2020/05/17 2:06:25 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Brisolanga ($1.95 in chips) 
+Seat 2: lawlex_2 ($1.84 in chips) 
+Seat 3: simmo5050 ($3.04 in chips) 
+Seat 4: Term1nallyCh1ll ($1.73 in chips) 
+Seat 5: SaintMx ($2 in chips) 
+Seat 6: SportageIII ($0.09 in chips) 
+simmo5050: posts small blind $0.01
+Term1nallyCh1ll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 5h]
+SaintMx: folds 
+SportageIII: raises $0.07 to $0.09 and is all-in
+Brisolanga: calls $0.09
+lawlex_2: folds 
+simmo5050: calls $0.08
+Term1nallyCh1ll: folds 
+*** FLOP *** [8h Ks Js]
+simmo5050: checks 
+Brisolanga: bets $0.14
+simmo5050: folds 
+Uncalled bet ($0.14) returned to Brisolanga
+*** TURN *** [8h Ks Js] [6s]
+*** RIVER *** [8h Ks Js 6s] [Kd]
+*** SHOW DOWN ***
+SportageIII: shows [Ac 6c] (two pair, Kings and Sixes)
+Brisolanga: shows [Kh Qd] (three of a kind, Kings)
+Brisolanga collected $0.28 from pot
+SportageIII cashed out the hand for $0.04
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [8h Ks Js 6s Kd]
+Seat 1: Brisolanga showed [Kh Qd] and won ($0.28) with three of a kind, Kings
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: simmo5050 (small blind) folded on the Flop
+Seat 4: Term1nallyCh1ll (big blind) folded before Flop
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII showed [Ac 6c] and lost with two pair, Kings and Sixes (cashed out).
+
+
+
+PokerStars Hand #214009749446:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:07:13 MSK [2020/05/17 2:07:13 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: Brisolanga ($2.14 in chips) 
+Seat 2: lawlex_2 ($1.84 in chips) 
+Seat 3: simmo5050 ($2.95 in chips) 
+Seat 4: Term1nallyCh1ll ($1.71 in chips) 
+Seat 5: SaintMx ($2 in chips) 
+Seat 6: SportageIII ($0.04 in chips) 
+Term1nallyCh1ll: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 3h]
+SportageIII: raises $0.02 to $0.04 and is all-in
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: calls $0.02
+*** FLOP *** [As 2d 7s]
+*** TURN *** [As 2d 7s] [6d]
+*** RIVER *** [As 2d 7s 6d] [Ks]
+*** SHOW DOWN ***
+SaintMx: shows [Jd Kd] (a pair of Kings)
+SportageIII: shows [Th 7h] (a pair of Sevens)
+SaintMx collected $0.09 from pot
+SportageIII cashed out the hand for $0.03
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [As 2d 7s 6d Ks]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 (button) folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (small blind) folded before Flop
+Seat 5: SaintMx (big blind) showed [Jd Kd] and won ($0.09) with a pair of Kings
+Seat 6: SportageIII showed [Th 7h] and lost with a pair of Sevens (cashed out).
+
+
+
+PokerStars Hand #214009760775:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:07:42 MSK [2020/05/17 2:07:42 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Brisolanga ($2.14 in chips) 
+Seat 2: lawlex_2 ($1.84 in chips) 
+Seat 3: simmo5050 ($2.95 in chips) 
+Seat 4: Term1nallyCh1ll ($1.70 in chips) 
+Seat 5: SaintMx ($2.05 in chips) 
+Seat 6: SportageIII ($0.03 in chips) 
+SaintMx: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Kh]
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: calls $0.02
+SaintMx: folds 
+SportageIII: raises $0.01 to $0.03 and is all-in
+Term1nallyCh1ll: calls $0.01
+*** FLOP *** [7s Ac Ad]
+*** TURN *** [7s Ac Ad] [Jh]
+*** RIVER *** [7s Ac Ad Jh] [Tc]
+*** SHOW DOWN ***
+SportageIII: shows [Ah 6d] (three of a kind, Aces)
+Term1nallyCh1ll: shows [Qc Qd] (two pair, Aces and Queens)
+SportageIII collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7s Ac Ad Jh Tc]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (button) showed [Qc Qd] and lost with two pair, Aces and Queens
+Seat 5: SaintMx (small blind) folded before Flop
+Seat 6: SportageIII (big blind) showed [Ah 6d] and won ($0.07) with three of a kind, Aces
+
+
+
+PokerStars Hand #214009780379:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:08:32 MSK [2020/05/17 2:08:32 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Brisolanga ($2.14 in chips) 
+Seat 2: lawlex_2 ($1.84 in chips) 
+Seat 3: simmo5050 ($2.95 in chips) 
+Seat 4: Term1nallyCh1ll ($1.67 in chips) 
+Seat 5: SaintMx ($2.04 in chips) 
+Seat 6: SportageIII ($0.07 in chips) 
+SportageIII: posts small blind $0.01
+Brisolanga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 8s]
+lawlex_2: raises $0.03 to $0.05
+simmo5050: folds 
+Term1nallyCh1ll: raises $0.11 to $0.16
+SaintMx: folds 
+SportageIII: calls $0.06 and is all-in
+Brisolanga: folds 
+lawlex_2: folds 
+Uncalled bet ($0.09) returned to Term1nallyCh1ll
+*** FLOP *** [Ks 8d 3d]
+*** TURN *** [Ks 8d 3d] [9c]
+*** RIVER *** [Ks 8d 3d 9c] [8h]
+*** SHOW DOWN ***
+SportageIII: shows [2h Ah] (a pair of Eights)
+Term1nallyCh1ll: shows [Jh Ad] (a pair of Eights - Ace+King+Jack kicker)
+Term1nallyCh1ll collected $0.20 from pot
+SportageIII cashed out the hand for $0.07
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ks 8d 3d 9c 8h]
+Seat 1: Brisolanga (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll showed [Jh Ad] and won ($0.20) with a pair of Eights
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: SportageIII (small blind) showed [2h Ah] and lost with a pair of Eights (cashed out).
+
+
+
+PokerStars Hand #214009795178:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:09:10 MSK [2020/05/17 2:09:10 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Brisolanga ($2.12 in chips) 
+Seat 2: lawlex_2 ($1.79 in chips) 
+Seat 3: simmo5050 ($2.95 in chips) 
+Seat 4: Term1nallyCh1ll ($1.80 in chips) 
+Seat 5: SaintMx ($2.04 in chips) 
+Seat 6: SportageIII ($0.07 in chips) 
+Brisolanga: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 9d]
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: raises $0.05 to $0.07 and is all-in
+Brisolanga: folds 
+lawlex_2: folds 
+Uncalled bet ($0.05) returned to SportageIII
+SportageIII collected $0.05 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brisolanga (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII (button) collected ($0.05)
+
+
+
+PokerStars Hand #214009801193:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:09:25 MSK [2020/05/17 2:09:25 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Brisolanga ($2.11 in chips) 
+Seat 2: lawlex_2 ($1.77 in chips) 
+Seat 3: simmo5050 ($2.95 in chips) 
+Seat 4: Term1nallyCh1ll ($1.80 in chips) 
+Seat 5: SaintMx ($2.04 in chips) 
+Seat 6: SportageIII ($0.10 in chips) 
+lawlex_2: posts small blind $0.01
+simmo5050: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 8h]
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: raises $0.08 to $0.10 and is all-in
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: calls $0.08
+*** FLOP *** [6s 3s 2h]
+*** TURN *** [6s 3s 2h] [5c]
+*** RIVER *** [6s 3s 2h 5c] [7h]
+*** SHOW DOWN ***
+simmo5050: shows [6h As] (a pair of Sixes)
+SportageIII: shows [Kd 8c] (high card King)
+simmo5050 collected $0.20 from pot
+SportageIII cashed out the hand for $0.07
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [6s 3s 2h 5c 7h]
+Seat 1: Brisolanga (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: simmo5050 (big blind) showed [6h As] and won ($0.20) with a pair of Sixes
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII showed [Kd 8c] and lost with high card King (cashed out).
+
+
+
+PokerStars Hand #214009812611:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:09:55 MSK [2020/05/17 2:09:55 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Brisolanga ($2.11 in chips) 
+Seat 2: lawlex_2 ($1.76 in chips) 
+Seat 3: simmo5050 ($3.05 in chips) 
+Seat 4: Term1nallyCh1ll ($1.80 in chips) 
+Seat 5: SaintMx ($2.04 in chips) 
+Seat 6: SportageIII ($0.07 in chips) 
+simmo5050: posts small blind $0.01
+Term1nallyCh1ll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 5h]
+SaintMx: folds 
+SportageIII: raises $0.05 to $0.07 and is all-in
+Brisolanga: calls $0.07
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: calls $0.05
+*** FLOP *** [Kc Kh 5s]
+Term1nallyCh1ll: checks 
+Brisolanga: checks 
+*** TURN *** [Kc Kh 5s] [Kd]
+Term1nallyCh1ll: checks 
+Brisolanga: bets $0.15
+Term1nallyCh1ll: calls $0.15
+*** RIVER *** [Kc Kh 5s Kd] [3d]
+Term1nallyCh1ll: checks 
+Brisolanga: checks 
+*** SHOW DOWN ***
+Term1nallyCh1ll: shows [Ah Qd] (three of a kind, Kings)
+Brisolanga: shows [7d 7h] (a full house, Kings full of Sevens)
+Brisolanga collected $0.29 from side pot
+SportageIII: mucks hand 
+Brisolanga collected $0.21 from main pot
+*** SUMMARY ***
+Total pot $0.52 Main pot $0.21. Side pot $0.29. | Rake $0.02 
+Board [Kc Kh 5s Kd 3d]
+Seat 1: Brisolanga showed [7d 7h] and won ($0.50) with a full house, Kings full of Sevens
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: simmo5050 (small blind) folded before Flop
+Seat 4: Term1nallyCh1ll (big blind) showed [Ah Qd] and lost with three of a kind, Kings
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII mucked [Qc 8c]
+
+
+
+PokerStars Hand #214009830561:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:10:41 MSK [2020/05/17 2:10:41 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: Brisolanga ($2.39 in chips) 
+Seat 2: lawlex_2 ($1.76 in chips) 
+Seat 3: simmo5050 ($3.04 in chips) 
+Seat 4: Term1nallyCh1ll ($1.58 in chips) 
+Seat 5: SaintMx ($2.04 in chips) 
+Term1nallyCh1ll: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 7h]
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: raises $0.04 to $0.06
+SportageIII leaves the table
+Term1nallyCh1ll: folds 
+SportageIII joins the table at seat #6 
+SaintMx: folds 
+Uncalled bet ($0.04) returned to simmo5050
+simmo5050 collected $0.05 from pot
+simmo5050: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 (button) collected ($0.05)
+Seat 4: Term1nallyCh1ll (small blind) folded before Flop
+Seat 5: SaintMx (big blind) folded before Flop
+
+
+
+PokerStars Hand #214009837778:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:10:59 MSK [2020/05/17 2:10:59 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Brisolanga ($2.39 in chips) 
+Seat 2: lawlex_2 ($1.76 in chips) 
+Seat 3: simmo5050 ($3.07 in chips) 
+Seat 4: Term1nallyCh1ll ($1.57 in chips) 
+Seat 5: SaintMx ($2.02 in chips) 
+Seat 6: SportageIII ($0.80 in chips) 
+SaintMx: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 5c]
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: raises $0.04 to $0.06
+Term1nallyCh1ll: calls $0.06
+SaintMx: folds 
+SportageIII: folds 
+*** FLOP *** [8d 3c Ac]
+simmo5050: checks 
+Term1nallyCh1ll: bets $0.14
+simmo5050: folds 
+Uncalled bet ($0.14) returned to Term1nallyCh1ll
+Term1nallyCh1ll collected $0.14 from pot
+Term1nallyCh1ll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8d 3c Ac]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded on the Flop
+Seat 4: Term1nallyCh1ll (button) collected ($0.14)
+Seat 5: SaintMx (small blind) folded before Flop
+Seat 6: SportageIII (big blind) folded before Flop
+
+
+
+PokerStars Hand #214009873540:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:11:49 MSK [2020/05/17 2:11:49 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Brisolanga ($2.39 in chips) 
+Seat 2: lawlex_2 ($1.76 in chips) 
+Seat 3: simmo5050 ($3.01 in chips) 
+Seat 4: Term1nallyCh1ll ($1.65 in chips) 
+Seat 5: SaintMx ($2.01 in chips) 
+Seat 6: SportageIII ($0.78 in chips) 
+SportageIII: posts small blind $0.01
+Brisolanga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 5d]
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: raises $0.02 to $0.04
+SportageIII: calls $0.03
+Brisolanga: folds 
+*** FLOP *** [8d Ad 8h]
+SportageIII: checks 
+SaintMx: bets $0.03
+SportageIII: folds 
+Uncalled bet ($0.03) returned to SaintMx
+SaintMx collected $0.10 from pot
+SaintMx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [8d Ad 8h]
+Seat 1: Brisolanga (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx (button) collected ($0.10)
+Seat 6: SportageIII (small blind) folded on the Flop
+
+
+
+PokerStars Hand #214009884967:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:12:19 MSK [2020/05/17 2:12:19 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Brisolanga ($2.37 in chips) 
+Seat 2: lawlex_2 ($2 in chips) 
+Seat 3: simmo5050 ($3.01 in chips) 
+Seat 4: Term1nallyCh1ll ($1.65 in chips) 
+Seat 5: SaintMx ($2.07 in chips) 
+Seat 6: SportageIII ($0.74 in chips) 
+Brisolanga: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 2s]
+simmo5050: folds 
+Term1nallyCh1ll: raises $0.04 to $0.06
+SaintMx: folds 
+SportageIII: calls $0.06
+Brisolanga: calls $0.05
+lawlex_2: calls $0.04
+*** FLOP *** [4d 8c Js]
+Brisolanga: checks 
+lawlex_2: bets $0.15
+Term1nallyCh1ll: raises $0.27 to $0.42
+SportageIII: raises $0.26 to $0.68 and is all-in
+Brisolanga: folds 
+lawlex_2: folds 
+Term1nallyCh1ll: calls $0.26
+*** TURN *** [4d 8c Js] [6c]
+*** RIVER *** [4d 8c Js 6c] [5d]
+*** SHOW DOWN ***
+Term1nallyCh1ll: shows [Ts Tc] (a pair of Tens)
+SportageIII: shows [Kh Jc] (a pair of Jacks)
+Term1nallyCh1ll cashed out the hand for $0.21
+SportageIII cashed out the hand for $1.47 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.06 
+Board [4d 8c Js 6c 5d]
+Seat 1: Brisolanga (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) folded on the Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll showed [Ts Tc] and lost with a pair of Tens (cashed out).
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII (button) showed [Kh Jc] and won ($1.69) with a pair of Jacks (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #214009912207:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:13:28 MSK [2020/05/17 2:13:28 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Brisolanga ($2.31 in chips) 
+Seat 2: lawlex_2 ($1.79 in chips) 
+Seat 3: simmo5050 ($3.01 in chips) 
+Seat 4: Term1nallyCh1ll ($1.12 in chips) 
+Seat 5: SaintMx ($2.07 in chips) 
+Seat 6: SportageIII ($1.47 in chips) 
+lawlex_2: posts small blind $0.01
+simmo5050: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Kd]
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: calls $0.02
+Brisolanga: raises $0.05 to $0.07
+lawlex_2: folds 
+simmo5050: folds 
+SportageIII: calls $0.05
+*** FLOP *** [Tc 6s 4c]
+SportageIII: checks 
+Brisolanga: checks 
+*** TURN *** [Tc 6s 4c] [Td]
+SportageIII: checks 
+Brisolanga: checks 
+*** RIVER *** [Tc 6s 4c Td] [Ac]
+SportageIII: checks 
+Brisolanga: bets $0.11
+SportageIII: folds 
+Uncalled bet ($0.11) returned to Brisolanga
+Brisolanga collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Tc 6s 4c Td Ac]
+Seat 1: Brisolanga (button) collected ($0.16)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: simmo5050 (big blind) folded before Flop
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII folded on the River
+
+
+
+PokerStars Hand #214009938048:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:14:35 MSK [2020/05/17 2:14:35 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Brisolanga ($2.40 in chips) 
+Seat 2: lawlex_2 ($1.78 in chips) 
+Seat 3: simmo5050 ($2.99 in chips) 
+Seat 4: Term1nallyCh1ll ($1.12 in chips) 
+Seat 5: SaintMx ($2.07 in chips) 
+Seat 6: SportageIII ($1.40 in chips) 
+simmo5050: posts small blind $0.01
+Term1nallyCh1ll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 9c]
+SaintMx: raises $0.03 to $0.05
+SportageIII: folds 
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+Uncalled bet ($0.03) returned to SaintMx
+SaintMx collected $0.05 from pot
+SaintMx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: simmo5050 (small blind) folded before Flop
+Seat 4: Term1nallyCh1ll (big blind) folded before Flop
+Seat 5: SaintMx collected ($0.05)
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214009945474:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:14:54 MSK [2020/05/17 2:14:54 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: Brisolanga ($2.40 in chips) 
+Seat 2: lawlex_2 ($1.78 in chips) 
+Seat 3: simmo5050 ($2.98 in chips) 
+Seat 4: Term1nallyCh1ll ($1.10 in chips) 
+Seat 5: SaintMx ($2.10 in chips) 
+Seat 6: SportageIII ($1.40 in chips) 
+Term1nallyCh1ll: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 6d]
+SportageIII: calls $0.02
+Brisolanga: raises $0.04 to $0.06
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: calls $0.04
+*** FLOP *** [Kc 3s 8h]
+SportageIII: checks 
+Brisolanga: checks 
+*** TURN *** [Kc 3s 8h] [8s]
+SportageIII: checks 
+Brisolanga: checks 
+*** RIVER *** [Kc 3s 8h 8s] [Ad]
+SportageIII: checks 
+Brisolanga: bets $0.16
+SportageIII: folds 
+Uncalled bet ($0.16) returned to Brisolanga
+Brisolanga collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kc 3s 8h 8s Ad]
+Seat 1: Brisolanga collected ($0.14)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 (button) folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (small blind) folded before Flop
+Seat 5: SaintMx (big blind) folded before Flop
+Seat 6: SportageIII folded on the River
+
+
+
+PokerStars Hand #214009962851:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:15:39 MSK [2020/05/17 2:15:39 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Brisolanga ($2.48 in chips) 
+Seat 2: lawlex_2 ($1.78 in chips) 
+Seat 3: simmo5050 ($2.98 in chips) 
+Seat 4: Term1nallyCh1ll ($1.09 in chips) 
+Seat 5: SaintMx ($2.08 in chips) 
+Seat 6: SportageIII ($1.34 in chips) 
+SaintMx: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 9d]
+Brisolanga: folds 
+lawlex_2: raises $0.03 to $0.05
+simmo5050: folds 
+Term1nallyCh1ll: calls $0.05
+SaintMx: folds 
+SportageIII: folds 
+*** FLOP *** [6d Ts 2h]
+lawlex_2: bets $0.09
+Term1nallyCh1ll: calls $0.09
+*** TURN *** [6d Ts 2h] [8s]
+lawlex_2: bets $0.20
+Term1nallyCh1ll: folds 
+Uncalled bet ($0.20) returned to lawlex_2
+lawlex_2 collected $0.30 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [6d Ts 2h 8s]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 collected ($0.30)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (button) folded on the Turn
+Seat 5: SaintMx (small blind) folded before Flop
+Seat 6: SportageIII (big blind) folded before Flop
+
+
+
+PokerStars Hand #214009980003:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:16:23 MSK [2020/05/17 2:16:23 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Brisolanga ($2.48 in chips) 
+Seat 2: lawlex_2 ($1.94 in chips) 
+Seat 3: simmo5050 ($2.98 in chips) 
+Seat 4: Term1nallyCh1ll ($0.95 in chips) 
+Seat 5: SaintMx ($2.07 in chips) 
+Seat 6: SportageIII ($1.32 in chips) 
+SportageIII: posts small blind $0.01
+Brisolanga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Qh]
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: raises $0.02 to $0.04
+SportageIII: calls $0.03
+Brisolanga: calls $0.02
+*** FLOP *** [5c 2d Ac]
+SportageIII: bets $0.02
+Brisolanga: folds 
+SaintMx: folds 
+Uncalled bet ($0.02) returned to SportageIII
+SportageIII collected $0.12 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5c 2d Ac]
+Seat 1: Brisolanga (big blind) folded on the Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx (button) folded on the Flop
+Seat 6: SportageIII (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #214009990521:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:16:50 MSK [2020/05/17 2:16:50 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Brisolanga ($2.44 in chips) 
+Seat 2: lawlex_2 ($1.94 in chips) 
+Seat 3: simmo5050 ($2.98 in chips) 
+Seat 4: Term1nallyCh1ll ($0.95 in chips) 
+Seat 5: SaintMx ($2.03 in chips) 
+Seat 6: SportageIII ($1.40 in chips) 
+Brisolanga: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Kh]
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: calls $0.02
+Brisolanga: folds 
+lawlex_2: checks 
+*** FLOP *** [Ts 8d 4d]
+lawlex_2: checks 
+SportageIII: checks 
+*** TURN *** [Ts 8d 4d] [6h]
+lawlex_2: checks 
+SportageIII: checks 
+*** RIVER *** [Ts 8d 4d 6h] [Ah]
+lawlex_2: bets $0.03
+SportageIII: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ts 8d 4d 6h Ah]
+Seat 1: Brisolanga (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.05)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII (button) folded on the River
+
+
+
+PokerStars Hand #214010005024:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:17:27 MSK [2020/05/17 2:17:27 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Brisolanga ($2.43 in chips) 
+Seat 2: lawlex_2 ($1.97 in chips) 
+Seat 3: simmo5050 ($2.98 in chips) 
+Seat 4: Term1nallyCh1ll ($0.95 in chips) 
+Seat 5: SaintMx ($2.03 in chips) 
+Seat 6: SportageIII ($1.38 in chips) 
+lawlex_2: posts small blind $0.01
+simmo5050: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h Jc]
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: calls $0.02
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: raises $0.06 to $0.08
+SportageIII: calls $0.06
+*** FLOP *** [As 2s Ac]
+simmo5050: checks 
+SportageIII: checks 
+*** TURN *** [As 2s Ac] [Qc]
+simmo5050: checks 
+SportageIII: checks 
+*** RIVER *** [As 2s Ac Qc] [6d]
+simmo5050: checks 
+SportageIII: checks 
+*** SHOW DOWN ***
+simmo5050: shows [8c 8d] (two pair, Aces and Eights)
+SportageIII: mucks hand 
+simmo5050 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [As 2s Ac Qc 6d]
+Seat 1: Brisolanga (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: simmo5050 (big blind) showed [8c 8d] and won ($0.16) with two pair, Aces and Eights
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII mucked [Jh 7s]
+
+
+
+PokerStars Hand #214010019048:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:18:03 MSK [2020/05/17 2:18:03 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Brisolanga ($2.43 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: simmo5050 ($3.06 in chips) 
+Seat 4: Term1nallyCh1ll ($0.95 in chips) 
+Seat 5: SaintMx ($2.03 in chips) 
+Seat 6: SportageIII ($1.30 in chips) 
+simmo5050: posts small blind $0.01
+Term1nallyCh1ll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 6d]
+SaintMx: folds 
+SportageIII: raises $0.06 to $0.08
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+Uncalled bet ($0.06) returned to SportageIII
+SportageIII collected $0.05 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: simmo5050 (small blind) folded before Flop
+Seat 4: Term1nallyCh1ll (big blind) folded before Flop
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII collected ($0.05)
+
+
+
+PokerStars Hand #214010027148:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:18:24 MSK [2020/05/17 2:18:24 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: Brisolanga ($2.43 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: simmo5050 ($3.05 in chips) 
+Seat 4: Term1nallyCh1ll ($0.93 in chips) 
+Seat 5: SaintMx ($2.03 in chips) 
+Seat 6: SportageIII ($1.33 in chips) 
+Term1nallyCh1ll: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 7d]
+SportageIII: calls $0.02
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: checks 
+*** FLOP *** [6h 4s 2s]
+SaintMx: bets $0.02
+SportageIII: folds 
+Uncalled bet ($0.02) returned to SaintMx
+SaintMx collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6h 4s 2s]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 (button) folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (small blind) folded before Flop
+Seat 5: SaintMx (big blind) collected ($0.05)
+Seat 6: SportageIII folded on the Flop
+
+
+
+PokerStars Hand #214010040690:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:18:59 MSK [2020/05/17 2:18:59 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Brisolanga ($2.43 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: simmo5050 ($3.05 in chips) 
+Seat 4: Term1nallyCh1ll ($0.92 in chips) 
+Seat 5: SaintMx ($2.06 in chips) 
+Seat 6: SportageIII ($1.31 in chips) 
+SaintMx: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 3h]
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: raises $0.04 to $0.06
+Term1nallyCh1ll: folds 
+SaintMx: calls $0.05
+SportageIII: calls $0.04
+*** FLOP *** [7h 2s As]
+SaintMx: checks 
+SportageIII: checks 
+simmo5050: checks 
+*** TURN *** [7h 2s As] [5d]
+SaintMx: checks 
+SportageIII: checks 
+simmo5050: checks 
+*** RIVER *** [7h 2s As 5d] [4h]
+SaintMx: checks 
+SportageIII: checks 
+simmo5050: checks 
+*** SHOW DOWN ***
+SaintMx: shows [6d 6h] (a pair of Sixes)
+SportageIII: mucks hand 
+simmo5050: mucks hand 
+SaintMx collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7h 2s As 5d 4h]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 mucked [Qc Tc]
+Seat 4: Term1nallyCh1ll (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) showed [6d 6h] and won ($0.17) with a pair of Sixes
+Seat 6: SportageIII (big blind) mucked [5s 9h]
+
+
+
+PokerStars Hand #214010063056:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:19:56 MSK [2020/05/17 2:19:56 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Brisolanga ($2.43 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: simmo5050 ($2.99 in chips) 
+Seat 4: Term1nallyCh1ll ($0.92 in chips) 
+Seat 5: SaintMx ($2.17 in chips) 
+Seat 6: SportageIII ($1.25 in chips) 
+SportageIII: posts small blind $0.01
+Brisolanga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 6s]
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: raises $0.10 to $0.12
+SaintMx: folds 
+SportageIII: folds 
+Brisolanga: folds 
+Uncalled bet ($0.10) returned to Term1nallyCh1ll
+Term1nallyCh1ll collected $0.05 from pot
+Term1nallyCh1ll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brisolanga (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll collected ($0.05)
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: SportageIII (small blind) folded before Flop
+
+
+
+PokerStars Hand #214010072786:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:20:21 MSK [2020/05/17 2:20:21 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Brisolanga ($2.41 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: simmo5050 ($2.99 in chips) 
+Seat 4: Term1nallyCh1ll ($0.95 in chips) 
+Seat 5: SaintMx ($2.17 in chips) 
+Seat 6: SportageIII ($1.24 in chips) 
+Brisolanga: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6d 9s]
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: raises $0.03 to $0.05
+SportageIII: calls $0.05
+Brisolanga: calls $0.04
+lawlex_2: folds 
+*** FLOP *** [7c 7d Td]
+Brisolanga: checks 
+SaintMx: bets $0.05
+SportageIII: calls $0.05
+Brisolanga: folds 
+*** TURN *** [7c 7d Td] [2d]
+SaintMx: bets $0.15
+SportageIII: folds 
+Uncalled bet ($0.15) returned to SaintMx
+SaintMx collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [7c 7d Td 2d]
+Seat 1: Brisolanga (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx collected ($0.26)
+Seat 6: SportageIII (button) folded on the Turn
+
+
+
+PokerStars Hand #214010092120:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:21:11 MSK [2020/05/17 2:21:11 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Brisolanga ($2.36 in chips) 
+Seat 2: lawlex_2 ($1.94 in chips) 
+Seat 3: simmo5050 ($2.99 in chips) 
+Seat 4: Term1nallyCh1ll ($0.95 in chips) 
+Seat 5: SaintMx ($2.33 in chips) 
+Seat 6: SportageIII ($1.14 in chips) 
+lawlex_2: posts small blind $0.01
+simmo5050: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Qc]
+Term1nallyCh1ll: raises $0.10 to $0.12
+SaintMx: folds 
+SportageIII: calls $0.12
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+*** FLOP *** [2d Ts 9h]
+Term1nallyCh1ll: bets $0.14
+SportageIII: raises $0.88 to $1.02 and is all-in
+Term1nallyCh1ll: folds 
+Uncalled bet ($0.88) returned to SportageIII
+SportageIII collected $0.53 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [2d Ts 9h]
+Seat 1: Brisolanga (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: simmo5050 (big blind) folded before Flop
+Seat 4: Term1nallyCh1ll folded on the Flop
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII collected ($0.53)
+
+
+
+PokerStars Hand #214010111768:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:22:01 MSK [2020/05/17 2:22:01 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Brisolanga ($2.36 in chips) 
+Seat 2: lawlex_2 ($1.93 in chips) 
+Seat 3: simmo5050 ($2.97 in chips) 
+Seat 4: Term1nallyCh1ll ($0.69 in chips) 
+Seat 5: SaintMx ($2.33 in chips) 
+Seat 6: SportageIII ($1.41 in chips) 
+simmo5050: posts small blind $0.01
+Term1nallyCh1ll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 8d]
+SaintMx: folds 
+SportageIII: calls $0.02
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: raises $0.02 to $0.04
+SportageIII: calls $0.02
+*** FLOP *** [Td Ks Jc]
+Term1nallyCh1ll: bets $0.08
+SportageIII: calls $0.08
+*** TURN *** [Td Ks Jc] [8h]
+Term1nallyCh1ll: bets $0.24
+SportageIII: calls $0.24
+*** RIVER *** [Td Ks Jc 8h] [3c]
+Term1nallyCh1ll: checks 
+SportageIII: checks 
+*** SHOW DOWN ***
+Term1nallyCh1ll: shows [Ad 4s] (high card Ace)
+SportageIII: shows [Ah 9d] (high card Ace - King+Jack+Ten+Nine kicker)
+SportageIII collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Td Ks Jc 8h 3c]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: simmo5050 (small blind) folded before Flop
+Seat 4: Term1nallyCh1ll (big blind) showed [Ad 4s] and lost with high card Ace
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII showed [Ah 9d] and won ($0.70) with high card Ace
+
+
+
+PokerStars Hand #214010132147:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:22:54 MSK [2020/05/17 2:22:54 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: Brisolanga ($2.36 in chips) 
+Seat 2: lawlex_2 ($1.93 in chips) 
+Seat 3: simmo5050 ($2.96 in chips) 
+Seat 4: Term1nallyCh1ll ($0.33 in chips) 
+Seat 5: SaintMx ($2.33 in chips) 
+Seat 6: SportageIII ($1.75 in chips) 
+Term1nallyCh1ll: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 8d]
+SportageIII: calls $0.02
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: raises $0.06 to $0.08
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: calls $0.06
+*** FLOP *** [Js 6c 7c]
+SportageIII: checks 
+simmo5050: checks 
+*** TURN *** [Js 6c 7c] [7h]
+SportageIII: checks 
+simmo5050: checks 
+*** RIVER *** [Js 6c 7c 7h] [7s]
+SportageIII: checks 
+simmo5050: checks 
+*** SHOW DOWN ***
+SportageIII: shows [2h Kc] (three of a kind, Sevens)
+simmo5050: shows [As Th] (three of a kind, Sevens - Ace kicker)
+simmo5050 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Js 6c 7c 7h 7s]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 (button) showed [As Th] and won ($0.18) with three of a kind, Sevens
+Seat 4: Term1nallyCh1ll (small blind) folded before Flop
+Seat 5: SaintMx (big blind) folded before Flop
+Seat 6: SportageIII showed [2h Kc] and lost with three of a kind, Sevens
+
+
+
+PokerStars Hand #214010154500:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:23:52 MSK [2020/05/17 2:23:52 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Brisolanga ($2.36 in chips) 
+Seat 2: lawlex_2 ($1.93 in chips) 
+Seat 3: simmo5050 ($3.06 in chips) 
+Seat 4: Term1nallyCh1ll ($0.32 in chips) 
+Seat 5: SaintMx ($2.31 in chips) 
+Seat 6: SportageIII ($1.67 in chips) 
+SaintMx: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 9s]
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+Uncalled bet ($0.01) returned to SportageIII
+SportageIII collected $0.02 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) folded before Flop
+Seat 6: SportageIII (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #214010158824:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:24:03 MSK [2020/05/17 2:24:03 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Brisolanga ($2.36 in chips) 
+Seat 2: lawlex_2 ($1.93 in chips) 
+Seat 3: simmo5050 ($3.06 in chips) 
+Seat 4: Term1nallyCh1ll ($0.32 in chips) 
+Seat 5: SaintMx ($2.30 in chips) 
+Seat 6: SportageIII ($1.68 in chips) 
+SportageIII: posts small blind $0.01
+Brisolanga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 5d]
+lawlex_2: folds 
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: calls $0.01
+Brisolanga: checks 
+*** FLOP *** [2h 8c Ad]
+SportageIII: checks 
+Brisolanga: checks 
+*** TURN *** [2h 8c Ad] [7d]
+SportageIII: checks 
+Brisolanga: checks 
+*** RIVER *** [2h 8c Ad 7d] [2s]
+SportageIII: checks 
+Brisolanga: checks 
+*** SHOW DOWN ***
+SportageIII: shows [3c Jc] (a pair of Deuces)
+Brisolanga: shows [Kd 4h] (a pair of Deuces - Ace+King kicker)
+Brisolanga collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2h 8c Ad 7d 2s]
+Seat 1: Brisolanga (big blind) showed [Kd 4h] and won ($0.04) with a pair of Deuces
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: SportageIII (small blind) showed [3c Jc] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #214010177674:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:24:52 MSK [2020/05/17 2:24:52 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Brisolanga ($2.38 in chips) 
+Seat 2: lawlex_2 ($1.93 in chips) 
+Seat 3: simmo5050 ($3.06 in chips) 
+Seat 4: Term1nallyCh1ll ($0.32 in chips) 
+Seat 5: SaintMx ($2.30 in chips) 
+Seat 6: SportageIII ($1.66 in chips) 
+Brisolanga: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Jh]
+simmo5050: folds 
+Term1nallyCh1ll: folds 
+SaintMx: folds 
+SportageIII: calls $0.02
+Brisolanga: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Qc 5c Tc]
+Brisolanga: bets $0.03
+lawlex_2: calls $0.03
+SportageIII: folds 
+*** TURN *** [Qc 5c Tc] [Td]
+Brisolanga: checks 
+lawlex_2: bets $0.08
+Brisolanga: calls $0.08
+*** RIVER *** [Qc 5c Tc Td] [Jc]
+Brisolanga: checks 
+lawlex_2: bets $0.18
+Brisolanga: calls $0.18
+*** SHOW DOWN ***
+lawlex_2: shows [3c Jh] (a flush, Queen high)
+Brisolanga: shows [Kc Qd] (a flush, King high)
+Brisolanga collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [Qc 5c Tc Td Jc]
+Seat 1: Brisolanga (small blind) showed [Kc Qd] and won ($0.62) with a flush, King high
+Seat 2: lawlex_2 (big blind) showed [3c Jh] and lost with a flush, Queen high
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII (button) folded on the Flop
+
+
+
+PokerStars Hand #214010198479:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:25:45 MSK [2020/05/17 2:25:45 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Brisolanga ($2.69 in chips) 
+Seat 2: lawlex_2 ($1.62 in chips) 
+Seat 3: simmo5050 ($3.06 in chips) 
+Seat 4: Term1nallyCh1ll ($0.32 in chips) 
+Seat 5: SaintMx ($2.30 in chips) 
+Seat 6: SportageIII ($1.64 in chips) 
+lawlex_2: posts small blind $0.01
+simmo5050: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh 9s]
+Term1nallyCh1ll: folds 
+Term1nallyCh1ll leaves the table
+Braniste joins the table at seat #4 
+SaintMx: folds 
+SportageIII: folds 
+Brisolanga: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to simmo5050
+simmo5050 collected $0.02 from pot
+simmo5050: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brisolanga (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: simmo5050 (big blind) collected ($0.02)
+Seat 4: Term1nallyCh1ll folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010213591:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:26:25 MSK [2020/05/17 2:26:25 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Brisolanga ($2.69 in chips) 
+Seat 2: lawlex_2 ($1.61 in chips) 
+Seat 3: simmo5050 ($3.07 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.30 in chips) 
+Seat 6: SportageIII ($1.64 in chips) 
+simmo5050: posts small blind $0.01
+Braniste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 9c]
+SaintMx: folds 
+SportageIII: raises $0.06 to $0.08
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: raises $0.14 to $0.22
+Braniste: folds 
+SportageIII: calls $0.14
+*** FLOP *** [3c Jd Kd]
+simmo5050: checks 
+SportageIII: bets $0.20
+simmo5050: folds 
+Uncalled bet ($0.20) returned to SportageIII
+SportageIII collected $0.44 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [3c Jd Kd]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: simmo5050 (small blind) folded on the Flop
+Seat 4: Braniste (big blind) folded before Flop
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII collected ($0.44)
+
+
+
+PokerStars Hand #214010227595:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:27:01 MSK [2020/05/17 2:27:01 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: Brisolanga ($2.69 in chips) 
+Seat 2: lawlex_2 ($1.61 in chips) 
+Seat 3: simmo5050 ($2.85 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.30 in chips) 
+Seat 6: SportageIII ($1.86 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Jd]
+SportageIII: folds 
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Braniste: folds 
+Uncalled bet ($0.01) returned to SaintMx
+SaintMx collected $0.02 from pot
+SaintMx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 (button) folded before Flop (didn't bet)
+Seat 4: Braniste (small blind) folded before Flop
+Seat 5: SaintMx (big blind) collected ($0.02)
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010232685:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:27:14 MSK [2020/05/17 2:27:14 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Brisolanga ($2.69 in chips) 
+Seat 2: lawlex_2 ($1.61 in chips) 
+Seat 3: simmo5050 ($2.85 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.31 in chips) 
+Seat 6: SportageIII ($1.86 in chips) 
+SaintMx: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 6h]
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Braniste: folds 
+SaintMx: folds 
+Uncalled bet ($0.01) returned to SportageIII
+SportageIII collected $0.02 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Braniste (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) folded before Flop
+Seat 6: SportageIII (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #214010237972:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:27:27 MSK [2020/05/17 2:27:27 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Brisolanga ($2.69 in chips) 
+Seat 2: lawlex_2 ($1.61 in chips) 
+Seat 3: simmo5050 ($2.85 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.30 in chips) 
+Seat 6: SportageIII ($1.87 in chips) 
+SportageIII: posts small blind $0.01
+Brisolanga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Ad]
+lawlex_2: raises $0.03 to $0.05
+simmo5050: folds 
+Braniste: folds 
+SaintMx: folds 
+SportageIII: folds 
+Brisolanga: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brisolanga (big blind) folded before Flop
+Seat 2: lawlex_2 collected ($0.05)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: SportageIII (small blind) folded before Flop
+
+
+
+PokerStars Hand #214010249102:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:27:56 MSK [2020/05/17 2:27:56 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Brisolanga ($2.67 in chips) 
+Seat 2: lawlex_2 ($1.64 in chips) 
+Seat 3: simmo5050 ($2.85 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.30 in chips) 
+Seat 6: SportageIII ($1.86 in chips) 
+Brisolanga: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Jh]
+simmo5050: folds 
+Braniste: folds 
+SaintMx: raises $0.03 to $0.05
+SportageIII: calls $0.05
+Brisolanga: folds 
+lawlex_2: folds 
+*** FLOP *** [9s Jc 6d]
+SaintMx: bets $0.04
+SportageIII: calls $0.04
+*** TURN *** [9s Jc 6d] [Tc]
+SaintMx: checks 
+SportageIII: checks 
+*** RIVER *** [9s Jc 6d Tc] [As]
+SaintMx: bets $0.13
+SportageIII: folds 
+Uncalled bet ($0.13) returned to SaintMx
+SaintMx collected $0.20 from pot
+SaintMx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9s Jc 6d Tc As]
+Seat 1: Brisolanga (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx collected ($0.20)
+Seat 6: SportageIII (button) folded on the River
+
+
+
+PokerStars Hand #214010269423:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:28:48 MSK [2020/05/17 2:28:48 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Brisolanga ($2.66 in chips) 
+Seat 2: lawlex_2 ($1.62 in chips) 
+Seat 3: simmo5050 ($2.85 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.41 in chips) 
+Seat 6: SportageIII ($1.77 in chips) 
+lawlex_2: posts small blind $0.01
+simmo5050: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 8h]
+Braniste: folds 
+SaintMx: folds 
+SportageIII: calls $0.02
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: checks 
+*** FLOP *** [6s Ks Jc]
+simmo5050: checks 
+SportageIII: checks 
+*** TURN *** [6s Ks Jc] [3h]
+simmo5050: bets $0.04
+SportageIII: calls $0.04
+*** RIVER *** [6s Ks Jc 3h] [Jd]
+simmo5050: checks 
+SportageIII: checks 
+*** SHOW DOWN ***
+simmo5050: shows [6d 3d] (two pair, Jacks and Sixes)
+SportageIII: mucks hand 
+simmo5050 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6s Ks Jc 3h Jd]
+Seat 1: Brisolanga (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: simmo5050 (big blind) showed [6d 3d] and won ($0.13) with two pair, Jacks and Sixes
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII mucked [5d 7d]
+
+
+
+PokerStars Hand #214010292447:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:29:48 MSK [2020/05/17 2:29:48 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Brisolanga ($2.66 in chips) 
+Seat 2: lawlex_2 ($1.61 in chips) 
+Seat 3: simmo5050 ($2.92 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.41 in chips) 
+Seat 6: SportageIII ($1.71 in chips) 
+simmo5050: posts small blind $0.01
+Braniste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6c 9h]
+SaintMx: folds 
+SportageIII: folds 
+Brisolanga: raises $0.02 to $0.04
+lawlex_2: folds 
+simmo5050: folds 
+Braniste: calls $0.02
+*** FLOP *** [Js Qc 7c]
+Braniste: checks 
+Brisolanga: checks 
+*** TURN *** [Js Qc 7c] [Th]
+Braniste: bets $0.07
+Brisolanga: calls $0.07
+*** RIVER *** [Js Qc 7c Th] [Qs]
+Braniste: checks 
+Brisolanga: bets $0.22
+Braniste: calls $0.22
+*** SHOW DOWN ***
+Brisolanga: shows [8s Ks] (a pair of Queens)
+Braniste: shows [Jd Tc] (two pair, Queens and Jacks)
+Braniste collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [Js Qc 7c Th Qs]
+Seat 1: Brisolanga showed [8s Ks] and lost with a pair of Queens
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: simmo5050 (small blind) folded before Flop
+Seat 4: Braniste (big blind) showed [Jd Tc] and won ($0.65) with two pair, Queens and Jacks
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010314618:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:30:46 MSK [2020/05/17 2:30:46 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: Brisolanga ($2.33 in chips) 
+Seat 2: lawlex_2 ($1.61 in chips) 
+Seat 3: simmo5050 ($2.91 in chips) 
+Seat 4: Braniste ($2.32 in chips) 
+Seat 5: SaintMx ($2.41 in chips) 
+Seat 6: SportageIII ($1.71 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 4c]
+SportageIII: calls $0.02
+Brisolanga: folds 
+lawlex_2: folds 
+simmo5050: folds 
+Braniste: folds 
+SaintMx: checks 
+*** FLOP *** [Ac 5d Ks]
+SaintMx: checks 
+SportageIII: checks 
+*** TURN *** [Ac 5d Ks] [Qd]
+SaintMx: checks 
+SportageIII: bets $0.04
+SaintMx: folds 
+Uncalled bet ($0.04) returned to SportageIII
+SportageIII collected $0.05 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac 5d Ks Qd]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 (button) folded before Flop (didn't bet)
+Seat 4: Braniste (small blind) folded before Flop
+Seat 5: SaintMx (big blind) folded on the Turn
+Seat 6: SportageIII collected ($0.05)
+
+
+
+PokerStars Hand #214010325612:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:31:14 MSK [2020/05/17 2:31:14 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Brisolanga ($2.33 in chips) 
+Seat 2: lawlex_2 ($1.61 in chips) 
+Seat 3: simmo5050 ($2.91 in chips) 
+Seat 4: Braniste ($2.31 in chips) 
+Seat 5: SaintMx ($2.39 in chips) 
+Seat 6: SportageIII ($1.74 in chips) 
+SaintMx: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Qd]
+Brisolanga: folds 
+lawlex_2: raises $0.03 to $0.05
+simmo5050: folds 
+Braniste: folds 
+SaintMx: raises $0.11 to $0.16
+SportageIII: folds 
+lawlex_2: calls $0.11
+*** FLOP *** [Th 2s Ac]
+SaintMx: bets $0.11
+lawlex_2: calls $0.11
+*** TURN *** [Th 2s Ac] [Qh]
+SaintMx: checks 
+lawlex_2: bets $0.36
+SaintMx: calls $0.36
+*** RIVER *** [Th 2s Ac Qh] [9c]
+SaintMx: checks 
+lawlex_2: bets $0.82
+SaintMx: folds 
+Uncalled bet ($0.82) returned to lawlex_2
+lawlex_2 collected $1.24 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.04 
+Board [Th 2s Ac Qh 9c]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 collected ($1.24)
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Braniste (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) folded on the River
+Seat 6: SportageIII (big blind) folded before Flop
+
+
+
+PokerStars Hand #214010354913:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:32:30 MSK [2020/05/17 2:32:30 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Brisolanga ($2.33 in chips) 
+Seat 2: lawlex_2 ($2.22 in chips) 
+Seat 3: simmo5050 ($2.91 in chips) 
+Seat 4: Braniste ($2.31 in chips) 
+Seat 5: SaintMx ($2 in chips) 
+Seat 6: SportageIII ($1.72 in chips) 
+SportageIII: posts small blind $0.01
+Brisolanga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 5d]
+lawlex_2: folds 
+simmo5050: raises $0.04 to $0.06
+Braniste: folds 
+SaintMx: raises $0.11 to $0.17
+SportageIII: folds 
+Brisolanga: folds 
+simmo5050: folds 
+Uncalled bet ($0.11) returned to SaintMx
+SaintMx collected $0.15 from pot
+SaintMx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Brisolanga (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: simmo5050 folded before Flop
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx (button) collected ($0.15)
+Seat 6: SportageIII (small blind) folded before Flop
+
+
+
+PokerStars Hand #214010362034:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:32:48 MSK [2020/05/17 2:32:48 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: Brisolanga ($2.31 in chips) 
+Seat 2: lawlex_2 ($2.22 in chips) 
+Seat 3: simmo5050 ($2.85 in chips) 
+Seat 4: Braniste ($2.31 in chips) 
+Seat 5: SaintMx ($2.09 in chips) 
+Seat 6: SportageIII ($1.71 in chips) 
+Brisolanga: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 8h]
+simmo5050: folds 
+simmo5050 leaves the table
+Braniste: raises $0.04 to $0.06
+SaintMx: folds 
+SportageIII: folds 
+Brisolanga: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Braniste
+Braniste collected $0.05 from pot
+Braniste: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Brisolanga (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: simmo5050 folded before Flop (didn't bet)
+Seat 4: Braniste collected ($0.05)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010367190:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:33:02 MSK [2020/05/17 2:33:02 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: Brisolanga ($2.30 in chips) 
+Seat 2: lawlex_2 ($2.20 in chips) 
+Seat 4: Braniste ($2.34 in chips) 
+Seat 5: SaintMx ($2.09 in chips) 
+Seat 6: SportageIII ($1.71 in chips) 
+lawlex_2: posts small blind $0.01
+Braniste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 7c]
+SaintMx: folds 
+SportageIII: calls $0.02
+Brisolanga: raises $0.04 to $0.06
+lawlex_2: folds 
+Braniste: calls $0.04
+SportageIII: calls $0.04
+*** FLOP *** [8s 7h 4d]
+Braniste: checks 
+SportageIII: bets $0.06
+Brisolanga: folds 
+Braniste: folds 
+Uncalled bet ($0.06) returned to SportageIII
+SportageIII collected $0.18 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8s 7h 4d]
+Seat 1: Brisolanga (button) folded on the Flop
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 4: Braniste (big blind) folded on the Flop
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII collected ($0.18)
+
+
+
+PokerStars Hand #214010383092:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:33:33 MSK [2020/05/17 2:33:33 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: Brisolanga ($2.24 in chips) 
+Seat 2: lawlex_2 ($2.19 in chips) 
+Seat 4: Braniste ($2.28 in chips) 
+Seat 5: SaintMx ($2.09 in chips) 
+Seat 6: SportageIII ($1.83 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks Jd]
+SportageIII: calls $0.02
+Brisolanga: raises $0.05 to $0.07
+octapus2012 joins the table at seat #3 
+lawlex_2: calls $0.07
+Braniste: folds 
+SaintMx: folds 
+SportageIII: calls $0.05
+*** FLOP *** [8h 2d 9s]
+octapus2012 leaves the table
+SportageIII: bets $0.06
+Brisolanga: calls $0.06
+lawlex_2: folds 
+*** TURN *** [8h 2d 9s] [6c]
+SportageIII: bets $0.06
+Brisolanga: calls $0.06
+*** RIVER *** [8h 2d 9s 6c] [3c]
+SportageIII: bets $0.12
+Brisolanga: folds 
+Uncalled bet ($0.12) returned to SportageIII
+SportageIII collected $0.46 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [8h 2d 9s 6c 3c]
+Seat 1: Brisolanga folded on the River
+Seat 2: lawlex_2 (button) folded on the Flop
+Seat 4: Braniste (small blind) folded before Flop
+Seat 5: SaintMx (big blind) folded before Flop
+Seat 6: SportageIII collected ($0.46)
+
+
+
+PokerStars Hand #214010403360:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:34:25 MSK [2020/05/17 2:34:25 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: Brisolanga ($2.05 in chips) 
+Seat 2: lawlex_2 ($2.12 in chips) 
+Seat 4: Braniste ($2.27 in chips) 
+Seat 5: SaintMx ($2.07 in chips) 
+Seat 6: SportageIII ($2.10 in chips) 
+SaintMx: posts small blind $0.01
+SportageIII: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 7c]
+Brisolanga: folds 
+lawlex_2: folds 
+Braniste: folds 
+SaintMx: raises $0.04 to $0.06
+SportageIII: calls $0.04
+*** FLOP *** [6s 2h 6h]
+SaintMx: bets $0.04
+SportageIII: folds 
+Uncalled bet ($0.04) returned to SaintMx
+SaintMx collected $0.12 from pot
+SaintMx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6s 2h 6h]
+Seat 1: Brisolanga folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Braniste (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) collected ($0.12)
+Seat 6: SportageIII (big blind) folded on the Flop
+
+
+
+PokerStars Hand #214010412163:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:34:48 MSK [2020/05/17 2:34:48 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: Brisolanga ($2.05 in chips) 
+Seat 2: lawlex_2 ($2.12 in chips) 
+Seat 4: Braniste ($2.27 in chips) 
+Seat 5: SaintMx ($2.13 in chips) 
+Seat 6: SportageIII ($2.04 in chips) 
+SportageIII: posts small blind $0.01
+Brisolanga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 2d]
+lawlex_2: folds 
+Braniste: raises $0.04 to $0.06
+SaintMx: folds 
+SportageIII: raises $0.04 to $0.10
+Brisolanga: folds 
+Braniste: calls $0.04
+*** FLOP *** [Td 7c Tc]
+ppivot10 joins the table at seat #3 
+SportageIII: bets $0.10
+Braniste: folds 
+Uncalled bet ($0.10) returned to SportageIII
+SportageIII collected $0.21 from pot
+SportageIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Td 7c Tc]
+Seat 1: Brisolanga (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 4: Braniste folded on the Flop
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: SportageIII (small blind) collected ($0.21)
+
+
+
+PokerStars Hand #214010422581:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:35:15 MSK [2020/05/17 2:35:15 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 2: lawlex_2 ($2.12 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.17 in chips) 
+Seat 5: SaintMx ($2.13 in chips) 
+Seat 6: SportageIII ($2.15 in chips) 
+Brisolanga: is sitting out 
+Brisolanga leaves the table
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 6c]
+Braniste: folds 
+ismagilvip joins the table at seat #1 
+SaintMx: folds 
+SportageIII: folds 
+SportageIII leaves the table
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to ppivot10
+ppivot10 collected $0.02 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ppivot10 (big blind) collected ($0.02)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: SportageIII (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010428552:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:35:31 MSK [2020/05/17 2:35:31 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: ismagilvip ($1.60 in chips) 
+Seat 2: lawlex_2 ($2.11 in chips) 
+Seat 3: ppivot10 ($2.01 in chips) 
+Seat 4: Braniste ($2.17 in chips) 
+Seat 5: SaintMx ($2.13 in chips) 
+ppivot10: posts small blind $0.01
+Braniste: posts big blind $0.02
+ismagilvip: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h 9s]
+SaintMx: folds 
+ismagilvip: checks 
+devilu2013 joins the table at seat #6 
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: checks 
+*** FLOP *** [3s Js Ad]
+Braniste: checks 
+ismagilvip: checks 
+*** TURN *** [3s Js Ad] [9d]
+Braniste: checks 
+ismagilvip: checks 
+*** RIVER *** [3s Js Ad 9d] [4d]
+Braniste: checks 
+ismagilvip: checks 
+*** SHOW DOWN ***
+Braniste: shows [4c 2s] (a pair of Fours)
+ismagilvip: mucks hand 
+Braniste collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3s Js Ad 9d 4d]
+Seat 1: ismagilvip mucked [Qc 7c]
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ppivot10 (small blind) folded before Flop
+Seat 4: Braniste (big blind) showed [4c 2s] and won ($0.05) with a pair of Fours
+Seat 5: SaintMx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010439584:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:35:59 MSK [2020/05/17 2:35:59 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: ismagilvip ($1.58 in chips) 
+Seat 2: lawlex_2 ($2.11 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.20 in chips) 
+Seat 5: SaintMx ($2.13 in chips) 
+Seat 6: devilu2013 ($0.80 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: posts big blind $0.02
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td 9s]
+devilu2013: checks 
+ismagilvip: calls $0.02
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: raises $0.10 to $0.12
+devilu2013: calls $0.10
+ismagilvip: folds 
+*** FLOP *** [8d 3h 7s]
+SaintMx: bets $0.08
+devilu2013: folds 
+Uncalled bet ($0.08) returned to SaintMx
+SaintMx collected $0.26 from pot
+SaintMx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8d 3h 7s]
+Seat 1: ismagilvip folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Braniste (small blind) folded before Flop
+Seat 5: SaintMx (big blind) collected ($0.26)
+Seat 6: devilu2013 folded on the Flop
+
+
+
+PokerStars Hand #214010456892:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:36:44 MSK [2020/05/17 2:36:44 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: ismagilvip ($1.56 in chips) 
+Seat 2: lawlex_2 ($2.11 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.19 in chips) 
+Seat 5: SaintMx ($2.27 in chips) 
+Seat 6: devilu2013 ($0.68 in chips) 
+SaintMx: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 7s]
+ismagilvip: folds 
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: raises $0.04 to $0.06
+SaintMx: folds 
+devilu2013: calls $0.04
+*** FLOP *** [8s 9s 5h]
+devilu2013: checks 
+Braniste: bets $0.07
+devilu2013: calls $0.07
+*** TURN *** [8s 9s 5h] [9h]
+devilu2013: checks 
+Braniste: checks 
+*** RIVER *** [8s 9s 5h 9h] [Ks]
+devilu2013: bets $0.26
+Braniste: folds 
+Uncalled bet ($0.26) returned to devilu2013
+devilu2013 collected $0.26 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8s 9s 5h 9h Ks]
+Seat 1: ismagilvip folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste (button) folded on the River
+Seat 5: SaintMx (small blind) folded before Flop
+Seat 6: devilu2013 (big blind) collected ($0.26)
+
+
+
+PokerStars Hand #214010469531:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:37:17 MSK [2020/05/17 2:37:17 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: ismagilvip ($1.56 in chips) 
+Seat 2: lawlex_2 ($2.11 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.06 in chips) 
+Seat 5: SaintMx ($2.26 in chips) 
+Seat 6: devilu2013 ($0.81 in chips) 
+devilu2013: posts small blind $0.01
+ismagilvip: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Kd]
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+devilu2013: folds 
+Uncalled bet ($0.01) returned to ismagilvip
+ismagilvip collected $0.02 from pot
+ismagilvip: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ismagilvip (big blind) collected ($0.02)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: devilu2013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #214010476134:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:37:34 MSK [2020/05/17 2:37:34 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: ismagilvip ($1.57 in chips) 
+Seat 2: lawlex_2 ($2.11 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.06 in chips) 
+Seat 5: SaintMx ($2.26 in chips) 
+Seat 6: devilu2013 ($0.80 in chips) 
+ismagilvip: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Kd]
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+devilu2013: raises $0.02 to $0.04
+ismagilvip: calls $0.03
+lawlex_2: folds 
+*** FLOP *** [6d As Jd]
+ismagilvip: checks 
+devilu2013: bets $0.10
+ismagilvip: calls $0.10
+*** TURN *** [6d As Jd] [3h]
+ismagilvip: checks 
+devilu2013: bets $0.29
+ismagilvip: folds 
+Uncalled bet ($0.29) returned to devilu2013
+devilu2013 collected $0.29 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6d As Jd 3h]
+Seat 1: ismagilvip (small blind) folded on the Turn
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 (button) collected ($0.29)
+
+
+
+PokerStars Hand #214010486073:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:38:00 MSK [2020/05/17 2:38:00 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: ismagilvip ($1.43 in chips) 
+Seat 2: lawlex_2 ($2.09 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.06 in chips) 
+Seat 5: SaintMx ($2.26 in chips) 
+Seat 6: devilu2013 ($0.95 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s Ts]
+Braniste: folds 
+SaintMx: raises $0.03 to $0.05
+devilu2013: folds 
+ismagilvip: calls $0.05
+lawlex_2: folds 
+ppivot10: calls $0.03
+*** FLOP *** [7s 3s 9h]
+ppivot10: checks 
+SaintMx: bets $0.12
+ismagilvip: folds 
+ppivot10: calls $0.12
+*** TURN *** [7s 3s 9h] [5s]
+ppivot10: checks 
+SaintMx: bets $0.22
+ppivot10: calls $0.22
+*** RIVER *** [7s 3s 9h 5s] [Qc]
+ppivot10: checks 
+SaintMx: bets $0.34
+ppivot10: folds 
+Uncalled bet ($0.34) returned to SaintMx
+SaintMx collected $0.81 from pot
+SaintMx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [7s 3s 9h 5s Qc]
+Seat 1: ismagilvip (button) folded on the Flop
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ppivot10 (big blind) folded on the River
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx collected ($0.81)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010517185:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:39:20 MSK [2020/05/17 2:39:20 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: ismagilvip ($1.38 in chips) 
+Seat 2: lawlex_2 ($2.08 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.06 in chips) 
+Seat 5: SaintMx ($2.68 in chips) 
+Seat 6: devilu2013 ($0.95 in chips) 
+ppivot10: posts small blind $0.01
+Braniste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th 8h]
+SaintMx: folds 
+devilu2013: folds 
+ismagilvip: calls $0.02
+lawlex_2: calls $0.02
+ppivot10: folds 
+Braniste: checks 
+*** FLOP *** [7c 3s 8s]
+Braniste: checks 
+ismagilvip: checks 
+lawlex_2: bets $0.05
+Braniste: folds 
+ismagilvip: calls $0.05
+*** TURN *** [7c 3s 8s] [5s]
+ismagilvip: checks 
+lawlex_2: checks 
+*** RIVER *** [7c 3s 8s 5s] [Js]
+ismagilvip: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+ismagilvip: shows [6d Td] (high card Jack)
+lawlex_2: shows [Th 8h] (a pair of Eights)
+lawlex_2 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [7c 3s 8s 5s Js]
+Seat 1: ismagilvip showed [6d Td] and lost with high card Jack
+Seat 2: lawlex_2 (button) showed [Th 8h] and won ($0.16) with a pair of Eights
+Seat 3: ppivot10 (small blind) folded before Flop
+Seat 4: Braniste (big blind) folded on the Flop
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010541193:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:40:23 MSK [2020/05/17 2:40:23 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: ismagilvip ($1.93 in chips) 
+Seat 2: lawlex_2 ($2.17 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.04 in chips) 
+Seat 5: SaintMx ($2.68 in chips) 
+Seat 6: devilu2013 ($0.95 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Td]
+devilu2013: calls $0.02
+ismagilvip: folds 
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: raises $0.06 to $0.08
+devilu2013: calls $0.06
+*** FLOP *** [2s Kd As]
+SaintMx: bets $0.07
+devilu2013: calls $0.07
+*** TURN *** [2s Kd As] [3h]
+SaintMx: bets $0.09
+devilu2013: folds 
+Uncalled bet ($0.09) returned to SaintMx
+SaintMx collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [2s Kd As 3h]
+Seat 1: ismagilvip folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Braniste (small blind) folded before Flop
+Seat 5: SaintMx (big blind) collected ($0.30)
+Seat 6: devilu2013 folded on the Turn
+
+
+
+PokerStars Hand #214010555225:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:40:59 MSK [2020/05/17 2:40:59 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: ismagilvip ($1.93 in chips) 
+Seat 2: lawlex_2 ($2.17 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.03 in chips) 
+Seat 5: SaintMx ($2.83 in chips) 
+Seat 6: devilu2013 ($0.80 in chips) 
+SaintMx: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc Ts]
+ismagilvip: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+ppivot10: folds 
+Braniste: raises $0.11 to $0.16
+SaintMx: folds 
+devilu2013: folds 
+ismagilvip: calls $0.14
+lawlex_2: folds 
+*** FLOP *** [Ad 7c 7s]
+ismagilvip: checks 
+Braniste: bets $0.20
+ismagilvip: calls $0.20
+*** TURN *** [Ad 7c 7s] [4h]
+ismagilvip: checks 
+Braniste: checks 
+*** RIVER *** [Ad 7c 7s 4h] [9d]
+ismagilvip: bets $0.12
+Braniste: calls $0.12
+*** SHOW DOWN ***
+ismagilvip: shows [9c Ah] (two pair, Aces and Nines)
+Braniste: mucks hand 
+ismagilvip collected $1 from pot
+*** SUMMARY ***
+Total pot $1.04 | Rake $0.04 
+Board [Ad 7c 7s 4h 9d]
+Seat 1: ismagilvip showed [9c Ah] and won ($1) with two pair, Aces and Nines
+Seat 2: lawlex_2 folded before Flop
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste (button) mucked [Qd Qs]
+Seat 5: SaintMx (small blind) folded before Flop
+Seat 6: devilu2013 (big blind) folded before Flop
+
+
+
+PokerStars Hand #214010577003:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:41:57 MSK [2020/05/17 2:41:57 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: ismagilvip ($2.45 in chips) 
+Seat 2: lawlex_2 ($2.12 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.82 in chips) 
+Seat 6: devilu2013 ($1.26 in chips) 
+devilu2013: posts small blind $0.01
+ismagilvip: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 6c]
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+devilu2013: calls $0.01
+ismagilvip: checks 
+*** FLOP *** [6d Qs 7d]
+devilu2013: checks 
+ismagilvip: checks 
+*** TURN *** [6d Qs 7d] [5h]
+devilu2013: checks 
+ismagilvip: checks 
+*** RIVER *** [6d Qs 7d 5h] [Jh]
+devilu2013: checks 
+ismagilvip: bets $0.02
+devilu2013: folds 
+Uncalled bet ($0.02) returned to ismagilvip
+ismagilvip collected $0.04 from pot
+ismagilvip: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6d Qs 7d 5h Jh]
+Seat 1: ismagilvip (big blind) collected ($0.04)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: devilu2013 (small blind) folded on the River
+
+
+
+PokerStars Hand #214010587109:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:42:23 MSK [2020/05/17 2:42:23 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: ismagilvip ($2.47 in chips) 
+Seat 2: lawlex_2 ($2.12 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.82 in chips) 
+Seat 6: devilu2013 ($1.24 in chips) 
+ismagilvip: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Ah]
+ppivot10: raises $0.04 to $0.06
+Braniste: folds 
+SaintMx: folds 
+devilu2013: folds 
+ismagilvip: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to ppivot10
+ppivot10 collected $0.05 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ismagilvip (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ppivot10 collected ($0.05)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010597380:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:42:50 MSK [2020/05/17 2:42:50 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: ismagilvip ($2.46 in chips) 
+Seat 2: lawlex_2 ($2.10 in chips) 
+Seat 3: ppivot10 ($2.03 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.82 in chips) 
+Seat 6: devilu2013 ($1.24 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh 3d]
+Braniste: folds 
+SaintMx: folds 
+devilu2013: folds 
+ismagilvip: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to ppivot10
+ppivot10 collected $0.02 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ismagilvip (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ppivot10 (big blind) collected ($0.02)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010603462:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:43:06 MSK [2020/05/17 2:43:06 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: ismagilvip ($2.46 in chips) 
+Seat 2: lawlex_2 ($2.09 in chips) 
+Seat 3: ppivot10 ($2.04 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.82 in chips) 
+Seat 6: devilu2013 ($1.24 in chips) 
+ppivot10: posts small blind $0.01
+Braniste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c 6c]
+SaintMx: folds 
+devilu2013: calls $0.02
+ismagilvip: folds 
+lawlex_2: raises $0.03 to $0.05
+ppivot10: folds 
+Braniste: folds 
+devilu2013: calls $0.03
+*** FLOP *** [5h Ks Jc]
+devilu2013: checks 
+lawlex_2: bets $0.09
+devilu2013: calls $0.09
+*** TURN *** [5h Ks Jc] [2h]
+devilu2013: checks 
+lawlex_2: bets $0.20
+devilu2013: folds 
+Uncalled bet ($0.20) returned to lawlex_2
+lawlex_2 collected $0.30 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [5h Ks Jc 2h]
+Seat 1: ismagilvip folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) collected ($0.30)
+Seat 3: ppivot10 (small blind) folded before Flop
+Seat 4: Braniste (big blind) folded before Flop
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 folded on the Turn
+
+
+
+PokerStars Hand #214010618640:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:43:45 MSK [2020/05/17 2:43:45 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: ismagilvip ($2.46 in chips) 
+Seat 2: lawlex_2 ($2.25 in chips) 
+Seat 3: ppivot10 ($2.03 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.82 in chips) 
+Seat 6: devilu2013 ($1.10 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ks 3d]
+devilu2013: calls $0.02
+ismagilvip: calls $0.02
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: checks 
+*** FLOP *** [Jd 5c 7d]
+SaintMx: checks 
+devilu2013: checks 
+ismagilvip: checks 
+*** TURN *** [Jd 5c 7d] [7c]
+SaintMx: checks 
+devilu2013: checks 
+ismagilvip: checks 
+*** RIVER *** [Jd 5c 7d 7c] [Kh]
+SaintMx: checks 
+devilu2013: bets $0.02
+ismagilvip: calls $0.02
+SaintMx: folds 
+*** SHOW DOWN ***
+devilu2013: shows [8c 8h] (two pair, Eights and Sevens)
+ismagilvip: shows [8s 8d] (two pair, Eights and Sevens)
+devilu2013 collected $0.06 from pot
+ismagilvip collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Jd 5c 7d 7c Kh]
+Seat 1: ismagilvip showed [8s 8d] and won ($0.05) with two pair, Eights and Sevens
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Braniste (small blind) folded before Flop
+Seat 5: SaintMx (big blind) folded on the River
+Seat 6: devilu2013 showed [8c 8h] and won ($0.06) with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #214010640113:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:44:41 MSK [2020/05/17 2:44:41 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: ismagilvip ($2.47 in chips) 
+Seat 2: lawlex_2 ($2.25 in chips) 
+Seat 3: ppivot10 ($2.03 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.80 in chips) 
+Seat 6: devilu2013 ($1.44 in chips) 
+SaintMx: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 4s]
+ismagilvip: folds 
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: raises $0.04 to $0.06
+devilu2013: calls $0.04
+*** FLOP *** [7s Jd 4c]
+SaintMx: checks 
+devilu2013: checks 
+*** TURN *** [7s Jd 4c] [7c]
+SaintMx: bets $0.04
+devilu2013: calls $0.04
+*** RIVER *** [7s Jd 4c 7c] [9h]
+SaintMx: checks 
+devilu2013: bets $0.19
+SaintMx: folds 
+Uncalled bet ($0.19) returned to devilu2013
+devilu2013 collected $0.19 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7s Jd 4c 7c 9h]
+Seat 1: ismagilvip folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) folded on the River
+Seat 6: devilu2013 (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #214010655705:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:45:22 MSK [2020/05/17 2:45:22 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: ismagilvip ($2.47 in chips) 
+Seat 2: lawlex_2 ($2.25 in chips) 
+Seat 3: ppivot10 ($2.03 in chips) 
+Seat 4: Braniste ($2 in chips) 
+Seat 5: SaintMx ($2.70 in chips) 
+Seat 6: devilu2013 ($1.53 in chips) 
+devilu2013: posts small blind $0.01
+ismagilvip: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qh Ah]
+lawlex_2: raises $0.03 to $0.05
+ppivot10: raises $0.13 to $0.18
+Braniste: calls $0.18
+SaintMx: folds 
+devilu2013: folds 
+ismagilvip: folds 
+lawlex_2: folds 
+*** FLOP *** [Kc 3s 6h]
+ppivot10: bets $0.22
+Braniste: raises $0.67 to $0.89
+ppivot10: folds 
+Uncalled bet ($0.67) returned to Braniste
+Braniste collected $0.85 from pot
+Braniste: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [Kc 3s 6h]
+Seat 1: ismagilvip (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop
+Seat 3: ppivot10 folded on the Flop
+Seat 4: Braniste collected ($0.85)
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: devilu2013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #214010681282:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:46:17 MSK [2020/05/17 2:46:17 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: ismagilvip ($2.45 in chips) 
+Seat 2: lawlex_2 ($2.20 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.45 in chips) 
+Seat 5: SaintMx ($2.70 in chips) 
+Seat 6: devilu2013 ($1.52 in chips) 
+ismagilvip: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d Qh]
+ppivot10: folds 
+Braniste: raises $0.02 to $0.04
+SaintMx: folds 
+devilu2013: folds 
+ismagilvip: folds 
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to Braniste
+Braniste collected $0.05 from pot
+Braniste: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ismagilvip (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste collected ($0.05)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010689204:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:46:38 MSK [2020/05/17 2:46:38 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: ismagilvip ($2.44 in chips) 
+Seat 2: lawlex_2 ($2.18 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.48 in chips) 
+Seat 5: SaintMx ($2.70 in chips) 
+Seat 6: devilu2013 ($1.52 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Th]
+Braniste: folds 
+SaintMx: folds 
+devilu2013: folds 
+ismagilvip: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+ppivot10: calls $0.03
+ismagilvip: calls $0.03
+*** FLOP *** [6h 3s Qh]
+lawlex_2: bets $0.09
+ppivot10: calls $0.09
+ismagilvip: folds 
+*** TURN *** [6h 3s Qh] [3d]
+lawlex_2: bets $0.21
+ppivot10: calls $0.21
+*** RIVER *** [6h 3s Qh 3d] [5d]
+lawlex_2: checks 
+ppivot10: bets $0.54
+lawlex_2: folds 
+Uncalled bet ($0.54) returned to ppivot10
+ppivot10 collected $0.72 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [6h 3s Qh 3d 5d]
+Seat 1: ismagilvip (button) folded on the Flop
+Seat 2: lawlex_2 (small blind) folded on the River
+Seat 3: ppivot10 (big blind) collected ($0.72)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010710267:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:47:32 MSK [2020/05/17 2:47:32 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: ismagilvip ($2.39 in chips) 
+Seat 2: lawlex_2 ($1.83 in chips) 
+Seat 3: ppivot10 ($2.37 in chips) 
+Seat 4: Braniste ($2.48 in chips) 
+Seat 5: SaintMx ($2.70 in chips) 
+Seat 6: devilu2013 ($1.52 in chips) 
+ppivot10: posts small blind $0.01
+Braniste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 3h]
+SaintMx: folds 
+devilu2013: calls $0.02
+ismagilvip: calls $0.02
+lawlex_2: folds 
+ppivot10: raises $0.08 to $0.10
+Braniste: folds 
+devilu2013: calls $0.08
+ismagilvip: calls $0.08
+*** FLOP *** [8h 6h 8c]
+ppivot10: checks 
+devilu2013: bets $0.16
+ismagilvip: folds 
+ppivot10: folds 
+Uncalled bet ($0.16) returned to devilu2013
+devilu2013 collected $0.31 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [8h 6h 8c]
+Seat 1: ismagilvip folded on the Flop
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ppivot10 (small blind) folded on the Flop
+Seat 4: Braniste (big blind) folded before Flop
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 collected ($0.31)
+
+
+
+PokerStars Hand #214010724425:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:48:09 MSK [2020/05/17 2:48:09 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: ismagilvip ($2.29 in chips) 
+Seat 2: lawlex_2 ($1.83 in chips) 
+Seat 3: ppivot10 ($2.27 in chips) 
+Seat 4: Braniste ($2.46 in chips) 
+Seat 5: SaintMx ($2.70 in chips) 
+Seat 6: devilu2013 ($1.73 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 5h]
+devilu2013: calls $0.02
+ismagilvip: folds 
+lawlex_2: raises $0.03 to $0.05
+ppivot10: folds 
+Braniste: calls $0.04
+SaintMx: folds 
+devilu2013: calls $0.03
+*** FLOP *** [3d 5c 2d]
+Braniste: bets $0.08
+devilu2013: calls $0.08
+lawlex_2: calls $0.08
+*** TURN *** [3d 5c 2d] [Th]
+Braniste: checks 
+devilu2013: checks 
+lawlex_2: bets $0.26
+Braniste: calls $0.26
+devilu2013: folds 
+*** RIVER *** [3d 5c 2d Th] [Kc]
+Braniste: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+Braniste: shows [Kd Qd] (a pair of Kings)
+lawlex_2: mucks hand 
+Braniste collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.03 
+Board [3d 5c 2d Th Kc]
+Seat 1: ismagilvip folded before Flop (didn't bet)
+Seat 2: lawlex_2 mucked [Ac 5h]
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Braniste (small blind) showed [Kd Qd] and won ($0.90) with a pair of Kings
+Seat 5: SaintMx (big blind) folded before Flop
+Seat 6: devilu2013 folded on the Turn
+
+
+
+PokerStars Hand #214010742297:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:48:55 MSK [2020/05/17 2:48:55 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: ismagilvip ($2.29 in chips) 
+Seat 2: lawlex_2 ($1.44 in chips) 
+Seat 3: ppivot10 ($2.27 in chips) 
+Seat 4: Braniste ($2.97 in chips) 
+Seat 5: SaintMx ($2.68 in chips) 
+Seat 6: devilu2013 ($1.60 in chips) 
+SaintMx: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Jd]
+ismagilvip: folds 
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+Uncalled bet ($0.01) returned to devilu2013
+devilu2013 collected $0.02 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ismagilvip folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) folded before Flop
+Seat 6: devilu2013 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #214010746310:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:49:05 MSK [2020/05/17 2:49:05 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: ismagilvip ($2.29 in chips) 
+Seat 2: lawlex_2 ($1.44 in chips) 
+Seat 3: ppivot10 ($2.27 in chips) 
+Seat 4: Braniste ($2.97 in chips) 
+Seat 5: SaintMx ($2.67 in chips) 
+Seat 6: devilu2013 ($1.61 in chips) 
+devilu2013: posts small blind $0.01
+ismagilvip: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 2h]
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+devilu2013 said, "ahahahahahah]"
+devilu2013: calls $0.01
+ismagilvip: checks 
+*** FLOP *** [Jd 8d Js]
+devilu2013: checks 
+ismagilvip: checks 
+*** TURN *** [Jd 8d Js] [7h]
+devilu2013: checks 
+ismagilvip: bets $0.02
+devilu2013: folds 
+Uncalled bet ($0.02) returned to ismagilvip
+ismagilvip collected $0.04 from pot
+ismagilvip: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jd 8d Js 7h]
+Seat 1: ismagilvip (big blind) collected ($0.04)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: devilu2013 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #214010758276:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:49:37 MSK [2020/05/17 2:49:37 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: ismagilvip ($2.31 in chips) 
+Seat 2: lawlex_2 ($1.94 in chips) 
+Seat 3: ppivot10 ($2.27 in chips) 
+Seat 4: Braniste ($2.97 in chips) 
+Seat 5: SaintMx ($2.67 in chips) 
+Seat 6: devilu2013 ($1.59 in chips) 
+ismagilvip: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 2d]
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+devilu2013: folds 
+ismagilvip: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Qh 8s 9d]
+ismagilvip: checks 
+lawlex_2: checks 
+*** TURN *** [Qh 8s 9d] [5s]
+ismagilvip: checks 
+lawlex_2: checks 
+*** RIVER *** [Qh 8s 9d 5s] [Qd]
+ismagilvip: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+ismagilvip: shows [7d Th] (a pair of Queens)
+lawlex_2: mucks hand 
+ismagilvip collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qh 8s 9d 5s Qd]
+Seat 1: ismagilvip (small blind) showed [7d Th] and won ($0.04) with a pair of Queens
+Seat 2: lawlex_2 (big blind) mucked [4d 2d]
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010773135:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:50:15 MSK [2020/05/17 2:50:15 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: ismagilvip ($2.33 in chips) 
+Seat 2: lawlex_2 ($1.92 in chips) 
+Seat 3: ppivot10 ($2.27 in chips) 
+Seat 4: Braniste ($2.97 in chips) 
+Seat 5: SaintMx ($2.67 in chips) 
+Seat 6: devilu2013 ($1.59 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd 5h]
+Braniste: folds 
+SaintMx: folds 
+devilu2013: calls $0.02
+ismagilvip: calls $0.02
+lawlex_2: folds 
+ppivot10: checks 
+*** FLOP *** [8s 4d 3h]
+ppivot10: checks 
+devilu2013: checks 
+ismagilvip: checks 
+*** TURN *** [8s 4d 3h] [2h]
+ppivot10: checks 
+devilu2013: checks 
+ismagilvip: bets $0.02
+ppivot10: folds 
+devilu2013: calls $0.02
+*** RIVER *** [8s 4d 3h 2h] [3d]
+devilu2013: checks 
+ismagilvip: bets $0.02
+devilu2013: folds 
+Uncalled bet ($0.02) returned to ismagilvip
+ismagilvip collected $0.11 from pot
+ismagilvip: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8s 4d 3h 2h 3d]
+Seat 1: ismagilvip (button) collected ($0.11)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ppivot10 (big blind) folded on the Turn
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 folded on the River
+
+
+
+PokerStars Hand #214010791978:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:51:04 MSK [2020/05/17 2:51:04 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: ismagilvip ($2.40 in chips) 
+Seat 2: lawlex_2 ($1.91 in chips) 
+Seat 3: ppivot10 ($2.25 in chips) 
+Seat 4: Braniste ($2.97 in chips) 
+Seat 5: SaintMx ($2.67 in chips) 
+Seat 6: devilu2013 ($1.55 in chips) 
+ppivot10: posts small blind $0.01
+Braniste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Jc]
+SaintMx: folds 
+devilu2013: folds 
+ismagilvip: calls $0.02
+lawlex_2: folds 
+ppivot10: raises $0.06 to $0.08
+Braniste: folds 
+ismagilvip: calls $0.06
+*** FLOP *** [2c 8d Ad]
+ppivot10: bets $0.06
+ismagilvip: calls $0.06
+*** TURN *** [2c 8d Ad] [4h]
+ppivot10: bets $0.10
+ismagilvip: calls $0.10
+*** RIVER *** [2c 8d Ad 4h] [Ah]
+ppivot10: bets $0.16
+ismagilvip: raises $0.16 to $0.32
+ppivot10: folds 
+Uncalled bet ($0.16) returned to ismagilvip
+ismagilvip collected $0.79 from pot
+ismagilvip: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [2c 8d Ad 4h Ah]
+Seat 1: ismagilvip collected ($0.79)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ppivot10 (small blind) folded on the River
+Seat 4: Braniste (big blind) folded before Flop
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010816402:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:52:08 MSK [2020/05/17 2:52:08 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: ismagilvip ($2.79 in chips) 
+Seat 2: lawlex_2 ($1.91 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.95 in chips) 
+Seat 5: SaintMx ($2.67 in chips) 
+Seat 6: devilu2013 ($1.55 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c 9s]
+devilu2013: folds 
+ismagilvip: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+ismagilvip: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.07 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: ismagilvip folded before Flop
+Seat 2: lawlex_2 collected ($0.07)
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Braniste (small blind) folded before Flop
+Seat 5: SaintMx (big blind) folded before Flop
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010824093:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:52:28 MSK [2020/05/17 2:52:28 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: ismagilvip ($2.77 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.94 in chips) 
+Seat 5: SaintMx ($2.65 in chips) 
+Seat 6: devilu2013 ($1.55 in chips) 
+SaintMx: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 5d]
+ismagilvip: folds 
+ismagilvip leaves the table
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: raises $0.04 to $0.06
+devilu2013: calls $0.04
+*** FLOP *** [Tc Jd Ad]
+SaintMx: checks 
+devilu2013: bets $0.06
+SaintMx: calls $0.06
+*** TURN *** [Tc Jd Ad] [2c]
+SaintMx: checks 
+devilu2013: bets $0.12
+jagiellonia1 joins the table at seat #1 
+SaintMx: folds 
+Uncalled bet ($0.12) returned to devilu2013
+devilu2013 collected $0.23 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Tc Jd Ad 2c]
+Seat 1: ismagilvip folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) folded on the Turn
+Seat 6: devilu2013 (big blind) collected ($0.23)
+
+
+
+PokerStars Hand #214010840753:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:53:11 MSK [2020/05/17 2:53:11 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: jagiellonia1 ($0.80 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.94 in chips) 
+Seat 5: SaintMx ($2.53 in chips) 
+Seat 6: devilu2013 ($1.66 in chips) 
+devilu2013: posts small blind $0.01
+jagiellonia1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s Td]
+lawlex_2: folds 
+ppivot10: raises $0.04 to $0.06
+Braniste: folds 
+SaintMx: folds 
+devilu2013: folds 
+jagiellonia1: calls $0.04
+*** FLOP *** [Qs 9d 3s]
+jagiellonia1: checks 
+ppivot10: bets $0.06
+jagiellonia1: calls $0.06
+*** TURN *** [Qs 9d 3s] [Ah]
+jagiellonia1: checks 
+ppivot10: bets $0.10
+jagiellonia1: raises $0.10 to $0.20
+ppivot10: calls $0.10
+*** RIVER *** [Qs 9d 3s Ah] [Qd]
+jagiellonia1: bets $0.48 and is all-in
+ppivot10: folds 
+Uncalled bet ($0.48) returned to jagiellonia1
+jagiellonia1 collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [Qs 9d 3s Ah Qd]
+Seat 1: jagiellonia1 (big blind) collected ($0.63)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded on the River
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: devilu2013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #214010853165:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:53:44 MSK [2020/05/17 2:53:44 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: jagiellonia1 ($1.11 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.94 in chips) 
+Seat 5: SaintMx ($2.53 in chips) 
+Seat 6: devilu2013 ($1.65 in chips) 
+jagiellonia1: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 7d]
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+devilu2013: folds 
+jagiellonia1: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jagiellonia1 (small blind) folded before Flop
+Seat 2: lawlex_2 (big blind) collected ($0.02)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010858143:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:53:56 MSK [2020/05/17 2:53:56 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: jagiellonia1 ($1.10 in chips) 
+Seat 2: lawlex_2 ($1.97 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.94 in chips) 
+Seat 5: SaintMx ($2.53 in chips) 
+Seat 6: devilu2013 ($1.65 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 8c]
+Braniste: folds 
+SaintMx: folds 
+devilu2013: folds 
+jagiellonia1: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to ppivot10
+ppivot10 collected $0.02 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jagiellonia1 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ppivot10 (big blind) collected ($0.02)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010861879:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:54:06 MSK [2020/05/17 2:54:06 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: jagiellonia1 ($1.10 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: ppivot10 ($2.01 in chips) 
+Seat 4: Braniste ($2.94 in chips) 
+Seat 5: SaintMx ($2.53 in chips) 
+Seat 6: devilu2013 ($1.65 in chips) 
+ppivot10: posts small blind $0.01
+Braniste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 6d]
+SaintMx: raises $0.03 to $0.05
+devilu2013: calls $0.05
+jagiellonia1: calls $0.05
+lawlex_2: folds 
+ppivot10: calls $0.04
+Braniste: folds 
+*** FLOP *** [Td 8c 7c]
+ppivot10: checks 
+SaintMx: checks 
+devilu2013: bets $0.11
+jagiellonia1: folds 
+ppivot10: folds 
+SaintMx: folds 
+Uncalled bet ($0.11) returned to devilu2013
+devilu2013 collected $0.21 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Td 8c 7c]
+Seat 1: jagiellonia1 folded on the Flop
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ppivot10 (small blind) folded on the Flop
+Seat 4: Braniste (big blind) folded before Flop
+Seat 5: SaintMx folded on the Flop
+Seat 6: devilu2013 collected ($0.21)
+
+
+
+PokerStars Hand #214010880414:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:54:55 MSK [2020/05/17 2:54:55 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: jagiellonia1 ($1.05 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.92 in chips) 
+Seat 5: SaintMx ($2.48 in chips) 
+Seat 6: devilu2013 ($1.81 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c Qs]
+devilu2013: folds 
+jagiellonia1: folds 
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: raises $0.04 to $0.06
+SaintMx: folds 
+Uncalled bet ($0.04) returned to Braniste
+Braniste collected $0.04 from pot
+Braniste: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jagiellonia1 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Braniste (small blind) collected ($0.04)
+Seat 5: SaintMx (big blind) folded before Flop
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010886972:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:55:12 MSK [2020/05/17 2:55:12 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: jagiellonia1 ($1.05 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.94 in chips) 
+Seat 5: SaintMx ($2.46 in chips) 
+Seat 6: devilu2013 ($1.81 in chips) 
+SaintMx: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd Ts]
+jagiellonia1: raises $0.02 to $0.04
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: calls $0.03
+devilu2013: calls $0.02
+*** FLOP *** [Ks 5d Td]
+SaintMx: checks 
+devilu2013: checks 
+jagiellonia1: bets $0.06
+SaintMx: calls $0.06
+devilu2013: calls $0.06
+*** TURN *** [Ks 5d Td] [3h]
+SaintMx: checks 
+devilu2013: checks 
+jagiellonia1: checks 
+*** RIVER *** [Ks 5d Td 3h] [Js]
+SaintMx: checks 
+devilu2013: bets $0.29
+jagiellonia1: folds 
+SaintMx: folds 
+Uncalled bet ($0.29) returned to devilu2013
+devilu2013 collected $0.29 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ks 5d Td 3h Js]
+Seat 1: jagiellonia1 folded on the River
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) folded on the River
+Seat 6: devilu2013 (big blind) collected ($0.29)
+
+
+
+PokerStars Hand #214010905992:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:56:12 MSK [2020/05/17 2:56:12 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: jagiellonia1 ($0.95 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.94 in chips) 
+Seat 5: SaintMx ($2.36 in chips) 
+Seat 6: devilu2013 ($2 in chips) 
+devilu2013: posts small blind $0.01
+jagiellonia1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7c Kh]
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+devilu2013: calls $0.01
+jagiellonia1: checks 
+*** FLOP *** [Jd 5c Ad]
+devilu2013: bets $0.04
+jagiellonia1: folds 
+Uncalled bet ($0.04) returned to devilu2013
+devilu2013 collected $0.04 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jd 5c Ad]
+Seat 1: jagiellonia1 (big blind) folded on the Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: devilu2013 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #214010912057:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:56:30 MSK [2020/05/17 2:56:30 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: jagiellonia1 ($0.93 in chips) 
+Seat 2: lawlex_2 ($1.96 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.94 in chips) 
+Seat 5: SaintMx ($2.36 in chips) 
+Seat 6: devilu2013 ($2.02 in chips) 
+jagiellonia1: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9s Th]
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+devilu2013: calls $0.02
+jagiellonia1: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [Jc 9d 2c]
+jagiellonia1: checks 
+lawlex_2: bets $0.04
+devilu2013: folds 
+jagiellonia1: calls $0.04
+*** TURN *** [Jc 9d 2c] [8h]
+jagiellonia1: checks 
+lawlex_2: bets $0.09
+jagiellonia1: calls $0.09
+*** RIVER *** [Jc 9d 2c 8h] [4h]
+jagiellonia1: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+jagiellonia1: shows [5s Jh] (a pair of Jacks)
+lawlex_2: mucks hand 
+jagiellonia1 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Jc 9d 2c 8h 4h]
+Seat 1: jagiellonia1 (small blind) showed [5s Jh] and won ($0.31) with a pair of Jacks
+Seat 2: lawlex_2 (big blind) mucked [9s Th]
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 (button) folded on the Flop
+
+
+
+PokerStars Hand #214010926163:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:57:15 MSK [2020/05/17 2:57:15 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: jagiellonia1 ($1.09 in chips) 
+Seat 2: lawlex_2 ($1.81 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.94 in chips) 
+Seat 5: SaintMx ($2.36 in chips) 
+Seat 6: devilu2013 ($2 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 8h]
+Braniste: folds 
+SaintMx: folds 
+devilu2013: folds 
+jagiellonia1: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to ppivot10
+ppivot10 collected $0.02 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jagiellonia1 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ppivot10 (big blind) collected ($0.02)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010931335:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:57:31 MSK [2020/05/17 2:57:31 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: jagiellonia1 ($1.09 in chips) 
+Seat 2: lawlex_2 ($1.80 in chips) 
+Seat 3: ppivot10 ($2.01 in chips) 
+Seat 4: Braniste ($2.94 in chips) 
+Seat 5: SaintMx ($2.36 in chips) 
+Seat 6: devilu2013 ($2 in chips) 
+ppivot10: posts small blind $0.01
+Braniste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2h 5s]
+SaintMx: folds 
+devilu2013: folds 
+jagiellonia1: raises $0.02 to $0.04
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+Uncalled bet ($0.02) returned to jagiellonia1
+jagiellonia1 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jagiellonia1 collected ($0.05)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ppivot10 (small blind) folded before Flop
+Seat 4: Braniste (big blind) folded before Flop
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214010936305:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:57:47 MSK [2020/05/17 2:57:47 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: jagiellonia1 ($1.12 in chips) 
+Seat 2: lawlex_2 ($1.80 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.92 in chips) 
+Seat 5: SaintMx ($2.36 in chips) 
+Seat 6: devilu2013 ($2 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kc 7d]
+devilu2013: calls $0.02
+jagiellonia1: folds 
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: calls $0.01
+SaintMx: checks 
+*** FLOP *** [8s 5d Td]
+Braniste: checks 
+SaintMx: checks 
+devilu2013: bets $0.06
+Braniste: folds 
+SaintMx: folds 
+Uncalled bet ($0.06) returned to devilu2013
+devilu2013 collected $0.06 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8s 5d Td]
+Seat 1: jagiellonia1 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Braniste (small blind) folded on the Flop
+Seat 5: SaintMx (big blind) folded on the Flop
+Seat 6: devilu2013 collected ($0.06)
+
+
+
+PokerStars Hand #214010945502:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:58:15 MSK [2020/05/17 2:58:15 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: jagiellonia1 ($1.12 in chips) 
+Seat 2: lawlex_2 ($1.80 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.90 in chips) 
+Seat 5: SaintMx ($2.34 in chips) 
+Seat 6: devilu2013 ($2.04 in chips) 
+SaintMx: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4d 9h]
+jagiellonia1: folds 
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+SaintMx: folds 
+Uncalled bet ($0.01) returned to devilu2013
+devilu2013 collected $0.02 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jagiellonia1 folded before Flop (didn't bet)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste (button) folded before Flop (didn't bet)
+Seat 5: SaintMx (small blind) folded before Flop
+Seat 6: devilu2013 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #214010949135:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:58:26 MSK [2020/05/17 2:58:26 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: jagiellonia1 ($1.12 in chips) 
+Seat 2: lawlex_2 ($1.80 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.90 in chips) 
+Seat 5: SaintMx ($2.33 in chips) 
+Seat 6: devilu2013 ($2.05 in chips) 
+devilu2013: posts small blind $0.01
+jagiellonia1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 5c]
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: raises $0.04 to $0.06
+SaintMx: folds 
+devilu2013: folds 
+jagiellonia1: calls $0.04
+*** FLOP *** [2h Th 8d]
+jagiellonia1: checks 
+Braniste: checks 
+*** TURN *** [2h Th 8d] [As]
+jagiellonia1: checks 
+Braniste: checks 
+*** RIVER *** [2h Th 8d As] [4h]
+jagiellonia1: checks 
+Braniste: checks 
+*** SHOW DOWN ***
+jagiellonia1: shows [7d 8c] (a pair of Eights)
+Braniste: mucks hand 
+jagiellonia1 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2h Th 8d As 4h]
+Seat 1: jagiellonia1 (big blind) showed [7d 8c] and won ($0.13) with a pair of Eights
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste mucked [9d Kd]
+Seat 5: SaintMx (button) folded before Flop (didn't bet)
+Seat 6: devilu2013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #214010960946:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:59:03 MSK [2020/05/17 2:59:03 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: jagiellonia1 ($1.19 in chips) 
+Seat 2: lawlex_2 ($1.80 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.84 in chips) 
+Seat 5: SaintMx ($2.33 in chips) 
+Seat 6: devilu2013 ($2.04 in chips) 
+jagiellonia1: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Js]
+ppivot10: folds 
+Braniste: folds 
+SaintMx: raises $0.03 to $0.05
+devilu2013: calls $0.05
+jagiellonia1: calls $0.04
+lawlex_2: folds 
+*** FLOP *** [4d Qc 5s]
+jagiellonia1: checks 
+SaintMx: bets $0.05
+devilu2013: calls $0.05
+jagiellonia1: folds 
+*** TURN *** [4d Qc 5s] [8c]
+SaintMx: checks 
+devilu2013: checks 
+*** RIVER *** [4d Qc 5s 8c] [7c]
+SaintMx: bets $0.17
+devilu2013: folds 
+Uncalled bet ($0.17) returned to SaintMx
+SaintMx collected $0.26 from pot
+SaintMx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [4d Qc 5s 8c 7c]
+Seat 1: jagiellonia1 (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx collected ($0.26)
+Seat 6: devilu2013 (button) folded on the River
+
+
+
+PokerStars Hand #214010972921:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 9:59:40 MSK [2020/05/17 2:59:40 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: jagiellonia1 ($1.14 in chips) 
+Seat 2: lawlex_2 ($1.78 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Braniste ($2.84 in chips) 
+Seat 5: SaintMx ($2.49 in chips) 
+Seat 6: devilu2013 ($1.94 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Ac]
+Braniste: folds 
+SaintMx: folds 
+devilu2013: calls $0.02
+jagiellonia1: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+ppivot10: calls $0.03
+devilu2013: calls $0.03
+jagiellonia1: calls $0.03
+*** FLOP *** [Kh 2h 7s]
+lawlex_2: bets $0.13
+ppivot10: calls $0.13
+devilu2013: folds 
+jagiellonia1: folds 
+*** TURN *** [Kh 2h 7s] [9d]
+lawlex_2: checks 
+ppivot10: bets $0.15
+lawlex_2: folds 
+Uncalled bet ($0.15) returned to ppivot10
+ppivot10 collected $0.44 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Kh 2h 7s 9d]
+Seat 1: jagiellonia1 (button) folded on the Flop
+Seat 2: lawlex_2 (small blind) folded on the Turn
+Seat 3: ppivot10 (big blind) collected ($0.44)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 5: SaintMx folded before Flop (didn't bet)
+Seat 6: devilu2013 folded on the Flop
+
+
+
+PokerStars Hand #214010989047:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:00:28 MSK [2020/05/17 3:00:28 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: jagiellonia1 ($1.09 in chips) 
+Seat 2: lawlex_2 ($1.60 in chips) 
+Seat 3: ppivot10 ($2.26 in chips) 
+Seat 4: Braniste ($2.84 in chips) 
+Seat 5: SaintMx ($2.49 in chips) 
+Seat 6: devilu2013 ($1.89 in chips) 
+ppivot10: posts small blind $0.01
+Braniste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 9h]
+SaintMx: raises $0.03 to $0.05
+devilu2013: calls $0.05
+jagiellonia1: folds 
+lawlex_2: folds 
+ppivot10: calls $0.04
+Braniste: folds 
+*** FLOP *** [3h 5h 8d]
+ppivot10: checks 
+SaintMx: bets $0.05
+devilu2013: calls $0.05
+ppivot10: folds 
+*** TURN *** [3h 5h 8d] [4d]
+SaintMx: checks 
+devilu2013: bets $0.13
+SaintMx: folds 
+Uncalled bet ($0.13) returned to devilu2013
+devilu2013 collected $0.26 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [3h 5h 8d 4d]
+Seat 1: jagiellonia1 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ppivot10 (small blind) folded on the Flop
+Seat 4: Braniste (big blind) folded before Flop
+Seat 5: SaintMx folded on the Turn
+Seat 6: devilu2013 collected ($0.26)
+
+
+
+PokerStars Hand #214011009708:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:01:24 MSK [2020/05/17 3:01:24 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: jagiellonia1 ($1.09 in chips) 
+Seat 2: lawlex_2 ($1.60 in chips) 
+Seat 3: ppivot10 ($2.21 in chips) 
+Seat 4: Braniste ($2.82 in chips) 
+Seat 6: devilu2013 ($2.05 in chips) 
+Braniste: posts small blind $0.01
+SaintMx: is sitting out 
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 5h]
+SaintMx leaves the table
+Bubelika joins the table at seat #5 
+jagiellonia1: raises $0.02 to $0.04
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: folds 
+devilu2013: calls $0.02
+*** FLOP *** [Qd Qs 4s]
+devilu2013: checks 
+jagiellonia1: checks 
+*** TURN *** [Qd Qs 4s] [4c]
+devilu2013: checks 
+jagiellonia1: bets $0.04
+devilu2013: folds 
+Uncalled bet ($0.04) returned to jagiellonia1
+jagiellonia1 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qd Qs 4s 4c]
+Seat 1: jagiellonia1 collected ($0.09)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Braniste (small blind) folded before Flop
+Seat 6: devilu2013 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #214011019757:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:01:51 MSK [2020/05/17 3:01:51 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: jagiellonia1 ($1.14 in chips) 
+Seat 2: lawlex_2 ($1.60 in chips) 
+Seat 3: ppivot10 ($2.21 in chips) 
+Seat 4: Braniste ($2.81 in chips) 
+Seat 6: devilu2013 ($2.01 in chips) 
+devilu2013: posts small blind $0.01
+jagiellonia1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c Jd]
+lawlex_2: folds 
+ppivot10: folds 
+Braniste: raises $0.04 to $0.06
+devilu2013: folds 
+jagiellonia1: folds 
+Uncalled bet ($0.04) returned to Braniste
+Braniste collected $0.05 from pot
+Braniste: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jagiellonia1 (big blind) folded before Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste (button) collected ($0.05)
+Seat 6: devilu2013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #214011024185:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:02:02 MSK [2020/05/17 3:02:02 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: jagiellonia1 ($1.12 in chips) 
+Seat 2: lawlex_2 ($1.60 in chips) 
+Seat 3: ppivot10 ($2.21 in chips) 
+Seat 4: Braniste ($2.84 in chips) 
+Seat 6: devilu2013 ($2 in chips) 
+jagiellonia1: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Bubelika: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Th]
+ppivot10: folds 
+Braniste: folds 
+devilu2013: calls $0.02
+jagiellonia1: calls $0.01
+Braniste leaves the table
+lawlex_2: raises $0.03 to $0.05
+devilu2013: calls $0.03
+jagiellonia1: calls $0.03
+*** FLOP *** [2c Kc 2h]
+jagiellonia1: checks 
+Fredrix_2012 joins the table at seat #4 
+lawlex_2: bets $0.09
+devilu2013: folds 
+jagiellonia1: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.14 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2c Kc 2h]
+Seat 1: jagiellonia1 (small blind) folded on the Flop
+Seat 2: lawlex_2 (big blind) collected ($0.14)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Braniste folded before Flop (didn't bet)
+Seat 6: devilu2013 (button) folded on the Flop
+
+
+
+PokerStars Hand #214011034141:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:02:28 MSK [2020/05/17 3:02:28 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: jagiellonia1 ($1.07 in chips) 
+Seat 2: lawlex_2 ($1.69 in chips) 
+Seat 3: ppivot10 ($2.21 in chips) 
+Seat 6: devilu2013 ($1.95 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+Fredrix_2012: sits out 
+Bubelika: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc Ac]
+devilu2013: calls $0.02
+jagiellonia1: folds 
+lawlex_2: raises $0.03 to $0.05
+ppivot10: folds 
+devilu2013: calls $0.03
+*** FLOP *** [7d 5s Kd]
+lawlex_2: bets $0.08
+devilu2013: calls $0.08
+*** TURN *** [7d 5s Kd] [8c]
+lawlex_2: bets $0.18
+devilu2013: calls $0.18
+*** RIVER *** [7d 5s Kd 8c] [8h]
+lawlex_2: checks 
+devilu2013: bets $0.62
+lawlex_2: folds 
+Uncalled bet ($0.62) returned to devilu2013
+devilu2013 collected $0.62 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [7d 5s Kd 8c 8h]
+Seat 1: jagiellonia1 (button) folded before Flop (didn't bet)
+Seat 2: lawlex_2 (small blind) folded on the River
+Seat 3: ppivot10 (big blind) folded before Flop
+Seat 6: devilu2013 collected ($0.62)
+
+
+
+PokerStars Hand #214011054506:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:03:01 MSK [2020/05/17 3:03:01 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 1: jagiellonia1 ($1.07 in chips) 
+Seat 2: lawlex_2 ($1.38 in chips) 
+Seat 3: ppivot10 ($2.19 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 6: devilu2013 ($2.26 in chips) 
+ppivot10: posts small blind $0.01
+Fredrix_2012: posts big blind $0.02
+Bubelika: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 7h]
+devilu2013: folds 
+jagiellonia1: folds 
+lawlex_2: folds 
+ppivot10: raises $0.04 to $0.06
+Fredrix_2012: folds 
+Uncalled bet ($0.04) returned to ppivot10
+ppivot10 collected $0.04 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jagiellonia1 folded before Flop (didn't bet)
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ppivot10 (small blind) collected ($0.04)
+Seat 4: Fredrix_2012 (big blind) folded before Flop
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214011060037:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:03:15 MSK [2020/05/17 3:03:15 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 1: jagiellonia1 ($1.07 in chips) 
+Seat 2: lawlex_2 ($1.38 in chips) 
+Seat 3: ppivot10 ($2.21 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($0.80 in chips) 
+Seat 6: devilu2013 ($2.26 in chips) 
+Fredrix_2012: posts small blind $0.01
+Bubelika: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h 4h]
+devilu2013: folds 
+jagiellonia1: raises $0.02 to $0.04
+lawlex_2: folds 
+ppivot10: folds 
+Fredrix_2012: folds 
+Bubelika: folds 
+Uncalled bet ($0.02) returned to jagiellonia1
+jagiellonia1 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jagiellonia1 collected ($0.05)
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Fredrix_2012 (small blind) folded before Flop
+Seat 5: Bubelika (big blind) folded before Flop
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214011065660:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:03:30 MSK [2020/05/17 3:03:30 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 1: jagiellonia1 ($1.10 in chips) 
+Seat 2: lawlex_2 ($1.38 in chips) 
+Seat 3: ppivot10 ($2.21 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($0.78 in chips) 
+Seat 6: devilu2013 ($2.26 in chips) 
+Bubelika: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As Jd]
+jagiellonia1: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+ppivot10: raises $0.13 to $0.18
+Fredrix_2012: calls $0.18
+Bubelika: folds 
+devilu2013: folds 
+jagiellonia1: folds 
+lawlex_2: folds 
+*** FLOP *** [6d 4c 8s]
+ppivot10: bets $0.06
+Fredrix_2012: calls $0.06
+*** TURN *** [6d 4c 8s] [Th]
+ppivot10: checks 
+Fredrix_2012: bets $0.26
+ppivot10: calls $0.26
+*** RIVER *** [6d 4c 8s Th] [Ks]
+ppivot10: checks 
+Fredrix_2012: checks 
+*** SHOW DOWN ***
+ppivot10: shows [Kc Qd] (a pair of Kings)
+Fredrix_2012: mucks hand 
+ppivot10 collected $1.06 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.04 
+Board [6d 4c 8s Th Ks]
+Seat 1: jagiellonia1 folded before Flop
+Seat 2: lawlex_2 folded before Flop
+Seat 3: ppivot10 showed [Kc Qd] and won ($1.06) with a pair of Kings
+Seat 4: Fredrix_2012 (button) mucked [2s 2c]
+Seat 5: Bubelika (small blind) folded before Flop
+Seat 6: devilu2013 (big blind) folded before Flop
+
+
+
+PokerStars Hand #214011090118:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:04:33 MSK [2020/05/17 3:04:33 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 1: jagiellonia1 ($1.08 in chips) 
+Seat 2: lawlex_2 ($1.33 in chips) 
+Seat 3: ppivot10 ($2.77 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($0.77 in chips) 
+Seat 6: devilu2013 ($2.24 in chips) 
+devilu2013: posts small blind $0.01
+jagiellonia1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s Jd]
+lawlex_2: folds 
+ppivot10: folds 
+Fredrix_2012: folds 
+Bubelika: raises $0.04 to $0.06
+devilu2013: folds 
+jagiellonia1: raises $0.13 to $0.19
+Bubelika: calls $0.13
+*** FLOP *** [Jh 8d 7s]
+jagiellonia1: checks 
+Bubelika: bets $0.10
+jagiellonia1: folds 
+Uncalled bet ($0.10) returned to Bubelika
+Bubelika collected $0.38 from pot
+Bubelika: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Jh 8d 7s]
+Seat 1: jagiellonia1 (big blind) folded on the Flop
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Fredrix_2012 folded before Flop (didn't bet)
+Seat 5: Bubelika (button) collected ($0.38)
+Seat 6: devilu2013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #214011103261:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:05:07 MSK [2020/05/17 3:05:07 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 1: jagiellonia1 ($0.89 in chips) 
+Seat 2: lawlex_2 ($1.33 in chips) 
+Seat 3: ppivot10 ($2.77 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($0.96 in chips) 
+Seat 6: devilu2013 ($2.23 in chips) 
+jagiellonia1: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c Th]
+ppivot10: folds 
+Fredrix_2012: folds 
+Bubelika: raises $0.04 to $0.06
+devilu2013: folds 
+jagiellonia1: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [Ad 9c Tc]
+jagiellonia1: checks 
+Bubelika: bets $0.07
+jagiellonia1: calls $0.07
+*** TURN *** [Ad 9c Tc] [8c]
+jagiellonia1: checks 
+Bubelika: bets $0.14
+jagiellonia1: folds 
+Uncalled bet ($0.14) returned to Bubelika
+Bubelika collected $0.27 from pot
+Bubelika: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Ad 9c Tc 8c]
+Seat 1: jagiellonia1 (small blind) folded on the Turn
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Fredrix_2012 folded before Flop (didn't bet)
+Seat 5: Bubelika collected ($0.27)
+Seat 6: devilu2013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214011113946:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:05:35 MSK [2020/05/17 3:05:35 ET]
+Table 'Wild' 6-max Seat #1 is the button
+Seat 1: jagiellonia1 ($0.76 in chips) 
+Seat 2: lawlex_2 ($1.31 in chips) 
+Seat 3: ppivot10 ($2.77 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($1.10 in chips) 
+Seat 6: devilu2013 ($2.23 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs 3h]
+Fredrix_2012: folds 
+Bubelika: folds 
+devilu2013: calls $0.02
+jagiellonia1: calls $0.02
+lawlex_2: folds 
+ppivot10: raises $0.08 to $0.10
+devilu2013: calls $0.08
+jagiellonia1: folds 
+*** FLOP *** [3d Qc 4c]
+ppivot10: bets $0.10
+devilu2013: calls $0.10
+*** TURN *** [3d Qc 4c] [7h]
+ppivot10: bets $0.10
+devilu2013: raises $0.61 to $0.71
+ppivot10: folds 
+Uncalled bet ($0.61) returned to devilu2013
+devilu2013 collected $0.61 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [3d Qc 4c 7h]
+Seat 1: jagiellonia1 (button) folded before Flop
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ppivot10 (big blind) folded on the Turn
+Seat 4: Fredrix_2012 folded before Flop (didn't bet)
+Seat 5: Bubelika folded before Flop (didn't bet)
+Seat 6: devilu2013 collected ($0.61)
+
+
+
+PokerStars Hand #214011135231:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:06:30 MSK [2020/05/17 3:06:30 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($1.30 in chips) 
+Seat 3: ppivot10 ($2.47 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($1.10 in chips) 
+Seat 6: devilu2013 ($2.54 in chips) 
+ppivot10: posts small blind $0.01
+Fredrix_2012: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6s 2c]
+devilu2013 said, "idiot"
+Bubelika: folds 
+devilu2013: folds 
+lawlex_2: folds 
+ppivot10: folds 
+Uncalled bet ($0.01) returned to Fredrix_2012
+Fredrix_2012 collected $0.02 from pot
+Fredrix_2012: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ppivot10 (small blind) folded before Flop
+Seat 4: Fredrix_2012 (big blind) collected ($0.02)
+Seat 5: Bubelika folded before Flop (didn't bet)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214011145455:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:06:57 MSK [2020/05/17 3:06:57 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($1.30 in chips) 
+Seat 3: ppivot10 ($2.46 in chips) 
+Seat 4: Fredrix_2012 ($2.01 in chips) 
+Seat 5: Bubelika ($1.10 in chips) 
+Seat 6: devilu2013 ($2.54 in chips) 
+Fredrix_2012: posts small blind $0.01
+Bubelika: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7s 7c]
+devilu2013: folds 
+lawlex_2: raises $0.03 to $0.05
+ppivot10: folds 
+Fredrix_2012: calls $0.04
+Bubelika: folds 
+*** FLOP *** [4s 6h Qd]
+Fredrix_2012: checks 
+lawlex_2: bets $0.08
+Fredrix_2012: folds 
+Uncalled bet ($0.08) returned to lawlex_2
+lawlex_2 collected $0.12 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4s 6h Qd]
+Seat 2: lawlex_2 collected ($0.12)
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Fredrix_2012 (small blind) folded on the Flop
+Seat 5: Bubelika (big blind) folded before Flop
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214011152653:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:07:16 MSK [2020/05/17 3:07:16 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($1.37 in chips) 
+Seat 3: ppivot10 ($2.46 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($1.08 in chips) 
+Seat 6: devilu2013 ($2.54 in chips) 
+Bubelika: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Td Ac]
+lawlex_2: raises $0.03 to $0.05
+ppivot10: folds 
+Fredrix_2012: folds 
+Bubelika: calls $0.04
+devilu2013: folds 
+*** FLOP *** [3h 9c Ks]
+Bubelika: bets $0.06
+lawlex_2: folds 
+Uncalled bet ($0.06) returned to Bubelika
+Bubelika collected $0.12 from pot
+Bubelika: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3h 9c Ks]
+Seat 2: lawlex_2 folded on the Flop
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Fredrix_2012 (button) folded before Flop (didn't bet)
+Seat 5: Bubelika (small blind) collected ($0.12)
+Seat 6: devilu2013 (big blind) folded before Flop
+
+
+
+PokerStars Hand #214011158324:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:07:30 MSK [2020/05/17 3:07:30 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 2: lawlex_2 ($1.32 in chips) 
+Seat 3: ppivot10 ($2.46 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($1.15 in chips) 
+Seat 6: devilu2013 ($2.52 in chips) 
+devilu2013: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 8d]
+ppivot10: raises $0.04 to $0.06
+Fredrix_2012: folds 
+Bubelika: folds 
+devilu2013: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [Ks 5s Qc]
+devilu2013: checks 
+ppivot10: bets $0.06
+devilu2013: calls $0.06
+*** TURN *** [Ks 5s Qc] [7c]
+devilu2013: checks 
+ppivot10: bets $0.14
+devilu2013: calls $0.14
+*** RIVER *** [Ks 5s Qc 7c] [Kc]
+devilu2013: checks 
+ppivot10: bets $0.34
+devilu2013: raises $0.34 to $0.68
+ppivot10: calls $0.34
+*** SHOW DOWN ***
+devilu2013: shows [9c Tc] (a flush, King high)
+ppivot10: mucks hand 
+devilu2013 collected $1.83 from pot
+*** SUMMARY ***
+Total pot $1.90 | Rake $0.07 
+Board [Ks 5s Qc 7c Kc]
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ppivot10 mucked [Kd Js]
+Seat 4: Fredrix_2012 folded before Flop (didn't bet)
+Seat 5: Bubelika (button) folded before Flop (didn't bet)
+Seat 6: devilu2013 (small blind) showed [9c Tc] and won ($1.83) with a flush, King high
+
+
+
+PokerStars Hand #214011177976:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:08:21 MSK [2020/05/17 3:08:21 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 2: lawlex_2 ($1.30 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($1.15 in chips) 
+Seat 6: devilu2013 ($3.41 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d Js]
+Fredrix_2012: folds 
+Bubelika: folds 
+devilu2013 said, "idiot"
+devilu2013: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to ppivot10
+ppivot10 collected $0.02 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ppivot10 (big blind) collected ($0.02)
+Seat 4: Fredrix_2012 folded before Flop (didn't bet)
+Seat 5: Bubelika folded before Flop (didn't bet)
+Seat 6: devilu2013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214011181607:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:08:31 MSK [2020/05/17 3:08:31 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($1.29 in chips) 
+Seat 3: ppivot10 ($2.01 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($1.15 in chips) 
+Seat 6: devilu2013 ($3.41 in chips) 
+ppivot10: posts small blind $0.01
+Fredrix_2012: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Qd]
+Bubelika: folds 
+devilu2013: folds 
+lawlex_2: folds 
+ppivot10: folds 
+Uncalled bet ($0.01) returned to Fredrix_2012
+Fredrix_2012 collected $0.02 from pot
+Fredrix_2012: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 3: ppivot10 (small blind) folded before Flop
+Seat 4: Fredrix_2012 (big blind) collected ($0.02)
+Seat 5: Bubelika folded before Flop (didn't bet)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214011185662:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:08:41 MSK [2020/05/17 3:08:41 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($1.29 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Fredrix_2012 ($2.01 in chips) 
+Seat 5: Bubelika ($1.15 in chips) 
+Seat 6: devilu2013 ($3.41 in chips) 
+Fredrix_2012: posts small blind $0.01
+Bubelika: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Td]
+devilu2013: calls $0.02
+lawlex_2: raises $0.03 to $0.05
+ppivot10: folds 
+Fredrix_2012: folds 
+Bubelika: folds 
+devilu2013: calls $0.03
+*** FLOP *** [Js Ah 5s]
+devilu2013: checks 
+lawlex_2: bets $0.09
+devilu2013: calls $0.09
+*** TURN *** [Js Ah 5s] [9d]
+devilu2013: checks 
+lawlex_2: bets $0.20
+devilu2013: calls $0.20
+*** RIVER *** [Js Ah 5s 9d] [5d]
+devilu2013: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+devilu2013: shows [8d Ad] (two pair, Aces and Fives)
+lawlex_2: mucks hand 
+devilu2013 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [Js Ah 5s 9d 5d]
+Seat 2: lawlex_2 mucked [Jd Td]
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Fredrix_2012 (small blind) folded before Flop
+Seat 5: Bubelika (big blind) folded before Flop
+Seat 6: devilu2013 showed [8d Ad] and won ($0.69) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #214011196479:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:09:09 MSK [2020/05/17 3:09:09 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($0.95 in chips) 
+Seat 3: ppivot10 ($2 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($1.13 in chips) 
+Seat 6: devilu2013 ($3.76 in chips) 
+Bubelika: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 7d]
+lawlex_2: folds 
+ppivot10: raises $0.04 to $0.06
+devilu2013 said, "ewe odin idiot"
+Fredrix_2012: folds 
+Bubelika: folds 
+devilu2013: calls $0.04
+*** FLOP *** [9h Qh 4s]
+devilu2013: checks 
+ppivot10: bets $0.06
+devilu2013: folds 
+Uncalled bet ($0.06) returned to ppivot10
+ppivot10 collected $0.13 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9h Qh 4s]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 collected ($0.13)
+Seat 4: Fredrix_2012 (button) folded before Flop (didn't bet)
+Seat 5: Bubelika (small blind) folded before Flop
+Seat 6: devilu2013 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #214011208419:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:09:40 MSK [2020/05/17 3:09:40 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 2: lawlex_2 ($0.95 in chips) 
+Seat 3: ppivot10 ($2.07 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($1.12 in chips) 
+Seat 6: devilu2013 ($3.70 in chips) 
+devilu2013: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 6c]
+ppivot10: folds 
+Fredrix_2012: raises $0.04 to $0.06
+Bubelika: folds 
+devilu2013: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to Fredrix_2012
+Fredrix_2012 collected $0.05 from pot
+Fredrix_2012: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: lawlex_2 (big blind) folded before Flop
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Fredrix_2012 collected ($0.05)
+Seat 5: Bubelika (button) folded before Flop (didn't bet)
+Seat 6: devilu2013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #214011213149:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:09:52 MSK [2020/05/17 3:09:52 ET]
+Table 'Wild' 6-max Seat #6 is the button
+Seat 2: lawlex_2 ($0.93 in chips) 
+Seat 3: ppivot10 ($2.07 in chips) 
+Seat 4: Fredrix_2012 ($2.03 in chips) 
+Seat 5: Bubelika ($1.12 in chips) 
+Seat 6: devilu2013 ($3.69 in chips) 
+lawlex_2: posts small blind $0.01
+ppivot10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7d Kc]
+Fredrix_2012: folds 
+Bubelika: folds 
+devilu2013: folds 
+lawlex_2: folds 
+Uncalled bet ($0.01) returned to ppivot10
+ppivot10 collected $0.02 from pot
+ppivot10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: lawlex_2 (small blind) folded before Flop
+Seat 3: ppivot10 (big blind) collected ($0.02)
+Seat 4: Fredrix_2012 folded before Flop (didn't bet)
+Seat 5: Bubelika folded before Flop (didn't bet)
+Seat 6: devilu2013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214011215682:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:09:59 MSK [2020/05/17 3:09:59 ET]
+Table 'Wild' 6-max Seat #2 is the button
+Seat 2: lawlex_2 ($0.92 in chips) 
+Seat 3: ppivot10 ($2.08 in chips) 
+Seat 4: Fredrix_2012 ($2.03 in chips) 
+Seat 5: Bubelika ($1.12 in chips) 
+Seat 6: devilu2013 ($3.69 in chips) 
+ppivot10: posts small blind $0.01
+Fredrix_2012: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jc As]
+Bubelika: folds 
+devilu2013: folds 
+lawlex_2: raises $0.03 to $0.05
+ppivot10: folds 
+Fredrix_2012: folds 
+Uncalled bet ($0.03) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: lawlex_2 (button) collected ($0.05)
+Seat 3: ppivot10 (small blind) folded before Flop
+Seat 4: Fredrix_2012 (big blind) folded before Flop
+Seat 5: Bubelika folded before Flop (didn't bet)
+Seat 6: devilu2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #214011222582:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:10:17 MSK [2020/05/17 3:10:17 ET]
+Table 'Wild' 6-max Seat #3 is the button
+Seat 2: lawlex_2 ($0.95 in chips) 
+Seat 3: ppivot10 ($2.07 in chips) 
+Seat 4: Fredrix_2012 ($2.01 in chips) 
+Seat 5: Bubelika ($1.12 in chips) 
+Seat 6: devilu2013 ($3.69 in chips) 
+Fredrix_2012: posts small blind $0.01
+Bubelika: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 8c]
+devilu2013: calls $0.02
+lawlex_2: folds 
+ppivot10: folds 
+Fredrix_2012: folds 
+Bubelika: checks 
+*** FLOP *** [Qd 9h 2c]
+Bubelika: checks 
+devilu2013: bets $0.02
+Bubelika: calls $0.02
+*** TURN *** [Qd 9h 2c] [3c]
+Bubelika: checks 
+devilu2013: checks 
+*** RIVER *** [Qd 9h 2c 3c] [Ks]
+Bubelika: checks 
+devilu2013: bets $0.09
+Bubelika: folds 
+Uncalled bet ($0.09) returned to devilu2013
+devilu2013 collected $0.09 from pot
+devilu2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qd 9h 2c 3c Ks]
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 (button) folded before Flop (didn't bet)
+Seat 4: Fredrix_2012 (small blind) folded before Flop
+Seat 5: Bubelika (big blind) folded on the River
+Seat 6: devilu2013 collected ($0.09)
+
+
+
+PokerStars Hand #214011231155:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:10:39 MSK [2020/05/17 3:10:39 ET]
+Table 'Wild' 6-max Seat #4 is the button
+Seat 2: lawlex_2 ($0.95 in chips) 
+Seat 3: ppivot10 ($2.07 in chips) 
+Seat 4: Fredrix_2012 ($2 in chips) 
+Seat 5: Bubelika ($1.08 in chips) 
+Seat 6: devilu2013 ($3.74 in chips) 
+Bubelika: posts small blind $0.01
+devilu2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h 2d]
+lawlex_2: folds 
+ppivot10: folds 
+Fredrix_2012: raises $0.03 to $0.05
+Bubelika: folds 
+devilu2013: folds 
+Uncalled bet ($0.03) returned to Fredrix_2012
+Fredrix_2012 collected $0.05 from pot
+Fredrix_2012: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: lawlex_2 folded before Flop (didn't bet)
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Fredrix_2012 (button) collected ($0.05)
+Seat 5: Bubelika (small blind) folded before Flop
+Seat 6: devilu2013 (big blind) folded before Flop
+
+
+
+PokerStars Hand #214011235822:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/17 10:10:51 MSK [2020/05/17 3:10:51 ET]
+Table 'Wild' 6-max Seat #5 is the button
+Seat 2: lawlex_2 ($0.95 in chips) 
+Seat 3: ppivot10 ($2.07 in chips) 
+Seat 4: Fredrix_2012 ($2.03 in chips) 
+Seat 5: Bubelika ($1.07 in chips) 
+Seat 6: devilu2013 ($3.72 in chips) 
+devilu2013: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [As 6d]
+ppivot10 has timed out
+ppivot10: folds 
+Fredrix_2012: folds 
+Bubelika: folds 
+devilu2013: calls $0.01
+lawlex_2: checks 
+*** FLOP *** [4s 9s Ah]
+devilu2013: checks 
+lawlex_2: bets $0.03
+devilu2013: calls $0.03
+*** TURN *** [4s 9s Ah] [4h]
+devilu2013: checks 
+lawlex_2: bets $0.07
+devilu2013: calls $0.07
+*** RIVER *** [4s 9s Ah 4h] [Qd]
+devilu2013: checks 
+lawlex_2: bets $0.15
+devilu2013: raises $1.11 to $1.26
+lawlex_2: calls $0.68 and is all-in
+Uncalled bet ($0.43) returned to devilu2013
+*** SHOW DOWN ***
+devilu2013: shows [Ac 4c] (a full house, Fours full of Aces)
+lawlex_2: shows [As 6d] (two pair, Aces and Fours)
+devilu2013 collected $1.83 from pot
+*** SUMMARY ***
+Total pot $1.90 | Rake $0.07 
+Board [4s 9s Ah 4h Qd]
+Seat 2: lawlex_2 (big blind) showed [As 6d] and lost with two pair, Aces and Fours
+Seat 3: ppivot10 folded before Flop (didn't bet)
+Seat 4: Fredrix_2012 folded before Flop (didn't bet)
+Seat 5: Bubelika (button) folded before Flop (didn't bet)
+Seat 6: devilu2013 (small blind) showed [Ac 4c] and won ($1.83) with a full house, Fours full of Aces
+
+
+

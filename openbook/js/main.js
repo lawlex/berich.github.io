@@ -2,15 +2,28 @@ $(document).ready(function() {
     /* this script works */
     /* you can type your code here */
 
-    var noms = ['2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A'];
-    var nomsreverse = noms.reverse();
+    /*
+
+    $.ajax({
+      url: 'sometext.txt',
+      dataType: 'text',
+      
+      success: function (data) {
+        console.log(data);
+      }
+    });
+
+    */
+
+    var ranks = ['2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A'];
+    var ranksreverse = ranks.reverse();
     var suits = ['h', 'c', 'd', 's'];
     var suitcolors = ['danger', 'success', 'primary', 'dark'];
 
     var fulldeck = [];
 
-    $.each(suits, function(i, value) {
-        $.each(nomsreverse, function(i2, value2) {
+    $.each(ranksreverse, function(i, value) {
+        $.each(suits, function(i2, value2) {
             fulldeck.push(value2 + value);
         })
     })
@@ -21,6 +34,8 @@ $(document).ready(function() {
     var table = {};
 
     var cardspool = {};
+
+    var handpairs = {};
 
     // 'EE' - empty place
     // 'BB' - back
@@ -90,6 +105,42 @@ $(document).ready(function() {
     table.board = { id: boardId, label: boardCardsLabel, cards: boardCards, html: {}, solvehand: {} };
 
     /* common functions */
+    function getPairCode(handcard1, handcard2) {
+        var code = '';
+        var _ranks = {};
+        var _suits = {};
+        console.log('handcard1:' + handcard1 + ', handcard2:' + handcard2);
+        $.each(ranksreverse, function(i, value) {
+            _ranks[value] = i;
+        });
+        $.each(suits, function(i, value) {
+            _suits[value] = i;
+        })
+        if (_ranks[handcard1[0]] == _ranks[handcard2[0]]) {
+            code = handcard1[0] + handcard2[0];
+        } else if (_suits[handcard1[1]] == _suits[handcard2[1]]) {
+            if (_ranks[handcard1[0]] > _ranks[handcard2[0]]) {
+                code = handcard2[0] + handcard1[0] + 's';
+            } else {
+                code = handcard1[0] + handcard2[0] + 's';
+            }
+        } else {
+            if (_ranks[handcard1[0]] > _ranks[handcard2[0]]) {
+                code = handcard2[0] + handcard1[0] + 'o';
+            } else {
+                code = handcard1[0] + handcard2[0] + 'o';
+            }
+        }
+        return code;
+    }
+
+    var isMouseDown = false;
+    var isBtnMouseDown = '';
+
+    function isLeftButton(event) {
+        var button = event.which ? event.which : event.button;
+        return button < 2;
+    }
 
     // shuffle deck with Fisher Yates method
     function fisherYates(array) {
@@ -104,8 +155,8 @@ $(document).ready(function() {
 
         return array;
     }
-
-    // poker solver вынести в отдельную функцию
+    var pokersolveronchart = true;
+    // poker solver
     function pokersolver() {
         $('#solverwrapper').empty();
         $.each(table, function(_key, _value) {
@@ -155,6 +206,39 @@ $(document).ready(function() {
             var winner = false;
             if (Object.keys(table[key].cards).length == 2) {
                 winner = isWinner(winners, table[key].solvehand);
+                var code = getPairCode(table[key].cards.handcard1, table[key].cards.handcard2);
+                if (code != 'BB' && code != 'EE') {
+                    var stat = {};
+                    var count = { count: 1 };
+                    stat[key] = count;
+                    if (winner) {
+                        if (pokersolveronchart) {
+
+                            checkChartButton(code, key);
+                            if ('result' in handpairs[code][key]) {
+                                handpairs[code][key].result = handpairs[code][key].result + 1;
+                            } else {
+                                handpairs[code][key]['result'] = 1;
+                            }
+                        }
+                    } else {
+                        if (code in handpairs) {
+                            if (key in handpairs[code]) {
+                                if ('count' in handpairs[code][key]) {
+                                    handpairs[code][key].Count = handpairs[code][key].count + 1;
+                                } else {
+                                    handpairs[code][key]['count'] = 1;
+                                }
+                            } else {
+
+                                handpairs[code][key] = count;
+                            }
+                        } else {
+
+                            handpairs[code] = stat;
+                        }
+                    }
+                }
                 $('#solverwrapper').append($('<div/>', {
                     'class': function() {
                         if (winner) { return 'text-success'; } else { return 'text-danger'; }
@@ -203,8 +287,8 @@ $(document).ready(function() {
         return winner;
     }
     // set playing card's html code
-    function setplayingcard(_parent, _id, _nom, _suit, _class = 'card playing fullcolor') {
-        var _noms = {
+    function setplayingcard(_parent, _id, _rank, _suit, _class = 'card playing fullcolor') {
+        var _ranks = {
             'E': { 'id': 100, 'cls': 'emptyplace' },
             'B': { 'id': 200, 'cls': 'back' },
             '2': { 'id': 1, 'cls': 'rank-2' },
@@ -233,7 +317,7 @@ $(document).ready(function() {
         return _parent.append($(
             '<div/>', {
                 id: _id,
-                'class': _class + ' ' + _noms[_nom].cls + ' ' + _suits[_suit].cls,
+                'class': _class + ' ' + _ranks[_rank].cls + ' ' + _suits[_suit].cls,
                 append: $('<div/>', {
                     'class': 'card-body',
                 }).append($('<div/>', {
@@ -377,11 +461,17 @@ $(document).ready(function() {
 
     table['board'].html = createboard('boardwrapper', table['board'].id, table['board'].label);
 
+
     sethand(table['UTG'].html, table['UTG'].cards);
+
     sethand(table['UTG1'].html, table['UTG1'].cards);
+
     sethand(table['CO'].html, table['CO'].cards);
+
     sethand(table['BU'].html, table['BU'].cards);
+
     sethand(table['SB'].html, table['SB'].cards);
+
     sethand(table['BB'].html, table['BB'].cards);
 
     setboard(table['board'].html, table['board'].cards);
@@ -412,6 +502,7 @@ $(document).ready(function() {
                                     if (value2 in cardspool) {
                                         delete cardspool[value2];
                                         $('#btncard' + value2).removeClass('checkedbtn active border-warning');
+                                        $('.border-success').removeClass('border-success');
                                     }
                                     table[key].cards[key2] = 'EE';
                                 });
@@ -452,35 +543,15 @@ $(document).ready(function() {
                                 table[_key].solvehand = _h;
                             }
                         });
-                        /*
-                        // poker solver
-                        $.each(table, function(_key, _value) {
-                            var _h = {}
 
-                            if (Object.keys(table[_key].cards).length == 2) {
-                                $.each(table[_key].cards, function(_key2, _value2) {
-                                    if (_value2 != 'BB' && _value2 != 'EE') {
-                                        _h[_key2] = _value2;
-                                    }
-                                });
-
-                                $.each(table.board.cards, function(_key2, _value2) {
-                                    if (_value2 != 'BB' && _value2 != 'EE') {
-                                        _h[_key2] = _value2;
-                                    }
-                                });
-                            }
-                            table[_key].solvehand = Hand.solve(_h.handcard1, _h.handcard2, _h.flopcard1, _h.flopcard2, _h.handcard3, _h.turncard1, _h.rivercard1);
-                        }); // end poker solver
-                        */
                         console.log('end click clear table');
                     },
                 })),
             }),
         }).appendTo('#' + deckwrapper_id);
 
-        var noms = ['2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A'];
-        var nomsreverse = noms.reverse();
+        var ranks = ['2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A'];
+        var ranksreverse = ranks.reverse();
         var suits = ['h', 'c', 'd', 's'];
         var suitcolors = ['danger', 'success', 'primary', 'dark'];
 
@@ -490,16 +561,16 @@ $(document).ready(function() {
                 'class': 'btn-group',
                 css: { fontSize: '16px', margin: '1px', },
             }).appendTo('#' + deckcontainer_id);
-            $.each(nomsreverse, function(k, nom) {
+            $.each(ranksreverse, function(k, rank) {
                 $('<button/>', {
                     type: 'button',
                     'class': 'btn btn-' + suitcolors[i] + ' deck-btn d-flex align-items-center justify-content-center font-weight-bold',
-                    text: nom + suit,
-                    id: 'btncard' + nom + suit,
+                    text: rank + suit,
+                    id: 'btncard' + rank + suit,
                     css: { fontSize: '14px' },
                     click: function() {
                         var _this = this;
-                        var btncard = nom + suit;
+                        var btncard = rank + suit;
 
                         if (checkedbtnid != '') {
 
@@ -508,13 +579,14 @@ $(document).ready(function() {
                                 if (_value == 'EE' || _value == 'BB') {
                                     var exist = btncard in cardspool;
                                     if (!exist) {
-                                        table[_id].cards[_key] = nom + suit;
+                                        table[_id].cards[_key] = rank + suit;
                                         cardspool[btncard] = _id;
                                         $(_this).toggleClass('active border-warning checkedbtn');
                                     }
 
                                 }
                                 if (Object.keys(table[_id].cards).length == 2) {
+                                    console.log(table[_id].id + ': ' + getPairCode(table[_id].cards.handcard1, table[_id].cards.handcard2));
                                     sethand(table[_id].html, table[_id].cards, table[_id].id);
                                 } else {
                                     setboard(table[_id].html, table[_id].cards, table[_id].id);
@@ -527,35 +599,7 @@ $(document).ready(function() {
                         }
                         //$(this).html('Cool!');
                         pokersolver();
-                        // poker solver
-                        /*
-                        $('#solverwrapper').empty();
-                        $.each(table, function(_key, _value) {
-                            var _arr = [];
 
-                            if (Object.keys(table[_key].cards).length == 2) {
-                                $.each(table[_key].cards, function(_key2, _value2) {
-                                    if (_value2 != 'BB' && _value2 != 'EE') {
-
-                                        _arr.push(_value2);
-                                    }
-                                });
-
-                                $.each(table.board.cards, function(_key2, _value2) {
-                                    if (_value2 != 'BB' && _value2 != 'EE') {
-
-                                        _arr.push(_value2);
-                                    }
-                                });
-                                table[_key].solvehand = Hand.solve(_arr);
-
-                                $('#solverwrapper').append($('<div/>', {
-                                    text: _key + ': ' + table[_key].solvehand.descr
-                                }));
-                            }
-
-                        }); // end poker solver
-                        */
                         console.log('end click btncard');
                     }
                 }).appendTo('#decksuit' + suit);
@@ -586,36 +630,7 @@ $(document).ready(function() {
 
     // poker solver
     pokersolver();
-    /*
-        $('#solverwrapper').empty();
-        $.each(table, function(_key, _value) {
-            var _arr = [];
 
-            if (Object.keys(table[_key].cards).length == 2) {
-                $.each(table[_key].cards, function(_key2, _value2) {
-                    if (_value2 != 'BB' && _value2 != 'EE') {
-
-                        _arr.push(_value2);
-                    }
-                });
-
-                $.each(table.board.cards, function(_key2, _value2) {
-                    if (_value2 != 'BB' && _value2 != 'EE') {
-
-                        _arr.push(_value2);
-                    }
-                });
-
-                table[_key].solvehand = Hand.solve(_arr);
-
-                $('#solverwrapper').append($('<div/>', {
-                    text: _key + ': ' + table[_key].solvehand.descr
-                }));
-            }
-
-            //console.log(table[_key].solvehand.name);
-        }); // end poker solver
-    */
     //buttons
     $('#buttonswrapper').append($('<button/>', {
         'class': 'btn btn-success',
@@ -624,7 +639,7 @@ $(document).ready(function() {
             cardspool = {};
             fulldeck = [];
             $.each(suits, function(i, value) {
-                $.each(nomsreverse, function(i2, value2) {
+                $.each(ranksreverse, function(i2, value2) {
                     fulldeck.push(value2 + value);
                 })
             })
@@ -643,6 +658,19 @@ $(document).ready(function() {
                 });
             });
 
+
+            $.each(table, function(key, value) {
+
+
+                if (Object.keys(table[key].cards).length == 2) {
+                    var code = getPairCode(table[key].cards.handcard1, table[key].cards.handcard2);
+
+                    console.log(key + ': ' + code);
+                    if (!pokersolveronchart) checkChartButton(code, key);
+                }
+
+            });
+
             sethand(table['UTG'].html, table['UTG'].cards, table['UTG'].id);
             sethand(table['UTG1'].html, table['UTG1'].cards, table['UTG1'].id);
             sethand(table['CO'].html, table['CO'].cards, table['CO'].id);
@@ -655,37 +683,193 @@ $(document).ready(function() {
 
             // poker solver вынести в отдельную функцию
             pokersolver();
-            /*
-            $('#solverwrapper').empty();
-            $.each(table, function(_key, _value) {
-                var _arr = [];
-
-                if (Object.keys(table[_key].cards).length == 2) {
-                    $.each(table[_key].cards, function(_key2, _value2) {
-                        if (_value2 != 'BB' && _value2 != 'EE') {
-
-                            _arr.push(_value2);
-                        }
-                    });
-
-                    $.each(table.board.cards, function(_key2, _value2) {
-                        if (_value2 != 'BB' && _value2 != 'EE') {
-
-                            _arr.push(_value2);
-                        }
-                    });
-                    table[_key].solvehand = Hand.solve(_arr);
-
-                    $('#solverwrapper').append($('<div/>', {
-                        text: _key + ': ' + table[_key].solvehand.descr
-                    }));
-                }
-
-            }); // end poker solver
-            */
         },
     }));
 
+    // chart
+    function getChartBtnCode(rows, cols, row, col) {
+        var code = '';
+        var type = '';
+
+        var char1 = rows[row];
+        var char2 = cols[col];
+
+        if (row > col) {
+            code = char2 + char1 + 'o';
+            type = 'outsuited';
+        } else if (row < col) {
+            code = char1 + char2 + 's';
+            type = 'suited';
+        } else {
+            code = char1 + char2;
+            type = 'pair';
+        }
+        return { code: code, type: type };
+    }
+    // toggle button
+    function toggleChartButton(btn, src = 'manual') {
+        if (btn in handpairs) { delete handpairs[btn] } else {
+            var stat = {};
+            var count = { count: 1 };
+            stat[src] = count;
+            handpairs[btn][src][count] = count;
+        };
+        $('#chartbtn' + btn).toggleClass('checked');
+    }
+    // check button
+    function checkChartButton(btn, src = 'manual') {
+        var stat = {};
+        var count = { count: 1 };
+        stat[src] = count;
+        if (btn in handpairs) {
+            if (src in handpairs[btn]) {
+                if (count in handpairs[btn][src]) {
+                    handpairs[btn][src].count = handpairs[btn][src].count + 1;
+                } else {
+                    handpairs[btn][src] = count;
+                }
+            } else {
+                handpairs[btn][src] = count;
+            }
+
+        } else { handpairs[btn] = stat; };
+        $('#chartbtn' + btn).addClass('checked');
+    }
+    // check button
+    function uncheckChartButton(btn, src = 'manual') {
+        if (btn in handpairs) {
+            if (Object.keys(handpairs[btn]).length == 1) {
+                delete handpairs[btn];
+            } else {
+                delete handpairs[btn][src];
+            }
+        } else {};
+        $('#chartbtn' + btn).removeClass('checked');
+    }
+
+    //
+    function uncheckAllChartButtons() {
+        handpairs = {};
+        $('.chart-btn').removeClass('checked');
+    }
+
+    // chart itself
+    $('<div/>', {
+        class: 'input-group mb-1',
+        css: {
+            'margin': '0px auto',
+            'max-width': '600px',
+        },
+        append: $('<div/>', {
+            class: 'input-group-prepend',
+            css: {
+                'margin': '0 auto',
+                'max-width': '600px'
+            },
+            append: $('<div/>', {
+                class: 'input-group-text',
+                append: $('<div/>', {
+                    id: 'chartbtngroup',
+                    class: 'btn-group-vertical',
+
+                }), // end chartbtngroup
+            }).append($('<button/>', {
+                class: 'btn btn-secondary ml-2',
+                css: {
+                    'height': '100%',
+                    'width': '40px',
+                    'padding': '1px',
+                    'margin': '1px',
+                },
+                text: '×',
+                click: function() {
+                    uncheckAllChartButtons();
+                }
+            })), // end input-group-text
+        }),
+    }, ).appendTo($('#chartwrapper'));
+    $.each(ranksreverse, function(i, _rank) {
+        $('#chartbtngroup').append($('<div/>', { //создать в цикле
+                id: 'chartrow' + _rank,
+                class: 'btn-group',
+                css: {
+                    'font-size': '16px',
+                    'margin': '0px',
+                },
+
+            }) // end chartrowA)
+        )
+        $.each(ranksreverse, function(i2, _rank2) {
+            $('#chartrow' + _rank).append(
+                $('<button/>', { // создать в цикле
+                    id: 'chartbtn' + getChartBtnCode(ranksreverse, ranksreverse, i, i2).code,
+                    class: 'btn btn-light border border-secondary chart-btn d-flex align-items-center justify-content-center font-weight-bold' + ' ' + getChartBtnCode(ranksreverse, ranksreverse, i, i2).type,
+                    text: getChartBtnCode(ranksreverse, ranksreverse, i, i2).code,
+                    click: function() {
+
+                        toggleChartButton(getChartBtnCode(ranksreverse, ranksreverse, i, i2).code);
+
+
+                    },
+                    mousedown: function(event) {
+                        if (isLeftButton(event)) {
+                            isMouseDown = true;
+                            isBtnMouseDown = getChartBtnCode(ranksreverse, ranksreverse, i, i2).code;
+
+                        }
+                    },
+                    mouseout: function(event) {
+                        if (isMouseDown) {
+                            if (isBtnMouseDown == getChartBtnCode(ranksreverse, ranksreverse, i, i2).code) {
+                                toggleChartButton(isBtnMouseDown);
+                            }
+                        }
+                    },
+                    mouseup: function(event) {
+                        if (isLeftButton(event))
+                            isMouseDown = false;
+                    },
+                    mouseover: function(event) {
+                        if (isMouseDown) {
+                            toggleChartButton(getChartBtnCode(ranksreverse, ranksreverse, i, i2).code);
+                        }
+                    },
+                }) // end chartbtnAA
+            );
+        })
+
+
+    });
+    /*
+        var myfile = $('#fileinput').prop('files');
+        console.log(myfile);
+    */
+    (function($) {
+        // Add click event handler to button
+        $('#load-file').click(function() {
+            if (!window.FileReader) {
+                return alert('FileReader API is not supported by your browser.');
+            }
+            var $i = $('#file'),
+                input = $i[0];
+            if (input.files && input.files[0]) {
+                file = input.files[0];
+                fr = new FileReader();
+                fr.onload = function() {
+                    var lines = fr.result.split("\n");
+                    $('#file-content').append($('<div/>').html(lines[0]));
+                };
+                fr.readAsText(file);
+
+            } else {
+                alert('File not selected or browser incomatible');
+            }
+        });
+    })(jQuery);
+
+    /* 
+    https://o7planning.org/ru/12333/javascript-filereader-tutorial#a37895846 
+    */
 });
 /*
   
@@ -721,6 +905,4 @@ $('<a>',{
       css:{fonweight: 'bold'}
     })),
 })
-.appendTo('#wrapper'); *
-/.appendTo('#wrapper');
-*/
+.appendTo('#wrapper'); */

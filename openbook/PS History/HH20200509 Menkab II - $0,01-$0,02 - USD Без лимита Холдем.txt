@@ -1,0 +1,1812 @@
+﻿PokerStars Hand #213549708955:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:51:38 MSK [2020/05/09 3:51:38 ET]
+Table 'Menkab II' 6-max Seat #2 is the button
+Seat 1: hhakunamatata ($2.88 in chips) 
+Seat 2: liangcm ($2.23 in chips) 
+Seat 4: LongHart ($2.03 in chips) 
+Seat 5: lawlex_2 ($2 in chips) 
+Seat 6: DeiGr ($2.27 in chips) 
+LongHart: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c 5h]
+DeiGr: raises $0.03 to $0.05
+hhakunamatata: calls $0.05
+liangcm: folds 
+LongHart: folds 
+lawlex_2: folds 
+*** FLOP *** [3d 8h 8c]
+DeiGr: checks 
+hhakunamatata: checks 
+*** TURN *** [3d 8h 8c] [6s]
+DeiGr: bets $0.04
+hhakunamatata: folds 
+Uncalled bet ($0.04) returned to DeiGr
+DeiGr collected $0.13 from pot
+DeiGr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3d 8h 8c 6s]
+Seat 1: hhakunamatata folded on the Turn
+Seat 2: liangcm (button) folded before Flop (didn't bet)
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: DeiGr collected ($0.13)
+
+
+
+PokerStars Hand #213549723003:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:52:09 MSK [2020/05/09 3:52:09 ET]
+Table 'Menkab II' 6-max Seat #4 is the button
+Seat 1: hhakunamatata ($2.83 in chips) 
+Seat 2: liangcm ($2.23 in chips) 
+Seat 4: LongHart ($2.02 in chips) 
+Seat 5: lawlex_2 ($1.98 in chips) 
+Seat 6: DeiGr ($2.35 in chips) 
+lawlex_2: posts small blind $0.01
+DeiGr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Th Jd]
+hhakunamatata: calls $0.02
+liangcm: raises $0.05 to $0.07
+LongHart: raises $0.19 to $0.26
+lawlex_2: folds 
+DeiGr: folds 
+hhakunamatata: folds 
+liangcm: folds 
+Uncalled bet ($0.19) returned to LongHart
+LongHart collected $0.19 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0 
+Seat 1: hhakunamatata folded before Flop
+Seat 2: liangcm folded before Flop
+Seat 4: LongHart (button) collected ($0.19)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: DeiGr (big blind) folded before Flop
+
+
+
+PokerStars Hand #213549733162:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:52:32 MSK [2020/05/09 3:52:32 ET]
+Table 'Menkab II' 6-max Seat #5 is the button
+Seat 1: hhakunamatata ($2.81 in chips) 
+Seat 2: liangcm ($2.16 in chips) 
+Seat 4: LongHart ($2.14 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($2.33 in chips) 
+DeiGr: posts small blind $0.01
+hhakunamatata: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 2d]
+liangcm: folds 
+LongHart: folds 
+lawlex_2: folds 
+DeiGr: calls $0.01
+hhakunamatata: raises $0.02 to $0.04
+DeiGr: calls $0.02
+*** FLOP *** [Ad 5c 7h]
+DeiGr: bets $0.04
+hhakunamatata: raises $0.04 to $0.08
+DeiGr: calls $0.04
+*** TURN *** [Ad 5c 7h] [6h]
+DeiGr: checks 
+hhakunamatata: bets $0.23
+DeiGr: folds 
+Uncalled bet ($0.23) returned to hhakunamatata
+hhakunamatata collected $0.23 from pot
+hhakunamatata: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Ad 5c 7h 6h]
+Seat 1: hhakunamatata (big blind) collected ($0.23)
+Seat 2: liangcm folded before Flop (didn't bet)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: DeiGr (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213549752272:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:53:15 MSK [2020/05/09 3:53:15 ET]
+Table 'Menkab II' 6-max Seat #6 is the button
+Seat 2: liangcm ($2.16 in chips) 
+Seat 4: LongHart ($2.14 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($2.21 in chips) 
+liangcm: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Jd]
+lawlex_2: raises $0.04 to $0.06
+hhakunamatata leaves the table
+DeiGr: folds 
+liangcm: folds 
+LongHart: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: liangcm (small blind) folded before Flop
+Seat 4: LongHart (big blind) folded before Flop
+Seat 5: lawlex_2 collected ($0.05)
+Seat 6: DeiGr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213549759011:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:53:30 MSK [2020/05/09 3:53:30 ET]
+Table 'Menkab II' 6-max Seat #2 is the button
+Seat 2: liangcm ($2.15 in chips) 
+Seat 4: LongHart ($2.12 in chips) 
+Seat 5: lawlex_2 ($2 in chips) 
+Seat 6: DeiGr ($2.21 in chips) 
+LongHart: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ts 2d]
+DeiGr: raises $0.03 to $0.05
+liangcm: folds 
+LongHart: folds 
+lawlex_2: folds 
+Uncalled bet ($0.03) returned to DeiGr
+Aleks_Kor_36 joins the table at seat #1 
+DeiGr collected $0.05 from pot
+DeiGr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: liangcm (button) folded before Flop (didn't bet)
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: DeiGr collected ($0.05)
+
+
+
+PokerStars Hand #213549766940:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:53:48 MSK [2020/05/09 3:53:48 ET]
+Table 'Menkab II' 6-max Seat #4 is the button
+Seat 2: liangcm ($2.15 in chips) 
+Seat 4: LongHart ($2.11 in chips) 
+Seat 5: lawlex_2 ($1.98 in chips) 
+Seat 6: DeiGr ($2.24 in chips) 
+lawlex_2: posts small blind $0.01
+DeiGr: posts big blind $0.02
+Aleks_Kor_36: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8h 3s]
+stipanm joins the table at seat #3 
+liangcm: folds 
+LongHart: raises $0.04 to $0.06
+lawlex_2: folds 
+DeiGr: folds 
+Uncalled bet ($0.04) returned to LongHart
+LongHart collected $0.05 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: liangcm folded before Flop (didn't bet)
+Seat 4: LongHart (button) collected ($0.05)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: DeiGr (big blind) folded before Flop
+
+
+
+PokerStars Hand #213549771900:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:53:59 MSK [2020/05/09 3:53:59 ET]
+Table 'Menkab II' 6-max Seat #5 is the button
+Seat 1: Aleks_Kor_36 ($2 in chips) 
+Seat 2: liangcm ($2.15 in chips) 
+Seat 4: LongHart ($2.14 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($2.22 in chips) 
+DeiGr: posts small blind $0.01
+Aleks_Kor_36: posts big blind $0.02
+stipanm: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 6h]
+liangcm: raises $0.04 to $0.06
+LongHart: calls $0.06
+lawlex_2: folds 
+DeiGr: folds 
+Aleks_Kor_36: folds 
+*** FLOP *** [Td 9d Kh]
+liangcm: checks 
+LongHart: bets $0.07
+liangcm: calls $0.07
+*** TURN *** [Td 9d Kh] [2d]
+liangcm: checks 
+LongHart: bets $0.14
+liangcm: calls $0.14
+*** RIVER *** [Td 9d Kh 2d] [Jh]
+liangcm: checks 
+LongHart: checks 
+*** SHOW DOWN ***
+liangcm: shows [Qs Qd] (a straight, Nine to King)
+LongHart: mucks hand 
+liangcm collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Td 9d Kh 2d Jh]
+Seat 1: Aleks_Kor_36 (big blind) folded before Flop
+Seat 2: liangcm showed [Qs Qd] and won ($0.55) with a straight, Nine to King
+Seat 4: LongHart mucked [Kc Jc]
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: DeiGr (small blind) folded before Flop
+
+
+
+PokerStars Hand #213549789881:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:54:40 MSK [2020/05/09 3:54:40 ET]
+Table 'Menkab II' 6-max Seat #6 is the button
+Seat 1: Aleks_Kor_36 ($1.98 in chips) 
+Seat 2: liangcm ($2.43 in chips) 
+Seat 4: LongHart ($1.87 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($2.21 in chips) 
+Aleks_Kor_36: posts small blind $0.01
+liangcm: posts big blind $0.02
+stipanm: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 2h]
+LongHart: folds 
+lawlex_2: folds 
+DeiGr: raises $0.03 to $0.05
+Aleks_Kor_36: folds 
+liangcm: calls $0.03
+*** FLOP *** [7d 6d 4s]
+liangcm: checks 
+DeiGr: checks 
+*** TURN *** [7d 6d 4s] [9d]
+liangcm: bets $0.08
+DeiGr: calls $0.08
+*** RIVER *** [7d 6d 4s 9d] [2c]
+liangcm: checks 
+DeiGr: checks 
+*** SHOW DOWN ***
+liangcm: shows [As 7c] (a pair of Sevens)
+DeiGr: mucks hand 
+liangcm collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [7d 6d 4s 9d 2c]
+Seat 1: Aleks_Kor_36 (small blind) folded before Flop
+Seat 2: liangcm (big blind) showed [As 7c] and won ($0.26) with a pair of Sevens
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: DeiGr (button) mucked [Kd 8h]
+
+
+
+PokerStars Hand #213549808035:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:55:24 MSK [2020/05/09 3:55:24 ET]
+Table 'Menkab II' 6-max Seat #1 is the button
+Seat 1: Aleks_Kor_36 ($1.97 in chips) 
+Seat 2: liangcm ($2.56 in chips) 
+Seat 3: stipanm ($2 in chips) 
+Seat 4: LongHart ($1.87 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($2.08 in chips) 
+liangcm: posts small blind $0.01
+stipanm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah Js]
+LongHart: folds 
+lawlex_2: raises $0.04 to $0.06
+DeiGr: folds 
+Aleks_Kor_36: folds 
+liangcm: folds 
+stipanm: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aleks_Kor_36 (button) folded before Flop (didn't bet)
+Seat 2: liangcm (small blind) folded before Flop
+Seat 3: stipanm (big blind) folded before Flop
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: lawlex_2 collected ($0.05)
+Seat 6: DeiGr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213549814893:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:55:42 MSK [2020/05/09 3:55:42 ET]
+Table 'Menkab II' 6-max Seat #2 is the button
+Seat 1: Aleks_Kor_36 ($1.97 in chips) 
+Seat 2: liangcm ($2.55 in chips) 
+Seat 3: stipanm ($2 in chips) 
+Seat 4: LongHart ($1.87 in chips) 
+Seat 5: lawlex_2 ($2 in chips) 
+Seat 6: DeiGr ($2.08 in chips) 
+stipanm: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd 2d]
+lawlex_2: folds 
+DeiGr: folds 
+Aleks_Kor_36: folds 
+liangcm: raises $0.05 to $0.07
+stipanm: folds 
+LongHart: folds 
+Uncalled bet ($0.05) returned to liangcm
+liangcm collected $0.05 from pot
+liangcm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aleks_Kor_36 folded before Flop (didn't bet)
+Seat 2: liangcm (button) collected ($0.05)
+Seat 3: stipanm (small blind) folded before Flop
+Seat 4: LongHart (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: DeiGr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213549823368:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:56:05 MSK [2020/05/09 3:56:05 ET]
+Table 'Menkab II' 6-max Seat #3 is the button
+Seat 1: Aleks_Kor_36 ($1.97 in chips) 
+Seat 2: liangcm ($2.58 in chips) 
+Seat 3: stipanm ($2 in chips) 
+Seat 4: LongHart ($1.85 in chips) 
+Seat 5: lawlex_2 ($2 in chips) 
+Seat 6: DeiGr ($2.08 in chips) 
+LongHart: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 8d]
+DeiGr: raises $0.02 to $0.04
+Aleks_Kor_36: folds 
+liangcm: folds 
+stipanm: calls $0.04
+LongHart: folds 
+lawlex_2: folds 
+*** FLOP *** [As 6d 2d]
+DeiGr: checks 
+stipanm: checks 
+*** TURN *** [As 6d 2d] [2s]
+DeiGr: checks 
+stipanm: bets $0.06
+DeiGr: calls $0.06
+*** RIVER *** [As 6d 2d 2s] [7s]
+DeiGr: checks 
+stipanm: bets $0.22
+DeiGr: folds 
+Uncalled bet ($0.22) returned to stipanm
+stipanm collected $0.22 from pot
+stipanm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [As 6d 2d 2s 7s]
+Seat 1: Aleks_Kor_36 folded before Flop (didn't bet)
+Seat 2: liangcm folded before Flop (didn't bet)
+Seat 3: stipanm (button) collected ($0.22)
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: DeiGr folded on the River
+
+
+
+PokerStars Hand #213549847478:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:56:45 MSK [2020/05/09 3:56:45 ET]
+Table 'Menkab II' 6-max Seat #4 is the button
+Seat 1: Aleks_Kor_36 ($1.97 in chips) 
+Seat 2: liangcm ($2.58 in chips) 
+Seat 3: stipanm ($2.12 in chips) 
+Seat 4: LongHart ($1.84 in chips) 
+Seat 5: lawlex_2 ($1.98 in chips) 
+Seat 6: DeiGr ($1.98 in chips) 
+lawlex_2: posts small blind $0.01
+DeiGr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5d 8h]
+Aleks_Kor_36: folds 
+liangcm: folds 
+stipanm: folds 
+LongHart: raises $0.04 to $0.06
+lawlex_2: folds 
+DeiGr: calls $0.04
+*** FLOP *** [9s Kc Ts]
+DeiGr: bets $0.07
+LongHart: raises $0.14 to $0.21
+DeiGr: folds 
+Uncalled bet ($0.14) returned to LongHart
+LongHart collected $0.26 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [9s Kc Ts]
+Seat 1: Aleks_Kor_36 folded before Flop (didn't bet)
+Seat 2: liangcm folded before Flop (didn't bet)
+Seat 3: stipanm folded before Flop (didn't bet)
+Seat 4: LongHart (button) collected ($0.26)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: DeiGr (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213549863621:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:57:29 MSK [2020/05/09 3:57:29 ET]
+Table 'Menkab II' 6-max Seat #5 is the button
+Seat 1: Aleks_Kor_36 ($1.97 in chips) 
+Seat 2: liangcm ($2.58 in chips) 
+Seat 3: stipanm ($2.12 in chips) 
+Seat 4: LongHart ($1.97 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($1.85 in chips) 
+DeiGr: posts small blind $0.01
+Aleks_Kor_36: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 4c]
+liangcm: folds 
+stipanm: folds 
+LongHart: raises $0.04 to $0.06
+lawlex_2: folds 
+DeiGr: folds 
+Aleks_Kor_36: folds 
+Uncalled bet ($0.04) returned to LongHart
+LongHart collected $0.05 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aleks_Kor_36 (big blind) folded before Flop
+Seat 2: liangcm folded before Flop (didn't bet)
+Seat 3: stipanm folded before Flop (didn't bet)
+Seat 4: LongHart collected ($0.05)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: DeiGr (small blind) folded before Flop
+
+
+
+PokerStars Hand #213549869663:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:57:45 MSK [2020/05/09 3:57:45 ET]
+Table 'Menkab II' 6-max Seat #6 is the button
+Seat 1: Aleks_Kor_36 ($1.95 in chips) 
+Seat 2: liangcm ($2.58 in chips) 
+Seat 3: stipanm ($2.12 in chips) 
+Seat 4: LongHart ($2 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($1.84 in chips) 
+Aleks_Kor_36: posts small blind $0.01
+liangcm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8c 4s]
+stipanm: folds 
+LongHart: raises $0.04 to $0.06
+lawlex_2: folds 
+DeiGr: folds 
+Aleks_Kor_36: folds 
+liangcm: folds 
+Uncalled bet ($0.04) returned to LongHart
+LongHart collected $0.05 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aleks_Kor_36 (small blind) folded before Flop
+Seat 2: liangcm (big blind) folded before Flop
+Seat 3: stipanm folded before Flop (didn't bet)
+Seat 4: LongHart collected ($0.05)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: DeiGr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213549876780:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:58:05 MSK [2020/05/09 3:58:05 ET]
+Table 'Menkab II' 6-max Seat #1 is the button
+Seat 1: Aleks_Kor_36 ($1.94 in chips) 
+Seat 2: liangcm ($2.56 in chips) 
+Seat 3: stipanm ($2.12 in chips) 
+Seat 4: LongHart ($2.03 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($1.84 in chips) 
+liangcm: posts small blind $0.01
+stipanm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 6s]
+LongHart: folds 
+lawlex_2: folds 
+DeiGr: folds 
+Aleks_Kor_36: folds 
+liangcm: raises $0.04 to $0.06
+stipanm: folds 
+Uncalled bet ($0.04) returned to liangcm
+liangcm collected $0.04 from pot
+liangcm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Aleks_Kor_36 (button) folded before Flop (didn't bet)
+Seat 2: liangcm (small blind) collected ($0.04)
+Seat 3: stipanm (big blind) folded before Flop
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: DeiGr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213549886853:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:58:32 MSK [2020/05/09 3:58:32 ET]
+Table 'Menkab II' 6-max Seat #2 is the button
+Seat 2: liangcm ($2.58 in chips) 
+Seat 3: stipanm ($2.10 in chips) 
+Seat 4: LongHart ($2.03 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($1.84 in chips) 
+stipanm: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Jd]
+lawlex_2: folds 
+DeiGr: raises $0.03 to $0.05
+liangcm: folds 
+stipanm: folds 
+LongHart: folds 
+Uncalled bet ($0.03) returned to DeiGr
+DeiGr collected $0.05 from pot
+DeiGr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: liangcm (button) folded before Flop (didn't bet)
+Seat 3: stipanm (small blind) folded before Flop
+Seat 4: LongHart (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: DeiGr collected ($0.05)
+
+
+
+PokerStars Hand #213549893087:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:58:49 MSK [2020/05/09 3:58:49 ET]
+Table 'Menkab II' 6-max Seat #3 is the button
+Seat 2: liangcm ($2.58 in chips) 
+Seat 3: stipanm ($2.09 in chips) 
+Seat 4: LongHart ($2.01 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($1.87 in chips) 
+LongHart: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9d 5s]
+DeiGr: folds 
+liangcm: raises $0.04 to $0.06
+stipanm: folds 
+LongHart: folds 
+lawlex_2: folds 
+Uncalled bet ($0.04) returned to liangcm
+liangcm collected $0.05 from pot
+liangcm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: liangcm collected ($0.05)
+Seat 3: stipanm (button) folded before Flop (didn't bet)
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: DeiGr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213549898263:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:59:03 MSK [2020/05/09 3:59:03 ET]
+Table 'Menkab II' 6-max Seat #4 is the button
+Seat 2: liangcm ($2.61 in chips) 
+Seat 3: stipanm ($2.09 in chips) 
+Seat 4: LongHart ($2 in chips) 
+Seat 5: lawlex_2 ($1.95 in chips) 
+Seat 6: DeiGr ($1.87 in chips) 
+lawlex_2: posts small blind $0.01
+DeiGr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9c Kc]
+liangcm: folds 
+stipanm: folds 
+LongHart: folds 
+lawlex_2: raises $0.04 to $0.06
+DeiGr: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.04 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: liangcm folded before Flop (didn't bet)
+Seat 3: stipanm folded before Flop (didn't bet)
+Seat 4: LongHart (button) folded before Flop (didn't bet)
+Seat 5: lawlex_2 (small blind) collected ($0.04)
+Seat 6: DeiGr (big blind) folded before Flop
+
+
+
+PokerStars Hand #213549903654:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 10:59:18 MSK [2020/05/09 3:59:18 ET]
+Table 'Menkab II' 6-max Seat #5 is the button
+Seat 2: liangcm ($2.61 in chips) 
+Seat 3: stipanm ($2.09 in chips) 
+Seat 4: LongHart ($2 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($1.85 in chips) 
+DeiGr: posts small blind $0.01
+liangcm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5s 2h]
+stipanm: calls $0.02
+LongHart: calls $0.02
+lawlex_2: folds 
+DeiGr: folds 
+liangcm: checks 
+*** FLOP *** [4s 8h 4c]
+liangcm: checks 
+stipanm: bets $0.04
+LongHart: calls $0.04
+liangcm: folds 
+*** TURN *** [4s 8h 4c] [3d]
+stipanm: bets $0.02
+LongHart: calls $0.02
+*** RIVER *** [4s 8h 4c 3d] [9d]
+stipanm: bets $0.02
+LongHart: raises $0.22 to $0.24
+stipanm: folds 
+Uncalled bet ($0.22) returned to LongHart
+LongHart collected $0.22 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [4s 8h 4c 3d 9d]
+Seat 2: liangcm (big blind) folded on the Flop
+Seat 3: stipanm folded on the River
+Seat 4: LongHart collected ($0.22)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: DeiGr (small blind) folded before Flop
+
+
+
+PokerStars Hand #213549922855:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:00:09 MSK [2020/05/09 4:00:09 ET]
+Table 'Menkab II' 6-max Seat #6 is the button
+Seat 2: liangcm ($2.59 in chips) 
+Seat 3: stipanm ($2 in chips) 
+Seat 4: LongHart ($2.12 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($1.84 in chips) 
+liangcm: posts small blind $0.01
+stipanm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qd 4c]
+LongHart: folds 
+lawlex_2: folds 
+DeiGr: folds 
+liangcm: folds 
+Uncalled bet ($0.01) returned to stipanm
+stipanm collected $0.02 from pot
+stipanm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: liangcm (small blind) folded before Flop
+Seat 3: stipanm (big blind) collected ($0.02)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: DeiGr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213549927698:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:00:20 MSK [2020/05/09 4:00:20 ET]
+Table 'Menkab II' 6-max Seat #2 is the button
+Seat 2: liangcm ($2.58 in chips) 
+Seat 3: stipanm ($2.01 in chips) 
+Seat 4: LongHart ($2.12 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($1.84 in chips) 
+stipanm: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3s 5d]
+lawlex_2: folds 
+DeiGr: folds 
+liangcm: raises $0.04 to $0.06
+stipanm: calls $0.05
+LongHart: folds 
+*** FLOP *** [Kh 4c 3d]
+stipanm: checks 
+liangcm: bets $0.10
+stipanm: raises $0.17 to $0.27
+liangcm: folds 
+Uncalled bet ($0.17) returned to stipanm
+stipanm collected $0.33 from pot
+stipanm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Kh 4c 3d]
+Seat 2: liangcm (button) folded on the Flop
+Seat 3: stipanm (small blind) collected ($0.33)
+Seat 4: LongHart (big blind) folded before Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: DeiGr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213549942150:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:00:55 MSK [2020/05/09 4:00:55 ET]
+Table 'Menkab II' 6-max Seat #3 is the button
+Seat 2: liangcm ($2.42 in chips) 
+Seat 3: stipanm ($2.18 in chips) 
+Seat 4: LongHart ($2.10 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: DeiGr ($1.84 in chips) 
+LongHart: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+Aleks_Kor_36: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc 7d]
+DeiGr: folds 
+liangcm: folds 
+stipanm: folds 
+LongHart: folds 
+Uncalled bet ($0.01) returned to lawlex_2
+LongHart leaves the table
+lawlex_2 collected $0.02 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: liangcm folded before Flop (didn't bet)
+Seat 3: stipanm (button) folded before Flop (didn't bet)
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) collected ($0.02)
+Seat 6: DeiGr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213549946971:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:01:06 MSK [2020/05/09 4:01:06 ET]
+Table 'Menkab II' 6-max Seat #5 is the button
+Seat 1: Aleks_Kor_36 ($1.94 in chips) 
+Seat 2: liangcm ($2.42 in chips) 
+Seat 3: stipanm ($2.18 in chips) 
+Seat 5: lawlex_2 ($1.98 in chips) 
+Seat 6: DeiGr ($1.84 in chips) 
+DeiGr: posts small blind $0.01
+Aleks_Kor_36: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jh Ah]
+liangcm: folds 
+stipanm: folds 
+liangcm leaves the table
+lawlex_2: raises $0.04 to $0.06
+DeiGr: folds 
+Aleks_Kor_36: calls $0.04
+*** FLOP *** [4d 7c 8h]
+Aleks_Kor_36: checks 
+jotomayr joins the table at seat #2 
+jotomayr is disconnected 
+lawlex_2: bets $0.09
+Aleks_Kor_36: calls $0.09
+*** TURN *** [4d 7c 8h] [4c]
+Aleks_Kor_36: checks 
+marina70066 joins the table at seat #4 
+lawlex_2: checks 
+*** RIVER *** [4d 7c 8h 4c] [Qh]
+marina70066 leaves the table
+Aleks_Kor_36: bets $0.15
+kostya163173 joins the table at seat #4 
+lawlex_2: folds 
+Uncalled bet ($0.15) returned to Aleks_Kor_36
+Aleks_Kor_36 collected $0.30 from pot
+Aleks_Kor_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [4d 7c 8h 4c Qh]
+Seat 1: Aleks_Kor_36 (big blind) collected ($0.30)
+Seat 2: liangcm folded before Flop (didn't bet)
+Seat 3: stipanm folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded on the River
+Seat 6: DeiGr (small blind) folded before Flop
+
+
+
+PokerStars Hand #213549976312:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:02:13 MSK [2020/05/09 4:02:13 ET]
+Table 'Menkab II' 6-max Seat #6 is the button
+Seat 1: Aleks_Kor_36 ($2.09 in chips) 
+Seat 2: jotomayr ($0.80 in chips) 
+Seat 3: stipanm ($2.18 in chips) 
+Seat 4: kostya163173 ($1.60 in chips) 
+Seat 5: lawlex_2 ($1.83 in chips) 
+Seat 6: DeiGr ($1.83 in chips) 
+Aleks_Kor_36: posts small blind $0.01
+jotomayr: posts big blind $0.02
+kostya163173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kd Kh]
+stipanm: folds 
+kostya163173: checks 
+stipanm leaves the table
+lawlex_2: calls $0.02
+DeiGr: folds 
+Aleks_Kor_36: raises $0.04 to $0.06
+jotomayr: folds 
+kostya163173: folds 
+lawlex_2: raises $0.16 to $0.22
+Aleks_Kor_36: calls $0.16
+*** FLOP *** [5d 7s 9d]
+Aleks_Kor_36: checks 
+lawlex_2: bets $0.02
+Aleks_Kor_36: calls $0.02
+*** TURN *** [5d 7s 9d] [2s]
+YMSYMS joins the table at seat #3 
+Aleks_Kor_36: checks 
+lawlex_2: bets $0.02
+Aleks_Kor_36: calls $0.02
+*** RIVER *** [5d 7s 9d 2s] [Ks]
+Aleks_Kor_36: checks 
+lawlex_2: bets $0.36
+Aleks_Kor_36: folds 
+Uncalled bet ($0.36) returned to lawlex_2
+lawlex_2 collected $0.54 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [5d 7s 9d 2s Ks]
+Seat 1: Aleks_Kor_36 (small blind) folded on the River
+Seat 2: jotomayr (big blind) folded before Flop
+Seat 3: stipanm folded before Flop (didn't bet)
+Seat 4: kostya163173 folded before Flop (didn't bet)
+Seat 5: lawlex_2 collected ($0.54)
+Seat 6: DeiGr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213550003115:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:03:13 MSK [2020/05/09 4:03:13 ET]
+Table 'Menkab II' 6-max Seat #1 is the button
+Seat 1: Aleks_Kor_36 ($1.83 in chips) 
+Seat 2: jotomayr ($0.80 in chips) 
+Seat 3: YMSYMS ($2 in chips) 
+Seat 4: kostya163173 ($1.58 in chips) 
+Seat 5: lawlex_2 ($2.11 in chips) 
+Seat 6: DeiGr ($1.83 in chips) 
+jotomayr: posts small blind $0.01
+YMSYMS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac Ad]
+kostya163173: folds 
+lawlex_2: calls $0.02
+DeiGr: calls $0.02
+Aleks_Kor_36: folds 
+jotomayr: folds 
+YMSYMS: checks 
+*** FLOP *** [9d 6h 6s]
+YMSYMS: checks 
+lawlex_2: bets $0.05
+DeiGr: folds 
+YMSYMS: calls $0.05
+*** TURN *** [9d 6h 6s] [Qc]
+YMSYMS: checks 
+lawlex_2: bets $0.11
+YMSYMS: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.16 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9d 6h 6s Qc]
+Seat 1: Aleks_Kor_36 (button) folded before Flop (didn't bet)
+Seat 2: jotomayr (small blind) folded before Flop
+Seat 3: YMSYMS (big blind) folded on the Turn
+Seat 4: kostya163173 folded before Flop (didn't bet)
+Seat 5: lawlex_2 collected ($0.16)
+Seat 6: DeiGr folded on the Flop
+
+
+
+PokerStars Hand #213550022063:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:03:56 MSK [2020/05/09 4:03:56 ET]
+Table 'Menkab II' 6-max Seat #2 is the button
+Seat 1: Aleks_Kor_36 ($1.83 in chips) 
+Seat 2: jotomayr ($0.80 in chips) 
+Seat 3: YMSYMS ($1.93 in chips) 
+Seat 4: kostya163173 ($1.58 in chips) 
+Seat 5: lawlex_2 ($2.20 in chips) 
+Seat 6: DeiGr ($1.81 in chips) 
+YMSYMS: posts small blind $0.01
+kostya163173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh 4d]
+lawlex_2: folds 
+DeiGr: raises $0.03 to $0.05
+Aleks_Kor_36: calls $0.05
+jotomayr: folds 
+YMSYMS: calls $0.04
+kostya163173: calls $0.03
+*** FLOP *** [Tc 2s 9h]
+YMSYMS: bets $0.04
+kostya163173: folds 
+DeiGr: raises $0.04 to $0.08
+Aleks_Kor_36: calls $0.08
+YMSYMS: calls $0.04
+*** TURN *** [Tc 2s 9h] [8d]
+YMSYMS: bets $0.04
+DeiGr: raises $0.25 to $0.29
+Aleks_Kor_36: folds 
+YMSYMS: calls $0.25
+*** RIVER *** [Tc 2s 9h 8d] [3s]
+YMSYMS: bets $0.04
+DeiGr: raises $0.53 to $0.57
+YMSYMS: raises $0.53 to $1.10
+DeiGr: raises $0.29 to $1.39 and is all-in
+YMSYMS: calls $0.29
+*** SHOW DOWN ***
+DeiGr: shows [Ad Ac] (a pair of Aces)
+YMSYMS: shows [Qs 9d] (a pair of Nines)
+DeiGr collected $3.67 from pot
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.13 
+Board [Tc 2s 9h 8d 3s]
+Seat 1: Aleks_Kor_36 folded on the Turn
+Seat 2: jotomayr (button) folded before Flop (didn't bet)
+Seat 3: YMSYMS (small blind) showed [Qs 9d] and lost with a pair of Nines
+Seat 4: kostya163173 (big blind) folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: DeiGr showed [Ad Ac] and won ($3.67) with a pair of Aces
+
+
+
+PokerStars Hand #213550054575:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:05:09 MSK [2020/05/09 4:05:09 ET]
+Table 'Menkab II' 6-max Seat #3 is the button
+Seat 1: Aleks_Kor_36 ($1.70 in chips) 
+Seat 2: jotomayr ($0.80 in chips) 
+Seat 3: YMSYMS ($0.12 in chips) 
+Seat 4: kostya163173 ($1.53 in chips) 
+Seat 5: lawlex_2 ($2.20 in chips) 
+Seat 6: DeiGr ($3.67 in chips) 
+kostya163173: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 7s]
+DeiGr: folds 
+Aleks_Kor_36: folds 
+jotomayr: folds 
+YMSYMS: calls $0.02
+DeiGr leaves the table
+kostya163173: folds 
+lawlex_2: checks 
+*** FLOP *** [5h 4s 7h]
+lawlex_2: bets $0.03
+YMSYMS: raises $0.07 to $0.10 and is all-in
+lawlex_2: calls $0.07
+*** TURN *** [5h 4s 7h] [8c]
+*** RIVER *** [5h 4s 7h 8c] [5s]
+*** SHOW DOWN ***
+lawlex_2: shows [Qc 7s] (two pair, Sevens and Fives)
+YMSYMS: shows [Kd Ac] (a pair of Fives)
+lawlex_2 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5h 4s 7h 8c 5s]
+Seat 1: Aleks_Kor_36 folded before Flop (didn't bet)
+Seat 2: jotomayr folded before Flop (didn't bet)
+Seat 3: YMSYMS (button) showed [Kd Ac] and lost with a pair of Fives
+Seat 4: kostya163173 (small blind) folded before Flop
+Seat 5: lawlex_2 (big blind) showed [Qc 7s] and won ($0.24) with two pair, Sevens and Fives
+Seat 6: DeiGr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213550071503:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:05:47 MSK [2020/05/09 4:05:47 ET]
+Table 'Menkab II' 6-max Seat #4 is the button
+Seat 1: Aleks_Kor_36 ($1.70 in chips) 
+Seat 2: jotomayr ($0.80 in chips) 
+Seat 4: kostya163173 ($1.52 in chips) 
+Seat 5: lawlex_2 ($2.32 in chips) 
+lawlex_2: posts small blind $0.01
+Aleks_Kor_36: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4c 7s]
+Wielgosz joins the table at seat #6 
+jotomayr: raises $0.04 to $0.06
+kostya163173: raises $0.12 to $0.18
+lawlex_2: folds 
+Aleks_Kor_36: folds 
+jotomayr: folds 
+Uncalled bet ($0.12) returned to kostya163173
+kostya163173 collected $0.15 from pot
+kostya163173: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Aleks_Kor_36 (big blind) folded before Flop
+Seat 2: jotomayr folded before Flop
+Seat 4: kostya163173 (button) collected ($0.15)
+Seat 5: lawlex_2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #213550079585:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:06:05 MSK [2020/05/09 4:06:05 ET]
+Table 'Menkab II' 6-max Seat #5 is the button
+Seat 1: Aleks_Kor_36 ($1.68 in chips) 
+Seat 2: jotomayr ($0.80 in chips) 
+Seat 3: YMSYMS ($2 in chips) 
+Seat 4: kostya163173 ($1.61 in chips) 
+Seat 5: lawlex_2 ($2.31 in chips) 
+Aleks_Kor_36: posts small blind $0.01
+jotomayr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h Ad]
+YMSYMS: folds 
+kostya163173: folds 
+lawlex_2: raises $0.04 to $0.06
+Aleks_Kor_36: folds 
+jotomayr: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.05 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aleks_Kor_36 (small blind) folded before Flop
+Seat 2: jotomayr (big blind) folded before Flop
+Seat 3: YMSYMS folded before Flop (didn't bet)
+Seat 4: kostya163173 folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) collected ($0.05)
+
+
+
+PokerStars Hand #213550086593:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:06:21 MSK [2020/05/09 4:06:21 ET]
+Table 'Menkab II' 6-max Seat #1 is the button
+Seat 1: Aleks_Kor_36 ($1.67 in chips) 
+Seat 2: jotomayr ($0.80 in chips) 
+Seat 3: YMSYMS ($2 in chips) 
+Seat 4: kostya163173 ($1.61 in chips) 
+Seat 5: lawlex_2 ($2.34 in chips) 
+jotomayr: posts small blind $0.01
+YMSYMS: posts big blind $0.02
+Wielgosz: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Jc]
+kostya163173: raises $0.02 to $0.04
+lawlex_2: calls $0.04
+Aleks_Kor_36: folds 
+jotomayr: calls $0.03
+YMSYMS: calls $0.02
+*** FLOP *** [Ts 7d Qh]
+jotomayr: checks 
+YMSYMS: bets $0.02
+kostya163173: calls $0.02
+lawlex_2: raises $0.14 to $0.16
+jotomayr: folds 
+YMSYMS: calls $0.14
+kostya163173: folds 
+*** TURN *** [Ts 7d Qh] [4h]
+kostya163173 is disconnected 
+YMSYMS: checks 
+lawlex_2: checks 
+*** RIVER *** [Ts 7d Qh 4h] [7h]
+YMSYMS: checks 
+lawlex_2: checks 
+*** SHOW DOWN ***
+YMSYMS: shows [Kd Tc] (two pair, Tens and Sevens)
+lawlex_2: mucks hand 
+YMSYMS collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Ts 7d Qh 4h 7h]
+Seat 1: Aleks_Kor_36 (button) folded before Flop (didn't bet)
+Seat 2: jotomayr (small blind) folded on the Flop
+Seat 3: YMSYMS (big blind) showed [Kd Tc] and won ($0.48) with two pair, Tens and Sevens
+Seat 4: kostya163173 folded on the Flop
+Seat 5: lawlex_2 mucked [Kh Jc]
+
+
+
+PokerStars Hand #213550109862:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:07:13 MSK [2020/05/09 4:07:13 ET]
+Table 'Menkab II' 6-max Seat #2 is the button
+Seat 1: Aleks_Kor_36 ($1.67 in chips) 
+Seat 2: jotomayr ($0.80 in chips) 
+Seat 3: YMSYMS ($2.28 in chips) 
+Seat 5: lawlex_2 ($2.14 in chips) 
+YMSYMS: posts small blind $0.01
+kostya163173 has timed out while disconnected
+kostya163173: is sitting out 
+lawlex_2: posts big blind $0.02
+Wielgosz: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [7h Js]
+Aleks_Kor_36: raises $0.04 to $0.06
+jotomayr: folds 
+YMSYMS: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [3d 2s Qh]
+YMSYMS: checks 
+Aleks_Kor_36: checks 
+*** TURN *** [3d 2s Qh] [Qs]
+YMSYMS: bets $0.04
+Aleks_Kor_36: calls $0.04
+*** RIVER *** [3d 2s Qh Qs] [8c]
+YMSYMS: bets $0.04
+Aleks_Kor_36: calls $0.04
+*** SHOW DOWN ***
+YMSYMS: shows [Kc As] (a pair of Queens)
+Aleks_Kor_36: mucks hand 
+YMSYMS collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3d 2s Qh Qs 8c]
+Seat 1: Aleks_Kor_36 mucked [9h Ad]
+Seat 2: jotomayr (button) folded before Flop (didn't bet)
+Seat 3: YMSYMS (small blind) showed [Kc As] and won ($0.29) with a pair of Queens
+Seat 5: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213550129688:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:07:58 MSK [2020/05/09 4:07:58 ET]
+Table 'Menkab II' 6-max Seat #3 is the button
+Seat 1: Aleks_Kor_36 ($1.53 in chips) 
+Seat 2: jotomayr ($0.80 in chips) 
+Seat 3: YMSYMS ($2.43 in chips) 
+Seat 5: lawlex_2 ($2.12 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Wielgosz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h 7s]
+Aleks_Kor_36: folds 
+jotomayr: folds 
+YMSYMS: calls $0.02
+lawlex_2: folds 
+Wielgosz: checks 
+*** FLOP *** [Kh 7h 2d]
+Wielgosz: checks 
+YMSYMS: checks 
+*** TURN *** [Kh 7h 2d] [Tc]
+Wielgosz: checks 
+YMSYMS: bets $0.02
+Wielgosz: folds 
+Uncalled bet ($0.02) returned to YMSYMS
+YMSYMS collected $0.05 from pot
+YMSYMS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kh 7h 2d Tc]
+Seat 1: Aleks_Kor_36 folded before Flop (didn't bet)
+Seat 2: jotomayr folded before Flop (didn't bet)
+Seat 3: YMSYMS (button) collected ($0.05)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Wielgosz (big blind) folded on the Turn
+
+
+
+PokerStars Hand #213550141597:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:08:25 MSK [2020/05/09 4:08:25 ET]
+Table 'Menkab II' 6-max Seat #5 is the button
+Seat 1: Aleks_Kor_36 ($1.53 in chips) 
+Seat 2: jotomayr ($0.80 in chips) 
+Seat 3: YMSYMS ($2.46 in chips) 
+Seat 5: lawlex_2 ($2.11 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+Wielgosz: posts small blind $0.01
+Aleks_Kor_36: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ah 4d]
+jotomayr: raises $0.04 to $0.06
+YMSYMS: folds 
+lawlex_2: folds 
+Wielgosz: folds 
+Aleks_Kor_36: folds 
+Uncalled bet ($0.04) returned to jotomayr
+jotomayr collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aleks_Kor_36 (big blind) folded before Flop
+Seat 2: jotomayr collected ($0.05)
+Seat 3: YMSYMS folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Wielgosz (small blind) folded before Flop
+
+
+
+PokerStars Hand #213550148542:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:08:40 MSK [2020/05/09 4:08:40 ET]
+Table 'Menkab II' 6-max Seat #6 is the button
+Seat 1: Aleks_Kor_36 ($1.51 in chips) 
+Seat 2: jotomayr ($0.83 in chips) 
+Seat 3: YMSYMS ($2.46 in chips) 
+Seat 5: lawlex_2 ($2.11 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+Aleks_Kor_36: posts small blind $0.01
+jotomayr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ac 9c]
+YMSYMS: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+Wielgosz: folds 
+Aleks_Kor_36: folds 
+jotomayr: calls $0.04
+YMSYMS: calls $0.04
+*** FLOP *** [9s Ks 4c]
+jotomayr: checks 
+YMSYMS: bets $0.04
+lawlex_2: calls $0.04
+jotomayr: calls $0.04
+*** TURN *** [9s Ks 4c] [3s]
+jotomayr: checks 
+YMSYMS: bets $0.06
+lawlex_2: folds 
+jotomayr: calls $0.06
+*** RIVER *** [9s Ks 4c 3s] [8d]
+jotomayr: checks 
+YMSYMS: bets $0.08
+jotomayr: calls $0.08
+*** SHOW DOWN ***
+YMSYMS: shows [Kh 2h] (a pair of Kings)
+jotomayr: shows [Kd Qh] (a pair of Kings - Queen kicker)
+jotomayr collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [9s Ks 4c 3s 8d]
+Seat 1: Aleks_Kor_36 (small blind) folded before Flop
+Seat 2: jotomayr (big blind) showed [Kd Qh] and won ($0.57) with a pair of Kings
+Seat 3: YMSYMS showed [Kh 2h] and lost with a pair of Kings
+Seat 5: lawlex_2 folded on the Turn
+Seat 6: Wielgosz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213550179433:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:09:39 MSK [2020/05/09 4:09:39 ET]
+Table 'Menkab II' 6-max Seat #1 is the button
+Seat 1: Aleks_Kor_36 ($1.50 in chips) 
+Seat 2: jotomayr ($1.16 in chips) 
+Seat 3: YMSYMS ($2.22 in chips) 
+Seat 5: lawlex_2 ($2.01 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+jotomayr: posts small blind $0.01
+YMSYMS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2d 6c]
+lawlex_2: folds 
+Wielgosz has timed out
+Wielgosz: folds 
+Aleks_Kor_36: raises $0.04 to $0.06
+jotomayr: folds 
+YMSYMS: calls $0.04
+*** FLOP *** [4s 5d Js]
+YMSYMS: checks 
+Aleks_Kor_36: bets $0.08
+YMSYMS: folds 
+Uncalled bet ($0.08) returned to Aleks_Kor_36
+Aleks_Kor_36 collected $0.13 from pot
+Aleks_Kor_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4s 5d Js]
+Seat 1: Aleks_Kor_36 (button) collected ($0.13)
+Seat 2: jotomayr (small blind) folded before Flop
+Seat 3: YMSYMS (big blind) folded on the Flop
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Wielgosz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213550196112:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:10:17 MSK [2020/05/09 4:10:17 ET]
+Table 'Menkab II' 6-max Seat #2 is the button
+Seat 1: Aleks_Kor_36 ($1.57 in chips) 
+Seat 2: jotomayr ($1.15 in chips) 
+Seat 3: YMSYMS ($2.16 in chips) 
+Seat 5: lawlex_2 ($2.01 in chips) 
+YMSYMS: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [6h 9s]
+Aleks_Kor_36: folds 
+jotomayr: raises $0.04 to $0.06
+YMSYMS: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [Ts Ah 4c]
+YMSYMS: checks 
+jotomayr: checks 
+*** TURN *** [Ts Ah 4c] [Jd]
+YMSYMS: checks 
+jotomayr: bets $0.05
+YMSYMS: folds 
+Uncalled bet ($0.05) returned to jotomayr
+jotomayr collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ts Ah 4c Jd]
+Seat 1: Aleks_Kor_36 folded before Flop (didn't bet)
+Seat 2: jotomayr (button) collected ($0.14)
+Seat 3: YMSYMS (small blind) folded on the Turn
+Seat 5: lawlex_2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #213550208872:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:10:45 MSK [2020/05/09 4:10:45 ET]
+Table 'Menkab II' 6-max Seat #3 is the button
+Seat 1: Aleks_Kor_36 ($1.57 in chips) 
+Seat 2: jotomayr ($1.23 in chips) 
+Seat 3: YMSYMS ($2.10 in chips) 
+Seat 5: lawlex_2 ($1.99 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Wielgosz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2s 5c]
+Aleks_Kor_36: folds 
+jotomayr: folds 
+YMSYMS: calls $0.02
+lawlex_2: folds 
+Wielgosz: checks 
+*** FLOP *** [5h 5s Ah]
+Wielgosz: checks 
+YMSYMS: bets $0.04
+Wielgosz: folds 
+Uncalled bet ($0.04) returned to YMSYMS
+YMSYMS collected $0.05 from pot
+YMSYMS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5h 5s Ah]
+Seat 1: Aleks_Kor_36 folded before Flop (didn't bet)
+Seat 2: jotomayr folded before Flop (didn't bet)
+Seat 3: YMSYMS (button) collected ($0.05)
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Wielgosz (big blind) folded on the Flop
+
+
+
+PokerStars Hand #213550221671:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:11:14 MSK [2020/05/09 4:11:14 ET]
+Table 'Menkab II' 6-max Seat #5 is the button
+Seat 1: Aleks_Kor_36 ($1.57 in chips) 
+Seat 2: jotomayr ($1.23 in chips) 
+Seat 3: YMSYMS ($2.13 in chips) 
+Seat 5: lawlex_2 ($1.98 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+Wielgosz: posts small blind $0.01
+Aleks_Kor_36: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [9h Jd]
+jotomayr: folds 
+YMSYMS: calls $0.02
+lawlex_2: folds 
+Wielgosz: raises $0.06 to $0.08
+Aleks_Kor_36: calls $0.06
+YMSYMS: calls $0.06
+*** FLOP *** [9s Tc 4d]
+Wielgosz: checks 
+Aleks_Kor_36: checks 
+YMSYMS: checks 
+*** TURN *** [9s Tc 4d] [8d]
+Wielgosz: checks 
+Aleks_Kor_36: bets $0.15
+YMSYMS: calls $0.15
+Wielgosz: folds 
+*** RIVER *** [9s Tc 4d 8d] [4c]
+Aleks_Kor_36: bets $0.34
+YMSYMS: folds 
+Uncalled bet ($0.34) returned to Aleks_Kor_36
+Aleks_Kor_36 collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [9s Tc 4d 8d 4c]
+Seat 1: Aleks_Kor_36 (big blind) collected ($0.52)
+Seat 2: jotomayr folded before Flop (didn't bet)
+Seat 3: YMSYMS folded on the River
+Seat 5: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 6: Wielgosz (small blind) folded on the Turn
+
+
+
+PokerStars Hand #213550243814:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:12:04 MSK [2020/05/09 4:12:04 ET]
+Table 'Menkab II' 6-max Seat #6 is the button
+Seat 1: Aleks_Kor_36 ($1.86 in chips) 
+Seat 2: jotomayr ($1.23 in chips) 
+Seat 3: YMSYMS ($1.90 in chips) 
+Seat 5: lawlex_2 ($1.98 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+Aleks_Kor_36: posts small blind $0.01
+jotomayr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5h Ad]
+YMSYMS: calls $0.02
+lawlex_2: raises $0.04 to $0.06
+Wielgosz: folds 
+Aleks_Kor_36: folds 
+jotomayr: raises $0.10 to $0.16
+YMSYMS: folds 
+lawlex_2: folds 
+Uncalled bet ($0.10) returned to jotomayr
+jotomayr collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Aleks_Kor_36 (small blind) folded before Flop
+Seat 2: jotomayr (big blind) collected ($0.15)
+Seat 3: YMSYMS folded before Flop
+Seat 5: lawlex_2 folded before Flop
+Seat 6: Wielgosz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213550257683:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:12:35 MSK [2020/05/09 4:12:35 ET]
+Table 'Menkab II' 6-max Seat #1 is the button
+Seat 1: Aleks_Kor_36 ($1.85 in chips) 
+Seat 2: jotomayr ($1.32 in chips) 
+Seat 3: YMSYMS ($1.88 in chips) 
+Seat 5: lawlex_2 ($1.92 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+jotomayr: posts small blind $0.01
+YMSYMS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Ks]
+lawlex_2: folds 
+Wielgosz: folds 
+Aleks_Kor_36: folds 
+jotomayr: folds 
+Uncalled bet ($0.01) returned to YMSYMS
+YMSYMS collected $0.02 from pot
+YMSYMS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Aleks_Kor_36 (button) folded before Flop (didn't bet)
+Seat 2: jotomayr (small blind) folded before Flop
+Seat 3: YMSYMS (big blind) collected ($0.02)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Wielgosz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213550263736:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:12:49 MSK [2020/05/09 4:12:49 ET]
+Table 'Menkab II' 6-max Seat #2 is the button
+Seat 1: Aleks_Kor_36 ($1.85 in chips) 
+Seat 2: jotomayr ($1.31 in chips) 
+Seat 3: YMSYMS ($1.89 in chips) 
+Seat 5: lawlex_2 ($1.92 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+YMSYMS: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [8d Jc]
+Wielgosz: folds 
+Aleks_Kor_36: raises $0.04 to $0.06
+jotomayr: folds 
+YMSYMS: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [Th 9h 9c]
+YMSYMS: checks 
+Aleks_Kor_36: checks 
+*** TURN *** [Th 9h 9c] [3s]
+YMSYMS: checks 
+Aleks_Kor_36: checks 
+*** RIVER *** [Th 9h 9c 3s] [3d]
+YMSYMS: checks 
+Aleks_Kor_36: checks 
+*** SHOW DOWN ***
+YMSYMS: shows [Ad 6s] (two pair, Nines and Threes)
+Aleks_Kor_36: mucks hand 
+YMSYMS collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Th 9h 9c 3s 3d]
+Seat 1: Aleks_Kor_36 mucked [7s Qs]
+Seat 2: jotomayr (button) folded before Flop (didn't bet)
+Seat 3: YMSYMS (small blind) showed [Ad 6s] and won ($0.14) with two pair, Nines and Threes
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Wielgosz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213550280301:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:13:27 MSK [2020/05/09 4:13:27 ET]
+Table 'Menkab II' 6-max Seat #3 is the button
+Seat 1: Aleks_Kor_36 ($1.79 in chips) 
+Seat 2: jotomayr ($1.31 in chips) 
+Seat 3: YMSYMS ($1.97 in chips) 
+Seat 5: lawlex_2 ($1.90 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+lawlex_2: posts small blind $0.01
+Wielgosz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [2c Ah]
+Aleks_Kor_36: raises $0.04 to $0.06
+jotomayr: folds 
+YMSYMS: calls $0.06
+lawlex_2: folds 
+Wielgosz: folds 
+*** FLOP *** [Td 4h 8d]
+Aleks_Kor_36: bets $0.07
+YMSYMS: folds 
+Uncalled bet ($0.07) returned to Aleks_Kor_36
+Aleks_Kor_36 collected $0.14 from pot
+Aleks_Kor_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Td 4h 8d]
+Seat 1: Aleks_Kor_36 collected ($0.14)
+Seat 2: jotomayr folded before Flop (didn't bet)
+Seat 3: YMSYMS (button) folded on the Flop
+Seat 5: lawlex_2 (small blind) folded before Flop
+Seat 6: Wielgosz (big blind) folded before Flop
+
+
+
+PokerStars Hand #213550291367:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:13:51 MSK [2020/05/09 4:13:51 ET]
+Table 'Menkab II' 6-max Seat #5 is the button
+Seat 1: Aleks_Kor_36 ($1.87 in chips) 
+Seat 2: jotomayr ($1.31 in chips) 
+Seat 3: YMSYMS ($1.91 in chips) 
+Seat 5: lawlex_2 ($1.89 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+Wielgosz: posts small blind $0.01
+Aleks_Kor_36: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js Qc]
+jotomayr: folds 
+YMSYMS: raises $0.02 to $0.04
+lawlex_2: calls $0.04
+Wielgosz: folds 
+Aleks_Kor_36: folds 
+*** FLOP *** [3s 7s Kh]
+YMSYMS: bets $0.02
+lawlex_2: folds 
+Uncalled bet ($0.02) returned to YMSYMS
+YMSYMS collected $0.11 from pot
+YMSYMS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3s 7s Kh]
+Seat 1: Aleks_Kor_36 (big blind) folded before Flop
+Seat 2: jotomayr folded before Flop (didn't bet)
+Seat 3: YMSYMS collected ($0.11)
+Seat 5: lawlex_2 (button) folded on the Flop
+Seat 6: Wielgosz (small blind) folded before Flop
+
+
+
+PokerStars Hand #213550300094:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:14:11 MSK [2020/05/09 4:14:11 ET]
+Table 'Menkab II' 6-max Seat #6 is the button
+Seat 1: Aleks_Kor_36 ($1.85 in chips) 
+Seat 2: jotomayr ($1.31 in chips) 
+Seat 3: YMSYMS ($1.98 in chips) 
+Seat 5: lawlex_2 ($1.85 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+Aleks_Kor_36: posts small blind $0.01
+jotomayr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [5c 7h]
+YMSYMS: folds 
+lawlex_2: folds 
+Wielgosz: raises $0.03 to $0.05
+Aleks_Kor_36: folds 
+jotomayr: folds 
+Uncalled bet ($0.03) returned to Wielgosz
+Wielgosz collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aleks_Kor_36 (small blind) folded before Flop
+Seat 2: jotomayr (big blind) folded before Flop
+Seat 3: YMSYMS folded before Flop (didn't bet)
+Seat 5: lawlex_2 folded before Flop (didn't bet)
+Seat 6: Wielgosz (button) collected ($0.05)
+
+
+
+PokerStars Hand #213550307210:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:14:27 MSK [2020/05/09 4:14:27 ET]
+Table 'Menkab II' 6-max Seat #1 is the button
+Seat 1: Aleks_Kor_36 ($1.84 in chips) 
+Seat 2: jotomayr ($1.29 in chips) 
+Seat 3: YMSYMS ($1.98 in chips) 
+Seat 5: lawlex_2 ($1.85 in chips) 
+Seat 6: Wielgosz ($2.03 in chips) 
+jotomayr: posts small blind $0.01
+YMSYMS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Kh Qh]
+lawlex_2: raises $0.04 to $0.06
+Wielgosz: folds 
+Aleks_Kor_36: folds 
+jotomayr: folds 
+YMSYMS: calls $0.04
+*** FLOP *** [4d As 5h]
+YMSYMS: checks 
+lawlex_2: bets $0.09
+YMSYMS: folds 
+Uncalled bet ($0.09) returned to lawlex_2
+lawlex_2 collected $0.13 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4d As 5h]
+Seat 1: Aleks_Kor_36 (button) folded before Flop (didn't bet)
+Seat 2: jotomayr (small blind) folded before Flop
+Seat 3: YMSYMS (big blind) folded on the Flop
+Seat 5: lawlex_2 collected ($0.13)
+Seat 6: Wielgosz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213550317974:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:14:51 MSK [2020/05/09 4:14:51 ET]
+Table 'Menkab II' 6-max Seat #2 is the button
+Seat 1: Aleks_Kor_36 ($1.84 in chips) 
+Seat 2: jotomayr ($1.28 in chips) 
+Seat 3: YMSYMS ($1.92 in chips) 
+Seat 5: lawlex_2 ($1.92 in chips) 
+Seat 6: Wielgosz ($2.03 in chips) 
+YMSYMS: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qc 9d]
+Wielgosz: folds 
+Aleks_Kor_36: folds 
+jotomayr: raises $0.04 to $0.06
+YMSYMS: calls $0.05
+lawlex_2: folds 
+*** FLOP *** [Jd 8c 7s]
+YMSYMS: checks 
+jotomayr: bets $0.05
+YMSYMS: calls $0.05
+*** TURN *** [Jd 8c 7s] [4s]
+YMSYMS: checks 
+jotomayr: bets $0.08
+YMSYMS: calls $0.08
+*** RIVER *** [Jd 8c 7s 4s] [8d]
+YMSYMS: checks 
+jotomayr: checks 
+*** SHOW DOWN ***
+YMSYMS: shows [Qd 9c] (a pair of Eights)
+jotomayr: shows [Ks Tc] (a pair of Eights - King kicker)
+jotomayr collected $0.39 from pot
+kostya163173 was removed from the table for failing to post
+kostya163173 leaves the table
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Jd 8c 7s 4s 8d]
+Seat 1: Aleks_Kor_36 folded before Flop (didn't bet)
+Seat 2: jotomayr (button) showed [Ks Tc] and won ($0.39) with a pair of Eights
+Seat 3: YMSYMS (small blind) showed [Qd 9c] and lost with a pair of Eights
+Seat 5: lawlex_2 (big blind) folded before Flop
+Seat 6: Wielgosz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213550336743:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:15:34 MSK [2020/05/09 4:15:34 ET]
+Table 'Menkab II' 6-max Seat #3 is the button
+Seat 1: Aleks_Kor_36 ($1.84 in chips) 
+Seat 2: jotomayr ($1.48 in chips) 
+Seat 3: YMSYMS ($1.73 in chips) 
+Seat 5: lawlex_2 ($1.90 in chips) 
+Seat 6: Wielgosz ($2.03 in chips) 
+lawlex_2: posts small blind $0.01
+Wielgosz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3h Kh]
+Aleks_Kor_36: raises $0.04 to $0.06
+jotomayr: folds 
+YMSYMS: calls $0.06
+lawlex_2: calls $0.05
+Wielgosz: folds 
+*** FLOP *** [7s Ks 5s]
+lawlex_2: checks 
+Aleks_Kor_36: bets $0.12
+YMSYMS: calls $0.12
+lawlex_2: calls $0.12
+*** TURN *** [7s Ks 5s] [5h]
+kurenov joins the table at seat #4 
+lawlex_2: checks 
+Aleks_Kor_36: checks 
+YMSYMS: bets $0.08
+lawlex_2: calls $0.08
+Aleks_Kor_36: calls $0.08
+*** RIVER *** [7s Ks 5s 5h] [Kc]
+lawlex_2: checks 
+Aleks_Kor_36: bets $0.50
+YMSYMS: folds 
+lawlex_2: raises $1.14 to $1.64 and is all-in
+Aleks_Kor_36: calls $1.08 and is all-in
+Uncalled bet ($0.06) returned to lawlex_2
+*** SHOW DOWN ***
+lawlex_2: shows [3h Kh] (a full house, Kings full of Fives)
+Aleks_Kor_36: shows [Kd Th] (a full house, Kings full of Fives)
+lawlex_2 collected $1.91 from pot
+Aleks_Kor_36 collected $1.91 from pot
+*** SUMMARY ***
+Total pot $3.96 | Rake $0.14 
+Board [7s Ks 5s 5h Kc]
+Seat 1: Aleks_Kor_36 showed [Kd Th] and won ($1.91) with a full house, Kings full of Fives
+Seat 2: jotomayr folded before Flop (didn't bet)
+Seat 3: YMSYMS (button) folded on the River
+Seat 5: lawlex_2 (small blind) showed [3h Kh] and won ($1.91) with a full house, Kings full of Fives
+Seat 6: Wielgosz (big blind) folded before Flop
+
+
+
+PokerStars Hand #213550374032:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:16:58 MSK [2020/05/09 4:16:58 ET]
+Table 'Menkab II' 6-max Seat #5 is the button
+Seat 1: Aleks_Kor_36 ($1.91 in chips) 
+Seat 2: jotomayr ($1.48 in chips) 
+Seat 3: YMSYMS ($1.47 in chips) 
+Seat 4: kurenov ($0.80 in chips) 
+Seat 5: lawlex_2 ($1.97 in chips) 
+Seat 6: Wielgosz ($2.01 in chips) 
+Wielgosz: posts small blind $0.01
+Aleks_Kor_36: posts big blind $0.02
+kurenov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Ad 7h]
+jotomayr: folds 
+YMSYMS: calls $0.02
+kurenov: checks 
+lawlex_2: raises $0.04 to $0.06
+Wielgosz: folds 
+Aleks_Kor_36: folds 
+YMSYMS: calls $0.04
+kurenov: folds 
+*** FLOP *** [7d 4d 2s]
+YMSYMS: checks 
+lawlex_2: bets $0.11
+YMSYMS: folds 
+Uncalled bet ($0.11) returned to lawlex_2
+lawlex_2 collected $0.16 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [7d 4d 2s]
+Seat 1: Aleks_Kor_36 (big blind) folded before Flop
+Seat 2: jotomayr folded before Flop (didn't bet)
+Seat 3: YMSYMS folded on the Flop
+Seat 4: kurenov folded before Flop (didn't bet)
+Seat 5: lawlex_2 (button) collected ($0.16)
+Seat 6: Wielgosz (small blind) folded before Flop
+
+
+
+PokerStars Hand #213550388689:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:17:31 MSK [2020/05/09 4:17:31 ET]
+Table 'Menkab II' 6-max Seat #6 is the button
+Seat 1: Aleks_Kor_36 ($1.89 in chips) 
+Seat 2: jotomayr ($1.48 in chips) 
+Seat 3: YMSYMS ($1.41 in chips) 
+Seat 4: kurenov ($0.78 in chips) 
+Seat 5: lawlex_2 ($2.07 in chips) 
+Seat 6: Wielgosz ($2 in chips) 
+Aleks_Kor_36: posts small blind $0.01
+jotomayr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Tc Td]
+YMSYMS: calls $0.02
+kurenov: raises $0.04 to $0.06
+lawlex_2: calls $0.06
+Wielgosz: raises $0.20 to $0.26
+Aleks_Kor_36: folds 
+jotomayr: folds 
+YMSYMS: folds 
+kurenov: folds 
+lawlex_2: calls $0.20
+*** FLOP *** [As Ad Kc]
+lawlex_2: checks 
+Wielgosz: bets $0.18
+lawlex_2: calls $0.18
+*** TURN *** [As Ad Kc] [Ah]
+lawlex_2: checks 
+Wielgosz: checks 
+*** RIVER *** [As Ad Kc Ah] [2h]
+lawlex_2: checks 
+Wielgosz: bets $1.56 and is all-in
+lawlex_2: calls $1.56
+*** SHOW DOWN ***
+Wielgosz: shows [Kh Ks] (a full house, Aces full of Kings)
+lawlex_2: shows [Tc Td] (a full house, Aces full of Tens)
+Wielgosz collected $3.97 from pot
+*** SUMMARY ***
+Total pot $4.11 | Rake $0.14 
+Board [As Ad Kc Ah 2h]
+Seat 1: Aleks_Kor_36 (small blind) folded before Flop
+Seat 2: jotomayr (big blind) folded before Flop
+Seat 3: YMSYMS folded before Flop
+Seat 4: kurenov folded before Flop
+Seat 5: lawlex_2 showed [Tc Td] and lost with a full house, Aces full of Tens
+Seat 6: Wielgosz (button) showed [Kh Ks] and won ($3.97) with a full house, Aces full of Kings
+
+
+
+PokerStars Hand #213550425917:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/09 11:18:56 MSK [2020/05/09 4:18:56 ET]
+Table 'Menkab II' 6-max Seat #1 is the button
+Seat 1: Aleks_Kor_36 ($1.88 in chips) 
+Seat 2: jotomayr ($1.46 in chips) 
+Seat 3: YMSYMS ($1.39 in chips) 
+Seat 4: kurenov ($0.72 in chips) 
+Seat 5: lawlex_2 ($0.07 in chips) 
+Seat 6: Wielgosz ($3.97 in chips) 
+jotomayr: posts small blind $0.01
+YMSYMS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4s 6h]
+kurenov: raises $0.02 to $0.04
+lawlex_2: raises $0.03 to $0.07 and is all-in
+Wielgosz: folds 
+Aleks_Kor_36: folds 
+jotomayr: folds 
+YMSYMS: folds 
+kurenov: calls $0.03
+*** FLOP *** [2d 5d 4h]
+*** TURN *** [2d 5d 4h] [Js]
+*** RIVER *** [2d 5d 4h Js] [Kh]
+*** SHOW DOWN ***
+kurenov: shows [Kc Td] (a pair of Kings)
+lawlex_2: shows [4s 6h] (a pair of Fours)
+kurenov collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2d 5d 4h Js Kh]
+Seat 1: Aleks_Kor_36 (button) folded before Flop (didn't bet)
+Seat 2: jotomayr (small blind) folded before Flop
+Seat 3: YMSYMS (big blind) folded before Flop
+Seat 4: kurenov showed [Kc Td] and won ($0.16) with a pair of Kings
+Seat 5: lawlex_2 showed [4s 6h] and lost with a pair of Fours
+Seat 6: Wielgosz folded before Flop (didn't bet)
+
+
+

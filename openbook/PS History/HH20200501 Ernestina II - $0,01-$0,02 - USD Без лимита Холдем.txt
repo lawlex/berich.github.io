@@ -1,0 +1,216 @@
+﻿PokerStars Hand #213056327134:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 13:56:49 MSK [2020/05/01 6:56:49 ET]
+Table 'Ernestina II' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2 in chips) 
+Seat 2: chrapos ($2.05 in chips) 
+Seat 3: kennyolo666 ($6.48 in chips) 
+Seat 6: 912503704 ($3.09 in chips) 
+912503704: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [3c 5h]
+chrapos: folds 
+kennyolo666: folds 
+912503704: raises $0.02 to $0.04
+lawlex_2: calls $0.02
+*** FLOP *** [Ts 7c 6c]
+912503704: checks 
+lawlex_2: bets $0.05
+912503704: folds 
+Uncalled bet ($0.05) returned to lawlex_2
+lawlex_2 collected $0.08 from pot
+lawlex_2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ts 7c 6c]
+Seat 1: lawlex_2 (big blind) collected ($0.08)
+Seat 2: chrapos folded before Flop (didn't bet)
+Seat 3: kennyolo666 (button) folded before Flop (didn't bet)
+Seat 6: 912503704 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #213056342398:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 13:57:19 MSK [2020/05/01 6:57:19 ET]
+Table 'Ernestina II' 6-max Seat #6 is the button
+Seat 1: lawlex_2 ($2.04 in chips) 
+Seat 2: chrapos ($2.05 in chips) 
+Seat 3: kennyolo666 ($6.48 in chips) 
+Seat 6: 912503704 ($3.05 in chips) 
+Mattee1977 joins the table at seat #4 
+lawlex_2: posts small blind $0.01
+chrapos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Jd Ts]
+kennyolo666: calls $0.02
+912503704: folds 
+lawlex_2: raises $0.04 to $0.06
+chrapos: folds 
+kennyolo666: folds 
+Uncalled bet ($0.04) returned to lawlex_2
+lawlex_2 collected $0.06 from pot
+lawlex_2: doesn't show hand 
+tueva161rus joins the table at seat #5 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: lawlex_2 (small blind) collected ($0.06)
+Seat 2: chrapos (big blind) folded before Flop
+Seat 3: kennyolo666 folded before Flop
+Seat 6: 912503704 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213056351820:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 13:57:37 MSK [2020/05/01 6:57:37 ET]
+Table 'Ernestina II' 6-max Seat #1 is the button
+Seat 1: lawlex_2 ($2.08 in chips) 
+Seat 2: chrapos ($2.03 in chips) 
+Seat 3: kennyolo666 ($6.46 in chips) 
+Seat 6: 912503704 ($3.05 in chips) 
+chrapos: posts small blind $0.01
+kennyolo666: posts big blind $0.02
+Mattee1977: sits out 
+tueva161rus: sits out 
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 4d]
+912503704: folds 
+lawlex_2: folds 
+chrapos: folds 
+Uncalled bet ($0.01) returned to kennyolo666
+kennyolo666 collected $0.02 from pot
+kennyolo666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lawlex_2 (button) folded before Flop (didn't bet)
+Seat 2: chrapos (small blind) folded before Flop
+Seat 3: kennyolo666 (big blind) collected ($0.02)
+Seat 6: 912503704 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213056356124:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 13:57:45 MSK [2020/05/01 6:57:45 ET]
+Table 'Ernestina II' 6-max Seat #2 is the button
+Seat 1: lawlex_2 ($2.08 in chips) 
+Seat 2: chrapos ($2.02 in chips) 
+Seat 3: kennyolo666 ($6.47 in chips) 
+Seat 4: Mattee1977 ($2 in chips) 
+Seat 5: tueva161rus ($0.80 in chips) 
+Seat 6: 912503704 ($3.05 in chips) 
+kennyolo666: posts small blind $0.01
+Mattee1977: posts big blind $0.02
+tueva161rus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [4h Ts]
+tueva161rus: checks 
+912503704 has timed out
+912503704: folds 
+lawlex_2: folds 
+chrapos: folds 
+kennyolo666: folds 
+Mattee1977: raises $0.02 to $0.04
+tueva161rus: calls $0.02
+*** FLOP *** [8c 8h Kc]
+Mattee1977: bets $0.02
+tueva161rus: calls $0.02
+*** TURN *** [8c 8h Kc] [Jd]
+Mattee1977: bets $0.02
+tueva161rus: calls $0.02
+*** RIVER *** [8c 8h Kc Jd] [9s]
+Mattee1977: bets $0.28
+tueva161rus: calls $0.28
+*** SHOW DOWN ***
+Mattee1977: shows [Qd Js] (two pair, Jacks and Eights)
+tueva161rus: mucks hand 
+Mattee1977 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [8c 8h Kc Jd 9s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: chrapos (button) folded before Flop (didn't bet)
+Seat 3: kennyolo666 (small blind) folded before Flop
+Seat 4: Mattee1977 (big blind) showed [Qd Js] and won ($0.70) with two pair, Jacks and Eights
+Seat 5: tueva161rus mucked [6d 6h]
+Seat 6: 912503704 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #213056376626:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 13:58:25 MSK [2020/05/01 6:58:25 ET]
+Table 'Ernestina II' 6-max Seat #3 is the button
+Seat 1: lawlex_2 ($2.08 in chips) 
+Seat 2: chrapos ($2.02 in chips) 
+Seat 3: kennyolo666 ($6.46 in chips) 
+Seat 4: Mattee1977 ($2.34 in chips) 
+Seat 5: tueva161rus ($0.44 in chips) 
+Mattee1977: posts small blind $0.01
+tueva161rus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Js 4c]
+lawlex_2: folds 
+chrapos: folds 
+kennyolo666: folds 
+Mattee1977: calls $0.01
+tueva161rus: checks 
+*** FLOP *** [4s Kc Td]
+Mattee1977: bets $0.02
+tueva161rus: calls $0.02
+*** TURN *** [4s Kc Td] [Jh]
+Mattee1977: bets $0.03
+tueva161rus: calls $0.03
+*** RIVER *** [4s Kc Td Jh] [5s]
+912503704 leaves the table
+Mattee1977: bets $0.47
+tueva161rus: folds 
+Uncalled bet ($0.47) returned to Mattee1977
+Mattee1977 collected $0.14 from pot
+Mattee1977: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4s Kc Td Jh 5s]
+Seat 1: lawlex_2 folded before Flop (didn't bet)
+Seat 2: chrapos folded before Flop (didn't bet)
+Seat 3: kennyolo666 (button) folded before Flop (didn't bet)
+Seat 4: Mattee1977 (small blind) collected ($0.14)
+Seat 5: tueva161rus (big blind) folded on the River
+
+
+
+PokerStars Hand #213056398121:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/05/01 13:59:07 MSK [2020/05/01 6:59:07 ET]
+Table 'Ernestina II' 6-max Seat #4 is the button
+Seat 1: lawlex_2 ($2.08 in chips) 
+Seat 2: chrapos ($2.02 in chips) 
+Seat 3: kennyolo666 ($6.46 in chips) 
+Seat 4: Mattee1977 ($2.41 in chips) 
+Seat 5: tueva161rus ($0.37 in chips) 
+tueva161rus: posts small blind $0.01
+lawlex_2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to lawlex_2 [Qs Jd]
+chrapos: folds 
+kennyolo666: folds 
+Mattee1977: raises $0.02 to $0.04
+tueva161rus: calls $0.03
+lawlex_2: calls $0.02
+*** FLOP *** [5d 4d Th]
+tueva161rus: checks 
+mzsolt21 joins the table at seat #6 
+lawlex_2: bets $0.08
+Mattee1977: calls $0.08
+tueva161rus: folds 
+*** TURN *** [5d 4d Th] [Jh]
+lawlex_2: bets $0.18
+Mattee1977: calls $0.18
+*** RIVER *** [5d 4d Th Jh] [6d]
+lawlex_2: checks 
+Mattee1977: bets $1.93
+lawlex_2: folds 
+Uncalled bet ($1.93) returned to Mattee1977
+Mattee1977 collected $0.62 from pot
+Mattee1977: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [5d 4d Th Jh 6d]
+Seat 1: lawlex_2 (big blind) folded on the River
+Seat 2: chrapos folded before Flop (didn't bet)
+Seat 3: kennyolo666 folded before Flop (didn't bet)
+Seat 4: Mattee1977 (button) collected ($0.62)
+Seat 5: tueva161rus (small blind) folded on the Flop
+
+
+
