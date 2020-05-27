@@ -857,7 +857,24 @@ $(document).ready(function() {
                 fr = new FileReader();
                 fr.onload = function() {
                     var lines = fr.result.split("\n");
-                    $('#file-content').append($('<div/>').html(lines[0]));
+                    var numLines = lines.length;
+                    var hands = [];
+                    var hand = [];
+                    var i = 0;
+                    do {
+                        if (lines[i].indexOf('Hand #') >= 0) {
+                            $('#file-content').append($('<div/>').html('<strong>' + lines[i] + '</strong>'));
+                            if (hand.length>0) hands.push(hand);
+                            hand = [];
+                            hand.push(lines[i]);
+                        } else {
+                            $('#file-content').append($('<div/>').html(lines[i]));
+                            hand.push(lines[i]);
+                        }
+                        i++;
+                    }
+                    while (i != numLines);
+
                 };
                 fr.readAsText(file);
 
