@@ -847,6 +847,8 @@ $(document).ready(function() {
     (function($) {
         // Add click event handler to button
         $('#load-file').click(function() {
+            var hands = [];
+            var hand = [];
             if (!window.FileReader) {
                 return alert('FileReader API is not supported by your browser.');
             }
@@ -858,23 +860,329 @@ $(document).ready(function() {
                 fr.onload = function() {
                     var lines = fr.result.split("\n");
                     var numLines = lines.length;
-                    var hands = [];
-                    var hand = [];
+
                     var i = 0;
                     do {
                         if (lines[i].indexOf('Hand #') >= 0) {
-                            $('#file-content').append($('<div/>').html('<strong>' + lines[i] + '</strong>'));
-                            if (hand.length>0) hands.push(hand);
+                            if (hand.length > 0) hands.push(hand);
                             hand = [];
                             hand.push(lines[i]);
-                        } else {
-                            $('#file-content').append($('<div/>').html(lines[i]));
+                        } else if (lines[i].length != 0) {
                             hand.push(lines[i]);
                         }
                         i++;
                     }
                     while (i != numLines);
+                    $.each(hands, function(i2, hand) {
+                        var jHand = {};
+                        var isBlinds = false;
+                        var isPreflop = false;
+                        var isFlop = false;
+                        var isTurn = false;
+                        var isRiver = false;
+                        var isShowDown = false;
+                        var isSummary = false;
+                        var players = {};
+                        var blinds = {};
 
+                        $.each(hand, function(i3, line) {
+
+
+                            if (line.indexOf('Hand #') >= 0) {
+                                // section
+                                isBlinds = true;
+                                isPreflop = false;
+                                isFlop = false;
+                                isTurn = false;
+                                isRiver = false;
+                                isShowDown = false;
+                                isSummary = false;
+                                blinds = {}; // sets blinds to null
+                                players = {}; // sets players to null
+
+                                // parsing 1st line
+                                var len = line.length;
+                                var div1 = line.indexOf(':');
+                                var div2 = line.indexOf('-');
+                                var title = line.substring(0, div1).trim();
+                                var gametype = line.substring(div1 + 1, div2).trim();
+                                var timestamp = line.slice(div2 + 1).trim();
+
+                                //"2020/04/30 5:16:54 MSK [2020/04/29 22:16:54 ET]"
+
+                                var timestring = timestamp.substring(0, timestamp.indexOf(' ', timestamp.indexOf(' ')));
+                                var time = Date.parse(timestring);
+                                jHand['title'] = title;
+                                jHand['type'] = gametype;
+                                jHand['timestamp'] = timestamp;
+                                jHand['time'] = new Date(time);
+                                $('#file-content').append($('<div/>').html('<span class="text-primary font-weight-bold">' + title + '</span>' + ' <span class="text-primary">' + gametype + '</span>' + ' <span>' + jHand['time'].toDateString() + '</span>'));
+                            } else if (line.indexOf('*** HOLE CARDS ***') >= 0) {
+                                // section
+                                isBlinds = false;
+                                isPreflop = true;
+                                isFlop = false;
+                                isTurn = false;
+                                isRiver = false;
+                                isShowDown = false;
+                                isSummary = false;
+                                $('#file-content').append($('<div/>').html('<span class="font-weight-bold"> PREFLOP </span>'));
+                            } else if (line.indexOf('*** FLOP ***') >= 0) {
+                                // section
+                                isBlinds = false;
+                                isPreflop = false;
+                                isFlop = true;
+                                isTurn = false;
+                                isRiver = false;
+                                isShowDown = false;
+                                isSummary = false;
+
+                                var br1 = line.indexOf('[');
+                                var br2 = line.indexOf(']');
+                                var str = line.substring(br1 + 1, br2);
+                                var arr = str.split(' ');
+
+                                $('#file-content').append($('<div/>').html('<span class="font-weight-bold"> FLOP: </span> <span class="font-weight-bold text-success">' + str + '</span>'));
+                            } else if (line.indexOf('*** TURN ***') >= 0) {
+                                // section
+                                isBlinds = false;
+                                isPreflop = false;
+                                isFlop = false;
+                                isTurn = true;
+                                isRiver = false;
+                                isShowDown = false;
+                                isSummary = false;
+
+                                var br1 = line.indexOf('[');
+                                var br2 = line.indexOf(']');
+                                var br3 = line.indexOf('[', br2 + 1);
+                                var br4 = line.indexOf(']', br2 + 1);
+                                var str = line.substring(br1 + 1, br2);
+                                var str2 = line.substring(br3 + 1, br4);
+                                var arr = str.split(' ');
+                                arr.push(str2);
+
+                                $('#file-content').append($('<div/>').html('<span class="font-weight-bold"> TURN: </span> <span class="font-weight-bold text-success">' + str + ' ' + str2 + '</span>'));
+                            } else if (line.indexOf('*** RIVER ***') >= 0) {
+                                // section
+                                isBlinds = false;
+                                isPreflop = false;
+                                isFlop = false;
+                                isTurn = false;
+                                isRiver = true;
+                                isShowDown = false;
+                                isSummary = false;
+                                var br1 = line.indexOf('[');
+                                var br2 = line.indexOf(']');
+                                var br3 = line.indexOf('[', br2 + 1);
+                                var br4 = line.indexOf(']', br2 + 1);
+                                var str = line.substring(br1 + 1, br2);
+                                var str2 = line.substring(br3 + 1, br4);
+                                var arr = str.split(' ');
+                                arr.push(str2);
+
+                                $('#file-content').append($('<div/>').html('<span class="font-weight-bold"> RIVER: </span> <span class="font-weight-bold text-success">' + str + ' ' + str2 + '</span>'));
+                            } else if (line.indexOf('*** SHOW DOWN ***') >= 0) {
+                                // section
+                                isBlinds = false;
+                                isPreflop = false;
+                                isFlop = false;
+                                isTurn = false;
+                                isRiver = false;
+                                isShowDown = true;
+                                isSummary = false;
+                                $('#file-content').append($('<div/>').html('<span class="font-weight-bold"> SHOWDOWN </span>'));
+                            } else if (line.indexOf('*** SUMMARY ***') >= 0) {
+                                // section
+                                isBlinds = false;
+                                isPreflop = false;
+                                isFlop = false;
+                                isTurn = false;
+                                isRiver = false;
+                                isShowDown = false;
+                                isSummary = true;
+                                $('#file-content').append($('<div/>').html('<span class="font-weight-bold"> SUMMARY </span>'));
+                            } else {
+                                if (line.indexOf('Table') >= 0) {
+                                    // parsing 2nd line
+                                    // Table 'Aconcagua' 6-max Seat #6 is the button
+                                    var div1 = line.indexOf(' ');
+                                    var div2 = line.indexOf('\'');
+                                    var div3 = line.indexOf('\'', line.indexOf('\''));
+                                    var div4 = line.indexOf('(');
+                                    var div5 = line.indexOf(')');
+                                    var div6 = line.indexOf('Seat #');
+                                    var div7 = line.indexOf(' ', line.indexOf('Seat #') + 6);
+                                    jHand['table'] = line.substring(div1, div6).trim();
+                                    jHand['moneytype'] = line.substring(div4 + 1, div5);
+                                    jHand['button'] = line.substring(div6 + 6, div7);
+                                    $('#file-content').append($('<div/>').html('Table ' + jHand['table'] + ' ' + ' Seat №' + jHand['button'] + ' is the button'));
+                                } else if (line.indexOf('Seat ') >= 0 && line.indexOf(':') >= 0 && isBlinds) {
+                                    // Seats
+                                    var div1 = line.indexOf(' ');
+                                    var div2 = line.indexOf(':');
+                                    var br1 = line.indexOf('(');
+                                    var br2 = line.indexOf(')');
+                                    var div3 = line.indexOf('in', br1 + 1);
+                                    var seatNum = line.substring(div1 + 1, div2).trim();
+                                    var nickname = line.substring(div2 + 2, br1).trim();
+                                    var stack = line.substring(br1 + 1, div3).trim();
+
+                                    $('#file-content').append($('<div/>').html('Seat №' + seatNum + ': ' + nickname + ', stack: ' + stack + ''));
+                                } else if (line.indexOf('posts') >= 0 && line.indexOf(':') >= 0 && isBlinds) {
+                                    // Blinds
+                                    var div1 = line.indexOf(':');
+                                    var div2 = line.indexOf('posts');
+                                    var div3 = line.indexOf('blind');
+                                    var nickname = line.substring(0, div1).trim();
+                                    var type = line.substring(div2 + 6, div3).trim();
+                                    var sum = line.slice(line.indexOf(' ', div3 + 5)).trim();
+                                    var blind = { type: type, sum: sum };
+                                    blinds['nickname'] = blind;
+                                    $('#file-content').append($('<div/>').html(nickname + ': <span class="font-weight-bold">' + type + '</span> - ' + sum + ''));
+                                } else if (line.indexOf('sit') >= 0 && line.indexOf('out') >= 0 && isBlinds) {
+                                    // sit out
+                                    $('#file-content').append($('<div/>').html('<span class="text-secondary font-weight-lighter">' + line + '</span>'));
+                                } else if (line.indexOf('Dealt to') >= 0 && isPreflop) {
+                                    // dealt to
+                                    var div1 = line.indexOf(' ', 7);
+                                    var div2 = line.indexOf(' ', div1 + 1);
+                                    var br1 = line.indexOf('[');
+                                    var br2 = line.indexOf(']');
+                                    var nickname = line.substring(div1, div2);
+                                    var cards = line.substring(br1 + 1, br2);
+                                    jHand['cars'] = cards.split();
+
+                                    $('#file-content').append($('<div/>').html('<span class="">' + nickname + ' takes </span><span class="text-danger font-weight-bold">' + cards + '</span>'));
+                                } else if (line.indexOf(':') >= 0 && isPreflop) {
+                                    // actions
+                                    var div = line.indexOf(':');
+                                    var nickname = line.substring(0, div);
+                                    var action = line.slice(div + 1);
+                                    var isfolded = false;
+                                    var ischecked = false;
+                                    var iscalled = false;
+                                    var israised = false;
+                                    if (line.indexOf('folds') >= 0) {
+                                        isfolded = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('checks') >= 0) {
+                                        ischecked = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('calls') >= 0) {
+                                        iscalled = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('raises') >= 0) {
+                                        israised = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('doesn\'t show hand') >= 0) {
+                                        // doesn't show
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else {
+                                        $('#file-content').append($('<div/>').html('<span class="bg-warning">' + line + '</span>'));
+                                    }
+                                } else if (line.indexOf('Uncalled') >= 0 && isPreflop) {
+                                    // Uncalled
+                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
+                                } else if (line.indexOf('collected') >= 0 && isPreflop) {
+                                    // collected
+                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
+                                } else if (line.indexOf('joins') >= 0 && isPreflop) {
+                                    // joined
+                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
+                                } else if (line.indexOf(':') >= 0 && isFlop) {
+                                    // flop actions
+                                    var div = line.indexOf(':');
+                                    var nickname = line.substring(0, div);
+                                    var action = line.slice(div + 1);
+                                    var isfolded = false;
+                                    var ischecked = false;
+                                    var iscalled = false;
+                                    var isbetted = false;
+                                    var israised = false;
+                                    if (line.indexOf('folds') >= 0) {
+                                        isfolded = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('checks') >= 0) {
+                                        ischecked = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('calls') >= 0) {
+                                        iscalled = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('bets') >= 0) {
+                                        isbetted = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('raises') >= 0) {
+                                        israised = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('doesn\'t show hand') >= 0) {
+                                        // doesn't show
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else {
+                                        $('#file-content').append($('<div/>').html('<span class="bg-warning">' + line + '</span>'));
+                                    }
+                                } else if (line.indexOf('Uncalled') >= 0 && isFlop) {
+                                    // Uncalled
+                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
+                                } else if (line.indexOf('collected') >= 0 && isFlop) {
+                                    // collected
+                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
+                                } else if (line.indexOf('joins') >= 0 && isFlop) {
+                                    // joined
+                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
+
+
+                                } else if (line.indexOf(':') >= 0 && isTurn) {
+                                    // turn actions
+                                    var div = line.indexOf(':');
+                                    var nickname = line.substring(0, div);
+                                    var action = line.slice(div + 1);
+                                    var isfolded = false;
+                                    var ischecked = false;
+                                    var iscalled = false;
+                                    var isbetted = false;
+                                    var israised = false;
+                                    if (line.indexOf('folds') >= 0) {
+                                        isfolded = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('checks') >= 0) {
+                                        ischecked = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('calls') >= 0) {
+                                        iscalled = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('bets') >= 0) {
+                                        isbetted = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('raises') >= 0) {
+                                        israised = true;
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else if (line.indexOf('doesn\'t show hand') >= 0) {
+                                        // doesn't show
+                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                    } else {
+                                        $('#file-content').append($('<div/>').html('<span class="bg-warning">' + line + '</span>'));
+                                    }
+                                } else if (line.indexOf('Uncalled') >= 0 && isTurn) {
+                                    // Uncalled
+                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
+                                } else if (line.indexOf('collected') >= 0 && isTurn) {
+                                    // collected
+                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
+                                } else if (line.indexOf('joins') >= 0 && isTurn) {
+                                    // joined
+                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
+
+
+
+                                } else {
+                                    $('#file-content').append($('<div/>').html('<span class="bg-warning">' + line + '</span>'));
+                                }
+
+                            }
+                        });
+                    });
+                    console.log('end of file');
                 };
                 fr.readAsText(file);
 
