@@ -377,44 +377,87 @@ $(document).ready(function() {
         return _htmlboard;
     };
 
-    // create hand
-    function createhand(_wrapper_id, _container_id, _label, _cls = '') {
+    // create html button
+    function createhtmlbutton(_cls, _container_id, _label) {
+        var btn = $('<button/>', {
+            'class': 'btn btn-dark cardsoptions' + ' ' + _cls,
+            id: 'lbl' + _container_id,
+            click: function() {
+                if (checkedbtn == _label) {
+                    $(this).removeClass('checkedbtn');
+                    checkedbtn = '';
+                    checkedbtnid = '';
+                } else {
+                    checkedbtn = _label;
+                    checkedbtnid = 'btn' + _container_id;
+                    $('.cardsoptions').removeClass('checkedbtn');
+                    $(this).addClass('checkedbtn');
+                }
+            },
+            css: { width: '80px' },
+            text: _label
+        });
+        return btn;
+    }
+
+    // create cards
+    function createcards(_wrapper_id, _container_id) {
+
         $('#' + _wrapper_id).append($('<div/>', {
-            'class': 'input-group mb-1',
+            'class': '',
             append: $('<div/>', {
                 id: _container_id,
-                'class': 'input-group-prepend',
-                css: { margin: '0 auto', 'max-width': '500px' },
+                'class': '',
             }),
         }));
-        $('<div>', {
-            'class': 'input-group-text',
-            append: $('<div/>', {
-                id: 'btn' + _container_id,
-                'class': 'btn-group',
-                append: $('<button/>', {
-                    'class': 'btn btn-dark cardsoptions' + ' ' + _cls,
-                    id: 'lbl' + _container_id,
-                    click: function() {
-                        if (checkedbtn == _label) {
-                            $(this).removeClass('checkedbtn');
-                            checkedbtn = '';
-                            checkedbtnid = '';
-                        } else {
-                            checkedbtn = _label;
-                            checkedbtnid = 'btn' + _container_id;
-                            $('.cardsoptions').removeClass('checkedbtn');
-                            $(this).addClass('checkedbtn');
-                        }
-                    },
-                    css: { width: '80px' },
-                    text: _label
-                }),
-            }),
-        }).appendTo('#' + _container_id);
+
         return $('<div/>', {
-            class: 'input-group-text',
+            class: '',
         }).appendTo('#' + _container_id);
+
+    };
+
+    // set cards
+    function setcards(_handhtml, _cards, _html_id = '') {
+
+        if (_html_id == '') {} else {
+            _handhtml.empty();
+        }
+        $.each(_cards, function(id, card) {
+            setplayingcard(_handhtml, id, card[0], card[1]);
+        });
+    };
+
+    // create hand
+    function createhand(_wrapper_id, _container_id, _label = '', _cls = '') {
+        if (_label == '') {
+            $('#' + _wrapper_id).append($('<div/>', {
+                'class': 'input-group mb-1',
+                append: $('<div/>', {
+                    id: _container_id,
+                    'class': 'input-group-prepend',
+                }),
+            }));
+            return $('<div/>', {
+                class: 'input-group-text',
+            }).appendTo('#' + _container_id);
+        } else {
+            $('#' + _wrapper_id).append($('<div/>', {
+                'class': 'input-group mb-1',
+                append: $('<div/>', {
+                    id: _container_id,
+                    'class': 'input-group-prepend',
+                    css: { margin: '0 auto', 'max-width': '500px' },
+                }),
+            }));
+            $('<div>', {
+                'class': 'input-group-text',
+                append: createhtmlbutton(_cls, _container_id, _label),
+            }).appendTo('#' + _container_id);
+            return $('<div/>', {
+                class: 'input-group-text',
+            }).appendTo('#' + _container_id);
+        }
     };
 
     // set hand
@@ -840,10 +883,12 @@ $(document).ready(function() {
 
 
     });
+
     /*
-        var myfile = $('#fileinput').prop('files');
-        console.log(myfile);
-    */
+     *
+     * LOAD HAND HISTORY FILE
+     * 
+     */
     (function($) {
         // Add click event handler to button
         $('#load-file').click(function() {
@@ -873,6 +918,7 @@ $(document).ready(function() {
                         i++;
                     }
                     while (i != numLines);
+
                     $.each(hands, function(i2, hand) {
                         var jHand = {};
                         var isBlinds = false;
@@ -940,9 +986,18 @@ $(document).ready(function() {
                                 var br1 = line.indexOf('[');
                                 var br2 = line.indexOf(']');
                                 var str = line.substring(br1 + 1, br2);
+
                                 var arr = str.split(' ');
+                                jHand['flopcards'] = arr;
 
                                 $('#file-content').append($('<div/>').html('<span class="font-weight-bold"> FLOP: </span> <span class="font-weight-bold text-success">' + str + '</span>'));
+
+                                $('#file-content').append($('<div/>', { id: 'flopcardswrapper' + i2 }));
+                                var flopcards = { flopcard1: jHand['flopcards'][0], flopcard2: jHand['flopcards'][1], flopcard3: jHand['flopcards'][2] };
+                                var cardshtml = createcards('flopcardswrapper' + i2, 'flopcards' + i2);
+                                setcards(cardshtml, flopcards);
+
+
                             } else if (line.indexOf('*** TURN ***') >= 0) {
                                 // section
                                 isBlinds = false;
@@ -960,9 +1015,16 @@ $(document).ready(function() {
                                 var str = line.substring(br1 + 1, br2);
                                 var str2 = line.substring(br3 + 1, br4);
                                 var arr = str.split(' ');
+                                jHand['turncard'] = str2;
                                 arr.push(str2);
 
                                 $('#file-content').append($('<div/>').html('<span class="font-weight-bold"> TURN: </span> <span class="font-weight-bold text-success">' + str + ' ' + str2 + '</span>'));
+
+                                $('#file-content').append($('<div/>', { id: 'turncardswrapper' + i2 }));
+                                var turncards = { turncard1: jHand['flopcards'][0], turncard2: jHand['flopcards'][1], turncard3: jHand['flopcards'][2], turncard4: jHand['turncard'] };
+                                var cardshtml = createcards('turncardswrapper' + i2, 'turncards' + i2);
+                                setcards(cardshtml, turncards);
+
                             } else if (line.indexOf('*** RIVER ***') >= 0) {
                                 // section
                                 isBlinds = false;
@@ -979,9 +1041,16 @@ $(document).ready(function() {
                                 var str = line.substring(br1 + 1, br2);
                                 var str2 = line.substring(br3 + 1, br4);
                                 var arr = str.split(' ');
+                                jHand['rivercard'] = str2;
                                 arr.push(str2);
 
                                 $('#file-content').append($('<div/>').html('<span class="font-weight-bold"> RIVER: </span> <span class="font-weight-bold text-success">' + str + ' ' + str2 + '</span>'));
+
+
+                                $('#file-content').append($('<div/>', { id: 'rivercardswrapper' + i2 }));
+                                var rivercards = { rivercard1: jHand['flopcards'][0], rivercard2: jHand['flopcards'][1], rivercard3: jHand['flopcards'][2], rivercard4: jHand['turncard'], rivercard5: jHand['rivercard'] };
+                                var cardshtml = createcards('rivercardswrapper' + i2, 'rivercards' + i2);
+                                setcards(cardshtml, rivercards);
                             } else if (line.indexOf('*** SHOW DOWN ***') >= 0) {
                                 // section
                                 isBlinds = false;
@@ -1043,140 +1112,455 @@ $(document).ready(function() {
                                 } else if (line.indexOf('sit') >= 0 && line.indexOf('out') >= 0 && isBlinds) {
                                     // sit out
                                     $('#file-content').append($('<div/>').html('<span class="text-secondary font-weight-lighter">' + line + '</span>'));
-                                } else if (line.indexOf('Dealt to') >= 0 && isPreflop) {
-                                    // dealt to
-                                    var div1 = line.indexOf(' ', 7);
-                                    var div2 = line.indexOf(' ', div1 + 1);
-                                    var br1 = line.indexOf('[');
-                                    var br2 = line.indexOf(']');
-                                    var nickname = line.substring(div1, div2);
-                                    var cards = line.substring(br1 + 1, br2);
-                                    jHand['cars'] = cards.split();
 
-                                    $('#file-content').append($('<div/>').html('<span class="">' + nickname + ' takes </span><span class="text-danger font-weight-bold">' + cards + '</span>'));
-                                } else if (line.indexOf(':') >= 0 && isPreflop) {
+                                    /* 
+                                     * SECTIONS PREFLOP, FLOP, TURN, RIVER, SHOWDOWN SUMMARY
+                                     *
+                                     */
+                                } else if (line.indexOf('Dealt to') >= 0) {
+
+                                    if (isPreflop) {
+                                        // dealt to
+                                        var div1 = line.indexOf(' ', 7);
+                                        var div2 = line.indexOf(' ', div1 + 1);
+                                        var br1 = line.indexOf('[');
+                                        var br2 = line.indexOf(']');
+                                        var nickname = line.substring(div1, div2);
+                                        var cards = line.substring(br1 + 1, br2);
+                                        jHand['cards'] = cards.split(' ');
+                                        var _dev_cls = '';
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ' takes </span><span class="text-danger font-weight-bold">' + cards + '</span>'));
+                                        $('#file-content').append($('<div/>', { id: 'preflopcardswrapper' + i2 }));
+                                        var handcards = { handcard1: jHand['cards'][0], handcard2: jHand['cards'][1] };
+                                        var cardshtml = createcards('preflopcardswrapper' + i2, 'handcards' + i2);
+                                        setcards(cardshtml, handcards);
+                                    }
+                                    // end dealt to
+                                } else if (line.indexOf(':') >= 0) {
                                     // actions
-                                    var div = line.indexOf(':');
-                                    var nickname = line.substring(0, div);
-                                    var action = line.slice(div + 1);
-                                    var isfolded = false;
-                                    var ischecked = false;
-                                    var iscalled = false;
-                                    var israised = false;
-                                    if (line.indexOf('folds') >= 0) {
-                                        isfolded = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('checks') >= 0) {
-                                        ischecked = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('calls') >= 0) {
-                                        iscalled = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('raises') >= 0) {
-                                        israised = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('doesn\'t show hand') >= 0) {
-                                        // doesn't show
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else {
-                                        $('#file-content').append($('<div/>').html('<span class="bg-warning">' + line + '</span>'));
+                                    if (isPreflop) {
+                                        var div = line.indexOf(':');
+                                        var nickname = line.substring(0, div);
+                                        var action = line.slice(div + 1);
+                                        var isfolded = false;
+                                        var ischecked = false;
+                                        var iscalled = false;
+                                        var israised = false;
+                                        var _dev_cls = 'bg-info';
+                                        if (line.indexOf('folds') >= 0) {
+                                            isfolded = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('checks') >= 0) {
+                                            ischecked = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('calls') >= 0) {
+                                            iscalled = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('raises') >= 0) {
+                                            israised = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('doesn\'t show hand') >= 0) {
+                                            // doesn't show
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else {
+                                            $('#file-content').append($('<div/>').html('<span class="bg-warning"> needs to prepare -' + line + '</span>'));
+                                        }
                                     }
-                                } else if (line.indexOf('Uncalled') >= 0 && isPreflop) {
-                                    // Uncalled
-                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
-                                } else if (line.indexOf('collected') >= 0 && isPreflop) {
-                                    // collected
-                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
-                                } else if (line.indexOf('joins') >= 0 && isPreflop) {
-                                    // joined
-                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
-                                } else if (line.indexOf(':') >= 0 && isFlop) {
-                                    // flop actions
-                                    var div = line.indexOf(':');
-                                    var nickname = line.substring(0, div);
-                                    var action = line.slice(div + 1);
-                                    var isfolded = false;
-                                    var ischecked = false;
-                                    var iscalled = false;
-                                    var isbetted = false;
-                                    var israised = false;
-                                    if (line.indexOf('folds') >= 0) {
-                                        isfolded = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('checks') >= 0) {
-                                        ischecked = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('calls') >= 0) {
-                                        iscalled = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('bets') >= 0) {
-                                        isbetted = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('raises') >= 0) {
-                                        israised = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('doesn\'t show hand') >= 0) {
-                                        // doesn't show
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else {
-                                        $('#file-content').append($('<div/>').html('<span class="bg-warning">' + line + '</span>'));
+
+                                    if (isFlop) {
+                                        var div = line.indexOf(':');
+                                        var nickname = line.substring(0, div);
+                                        var action = line.slice(div + 1);
+                                        var isfolded = false;
+                                        var ischecked = false;
+                                        var iscalled = false;
+                                        var isbetted = false;
+                                        var israised = false;
+                                        var _dev_cls = 'bg-info';
+                                        if (line.indexOf('folds') >= 0) {
+                                            isfolded = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('checks') >= 0) {
+                                            ischecked = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('calls') >= 0) {
+                                            iscalled = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('bets') >= 0) {
+                                            isbetted = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('raises') >= 0) {
+                                            israised = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('doesn\'t show hand') >= 0) {
+                                            // doesn't show
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else {
+                                            $('#file-content').append($('<div/>').html('<span class="bg-warning"> needs to prepare -' + line + '</span>'));
+                                        }
                                     }
-                                } else if (line.indexOf('Uncalled') >= 0 && isFlop) {
-                                    // Uncalled
-                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
-                                } else if (line.indexOf('collected') >= 0 && isFlop) {
-                                    // collected
-                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
-                                } else if (line.indexOf('joins') >= 0 && isFlop) {
-                                    // joined
-                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
 
-
-                                } else if (line.indexOf(':') >= 0 && isTurn) {
-                                    // turn actions
-                                    var div = line.indexOf(':');
-                                    var nickname = line.substring(0, div);
-                                    var action = line.slice(div + 1);
-                                    var isfolded = false;
-                                    var ischecked = false;
-                                    var iscalled = false;
-                                    var isbetted = false;
-                                    var israised = false;
-                                    if (line.indexOf('folds') >= 0) {
-                                        isfolded = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('checks') >= 0) {
-                                        ischecked = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('calls') >= 0) {
-                                        iscalled = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('bets') >= 0) {
-                                        isbetted = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('raises') >= 0) {
-                                        israised = true;
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else if (line.indexOf('doesn\'t show hand') >= 0) {
-                                        // doesn't show
-                                        $('#file-content').append($('<div/>').html('<span>' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
-                                    } else {
-                                        $('#file-content').append($('<div/>').html('<span class="bg-warning">' + line + '</span>'));
+                                    if (isTurn) {
+                                        var div = line.indexOf(':');
+                                        var nickname = line.substring(0, div);
+                                        var action = line.slice(div + 1);
+                                        var isfolded = false;
+                                        var ischecked = false;
+                                        var iscalled = false;
+                                        var isbetted = false;
+                                        var israised = false;
+                                        var _dev_cls = 'bg-info';
+                                        if (line.indexOf('folds') >= 0) {
+                                            isfolded = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('checks') >= 0) {
+                                            ischecked = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('calls') >= 0) {
+                                            iscalled = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('bets') >= 0) {
+                                            isbetted = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('raises') >= 0) {
+                                            israised = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('doesn\'t show hand') >= 0) {
+                                            // doesn't show
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else {
+                                            $('#file-content').append($('<div/>').html('<span class="bg-warning"> needs to prepare -' + line + '</span>'));
+                                        }
                                     }
-                                } else if (line.indexOf('Uncalled') >= 0 && isTurn) {
+                                    if (isRiver) {
+                                        var div = line.indexOf(':');
+                                        var nickname = line.substring(0, div);
+                                        var action = line.slice(div + 1);
+                                        var isfolded = false;
+                                        var ischecked = false;
+                                        var iscalled = false;
+                                        var isbetted = false;
+                                        var israised = false;
+                                        var _dev_cls = 'bg-info';
+                                        if (line.indexOf('folds') >= 0) {
+                                            isfolded = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('checks') >= 0) {
+                                            ischecked = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('calls') >= 0) {
+                                            iscalled = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('bets') >= 0) {
+                                            isbetted = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('raises') >= 0) {
+                                            israised = true;
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else if (line.indexOf('doesn\'t show hand') >= 0) {
+                                            // doesn't show
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' - <span>' + action + '</span>'));
+                                        } else {
+                                            $('#file-content').append($('<div/>').html('<span class="bg-warning"> needs to prepare -' + line + '</span>'));
+                                        }
+                                    }
+                                    if (isShowDown) {
+                                        var div = line.indexOf(':');
+                                        var nickname = line.substring(0, div);
+                                        var action = line.slice(div + 1);
+                                        var br1 = line.indexOf('[');
+                                        var br2 = line.indexOf(']');
+                                        var str = line.substring(br1 + 1, br2);
+                                        var arr = str.split(' ');
+                                        var br3 = line.indexOf('(');
+                                        var br4 = line.indexOf(')');
+                                        var str2 = line.substring(br3 + 1, br4);
+
+                                        var _dev_cls = 'bg-info';
+                                        if (line.indexOf('shows') >= 0) {
+
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + nickname + ': </span>' + ' <span> - ' + str + '</span>' + ' <span> (' + str2 + ')</span>'));
+
+                                            $('#file-content').append($('<div/>', { id: 'showscardswrapper' + nickname + i2 }));
+                                            var handcards = { handard1: arr[0], handcard2: arr[1] };
+                                            var cardshtml = createcards('showscardswrapper' + nickname + i2, 'handcards' + nickname + i2);
+                                            setcards(cardshtml, handcards);
+
+                                        } else {
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                        }
+
+
+                                    }
+                                    if (isSummary) {
+
+                                        var place = '';
+                                        if (line.indexOf('(button)') >= 0) {
+                                            place = 'BTN';
+                                            line = line.replace('(button)', '');
+                                        }
+                                        if (line.indexOf('(big blind)') >= 0) {
+                                            place = 'BB';
+                                            line = line.replace('(big blind)', '');
+                                        }
+                                        if (line.indexOf('(small blind)') >= 0) {
+                                            place = 'SB';
+                                            line = line.replace('(small blind)', '');
+                                        }
+                                        var div = line.indexOf(':');
+                                        var sitname = line.substring(0, div);
+
+                                        var spc2 = line.indexOf(' ', div + 1);
+                                        var spc3 = line.indexOf(' ', spc2 + 1);
+                                        var nickname = line.substring(spc2, spc3);
+                                        var action = line.slice(div + 1);
+                                        var br1 = line.indexOf('[');
+                                        var br2 = line.indexOf(']');
+                                        var str = line.substring(br1 + 1, br2);
+                                        var arr = str.split(' ');
+                                        var br3 = line.indexOf('(');
+                                        var br4 = line.indexOf(')');
+                                        var str2 = line.substring(br3 + 1, br4);
+
+                                        var _dev_cls = 'bg-info';
+
+
+
+                                        if (line.indexOf('showed') >= 0) {
+                                            // Seat 6: SportageIII showed [Ah Tc] and won ($0.63) with a pair of Aces
+                                            // Seat 5: thesaltypup (big blind) showed [Ac 4c] and lost with a pair of Ace
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span> <span class="' + _dev_cls + '">' + sitname + '</span><span class="bg-success">' + place + '</span> <span class="bg-warning">' + nickname + '</span>'));
+
+                                            var _id = 'summarycardswrapper' + sitname.replace(' ', '_') + '_' + i2;
+                                            var _id2 = 'summaryhandcards' + sitname.replace(' ', '_') + '_' + i2;
+
+                                            $('#file-content').append($('<div/>', { id: _id }));
+                                            var handcards = { handcard1: arr[0], handcard2: arr[1] };
+                                            var cardshtml = createcards(_id, _id2);
+                                            setcards(cardshtml, handcards);
+                                            console.log('showed');
+                                        } else {
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                        }
+
+
+                                    }
+                                    // end actions
+                                } else if (line.indexOf('Uncalled') >= 0) {
                                     // Uncalled
-                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
-                                } else if (line.indexOf('collected') >= 0 && isTurn) {
+                                    var _dev_cls = 'bg-info';
+                                    if (isPreflop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isFlop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isTurn) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isRiver) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isShowDown) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isSummary) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+
+                                    // end Uncalled
+                                } else if (line.indexOf('collected') >= 0) {
                                     // collected
-                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
-                                } else if (line.indexOf('joins') >= 0 && isTurn) {
+                                    var _dev_cls = 'bg-info';
+                                    if (isPreflop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isFlop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isTurn) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isRiver) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isShowDown) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isSummary) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    // end collected
+                                } else if (line.indexOf('joins') >= 0) {
                                     // joined
-                                    $('#file-content').append($('<div/>').html('<span>' + line + '</span>'));
+                                    var _dev_cls = 'bg-info';
+                                    if (isPreflop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isFlop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isTurn) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isRiver) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isShowDown) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isSummary) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    // end joined
+                                } else if (line.indexOf('leaves') >= 0) {
+                                    // leaved
+                                    var _dev_cls = 'bg-info';
+                                    if (isPreflop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isFlop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isTurn) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isRiver) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isShowDown) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isSummary) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    // end leaved
+                                } else if (line.indexOf('disconnected') >= 0) {
+                                    // disconnected
+                                    var _dev_cls = 'bg-info';
+                                    if (isPreflop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isFlop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isTurn) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isRiver) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isShowDown) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isSummary) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    // end disconnected
+                                } else if (line.indexOf('timed out') >= 0) {
+                                    // timed out
+                                    var _dev_cls = 'bg-info';
+                                    if (isPreflop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isFlop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isTurn) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isRiver) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isShowDown) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    if (isSummary) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    }
+                                    // end timed out
+                                } else if (line.indexOf('Total pot') >= 0) {
+                                    // Total pot
+                                    var _dev_cls = 'bg-info';
+                                    if (isSummary) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else {
+                                        $('#file-content').append($('<div/>').html('<span class="bg-warning"> needs to prepare -' + line + '</span>'));
+                                    }
+                                    // end Total pot
+                                } else if (line.indexOf('Board') >= 0) {
+                                    // Board
+                                    var _dev_cls = 'bg-info';
+                                    if (isSummary) {
 
+                                        var br1 = line.indexOf('[');
+                                        var br2 = line.indexOf(']');
+                                        var str = line.substring(br1 + 1, br2);
+                                        var arr = str.split(' ');
 
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '"> Board - ' + str + '</span>'));
+
+                                        $('#file-content').append($('<div/>', { id: 'showdowncardswrapper' + i2 }));
+                                        var boardcards = {};
+                                        $.each(arr, function(i, card) {
+                                            boardcards['boardcard' + i + 1] = arr[i];
+                                        });
+
+                                        var cardshtml = createcards('showdowncardswrapper' + i2, 'boardcards' + i2);
+                                        setcards(cardshtml, boardcards);
+
+                                    } else {
+                                        $('#file-content').append($('<div/>').html('<span class="bg-warning"> needs to prepare -' + line + '</span>'));
+                                    }
+                                    // end Board
+                                } else if (line.indexOf('cashed out') >= 0) {
+                                    // cashed out
+                                    var _dev_cls = 'bg-info';
+                                    if (isShowDown) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else {
+                                        $('#file-content').append($('<div/>').html('<span class="bg-warning"> needs to prepare -' + line + '</span>'));
+                                    }
+                                    // end cashed out
+                                } else if (line.indexOf('said') >= 0) {
+                                    // said
+                                    var _dev_cls = 'bg-info';
+                                    if (isPreflop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else if (isFlop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else if (isTurn) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else if (isRiver) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else if (isShowDown) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else {
+                                        $('#file-content').append($('<div/>').html('<span class="bg-warning"> needs to prepare -' + line + '</span>'));
+                                    }
+                                    // end said
+                                } else if (line.indexOf('removed from the table') >= 0) {
+                                    // removed from the table
+                                    var _dev_cls = 'bg-info';
+                                    if (isPreflop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else if (isFlop) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else if (isTurn) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else if (isRiver) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else if (isShowDown) {
+                                        $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                    } else {
+                                        $('#file-content').append($('<div/>').html('<span class="bg-warning"> needs to prepare -' + line + '</span>'));
+                                    }
+                                    // end removed from the table
+                                } else if (line.length <= 3) {
+                                    // empty lines
 
                                 } else {
-                                    $('#file-content').append($('<div/>').html('<span class="bg-warning">' + line + '</span>'));
+                                    $('#file-content').append($('<div/>').html('<span class="bg-warning"> needs to prepare -' + line + '</span>'));
                                 }
 
                             }
