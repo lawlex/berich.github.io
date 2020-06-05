@@ -1340,7 +1340,7 @@ $(document).ready(function() {
                                             setcards(cardshtml, handcards);
                                             console.log('showed');
                                         } else {
-                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span>'));
+                                            $('#file-content').append($('<div/>').html('<span class="' + _dev_cls + '">' + line + '</span><span class="bg-success">' + place + '</span>'));
                                         }
 
 
