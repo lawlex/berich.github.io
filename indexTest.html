@@ -11,6 +11,7 @@
 <script>
     var result = new Date().toString();
     var appInventorInput = window.AppInventor.getWebViewString();
+	document.write( appInventorInput );
         function processJavascript() {
         if (appInventorInput.length > 0) {
             document.write( "WebView InputString received FROM app:
